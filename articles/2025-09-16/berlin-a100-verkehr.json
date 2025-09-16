@@ -1,0 +1,109 @@
+{
+    "title": "Verkehrschaos nach A100-Eröffnung in Berlin",
+    "text": [
+        {
+            "text": "Die Eröffnung des 16. Bauabschnitts der A100 hat in Berlin Verkehrsprobleme verursacht.",
+            "translated_text": "The opening of the 16th construction section of the A100 has caused traffic problems in Berlin."
+        },
+        {
+            "text": "Viele Autofahrer standen in langen Staus auf den neuen Straßen.",
+            "translated_text": "Many drivers were stuck in long traffic jams on the new roads."
+        },
+        {
+            "text": "Die Politik diskutiert jetzt über weitere Ausbaupläne der Autobahn.",
+            "translated_text": "Politicians are now discussing further expansion plans for the highway."
+        },
+        {
+            "text": "Kritiker sagen, dass mehr Straßen nicht die Lösung für Verkehrsprobleme sind.",
+            "translated_text": "Critics say that more roads are not the solution to traffic problems."
+        },
+        {
+            "text": "In Lichtenberg gibt es auch Probleme mit einer neuen Spurführung.",
+            "translated_text": "In Lichtenberg there are also problems with new lane management."
+        },
+        {
+            "text": "Die neue Regelung an der Elsenbrücke funktioniert nicht wie geplant.",
+            "translated_text": "The new regulation at the Elsenbrücke is not working as planned."
+        },
+        {
+            "text": "Ein Besuch am Montagmorgen zeigte das Gegenteil des gewünschten Effekts.",
+            "translated_text": "A visit on Monday morning showed the opposite of the desired effect."
+        },
+        {
+            "text": "Die Deutsche Bahn verteidigt gleichzeitig die Vollsperrung zwischen Berlin und Hamburg.",
+            "translated_text": "Deutsche Bahn is simultaneously defending the complete closure between Berlin and Hamburg."
+        },
+        {
+            "text": "Diese Sperrung soll neun Monate dauern und wird viel Ärger verursachen.",
+            "translated_text": "This closure is supposed to last nine months and will cause a lot of trouble."
+        },
+        {
+            "text": "Berliner Bürger fordern bessere Lösungen für den Verkehr in der Stadt.",
+            "translated_text": "Berlin citizens are demanding better solutions for traffic in the city."
+        },
+        {
+            "text": "Experten empfehlen mehr öffentliche Verkehrsmittel statt neuer Autobahnen.",
+            "translated_text": "Experts recommend more public transport instead of new highways."
+        },
+        {
+            "text": "Die Umweltauswirkungen der neuen Straßen sind ebenfalls umstritten.",
+            "translated_text": "The environmental impact of the new roads is also controversial."
+        }
+    ],
+    "key_vocab": [
+        {
+            "term": "der Bauabschnitt",
+            "translated_term": "construction section"
+        },
+        {
+            "term": "das Verkehrschaos",
+            "translated_term": "traffic chaos"
+        },
+        {
+            "term": "der Stau",
+            "translated_term": "traffic jam"
+        },
+        {
+            "term": "die Ausbaupläne",
+            "translated_term": "expansion plans"
+        },
+        {
+            "term": "die Spurführung",
+            "translated_term": "lane management"
+        },
+        {
+            "term": "die Vollsperrung",
+            "translated_term": "complete closure"
+        },
+        {
+            "term": "die öffentlichen Verkehrsmittel",
+            "translated_term": "public transport"
+        },
+        {
+            "term": "die Umweltauswirkungen",
+            "translated_term": "environmental impact"
+        },
+        {
+            "term": "umstritten",
+            "translated_term": "controversial"
+        },
+        {
+            "term": "verteidigen",
+            "translated_term": "to defend"
+        }
+    ],
+    "sources": [
+        {
+            "name": "Tagesspiegel Berlin",
+            "link_url": "https://www.tagesspiegel.de/berlin/"
+        },
+        {
+            "name": "RBB24 News",
+            "link_url": "https://www.rbbtext.de/100"
+        },
+        {
+            "name": "Berlin Live",
+            "link_url": "https://www.berlin-live.de/themen/brandenburg"
+        }
+    ]
+}

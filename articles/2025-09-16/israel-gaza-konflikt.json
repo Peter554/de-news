@@ -1,0 +1,109 @@
+{
+    "title": "Israel beginnt Bodenoffensive in Gaza",
+    "text": [
+        {
+            "text": "Die israelische Armee hat gestern eine Bodenoffensive in Gaza-Stadt begonnen.",
+            "translated_text": "The Israeli army began a ground offensive in Gaza City yesterday."
+        },
+        {
+            "text": "Dies ist eine wichtige Eskalation im andauernden Konflikt zwischen Israel und Hamas.",
+            "translated_text": "This is an important escalation in the ongoing conflict between Israel and Hamas."
+        },
+        {
+            "text": "Kampfjets flogen die ganze Nacht schwere Angriffe auf die Stadt im nördlichen Gazastreifen.",
+            "translated_text": "Fighter jets flew heavy attacks on the city in the northern Gaza Strip all night."
+        },
+        {
+            "text": "Gleichzeitig gab es auch Artilleriebeschuss auf verschiedene Stadtteile.",
+            "translated_text": "At the same time, there was also artillery fire on various city districts."
+        },
+        {
+            "text": "Nach palästinensischen Medienberichten sind danach Panzer in die Stadt eingefahren.",
+            "translated_text": "According to Palestinian media reports, tanks then entered the city."
+        },
+        {
+            "text": "Der US-Außenminister Marco Rubio trifft sich heute mit Führern in Katar.",
+            "translated_text": "US Secretary of State Marco Rubio is meeting with leaders in Qatar today."
+        },
+        {
+            "text": "Er will die Beziehungen nach einem israelischen Angriff in Doha verbessern.",
+            "translated_text": "He wants to improve relations after an Israeli attack in Doha."
+        },
+        {
+            "text": "Katar hatte diesen Angriff als Verletzung seiner Souveränität kritisiert.",
+            "translated_text": "Qatar had criticized this attack as a violation of its sovereignty."
+        },
+        {
+            "text": "Die internationale Gemeinschaft ist über die Eskalation sehr besorgt.",
+            "translated_text": "The international community is very concerned about the escalation."
+        },
+        {
+            "text": "Viele Länder rufen zu einem sofortigen Waffenstillstand auf.",
+            "translated_text": "Many countries are calling for an immediate ceasefire."
+        },
+        {
+            "text": "Die Vereinten Nationen warnen vor einer humanitären Katastrophe in Gaza.",
+            "translated_text": "The United Nations warns of a humanitarian catastrophe in Gaza."
+        },
+        {
+            "text": "Tausende Zivilisten sind von den Kämpfen betroffen und brauchen dringend Hilfe.",
+            "translated_text": "Thousands of civilians are affected by the fighting and urgently need help."
+        }
+    ],
+    "key_vocab": [
+        {
+            "term": "die Bodenoffensive",
+            "translated_term": "ground offensive"
+        },
+        {
+            "term": "die Eskalation",
+            "translated_term": "escalation"
+        },
+        {
+            "term": "der Konflikt",
+            "translated_term": "conflict"
+        },
+        {
+            "term": "der Kampfjet",
+            "translated_term": "fighter jet"
+        },
+        {
+            "term": "der Angriff",
+            "translated_term": "attack"
+        },
+        {
+            "term": "der Artilleriebeschuss",
+            "translated_term": "artillery fire"
+        },
+        {
+            "term": "der Panzer",
+            "translated_term": "tank"
+        },
+        {
+            "term": "die Souveränität",
+            "translated_term": "sovereignty"
+        },
+        {
+            "term": "der Waffenstillstand",
+            "translated_term": "ceasefire"
+        },
+        {
+            "term": "die humanitäre Katastrophe",
+            "translated_term": "humanitarian catastrophe"
+        }
+    ],
+    "sources": [
+        {
+            "name": "ABC News International",
+            "link_url": "https://abcnews.go.com/International"
+        },
+        {
+            "name": "Al Jazeera",
+            "link_url": "https://www.aljazeera.com/"
+        },
+        {
+            "name": "NPR World News",
+            "link_url": "https://www.npr.org/sections/world/"
+        }
+    ]
+}

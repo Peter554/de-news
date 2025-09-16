@@ -1,0 +1,109 @@
+{
+    "title": "Trump beginnt Staatsbesuch in Großbritannien",
+    "text": [
+        {
+            "text": "US-Präsident Donald Trump ist heute in Großbritannien angekommen.",
+            "translated_text": "US President Donald Trump arrived in the United Kingdom today."
+        },
+        {
+            "text": "Er beginnt einen dreitägigen Staatsbesuch vom 17. bis 19. September.",
+            "translated_text": "He is beginning a three-day state visit from September 17 to 19."
+        },
+        {
+            "text": "Morgen werden Trump und seine Frau Melania nach Windsor fahren.",
+            "translated_text": "Tomorrow Trump and his wife Melania will travel to Windsor."
+        },
+        {
+            "text": "Dort empfangen sie König Charles III. und Königin Camilla mit militärischen Ehren.",
+            "translated_text": "There King Charles III and Queen Camilla will receive them with military honors."
+        },
+        {
+            "text": "Auch Prinz William und Prinzessin Kate werden beim Empfang dabei sein.",
+            "translated_text": "Prince William and Princess Kate will also be present at the reception."
+        },
+        {
+            "text": "Der Besuch kommt in einer schwierigen Zeit für Premierminister Keir Starmer.",
+            "translated_text": "The visit comes at a difficult time for Prime Minister Keir Starmer."
+        },
+        {
+            "text": "Seine Vizepremierministerin Angela Rayner musste nach einem Steuerskandal zurücktreten.",
+            "translated_text": "His Deputy Prime Minister Angela Rayner had to resign after a tax scandal."
+        },
+        {
+            "text": "Dies führte zu einer großen Kabinettsumbildung in der britischen Regierung.",
+            "translated_text": "This led to a major cabinet reshuffle in the British government."
+        },
+        {
+            "text": "Die Sicherheitsvorkehrungen für den Besuch sind sehr streng.",
+            "translated_text": "The security preparations for the visit are very strict."
+        },
+        {
+            "text": "Die Polizei hat diese Woche alle Straßen und Wege in Windsor kontrolliert.",
+            "translated_text": "The police have checked all roads and paths in Windsor this week."
+        },
+        {
+            "text": "Militärpersonal übt für die Ehrenformation bei den Wellington Barracks.",
+            "translated_text": "Military personnel are practicing for the guard of honor at Wellington Barracks."
+        },
+        {
+            "text": "Der Staatsbesuch soll die Beziehungen zwischen den USA und Großbritannien stärken.",
+            "translated_text": "The state visit is intended to strengthen relations between the USA and Great Britain."
+        }
+    ],
+    "key_vocab": [
+        {
+            "term": "der Staatsbesuch",
+            "translated_term": "state visit"
+        },
+        {
+            "term": "der Empfang",
+            "translated_term": "reception"
+        },
+        {
+            "term": "die militärischen Ehren",
+            "translated_term": "military honors"
+        },
+        {
+            "term": "der Premierminister",
+            "translated_term": "prime minister"
+        },
+        {
+            "term": "die Vizepremierministerin",
+            "translated_term": "deputy prime minister"
+        },
+        {
+            "term": "der Steuerskandal",
+            "translated_term": "tax scandal"
+        },
+        {
+            "term": "die Kabinettsumbildung",
+            "translated_term": "cabinet reshuffle"
+        },
+        {
+            "term": "die Sicherheitsvorkehrungen",
+            "translated_term": "security preparations"
+        },
+        {
+            "term": "die Ehrenformation",
+            "translated_term": "guard of honor"
+        },
+        {
+            "term": "die Beziehungen",
+            "translated_term": "relations"
+        }
+    ],
+    "sources": [
+        {
+            "name": "CNBC UK News",
+            "link_url": "https://www.cnbc.com/2025/09/16/the-uk-and-keir-starmer-need-trumps-state-visit-right-now-.html"
+        },
+        {
+            "name": "CNN UK News",
+            "link_url": "https://www.cnn.com/world/united-kingdom"
+        },
+        {
+            "name": "ITV News",
+            "link_url": "https://www.itv.com/news"
+        }
+    ]
+}
