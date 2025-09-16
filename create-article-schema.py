@@ -17,6 +17,7 @@ class ArticleSentence(pydantic.BaseModel):
 class ArticleKeyVocab(pydantic.BaseModel):
     term: str
     translated_term: str
+    example_usage: str
 
 class ArticleSource(pydantic.BaseModel):
     name: str

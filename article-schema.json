@@ -9,11 +9,16 @@
                 "translated_term": {
                     "title": "Translated Term",
                     "type": "string"
+                },
+                "example_usage": {
+                    "title": "Example Usage",
+                    "type": "string"
                 }
             },
             "required": [
                 "term",
-                "translated_term"
+                "translated_term",
+                "example_usage"
             ],
             "title": "ArticleKeyVocab",
             "type": "object"
