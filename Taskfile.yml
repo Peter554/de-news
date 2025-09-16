@@ -1,0 +1,9 @@
+version: "3"
+
+tasks:
+  fetch_articles:
+    cmds:
+      - |
+        cat article-prompt.md | claude -p \
+          --allowedTools "WebFetch,Read,Bash,Write" \
+          --model sonnet
