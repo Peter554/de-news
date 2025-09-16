@@ -5,5 +5,5 @@ tasks:
     cmds:
       - |
         cat article-prompt.md | claude -p \
-          --allowedTools "WebFetch,Read,Bash,Write" \
+          --allowedTools "WebSearch,WebFetch,Read,Bash,Write" \
           --model sonnet
