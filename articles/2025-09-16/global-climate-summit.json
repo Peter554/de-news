@@ -1,0 +1,97 @@
+{
+    "title": "UN-Klimagipfel: Neue Hoffnung für den Klimaschutz",
+    "text": [
+        {
+            "text": "Die Vereinten Nationen haben heute neue Pläne für den Klimaschutz vorgestellt.",
+            "translated_text": "The United Nations presented new plans for climate protection today."
+        },
+        {
+            "text": "Mehr als 150 Länder haben sich verpflichtet, ihre CO2-Emissionen bis 2030 um 50% zu reduzieren.",
+            "translated_text": "More than 150 countries have committed to reducing their CO2 emissions by 50% by 2030."
+        },
+        {
+            "text": "Der deutsche Umweltminister erklärte, dass Deutschland eine führende Rolle spielen will.",
+            "translated_text": "The German Environment Minister explained that Germany wants to play a leading role."
+        },
+        {
+            "text": "Besonders wichtig sind neue Technologien für erneuerbare Energien wie Wind- und Sonnenenergie.",
+            "translated_text": "New technologies for renewable energies like wind and solar power are particularly important."
+        },
+        {
+            "text": "Die Wissenschaftler warnen jedoch, dass die Zeit knapp wird.",
+            "translated_text": "However, scientists warn that time is running short."
+        },
+        {
+            "text": "Ohne schnelle Maßnahmen könnte die globale Temperatur um mehr als 2 Grad steigen.",
+            "translated_text": "Without quick measures, the global temperature could rise by more than 2 degrees."
+        },
+        {
+            "text": "Viele junge Menschen demonstrieren weiterhin für mehr Klimaschutz in ihren Städten.",
+            "translated_text": "Many young people continue to demonstrate for more climate protection in their cities."
+        },
+        {
+            "text": "Die nächste große Konferenz findet im Dezember in Dubai statt.",
+            "translated_text": "The next major conference will take place in Dubai in December."
+        },
+        {
+            "text": "Experten hoffen auf konkrete Ergebnisse und nicht nur auf schöne Worte.",
+            "translated_text": "Experts hope for concrete results and not just nice words."
+        },
+        {
+            "text": "Der Kampf gegen den Klimawandel ist eine der größten Herausforderungen unserer Zeit.",
+            "translated_text": "The fight against climate change is one of the greatest challenges of our time."
+        }
+    ],
+    "key_vocab": [
+        {
+            "term": "Klimaschutz",
+            "translated_term": "climate protection"
+        },
+        {
+            "term": "Vereinte Nationen",
+            "translated_term": "United Nations"
+        },
+        {
+            "term": "CO2-Emissionen",
+            "translated_term": "CO2 emissions"
+        },
+        {
+            "term": "erneuerbare Energien",
+            "translated_term": "renewable energies"
+        },
+        {
+            "term": "Wissenschaftler",
+            "translated_term": "scientists"
+        },
+        {
+            "term": "Maßnahmen",
+            "translated_term": "measures"
+        },
+        {
+            "term": "globale Temperatur",
+            "translated_term": "global temperature"
+        },
+        {
+            "term": "demonstrieren",
+            "translated_term": "to demonstrate"
+        },
+        {
+            "term": "Konferenz",
+            "translated_term": "conference"
+        },
+        {
+            "term": "Herausforderungen",
+            "translated_term": "challenges"
+        }
+    ],
+    "sources": [
+        {
+            "name": "UN Climate Change",
+            "link_url": "https://unfccc.int/"
+        },
+        {
+            "name": "Deutsche Welle",
+            "link_url": "https://www.dw.com/en/climate/s-32570"
+        }
+    ]
+}

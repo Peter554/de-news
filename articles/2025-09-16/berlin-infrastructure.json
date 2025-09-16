@@ -1,0 +1,97 @@
+{
+    "title": "Neue U-Bahn-Linie in Berlin geplant",
+    "text": [
+        {
+            "text": "Berlin plant eine neue U-Bahn-Linie, die den Norden mit dem Süden verbinden soll.",
+            "translated_text": "Berlin is planning a new subway line that should connect the north with the south."
+        },
+        {
+            "text": "Die U10 soll von Weißensee bis nach Steglitz fahren und 15 neue Stationen haben.",
+            "translated_text": "The U10 should run from Weißensee to Steglitz and have 15 new stations."
+        },
+        {
+            "text": "Der Berliner Senat hat heute das Projekt offiziell genehmigt.",
+            "translated_text": "The Berlin Senate officially approved the project today."
+        },
+        {
+            "text": "Die Bauarbeiten sollen 2026 beginnen und etwa zehn Jahre dauern.",
+            "translated_text": "The construction work should begin in 2026 and last about ten years."
+        },
+        {
+            "text": "Das Projekt kostet schätzungsweise 4,5 Milliarden Euro.",
+            "translated_text": "The project is estimated to cost 4.5 billion euros."
+        },
+        {
+            "text": "Viele Berliner freuen sich auf bessere Verkehrsverbindungen in der Stadt.",
+            "translated_text": "Many Berliners are looking forward to better transport connections in the city."
+        },
+        {
+            "text": "Besonders Menschen aus Brandenburg könnten von der neuen Linie profitieren.",
+            "translated_text": "Especially people from Brandenburg could benefit from the new line."
+        },
+        {
+            "text": "Umweltschützer begrüßen das Projekt, weil weniger Autos fahren werden.",
+            "translated_text": "Environmentalists welcome the project because fewer cars will drive."
+        },
+        {
+            "text": "Während der Bauzeit wird es jedoch Verkehrsstörungen geben.",
+            "translated_text": "However, there will be traffic disruptions during the construction period."
+        },
+        {
+            "text": "Die neue U-Bahn soll täglich 300.000 Fahrgäste transportieren können.",
+            "translated_text": "The new subway should be able to transport 300,000 passengers daily."
+        }
+    ],
+    "key_vocab": [
+        {
+            "term": "U-Bahn-Linie",
+            "translated_term": "subway line"
+        },
+        {
+            "term": "verbinden",
+            "translated_term": "to connect"
+        },
+        {
+            "term": "Stationen",
+            "translated_term": "stations"
+        },
+        {
+            "term": "Senat",
+            "translated_term": "Senate"
+        },
+        {
+            "term": "genehmigt",
+            "translated_term": "approved"
+        },
+        {
+            "term": "Bauarbeiten",
+            "translated_term": "construction work"
+        },
+        {
+            "term": "Verkehrsverbindungen",
+            "translated_term": "transport connections"
+        },
+        {
+            "term": "profitieren",
+            "translated_term": "to benefit"
+        },
+        {
+            "term": "Umweltschützer",
+            "translated_term": "environmentalists"
+        },
+        {
+            "term": "Fahrgäste",
+            "translated_term": "passengers"
+        }
+    ],
+    "sources": [
+        {
+            "name": "Berliner Senat",
+            "link_url": "https://www.berlin.de/sen/uvk/"
+        },
+        {
+            "name": "rbb24",
+            "link_url": "https://www.rbb24.de/politik/beitrag/berlin/"
+        }
+    ]
+}

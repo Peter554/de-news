@@ -1,0 +1,97 @@
+{
+    "title": "Deutsche Wirtschaft zeigt positive Entwicklung",
+    "text": [
+        {
+            "text": "Die deutsche Wirtschaft wächst wieder stärker als erwartet.",
+            "translated_text": "The German economy is growing stronger than expected again."
+        },
+        {
+            "text": "Im dritten Quartal stieg das Bruttoinlandsprodukt um 0,8 Prozent.",
+            "translated_text": "In the third quarter, the gross domestic product increased by 0.8 percent."
+        },
+        {
+            "text": "Besonders die Automobilindustrie und der Maschinenbau zeigen gute Ergebnisse.",
+            "translated_text": "Especially the automotive industry and mechanical engineering show good results."
+        },
+        {
+            "text": "Bundeswirtschaftsminister Robert Habeck ist optimistisch für das kommende Jahr.",
+            "translated_text": "Federal Economics Minister Robert Habeck is optimistic for the coming year."
+        },
+        {
+            "text": "Die Arbeitslosigkeit ist auf den niedrigsten Stand seit 20 Jahren gefallen.",
+            "translated_text": "Unemployment has fallen to its lowest level in 20 years."
+        },
+        {
+            "text": "Viele Unternehmen suchen dringend neue Mitarbeiter in allen Bereichen.",
+            "translated_text": "Many companies are urgently looking for new employees in all areas."
+        },
+        {
+            "text": "Gleichzeitig steigen aber auch die Preise für Energie und Lebensmittel.",
+            "translated_text": "At the same time, however, prices for energy and food are also rising."
+        },
+        {
+            "text": "Die Europäische Zentralbank überlegt deshalb, die Zinsen zu erhöhen.",
+            "translated_text": "The European Central Bank is therefore considering raising interest rates."
+        },
+        {
+            "text": "Experten warnen vor einer zu schnellen Zinswende.",
+            "translated_text": "Experts warn against too rapid an interest rate turnaround."
+        },
+        {
+            "text": "Die wirtschaftliche Erholung nach der Pandemie ist noch nicht vollständig abgeschlossen.",
+            "translated_text": "The economic recovery after the pandemic is not yet completely finished."
+        }
+    ],
+    "key_vocab": [
+        {
+            "term": "Wirtschaft",
+            "translated_term": "economy"
+        },
+        {
+            "term": "Bruttoinlandsprodukt",
+            "translated_term": "gross domestic product"
+        },
+        {
+            "term": "Automobilindustrie",
+            "translated_term": "automotive industry"
+        },
+        {
+            "term": "Maschinenbau",
+            "translated_term": "mechanical engineering"
+        },
+        {
+            "term": "Bundeswirtschaftsminister",
+            "translated_term": "Federal Economics Minister"
+        },
+        {
+            "term": "Arbeitslosigkeit",
+            "translated_term": "unemployment"
+        },
+        {
+            "term": "Mitarbeiter",
+            "translated_term": "employees"
+        },
+        {
+            "term": "Europäische Zentralbank",
+            "translated_term": "European Central Bank"
+        },
+        {
+            "term": "Zinsen",
+            "translated_term": "interest rates"
+        },
+        {
+            "term": "Erholung",
+            "translated_term": "recovery"
+        }
+    ],
+    "sources": [
+        {
+            "name": "Bundesministerium für Wirtschaft",
+            "link_url": "https://www.bmwk.de/"
+        },
+        {
+            "name": "Handelsblatt",
+            "link_url": "https://www.handelsblatt.com/politik/deutschland"
+        }
+    ]
+}

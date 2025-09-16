@@ -1,0 +1,97 @@
+{
+    "title": "Britische Regierung plant neue Bildungsreformen",
+    "text": [
+        {
+            "text": "Die britische Regierung hat heute umfassende Reformen im Bildungssystem angekündigt.",
+            "translated_text": "The British government announced comprehensive reforms in the education system today."
+        },
+        {
+            "text": "Premierminister Rishi Sunak möchte die Ausgaben für Schulen um 20% erhöhen.",
+            "translated_text": "Prime Minister Rishi Sunak wants to increase spending on schools by 20%."
+        },
+        {
+            "text": "Besonders Schulen in ärmeren Gebieten sollen mehr Geld und bessere Ausstattung bekommen.",
+            "translated_text": "Especially schools in poorer areas should receive more money and better equipment."
+        },
+        {
+            "text": "Die Opposition kritisiert jedoch, dass die Pläne zu wenig konkret sind.",
+            "translated_text": "However, the opposition criticizes that the plans are not concrete enough."
+        },
+        {
+            "text": "Lehrer und Lehrerinnen fordern seit Jahren höhere Löhne und kleinere Klassen.",
+            "translated_text": "Teachers have been demanding higher wages and smaller classes for years."
+        },
+        {
+            "text": "Ein neues Programm soll auch die digitale Bildung in den Schulen verbessern.",
+            "translated_text": "A new program should also improve digital education in schools."
+        },
+        {
+            "text": "Jede Schule soll mindestens 50 neue Computer und schnelles Internet bekommen.",
+            "translated_text": "Every school should receive at least 50 new computers and fast internet."
+        },
+        {
+            "text": "Die Reformen sollen bereits im nächsten Schuljahr beginnen.",
+            "translated_text": "The reforms should begin as early as next school year."
+        },
+        {
+            "text": "Viele Eltern hoffen auf bessere Chancen für ihre Kinder.",
+            "translated_text": "Many parents hope for better opportunities for their children."
+        },
+        {
+            "text": "Experten bezweifeln aber, ob das Budget ausreicht für alle geplanten Verbesserungen.",
+            "translated_text": "However, experts doubt whether the budget is sufficient for all planned improvements."
+        }
+    ],
+    "key_vocab": [
+        {
+            "term": "Bildungsreformen",
+            "translated_term": "education reforms"
+        },
+        {
+            "term": "Premierminister",
+            "translated_term": "Prime Minister"
+        },
+        {
+            "term": "Ausgaben",
+            "translated_term": "spending/expenses"
+        },
+        {
+            "term": "Ausstattung",
+            "translated_term": "equipment"
+        },
+        {
+            "term": "Opposition",
+            "translated_term": "opposition"
+        },
+        {
+            "term": "Lehrer",
+            "translated_term": "teachers"
+        },
+        {
+            "term": "Löhne",
+            "translated_term": "wages"
+        },
+        {
+            "term": "digitale Bildung",
+            "translated_term": "digital education"
+        },
+        {
+            "term": "Schuljahr",
+            "translated_term": "school year"
+        },
+        {
+            "term": "Verbesserungen",
+            "translated_term": "improvements"
+        }
+    ],
+    "sources": [
+        {
+            "name": "BBC News",
+            "link_url": "https://www.bbc.com/news/education"
+        },
+        {
+            "name": "The Guardian",
+            "link_url": "https://www.theguardian.com/education"
+        }
+    ]
+}
