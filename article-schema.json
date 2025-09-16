@@ -1,0 +1,93 @@
+{
+    "$defs": {
+        "ArticleKeyVocab": {
+            "properties": {
+                "term": {
+                    "title": "Term",
+                    "type": "string"
+                },
+                "translated_term": {
+                    "title": "Translated Term",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "term",
+                "translated_term"
+            ],
+            "title": "ArticleKeyVocab",
+            "type": "object"
+        },
+        "ArticleSentence": {
+            "properties": {
+                "text": {
+                    "title": "Text",
+                    "type": "string"
+                },
+                "translated_text": {
+                    "title": "Translated Text",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "text",
+                "translated_text"
+            ],
+            "title": "ArticleSentence",
+            "type": "object"
+        },
+        "ArticleSource": {
+            "properties": {
+                "name": {
+                    "title": "Name",
+                    "type": "string"
+                },
+                "link_url": {
+                    "title": "Link Url",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "name",
+                "link_url"
+            ],
+            "title": "ArticleSource",
+            "type": "object"
+        }
+    },
+    "properties": {
+        "title": {
+            "title": "Title",
+            "type": "string"
+        },
+        "text": {
+            "items": {
+                "$ref": "#/$defs/ArticleSentence"
+            },
+            "title": "Text",
+            "type": "array"
+        },
+        "key_vocab": {
+            "items": {
+                "$ref": "#/$defs/ArticleKeyVocab"
+            },
+            "title": "Key Vocab",
+            "type": "array"
+        },
+        "sources": {
+            "items": {
+                "$ref": "#/$defs/ArticleSource"
+            },
+            "title": "Sources",
+            "type": "array"
+        }
+    },
+    "required": [
+        "title",
+        "text",
+        "key_vocab",
+        "sources"
+    ],
+    "title": "Article",
+    "type": "object"
+}
