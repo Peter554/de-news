@@ -1,0 +1,182 @@
+{
+    "title": "Sturm und Verkehrsprobleme in Berlin und Brandenburg",
+    "text": [
+        {
+            "text": "Heute erwarten Berlin und Brandenburg einen wechselhaften Tag mit teilweise stürmischem Wind.",
+            "translated_text": "Today Berlin and Brandenburg expect a changeable day with partly stormy wind."
+        },
+        {
+            "text": "Im Norden gibt es viele Wolken und örtliche Regenschauer.",
+            "translated_text": "In the north there are many clouds and local rain showers."
+        },
+        {
+            "text": "Die Berliner Region und der Süden haben auch helle Abschnitte mit meist trockenem Wetter.",
+            "translated_text": "The Berlin region and the south also have bright sections with mostly dry weather."
+        },
+        {
+            "text": "Die Temperaturen steigen heute auf 19 bis 22 Grad Celsius.",
+            "translated_text": "The temperatures rise today to 19 to 22 degrees Celsius."
+        },
+        {
+            "text": "Besonders bemerkenswert sind die starken Windböen von 55 bis 70 Kilometer pro Stunde.",
+            "translated_text": "Particularly noteworthy are the strong wind gusts of 55 to 70 kilometers per hour."
+        },
+        {
+            "text": "Manchmal können die Windböen sogar bis zu 75 Kilometer pro Stunde erreichen.",
+            "translated_text": "Sometimes the wind gusts can even reach up to 75 kilometers per hour."
+        },
+        {
+            "text": "Menschen, die heute morgen mit der S-Bahn zur Arbeit fahren, müssen Geduld mitbringen.",
+            "translated_text": "People who travel to work with the S-Bahn this morning must bring patience."
+        },
+        {
+            "text": "Wegen defekter Signale und einer Zugstörung gibt es Verspätungen im S-Bahn-Verkehr.",
+            "translated_text": "Due to defective signals and a train disruption, there are delays in S-Bahn traffic."
+        },
+        {
+            "text": "Nach der Eröffnung des 16. Bauabschnitts der A100 gab es Verkehrschaos in Berlin.",
+            "translated_text": "After the opening of the 16th construction section of the A100, there was traffic chaos in Berlin."
+        },
+        {
+            "text": "Die Kritik am weiteren Ausbau der Autobahn wird immer lauter.",
+            "translated_text": "The criticism of the further expansion of the highway is getting louder and louder."
+        }
+    ],
+    "key_vocab": [
+        {
+            "term": "erwarten",
+            "translated_term": "to expect",
+            "example_usage": "Berlin und Brandenburg erwarten einen wechselhaften Tag."
+        },
+        {
+            "term": "wechselhaft",
+            "translated_term": "changeable",
+            "example_usage": "Einen wechselhaften Tag mit stürmischem Wind."
+        },
+        {
+            "term": "teilweise",
+            "translated_term": "partly",
+            "example_usage": "Mit teilweise stürmischem Wind."
+        },
+        {
+            "term": "stürmisch",
+            "translated_term": "stormy",
+            "example_usage": "Mit teilweise stürmischem Wind."
+        },
+        {
+            "term": "die Wolke",
+            "translated_term": "cloud",
+            "example_usage": "Im Norden gibt es viele Wolken."
+        },
+        {
+            "term": "örtlich",
+            "translated_term": "local",
+            "example_usage": "Viele Wolken und örtliche Regenschauer."
+        },
+        {
+            "term": "der Regenschauer",
+            "translated_term": "rain shower",
+            "example_usage": "Viele Wolken und örtliche Regenschauer."
+        },
+        {
+            "term": "hell",
+            "translated_term": "bright",
+            "example_usage": "Haben auch helle Abschnitte."
+        },
+        {
+            "term": "der Abschnitt",
+            "translated_term": "section",
+            "example_usage": "Haben auch helle Abschnitte."
+        },
+        {
+            "term": "trocken",
+            "translated_term": "dry",
+            "example_usage": "Mit meist trockenem Wetter."
+        },
+        {
+            "term": "die Temperatur",
+            "translated_term": "temperature",
+            "example_usage": "Die Temperaturen steigen auf 19 bis 22 Grad."
+        },
+        {
+            "term": "steigen",
+            "translated_term": "to rise",
+            "example_usage": "Die Temperaturen steigen auf 19 bis 22 Grad."
+        },
+        {
+            "term": "bemerkenswert",
+            "translated_term": "noteworthy",
+            "example_usage": "Besonders bemerkenswert sind die starken Windböen."
+        },
+        {
+            "term": "die Windbö",
+            "translated_term": "wind gust",
+            "example_usage": "Die starken Windböen von 55 bis 70 Kilometer pro Stunde."
+        },
+        {
+            "term": "erreichen",
+            "translated_term": "to reach",
+            "example_usage": "Können sogar bis zu 75 Kilometer pro Stunde erreichen."
+        },
+        {
+            "term": "die Geduld",
+            "translated_term": "patience",
+            "example_usage": "Müssen Geduld mitbringen."
+        },
+        {
+            "term": "mitbringen",
+            "translated_term": "to bring along",
+            "example_usage": "Müssen Geduld mitbringen."
+        },
+        {
+            "term": "defekt",
+            "translated_term": "defective",
+            "example_usage": "Wegen defekter Signale."
+        },
+        {
+            "term": "die Störung",
+            "translated_term": "disruption",
+            "example_usage": "Wegen einer Zugstörung gibt es Verspätungen."
+        },
+        {
+            "term": "die Verspätung",
+            "translated_term": "delay",
+            "example_usage": "Gibt es Verspätungen im S-Bahn-Verkehr."
+        },
+        {
+            "term": "die Eröffnung",
+            "translated_term": "opening",
+            "example_usage": "Nach der Eröffnung des 16. Bauabschnitts."
+        },
+        {
+            "term": "der Bauabschnitt",
+            "translated_term": "construction section",
+            "example_usage": "Nach der Eröffnung des 16. Bauabschnitts."
+        },
+        {
+            "term": "das Verkehrschaos",
+            "translated_term": "traffic chaos",
+            "example_usage": "Gab es Verkehrschaos in Berlin."
+        },
+        {
+            "term": "die Kritik",
+            "translated_term": "criticism",
+            "example_usage": "Die Kritik am weiteren Ausbau wird lauter."
+        },
+        {
+            "term": "der Ausbau",
+            "translated_term": "expansion",
+            "example_usage": "Die Kritik am weiteren Ausbau der Autobahn."
+        }
+    ],
+    "sources": [
+        {
+            "name": "Berlin.de",
+            "link_url": "https://www.berlin.de/en/news/"
+        },
+        {
+            "name": "Tagesspiegel Berlin",
+            "link_url": "https://www.tagesspiegel.de/berlin/"
+        }
+    ]
+}
