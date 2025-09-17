@@ -1,0 +1,111 @@
+{
+    "title": "Trumps Staatsbesuch im Vereinigten Königreich",
+    "text": [
+        {
+            "text": "Präsident Donald Trump ist heute zu einem wichtigen Staatsbesuch im Vereinigten Königreich angekommen.",
+            "translated_text": "President Donald Trump arrived today for an important state visit to the United Kingdom."
+        },
+        {
+            "text": "Er landete am Dienstagabend mit der Air Force One in London und wird drei Tage im Land bleiben.",
+            "translated_text": "He landed on Tuesday evening with Air Force One in London and will stay in the country for three days."
+        },
+        {
+            "text": "Am Mittwoch reist Trump nach Windsor Castle, wo König Charles III. ihn empfangen wird.",
+            "translated_text": "On Wednesday, Trump will travel to Windsor Castle, where King Charles III will receive him."
+        },
+        {
+            "text": "Das britische Verteidigungsministerium beschreibt den Empfang als den größten militärischen Zeremonienempfang für einen Staatsbesuch in der jüngeren Geschichte.",
+            "translated_text": "The British Ministry of Defense describes the reception as the largest military ceremonial welcome for a state visit in recent history."
+        },
+        {
+            "text": "Der Besuch findet zu einer schwierigen Zeit für Premierminister Keir Starmer statt.",
+            "translated_text": "The visit takes place at a difficult time for Prime Minister Keir Starmer."
+        },
+        {
+            "text": "Seine Stellvertreterin Angela Rayner ist kürzlich wegen eines Steuer-Skandals zurückgetreten.",
+            "translated_text": "His deputy Angela Rayner recently resigned due to a tax scandal."
+        },
+        {
+            "text": "Diese Krise hat zu großen Veränderungen in der Regierung geführt.",
+            "translated_text": "This crisis has led to major changes in the government."
+        },
+        {
+            "text": "Am Donnerstag werden Trump und Starmer über wichtige Handelsgeschäfte sprechen.",
+            "translated_text": "On Thursday, Trump and Starmer will discuss important trade deals."
+        },
+        {
+            "text": "Das Vereinigte Königreich war das erste Land, das ein Handelsabkommen mit Trump unterzeichnet hat.",
+            "translated_text": "The United Kingdom was the first country to sign a trade agreement with Trump."
+        },
+        {
+            "text": "London hofft, weitere Deals in den Bereichen Technologie und Energie abzuschließen.",
+            "translated_text": "London hopes to conclude further deals in the areas of technology and energy."
+        },
+        {
+            "text": "Blackrock hat bereits eine Investition von 500 Millionen Pfund angekündigt.",
+            "translated_text": "Blackrock has already announced an investment of 500 million pounds."
+        }
+    ],
+    "key_vocab": [
+        {
+            "term": "der Staatsbesuch",
+            "translated_term": "state visit",
+            "example_usage": "Präsident Donald Trump ist heute zu einem wichtigen Staatsbesuch im Vereinigten Königreich angekommen."
+        },
+        {
+            "term": "empfangen",
+            "translated_term": "to receive",
+            "example_usage": "Am Mittwoch reist Trump nach Windsor Castle, wo König Charles III. ihn empfangen wird."
+        },
+        {
+            "term": "das Verteidigungsministerium",
+            "translated_term": "Ministry of Defense",
+            "example_usage": "Das britische Verteidigungsministerium beschreibt den Empfang als den größten militärischen Zeremonienempfang."
+        },
+        {
+            "term": "die Stellvertreterin",
+            "translated_term": "deputy (female)",
+            "example_usage": "Seine Stellvertreterin Angela Rayner ist kürzlich wegen eines Steuer-Skandals zurückgetreten."
+        },
+        {
+            "term": "zurücktreten",
+            "translated_term": "to resign",
+            "example_usage": "Seine Stellvertreterin Angela Rayner ist kürzlich wegen eines Steuer-Skandals zurückgetreten."
+        },
+        {
+            "term": "das Handelsabkommen",
+            "translated_term": "trade agreement",
+            "example_usage": "Das Vereinigte Königreich war das erste Land, das ein Handelsabkommen mit Trump unterzeichnet hat."
+        },
+        {
+            "term": "unterzeichnen",
+            "translated_term": "to sign",
+            "example_usage": "Das Vereinigte Königreich war das erste Land, das ein Handelsabkommen mit Trump unterzeichnet hat."
+        },
+        {
+            "term": "abschließen",
+            "translated_term": "to conclude",
+            "example_usage": "London hofft, weitere Deals in den Bereichen Technologie und Energie abzuschließen."
+        },
+        {
+            "term": "die Investition",
+            "translated_term": "investment",
+            "example_usage": "Blackrock hat bereits eine Investition von 500 Millionen Pfund angekündigt."
+        },
+        {
+            "term": "ankündigen",
+            "translated_term": "to announce",
+            "example_usage": "Blackrock hat bereits eine Investition von 500 Millionen Pfund angekündigt."
+        }
+    ],
+    "sources": [
+        {
+            "name": "CNBC",
+            "link_url": "https://www.cnbc.com/2025/09/16/the-uk-and-keir-starmer-need-trumps-state-visit-right-now-.html"
+        },
+        {
+            "name": "CNN Politics",
+            "link_url": "https://www.cnn.com/politics/live-news/trump-presidency-uk-visit-09-16-25"
+        }
+    ]
+}
