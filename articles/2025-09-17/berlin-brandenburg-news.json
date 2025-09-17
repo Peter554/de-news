@@ -1,0 +1,139 @@
+{
+    "title": "Wetter und Wahlen in Berlin-Brandenburg",
+    "text": [
+        {
+            "text": "Das Wetter in Berlin und Brandenburg ist heute wechselhaft mit vielen Wolken.",
+            "translated_text": "The weather in Berlin and Brandenburg is changeable today with many clouds."
+        },
+        {
+            "text": "Es wird teilweise bis stark bewölkt mit vereinzelten Schauern.",
+            "translated_text": "It will be partly to heavily cloudy with isolated showers."
+        },
+        {
+            "text": "Die Temperaturen steigen auf etwa 19 Grad Celsius.",
+            "translated_text": "Temperatures will rise to about 19 degrees Celsius."
+        },
+        {
+            "text": "Ab Freitag wird das Wetter deutlich besser: Es wird weniger bewölkt und zunehmend sonnig.",
+            "translated_text": "From Friday the weather will be significantly better: it will be less cloudy and increasingly sunny."
+        },
+        {
+            "text": "Die Temperaturen steigen merklich auf 24 bis 28 Grad an.",
+            "translated_text": "Temperatures will rise noticeably to 24 to 28 degrees."
+        },
+        {
+            "text": "Ein Jahr nach den Landtagswahlen stehen in Brandenburg viele Bürgermeisterwahlen an.",
+            "translated_text": "One year after the state elections, many mayoral elections are upcoming in Brandenburg."
+        },
+        {
+            "text": "In vielen Städten und Gemeinden wird entschieden, wer Bürgermeister wird.",
+            "translated_text": "In many cities and municipalities it will be decided who becomes mayor."
+        },
+        {
+            "text": "Die AfD spielt dabei eine wichtige Rolle in der politischen Landschaft.",
+            "translated_text": "The AfD plays an important role in the political landscape."
+        },
+        {
+            "text": "Brandenburg wird derzeit von einer Koalition aus SPD, Grünen und CDU regiert.",
+            "translated_text": "Brandenburg is currently governed by a coalition of SPD, Greens and CDU."
+        },
+        {
+            "text": "Ministerpräsident Dietmar Woidke von der SPD führt die Landesregierung.",
+            "translated_text": "Minister President Dietmar Woidke from the SPD leads the state government."
+        },
+        {
+            "text": "Am Wochenende finden zwei Pride-Paraden in Brandenburg statt.",
+            "translated_text": "Two Pride parades will take place in Brandenburg at the weekend."
+        },
+        {
+            "text": "Die Veranstalter erwarten, dass es keine Gegendemonstrationen geben wird.",
+            "translated_text": "The organizers expect that there will be no counter-demonstrations."
+        }
+    ],
+    "key_vocab": [
+        {
+            "term": "wechselhaft",
+            "translated_term": "changeable",
+            "example_usage": "Das Wetter in Berlin und Brandenburg ist heute wechselhaft mit vielen Wolken."
+        },
+        {
+            "term": "die Wolke",
+            "translated_term": "cloud",
+            "example_usage": "Das Wetter in Berlin und Brandenburg ist heute wechselhaft mit vielen Wolken."
+        },
+        {
+            "term": "bewölkt",
+            "translated_term": "cloudy",
+            "example_usage": "Es wird teilweise bis stark bewölkt mit vereinzelten Schauern."
+        },
+        {
+            "term": "vereinzelt",
+            "translated_term": "isolated/occasional",
+            "example_usage": "Es wird teilweise bis stark bewölkt mit vereinzelten Schauern."
+        },
+        {
+            "term": "der Schauer",
+            "translated_term": "shower",
+            "example_usage": "Es wird teilweise bis stark bewölkt mit vereinzelten Schauern."
+        },
+        {
+            "term": "zunehmend",
+            "translated_term": "increasingly",
+            "example_usage": "Ab Freitag wird das Wetter deutlich besser: Es wird weniger bewölkt und zunehmend sonnig."
+        },
+        {
+            "term": "merklich",
+            "translated_term": "noticeably",
+            "example_usage": "Die Temperaturen steigen merklich auf 24 bis 28 Grad an."
+        },
+        {
+            "term": "die Landtagswahlen",
+            "translated_term": "state elections",
+            "example_usage": "Ein Jahr nach den Landtagswahlen stehen in Brandenburg viele Bürgermeisterwahlen an."
+        },
+        {
+            "term": "anstehen",
+            "translated_term": "to be upcoming",
+            "example_usage": "Ein Jahr nach den Landtagswahlen stehen in Brandenburg viele Bürgermeisterwahlen an."
+        },
+        {
+            "term": "die Gemeinde",
+            "translated_term": "municipality",
+            "example_usage": "In vielen Städten und Gemeinden wird entschieden, wer Bürgermeister wird."
+        },
+        {
+            "term": "die Koalition",
+            "translated_term": "coalition",
+            "example_usage": "Brandenburg wird derzeit von einer Koalition aus SPD, Grünen und CDU regiert."
+        },
+        {
+            "term": "der Ministerpräsident",
+            "translated_term": "Minister President",
+            "example_usage": "Ministerpräsident Dietmar Woidke von der SPD führt die Landesregierung."
+        },
+        {
+            "term": "die Landesregierung",
+            "translated_term": "state government",
+            "example_usage": "Ministerpräsident Dietmar Woidke von der SPD führt die Landesregierung."
+        },
+        {
+            "term": "die Gegendemonstration",
+            "translated_term": "counter-demonstration",
+            "example_usage": "Die Veranstalter erwarten, dass es keine Gegendemonstrationen geben wird."
+        }
+    ],
+    "sources": [
+        {
+            "name": "City-News.de",
+            "link_url": "https://www.city-news.de/wetterbericht-fuer-berlin-brandenburg-17-09-2025/218730/"
+        },
+        {
+            "name": "Tagesspiegel",
+            "link_url": "https://www.tagesspiegel.de/berlin/"
+        },
+        {
+            "name": "Berliner Zeitung",
+            "link_url": "https://www.berliner-zeitung.de"
+        }
+    ]
+}
