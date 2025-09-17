@@ -1,0 +1,16 @@
+---
+layout: layout.njk
+---
+
+<main>
+    <ul>
+        {% for article in collections.articles | last7days %}
+            <li>
+                <a href="articles/{{ article.date | date }}/{{ article.title | slugify }}/">
+                    {{ article.title }}
+                </a>
+                ({{ article.date | date }})
+            </li>
+        {% endfor %}
+    </ul>
+</main>

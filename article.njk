@@ -1,0 +1,60 @@
+---
+layout: layout.njk
+pagination:
+  data: collections.articles
+  size: 1
+  alias: article
+permalink: "articles/{{ article.date | date }}/{{ article.title | slugify }}/"
+---
+
+<main>
+  <article>
+    <header>
+      <h1>{{ article.title }}</h1>
+      <p>{{ article.date | date }}</p>
+    </header>
+
+    <section>
+      <div>
+        <button id="toggle-translations">Show Translations</button>
+      </div>
+      {% for paragraph in article.text %}
+        <div>
+          <p>{{ paragraph.text }}</p>
+          <p class="translation" style="display: none;"><i>{{ paragraph.translated_text }}</i></p>
+        </div>
+      {% endfor %}
+    </section>
+
+    <section>
+      <h2>Key Vocabulary</h2>
+      <dl>
+        {% for word in article.key_vocab %}
+          <dt>{{ word.term }}</dt>
+          <dd>
+            <p>{{ word.translated_term }}</p>
+            <p><i>{{ word.example_usage }}</i></p>
+          </dd>
+        {% endfor %}
+      </dl>
+    </section>
+  </article>
+</main>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const toggleButton = document.getElementById('toggle-translations');
+    const translations = document.querySelectorAll('.translation');
+    let translationsVisible = false;
+
+    toggleButton.addEventListener('click', function() {
+      translationsVisible = !translationsVisible;
+
+      translations.forEach(function(translation) {
+        translation.style.display = translationsVisible ? 'block' : 'none';
+      });
+
+      toggleButton.textContent = translationsVisible ? 'Hide Translations' : 'Show Translations';
+    });
+  });
+</script>

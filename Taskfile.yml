@@ -7,3 +7,7 @@ tasks:
         cat article-prompt.md | claude -p \
           --allowedTools "WebSearch,WebFetch,Read,Bash,Write" \
           --model sonnet
+
+  serve:
+    cmds:
+      - npx @11ty/eleventy --serve

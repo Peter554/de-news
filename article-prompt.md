@@ -19,4 +19,4 @@ For each article:
 
 For each article, create a JSON file for the result under `articles/$today`, where `$today` is todays date (ISO format). Each JSON file should obey the schema given in `article-schema.json`.
 
-Make your changes on a new branch. Commit your changes and open a pull request.
+Make your changes on a new branch. Commit your changes and open a PR. Assign Peter554 to review the PR.
