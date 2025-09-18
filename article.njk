@@ -56,6 +56,15 @@ permalink: "articles/{{ article.date | date }}/{{ article.title | slugify }}/"
         {% endfor %}
       </dl>
     </section>
+
+    <section>
+        <h2>Sources</h2>
+        <ul>
+            {% for source in article.sources %}
+            <li><a href="{{ source.link_url }}">{{ source.name }}</a></li>
+            {% endfor %}
+        </ul>
+    </section>
   </article>
 </main>
 
