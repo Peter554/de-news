@@ -23,7 +23,7 @@ permalink: "articles/{{ article.date | date }}/{{ article.title | slugify }}/"
                       {{ tag.name }} ({{ tag.translated_name }})
                   </a>
                   {% if not loop.last %}
-                  &nbsp
+                  ,
                   {% endif %}
               {% endfor %}
           </p>

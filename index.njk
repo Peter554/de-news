@@ -3,6 +3,8 @@ layout: layout.njk
 ---
 
 <main>
+    <p>AI news app in simple German (roughly B1 level) with translations and vocabulary lists.</p>
+
     <h2>Recent articles</h2>
     {% for date, articles in collections.articles | last7days | groupedByDate %}
         <h3>{{ date }}</h3>
@@ -18,7 +20,14 @@ layout: layout.njk
         </ul>
         {% endfor %}
     {% endfor %}
-    <ul>
 
-    </ul>
+    <h2>How does it work?</h2>
+    <p>
+        AI (Claude Code) searches the web to fetch top news stories and then
+        creates article summaries in simple German with translations, vocabulary lists and tags.
+        This process runs daily via a GitHub actions workflow with a CRON schedule.
+        AI then makes a daily PR with the new articles and tags me for review.
+        The articles are then published via a simple 11ty site deployed to Netlify.
+        Find the repo <a href="https://github.com/Peter554/de-news">here</a>.
+    </p>
 </main>
