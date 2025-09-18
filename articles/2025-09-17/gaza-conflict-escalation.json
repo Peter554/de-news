@@ -1,0 +1,122 @@
+{
+  "title": "Gaza-Konflikt eskaliert mit israelischer Bodenoffensive",
+  "translated_title": "Gaza Conflict Escalates with Israeli Ground Offensive",
+  "text": [
+    {
+      "text": "Die israelische Armee hat eine große Bodenoffensive in Gaza-Stadt gestartet.",
+      "translated_text": "The Israeli army has launched a major ground offensive in Gaza City."
+    },
+    {
+      "text": "Israelische Panzer umzingeln die Stadt und bereiten sich auf einen Einmarsch vor.",
+      "translated_text": "Israeli tanks surround the city and are preparing for an invasion."
+    },
+    {
+      "text": "Die Vereinten Nationen haben einen Bericht veröffentlicht, der Israel Völkermord vorwirft.",
+      "translated_text": "The United Nations has published a report that accuses Israel of genocide."
+    },
+    {
+      "text": "Experten des UN-Menschenrechtsrats fordern die internationale Gemeinschaft auf, den Völkermord zu beenden.",
+      "translated_text": "Experts from the UN Human Rights Council call on the international community to end the genocide."
+    },
+    {
+      "text": "Die Europäische Union schlägt neue Sanktionen gegen Israel vor.",
+      "translated_text": "The European Union proposes new sanctions against Israel."
+    },
+    {
+      "text": "Etwa 40 Prozent der Bevölkerung von Gaza haben bereits das Gebiet verlassen.",
+      "translated_text": "About 40 percent of Gaza's population have already left the area."
+    },
+    {
+      "text": "Die israelischen Streitkräfte führten am 16. September großangelegte Luftangriffe durch.",
+      "translated_text": "The Israeli armed forces carried out large-scale air strikes on September 16."
+    },
+    {
+      "text": "Internationale Hilfsorganisationen warnen vor einer humanitären Katastrophe.",
+      "translated_text": "International aid organizations warn of a humanitarian catastrophe."
+    },
+    {
+      "text": "Die Weltgemeinschaft ist in ihrer Reaktion auf den Konflikt gespalten.",
+      "translated_text": "The world community is divided in its response to the conflict."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bodenoffensive",
+      "translated_term": "ground offensive",
+      "example_usage": "Die israelische Armee hat eine große Bodenoffensive in Gaza-Stadt gestartet."
+    },
+    {
+      "term": "umzingeln",
+      "translated_term": "to surround",
+      "example_usage": "Israelische Panzer umzingeln die Stadt und bereiten sich auf einen Einmarsch vor."
+    },
+    {
+      "term": "der Einmarsch",
+      "translated_term": "invasion",
+      "example_usage": "Israelische Panzer umzingeln die Stadt und bereiten sich auf einen Einmarsch vor."
+    },
+    {
+      "term": "der Völkermord",
+      "translated_term": "genocide",
+      "example_usage": "Die Vereinten Nationen haben einen Bericht veröffentlicht, der Israel Völkermord vorwirft."
+    },
+    {
+      "term": "vorwerfen",
+      "translated_term": "to accuse",
+      "example_usage": "Die Vereinten Nationen haben einen Bericht veröffentlicht, der Israel Völkermord vorwirft."
+    },
+    {
+      "term": "die Sanktionen",
+      "translated_term": "sanctions",
+      "example_usage": "Die Europäische Union schlägt neue Sanktionen gegen Israel vor."
+    },
+    {
+      "term": "die Streitkräfte",
+      "translated_term": "armed forces",
+      "example_usage": "Die israelischen Streitkräfte führten am 16. September großangelegte Luftangriffe durch."
+    },
+    {
+      "term": "großangelegt",
+      "translated_term": "large-scale",
+      "example_usage": "Die israelischen Streitkräfte führten am 16. September großangelegte Luftangriffe durch."
+    },
+    {
+      "term": "die Hilfsorganisation",
+      "translated_term": "aid organization",
+      "example_usage": "Internationale Hilfsorganisationen warnen vor einer humanitären Katastrophe."
+    },
+    {
+      "term": "gespalten",
+      "translated_term": "divided",
+      "example_usage": "Die Weltgemeinschaft ist in ihrer Reaktion auf den Konflikt gespalten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Gaza-Konflikt",
+      "translated_name": "Gaza Conflict"
+    },
+    {
+      "name": "Vereinte Nationen",
+      "translated_name": "United Nations"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Standard",
+      "link_url": "https://www.thestandard.com.hk/breaking-news/article/311732/Morning-Recap-September-17-2025"
+    },
+    {
+      "name": "NPR",
+      "link_url": "https://www.npr.org/sections/world/"
+    },
+    {
+      "name": "ABC News International",
+      "link_url": "https://abcnews.go.com/International"
+    }
+  ]
+}

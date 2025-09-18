@@ -1,0 +1,122 @@
+{
+  "title": "Trumps Staatsbesuch sorgt für Proteste in London",
+  "translated_title": "Trump's State Visit Causes Protests in London",
+  "text": [
+    {
+      "text": "Präsident Donald Trump ist zu seinem zweiten Staatsbesuch im Vereinigten Königreich angekommen.",
+      "translated_text": "President Donald Trump has arrived for his second state visit to the United Kingdom."
+    },
+    {
+      "text": "König Charles III. empfing ihn am Mittwoch in Windsor Castle mit einer großen militärischen Zeremonie.",
+      "translated_text": "King Charles III received him on Wednesday at Windsor Castle with a large military ceremony."
+    },
+    {
+      "text": "Trump ist der erste gewählte politische Führer in der modernen Zeit, der zwei Staatsbesuche bei der britischen Monarchie macht.",
+      "translated_text": "Trump is the first elected political leader in modern times to make two state visits to the British monarchy."
+    },
+    {
+      "text": "Während des Besuchs gingen Tausende von Menschen in London auf die Straße, um gegen Trump zu protestieren.",
+      "translated_text": "During the visit, thousands of people took to the streets in London to protest against Trump."
+    },
+    {
+      "text": "Die Demonstranten trugen Schilder mit Aufschriften wie 'Einwanderer willkommen, Trump nicht willkommen'.",
+      "translated_text": "The demonstrators carried signs with slogans like 'Immigrants welcome, Trump not welcome'."
+    },
+    {
+      "text": "Die Polizei verhaftete vier Personen, die Bilder von Trump und Jeffrey Epstein auf Windsor Castle projizierten.",
+      "translated_text": "Police arrested four people who projected images of Trump and Jeffrey Epstein onto Windsor Castle."
+    },
+    {
+      "text": "Am Abend fand ein Staatsbankett statt, bei dem auch Geschäftsführer von großen amerikanischen Technologieunternehmen teilnahmen.",
+      "translated_text": "In the evening, a state banquet took place, which also included CEOs of major American technology companies."
+    },
+    {
+      "text": "Trotz der Proteste diskutierten Trump und britische Politiker über wichtige Handelsgeschäfte.",
+      "translated_text": "Despite the protests, Trump and British politicians discussed important trade deals."
+    },
+    {
+      "text": "Firmen wie BlackRock und Alphabet kündigten Milliarden-Investitionen in Großbritannien an.",
+      "translated_text": "Companies like BlackRock and Alphabet announced billion-dollar investments in Great Britain."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Staatsbesuch",
+      "translated_term": "state visit",
+      "example_usage": "Präsident Donald Trump ist zu seinem zweiten Staatsbesuch im Vereinigten Königreich angekommen."
+    },
+    {
+      "term": "empfangen",
+      "translated_term": "to receive",
+      "example_usage": "König Charles III. empfing ihn am Mittwoch in Windsor Castle mit einer großen militärischen Zeremonie."
+    },
+    {
+      "term": "die Zeremonie",
+      "translated_term": "ceremony",
+      "example_usage": "König Charles III. empfing ihn am Mittwoch in Windsor Castle mit einer großen militärischen Zeremonie."
+    },
+    {
+      "term": "gewählt",
+      "translated_term": "elected",
+      "example_usage": "Trump ist der erste gewählte politische Führer in der modernen Zeit."
+    },
+    {
+      "term": "protestieren",
+      "translated_term": "to protest",
+      "example_usage": "Während des Besuchs gingen Tausende von Menschen in London auf die Straße, um gegen Trump zu protestieren."
+    },
+    {
+      "term": "der Demonstrant",
+      "translated_term": "demonstrator",
+      "example_usage": "Die Demonstranten trugen Schilder mit Aufschriften wie 'Einwanderer willkommen, Trump nicht willkommen'."
+    },
+    {
+      "term": "verhaften",
+      "translated_term": "to arrest",
+      "example_usage": "Die Polizei verhaftete vier Personen, die Bilder von Trump und Jeffrey Epstein auf Windsor Castle projizierten."
+    },
+    {
+      "term": "projizieren",
+      "translated_term": "to project",
+      "example_usage": "Die Polizei verhaftete vier Personen, die Bilder von Trump und Jeffrey Epstein auf Windsor Castle projizierten."
+    },
+    {
+      "term": "das Staatsbankett",
+      "translated_term": "state banquet",
+      "example_usage": "Am Abend fand ein Staatsbankett statt, bei dem auch Geschäftsführer von großen amerikanischen Technologieunternehmen teilnahmen."
+    },
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Firmen wie BlackRock und Alphabet kündigten Milliarden-Investitionen in Großbritannien an."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Staatsbesuch",
+      "translated_name": "State Visit"
+    },
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "USA-UK Beziehungen",
+      "translated_name": "US-UK Relations"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN",
+      "link_url": "https://www.cnn.com/world/live-news/trump-uk-state-visit-09-17-2025-intl"
+    },
+    {
+      "name": "ABC News",
+      "link_url": "https://abcnews.go.com/Politics/trump-begin-historic-uk-state-visit-royal-reception/story?id=125651147"
+    },
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/9/17/british-protesters-say-no-to-racism-no-to"
+    }
+  ]
+}
