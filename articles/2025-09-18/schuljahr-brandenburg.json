@@ -1,0 +1,107 @@
+{
+    "title": "Neues Schuljahr in Brandenburg beginnt",
+    "text": [
+        {
+            "text": "Das neue Schuljahr hat in Brandenburg begonnen.",
+            "translated_text": "The new school year has begun in Brandenburg."
+        },
+        {
+            "text": "Bildungsministerin Freiberg stellte neue Pläne vor.",
+            "translated_text": "Education Minister Freiberg presented new plans."
+        },
+        {
+            "text": "Die Schulen haben nicht genug Geld.",
+            "translated_text": "The schools do not have enough money."
+        },
+        {
+            "text": "Es gibt zu wenige Lehrer für alle Schulkinder.",
+            "translated_text": "There are too few teachers for all schoolchildren."
+        },
+        {
+            "text": "Die Regierung sucht nach Lösungen.",
+            "translated_text": "The government is looking for solutions."
+        },
+        {
+            "text": "Viele Eltern machen sich Sorgen um die Bildung ihrer Kinder.",
+            "translated_text": "Many parents are worried about their children's education."
+        },
+        {
+            "text": "Neue Technologien sollen beim Lernen helfen.",
+            "translated_text": "New technologies should help with learning."
+        },
+        {
+            "text": "Auch die Schulgebäude brauchen Reparaturen.",
+            "translated_text": "The school buildings also need repairs."
+        },
+        {
+            "text": "Brandenburg investiert mehr Geld in die Bildung.",
+            "translated_text": "Brandenburg is investing more money in education."
+        },
+        {
+            "text": "Die Zukunft der Kinder ist sehr wichtig.",
+            "translated_text": "The future of the children is very important."
+        }
+    ],
+    "key_vocab": [
+        {
+            "term": "das Schuljahr",
+            "translated_term": "school year",
+            "example_usage": "Das neue Schuljahr hat in Brandenburg begonnen."
+        },
+        {
+            "term": "beginnen",
+            "translated_term": "to begin, to start",
+            "example_usage": "Das neue Schuljahr hat in Brandenburg begonnen."
+        },
+        {
+            "term": "die Bildungsministerin",
+            "translated_term": "education minister (female)",
+            "example_usage": "Bildungsministerin Freiberg stellte neue Pläne vor."
+        },
+        {
+            "term": "vorstellen",
+            "translated_term": "to present, to introduce",
+            "example_usage": "Bildungsministerin Freiberg stellte neue Pläne vor."
+        },
+        {
+            "term": "die Lehrer",
+            "translated_term": "teachers",
+            "example_usage": "Es gibt zu wenige Lehrer für alle Schulkinder."
+        },
+        {
+            "term": "die Schulkinder",
+            "translated_term": "schoolchildren",
+            "example_usage": "Es gibt zu wenige Lehrer für alle Schulkinder."
+        },
+        {
+            "term": "die Lösungen",
+            "translated_term": "solutions",
+            "example_usage": "Die Regierung sucht nach Lösungen."
+        },
+        {
+            "term": "sich Sorgen machen",
+            "translated_term": "to worry",
+            "example_usage": "Viele Eltern machen sich Sorgen um die Bildung ihrer Kinder."
+        },
+        {
+            "term": "die Bildung",
+            "translated_term": "education",
+            "example_usage": "Viele Eltern machen sich Sorgen um die Bildung ihrer Kinder."
+        },
+        {
+            "term": "investieren",
+            "translated_term": "to invest",
+            "example_usage": "Brandenburg investiert mehr Geld in die Bildung."
+        }
+    ],
+    "sources": [
+        {
+            "name": "Berlin.de News",
+            "link_url": "https://www.berlin.de/en/news/"
+        },
+        {
+            "name": "rbb24",
+            "link_url": "https://www.rbb24.de/"
+        }
+    ]
+}

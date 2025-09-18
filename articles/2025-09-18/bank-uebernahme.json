@@ -1,0 +1,107 @@
+{
+    "title": "Italienische Bank will deutsche Commerzbank übernehmen",
+    "text": [
+        {
+            "text": "Die italienische Bank Unicredit möchte die deutsche Commerzbank kaufen.",
+            "translated_text": "The Italian bank Unicredit wants to buy the German Commerzbank."
+        },
+        {
+            "text": "Unicredit besitzt schon 26 Prozent der Commerzbank-Aktien.",
+            "translated_text": "Unicredit already owns 26 percent of Commerzbank shares."
+        },
+        {
+            "text": "Die deutsche Regierung ist gegen diese Übernahme.",
+            "translated_text": "The German government is against this takeover."
+        },
+        {
+            "text": "Sie will deutsche Banken in deutschem Besitz behalten.",
+            "translated_text": "It wants to keep German banks in German ownership."
+        },
+        {
+            "text": "Die Commerzbank ist Deutschlands zweitgrößte Bank.",
+            "translated_text": "Commerzbank is Germany's second-largest bank."
+        },
+        {
+            "text": "Ein Verkauf wäre schlecht für den Finanzplatz Deutschland.",
+            "translated_text": "A sale would be bad for Germany as a financial center."
+        },
+        {
+            "text": "Viele Arbeitsplätze könnten verloren gehen.",
+            "translated_text": "Many jobs could be lost."
+        },
+        {
+            "text": "Italienische Firmen kaufen immer mehr deutsche Unternehmen.",
+            "translated_text": "Italian companies are buying more and more German companies."
+        },
+        {
+            "text": "Dies zeigt die wirtschaftlichen Veränderungen in Europa.",
+            "translated_text": "This shows the economic changes in Europe."
+        },
+        {
+            "text": "Die Entscheidung wird in den nächsten Wochen fallen.",
+            "translated_text": "The decision will be made in the coming weeks."
+        }
+    ],
+    "key_vocab": [
+        {
+            "term": "übernehmen",
+            "translated_term": "to take over, to acquire",
+            "example_usage": "Die italienische Bank Unicredit möchte die deutsche Commerzbank übernehmen."
+        },
+        {
+            "term": "besitzen",
+            "translated_term": "to own, to possess",
+            "example_usage": "Unicredit besitzt schon 26 Prozent der Commerzbank-Aktien."
+        },
+        {
+            "term": "die Aktien",
+            "translated_term": "shares, stocks",
+            "example_usage": "Unicredit besitzt schon 26 Prozent der Commerzbank-Aktien."
+        },
+        {
+            "term": "die Übernahme",
+            "translated_term": "takeover, acquisition",
+            "example_usage": "Die deutsche Regierung ist gegen diese Übernahme."
+        },
+        {
+            "term": "der Besitz",
+            "translated_term": "ownership, possession",
+            "example_usage": "Sie will deutsche Banken in deutschem Besitz behalten."
+        },
+        {
+            "term": "behalten",
+            "translated_term": "to keep, to retain",
+            "example_usage": "Sie will deutsche Banken in deutschem Besitz behalten."
+        },
+        {
+            "term": "der Finanzplatz",
+            "translated_term": "financial center",
+            "example_usage": "Ein Verkauf wäre schlecht für den Finanzplatz Deutschland."
+        },
+        {
+            "term": "die Arbeitsplätze",
+            "translated_term": "jobs, workplaces",
+            "example_usage": "Viele Arbeitsplätze könnten verloren gehen."
+        },
+        {
+            "term": "die Veränderungen",
+            "translated_term": "changes",
+            "example_usage": "Dies zeigt die wirtschaftlichen Veränderungen in Europa."
+        },
+        {
+            "term": "die Entscheidung",
+            "translated_term": "decision",
+            "example_usage": "Die Entscheidung wird in den nächsten Wochen fallen."
+        }
+    ],
+    "sources": [
+        {
+            "name": "Deutschland.de News",
+            "link_url": "https://www.deutschland.de/en/news"
+        },
+        {
+            "name": "Euronews Germany",
+            "link_url": "https://www.euronews.com/news/europe/germany"
+        }
+    ]
+}
