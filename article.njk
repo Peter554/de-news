@@ -4,7 +4,7 @@ pagination:
   data: collections.articles
   size: 1
   alias: article
-permalink: "articles/{{ article.date | date }}/{{ article.title | slugify }}/"
+permalink: "articles/{{ article.slug }}/"
 ---
 
 <main>

@@ -6,12 +6,12 @@ layout: layout.njk
     <p>AI generated news in simple German with translations and vocabulary lists.</p>
 
     <h2>Recent articles</h2>
-    {% for date, articles in collections.articles | last7days | groupedByDate %}
+    {% for date, articles in collections.articles | last7days | newestFirst | groupedByDate %}
         <h3>{{ date }}</h3>
         {% for article in articles %}
         <ul>
             <li>
-                <a href="/articles/{{ article.date | date }}/{{ article.title | slugify }}/">
+                <a href="/articles/{{ article.slug }}/">
                     {{ article.title }}
                 </a>
                 <br/>

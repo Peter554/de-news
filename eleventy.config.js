@@ -1,6 +1,7 @@
 const fs = require("fs").promises;
 const path = require("path");
 
+const slugify = require("@sindresorhus/slugify").default;
 const { DateTime } = require("luxon");
 
 module.exports = function (eleventyConfig) {
@@ -36,20 +37,20 @@ module.exports = function (eleventyConfig) {
         // Add date field to the article
         article.date = date;
 
-        // Add filename (without extension) for possible use as slug
-        article.fileSlug = path.basename(articleFile, ".json");
+        // Add slug
+        article.slug = `${date.toISODate()}/${slugify(article.title)}`;
 
         // Add to the flattened list
         allArticles.push(article);
       }
     }
 
-    // Sort articles by date (newest first) and then by title
+    // Sort articles by date and then by title
     allArticles.sort((a, b) => {
       if (a.date === b.date) {
         return a.title.localeCompare(b.title);
       }
-      return b.date - a.date;
+      return a.date - b.date;
     });
 
     return allArticles;
@@ -65,6 +66,31 @@ module.exports = function (eleventyConfig) {
     });
 
     return tags;
+  });
+
+  eleventyConfig.addFilter("index", (articles) => {
+    return articles.map((article) => {
+      return {
+        title: article.title,
+        translated_title: article.translated_title,
+        date: article.date.toISODate(),
+        year: article.date.toISODate().slice(0, 4),
+        month: article.date.toISODate().slice(0, 7),
+        tags: article.tags
+          .map((tag) => `${tag.name} ${tag.translated_name}`)
+          .join(" "),
+        url: `/articles/${article.slug}/`,
+      };
+    });
+  });
+
+  eleventyConfig.addFilter("newestFirst", (articles) => {
+    return articles.toSorted((a, b) => {
+      if (a.date === b.date) {
+        return a.title.localeCompare(b.title);
+      }
+      return b.date - a.date;
+    });
   });
 
   eleventyConfig.addFilter("date", (v) => {
