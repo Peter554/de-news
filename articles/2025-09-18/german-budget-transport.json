@@ -1,0 +1,122 @@
+{
+    "title": "Bundestag stimmt über Haushalt ab und Deutschlandticket wird teurer",
+    "translated_title": "Bundestag votes on budget and Germany ticket becomes more expensive",
+    "text": [
+        {
+            "text": "Heute stimmt der Deutsche Bundestag über den Bundeshaushalt für das Jahr 2025 ab.",
+            "translated_text": "Today the German Bundestag is voting on the federal budget for the year 2025."
+        },
+        {
+            "text": "Der Haushalt umfasst Ausgaben von etwa 502,5 Milliarden Euro.",
+            "translated_text": "The budget includes expenditures of about 502.5 billion euros."
+        },
+        {
+            "text": "Die Regierung plant, fast 82 Milliarden Euro neue Schulden zu machen.",
+            "translated_text": "The government plans to take on almost 82 billion euros in new debt."
+        },
+        {
+            "text": "Zusätzlich werden weitere Milliarden für das Militär und die Infrastruktur ausgegeben.",
+            "translated_text": "Additionally, further billions will be spent on the military and infrastructure."
+        },
+        {
+            "text": "Gleichzeitig treffen sich die Verkehrsminister von Bund und Ländern heute.",
+            "translated_text": "At the same time, the transport ministers from federal and state levels are meeting today."
+        },
+        {
+            "text": "Sie diskutieren über eine weitere Preiserhöhung für das beliebte Deutschlandticket.",
+            "translated_text": "They are discussing another price increase for the popular Germany ticket."
+        },
+        {
+            "text": "Das Ticket kostet momentan 58 Euro pro Monat für Bus und Bahn in ganz Deutschland.",
+            "translated_text": "The ticket currently costs 58 euros per month for bus and train throughout Germany."
+        },
+        {
+            "text": "Ab nächstem Jahr könnte es zwischen 62 und 64 Euro kosten.",
+            "translated_text": "From next year it could cost between 62 and 64 euros."
+        },
+        {
+            "text": "Viele Menschen sind nicht glücklich über die höheren Preise für öffentliche Verkehrsmittel.",
+            "translated_text": "Many people are not happy about the higher prices for public transport."
+        },
+        {
+            "text": "Die Politiker müssen zwischen Kosten und den Bedürfnissen der Bürger abwägen.",
+            "translated_text": "The politicians must weigh between costs and the needs of the citizens."
+        }
+    ],
+    "key_vocab": [
+        {
+            "term": "der Bundestag",
+            "translated_term": "Federal Parliament",
+            "example_usage": "Heute stimmt der Deutsche Bundestag über den Bundeshaushalt für das Jahr 2025 ab."
+        },
+        {
+            "term": "der Bundeshaushalt",
+            "translated_term": "federal budget",
+            "example_usage": "Heute stimmt der Deutsche Bundestag über den Bundeshaushalt für das Jahr 2025 ab."
+        },
+        {
+            "term": "die Ausgaben",
+            "translated_term": "expenditures",
+            "example_usage": "Der Haushalt umfasst Ausgaben von etwa 502,5 Milliarden Euro."
+        },
+        {
+            "term": "die Schulden",
+            "translated_term": "debt",
+            "example_usage": "Die Regierung plant, fast 82 Milliarden Euro neue Schulden zu machen."
+        },
+        {
+            "term": "die Infrastruktur",
+            "translated_term": "infrastructure",
+            "example_usage": "Zusätzlich werden weitere Milliarden für das Militär und die Infrastruktur ausgegeben."
+        },
+        {
+            "term": "der Verkehrsminister",
+            "translated_term": "transport minister",
+            "example_usage": "Gleichzeitig treffen sich die Verkehrsminister von Bund und Ländern heute."
+        },
+        {
+            "term": "die Preiserhöhung",
+            "translated_term": "price increase",
+            "example_usage": "Sie diskutieren über eine weitere Preiserhöhung für das beliebte Deutschlandticket."
+        },
+        {
+            "term": "öffentliche Verkehrsmittel",
+            "translated_term": "public transport",
+            "example_usage": "Viele Menschen sind nicht glücklich über die höheren Preise für öffentliche Verkehrsmittel."
+        },
+        {
+            "term": "abwägen",
+            "translated_term": "to weigh/consider",
+            "example_usage": "Die Politiker müssen zwischen Kosten und den Bedürfnissen der Bürger abwägen."
+        },
+        {
+            "term": "die Bedürfnisse",
+            "translated_term": "needs",
+            "example_usage": "Die Politiker müssen zwischen Kosten und den Bedürfnissen der Bürger abwägen."
+        }
+    ],
+    "tags": [
+        {
+            "name": "Deutsche Politik",
+            "translated_name": "German Politics"
+        },
+        {
+            "name": "Bundeshaushalt",
+            "translated_name": "Federal Budget"
+        },
+        {
+            "name": "Öffentlicher Verkehr",
+            "translated_name": "Public Transport"
+        }
+    ],
+    "sources": [
+        {
+            "name": "news.de",
+            "link_url": "https://www.news.de/panorama/858964642/18-september-2025-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-18-09-2025-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+        },
+        {
+            "name": "The Local Germany",
+            "link_url": "https://www.thelocal.de/20250918/today-in-germany-a-roundup-of-the-latest-news-on-thursday-88"
+        }
+    ]
+}

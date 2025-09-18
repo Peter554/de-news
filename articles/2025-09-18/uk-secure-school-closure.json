@@ -1,0 +1,118 @@
+{
+    "title": "Neue Jugendschule in Großbritannien wird geschlossen",
+    "translated_title": "New youth school in Britain is being closed",
+    "text": [
+        {
+            "text": "Eine besondere Schule für Jugendliche in Großbritannien wird nach weniger als einem Jahr geschlossen.",
+            "translated_text": "A special school for young people in Britain is being closed after less than a year."
+        },
+        {
+            "text": "Die Schule heißt 'Oasis Restore' und befindet sich in der Nähe von Rochester.",
+            "translated_text": "The school is called 'Oasis Restore' and is located near Rochester."
+        },
+        {
+            "text": "Es war Britanniens erste 'sichere Schule' für junge Menschen, die Probleme mit dem Gesetz hatten.",
+            "translated_text": "It was Britain's first 'secure school' for young people who had problems with the law."
+        },
+        {
+            "text": "Die Regierung wollte eine Alternative zum Gefängnis für Jugendliche schaffen.",
+            "translated_text": "The government wanted to create an alternative to prison for young people."
+        },
+        {
+            "text": "Die Schule kostete 40 Millionen Pfund und wurde 2024 eröffnet.",
+            "translated_text": "The school cost 40 million pounds and opened in 2024."
+        },
+        {
+            "text": "Aber Inspektoren fanden viele Sicherheitsprobleme in der Schule.",
+            "translated_text": "But inspectors found many safety problems in the school."
+        },
+        {
+            "text": "Mehrere Türen in der Schule waren kaputt und konnten nicht richtig schließen.",
+            "translated_text": "Several doors in the school were broken and could not close properly."
+        },
+        {
+            "text": "Das machte sowohl die Schüler als auch die Lehrer unsicher.",
+            "translated_text": "This made both the students and the teachers feel unsafe."
+        },
+        {
+            "text": "Die Sicherheit war das wichtigste Problem, weshalb die Schule schließen musste.",
+            "translated_text": "Safety was the most important problem, which is why the school had to close."
+        },
+        {
+            "text": "Jetzt müssen die Behörden neue Lösungen für diese jungen Menschen finden.",
+            "translated_text": "Now the authorities must find new solutions for these young people."
+        }
+    ],
+    "key_vocab": [
+        {
+            "term": "die Jugendschule",
+            "translated_term": "youth school",
+            "example_usage": "Eine besondere Schule für Jugendliche in Großbritannien wird nach weniger als einem Jahr geschlossen."
+        },
+        {
+            "term": "sicher",
+            "translated_term": "secure/safe",
+            "example_usage": "Es war Britanniens erste 'sichere Schule' für junge Menschen, die Probleme mit dem Gesetz hatten."
+        },
+        {
+            "term": "das Gesetz",
+            "translated_term": "the law",
+            "example_usage": "Es war Britanniens erste 'sichere Schule' für junge Menschen, die Probleme mit dem Gesetz hatten."
+        },
+        {
+            "term": "die Alternative",
+            "translated_term": "alternative",
+            "example_usage": "Die Regierung wollte eine Alternative zum Gefängnis für Jugendliche schaffen."
+        },
+        {
+            "term": "das Gefängnis",
+            "translated_term": "prison",
+            "example_usage": "Die Regierung wollte eine Alternative zum Gefängnis für Jugendliche schaffen."
+        },
+        {
+            "term": "eröffnen",
+            "translated_term": "to open",
+            "example_usage": "Die Schule kostete 40 Millionen Pfund und wurde 2024 eröffnet."
+        },
+        {
+            "term": "der Inspektor",
+            "translated_term": "inspector",
+            "example_usage": "Aber Inspektoren fanden viele Sicherheitsprobleme in der Schule."
+        },
+        {
+            "term": "kaputt",
+            "translated_term": "broken",
+            "example_usage": "Mehrere Türen in der Schule waren kaputt und konnten nicht richtig schließen."
+        },
+        {
+            "term": "unsicher",
+            "translated_term": "unsafe",
+            "example_usage": "Das machte sowohl die Schüler als auch die Lehrer unsicher."
+        },
+        {
+            "term": "die Behörden",
+            "translated_term": "authorities",
+            "example_usage": "Jetzt müssen die Behörden neue Lösungen für diese jungen Menschen finden."
+        }
+    ],
+    "tags": [
+        {
+            "name": "Bildung",
+            "translated_name": "Education"
+        },
+        {
+            "name": "Jugendkriminalität",
+            "translated_name": "Youth Crime"
+        },
+        {
+            "name": "Großbritannien",
+            "translated_name": "Great Britain"
+        }
+    ],
+    "sources": [
+        {
+            "name": "Conservative Home",
+            "link_url": "https://conservativehome.com/2025/09/18/newslinks-for-thursday-18th-september-2025/"
+        }
+    ]
+}

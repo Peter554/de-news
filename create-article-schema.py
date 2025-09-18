@@ -19,6 +19,10 @@ class ArticleKeyVocab(pydantic.BaseModel):
     translated_term: str
     example_usage: str
 
+class ArticleTag(pydantic.BaseModel):
+    name: str
+    translated_name: str
+
 class ArticleSource(pydantic.BaseModel):
     name: str
     link_url: str
@@ -28,6 +32,7 @@ class Article(pydantic.BaseModel):
     translated_title: str
     text: list[ArticleSentence]
     key_vocab: list[ArticleKeyVocab]
+    tags: list[ArticleTag]
     sources: list[ArticleSource]
 
 schema = Article.model_json_schema()
