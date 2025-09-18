@@ -20,6 +20,10 @@
     "translated_name": "Extremism"
   },
   {
+    "name": "Friedensproteste",
+    "translated_name": "Peace Protests"
+  },
+  {
     "name": "Gaza-Konflikt",
     "translated_name": "Gaza Conflict"
   },
@@ -44,6 +48,14 @@
     "translated_name": "Public Transport"
   },
   {
+    "name": "Sicherheit",
+    "translated_name": "Security"
+  },
+  {
+    "name": "Soziale Probleme",
+    "translated_name": "Social Problems"
+  },
+  {
     "name": "Staatsbesuch",
     "translated_name": "State Visit"
   },
@@ -58,5 +70,9 @@
   {
     "name": "Vereinte Nationen",
     "translated_name": "United Nations"
+  },
+  {
+    "name": "Wohnungskrise",
+    "translated_name": "Housing Crisis"
   }
 ]
