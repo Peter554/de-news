@@ -18,8 +18,8 @@ For each article:
 * Provide a list of 2-3 tags that describe the topic of the article.
   * The tags will be used to find articles on the same / similar topics.
   * The tags should be of the form "German text (English translation)" e.g. "Gaza-Konflikt (Gaza Conflict)"
-  * Where approptiate, reuse existing tags from the `tags.json` file.
-  * If you create new tags, add these to the `tags.json` file. The file should be sorted alphabetically by tag name.
+  * Where approptiate, reuse existing tags from the global `tags.json` file.
+  * Make sure all the article tags are added to the global `tags.json` file. The file should be sorted alphabetically by tag name.
 * Provide links to the original source articles, where one could go to read more.
   * Make sure these links point to specific articles, not generic sites.
 
