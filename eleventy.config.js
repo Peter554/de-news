@@ -77,6 +77,12 @@ module.exports = function (eleventyConfig) {
     );
   });
 
+  eleventyConfig.addNunjucksFilter("matchingTag", function (articles, tag) {
+    return articles.filter((article) =>
+      article.tags.map((tag) => tag.name).includes(tag.name),
+    );
+  });
+
   eleventyConfig.addFilter("groupedByDate", (articles) => {
     const grouped = new Map();
     articles.forEach((article) => {

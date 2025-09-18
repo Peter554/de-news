@@ -18,8 +18,7 @@ permalink: "articles/{{ article.date | date }}/{{ article.title | slugify }}/"
           </p>
           <p>
               {% for tag in article.tags %}
-                  <!--TODO href -->
-                  <a href="">
+                  <a href="/tags/{{ tag.name | slugify }}/">
                       {{ tag.name }} ({{ tag.translated_name }})
                   </a>
                   {% if not loop.last %}

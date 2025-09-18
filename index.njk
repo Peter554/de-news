@@ -11,7 +11,7 @@ layout: layout.njk
         {% for article in articles %}
         <ul>
             <li>
-                <a href="articles/{{ article.date | date }}/{{ article.title | slugify }}/">
+                <a href="/articles/{{ article.date | date }}/{{ article.title | slugify }}/">
                     {{ article.title }}
                 </a>
                 <br/>

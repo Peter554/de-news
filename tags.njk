@@ -6,8 +6,7 @@ layout: layout.njk
     <ul>
         {% for tag in collections.tags %}
             <li>
-                <!--TODO-->
-                <a href="">
+                <a href="/tags/{{ tag.name | slugify }}/">
                     {{ tag.name }} ({{ tag.translated_name }})
                 </a>
             </li>

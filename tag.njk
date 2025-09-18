@@ -1,0 +1,26 @@
+---
+layout: layout.njk
+pagination:
+  data: collections.tags
+  size: 1
+  alias: tag
+permalink: "tags/{{ tag.name | slugify }}/"
+---
+
+<main>
+    <h2>{{ tag.name }} ({{ tag.translated_name }})</h2>
+    {% set matchingArticles = collections.articles | matchingTag(tag) %}
+    {% for article in matchingArticles %}
+    <ul>
+        <li>
+            <a href="/articles/{{ article.date | date }}/{{ article.title | slugify }}/">
+                {{ article.title }}
+            </a>
+            <br/>
+            <i>{{ article.translated_title }}</i>
+            <br/>
+            <small>{{ article.date | date }}</small>
+        </li>
+    </ul>
+    {% endfor %}
+</main>
