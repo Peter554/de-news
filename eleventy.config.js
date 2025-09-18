@@ -66,11 +66,11 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("groupedByDate", (articles) => {
-    const grouped = {};
+    const grouped = new Map();
     articles.forEach((article) => {
       const date = article.date.toISODate();
-      if (!grouped[date]) grouped[date] = [];
-      grouped[date].push(article);
+      if (!grouped.has(date)) grouped.set(date, []);
+      grouped.get(date).push(article);
     });
     return grouped;
   });
