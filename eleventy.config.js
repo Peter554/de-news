@@ -25,7 +25,7 @@ module.exports = function (eleventyConfig) {
 
       // Get date from directory name (assuming format YYYY-MM-DD)
       const dateStr = dateDir.name;
-      const date = new Date(dateStr);
+      const date = DateTime.fromJSDate(new Date(dateStr));
 
       // Process each article file in this date directory
       for (const articleFile of articleFiles) {
@@ -56,12 +56,22 @@ module.exports = function (eleventyConfig) {
   });
 
   eleventyConfig.addFilter("date", (v) => {
-    return DateTime.fromJSDate(v).toISODate();
+    return v.toISODate();
   });
 
   eleventyConfig.addFilter("last7days", (v) => {
     return v.filter(
       (v) => v.date >= DateTime.now().startOf("day").minus({ days: 7 }),
     );
+  });
+
+  eleventyConfig.addFilter("groupedByDate", (articles) => {
+    const grouped = {};
+    articles.forEach((article) => {
+      const date = article.date.toISODate();
+      if (!grouped[date]) grouped[date] = [];
+      grouped[date].push(article);
+    });
+    return grouped;
   });
 };

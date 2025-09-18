@@ -12,7 +12,22 @@ permalink: "articles/{{ article.date | date }}/{{ article.title | slugify }}/"
     <header>
       <h1>{{ article.title }}</h1>
       <p><i>{{ article.translated_title }}</i></p>
-      <p>{{ article.date | date }}</p>
+      <small>
+          <p>
+              {{ article.date | date }}
+          </p>
+          <p>
+              {% for tag in article.tags %}
+                  <!--TODO href -->
+                  <a href="">
+                      {{ tag.name }} ({{ tag.translated_name }})
+                  </a>
+                  {% if not loop.last %}
+                  &nbsp
+                  {% endif %}
+              {% endfor %}
+          </p>
+      </small>
     </header>
 
     <section>

@@ -4,14 +4,21 @@ layout: layout.njk
 
 <main>
     <h2>Recent articles</h2>
-    <ul>
-        {% for article in collections.articles | last7days %}
+    {% for date, articles in collections.articles | last7days | groupedByDate %}
+        <h3>{{ date }}</h3>
+        {% for article in articles %}
+        <ul>
             <li>
                 <a href="articles/{{ article.date | date }}/{{ article.title | slugify }}/">
                     {{ article.title }}
                 </a>
-                ({{ article.date | date }})
+                <br/>
+                <i>{{ article.translated_title }}</i>
             </li>
+        </ul>
         {% endfor %}
+    {% endfor %}
+    <ul>
+
     </ul>
 </main>
