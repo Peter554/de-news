@@ -1,0 +1,118 @@
+{
+    "title": "Berliner Feuerwehr untersucht extremistische Nachrichten",
+    "translated_title": "Berlin Fire Department investigates extremist messages",
+    "text": [
+        {
+            "text": "Die Berliner Feuerwehr hat ein großes Problem mit jungen Feuerwehrleuten entdeckt.",
+            "translated_text": "The Berlin Fire Department has discovered a big problem with young firefighters."
+        },
+        {
+            "text": "In einer Chatgruppe der Jugendfeuerwehr wurden extremistische Nachrichten gefunden.",
+            "translated_text": "Extremist messages were found in a youth fire department chat group."
+        },
+        {
+            "text": "Diese Nachrichten sind sehr gefährlich für die Demokratie und die Gesellschaft.",
+            "translated_text": "These messages are very dangerous for democracy and society."
+        },
+        {
+            "text": "Die Feuerwehr nimmt dieses Problem sehr ernst und untersucht den Fall gründlich.",
+            "translated_text": "The fire department takes this problem very seriously and is investigating the case thoroughly."
+        },
+        {
+            "text": "Ein spezieller Extremismus-Beauftragter hilft bei der Untersuchung.",
+            "translated_text": "A special extremism commissioner is helping with the investigation."
+        },
+        {
+            "text": "Die Berliner Feuerwehr braucht neue Mitarbeiter, aber sie müssen die richtigen Werte haben.",
+            "translated_text": "The Berlin Fire Department needs new employees, but they must have the right values."
+        },
+        {
+            "text": "Extremismus hat keinen Platz bei der Feuerwehr oder anderen öffentlichen Diensten.",
+            "translated_text": "Extremism has no place in the fire department or other public services."
+        },
+        {
+            "text": "Die Behörden werden sicherstellen, dass solche Vorfälle nicht wieder passieren.",
+            "translated_text": "The authorities will ensure that such incidents do not happen again."
+        },
+        {
+            "text": "Es ist wichtig, dass alle Menschen der Feuerwehr vertrauen können.",
+            "translated_text": "It is important that all people can trust the fire department."
+        },
+        {
+            "text": "Die Feuerwehr muss für alle Bürger da sein, unabhängig von ihrer Herkunft oder Religion.",
+            "translated_text": "The fire department must be there for all citizens, regardless of their origin or religion."
+        }
+    ],
+    "key_vocab": [
+        {
+            "term": "die Feuerwehr",
+            "translated_term": "fire department",
+            "example_usage": "Die Berliner Feuerwehr hat ein großes Problem mit jungen Feuerwehrleuten entdeckt."
+        },
+        {
+            "term": "extremistisch",
+            "translated_term": "extremist",
+            "example_usage": "In einer Chatgruppe der Jugendfeuerwehr wurden extremistische Nachrichten gefunden."
+        },
+        {
+            "term": "die Chatgruppe",
+            "translated_term": "chat group",
+            "example_usage": "In einer Chatgruppe der Jugendfeuerwehr wurden extremistische Nachrichten gefunden."
+        },
+        {
+            "term": "die Demokratie",
+            "translated_term": "democracy",
+            "example_usage": "Diese Nachrichten sind sehr gefährlich für die Demokratie und die Gesellschaft."
+        },
+        {
+            "term": "untersuchen",
+            "translated_term": "to investigate",
+            "example_usage": "Die Feuerwehr nimmt dieses Problem sehr ernst und untersucht den Fall gründlich."
+        },
+        {
+            "term": "gründlich",
+            "translated_term": "thoroughly",
+            "example_usage": "Die Feuerwehr nimmt dieses Problem sehr ernst und untersucht den Fall gründlich."
+        },
+        {
+            "term": "der Beauftragte",
+            "translated_term": "commissioner/representative",
+            "example_usage": "Ein spezieller Extremismus-Beauftragter hilft bei der Untersuchung."
+        },
+        {
+            "term": "die Werte",
+            "translated_term": "values",
+            "example_usage": "Die Berliner Feuerwehr braucht neue Mitarbeiter, aber sie müssen die richtigen Werte haben."
+        },
+        {
+            "term": "der Vorfall",
+            "translated_term": "incident",
+            "example_usage": "Die Behörden werden sicherstellen, dass solche Vorfälle nicht wieder passieren."
+        },
+        {
+            "term": "die Herkunft",
+            "translated_term": "origin",
+            "example_usage": "Die Feuerwehr muss für alle Bürger da sein, unabhängig von ihrer Herkunft oder Religion."
+        }
+    ],
+    "tags": [
+        {
+            "name": "Berlin",
+            "translated_name": "Berlin"
+        },
+        {
+            "name": "Extremismus",
+            "translated_name": "Extremism"
+        },
+        {
+            "name": "Öffentlicher Dienst",
+            "translated_name": "Public Service"
+        }
+    ],
+    "sources": [
+        {
+            "name": "Berlin.de",
+            "link_url": "https://www.berlin.de/en/news/"
+        }
+    ]
+}

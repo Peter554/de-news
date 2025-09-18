@@ -15,7 +15,13 @@ For each article:
   * If it is a noun, provide the definite article (der/die/das).
   * If it is a verb, provide the infinitive.
   * Provide a sentence with example usage, taken from the article.
-* Provide links to the original source articles, where one could go to read more. Make sure these links point to specific articles, not generic sites.
+* Provide a list of 2-3 tags that describe the topic of the article.
+  * The tags will be used to find articles on the same / similar topics.
+  * The tags should be of the form "German text (English translation)" e.g. "Gaza-Konflikt (Gaza Conflict)"
+  * Where approptiate, reuse existing tags from the `tags.json` file.
+  * If you create new tags, add these to the `tags.json` file. The file should be sorted alphabetically by tag name.
+* Provide links to the original source articles, where one could go to read more.
+  * Make sure these links point to specific articles, not generic sites.
 
 For each article, create a JSON file for the result under `articles/$today`, where `$today` is todays date (ISO format). Each JSON file should obey the schema given in `article-schema.json`.
 

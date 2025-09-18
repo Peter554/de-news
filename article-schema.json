@@ -58,6 +58,24 @@
             ],
             "title": "ArticleSource",
             "type": "object"
+        },
+        "ArticleTag": {
+            "properties": {
+                "name": {
+                    "title": "Name",
+                    "type": "string"
+                },
+                "translated_name": {
+                    "title": "Translated Name",
+                    "type": "string"
+                }
+            },
+            "required": [
+                "name",
+                "translated_name"
+            ],
+            "title": "ArticleTag",
+            "type": "object"
         }
     },
     "properties": {
@@ -83,6 +101,13 @@
             "title": "Key Vocab",
             "type": "array"
         },
+        "tags": {
+            "items": {
+                "$ref": "#/$defs/ArticleTag"
+            },
+            "title": "Tags",
+            "type": "array"
+        },
         "sources": {
             "items": {
                 "$ref": "#/$defs/ArticleSource"
@@ -96,6 +121,7 @@
         "translated_title",
         "text",
         "key_vocab",
+        "tags",
         "sources"
     ],
     "title": "Article",
