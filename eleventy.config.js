@@ -55,6 +55,18 @@ module.exports = function (eleventyConfig) {
     return allArticles;
   });
 
+  eleventyConfig.addCollection("tags", async (collectionsApi) => {
+    const tagsPath = path.join(__dirname, "tags.json");
+    const tagsContent = await fs.readFile(tagsPath, "utf-8");
+    const tags = JSON.parse(tagsContent);
+
+    tags.sort((a, b) => {
+      return a.name.localeCompare(b.name);
+    });
+
+    return tags;
+  });
+
   eleventyConfig.addFilter("date", (v) => {
     return v.toISODate();
   });
