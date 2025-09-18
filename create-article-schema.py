@@ -25,6 +25,7 @@ class ArticleSource(pydantic.BaseModel):
 
 class Article(pydantic.BaseModel):
     title: str
+    translated_title: str
     text: list[ArticleSentence]
     key_vocab: list[ArticleKeyVocab]
     sources: list[ArticleSource]

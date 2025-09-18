@@ -65,6 +65,10 @@
             "title": "Title",
             "type": "string"
         },
+        "translated_title": {
+            "title": "Translated Title",
+            "type": "string"
+        },
         "text": {
             "items": {
                 "$ref": "#/$defs/ArticleSentence"
@@ -89,6 +93,7 @@
     },
     "required": [
         "title",
+        "translated_title",
         "text",
         "key_vocab",
         "sources"
