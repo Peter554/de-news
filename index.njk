@@ -3,6 +3,7 @@ layout: layout.njk
 ---
 
 <main>
+    <h2>Recent articles</h2>
     <ul>
         {% for article in collections.articles | last7days %}
             <li>

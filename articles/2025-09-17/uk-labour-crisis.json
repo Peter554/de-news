@@ -1,121 +1,122 @@
 {
-    "title": "Krise in der britischen Labour-Regierung",
-    "text": [
-        {
-            "text": "Die britische Labour-Regierung durchlebt schwere Zeiten.",
-            "translated_text": "The British Labour government is going through difficult times."
-        },
-        {
-            "text": "Stellvertretende Premierministerin Angela Rayner ist von ihrem Amt zurückgetreten.",
-            "translated_text": "Deputy Prime Minister Angela Rayner has resigned from her position."
-        },
-        {
-            "text": "Der Grund für ihren Rücktritt ist ein Skandal um Steuern für ihr Haus.",
-            "translated_text": "The reason for her resignation is a scandal about taxes for her house."
-        },
-        {
-            "text": "Diese Entwicklung bringt die Regierung von Premierminister Keir Starmer in große Schwierigkeiten.",
-            "translated_text": "This development brings Prime Minister Keir Starmer's government into great difficulties."
-        },
-        {
-            "text": "Starmer muss jetzt wichtige Veränderungen in seinem Kabinett vornehmen.",
-            "translated_text": "Starmer must now make important changes to his cabinet."
-        },
-        {
-            "text": "Die Situation ist besonders schlecht, weil gleichzeitig Präsident Trump zu Besuch kommt.",
-            "translated_text": "The situation is particularly bad because President Trump is visiting at the same time."
-        },
-        {
-            "text": "Nigel Farage und seine Reform UK Partei kritisieren die Labour-Regierung stark.",
-            "translated_text": "Nigel Farage and his Reform UK party are strongly criticizing the Labour government."
-        },
-        {
-            "text": "Die Opposition nutzt die schwache Position der Regierung aus.",
-            "translated_text": "The opposition is taking advantage of the government's weak position."
-        },
-        {
-            "text": "Experten sagen, dass die nächsten Kommunalwahlen im Mai sehr wichtig für Starmer werden.",
-            "translated_text": "Experts say that the next local elections in May will be very important for Starmer."
-        },
-        {
-            "text": "Obwohl Labour im Juli letzten Jahres einen großen Wahlsieg errungen hat, ist Starmers politische Zukunft jetzt unsicher.",
-            "translated_text": "Although Labour achieved a great election victory in July last year, Starmer's political future is now uncertain."
-        },
-        {
-            "text": "Die Partei muss schnell das Vertrauen der Bürger zurückgewinnen.",
-            "translated_text": "The party must quickly regain the trust of the citizens."
-        }
-    ],
-    "key_vocab": [
-        {
-            "term": "durchleben",
-            "translated_term": "to go through",
-            "example_usage": "Die britische Labour-Regierung durchlebt schwere Zeiten."
-        },
-        {
-            "term": "das Amt",
-            "translated_term": "office/position",
-            "example_usage": "Stellvertretende Premierministerin Angela Rayner ist von ihrem Amt zurückgetreten."
-        },
-        {
-            "term": "der Rücktritt",
-            "translated_term": "resignation",
-            "example_usage": "Der Grund für ihren Rücktritt ist ein Skandal um Steuern für ihr Haus."
-        },
-        {
-            "term": "die Entwicklung",
-            "translated_term": "development",
-            "example_usage": "Diese Entwicklung bringt die Regierung von Premierminister Keir Starmer in große Schwierigkeiten."
-        },
-        {
-            "term": "das Kabinett",
-            "translated_term": "cabinet",
-            "example_usage": "Starmer muss jetzt wichtige Veränderungen in seinem Kabinett vornehmen."
-        },
-        {
-            "term": "vornehmen",
-            "translated_term": "to make/carry out",
-            "example_usage": "Starmer muss jetzt wichtige Veränderungen in seinem Kabinett vornehmen."
-        },
-        {
-            "term": "die Opposition",
-            "translated_term": "opposition",
-            "example_usage": "Die Opposition nutzt die schwache Position der Regierung aus."
-        },
-        {
-            "term": "ausnutzen",
-            "translated_term": "to take advantage of",
-            "example_usage": "Die Opposition nutzt die schwache Position der Regierung aus."
-        },
-        {
-            "term": "die Kommunalwahlen",
-            "translated_term": "local elections",
-            "example_usage": "Experten sagen, dass die nächsten Kommunalwahlen im Mai sehr wichtig für Starmer werden."
-        },
-        {
-            "term": "erringen",
-            "translated_term": "to achieve",
-            "example_usage": "Obwohl Labour im Juli letzten Jahres einen großen Wahlsieg errungen hat."
-        },
-        {
-            "term": "das Vertrauen",
-            "translated_term": "trust",
-            "example_usage": "Die Partei muss schnell das Vertrauen der Bürger zurückgewinnen."
-        },
-        {
-            "term": "zurückgewinnen",
-            "translated_term": "to regain",
-            "example_usage": "Die Partei muss schnell das Vertrauen der Bürger zurückgewinnen."
-        }
-    ],
-    "sources": [
-        {
-            "name": "CNN",
-            "link_url": "https://www.cnn.com/world/united-kingdom"
-        },
-        {
-            "name": "CNBC",
-            "link_url": "https://www.cnbc.com/2025/09/16/the-uk-and-keir-starmer-need-trumps-state-visit-right-now-.html"
-        }
-    ]
+  "title": "Krise in der britischen Labour-Regierung",
+  "translated_title": "Crisis in the British Labour Government",
+  "text": [
+    {
+      "text": "Die britische Labour-Regierung durchlebt schwere Zeiten.",
+      "translated_text": "The British Labour government is going through difficult times."
+    },
+    {
+      "text": "Stellvertretende Premierministerin Angela Rayner ist von ihrem Amt zurückgetreten.",
+      "translated_text": "Deputy Prime Minister Angela Rayner has resigned from her position."
+    },
+    {
+      "text": "Der Grund für ihren Rücktritt ist ein Skandal um Steuern für ihr Haus.",
+      "translated_text": "The reason for her resignation is a scandal about taxes for her house."
+    },
+    {
+      "text": "Diese Entwicklung bringt die Regierung von Premierminister Keir Starmer in große Schwierigkeiten.",
+      "translated_text": "This development brings Prime Minister Keir Starmer's government into great difficulties."
+    },
+    {
+      "text": "Starmer muss jetzt wichtige Veränderungen in seinem Kabinett vornehmen.",
+      "translated_text": "Starmer must now make important changes to his cabinet."
+    },
+    {
+      "text": "Die Situation ist besonders schlecht, weil gleichzeitig Präsident Trump zu Besuch kommt.",
+      "translated_text": "The situation is particularly bad because President Trump is visiting at the same time."
+    },
+    {
+      "text": "Nigel Farage und seine Reform UK Partei kritisieren die Labour-Regierung stark.",
+      "translated_text": "Nigel Farage and his Reform UK party are strongly criticizing the Labour government."
+    },
+    {
+      "text": "Die Opposition nutzt die schwache Position der Regierung aus.",
+      "translated_text": "The opposition is taking advantage of the government's weak position."
+    },
+    {
+      "text": "Experten sagen, dass die nächsten Kommunalwahlen im Mai sehr wichtig für Starmer werden.",
+      "translated_text": "Experts say that the next local elections in May will be very important for Starmer."
+    },
+    {
+      "text": "Obwohl Labour im Juli letzten Jahres einen großen Wahlsieg errungen hat, ist Starmers politische Zukunft jetzt unsicher.",
+      "translated_text": "Although Labour achieved a great election victory in July last year, Starmer's political future is now uncertain."
+    },
+    {
+      "text": "Die Partei muss schnell das Vertrauen der Bürger zurückgewinnen.",
+      "translated_text": "The party must quickly regain the trust of the citizens."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "durchleben",
+      "translated_term": "to go through",
+      "example_usage": "Die britische Labour-Regierung durchlebt schwere Zeiten."
+    },
+    {
+      "term": "das Amt",
+      "translated_term": "office/position",
+      "example_usage": "Stellvertretende Premierministerin Angela Rayner ist von ihrem Amt zurückgetreten."
+    },
+    {
+      "term": "der Rücktritt",
+      "translated_term": "resignation",
+      "example_usage": "Der Grund für ihren Rücktritt ist ein Skandal um Steuern für ihr Haus."
+    },
+    {
+      "term": "die Entwicklung",
+      "translated_term": "development",
+      "example_usage": "Diese Entwicklung bringt die Regierung von Premierminister Keir Starmer in große Schwierigkeiten."
+    },
+    {
+      "term": "das Kabinett",
+      "translated_term": "cabinet",
+      "example_usage": "Starmer muss jetzt wichtige Veränderungen in seinem Kabinett vornehmen."
+    },
+    {
+      "term": "vornehmen",
+      "translated_term": "to make/carry out",
+      "example_usage": "Starmer muss jetzt wichtige Veränderungen in seinem Kabinett vornehmen."
+    },
+    {
+      "term": "die Opposition",
+      "translated_term": "opposition",
+      "example_usage": "Die Opposition nutzt die schwache Position der Regierung aus."
+    },
+    {
+      "term": "ausnutzen",
+      "translated_term": "to take advantage of",
+      "example_usage": "Die Opposition nutzt die schwache Position der Regierung aus."
+    },
+    {
+      "term": "die Kommunalwahlen",
+      "translated_term": "local elections",
+      "example_usage": "Experten sagen, dass die nächsten Kommunalwahlen im Mai sehr wichtig für Starmer werden."
+    },
+    {
+      "term": "erringen",
+      "translated_term": "to achieve",
+      "example_usage": "Obwohl Labour im Juli letzten Jahres einen großen Wahlsieg errungen hat."
+    },
+    {
+      "term": "das Vertrauen",
+      "translated_term": "trust",
+      "example_usage": "Die Partei muss schnell das Vertrauen der Bürger zurückgewinnen."
+    },
+    {
+      "term": "zurückgewinnen",
+      "translated_term": "to regain",
+      "example_usage": "Die Partei muss schnell das Vertrauen der Bürger zurückgewinnen."
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN",
+      "link_url": "https://www.cnn.com/world/united-kingdom"
+    },
+    {
+      "name": "CNBC",
+      "link_url": "https://www.cnbc.com/2025/09/16/the-uk-and-keir-starmer-need-trumps-state-visit-right-now-.html"
+    }
+  ]
 }

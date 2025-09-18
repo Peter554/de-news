@@ -11,6 +11,7 @@ permalink: "articles/{{ article.date | date }}/{{ article.title | slugify }}/"
   <article>
     <header>
       <h1>{{ article.title }}</h1>
+      <p><i>{{ article.translated_title }}</i></p>
       <p>{{ article.date | date }}</p>
     </header>
 
@@ -45,7 +46,7 @@ permalink: "articles/{{ article.date | date }}/{{ article.title | slugify }}/"
 
 <script>
   document.addEventListener('DOMContentLoaded', function() {
-    const toggleButton = document.getElementById('toggle-translations');
+    const toggleTranslationsButton = document.getElementById('toggle-translations');
     const readButton = document.getElementById('read-article');
     const stopButton = document.getElementById('stop-reading');
     const translations = document.querySelectorAll('.translation');
@@ -55,14 +56,14 @@ permalink: "articles/{{ article.date | date }}/{{ article.title | slugify }}/"
     let currentUtterance = null;
 
     // Translation toggle functionality
-    toggleButton.addEventListener('click', function() {
+    toggleTranslationsButton.addEventListener('click', function() {
       translationsVisible = !translationsVisible;
 
       translations.forEach(function(translation) {
         translation.style.display = translationsVisible ? 'block' : 'none';
       });
 
-      toggleButton.textContent = translationsVisible ? 'Hide Translations' : 'Show Translations';
+      toggleTranslationsButton.textContent = translationsVisible ? 'Hide Translations' : 'Show Translations';
     });
 
     // Text-to-speech functionality
