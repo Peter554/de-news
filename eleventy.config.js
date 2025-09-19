@@ -1,15 +1,21 @@
-const fs = require("fs").promises;
-const path = require("path");
+import path from "path";
+import fs from "fs";
+import { fileURLToPath } from "url";
+import { dirname } from "path";
 
-const slugify = require("@sindresorhus/slugify").default;
-const { DateTime } = require("luxon");
+import slugify from "@sindresorhus/slugify";
+import { DateTime } from "luxon";
 
-module.exports = function (eleventyConfig) {
-  eleventyConfig.addCollection("articles", async (collectionsApi) => {
+// https://stackoverflow.com/a/62892482
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
+export default function (eleventyConfig) {
+  eleventyConfig.addCollection("articles", (collectionsApi) => {
     // Get all date directories inside articles folder
     const articlesDir = path.join(__dirname, "articles");
 
-    let dateDirectories = await fs.readdir(articlesDir, {
+    let dateDirectories = fs.readdirSync(articlesDir, {
       withFileTypes: true,
     });
     // Filter only directories (ignore files like .gitkeep)
@@ -22,7 +28,7 @@ module.exports = function (eleventyConfig) {
 
     for (const dateDir of dateDirectories) {
       const dateDirPath = path.join(articlesDir, dateDir.name);
-      const articleFiles = await fs.readdir(dateDirPath);
+      const articleFiles = fs.readdirSync(dateDirPath);
 
       // Get date from directory name (assuming format YYYY-MM-DD)
       const dateStr = dateDir.name;
@@ -31,7 +37,7 @@ module.exports = function (eleventyConfig) {
       // Process each article file in this date directory
       for (const articleFile of articleFiles) {
         const articlePath = path.join(dateDirPath, articleFile);
-        const articleContent = await fs.readFile(articlePath, "utf-8");
+        const articleContent = fs.readFileSync(articlePath, "utf-8");
         const article = JSON.parse(articleContent);
 
         // Add date field to the article
@@ -56,9 +62,9 @@ module.exports = function (eleventyConfig) {
     return allArticles;
   });
 
-  eleventyConfig.addCollection("tags", async (collectionsApi) => {
+  eleventyConfig.addCollection("tags", (collectionsApi) => {
     const tagsPath = path.join(__dirname, "tags.json");
-    const tagsContent = await fs.readFile(tagsPath, "utf-8");
+    const tagsContent = fs.readFileSync(tagsPath, "utf-8");
     const tags = JSON.parse(tagsContent);
 
     tags.sort((a, b) => {
@@ -68,7 +74,7 @@ module.exports = function (eleventyConfig) {
     return tags;
   });
 
-  eleventyConfig.addFilter("index", (articles) => {
+  eleventyConfig.addFilter("articleIndex", (articles) => {
     return articles.map((article) => {
       return {
         title: article.title,
@@ -97,9 +103,10 @@ module.exports = function (eleventyConfig) {
     return v.toISODate();
   });
 
-  eleventyConfig.addFilter("last7days", (v) => {
-    return v.filter(
-      (v) => v.date >= DateTime.now().startOf("day").minus({ days: 7 }),
+  eleventyConfig.addFilter("last7days", (articles) => {
+    return articles.filter(
+      (article) =>
+        article.date >= DateTime.now().startOf("day").minus({ days: 7 }),
     );
   });
 
@@ -118,4 +125,4 @@ module.exports = function (eleventyConfig) {
     });
     return grouped;
   });
-};
+}

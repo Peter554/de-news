@@ -21,5 +21,6 @@
     "@11ty/eleventy": "^3.1.2",
     "@sindresorhus/slugify": "^3.0.0",
     "luxon": "^3.7.2"
-  }
+  },
+  "type": "module"
 }

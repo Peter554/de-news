@@ -16,8 +16,7 @@ layout: layout.njk
     const searchInput = document.getElementById('search-input');
     const searchResults = document.getElementById('search-results');
 
-    const fuse = new Fuse({{ collections.articles | index | dump | safe}}, {
-      includeScore: true,
+    const fuse = new Fuse({{ collections.articles | articleIndex | dump | safe}}, {
       keys: ['title', 'translated_title', 'date', 'year', 'month', 'tags']
     })
 
@@ -43,6 +42,7 @@ layout: layout.njk
     }
 
     searchInput.value = (new URLSearchParams(window.location.search)).get("q") || "";
+    searchInput.focus();
     updateResults();
 
     function onInputChange(event) {
