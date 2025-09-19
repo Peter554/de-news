@@ -1,5 +1,9 @@
 [
   {
+    "name": "Apple",
+    "translated_name": "Apple"
+  },
+  {
     "name": "Berlin",
     "translated_name": "Berlin"
   },
@@ -40,6 +44,10 @@
     "translated_name": "Youth Crime"
   },
   {
+    "name": "Menschenrechte",
+    "translated_name": "Human Rights"
+  },
+  {
     "name": "Öffentlicher Dienst",
     "translated_name": "Public Service"
   },
@@ -48,8 +56,20 @@
     "translated_name": "Public Transport"
   },
   {
+    "name": "Proteste",
+    "translated_name": "Protests"
+  },
+  {
+    "name": "Skandal",
+    "translated_name": "Scandal"
+  },
+  {
     "name": "Sicherheit",
     "translated_name": "Security"
+  },
+  {
+    "name": "Smartphone",
+    "translated_name": "Smartphone"
   },
   {
     "name": "Soziale Probleme",
@@ -58,6 +78,10 @@
   {
     "name": "Staatsbesuch",
     "translated_name": "State Visit"
+  },
+  {
+    "name": "Technologie",
+    "translated_name": "Technology"
   },
   {
     "name": "Ukraine-Krieg",
