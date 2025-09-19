@@ -5,12 +5,15 @@ import { dirname } from "path";
 
 import slugify from "@sindresorhus/slugify";
 import { DateTime } from "luxon";
+import eleventyRss from "@11ty/eleventy-plugin-rss";
 
 // https://stackoverflow.com/a/62892482
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 export default function (eleventyConfig) {
+  eleventyConfig.addPlugin(eleventyRss);
+
   eleventyConfig.addCollection("articles", (collectionsApi) => {
     // Get all date directories inside articles folder
     const articlesDir = path.join(__dirname, "articles");

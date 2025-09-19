@@ -4,12 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>DE News</title>
+    <title>{{ metadata.title }}</title>
     <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
-    <!--<link rel="icon" href="./favicon.ico" type="image/x-icon">-->
+    <link rel="alternate" type="application/atom+xml" title="DE News" href="/feed.atom">
   </head>
   <body>
-    <header><h1><a href="/">DE News</a></h1></header>
+    <header><h1><a href="/">{{ metadata.title }}</a></h1></header>
     {{ content | safe }}
     <footer>
         <a href="https://github.com/Peter554/de-news">Repo</a>
@@ -17,6 +17,8 @@
         <a href="/search/">Search</a>
         |
         <a href="/tags/">Tags</a>
+        |
+        <a href="/feed.atom">Feed</a>
     </footer>
   </body>
 </html>
