@@ -9,16 +9,22 @@
     <link rel="alternate" type="application/atom+xml" title="DE News" href="/feed.atom">
   </head>
   <body>
-    <header><h1><a href="/">{{ metadata.title }}</a></h1></header>
+    <header>
+        <h1><a href="/">{{ metadata.title }}</a></h1>
+        <div>
+            <a href="/">Home</a>
+            |
+            <a href="/search/">Search</a>
+            |
+            <a href="/tags/">Topics</a>
+            |
+            <a href="/feed.atom">Feed</a>
+            |
+            <a href="/#how-it-works">How it works</a>
+            |
+            <a href="https://github.com/Peter554/de-news">Repo</a>
+        </div>
+    </header>
     {{ content | safe }}
-    <footer>
-        <a href="https://github.com/Peter554/de-news">Repo</a>
-        |
-        <a href="/search/">Search</a>
-        |
-        <a href="/tags/">Tags</a>
-        |
-        <a href="/feed.atom">Feed</a>
-    </footer>
   </body>
 </html>
