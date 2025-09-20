@@ -44,6 +44,14 @@
     "translated_name": "Youth Crime"
   },
   {
+    "name": "Klimapolitik",
+    "translated_name": "Climate Policy"
+  },
+  {
+    "name": "Lokale Nachrichten",
+    "translated_name": "Local News"
+  },
+  {
     "name": "Menschenrechte",
     "translated_name": "Human Rights"
   },
@@ -76,6 +84,10 @@
     "translated_name": "Social Problems"
   },
   {
+    "name": "Sport",
+    "translated_name": "Sports"
+  },
+  {
     "name": "Staatsbesuch",
     "translated_name": "State Visit"
   },
@@ -98,5 +110,9 @@
   {
     "name": "Wohnungskrise",
     "translated_name": "Housing Crisis"
+  },
+  {
+    "name": "Wirtschaftspolitik",
+    "translated_name": "Economic Policy"
   }
 ]
