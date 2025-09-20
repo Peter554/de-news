@@ -1,4 +1,4 @@
-Search the internet for todays top news.
+Search the internet for today's top news.
 
 I'm especially interested in:
 - Global news
@@ -18,11 +18,11 @@ For each article:
 * Provide a list of 2-3 tags that describe the topic of the article.
   * The tags will be used to find articles on the same / similar topics.
   * The tags should be of the form "German text (English translation)" e.g. "Gaza-Konflikt (Gaza Conflict)"
-  * Where approptiate, reuse existing tags from the global `tags.json` file.
+  * Where appropriate, reuse existing tags from the global `tags.json` file.
   * Make sure all the article tags are added to the global `tags.json` file. The file should be sorted alphabetically by tag name.
 * Provide links to the original source articles, where one could go to read more.
   * Make sure these links point to specific articles, not generic sites.
 
-For each article, create a JSON file for the result under `articles/$today`, where `$today` is todays date (ISO format). Each JSON file should obey the schema given in `article-schema.json`.
+For each article, create a JSON file for the result under `articles/$today`, where `$today` is today's date (ISO format). Each JSON file should obey the schema given in `article-schema.json`.
 
 Make your changes on a new branch. Commit your changes and open a PR. Assign Peter554 to review the PR.
