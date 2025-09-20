@@ -1,0 +1,126 @@
+{
+  "title": "Trumps Staatsbesuch in Großbritannien löst massive Proteste aus",
+  "translated_title": "Trump's state visit to Great Britain triggers massive protests",
+  "text": [
+    {
+      "text": "Präsident Donald Trump besuchte diese Woche Großbritannien für einen offiziellen Staatsbesuch.",
+      "translated_text": "President Donald Trump visited Great Britain this week for an official state visit."
+    },
+    {
+      "text": "Am 17. September reiste Trump nach Windsor Castle, um König Charles III. zu treffen.",
+      "translated_text": "On September 17, Trump traveled to Windsor Castle to meet King Charles III."
+    },
+    {
+      "text": "Prinz William und Prinzessin Catherine begrüßten den Präsidenten und die First Lady bei ihrer Ankunft.",
+      "translated_text": "Prince William and Princess Catherine greeted the President and First Lady upon their arrival."
+    },
+    {
+      "text": "Der Besuch führte zu großen Protesten in London.",
+      "translated_text": "The visit led to large protests in London."
+    },
+    {
+      "text": "Tausende Demonstranten versammelten sich mit Anti-Trump-Schildern und palästinensischen Flaggen.",
+      "translated_text": "Thousands of demonstrators gathered with anti-Trump signs and Palestinian flags."
+    },
+    {
+      "text": "Die Stop-Trump-Kampagne organisierte einen Marsch zum Parlament.",
+      "translated_text": "The Stop Trump campaign organized a march to Parliament."
+    },
+    {
+      "text": "Am Wochenende protestierten über 150.000 Menschen gegen die britische Einwanderungspolitik.",
+      "translated_text": "Over the weekend, more than 150,000 people protested against British immigration policy."
+    },
+    {
+      "text": "Stephen Yaxley-Lennon, bekannt als Tommy Robinson, organisierte eine große Demonstration am 13. September.",
+      "translated_text": "Stephen Yaxley-Lennon, known as Tommy Robinson, organized a large demonstration on September 13."
+    },
+    {
+      "text": "Bisher kamen 2025 bereits 30.000 Menschen mit kleinen Booten über den Ärmelkanal.",
+      "translated_text": "So far in 2025, 30,000 people have already crossed the English Channel in small boats."
+    },
+    {
+      "text": "Umfragen zeigen, dass Nigel Farage von der Reform UK Partei bei Neuwahlen gewinnen könnte.",
+      "translated_text": "Polls show that Nigel Farage from the Reform UK party could win in new elections."
+    },
+    {
+      "text": "Die politische Stimmung in Großbritannien ist sehr angespannt.",
+      "translated_text": "The political mood in Great Britain is very tense."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Staatsbesuch",
+      "translated_term": "state visit",
+      "example_usage": "Präsident Donald Trump besuchte diese Woche Großbritannien für einen offiziellen Staatsbesuch."
+    },
+    {
+      "term": "das Schloss",
+      "translated_term": "castle",
+      "example_usage": "Am 17. September reiste Trump nach Windsor Castle, um König Charles III. zu treffen."
+    },
+    {
+      "term": "begrüßen",
+      "translated_term": "to greet",
+      "example_usage": "Prinz William und Prinzessin Catherine begrüßten den Präsidenten und die First Lady bei ihrer Ankunft."
+    },
+    {
+      "term": "der Demonstrant",
+      "translated_term": "demonstrator",
+      "example_usage": "Tausende Demonstranten versammelten sich mit Anti-Trump-Schildern und palästinensischen Flaggen."
+    },
+    {
+      "term": "sich versammeln",
+      "translated_term": "to gather",
+      "example_usage": "Tausende Demonstranten versammelten sich mit Anti-Trump-Schildern und palästinensischen Flaggen."
+    },
+    {
+      "term": "die Einwanderungspolitik",
+      "translated_term": "immigration policy",
+      "example_usage": "Am Wochenende protestierten über 150.000 Menschen gegen die britische Einwanderungspolitik."
+    },
+    {
+      "term": "organisieren",
+      "translated_term": "to organize",
+      "example_usage": "Stephen Yaxley-Lennon, bekannt als Tommy Robinson, organisierte eine große Demonstration am 13. September."
+    },
+    {
+      "term": "der Ärmelkanal",
+      "translated_term": "English Channel",
+      "example_usage": "Bisher kamen 2025 bereits 30.000 Menschen mit kleinen Booten über den Ärmelkanal."
+    },
+    {
+      "term": "die Umfrage",
+      "translated_term": "poll/survey",
+      "example_usage": "Umfragen zeigen, dass Nigel Farage von der Reform UK Partei bei Neuwahlen gewinnen könnte."
+    },
+    {
+      "term": "angespannt",
+      "translated_term": "tense",
+      "example_usage": "Die politische Stimmung in Großbritannien ist sehr angespannt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Staatsbesuch",
+      "translated_name": "State Visit"
+    },
+    {
+      "name": "Proteste",
+      "translated_name": "Protests"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ABC News - Trump greeted by king, thousands of protesters in UK visit",
+      "link_url": "https://abcnews.go.com/Politics/trump-begin-historic-uk-state-visit-royal-reception/story?id=125651147"
+    },
+    {
+      "name": "CBC News - Trump's U.K. visit looked like it would be dominated by trade. Immigration protests suggest otherwise",
+      "link_url": "https://www.cbc.ca/news/world/trump-starmer-uk-immigration-1.7634875"
+    }
+  ]
+}

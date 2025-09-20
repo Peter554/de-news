@@ -1,0 +1,125 @@
+{
+  "title": "Deutschlands neue Regierung kämpft gegen wirtschaftliche Stagnation",
+  "translated_title": "Germany's new government fights against economic stagnation",
+  "text": [
+    {
+      "text": "Deutschland steht vor großen wirtschaftlichen Herausforderungen.",
+      "translated_text": "Germany faces major economic challenges."
+    },
+    {
+      "text": "Nach der Bundestagswahl im Februar 2025 bildete die CDU/CSU eine neue Koalition mit der SPD.",
+      "translated_text": "After the federal election in February 2025, the CDU/CSU formed a new coalition with the SPD."
+    },
+    {
+      "text": "Friedrich Merz wurde im Mai 2025 zum neuen Bundeskanzler gewählt.",
+      "translated_text": "Friedrich Merz was elected as the new Federal Chancellor in May 2025."
+    },
+    {
+      "text": "Die deutsche Wirtschaft leidet unter zwei Jahren Rezession und null Wachstum.",
+      "translated_text": "The German economy suffers from two years of recession and zero growth."
+    },
+    {
+      "text": "Das Wirtschaftswachstum für 2025 wird nur bei 0,1 Prozent prognostiziert.",
+      "translated_text": "Economic growth for 2025 is projected at only 0.1 percent."
+    },
+    {
+      "text": "Wirtschaftsministerin Katherina Reiche sagte: 'Dieses Land braucht eine wirtschaftliche Wende.'",
+      "translated_text": "Economy Minister Katherina Reiche said: 'This country needs an economic turnaround.'"
+    },
+    {
+      "text": "Die neue Regierung plant Steuersenkungen für Unternehmen ab 2028.",
+      "translated_text": "The new government plans corporate tax cuts starting in 2028."
+    },
+    {
+      "text": "Fünf jährliche Senkungen um jeweils ein Prozent sind geplant.",
+      "translated_text": "Five annual cuts of one percent each are planned."
+    },
+    {
+      "text": "Kritiker sagen, die Pläne seien zu langsam und zu bescheiden.",
+      "translated_text": "Critics say the plans are too slow and too modest."
+    },
+    {
+      "text": "Die Regierung will auch in Infrastruktur investieren.",
+      "translated_text": "The government also wants to invest in infrastructure."
+    },
+    {
+      "text": "Brücken, Energieinfrastruktur und Telekommunikation brauchen Modernisierung.",
+      "translated_text": "Bridges, energy infrastructure and telecommunications need modernization."
+    },
+    {
+      "text": "Deutschland muss seine globale Wettbewerbsfähigkeit wiederherstellen.",
+      "translated_text": "Germany must restore its global competitiveness."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Herausforderung",
+      "translated_term": "challenge",
+      "example_usage": "Deutschland steht vor großen wirtschaftlichen Herausforderungen."
+    },
+    {
+      "term": "die Koalition",
+      "translated_term": "coalition",
+      "example_usage": "Nach der Bundestagswahl im Februar 2025 bildete die CDU/CSU eine neue Koalition mit der SPD."
+    },
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "Federal Chancellor",
+      "example_usage": "Friedrich Merz wurde im Mai 2025 zum neuen Bundeskanzler gewählt."
+    },
+    {
+      "term": "die Rezession",
+      "translated_term": "recession",
+      "example_usage": "Die deutsche Wirtschaft leidet unter zwei Jahren Rezession und null Wachstum."
+    },
+    {
+      "term": "prognostizieren",
+      "translated_term": "to forecast/project",
+      "example_usage": "Das Wirtschaftswachstum für 2025 wird nur bei 0,1 Prozent prognostiziert."
+    },
+    {
+      "term": "die Wende",
+      "translated_term": "turnaround",
+      "example_usage": "Dieses Land braucht eine wirtschaftliche Wende."
+    },
+    {
+      "term": "die Steuersenkung",
+      "translated_term": "tax cut",
+      "example_usage": "Die neue Regierung plant Steuersenkungen für Unternehmen ab 2028."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "infrastructure",
+      "example_usage": "Die Regierung will auch in Infrastruktur investieren."
+    },
+    {
+      "term": "die Wettbewerbsfähigkeit",
+      "translated_term": "competitiveness",
+      "example_usage": "Deutschland muss seine globale Wettbewerbsfähigkeit wiederherstellen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Bundeshaushalt",
+      "translated_name": "Federal Budget"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC - Germany's economy chief Reiche sets out roadmap to end turmoil",
+      "link_url": "https://www.cnbc.com/2025/05/09/germanys-economy-chief-reiche-sets-out-roadmap-to-end-turmoil.html"
+    },
+    {
+      "name": "Wikipedia - 2025 German federal election",
+      "link_url": "https://en.wikipedia.org/wiki/2025_German_federal_election"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "title": "Berlin Marathon 2025: 55.000 Läufer bereiten sich auf das große Rennen vor",
+  "translated_title": "Berlin Marathon 2025: 55,000 runners prepare for the big race",
+  "text": [
+    {
+      "text": "Am Sonntag, den 21. September, findet der 51. Berlin Marathon statt.",
+      "translated_text": "On Sunday, September 21, the 51st Berlin Marathon takes place."
+    },
+    {
+      "text": "Mehr als 55.000 Läufer haben sich für das berühmte Rennen angemeldet.",
+      "translated_text": "More than 55,000 runners have registered for the famous race."
+    },
+    {
+      "text": "Der Marathon startet um 9:15 Uhr morgens im Herzen der deutschen Hauptstadt.",
+      "translated_text": "The marathon starts at 9:15 a.m. in the heart of the German capital."
+    },
+    {
+      "text": "Das Event ist bekannt für seine aufregende Atmosphäre und hohe Energie.",
+      "translated_text": "The event is known for its exciting atmosphere and high energy."
+    },
+    {
+      "text": "Wegen des Marathons wird es zahlreiche Verkehrsbeschränkungen in der Stadt geben.",
+      "translated_text": "Due to the marathon, there will be numerous traffic restrictions in the city."
+    },
+    {
+      "text": "Die Vorbereitungen für das große Sportereignis laufen bereits auf Hochtouren.",
+      "translated_text": "Preparations for the big sporting event are already in full swing."
+    },
+    {
+      "text": "Gestern mussten 12.400 Menschen in Spandau ihre Häuser verlassen.",
+      "translated_text": "Yesterday, 12,400 people in Spandau had to leave their homes."
+    },
+    {
+      "text": "Grund war die Entschärfung einer 100 Kilogramm schweren Weltkriegsbombe.",
+      "translated_text": "The reason was the defusing of a 100-kilogram World War bomb."
+    },
+    {
+      "text": "Am Samstag finden die Berliner Tanzsportmeisterschaften in Bernau statt.",
+      "translated_text": "On Saturday, the Berlin Dance Sport Championships take place in Bernau."
+    },
+    {
+      "text": "Ein neues Zentrum für Gen- und Zelltherapie entsteht am Berliner Nordhafen.",
+      "translated_text": "A new center for gene and cell therapy is being built at Berlin's Nordhafen."
+    },
+    {
+      "text": "Das Wochenende wird voller Veranstaltungen, Festivals und Ausstellungen sein.",
+      "translated_text": "The weekend will be full of events, festivals and exhibitions."
+    },
+    {
+      "text": "Berlin zeigt sich wieder als lebendige und kulturell reiche Metropole.",
+      "translated_text": "Berlin shows itself again as a vibrant and culturally rich metropolis."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Läufer",
+      "translated_term": "runner",
+      "example_usage": "Mehr als 55.000 Läufer haben sich für das berühmte Rennen angemeldet."
+    },
+    {
+      "term": "sich anmelden",
+      "translated_term": "to register",
+      "example_usage": "Mehr als 55.000 Läufer haben sich für das berühmte Rennen angemeldet."
+    },
+    {
+      "term": "die Atmosphäre",
+      "translated_term": "atmosphere",
+      "example_usage": "Das Event ist bekannt für seine aufregende Atmosphäre und hohe Energie."
+    },
+    {
+      "term": "die Verkehrsbeschränkung",
+      "translated_term": "traffic restriction",
+      "example_usage": "Wegen des Marathons wird es zahlreiche Verkehrsbeschränkungen in der Stadt geben."
+    },
+    {
+      "term": "auf Hochtouren laufen",
+      "translated_term": "to be in full swing",
+      "example_usage": "Die Vorbereitungen für das große Sportereignis laufen bereits auf Hochtouren."
+    },
+    {
+      "term": "verlassen",
+      "translated_term": "to leave",
+      "example_usage": "Gestern mussten 12.400 Menschen in Spandau ihre Häuser verlassen."
+    },
+    {
+      "term": "die Entschärfung",
+      "translated_term": "defusing",
+      "example_usage": "Grund war die Entschärfung einer 100 Kilogramm schweren Weltkriegsbombe."
+    },
+    {
+      "term": "die Meisterschaft",
+      "translated_term": "championship",
+      "example_usage": "Am Samstag finden die Berliner Tanzsportmeisterschaften in Bernau statt."
+    },
+    {
+      "term": "entstehen",
+      "translated_term": "to be built/created",
+      "example_usage": "Ein neues Zentrum für Gen- und Zelltherapie entsteht am Berliner Nordhafen."
+    },
+    {
+      "term": "lebendig",
+      "translated_term": "vibrant/lively",
+      "example_usage": "Berlin zeigt sich wieder als lebendige und kulturell reiche Metropole."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Sport",
+      "translated_name": "Sports"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Travel And Tour World - Berlin Marathon 2025",
+      "link_url": "https://www.travelandtourworld.com/news/article/berlin-marathon-2025-germany-a-global-celebration-of-speed-diversity-and-unforgettable-experiences/"
+    },
+    {
+      "name": "Berlin.de - News from Berlin",
+      "link_url": "https://www.berlin.de/en/news/"
+    }
+  ]
+}
