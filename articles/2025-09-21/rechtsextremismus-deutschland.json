@@ -1,0 +1,122 @@
+{
+  "title": "Polizei verhaftet Rechtsextremisten mit Waffen",
+  "translated_title": "Police arrest right-wing extremists with weapons",
+  "text": [
+    {
+      "text": "Deutsche Polizei durchsuchte diese Woche Immobilien in mehreren Bundesländern.",
+      "translated_text": "German police searched properties this week in several federal states."
+    },
+    {
+      "text": "Die Razzien richteten sich gegen eine mutmaßliche rechtsextremistische Gruppe.",
+      "translated_text": "The raids targeted a suspected right-wing extremist group."
+    },
+    {
+      "text": "Die Gruppe soll automatische Schusswaffen besessen haben.",
+      "translated_text": "The group allegedly possessed automatic firearms."
+    },
+    {
+      "text": "Acht Verdächtige wurden bei den Razzien ins Visier genommen.",
+      "translated_text": "Eight suspects were targeted in the raids."
+    },
+    {
+      "text": "Spezialeinheiten der Polizei waren an den Durchsuchungen beteiligt.",
+      "translated_text": "Police special forces were involved in the searches."
+    },
+    {
+      "text": "Die Razzien fanden in Niedersachsen, Baden-Württemberg und Nordrhein-Westfalen statt.",
+      "translated_text": "The raids took place in Lower Saxony, Baden-Württemberg, and North Rhine-Westphalia."
+    },
+    {
+      "text": "Die Gruppe nannte sich 'Letzte Welle der Verteidigung'.",
+      "translated_text": "The group called itself 'Last Wave of Defense'."
+    },
+    {
+      "text": "Sie plante angeblich Angriffe auf Asylsuchende und Migranten.",
+      "translated_text": "They allegedly planned attacks on asylum seekers and migrants."
+    },
+    {
+      "text": "Auch politische Gegner sollten angegriffen werden.",
+      "translated_text": "Political opponents were also to be attacked."
+    },
+    {
+      "text": "Die Behörden nehmen die Bedrohung durch Rechtsextremismus sehr ernst.",
+      "translated_text": "Authorities take the threat from right-wing extremism very seriously."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "durchsuchen",
+      "translated_term": "to search",
+      "example_usage": "Deutsche Polizei durchsuchte Immobilien in mehreren Bundesländern."
+    },
+    {
+      "term": "die Razzia",
+      "translated_term": "raid",
+      "example_usage": "Die Razzien richteten sich gegen eine rechtsextremistische Gruppe."
+    },
+    {
+      "term": "mutmaßlich",
+      "translated_term": "alleged",
+      "example_usage": "Die Razzien richteten sich gegen eine mutmaßliche Gruppe."
+    },
+    {
+      "term": "rechtsextremistisch",
+      "translated_term": "right-wing extremist",
+      "example_usage": "Die Polizei ging gegen eine rechtsextremistische Gruppe vor."
+    },
+    {
+      "term": "die Schusswaffe",
+      "translated_term": "firearm",
+      "example_usage": "Die Gruppe soll automatische Schusswaffen besessen haben."
+    },
+    {
+      "term": "der Verdächtige",
+      "translated_term": "suspect",
+      "example_usage": "Acht Verdächtige wurden bei den Razzien ins Visier genommen."
+    },
+    {
+      "term": "die Spezialeinheit",
+      "translated_term": "special unit",
+      "example_usage": "Spezialeinheiten der Polizei waren an den Durchsuchungen beteiligt."
+    },
+    {
+      "term": "der Asylsuchende",
+      "translated_term": "asylum seeker",
+      "example_usage": "Sie planten Angriffe auf Asylsuchende und Migranten."
+    },
+    {
+      "term": "der Gegner",
+      "translated_term": "opponent",
+      "example_usage": "Auch politische Gegner sollten angegriffen werden."
+    },
+    {
+      "term": "die Bedrohung",
+      "translated_term": "threat",
+      "example_usage": "Die Behörden nehmen die Bedrohung durch Rechtsextremismus ernst."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Extremismus",
+      "translated_name": "Extremism"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/5/21/germany-arrests-minors-over-alleged-attacks-on-asylum-seekers-migrants"
+    },
+    {
+      "name": "Deutsche Welle",
+      "link_url": "http://www.dw-world.de/"
+    }
+  ]
+}

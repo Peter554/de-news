@@ -1,0 +1,122 @@
+{
+  "title": "Berlin-Marathon 2025 steht vor der Tür",
+  "translated_title": "Berlin Marathon 2025 is approaching",
+  "text": [
+    {
+      "text": "Der BMW Berlin-Marathon findet morgen zum 51. Mal statt.",
+      "translated_text": "The BMW Berlin Marathon will take place tomorrow for the 51st time."
+    },
+    {
+      "text": "Ungefähr 80.000 Athleten werden teilnehmen, darunter etwa 60.000 Läufer.",
+      "translated_text": "Approximately 80,000 athletes will participate, including about 60,000 runners."
+    },
+    {
+      "text": "Auch Handbiker, Rollstuhlfahrer und Skater nehmen an dem Event teil.",
+      "translated_text": "Handcyclists, wheelchair athletes, and skaters also participate in the event."
+    },
+    {
+      "text": "Der Titelverteidiger Milkesa Mengesha aus Äthiopien wird wieder laufen.",
+      "translated_text": "The defending champion Milkesa Mengesha from Ethiopia will run again."
+    },
+    {
+      "text": "Er gewann das Rennen 2024 in beeindruckenden 2:03:17 Stunden.",
+      "translated_text": "He won the 2024 race in an impressive 2:03:17 hours."
+    },
+    {
+      "text": "Starke Konkurrenz kommt von Elite-Läufern aus Kenia und Japan.",
+      "translated_text": "Strong competition comes from elite runners from Kenya and Japan."
+    },
+    {
+      "text": "Der Marathon führt durch das historische Zentrum Berlins.",
+      "translated_text": "The marathon leads through Berlin's historic center."
+    },
+    {
+      "text": "Tausende Zuschauer werden die Strecke säumen und die Läufer anfeuern.",
+      "translated_text": "Thousands of spectators will line the route and cheer on the runners."
+    },
+    {
+      "text": "Das Event ist einer der größten Marathons der Welt.",
+      "translated_text": "The event is one of the largest marathons in the world."
+    },
+    {
+      "text": "Berlin erwartet internationale Aufmerksamkeit und viele Touristen.",
+      "translated_text": "Berlin expects international attention and many tourists."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Marathon",
+      "translated_term": "marathon",
+      "example_usage": "Der BMW Berlin-Marathon findet morgen zum 51. Mal statt."
+    },
+    {
+      "term": "der Athlet",
+      "translated_term": "athlete",
+      "example_usage": "Ungefähr 80.000 Athleten werden an dem Marathon teilnehmen."
+    },
+    {
+      "term": "der Läufer",
+      "translated_term": "runner",
+      "example_usage": "Etwa 60.000 Läufer nehmen an dem Event teil."
+    },
+    {
+      "term": "teilnehmen",
+      "translated_term": "to participate",
+      "example_usage": "Handbiker und Rollstuhlfahrer nehmen auch an dem Event teil."
+    },
+    {
+      "term": "der Titelverteidiger",
+      "translated_term": "defending champion",
+      "example_usage": "Der Titelverteidiger Milkesa Mengesha wird wieder laufen."
+    },
+    {
+      "term": "beeindruckend",
+      "translated_term": "impressive",
+      "example_usage": "Er gewann das Rennen in beeindruckenden 2:03:17 Stunden."
+    },
+    {
+      "term": "die Konkurrenz",
+      "translated_term": "competition",
+      "example_usage": "Starke Konkurrenz kommt von Elite-Läufern aus Kenia."
+    },
+    {
+      "term": "die Strecke",
+      "translated_term": "route",
+      "example_usage": "Tausende Zuschauer werden die Strecke säumen."
+    },
+    {
+      "term": "anfeuern",
+      "translated_term": "to cheer on",
+      "example_usage": "Die Zuschauer werden die Läufer anfeuern."
+    },
+    {
+      "term": "die Aufmerksamkeit",
+      "translated_term": "attention",
+      "example_usage": "Berlin erwartet internationale Aufmerksamkeit."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Sport",
+      "translated_name": "Sports"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Sports Illustrated",
+      "link_url": "https://www.si.com/onsi/running/news/how-to-watch-the-expected-fast-times-at-the-2025-bmw-berlin-marathon"
+    },
+    {
+      "name": "Berlin Brandenburg News",
+      "link_url": "https://www.in-berlin-brandenburg.com/news/21-09-2025-verkaufsoffener-sonntag-berlin-brandenburg/"
+    }
+  ]
+}
