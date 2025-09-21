@@ -1,0 +1,117 @@
+{
+  "title": "Trump besucht Großbritannien für historischen Staatsbesuch",
+  "translated_title": "Trump visits Great Britain for historic state visit",
+  "text": [
+    {
+      "text": "US-Präsident Donald Trump ist diese Woche zu einem historischen Staatsbesuch in Großbritannien angekommen.",
+      "translated_text": "US President Donald Trump arrived this week for a historic state visit to Great Britain."
+    },
+    {
+      "text": "Am Mittwoch traf Trump König Charles III. im Windsor Castle, was ihn zum ersten gewählten politischen Führer macht, der zwei Staatsbesuche bei einem britischen Monarchen hatte.",
+      "translated_text": "On Wednesday, Trump met King Charles III at Windsor Castle, making him the first elected political leader to have two state visits with a British monarch."
+    },
+    {
+      "text": "Die Willkommenszeremonie war außergewöhnlich groß und spektakulär.",
+      "translated_text": "The welcome ceremony was exceptionally large and spectacular."
+    },
+    {
+      "text": "Das britische Verteidigungsministerium nannte es 'die größte militärische Zeremonie für einen Staatsbesuch in der jüngeren Geschichte'.",
+      "translated_text": "The British Ministry of Defense called it 'the largest military ceremony for a state visit in recent history'."
+    },
+    {
+      "text": "Trump und der britische Premierminister Keir Starmer unterzeichneten am Donnerstag eine neue Technologie-Partnerschaft.",
+      "translated_text": "Trump and British Prime Minister Keir Starmer signed a new technology partnership on Thursday."
+    },
+    {
+      "text": "Das Abkommen umfasst Investitionen in künstliche Intelligenz und Kernenergie.",
+      "translated_text": "The agreement includes investments in artificial intelligence and nuclear power."
+    },
+    {
+      "text": "Starmer sagte, es habe 'die Macht, Leben zu verändern'.",
+      "translated_text": "Starmer said it has 'the power to change lives'."
+    },
+    {
+      "text": "Trump behauptete, seine Reise über den Atlantik habe Geschäfte im Wert von 350 Milliarden Dollar gesichert.",
+      "translated_text": "Trump claimed his trip across the Atlantic secured deals worth 350 billion dollars."
+    },
+    {
+      "text": "Während des Besuchs gab es auch Proteste in London mit mehr als 150.000 Menschen, die Änderungen in der Einwanderungspolitik forderten.",
+      "translated_text": "During the visit, there were also protests in London with more than 150,000 people demanding changes to immigration policy."
+    },
+    {
+      "text": "Die beiden Führer diskutierten internationale Themen, zeigten aber Meinungsverschiedenheiten beim Gaza-Konflikt.",
+      "translated_text": "The two leaders discussed international issues but showed disagreements on the Gaza conflict."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Staatsbesuch",
+      "translated_term": "state visit",
+      "example_usage": "Trump ist zu einem historischen Staatsbesuch in Großbritannien angekommen."
+    },
+    {
+      "term": "der Monarch",
+      "translated_term": "monarch",
+      "example_usage": "Er ist der erste gewählte politische Führer, der zwei Staatsbesuche bei einem britischen Monarchen hatte."
+    },
+    {
+      "term": "die Willkommenszeremonie",
+      "translated_term": "welcome ceremony",
+      "example_usage": "Die Willkommenszeremonie war außergewöhnlich groß und spektakulär."
+    },
+    {
+      "term": "unterzeichnen",
+      "translated_term": "to sign",
+      "example_usage": "Trump und Starmer unterzeichneten eine neue Technologie-Partnerschaft."
+    },
+    {
+      "term": "das Abkommen",
+      "translated_term": "agreement",
+      "example_usage": "Das Abkommen umfasst Investitionen in künstliche Intelligenz."
+    },
+    {
+      "term": "die künstliche Intelligenz",
+      "translated_term": "artificial intelligence",
+      "example_usage": "Das Abkommen umfasst Investitionen in künstliche Intelligenz."
+    },
+    {
+      "term": "behaupten",
+      "translated_term": "to claim",
+      "example_usage": "Trump behauptete, seine Reise habe Geschäfte im Wert von 350 Milliarden Dollar gesichert."
+    },
+    {
+      "term": "die Einwanderungspolitik",
+      "translated_term": "immigration policy",
+      "example_usage": "Mehr als 150.000 Menschen forderten Änderungen in der Einwanderungspolitik."
+    },
+    {
+      "term": "die Meinungsverschiedenheit",
+      "translated_term": "disagreement",
+      "example_usage": "Die beiden Führer zeigten Meinungsverschiedenheiten beim Gaza-Konflikt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Staatsbesuch",
+      "translated_name": "State Visit"
+    },
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "USA-UK Beziehungen",
+      "translated_name": "US-UK Relations"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN",
+      "link_url": "https://www.cnn.com/politics/live-news/trump-presidency-uk-visit-09-16-25"
+    },
+    {
+      "name": "ABC News",
+      "link_url": "https://abcnews.go.com/Politics/trump-greeted-by-king-thousands-of-protesters-in-uk-visit/story?id=125651147"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "title": "US-Kongress kämpft gegen Regierungs-Shutdown",
+  "translated_title": "US Congress fights against government shutdown",
+  "text": [
+    {
+      "text": "Republikanische Führung im Repräsentantenhaus stellte neue Gesetze vor.",
+      "translated_text": "Republican leadership in the House of Representatives introduced new legislation."
+    },
+    {
+      "text": "Das Gesetz soll die Bundesregierung bis zum 21. November finanzieren.",
+      "translated_text": "The law is intended to fund the federal government until November 21."
+    },
+    {
+      "text": "Ziel ist es, einen Regierungs-Shutdown zu vermeiden.",
+      "translated_text": "The goal is to avoid a government shutdown."
+    },
+    {
+      "text": "Die aktuelle Finanzierung läuft am 30. September aus.",
+      "translated_text": "Current funding expires on September 30."
+    },
+    {
+      "text": "Die Abgeordneten sind nächste Woche für eine Pause geplant.",
+      "translated_text": "Lawmakers are scheduled for a recess next week."
+    },
+    {
+      "text": "Dies macht den Zeitplan sehr knapp für die Verhandlungen.",
+      "translated_text": "This makes the timeline very tight for negotiations."
+    },
+    {
+      "text": "Das Gesetz würde auch die Sicherheit für Gesetzgeber erhöhen.",
+      "translated_text": "The law would also increase security for lawmakers."
+    },
+    {
+      "text": "Dies geschieht nach dem Attentat auf den konservativen Aktivisten Charlie Kirk.",
+      "translated_text": "This happens after the assassination of conservative activist Charlie Kirk."
+    },
+    {
+      "text": "Demokraten und Republikaner müssen einen Kompromiss finden.",
+      "translated_text": "Democrats and Republicans must find a compromise."
+    },
+    {
+      "text": "Ein Shutdown würde Millionen von Bundesangestellten betreffen.",
+      "translated_text": "A shutdown would affect millions of federal employees."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Kongress",
+      "translated_term": "Congress",
+      "example_usage": "Der US-Kongress kämpft gegen einen Regierungs-Shutdown."
+    },
+    {
+      "term": "das Repräsentantenhaus",
+      "translated_term": "House of Representatives",
+      "example_usage": "Republikanische Führung im Repräsentantenhaus stellte Gesetze vor."
+    },
+    {
+      "term": "die Bundesregierung",
+      "translated_term": "federal government",
+      "example_usage": "Das Gesetz soll die Bundesregierung bis November finanzieren."
+    },
+    {
+      "term": "der Shutdown",
+      "translated_term": "shutdown",
+      "example_usage": "Ziel ist es, einen Regierungs-Shutdown zu vermeiden."
+    },
+    {
+      "term": "die Finanzierung",
+      "translated_term": "funding",
+      "example_usage": "Die aktuelle Finanzierung läuft am 30. September aus."
+    },
+    {
+      "term": "der Abgeordnete",
+      "translated_term": "lawmaker",
+      "example_usage": "Die Abgeordneten sind nächste Woche für eine Pause geplant."
+    },
+    {
+      "term": "die Verhandlung",
+      "translated_term": "negotiation",
+      "example_usage": "Der Zeitplan ist sehr knapp für die Verhandlungen."
+    },
+    {
+      "term": "das Attentat",
+      "translated_term": "assassination",
+      "example_usage": "Dies geschieht nach dem Attentat auf Charlie Kirk."
+    },
+    {
+      "term": "der Kompromiss",
+      "translated_term": "compromise",
+      "example_usage": "Demokraten und Republikaner müssen einen Kompromiss finden."
+    },
+    {
+      "term": "der Bundesangestellte",
+      "translated_term": "federal employee",
+      "example_usage": "Ein Shutdown würde Millionen von Bundesangestellten betreffen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Bundeshaushalt",
+      "translated_name": "Federal Budget"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN Politics",
+      "link_url": "https://www.cnn.com/politics/live-news/trump-presidency-uk-visit-09-16-25"
+    },
+    {
+      "name": "ABC News",
+      "link_url": "https://abcnews.go.com/International"
+    }
+  ]
+}
