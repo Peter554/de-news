@@ -1,0 +1,122 @@
+{
+  "title": "Trump und Starmer schließen Technologie-Abkommen ab",
+  "translated_title": "Trump and Starmer conclude technology agreement",
+  "text": [
+    {
+      "text": "Der amerikanische Präsident Donald Trump und der britische Premierminister Keir Starmer haben ein wichtiges Technologie-Abkommen unterzeichnet.",
+      "translated_text": "American President Donald Trump and British Prime Minister Keir Starmer have signed an important technology agreement."
+    },
+    {
+      "text": "Das Abkommen umfasst Investitionen in künstliche Intelligenz und Atomkraft.",
+      "translated_text": "The agreement includes investments in artificial intelligence and nuclear power."
+    },
+    {
+      "text": "Trump sagte, dass die Reise nach Großbritannien 350 Milliarden Dollar an Geschäften gebracht hat.",
+      "translated_text": "Trump said that the trip to Great Britain brought $350 billion in deals."
+    },
+    {
+      "text": "Die beiden Politiker trafen sich in Starmers offizieller Residenz nördlich von London.",
+      "translated_text": "The two politicians met at Starmer's official residence north of London."
+    },
+    {
+      "text": "Sie diskutierten auch über die Kriege in Gaza und der Ukraine.",
+      "translated_text": "They also discussed the wars in Gaza and Ukraine."
+    },
+    {
+      "text": "Bei dem Gaza-Konflikt waren sich Trump und Starmer nicht einig.",
+      "translated_text": "On the Gaza conflict, Trump and Starmer did not agree."
+    },
+    {
+      "text": "Trump ist gegen die Anerkennung eines palästinensischen Staates durch Großbritannien.",
+      "translated_text": "Trump is against Great Britain's recognition of a Palestinian state."
+    },
+    {
+      "text": "Starmer nannte die Situation in Gaza 'unerträglich'.",
+      "translated_text": "Starmer called the situation in Gaza 'unbearable'."
+    },
+    {
+      "text": "Trotz der Meinungsverschiedenheiten betonten beide die starke Allianz zwischen den USA und Großbritannien.",
+      "translated_text": "Despite the disagreements, both emphasized the strong alliance between the USA and Great Britain."
+    },
+    {
+      "text": "Das neue Technologie-Abkommen soll das Leben der Menschen in beiden Ländern verbessern.",
+      "translated_text": "The new technology agreement should improve the lives of people in both countries."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Abkommen",
+      "translated_term": "agreement",
+      "example_usage": "Das Abkommen umfasst Investitionen in künstliche Intelligenz und Atomkraft."
+    },
+    {
+      "term": "unterzeichnen",
+      "translated_term": "to sign",
+      "example_usage": "Der amerikanische Präsident Donald Trump und der britische Premierminister Keir Starmer haben ein wichtiges Technologie-Abkommen unterzeichnet."
+    },
+    {
+      "term": "die Investition",
+      "translated_term": "investment",
+      "example_usage": "Das Abkommen umfasst Investitionen in künstliche Intelligenz und Atomkraft."
+    },
+    {
+      "term": "künstliche Intelligenz",
+      "translated_term": "artificial intelligence",
+      "example_usage": "Das Abkommen umfasst Investitionen in künstliche Intelligenz und Atomkraft."
+    },
+    {
+      "term": "die Atomkraft",
+      "translated_term": "nuclear power",
+      "example_usage": "Das Abkommen umfasst Investitionen in künstliche Intelligenz und Atomkraft."
+    },
+    {
+      "term": "die Residenz",
+      "translated_term": "residence",
+      "example_usage": "Die beiden Politiker trafen sich in Starmers offizieller Residenz nördlich von London."
+    },
+    {
+      "term": "die Anerkennung",
+      "translated_term": "recognition",
+      "example_usage": "Trump ist gegen die Anerkennung eines palästinensischen Staates durch Großbritannien."
+    },
+    {
+      "term": "unerträglich",
+      "translated_term": "unbearable",
+      "example_usage": "Starmer nannte die Situation in Gaza 'unerträglich'."
+    },
+    {
+      "term": "die Meinungsverschiedenheit",
+      "translated_term": "disagreement",
+      "example_usage": "Trotz der Meinungsverschiedenheiten betonten beide die starke Allianz zwischen den USA und Großbritannien."
+    },
+    {
+      "term": "die Allianz",
+      "translated_term": "alliance",
+      "example_usage": "Trotz der Meinungsverschiedenheiten betonten beide die starke Allianz zwischen den USA und Großbritannien."
+    }
+  ],
+  "tags": [
+    {
+      "name": "USA-UK Beziehungen",
+      "translated_name": "US-UK Relations"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    },
+    {
+      "name": "Gaza-Konflikt",
+      "translated_name": "Gaza Conflict"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ABC News Politics",
+      "link_url": "https://abcnews.go.com/Politics/trump-leave-windsor-castle-meet-starmer-day-2/story?id=125692018"
+    },
+    {
+      "name": "CNN UK News",
+      "link_url": "https://www.cnn.com/world/united-kingdom"
+    }
+  ]
+}

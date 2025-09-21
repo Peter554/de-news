@@ -1,0 +1,122 @@
+{
+  "title": "Polizei durchsucht Häuser von Rechtsextremisten in Deutschland",
+  "translated_title": "Police search houses of right-wing extremists in Germany",
+  "text": [
+    {
+      "text": "Die deutsche Polizei hat am Dienstag Häuser in mehreren Bundesländern durchsucht.",
+      "translated_text": "German police searched houses in several federal states on Tuesday."
+    },
+    {
+      "text": "Die Razzia richtete sich gegen eine rechtsextremistische Gruppe.",
+      "translated_text": "The raid was directed against a right-wing extremist group."
+    },
+    {
+      "text": "Die Polizei vermutet, dass die Gruppe automatische Waffen besitzt.",
+      "translated_text": "Police suspect that the group possesses automatic weapons."
+    },
+    {
+      "text": "Acht Verdächtige stehen unter Untersuchung.",
+      "translated_text": "Eight suspects are under investigation."
+    },
+    {
+      "text": "Die Durchsuchungen fanden in Niedersachsen, Baden-Württemberg und Nordrhein-Westfalen statt.",
+      "translated_text": "The searches took place in Lower Saxony, Baden-Württemberg and North Rhine-Westphalia."
+    },
+    {
+      "text": "Spezialeinheiten der Polizei waren an der Aktion beteiligt.",
+      "translated_text": "Police special units were involved in the operation."
+    },
+    {
+      "text": "Rechtsextremismus ist ein wachsendes Problem in Deutschland.",
+      "translated_text": "Right-wing extremism is a growing problem in Germany."
+    },
+    {
+      "text": "Die Behörden nehmen solche Gruppen sehr ernst.",
+      "translated_text": "The authorities take such groups very seriously."
+    },
+    {
+      "text": "Der Besitz von automatischen Waffen ist in Deutschland illegal.",
+      "translated_text": "Possession of automatic weapons is illegal in Germany."
+    },
+    {
+      "text": "Die Ermittlungen gegen die Gruppe dauern noch an.",
+      "translated_text": "The investigations against the group are still ongoing."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "durchsuchen",
+      "translated_term": "to search",
+      "example_usage": "Die deutsche Polizei hat am Dienstag Häuser in mehreren Bundesländern durchsucht."
+    },
+    {
+      "term": "das Bundesland",
+      "translated_term": "federal state",
+      "example_usage": "Die deutsche Polizei hat am Dienstag Häuser in mehreren Bundesländern durchsucht."
+    },
+    {
+      "term": "die Razzia",
+      "translated_term": "raid",
+      "example_usage": "Die Razzia richtete sich gegen eine rechtsextremistische Gruppe."
+    },
+    {
+      "term": "rechtsextremistisch",
+      "translated_term": "right-wing extremist",
+      "example_usage": "Die Razzia richtete sich gegen eine rechtsextremistische Gruppe."
+    },
+    {
+      "term": "vermuten",
+      "translated_term": "to suspect",
+      "example_usage": "Die Polizei vermutet, dass die Gruppe automatische Waffen besitzt."
+    },
+    {
+      "term": "automatische Waffen",
+      "translated_term": "automatic weapons",
+      "example_usage": "Die Polizei vermutet, dass die Gruppe automatische Waffen besitzt."
+    },
+    {
+      "term": "der Verdächtige",
+      "translated_term": "suspect",
+      "example_usage": "Acht Verdächtige stehen unter Untersuchung."
+    },
+    {
+      "term": "die Spezialeinheit",
+      "translated_term": "special unit",
+      "example_usage": "Spezialeinheiten der Polizei waren an der Aktion beteiligt."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "authority",
+      "example_usage": "Die Behörden nehmen solche Gruppen sehr ernst."
+    },
+    {
+      "term": "die Ermittlung",
+      "translated_term": "investigation",
+      "example_usage": "Die Ermittlungen gegen die Gruppe dauern noch an."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Extremismus",
+      "translated_name": "Extremism"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Deutsche Welle",
+      "link_url": "http://www.dw-world.de/"
+    },
+    {
+      "name": "Al Jazeera Germany",
+      "link_url": "https://www.aljazeera.com/where/germany/"
+    }
+  ]
+}

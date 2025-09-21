@@ -1,0 +1,122 @@
+{
+  "title": "Russland startet großen Angriff auf Ukraine - NATO reagiert",
+  "translated_title": "Russia launches large attack on Ukraine - NATO reacts",
+  "text": [
+    {
+      "text": "Russland hat heute einen großen Angriff auf die Ukraine gestartet.",
+      "translated_text": "Russia launched a large attack on Ukraine today."
+    },
+    {
+      "text": "Die russischen Streitkräfte griffen verschiedene Städte in der Ukraine an.",
+      "translated_text": "Russian forces attacked various cities in Ukraine."
+    },
+    {
+      "text": "NATO-Länder sandten sofort Kampfjets, um den Luftraum von Estland und Polen zu schützen.",
+      "translated_text": "NATO countries immediately sent fighter jets to protect the airspace of Estonia and Poland."
+    },
+    {
+      "text": "Die internationale Gemeinschaft ist sehr besorgt über diese Entwicklung.",
+      "translated_text": "The international community is very concerned about this development."
+    },
+    {
+      "text": "Viele Zivilisten mussten ihre Häuser verlassen und in sicherere Gebiete fliehen.",
+      "translated_text": "Many civilians had to leave their homes and flee to safer areas."
+    },
+    {
+      "text": "Die ukrainische Regierung hat um mehr militärische Hilfe gebeten.",
+      "translated_text": "The Ukrainian government has asked for more military assistance."
+    },
+    {
+      "text": "Europäische Politiker treffen sich heute, um über eine Antwort zu diskutieren.",
+      "translated_text": "European politicians are meeting today to discuss a response."
+    },
+    {
+      "text": "Die NATO betont, dass sie bereit ist, ihre Mitgliedsländer zu verteidigen.",
+      "translated_text": "NATO emphasizes that it is ready to defend its member countries."
+    },
+    {
+      "text": "Humanitäre Organisationen arbeiten daran, den betroffenen Menschen zu helfen.",
+      "translated_text": "Humanitarian organizations are working to help the affected people."
+    },
+    {
+      "text": "Die Situation bleibt sehr gefährlich und unvorhersagbar.",
+      "translated_text": "The situation remains very dangerous and unpredictable."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Angriff",
+      "translated_term": "attack",
+      "example_usage": "Russland hat heute einen großen Angriff auf die Ukraine gestartet."
+    },
+    {
+      "term": "die Streitkräfte",
+      "translated_term": "armed forces",
+      "example_usage": "Die russischen Streitkräfte griffen verschiedene Städte in der Ukraine an."
+    },
+    {
+      "term": "der Kampfjet",
+      "translated_term": "fighter jet",
+      "example_usage": "NATO-Länder sandten sofort Kampfjets, um den Luftraum zu schützen."
+    },
+    {
+      "term": "der Luftraum",
+      "translated_term": "airspace",
+      "example_usage": "NATO-Länder sandten sofort Kampfjets, um den Luftraum von Estland und Polen zu schützen."
+    },
+    {
+      "term": "die Entwicklung",
+      "translated_term": "development",
+      "example_usage": "Die internationale Gemeinschaft ist sehr besorgt über diese Entwicklung."
+    },
+    {
+      "term": "der Zivilist",
+      "translated_term": "civilian",
+      "example_usage": "Viele Zivilisten mussten ihre Häuser verlassen und in sicherere Gebiete fliehen."
+    },
+    {
+      "term": "fliehen",
+      "translated_term": "to flee",
+      "example_usage": "Viele Zivilisten mussten ihre Häuser verlassen und in sicherere Gebiete fliehen."
+    },
+    {
+      "term": "die Hilfe",
+      "translated_term": "assistance, help",
+      "example_usage": "Die ukrainische Regierung hat um mehr militärische Hilfe gebeten."
+    },
+    {
+      "term": "verteidigen",
+      "translated_term": "to defend",
+      "example_usage": "Die NATO betont, dass sie bereit ist, ihre Mitgliedsländer zu verteidigen."
+    },
+    {
+      "term": "unvorhersagbar",
+      "translated_term": "unpredictable",
+      "example_usage": "Die Situation bleibt sehr gefährlich und unvorhersagbar."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN Breaking News",
+      "link_url": "https://www.cnn.com/"
+    },
+    {
+      "name": "Al Jazeera World News",
+      "link_url": "https://www.aljazeera.com/"
+    }
+  ]
+}

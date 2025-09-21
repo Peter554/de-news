@@ -1,0 +1,122 @@
+{
+  "title": "Frauen protestieren im Berliner Landtag gegen Haushaltskürzungen",
+  "translated_title": "Women protest in Berlin state parliament against budget cuts",
+  "text": [
+    {
+      "text": "Mehrere Dutzend Frauen haben das Berliner Landtagsgebäude besetzt.",
+      "translated_text": "Several dozen women have occupied the Berlin state parliament building."
+    },
+    {
+      "text": "Sie protestierten gegen geplante Kürzungen im Haushaltsplan der Berliner Regierung.",
+      "translated_text": "They protested against planned cuts in the budget plan of the Berlin government."
+    },
+    {
+      "text": "Die Frauen besetzten eine der Eingangshallen-Treppen des Parlamentsgebäudes.",
+      "translated_text": "The women occupied one of the entrance hall staircases of the parliament building."
+    },
+    {
+      "text": "Besonders betroffen sind Projekte, die Frauen unterstützen.",
+      "translated_text": "Projects that support women are particularly affected."
+    },
+    {
+      "text": "Die Demonstrantinnen fordern mehr Geld für Frauenrechte und -projekte.",
+      "translated_text": "The female demonstrators demand more money for women's rights and projects."
+    },
+    {
+      "text": "Der Berliner Senat plant, weniger Geld für soziale Programme auszugeben.",
+      "translated_text": "The Berlin Senate plans to spend less money on social programs."
+    },
+    {
+      "text": "Viele Frauenorganisationen sind von den Kürzungen bedroht.",
+      "translated_text": "Many women's organizations are threatened by the cuts."
+    },
+    {
+      "text": "Die Proteste zeigen, wie wichtig diese Programme für die Gesellschaft sind.",
+      "translated_text": "The protests show how important these programs are for society."
+    },
+    {
+      "text": "Die Frauen bleiben so lange im Landtag, bis ihre Stimme gehört wird.",
+      "translated_text": "The women remain in the state parliament until their voice is heard."
+    },
+    {
+      "text": "Politiker müssen jetzt über alternative Finanzierungsmöglichkeiten nachdenken.",
+      "translated_text": "Politicians must now think about alternative financing possibilities."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "protestieren",
+      "translated_term": "to protest",
+      "example_usage": "Sie protestierten gegen geplante Kürzungen im Haushaltsplan der Berliner Regierung."
+    },
+    {
+      "term": "besetzen",
+      "translated_term": "to occupy",
+      "example_usage": "Mehrere Dutzend Frauen haben das Berliner Landtagsgebäude besetzt."
+    },
+    {
+      "term": "die Kürzung",
+      "translated_term": "cut, reduction",
+      "example_usage": "Sie protestierten gegen geplante Kürzungen im Haushaltsplan der Berliner Regierung."
+    },
+    {
+      "term": "der Haushaltsplan",
+      "translated_term": "budget plan",
+      "example_usage": "Sie protestierten gegen geplante Kürzungen im Haushaltsplan der Berliner Regierung."
+    },
+    {
+      "term": "die Eingangshalle",
+      "translated_term": "entrance hall",
+      "example_usage": "Die Frauen besetzten eine der Eingangshallen-Treppen des Parlamentsgebäudes."
+    },
+    {
+      "term": "die Demonstrantin",
+      "translated_term": "female demonstrator",
+      "example_usage": "Die Demonstrantinnen fordern mehr Geld für Frauenrechte und -projekte."
+    },
+    {
+      "term": "die Frauenrechte",
+      "translated_term": "women's rights",
+      "example_usage": "Die Demonstrantinnen fordern mehr Geld für Frauenrechte und -projekte."
+    },
+    {
+      "term": "der Senat",
+      "translated_term": "senate",
+      "example_usage": "Der Berliner Senat plant, weniger Geld für soziale Programme auszugeben."
+    },
+    {
+      "term": "bedroht",
+      "translated_term": "threatened",
+      "example_usage": "Viele Frauenorganisationen sind von den Kürzungen bedroht."
+    },
+    {
+      "term": "die Finanzierungsmöglichkeit",
+      "translated_term": "financing possibility",
+      "example_usage": "Politiker müssen jetzt über alternative Finanzierungsmöglichkeiten nachdenken."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Proteste",
+      "translated_name": "Protests"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Menschenrechte",
+      "translated_name": "Human Rights"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tagesspiegel Berlin",
+      "link_url": "https://www.tagesspiegel.de/berlin/"
+    },
+    {
+      "name": "RBB24",
+      "link_url": "https://www.rbb24.de/"
+    }
+  ]
+}
