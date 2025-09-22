@@ -1,0 +1,131 @@
+{
+  "title": "Deutschland gewinnt Basketball-Europameisterschaft",
+  "translated_title": "Germany wins Basketball European Championship",
+  "text": [
+    {
+      "text": "Die deutsche Basketball-Nationalmannschaft hat einen historischen Erfolg gefeiert.",
+      "translated_text": "The German national basketball team has celebrated a historic success."
+    },
+    {
+      "text": "Deutschland gewann die Basketball-Europameisterschaft und komplettierte damit das seltene Doppel.",
+      "translated_text": "Germany won the Basketball European Championship and thus completed the rare double."
+    },
+    {
+      "text": "Das Team hält jetzt sowohl den Weltmeister- als auch den Europameistertitel.",
+      "translated_text": "The team now holds both the world champion and European champion titles."
+    },
+    {
+      "text": "Dies ist eine außergewöhnliche Leistung im internationalen Basketball.",
+      "translated_text": "This is an exceptional achievement in international basketball."
+    },
+    {
+      "text": "Die Spieler und Trainer waren nach dem Sieg sehr emotional und stolz.",
+      "translated_text": "The players and coaches were very emotional and proud after the victory."
+    },
+    {
+      "text": "Fans in ganz Deutschland feierten den großartigen Erfolg ihrer Mannschaft.",
+      "translated_text": "Fans throughout Germany celebrated the magnificent success of their team."
+    },
+    {
+      "text": "Der deutsche Basketball erlebt gerade seine beste Zeit in der Geschichte.",
+      "translated_text": "German basketball is currently experiencing its best time in history."
+    },
+    {
+      "text": "Dieser Titel wird sicherlich viele junge Menschen inspirieren, Basketball zu spielen.",
+      "translated_text": "This title will surely inspire many young people to play basketball."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Nationalmannschaft",
+      "translated_term": "national team",
+      "example_usage": "Die deutsche Basketball-Nationalmannschaft hat einen historischen Erfolg gefeiert."
+    },
+    {
+      "term": "feiern",
+      "translated_term": "to celebrate",
+      "example_usage": "Die deutsche Basketball-Nationalmannschaft hat einen historischen Erfolg gefeiert."
+    },
+    {
+      "term": "historisch",
+      "translated_term": "historic",
+      "example_usage": "Die deutsche Basketball-Nationalmannschaft hat einen historischen Erfolg gefeiert."
+    },
+    {
+      "term": "gewinnen",
+      "translated_term": "to win",
+      "example_usage": "Deutschland gewann die Basketball-Europameisterschaft und komplettierte damit das seltene Doppel."
+    },
+    {
+      "term": "komplettieren",
+      "translated_term": "to complete",
+      "example_usage": "Deutschland gewann die Basketball-Europameisterschaft und komplettierte damit das seltene Doppel."
+    },
+    {
+      "term": "das Doppel",
+      "translated_term": "double",
+      "example_usage": "Deutschland gewann die Basketball-Europameisterschaft und komplettierte damit das seltene Doppel."
+    },
+    {
+      "term": "halten",
+      "translated_term": "to hold",
+      "example_usage": "Das Team hält jetzt sowohl den Weltmeister- als auch den Europameistertitel."
+    },
+    {
+      "term": "der Titel",
+      "translated_term": "title",
+      "example_usage": "Das Team hält jetzt sowohl den Weltmeister- als auch den Europameistertitel."
+    },
+    {
+      "term": "außergewöhnlich",
+      "translated_term": "exceptional/extraordinary",
+      "example_usage": "Dies ist eine außergewöhnliche Leistung im internationalen Basketball."
+    },
+    {
+      "term": "die Leistung",
+      "translated_term": "achievement/performance",
+      "example_usage": "Dies ist eine außergewöhnliche Leistung im internationalen Basketball."
+    },
+    {
+      "term": "emotional",
+      "translated_term": "emotional",
+      "example_usage": "Die Spieler und Trainer waren nach dem Sieg sehr emotional und stolz."
+    },
+    {
+      "term": "stolz",
+      "translated_term": "proud",
+      "example_usage": "Die Spieler und Trainer waren nach dem Sieg sehr emotional und stolz."
+    },
+    {
+      "term": "großartig",
+      "translated_term": "magnificent/great",
+      "example_usage": "Fans in ganz Deutschland feierten den großartigen Erfolg ihrer Mannschaft."
+    },
+    {
+      "term": "erleben",
+      "translated_term": "to experience",
+      "example_usage": "Der deutsche Basketball erlebt gerade seine beste Zeit in der Geschichte."
+    },
+    {
+      "term": "inspirieren",
+      "translated_term": "to inspire",
+      "example_usage": "Dieser Titel wird sicherlich viele junge Menschen inspirieren, Basketball zu spielen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Sport",
+      "translated_name": "Sports"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Deutschland.de",
+      "link_url": "https://www.deutschland.de/en/news"
+    }
+  ]
+}
