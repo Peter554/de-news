@@ -1,0 +1,130 @@
+{
+  "title": "Bürgermeisterwahl in Frankfurt (Oder) nach Wechsel ins Ministerium",
+  "translated_title": "Mayoral election in Frankfurt (Oder) after move to ministry",
+  "text": [
+    {
+      "text": "In Frankfurt (Oder) findet heute eine wichtige Bürgermeisterwahl statt.",
+      "translated_text": "An important mayoral election is taking place in Frankfurt (Oder) today."
+    },
+    {
+      "text": "Der bisherige Bürgermeister René Wilke ist ins Brandenburger Innenministerium gewechselt.",
+      "translated_text": "The previous mayor René Wilke has moved to the Brandenburg Interior Ministry."
+    },
+    {
+      "text": "Vier Kandidaten bewerben sich um die Nachfolge des ehemaligen Bürgermeisters.",
+      "translated_text": "Four candidates are applying for the succession of the former mayor."
+    },
+    {
+      "text": "Die Wahl ist wichtig für die Zukunft der Stadt an der deutsch-polnischen Grenze.",
+      "translated_text": "The election is important for the future of the city on the German-Polish border."
+    },
+    {
+      "text": "Frankfurt (Oder) steht vor verschiedenen Herausforderungen in der Stadtentwicklung.",
+      "translated_text": "Frankfurt (Oder) faces various challenges in urban development."
+    },
+    {
+      "text": "Die Bürger hoffen auf einen neuen Bürgermeister, der ihre Probleme lösen kann.",
+      "translated_text": "The citizens hope for a new mayor who can solve their problems."
+    },
+    {
+      "text": "Die Wahlbeteiligung wird zeigen, wie interessiert die Menschen an der lokalen Politik sind.",
+      "translated_text": "The voter turnout will show how interested people are in local politics."
+    },
+    {
+      "text": "Das Ergebnis wird am Abend erwartet und könnte knapp werden.",
+      "translated_text": "The result is expected in the evening and could be close."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bürgermeisterwahl",
+      "translated_term": "mayoral election",
+      "example_usage": "In Frankfurt (Oder) findet heute eine wichtige Bürgermeisterwahl statt."
+    },
+    {
+      "term": "stattfinden",
+      "translated_term": "to take place",
+      "example_usage": "In Frankfurt (Oder) findet heute eine wichtige Bürgermeisterwahl statt."
+    },
+    {
+      "term": "bisherig",
+      "translated_term": "previous/former",
+      "example_usage": "Der bisherige Bürgermeister René Wilke ist ins Brandenburger Innenministerium gewechselt."
+    },
+    {
+      "term": "wechseln",
+      "translated_term": "to change/move",
+      "example_usage": "Der bisherige Bürgermeister René Wilke ist ins Brandenburger Innenministerium gewechselt."
+    },
+    {
+      "term": "das Innenministerium",
+      "translated_term": "interior ministry",
+      "example_usage": "Der bisherige Bürgermeister René Wilke ist ins Brandenburger Innenministerium gewechselt."
+    },
+    {
+      "term": "sich bewerben",
+      "translated_term": "to apply",
+      "example_usage": "Vier Kandidaten bewerben sich um die Nachfolge des ehemaligen Bürgermeisters."
+    },
+    {
+      "term": "die Nachfolge",
+      "translated_term": "succession",
+      "example_usage": "Vier Kandidaten bewerben sich um die Nachfolge des ehemaligen Bürgermeisters."
+    },
+    {
+      "term": "die Grenze",
+      "translated_term": "border",
+      "example_usage": "Die Wahl ist wichtig für die Zukunft der Stadt an der deutsch-polnischen Grenze."
+    },
+    {
+      "term": "vor etwas stehen",
+      "translated_term": "to face something",
+      "example_usage": "Frankfurt (Oder) steht vor verschiedenen Herausforderungen in der Stadtentwicklung."
+    },
+    {
+      "term": "die Herausforderung",
+      "translated_term": "challenge",
+      "example_usage": "Frankfurt (Oder) steht vor verschiedenen Herausforderungen in der Stadtentwicklung."
+    },
+    {
+      "term": "die Stadtentwicklung",
+      "translated_term": "urban development",
+      "example_usage": "Frankfurt (Oder) steht vor verschiedenen Herausforderungen in der Stadtentwicklung."
+    },
+    {
+      "term": "lösen",
+      "translated_term": "to solve",
+      "example_usage": "Die Bürger hoffen auf einen neuen Bürgermeister, der ihre Probleme lösen kann."
+    },
+    {
+      "term": "die Wahlbeteiligung",
+      "translated_term": "voter turnout",
+      "example_usage": "Die Wahlbeteiligung wird zeigen, wie interessiert die Menschen an der lokalen Politik sind."
+    },
+    {
+      "term": "knapp",
+      "translated_term": "close/tight",
+      "example_usage": "Das Ergebnis wird am Abend erwartet und könnte knapp werden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tagesspiegel",
+      "link_url": "https://www.tagesspiegel.de/berlin/"
+    }
+  ]
+}

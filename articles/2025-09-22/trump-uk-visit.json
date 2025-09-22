@@ -1,0 +1,134 @@
+{
+  "title": "Trump besucht Großbritannien und unterzeichnet Technologie-Abkommen",
+  "translated_title": "Trump visits Great Britain and signs technology agreement",
+  "text": [
+    {
+      "text": "US-Präsident Donald Trump ist zu einem Staatsbesuch in Großbritannien eingetroffen.",
+      "translated_text": "US President Donald Trump has arrived for a state visit to Great Britain."
+    },
+    {
+      "text": "König Charles und Königin Camilla begrüßten ihn mit einem großen militärischen Zeremoniell.",
+      "translated_text": "King Charles and Queen Camilla welcomed him with a large military ceremony."
+    },
+    {
+      "text": "Trump und der britische Premierminister Keir Starmer unterzeichneten ein wichtiges Technologie-Abkommen.",
+      "translated_text": "Trump and British Prime Minister Keir Starmer signed an important technology agreement."
+    },
+    {
+      "text": "Das Abkommen umfasst Investitionen in künstliche Intelligenz und Kernenergie.",
+      "translated_text": "The agreement includes investments in artificial intelligence and nuclear energy."
+    },
+    {
+      "text": "Trump behauptete, dass seine Reise Geschäfte im Wert von 350 Milliarden Dollar gesichert habe.",
+      "translated_text": "Trump claimed that his trip secured deals worth 350 billion dollars."
+    },
+    {
+      "text": "Gleichzeitig gibt es politische Spannungen wegen der Einwanderungspolitik in Großbritannien.",
+      "translated_text": "At the same time, there are political tensions regarding immigration policy in Great Britain."
+    },
+    {
+      "text": "Nigel Farages Reform-Partei wird in Umfragen immer stärker und könnte bei Wahlen gut abschneiden.",
+      "translated_text": "Nigel Farage's Reform Party is getting stronger in polls and could perform well in elections."
+    },
+    {
+      "text": "Bereits 30.000 Migranten sind dieses Jahr mit kleinen Booten über den Ärmelkanal gekommen.",
+      "translated_text": "Already 30,000 migrants have come across the English Channel in small boats this year."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Staatsbesuch",
+      "translated_term": "state visit",
+      "example_usage": "US-Präsident Donald Trump ist zu einem Staatsbesuch in Großbritannien eingetroffen."
+    },
+    {
+      "term": "eintreffen",
+      "translated_term": "to arrive",
+      "example_usage": "US-Präsident Donald Trump ist zu einem Staatsbesuch in Großbritannien eingetroffen."
+    },
+    {
+      "term": "begrüßen",
+      "translated_term": "to welcome/greet",
+      "example_usage": "König Charles und Königin Camilla begrüßten ihn mit einem großen militärischen Zeremoniell."
+    },
+    {
+      "term": "das Zeremoniell",
+      "translated_term": "ceremony",
+      "example_usage": "König Charles und Königin Camilla begrüßten ihn mit einem großen militärischen Zeremoniell."
+    },
+    {
+      "term": "unterzeichnen",
+      "translated_term": "to sign",
+      "example_usage": "Trump und der britische Premierminister Keir Starmer unterzeichneten ein wichtiges Technologie-Abkommen."
+    },
+    {
+      "term": "umfassen",
+      "translated_term": "to include/comprise",
+      "example_usage": "Das Abkommen umfasst Investitionen in künstliche Intelligenz und Kernenergie."
+    },
+    {
+      "term": "künstliche Intelligenz",
+      "translated_term": "artificial intelligence",
+      "example_usage": "Das Abkommen umfasst Investitionen in künstliche Intelligenz und Kernenergie."
+    },
+    {
+      "term": "die Kernenergie",
+      "translated_term": "nuclear energy",
+      "example_usage": "Das Abkommen umfasst Investitionen in künstliche Intelligenz und Kernenergie."
+    },
+    {
+      "term": "behaupten",
+      "translated_term": "to claim",
+      "example_usage": "Trump behauptete, dass seine Reise Geschäfte im Wert von 350 Milliarden Dollar gesichert habe."
+    },
+    {
+      "term": "sichern",
+      "translated_term": "to secure",
+      "example_usage": "Trump behauptete, dass seine Reise Geschäfte im Wert von 350 Milliarden Dollar gesichert habe."
+    },
+    {
+      "term": "die Spannung",
+      "translated_term": "tension",
+      "example_usage": "Gleichzeitig gibt es politische Spannungen wegen der Einwanderungspolitik in Großbritannien."
+    },
+    {
+      "term": "die Einwanderungspolitik",
+      "translated_term": "immigration policy",
+      "example_usage": "Gleichzeitig gibt es politische Spannungen wegen der Einwanderungspolitik in Großbritannien."
+    },
+    {
+      "term": "abschneiden",
+      "translated_term": "to perform (in elections)",
+      "example_usage": "Nigel Farages Reform-Partei wird in Umfragen immer stärker und könnte bei Wahlen gut abschneiden."
+    },
+    {
+      "term": "der Ärmelkanal",
+      "translated_term": "English Channel",
+      "example_usage": "Bereits 30.000 Migranten sind dieses Jahr mit kleinen Booten über den Ärmelkanal gekommen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Staatsbesuch",
+      "translated_name": "State Visit"
+    },
+    {
+      "name": "USA-UK Beziehungen",
+      "translated_name": "US-UK Relations"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ABC News",
+      "link_url": "https://abcnews.go.com/Politics/trump-leave-windsor-castle-meet-starmer-day-2/story?id=125692018"
+    },
+    {
+      "name": "CNN Politics",
+      "link_url": "https://www.cnn.com/politics/live-news/trump-presidency-uk-visit-09-16-25"
+    }
+  ]
+}
