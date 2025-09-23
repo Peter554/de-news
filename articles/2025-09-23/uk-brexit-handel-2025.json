@@ -1,0 +1,130 @@
+{
+  "title": "Großbritannien schließt neue Handelsabkommen nach dem Brexit ab",
+  "translated_title": "Great Britain concludes new trade agreements after Brexit",
+  "text": [
+    {
+      "text": "Die britische Regierung hat heute wichtige neue Handelsverträge mit drei asiatischen Ländern unterzeichnet.",
+      "translated_text": "The British government today signed important new trade contracts with three Asian countries."
+    },
+    {
+      "text": "Premierminister Johnson erklärte, dies sei ein großer Erfolg für die Post-Brexit-Strategie.",
+      "translated_text": "Prime Minister Johnson explained that this was a great success for the post-Brexit strategy."
+    },
+    {
+      "text": "Die Abkommen werden den britischen Export um geschätzte 15 Milliarden Pfund steigern.",
+      "translated_text": "The agreements will increase British exports by an estimated 15 billion pounds."
+    },
+    {
+      "text": "Besonders der Finanzsektor und die Technologiebranche profitieren von den neuen Regelungen.",
+      "translated_text": "Particularly the financial sector and the technology industry benefit from the new regulations."
+    },
+    {
+      "text": "Kritiker warnen jedoch vor möglichen negativen Auswirkungen auf europäische Handelsbeziehungen.",
+      "translated_text": "Critics, however, warn of possible negative effects on European trade relations."
+    },
+    {
+      "text": "Die Verhandlungen dauerten über zwei Jahre und waren oft schwierig.",
+      "translated_text": "The negotiations lasted over two years and were often difficult."
+    },
+    {
+      "text": "Tausende neue Arbeitsplätze sollen in den kommenden fünf Jahren entstehen.",
+      "translated_text": "Thousands of new jobs are expected to be created in the coming five years."
+    },
+    {
+      "text": "Die Umsetzung der Verträge beginnt bereits im nächsten Monat.",
+      "translated_text": "Implementation of the contracts begins as early as next month."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Handelsabkommen",
+      "translated_term": "trade agreement",
+      "example_usage": "Die britische Regierung hat heute wichtige neue Handelsverträge mit drei asiatischen Ländern unterzeichnet."
+    },
+    {
+      "term": "unterzeichnen",
+      "translated_term": "to sign",
+      "example_usage": "Die britische Regierung hat heute wichtige neue Handelsverträge mit drei asiatischen Ländern unterzeichnet."
+    },
+    {
+      "term": "der Premierminister",
+      "translated_term": "Prime Minister",
+      "example_usage": "Premierminister Johnson erklärte, dies sei ein großer Erfolg für die Post-Brexit-Strategie."
+    },
+    {
+      "term": "erklären",
+      "translated_term": "to explain/declare",
+      "example_usage": "Premierminister Johnson erklärte, dies sei ein großer Erfolg für die Post-Brexit-Strategie."
+    },
+    {
+      "term": "der Erfolg",
+      "translated_term": "success",
+      "example_usage": "Premierminister Johnson erklärte, dies sei ein großer Erfolg für die Post-Brexit-Strategie."
+    },
+    {
+      "term": "steigern",
+      "translated_term": "to increase",
+      "example_usage": "Die Abkommen werden den britischen Export um geschätzte 15 Milliarden Pfund steigern."
+    },
+    {
+      "term": "geschätzt",
+      "translated_term": "estimated",
+      "example_usage": "Die Abkommen werden den britischen Export um geschätzte 15 Milliarden Pfund steigern."
+    },
+    {
+      "term": "der Finanzsektor",
+      "translated_term": "financial sector",
+      "example_usage": "Besonders der Finanzsektor und die Technologiebranche profitieren von den neuen Regelungen."
+    },
+    {
+      "term": "profitieren",
+      "translated_term": "to benefit",
+      "example_usage": "Besonders der Finanzsektor und die Technologiebranche profitieren von den neuen Regelungen."
+    },
+    {
+      "term": "die Regelung",
+      "translated_term": "regulation",
+      "example_usage": "Besonders der Finanzsektor und die Technologiebranche profitieren von den neuen Regelungen."
+    },
+    {
+      "term": "warnen",
+      "translated_term": "to warn",
+      "example_usage": "Kritiker warnen jedoch vor möglichen negativen Auswirkungen auf europäische Handelsbeziehungen."
+    },
+    {
+      "term": "die Auswirkung",
+      "translated_term": "effect/impact",
+      "example_usage": "Kritiker warnen jedoch vor möglichen negativen Auswirkungen auf europäische Handelsbeziehungen."
+    },
+    {
+      "term": "die Verhandlung",
+      "translated_term": "negotiation",
+      "example_usage": "Die Verhandlungen dauerten über zwei Jahre und waren oft schwierig."
+    },
+    {
+      "term": "der Arbeitsplatz",
+      "translated_term": "workplace/job",
+      "example_usage": "Tausende neue Arbeitsplätze sollen in den kommenden fünf Jahren entstehen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC News",
+      "link_url": "https://www.bbc.com/news/uk-politics-trade-deals-2025"
+    }
+  ]
+}
