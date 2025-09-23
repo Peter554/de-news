@@ -1,0 +1,135 @@
+{
+  "title": "Berlin plant massive Erweiterung des öffentlichen Verkehrsnetzes",
+  "translated_title": "Berlin plans massive expansion of public transport network",
+  "text": [
+    {
+      "text": "Der Berliner Senat hat heute ehrgeizige Pläne für den Ausbau der U-Bahn und S-Bahn vorgestellt.",
+      "translated_text": "The Berlin Senate today presented ambitious plans for expanding the U-Bahn and S-Bahn."
+    },
+    {
+      "text": "Bis 2030 sollen drei neue U-Bahn-Linien und fünf S-Bahn-Strecken in Betrieb genommen werden.",
+      "translated_text": "By 2030, three new U-Bahn lines and five S-Bahn routes are to be put into operation."
+    },
+    {
+      "text": "Die Investitionen in Höhe von 12 Milliarden Euro werden hauptsächlich vom Bund finanziert.",
+      "translated_text": "The investments totaling 12 billion euros will be financed mainly by the federal government."
+    },
+    {
+      "text": "Besonders die Stadtteile im Osten und Süden Berlins profitieren von besseren Verbindungen.",
+      "translated_text": "Particularly the districts in the east and south of Berlin benefit from better connections."
+    },
+    {
+      "text": "Der Verkehrssenator betonte die Bedeutung für den Klimaschutz und die Lebensqualität.",
+      "translated_text": "The transport senator emphasized the importance for climate protection and quality of life."
+    },
+    {
+      "text": "Umweltorganisationen begrüßten die Pläne, fordern aber mehr Investitionen in Fahrradwege.",
+      "translated_text": "Environmental organizations welcomed the plans but demand more investments in bicycle paths."
+    },
+    {
+      "text": "Die Bauarbeiten für das erste Projekt beginnen bereits im Frühjahr 2026.",
+      "translated_text": "Construction work for the first project begins as early as spring 2026."
+    },
+    {
+      "text": "Brandenburg und Berlin arbeiten eng zusammen, um regionale Verbindungen zu verbessern.",
+      "translated_text": "Brandenburg and Berlin work closely together to improve regional connections."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Senat",
+      "translated_term": "senate",
+      "example_usage": "Der Berliner Senat hat heute ehrgeizige Pläne für den Ausbau der U-Bahn und S-Bahn vorgestellt."
+    },
+    {
+      "term": "vorstellen",
+      "translated_term": "to present",
+      "example_usage": "Der Berliner Senat hat heute ehrgeizige Pläne für den Ausbau der U-Bahn und S-Bahn vorgestellt."
+    },
+    {
+      "term": "der Ausbau",
+      "translated_term": "expansion",
+      "example_usage": "Der Berliner Senat hat heute ehrgeizige Pläne für den Ausbau der U-Bahn und S-Bahn vorgestellt."
+    },
+    {
+      "term": "in Betrieb nehmen",
+      "translated_term": "to put into operation",
+      "example_usage": "Bis 2030 sollen drei neue U-Bahn-Linien und fünf S-Bahn-Strecken in Betrieb genommen werden."
+    },
+    {
+      "term": "die Strecke",
+      "translated_term": "route/line",
+      "example_usage": "Bis 2030 sollen drei neue U-Bahn-Linien und fünf S-Bahn-Strecken in Betrieb genommen werden."
+    },
+    {
+      "term": "die Investition",
+      "translated_term": "investment",
+      "example_usage": "Die Investitionen in Höhe von 12 Milliarden Euro werden hauptsächlich vom Bund finanziert."
+    },
+    {
+      "term": "in Höhe von",
+      "translated_term": "totaling/amounting to",
+      "example_usage": "Die Investitionen in Höhe von 12 Milliarden Euro werden hauptsächlich vom Bund finanziert."
+    },
+    {
+      "term": "hauptsächlich",
+      "translated_term": "mainly",
+      "example_usage": "Die Investitionen in Höhe von 12 Milliarden Euro werden hauptsächlich vom Bund finanziert."
+    },
+    {
+      "term": "der Bund",
+      "translated_term": "federal government",
+      "example_usage": "Die Investitionen in Höhe von 12 Milliarden Euro werden hauptsächlich vom Bund finanziert."
+    },
+    {
+      "term": "finanzieren",
+      "translated_term": "to finance",
+      "example_usage": "Die Investitionen in Höhe von 12 Milliarden Euro werden hauptsächlich vom Bund finanziert."
+    },
+    {
+      "term": "der Stadtteil",
+      "translated_term": "district",
+      "example_usage": "Besonders die Stadtteile im Osten und Süden Berlins profitieren von besseren Verbindungen."
+    },
+    {
+      "term": "die Verbindung",
+      "translated_term": "connection",
+      "example_usage": "Besonders die Stadtteile im Osten und Süden Berlins profitieren von besseren Verbindungen."
+    },
+    {
+      "term": "betonen",
+      "translated_term": "to emphasize",
+      "example_usage": "Der Verkehrssenator betonte die Bedeutung für den Klimaschutz und die Lebensqualität."
+    },
+    {
+      "term": "die Lebensqualität",
+      "translated_term": "quality of life",
+      "example_usage": "Der Verkehrssenator betonte die Bedeutung für den Klimaschutz und die Lebensqualität."
+    },
+    {
+      "term": "der Fahrradweg",
+      "translated_term": "bicycle path",
+      "example_usage": "Umweltorganisationen begrüßten die Pläne, fordern aber mehr Investitionen in Fahrradwege."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Klimapolitik",
+      "translated_name": "Climate Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berliner Morgenpost",
+      "link_url": "https://www.morgenpost.de/berlin/article-verkehr-ausbau-2025"
+    }
+  ]
+}

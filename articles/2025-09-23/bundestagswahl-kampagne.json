@@ -1,0 +1,126 @@
+{
+  "title": "Wahlkampf zur Bundestagswahl 2025 erreicht Höhepunkt",
+  "translated_title": "Federal election campaign 2025 reaches climax",
+  "text": [
+    {
+      "text": "Nur noch wenige Wochen vor der Bundestagswahl intensivieren alle Parteien ihre Wahlkampagnen.",
+      "translated_text": "Only a few weeks before the federal election, all parties are intensifying their election campaigns."
+    },
+    {
+      "text": "Die aktuellen Umfragen zeigen ein sehr knappes Rennen zwischen den großen Volksparteien.",
+      "translated_text": "Current polls show a very close race between the major mainstream parties."
+    },
+    {
+      "text": "Bundeskanzler Scholz hielt gestern eine wichtige Rede zur Zukunft der deutschen Wirtschaft.",
+      "translated_text": "Chancellor Scholz gave an important speech yesterday about the future of the German economy."
+    },
+    {
+      "text": "Die Opposition kritisiert die Regierungspolitik besonders in den Bereichen Energie und Digitalisierung.",
+      "translated_text": "The opposition particularly criticizes government policy in the areas of energy and digitalization."
+    },
+    {
+      "text": "Millionen Deutsche haben bereits ihre Briefwahlunterlagen beantragt und ausgefüllt.",
+      "translated_text": "Millions of Germans have already requested and filled out their postal ballot documents."
+    },
+    {
+      "text": "Die Wahlbeteiligung könnte nach Experteneinschätzung über 80 Prozent erreichen.",
+      "translated_text": "According to expert estimates, voter turnout could reach over 80 percent."
+    },
+    {
+      "text": "Soziale Medien spielen in diesem Wahlkampf eine größere Rolle als je zuvor.",
+      "translated_text": "Social media plays a bigger role in this election campaign than ever before."
+    },
+    {
+      "text": "Die Entscheidung der Wähler wird die politische Zukunft Deutschlands für Jahre prägen.",
+      "translated_text": "The voters' decision will shape Germany's political future for years."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bundestagswahl",
+      "translated_term": "federal election",
+      "example_usage": "Nur noch wenige Wochen vor der Bundestagswahl intensivieren alle Parteien ihre Wahlkampagnen."
+    },
+    {
+      "term": "intensivieren",
+      "translated_term": "to intensify",
+      "example_usage": "Nur noch wenige Wochen vor der Bundestagswahl intensivieren alle Parteien ihre Wahlkampagnen."
+    },
+    {
+      "term": "die Wahlkampagne",
+      "translated_term": "election campaign",
+      "example_usage": "Nur noch wenige Wochen vor der Bundestagswahl intensivieren alle Parteien ihre Wahlkampagnen."
+    },
+    {
+      "term": "die Umfrage",
+      "translated_term": "poll/survey",
+      "example_usage": "Die aktuellen Umfragen zeigen ein sehr knappes Rennen zwischen den großen Volksparteien."
+    },
+    {
+      "term": "das Rennen",
+      "translated_term": "race",
+      "example_usage": "Die aktuellen Umfragen zeigen ein sehr knappes Rennen zwischen den großen Volksparteien."
+    },
+    {
+      "term": "die Volkspartei",
+      "translated_term": "mainstream party",
+      "example_usage": "Die aktuellen Umfragen zeigen ein sehr knappes Rennen zwischen den großen Volksparteien."
+    },
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "Chancellor",
+      "example_usage": "Bundeskanzler Scholz hielt gestern eine wichtige Rede zur Zukunft der deutschen Wirtschaft."
+    },
+    {
+      "term": "eine Rede halten",
+      "translated_term": "to give a speech",
+      "example_usage": "Bundeskanzler Scholz hielt gestern eine wichtige Rede zur Zukunft der deutschen Wirtschaft."
+    },
+    {
+      "term": "die Opposition",
+      "translated_term": "opposition",
+      "example_usage": "Die Opposition kritisiert die Regierungspolitik besonders in den Bereichen Energie und Digitalisierung."
+    },
+    {
+      "term": "die Digitalisierung",
+      "translated_term": "digitalization",
+      "example_usage": "Die Opposition kritisiert die Regierungspolitik besonders in den Bereichen Energie und Digitalisierung."
+    },
+    {
+      "term": "die Briefwahl",
+      "translated_term": "postal ballot",
+      "example_usage": "Millionen Deutsche haben bereits ihre Briefwahlunterlagen beantragt und ausgefüllt."
+    },
+    {
+      "term": "beantragen",
+      "translated_term": "to apply for",
+      "example_usage": "Millionen Deutsche haben bereits ihre Briefwahlunterlagen beantragt und ausgefüllt."
+    },
+    {
+      "term": "ausfüllen",
+      "translated_term": "to fill out",
+      "example_usage": "Millionen Deutsche haben bereits ihre Briefwahlunterlagen beantragt und ausgefüllt."
+    },
+    {
+      "term": "prägen",
+      "translated_term": "to shape",
+      "example_usage": "Die Entscheidung der Wähler wird die politische Zukunft Deutschlands für Jahre prägen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tagesschau",
+      "link_url": "https://www.tagesschau.de/inland/bundestagswahl-2025"
+    }
+  ]
+}
