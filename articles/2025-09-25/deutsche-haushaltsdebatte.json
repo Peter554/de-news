@@ -1,0 +1,130 @@
+{
+  "title": "Deutsche Regierung diskutiert über Haushaltskürzungen für 2026",
+  "translated_title": "German government discusses budget cuts for 2026",
+  "text": [
+    {
+      "text": "Die deutsche Bundesregierung berät diese Woche über wichtige Kürzungen im Bundeshaushalt 2026.",
+      "translated_text": "The German federal government is discussing important cuts in the federal budget for 2026 this week."
+    },
+    {
+      "text": "Finanzminister Christian Lindner fordert Einsparungen von mindestens 20 Milliarden Euro.",
+      "translated_text": "Finance Minister Christian Lindner demands savings of at least 20 billion euros."
+    },
+    {
+      "text": "Besonders umstritten sind geplante Kürzungen bei Bildung und sozialen Programmen.",
+      "translated_text": "Particularly controversial are planned cuts to education and social programs."
+    },
+    {
+      "text": "Die SPD und die Grünen wollen diese wichtigen Bereiche vor Kürzungen schützen.",
+      "translated_text": "The SPD and the Greens want to protect these important areas from cuts."
+    },
+    {
+      "text": "Oppositionsparteien kritisieren die Regierung scharf für ihre Finanzpolitik.",
+      "translated_text": "Opposition parties sharply criticize the government for its fiscal policy."
+    },
+    {
+      "text": "Bundeskanzler Olaf Scholz betont die Notwendigkeit eines ausgewogenen Haushalts.",
+      "translated_text": "Chancellor Olaf Scholz emphasizes the necessity of a balanced budget."
+    },
+    {
+      "text": "Experten warnen vor negativen Auswirkungen auf die deutsche Wirtschaft.",
+      "translated_text": "Experts warn of negative effects on the German economy."
+    },
+    {
+      "text": "Die endgültige Entscheidung über den Haushalt wird im Dezember erwartet.",
+      "translated_text": "The final decision on the budget is expected in December."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bundesregierung",
+      "translated_term": "federal government",
+      "example_usage": "Die deutsche Bundesregierung berät diese Woche über wichtige Kürzungen im Bundeshaushalt 2026."
+    },
+    {
+      "term": "beraten",
+      "translated_term": "to discuss/deliberate",
+      "example_usage": "Die deutsche Bundesregierung berät diese Woche über wichtige Kürzungen im Bundeshaushalt 2026."
+    },
+    {
+      "term": "die Kürzung",
+      "translated_term": "cut/reduction",
+      "example_usage": "Die deutsche Bundesregierung berät diese Woche über wichtige Kürzungen im Bundeshaushalt 2026."
+    },
+    {
+      "term": "der Bundeshaushalt",
+      "translated_term": "federal budget",
+      "example_usage": "Die deutsche Bundesregierung berät diese Woche über wichtige Kürzungen im Bundeshaushalt 2026."
+    },
+    {
+      "term": "der Finanzminister",
+      "translated_term": "finance minister",
+      "example_usage": "Finanzminister Christian Lindner fordert Einsparungen von mindestens 20 Milliarden Euro."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand",
+      "example_usage": "Finanzminister Christian Lindner fordert Einsparungen von mindestens 20 Milliarden Euro."
+    },
+    {
+      "term": "die Einsparung",
+      "translated_term": "savings",
+      "example_usage": "Finanzminister Christian Lindner fordert Einsparungen von mindestens 20 Milliarden Euro."
+    },
+    {
+      "term": "umstritten",
+      "translated_term": "controversial",
+      "example_usage": "Besonders umstritten sind geplante Kürzungen bei Bildung und sozialen Programmen."
+    },
+    {
+      "term": "die Bildung",
+      "translated_term": "education",
+      "example_usage": "Besonders umstritten sind geplante Kürzungen bei Bildung und sozialen Programmen."
+    },
+    {
+      "term": "schützen",
+      "translated_term": "to protect",
+      "example_usage": "Die SPD und die Grünen wollen diese wichtigen Bereiche vor Kürzungen schützen."
+    },
+    {
+      "term": "die Oppositionspartei",
+      "translated_term": "opposition party",
+      "example_usage": "Oppositionsparteien kritisieren die Regierung scharf für ihre Finanzpolitik."
+    },
+    {
+      "term": "scharf kritisieren",
+      "translated_term": "to sharply criticize",
+      "example_usage": "Oppositionsparteien kritisieren die Regierung scharf für ihre Finanzpolitik."
+    },
+    {
+      "term": "die Finanzpolitik",
+      "translated_term": "fiscal policy",
+      "example_usage": "Oppositionsparteien kritisieren die Regierung scharf für ihre Finanzpolitik."
+    },
+    {
+      "term": "ausgewogen",
+      "translated_term": "balanced",
+      "example_usage": "Bundeskanzler Olaf Scholz betont die Notwendigkeit eines ausgewogenen Haushalts."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Bundeshaushalt",
+      "translated_name": "Federal Budget"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Süddeutsche Zeitung",
+      "link_url": "https://www.sueddeutsche.de/politik/bundeshaushalt-2026-kuerzungen"
+    }
+  ]
+}

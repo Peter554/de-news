@@ -1,0 +1,131 @@
+{
+  "title": "EU beginnt mit Umsetzung der neuen KI-Verordnung in Deutschland",
+  "translated_title": "EU begins implementation of new AI regulation in Germany",
+  "text": [
+    {
+      "text": "Die Europäische Union startet heute die Umsetzung der neuen KI-Verordnung in Deutschland.",
+      "translated_text": "The European Union starts implementing the new AI regulation in Germany today."
+    },
+    {
+      "text": "Deutsche Unternehmen müssen ihre künstliche Intelligenz-Systeme bis März 2026 anpassen.",
+      "translated_text": "German companies must adapt their artificial intelligence systems by March 2026."
+    },
+    {
+      "text": "Die Verordnung regelt den Einsatz von KI in kritischen Bereichen wie Medizin und Verkehr.",
+      "translated_text": "The regulation governs the use of AI in critical areas such as medicine and transport."
+    },
+    {
+      "text": "Besonders strenge Regeln gelten für Gesichtserkennung und biometrische Überwachung.",
+      "translated_text": "Particularly strict rules apply to facial recognition and biometric surveillance."
+    },
+    {
+      "text": "Digitalminister Volker Wissing kündigt Unterstützung für betroffene Unternehmen an.",
+      "translated_text": "Digital Minister Volker Wissing announces support for affected companies."
+    },
+    {
+      "text": "Kleine und mittlere Betriebe erhalten spezielle Beratung und finanzielle Hilfen.",
+      "translated_text": "Small and medium-sized enterprises receive special advice and financial assistance."
+    },
+    {
+      "text": "Verbraucherschützer begrüßen die neuen Regeln zum Schutz der Privatsphäre.",
+      "translated_text": "Consumer protection advocates welcome the new rules for protecting privacy."
+    },
+    {
+      "text": "Bei Verstößen drohen Geldstrafen von bis zu vier Prozent des Jahresumsatzes.",
+      "translated_text": "Violations are threatened with fines of up to four percent of annual revenue."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Europäische Union",
+      "translated_term": "European Union",
+      "example_usage": "Die Europäische Union startet heute die Umsetzung der neuen KI-Verordnung in Deutschland."
+    },
+    {
+      "term": "die KI-Verordnung",
+      "translated_term": "AI regulation",
+      "example_usage": "Die Europäische Union startet heute die Umsetzung der neuen KI-Verordnung in Deutschland."
+    },
+    {
+      "term": "das Unternehmen",
+      "translated_term": "company",
+      "example_usage": "Deutsche Unternehmen müssen ihre künstliche Intelligenz-Systeme bis März 2026 anpassen."
+    },
+    {
+      "term": "die künstliche Intelligenz",
+      "translated_term": "artificial intelligence",
+      "example_usage": "Deutsche Unternehmen müssen ihre künstliche Intelligenz-Systeme bis März 2026 anpassen."
+    },
+    {
+      "term": "anpassen",
+      "translated_term": "to adapt",
+      "example_usage": "Deutsche Unternehmen müssen ihre künstliche Intelligenz-Systeme bis März 2026 anpassen."
+    },
+    {
+      "term": "regeln",
+      "translated_term": "to regulate/govern",
+      "example_usage": "Die Verordnung regelt den Einsatz von KI in kritischen Bereichen wie Medizin und Verkehr."
+    },
+    {
+      "term": "der Einsatz",
+      "translated_term": "use/deployment",
+      "example_usage": "Die Verordnung regelt den Einsatz von KI in kritischen Bereichen wie Medizin und Verkehr."
+    },
+    {
+      "term": "kritisch",
+      "translated_term": "critical",
+      "example_usage": "Die Verordnung regelt den Einsatz von KI in kritischen Bereichen wie Medizin und Verkehr."
+    },
+    {
+      "term": "die Gesichtserkennung",
+      "translated_term": "facial recognition",
+      "example_usage": "Besonders strenge Regeln gelten für Gesichtserkennung und biometrische Überwachung."
+    },
+    {
+      "term": "biometrisch",
+      "translated_term": "biometric",
+      "example_usage": "Besonders strenge Regeln gelten für Gesichtserkennung und biometrische Überwachung."
+    },
+    {
+      "term": "die Überwachung",
+      "translated_term": "surveillance",
+      "example_usage": "Besonders strenge Regeln gelten für Gesichtserkennung und biometrische Überwachung."
+    },
+    {
+      "term": "der Betrieb",
+      "translated_term": "enterprise/business",
+      "example_usage": "Kleine und mittlere Betriebe erhalten spezielle Beratung und finanzielle Hilfen."
+    },
+    {
+      "term": "die Beratung",
+      "translated_term": "advice/consultation",
+      "example_usage": "Kleine und mittlere Betriebe erhalten spezielle Beratung und finanzielle Hilfen."
+    },
+    {
+      "term": "der Verstoß",
+      "translated_term": "violation",
+      "example_usage": "Bei Verstößen drohen Geldstrafen von bis zu vier Prozent des Jahresumsatzes."
+    },
+    {
+      "term": "drohen",
+      "translated_term": "to threaten",
+      "example_usage": "Bei Verstößen drohen Geldstrafen von bis zu vier Prozent des Jahresumsatzes."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Handelsblatt",
+      "link_url": "https://www.handelsblatt.com/technik/digitale-revolution/eu-ki-verordnung-deutschland-2025"
+    }
+  ]
+}

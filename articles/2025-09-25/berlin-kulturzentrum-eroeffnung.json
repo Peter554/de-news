@@ -1,0 +1,126 @@
+{
+  "title": "Neues Kulturzentrum in Berlin-Mitte feierlich eröffnet",
+  "translated_title": "New cultural center in Berlin-Mitte ceremoniously opened",
+  "text": [
+    {
+      "text": "Berlins Kultursenator eröffnete gestern das neue Kulturzentrum \"Mitte Kreativ\" in der Friedrichstraße.",
+      "translated_text": "Berlin's cultural senator opened the new cultural center \"Mitte Kreativ\" on Friedrichstraße yesterday."
+    },
+    {
+      "text": "Das moderne Gebäude bietet Räume für Theater, Musik und bildende Kunst.",
+      "translated_text": "The modern building offers spaces for theater, music and visual arts."
+    },
+    {
+      "text": "Über 300 Künstlerinnen und Künstler aus Berlin und Brandenburg waren bei der Eröffnung anwesend.",
+      "translated_text": "Over 300 artists from Berlin and Brandenburg were present at the opening."
+    },
+    {
+      "text": "Die Investitionen in das Projekt beliefen sich auf 45 Millionen Euro.",
+      "translated_text": "The investments in the project amounted to 45 million euros."
+    },
+    {
+      "text": "Bürgermeisterin Franziska Giffey lobte das Zentrum als wichtigen Beitrag zur Kulturförderung.",
+      "translated_text": "Mayor Franziska Giffey praised the center as an important contribution to cultural promotion."
+    },
+    {
+      "text": "Besonders junge Talente erhalten hier die Möglichkeit, sich zu präsentieren.",
+      "translated_text": "Particularly young talents receive the opportunity to present themselves here."
+    },
+    {
+      "text": "Das Zentrum ist täglich von 9 bis 22 Uhr für die Öffentlichkeit geöffnet.",
+      "translated_text": "The center is open to the public daily from 9 am to 10 pm."
+    },
+    {
+      "text": "Bereits im ersten Monat sind über 50 Veranstaltungen und Workshops geplant.",
+      "translated_text": "Over 50 events and workshops are already planned for the first month."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Kultursenator",
+      "translated_term": "cultural senator",
+      "example_usage": "Berlins Kultursenator eröffnete gestern das neue Kulturzentrum \"Mitte Kreativ\" in der Friedrichstraße."
+    },
+    {
+      "term": "eröffnen",
+      "translated_term": "to open/inaugurate",
+      "example_usage": "Berlins Kultursenator eröffnete gestern das neue Kulturzentrum \"Mitte Kreativ\" in der Friedrichstraße."
+    },
+    {
+      "term": "das Kulturzentrum",
+      "translated_term": "cultural center",
+      "example_usage": "Berlins Kultursenator eröffnete gestern das neue Kulturzentrum \"Mitte Kreativ\" in der Friedrichstraße."
+    },
+    {
+      "term": "das Gebäude",
+      "translated_term": "building",
+      "example_usage": "Das moderne Gebäude bietet Räume für Theater, Musik und bildende Kunst."
+    },
+    {
+      "term": "die bildende Kunst",
+      "translated_term": "visual arts",
+      "example_usage": "Das moderne Gebäude bietet Räume für Theater, Musik und bildende Kunst."
+    },
+    {
+      "term": "die Künstlerin / der Künstler",
+      "translated_term": "artist (female/male)",
+      "example_usage": "Über 300 Künstlerinnen und Künstler aus Berlin und Brandenburg waren bei der Eröffnung anwesend."
+    },
+    {
+      "term": "anwesend sein",
+      "translated_term": "to be present",
+      "example_usage": "Über 300 Künstlerinnen und Künstler aus Berlin und Brandenburg waren bei der Eröffnung anwesend."
+    },
+    {
+      "term": "die Eröffnung",
+      "translated_term": "opening/inauguration",
+      "example_usage": "Über 300 Künstlerinnen und Künstler aus Berlin und Brandenburg waren bei der Eröffnung anwesend."
+    },
+    {
+      "term": "sich belaufen auf",
+      "translated_term": "to amount to",
+      "example_usage": "Die Investitionen in das Projekt beliefen sich auf 45 Millionen Euro."
+    },
+    {
+      "term": "loben",
+      "translated_term": "to praise",
+      "example_usage": "Bürgermeisterin Franziska Giffey lobte das Zentrum als wichtigen Beitrag zur Kulturförderung."
+    },
+    {
+      "term": "der Beitrag",
+      "translated_term": "contribution",
+      "example_usage": "Bürgermeisterin Franziska Giffey lobte das Zentrum als wichtigen Beitrag zur Kulturförderung."
+    },
+    {
+      "term": "die Kulturförderung",
+      "translated_term": "cultural promotion",
+      "example_usage": "Bürgermeisterin Franziska Giffey lobte das Zentrum als wichtigen Beitrag zur Kulturförderung."
+    },
+    {
+      "term": "das Talent",
+      "translated_term": "talent",
+      "example_usage": "Besonders junge Talente erhalten hier die Möglichkeit, sich zu präsentieren."
+    },
+    {
+      "term": "die Öffentlichkeit",
+      "translated_term": "public",
+      "example_usage": "Das Zentrum ist täglich von 9 bis 22 Uhr für die Öffentlichkeit geöffnet."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berliner Zeitung",
+      "link_url": "https://www.berliner-zeitung.de/kultur/kulturzentrum-mitte-kreativ-eroeffnung"
+    }
+  ]
+}
