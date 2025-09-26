@@ -1,0 +1,118 @@
+{
+  "title": "Große Demonstration gegen Gaza-Krieg in Berlin geplant",
+  "translated_title": "Large demonstration against Gaza war planned in Berlin",
+  "text": [
+    {
+      "text": "In Berlin findet heute eine große Demonstration gegen den Gaza-Krieg statt.",
+      "translated_text": "A large demonstration against the Gaza war is taking place in Berlin today."
+    },
+    {
+      "text": "Die Linken-Partei erwartet einen Teilnehmerrekord bei der Veranstaltung.",
+      "translated_text": "The Left party expects a record number of participants at the event."
+    },
+    {
+      "text": "Die Demonstration trägt den Namen 'All Eyes on Gaza'.",
+      "translated_text": "The demonstration is called 'All Eyes on Gaza'."
+    },
+    {
+      "text": "Janine Schwerdtner, die Chefin der Linken-Partei, unterstützt die Proteste.",
+      "translated_text": "Janine Schwerdtner, the leader of the Left party, supports the protests."
+    },
+    {
+      "text": "Tausende Menschen aus ganz Deutschland werden in Berlin erwartet.",
+      "translated_text": "Thousands of people from all over Germany are expected in Berlin."
+    },
+    {
+      "text": "Die Demonstranten wollen Aufmerksamkeit für die Lage in Gaza schaffen.",
+      "translated_text": "The demonstrators want to create attention for the situation in Gaza."
+    },
+    {
+      "text": "Viele Teilnehmer fordern einen sofortigen Waffenstillstand im Gaza-Konflikt.",
+      "translated_text": "Many participants demand an immediate ceasefire in the Gaza conflict."
+    },
+    {
+      "text": "Die Polizei Berlin hat besondere Sicherheitsmaßnahmen für die Demonstration geplant.",
+      "translated_text": "Berlin police have planned special security measures for the demonstration."
+    },
+    {
+      "text": "Friedliche Proteste sind ein wichtiges Recht in der Demokratie.",
+      "translated_text": "Peaceful protests are an important right in democracy."
+    },
+    {
+      "text": "Die Demonstration zeigt, wie wichtig den Menschen der Frieden im Nahen Osten ist.",
+      "translated_text": "The demonstration shows how important peace in the Middle East is to people."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Demonstration",
+      "translated_term": "demonstration",
+      "example_usage": "In Berlin findet heute eine große Demonstration gegen den Gaza-Krieg statt."
+    },
+    {
+      "term": "der Teilnehmer",
+      "translated_term": "participant",
+      "example_usage": "Die Linken-Partei erwartet einen Teilnehmerrekord bei der Veranstaltung."
+    },
+    {
+      "term": "die Veranstaltung",
+      "translated_term": "event",
+      "example_usage": "Die Linken-Partei erwartet einen Teilnehmerrekord bei der Veranstaltung."
+    },
+    {
+      "term": "unterstützen",
+      "translated_term": "to support",
+      "example_usage": "Janine Schwerdtner, die Chefin der Linken-Partei, unterstützt die Proteste."
+    },
+    {
+      "term": "erwarten",
+      "translated_term": "to expect",
+      "example_usage": "Tausende Menschen aus ganz Deutschland werden in Berlin erwartet."
+    },
+    {
+      "term": "die Aufmerksamkeit",
+      "translated_term": "attention",
+      "example_usage": "Die Demonstranten wollen Aufmerksamkeit für die Lage in Gaza schaffen."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand",
+      "example_usage": "Viele Teilnehmer fordern einen sofortigen Waffenstillstand im Gaza-Konflikt."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "ceasefire",
+      "example_usage": "Viele Teilnehmer fordern einen sofortigen Waffenstillstand im Gaza-Konflikt."
+    },
+    {
+      "term": "die Sicherheitsmaßnahme",
+      "translated_term": "security measure",
+      "example_usage": "Die Polizei Berlin hat besondere Sicherheitsmaßnahmen für die Demonstration geplant."
+    },
+    {
+      "term": "friedlich",
+      "translated_term": "peaceful",
+      "example_usage": "Friedliche Proteste sind ein wichtiges Recht in der Demokratie."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Gaza-Konflikt",
+      "translated_name": "Gaza Conflict"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Friedensproteste",
+      "translated_name": "Peace Protests"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tagesspiegel",
+      "link_url": "https://www.tagesspiegel.de/berlin/"
+    }
+  ]
+}
