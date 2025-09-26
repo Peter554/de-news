@@ -1,0 +1,118 @@
+{
+  "title": "Amazon zahlt 2,5 Milliarden Dollar wegen Prime-Problemen",
+  "translated_title": "Amazon pays 2.5 billion dollars due to Prime problems",
+  "text": [
+    {
+      "text": "Amazon muss 2,5 Milliarden Dollar an die US-Regierung zahlen.",
+      "translated_text": "Amazon has to pay 2.5 billion dollars to the US government."
+    },
+    {
+      "text": "Die Regierung sagt, dass Amazon Menschen zu Prime-Abonnements getäuscht hat.",
+      "translated_text": "The government says that Amazon deceived people into Prime subscriptions."
+    },
+    {
+      "text": "Viele Kunden haben sich beschwert, dass sie nicht wussten, wie sie Prime kündigen können.",
+      "translated_text": "Many customers complained that they did not know how to cancel Prime."
+    },
+    {
+      "text": "Amazon hatte es sehr schwer gemacht, das Abonnement zu beenden.",
+      "translated_text": "Amazon had made it very difficult to end the subscription."
+    },
+    {
+      "text": "Die Federal Trade Commission führte eine große Untersuchung durch.",
+      "translated_text": "The Federal Trade Commission conducted a large investigation."
+    },
+    {
+      "text": "Sie fanden heraus, dass Amazon dunkle Muster in ihrer Website verwendete.",
+      "translated_text": "They found out that Amazon used dark patterns on their website."
+    },
+    {
+      "text": "Dunkle Muster sind Tricks, die Kunden verwirren und zu falschen Entscheidungen führen.",
+      "translated_text": "Dark patterns are tricks that confuse customers and lead to wrong decisions."
+    },
+    {
+      "text": "Amazon sagt, dass sie ihre Praktiken bereits verbessert haben.",
+      "translated_text": "Amazon says that they have already improved their practices."
+    },
+    {
+      "text": "Das Unternehmen wird auch seine Kündigungsprozesse einfacher machen müssen.",
+      "translated_text": "The company will also have to make its cancellation processes easier."
+    },
+    {
+      "text": "Diese Strafe ist eine der größten in der Geschichte der Verbraucherschutzbehörden.",
+      "translated_text": "This penalty is one of the largest in the history of consumer protection agencies."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Milliarde",
+      "translated_term": "billion",
+      "example_usage": "Amazon muss 2,5 Milliarden Dollar an die US-Regierung zahlen."
+    },
+    {
+      "term": "täuschen",
+      "translated_term": "to deceive",
+      "example_usage": "Die Regierung sagt, dass Amazon Menschen zu Prime-Abonnements getäuscht hat."
+    },
+    {
+      "term": "das Abonnement",
+      "translated_term": "subscription",
+      "example_usage": "Menschen wurden zu Prime-Abonnements getäuscht."
+    },
+    {
+      "term": "sich beschweren",
+      "translated_term": "to complain",
+      "example_usage": "Viele Kunden haben sich beschwert, dass sie nicht wussten, wie sie Prime kündigen können."
+    },
+    {
+      "term": "kündigen",
+      "translated_term": "to cancel",
+      "example_usage": "Viele Kunden wussten nicht, wie sie Prime kündigen können."
+    },
+    {
+      "term": "die Untersuchung",
+      "translated_term": "investigation",
+      "example_usage": "Die Federal Trade Commission führte eine große Untersuchung durch."
+    },
+    {
+      "term": "herausfinden",
+      "translated_term": "to find out",
+      "example_usage": "Sie fanden heraus, dass Amazon dunkle Muster verwendete."
+    },
+    {
+      "term": "das Muster",
+      "translated_term": "pattern",
+      "example_usage": "Amazon verwendete dunkle Muster in ihrer Website."
+    },
+    {
+      "term": "verwirren",
+      "translated_term": "to confuse",
+      "example_usage": "Dunkle Muster sind Tricks, die Kunden verwirren."
+    },
+    {
+      "term": "die Strafe",
+      "translated_term": "penalty",
+      "example_usage": "Diese Strafe ist eine der größten in der Geschichte der Verbraucherschutzbehörden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Verbraucherschutz",
+      "translated_name": "Consumer Protection"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR",
+      "link_url": "https://www.npr.org/"
+    }
+  ]
+}

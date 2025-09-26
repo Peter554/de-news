@@ -1,0 +1,118 @@
+{
+  "title": "Flughafen BER nach Cyberangriff noch immer gestört",
+  "translated_title": "Berlin BER Airport still disrupted after cyberattack",
+  "text": [
+    {
+      "text": "Der Berliner Flughafen BER funktioniert nach einem Cyberangriff noch immer nicht normal.",
+      "translated_text": "Berlin's BER airport is still not functioning normally after a cyberattack."
+    },
+    {
+      "text": "Das Computersystem des Flughafens wurde von Hackern angegriffen.",
+      "translated_text": "The airport's computer system was attacked by hackers."
+    },
+    {
+      "text": "Passagiere müssen mit langen Wartezeiten und Verspätungen rechnen.",
+      "translated_text": "Passengers must expect long waiting times and delays."
+    },
+    {
+      "text": "Besonders die Gepäckabfertigung ist noch immer sehr langsam.",
+      "translated_text": "Baggage handling in particular is still very slow."
+    },
+    {
+      "text": "Der Flughafen arbeitet im 'Ausnahmemodus', um die Probleme zu lösen.",
+      "translated_text": "The airport is working in 'emergency mode' to solve the problems."
+    },
+    {
+      "text": "IT-Experten arbeiten Tag und Nacht daran, alle Systeme zu reparieren.",
+      "translated_text": "IT experts are working day and night to repair all systems."
+    },
+    {
+      "text": "Viele Flüge mussten gestrichen oder verschoben werden.",
+      "translated_text": "Many flights had to be cancelled or postponed."
+    },
+    {
+      "text": "Die Flughafenleitung entschuldigt sich bei allen betroffenen Reisenden.",
+      "translated_text": "The airport management apologizes to all affected travelers."
+    },
+    {
+      "text": "Cyberangriffe auf wichtige Infrastruktur werden immer häufiger.",
+      "translated_text": "Cyberattacks on important infrastructure are becoming more frequent."
+    },
+    {
+      "text": "Der BER ist einer der wichtigsten Flughäfen in Deutschland.",
+      "translated_text": "The BER is one of the most important airports in Germany."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Flughafen",
+      "translated_term": "airport",
+      "example_usage": "Der Berliner Flughafen BER funktioniert nach einem Cyberangriff noch immer nicht normal."
+    },
+    {
+      "term": "der Cyberangriff",
+      "translated_term": "cyberattack",
+      "example_usage": "Der Flughafen BER funktioniert nach einem Cyberangriff noch immer nicht normal."
+    },
+    {
+      "term": "das Computersystem",
+      "translated_term": "computer system",
+      "example_usage": "Das Computersystem des Flughafens wurde von Hackern angegriffen."
+    },
+    {
+      "term": "der Hacker",
+      "translated_term": "hacker",
+      "example_usage": "Das Computersystem wurde von Hackern angegriffen."
+    },
+    {
+      "term": "die Wartezeit",
+      "translated_term": "waiting time",
+      "example_usage": "Passagiere müssen mit langen Wartezeiten und Verspätungen rechnen."
+    },
+    {
+      "term": "die Verspätung",
+      "translated_term": "delay",
+      "example_usage": "Passagiere müssen mit langen Wartezeiten und Verspätungen rechnen."
+    },
+    {
+      "term": "die Gepäckabfertigung",
+      "translated_term": "baggage handling",
+      "example_usage": "Besonders die Gepäckabfertigung ist noch immer sehr langsam."
+    },
+    {
+      "term": "der Ausnahmemodus",
+      "translated_term": "emergency mode",
+      "example_usage": "Der Flughafen arbeitet im 'Ausnahmemodus', um die Probleme zu lösen."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel",
+      "example_usage": "Viele Flüge mussten gestrichen oder verschoben werden."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "infrastructure",
+      "example_usage": "Cyberangriffe auf wichtige Infrastruktur werden immer häufiger."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tagesspiegel",
+      "link_url": "https://www.tagesspiegel.de/berlin/"
+    }
+  ]
+}
