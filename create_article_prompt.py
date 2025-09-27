@@ -5,10 +5,22 @@
 # ]
 # ///
 
+from __future__ import annotations
 
+import argparse
 import json
+import datetime
 
 import pydantic
+
+
+class Article(pydantic.BaseModel):
+    title: str
+    translated_title: str
+    text: list[ArticleSentence]
+    key_vocab: list[ArticleKeyVocab]
+    tags: list[ArticleTag]
+    sources: list[ArticleSource]
 
 
 class ArticleSentence(pydantic.BaseModel):
@@ -32,19 +44,17 @@ class ArticleSource(pydantic.BaseModel):
     link_url: str
 
 
-class Article(pydantic.BaseModel):
-    title: str
-    translated_title: str
-    text: list[ArticleSentence]
-    key_vocab: list[ArticleKeyVocab]
-    tags: list[ArticleTag]
-    sources: list[ArticleSource]
-
-
-article_schema = Article.model_json_schema()
+arg_parser = argparse.ArgumentParser()
+_ = arg_parser.add_argument(
+    "--date",
+    type=str,
+    default=datetime.date.today().isoformat(),
+    help="Date in YYYY-MM-DD format",
+)
+args = arg_parser.parse_args()
 
 prompt = f"""\
-Search the internet for today's top news.
+Search the internet for top news for the date {args.date}.
 
 I'm especially interested in:
 - Global news
@@ -69,14 +79,16 @@ For each article:
 * Provide links to the original source articles, where one could go to read more.
   * Make sure these links point to specific articles, not generic sites.
 
-For each article, create a JSON file for the result under `articles/$today`, where `$today` is today's date (ISO format).
+For each article, create a JSON file for the result under `articles/{args.date}`.
 Each JSON file should obey the schema given below:
 
 ```json
-{json.dumps(article_schema, indent=2)}
+{json.dumps(Article.model_json_schema(), indent=2)}
 ```
 
-Make your changes on a new branch. Commit your changes and open a PR. Assign Peter554 to review the PR.
+Make your changes on a new branch.
+Commit your changes and open a PR.
+Assign Peter554 to review the PR.
 """
 
 print(prompt)
