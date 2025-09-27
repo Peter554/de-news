@@ -1,0 +1,118 @@
+{
+  "title": "Eisstadion in Wedding nach Sanierung wieder geöffnet",
+  "translated_title": "Ice Stadium in Wedding Reopened After Renovation",
+  "text": [
+    {
+      "text": "Das Erika-Hess-Eisstadion in Wedding ist nach einer Sanierung wieder geöffnet.",
+      "translated_text": "The Erika-Hess ice stadium in Wedding has reopened after renovation."
+    },
+    {
+      "text": "Die Renovierung kostete 1,8 Millionen Euro und dauerte mehrere Monate.",
+      "translated_text": "The renovation cost 1.8 million euros and lasted several months."
+    },
+    {
+      "text": "Eishockeyfans und Hobbyläufer freuen sich sehr über die Wiedereröffnung.",
+      "translated_text": "Ice hockey fans and recreational skaters are very happy about the reopening."
+    },
+    {
+      "text": "Das Stadion wurde rechtzeitig zur Wintersaison fertiggestellt.",
+      "translated_text": "The stadium was completed just in time for the winter season."
+    },
+    {
+      "text": "Während der Sanierung mussten viele Sportler in andere Hallen ausweichen.",
+      "translated_text": "During the renovation, many athletes had to go to other facilities."
+    },
+    {
+      "text": "Die moderne Ausstattung macht das Eislaufen noch angenehmer.",
+      "translated_text": "The modern equipment makes ice skating even more pleasant."
+    },
+    {
+      "text": "Familien mit Kindern können hier wieder gemeinsam Sport treiben.",
+      "translated_text": "Families with children can do sports together here again."
+    },
+    {
+      "text": "Das Eisstadion ist ein wichtiger Ort für den Berliner Eishockeysport.",
+      "translated_text": "The ice stadium is an important place for Berlin ice hockey sports."
+    },
+    {
+      "text": "Auch Eiskunstlauf und andere Wintersportarten finden hier statt.",
+      "translated_text": "Figure skating and other winter sports also take place here."
+    },
+    {
+      "text": "Die Eröffnung ist ein positives Signal für den lokalen Sport in Berlin.",
+      "translated_text": "The opening is a positive signal for local sports in Berlin."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Eisstadion",
+      "translated_term": "ice stadium",
+      "example_usage": "Das Erika-Hess-Eisstadion in Wedding ist nach einer Sanierung wieder geöffnet."
+    },
+    {
+      "term": "die Sanierung",
+      "translated_term": "renovation",
+      "example_usage": "Das Erika-Hess-Eisstadion in Wedding ist nach einer Sanierung wieder geöffnet."
+    },
+    {
+      "term": "die Wiedereröffnung",
+      "translated_term": "reopening",
+      "example_usage": "Eishockeyfans und Hobbyläufer freuen sich sehr über die Wiedereröffnung."
+    },
+    {
+      "term": "fertigstellen",
+      "translated_term": "to complete",
+      "example_usage": "Das Stadion wurde rechtzeitig zur Wintersaison fertiggestellt."
+    },
+    {
+      "term": "ausweichen",
+      "translated_term": "to go elsewhere/to evade",
+      "example_usage": "Während der Sanierung mussten viele Sportler in andere Hallen ausweichen."
+    },
+    {
+      "term": "die Ausstattung",
+      "translated_term": "equipment/facilities",
+      "example_usage": "Die moderne Ausstattung macht das Eislaufen noch angenehmer."
+    },
+    {
+      "term": "das Eislaufen",
+      "translated_term": "ice skating",
+      "example_usage": "Die moderne Ausstattung macht das Eislaufen noch angenehmer."
+    },
+    {
+      "term": "der Eishockey",
+      "translated_term": "ice hockey",
+      "example_usage": "Das Eisstadion ist ein wichtiger Ort für den Berliner Eishockeysport."
+    },
+    {
+      "term": "der Eiskunstlauf",
+      "translated_term": "figure skating",
+      "example_usage": "Auch Eiskunstlauf und andere Wintersportarten finden hier statt."
+    },
+    {
+      "term": "der Hobbyläufer",
+      "translated_term": "recreational skater",
+      "example_usage": "Eishockeyfans und Hobbyläufer freuen sich sehr über die Wiedereröffnung."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Sport",
+      "translated_name": "Sports"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tagesspiegel",
+      "link_url": "https://www.tagesspiegel.de/berlin/wintersport-eisstadion-in-wedding-nach-sanierung-bald-wieder-geoffnet-14402327.html"
+    }
+  ]
+}

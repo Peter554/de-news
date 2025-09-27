@@ -1,0 +1,118 @@
+{
+  "title": "Berliner Unternehmen bereiten sich auf Notfälle vor",
+  "translated_title": "Berlin Companies Prepare for Emergencies",
+  "text": [
+    {
+      "text": "Berliner Unternehmen wollen enger mit der Bundeswehr zusammenarbeiten.",
+      "translated_text": "Berlin companies want to work more closely with the German armed forces."
+    },
+    {
+      "text": "Sie bereiten sich auf verschiedene Bedrohungen vor, wie Drohnenangriffe und Sabotage.",
+      "translated_text": "They are preparing for various threats such as drone attacks and sabotage."
+    },
+    {
+      "text": "Die Firmen erkennen, dass sie ihre Infrastruktur besser schützen müssen.",
+      "translated_text": "The companies recognize that they need to better protect their infrastructure."
+    },
+    {
+      "text": "Besonders wichtig ist der Schutz vor Stromausfällen und Cyberangriffen.",
+      "translated_text": "Protection against power outages and cyber attacks is particularly important."
+    },
+    {
+      "text": "Die Bundeswehr kann den Unternehmen bei der Sicherheitsplanung helfen.",
+      "translated_text": "The armed forces can help companies with security planning."
+    },
+    {
+      "text": "Diese Zusammenarbeit ist wichtig für die Sicherheit der ganzen Gesellschaft.",
+      "translated_text": "This cooperation is important for the security of the entire society."
+    },
+    {
+      "text": "Viele Berliner Firmen haben bereits mit ersten Vorbereitungen begonnen.",
+      "translated_text": "Many Berlin companies have already begun initial preparations."
+    },
+    {
+      "text": "Die Bedrohungen werden in der modernen Welt immer komplexer und gefährlicher.",
+      "translated_text": "The threats are becoming increasingly complex and dangerous in the modern world."
+    },
+    {
+      "text": "Durch die Kooperation können Unternehmen und Militär voneinander lernen.",
+      "translated_text": "Through cooperation, companies and the military can learn from each other."
+    },
+    {
+      "text": "Das Ziel ist eine bessere Vorbereitung auf mögliche Krisen und Notfälle.",
+      "translated_text": "The goal is better preparation for possible crises and emergencies."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bundeswehr",
+      "translated_term": "German armed forces",
+      "example_usage": "Berliner Unternehmen wollen enger mit der Bundeswehr zusammenarbeiten."
+    },
+    {
+      "term": "die Bedrohung",
+      "translated_term": "threat",
+      "example_usage": "Sie bereiten sich auf verschiedene Bedrohungen vor, wie Drohnenangriffe und Sabotage."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "infrastructure",
+      "example_usage": "Die Firmen erkennen, dass sie ihre Infrastruktur besser schützen müssen."
+    },
+    {
+      "term": "der Stromausfall",
+      "translated_term": "power outage",
+      "example_usage": "Besonders wichtig ist der Schutz vor Stromausfällen und Cyberangriffen."
+    },
+    {
+      "term": "die Sabotage",
+      "translated_term": "sabotage",
+      "example_usage": "Sie bereiten sich auf verschiedene Bedrohungen vor, wie Drohnenangriffe und Sabotage."
+    },
+    {
+      "term": "schützen",
+      "translated_term": "to protect",
+      "example_usage": "Die Firmen erkennen, dass sie ihre Infrastruktur besser schützen müssen."
+    },
+    {
+      "term": "die Zusammenarbeit",
+      "translated_term": "cooperation",
+      "example_usage": "Diese Zusammenarbeit ist wichtig für die Sicherheit der ganzen Gesellschaft."
+    },
+    {
+      "term": "die Vorbereitung",
+      "translated_term": "preparation",
+      "example_usage": "Viele Berliner Firmen haben bereits mit ersten Vorbereitungen begonnen."
+    },
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "Sie bereiten sich auf verschiedene Bedrohungen vor, wie Drohnenangriffe und Sabotage."
+    },
+    {
+      "term": "der Cyberangriff",
+      "translated_term": "cyber attack",
+      "example_usage": "Besonders wichtig ist der Schutz vor Stromausfällen und Cyberangriffen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tagesspiegel",
+      "link_url": "https://www.tagesspiegel.de/berlin/berliner-wirtschaft/drohnen-stromausfalle-sabotage-berliner-unternehmen-wollen-enger-mit-der-bundeswehr-zusammenarbeiten-14394473.html"
+    }
+  ]
+}
