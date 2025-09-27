@@ -14,6 +14,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+      - name: Install uv
+        uses: astral-sh/setup-uv@v6
+      - name: Create prompt
+        run: uv run create_article_prompt.py > article-prompt.md
       - name: Run Claude Code
         id: claude
         uses: anthropics/claude-code-action@v1
