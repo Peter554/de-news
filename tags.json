@@ -4,6 +4,10 @@
     "translated_name": "Apple"
   },
   {
+    "name": "Asien",
+    "translated_name": "Asia"
+  },
+  {
     "name": "Berlin",
     "translated_name": "Berlin"
   },
@@ -54,6 +58,10 @@
   {
     "name": "Menschenrechte",
     "translated_name": "Human Rights"
+  },
+  {
+    "name": "Naturkatastrophen",
+    "translated_name": "Natural Disasters"
   },
   {
     "name": "Öffentlicher Dienst",
