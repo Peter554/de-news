@@ -1,0 +1,134 @@
+{
+  "title": "Cyberangriff auf Berliner Flughafen sorgt für Chaos",
+  "translated_title": "Cyberattack on Berlin Airport Causes Chaos",
+  "text": [
+    {
+      "text": "Ein großer Cyberangriff hat den Flughafen Berlin Brandenburg schwer getroffen.",
+      "translated_text": "A major cyberattack has severely hit Berlin Brandenburg Airport."
+    },
+    {
+      "text": "Die Attacke begann am Freitagabend, dem 19. September, und betraf wichtige Computersysteme.",
+      "translated_text": "The attack began on Friday evening, September 19th, and affected important computer systems."
+    },
+    {
+      "text": "Hacker griffen eine Firma an, die für das Check-in und das Boarding zuständig ist.",
+      "translated_text": "Hackers attacked a company responsible for check-in and boarding."
+    },
+    {
+      "text": "Der Flughafen musste sofort alle automatischen Systeme abschalten.",
+      "translated_text": "The airport had to immediately shut down all automated systems."
+    },
+    {
+      "text": "94 Prozent aller Flüge hatten Verspätungen von durchschnittlich einer Stunde.",
+      "translated_text": "94 percent of all flights had delays averaging one hour."
+    },
+    {
+      "text": "Die Mitarbeiter mussten wieder Bordkarten per Hand schreiben.",
+      "translated_text": "Staff had to write boarding passes by hand again."
+    },
+    {
+      "text": "Das Problem war besonders schlecht, weil gerade der Berlin-Marathon stattfand.",
+      "translated_text": "The problem was particularly bad because the Berlin Marathon was taking place."
+    },
+    {
+      "text": "Viele Reisende warteten stundenlang in langen Schlangen.",
+      "translated_text": "Many travelers waited for hours in long queues."
+    },
+    {
+      "text": "Die britische Polizei verhaftete einen Mann in England wegen des Angriffs.",
+      "translated_text": "British police arrested a man in England for the attack."
+    },
+    {
+      "text": "Der 40-jährige Verdächtige wurde später gegen Kaution freigelassen.",
+      "translated_text": "The 40-year-old suspect was later released on bail."
+    },
+    {
+      "text": "Die Ransomware-Software betraf auch andere europäische Flughäfen.",
+      "translated_text": "The ransomware software also affected other European airports."
+    },
+    {
+      "text": "Der Flughafen Berlin warnt Passagiere, dass die Probleme noch andauern.",
+      "translated_text": "Berlin Airport warns passengers that the problems are still ongoing."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Cyberangriff",
+      "translated_term": "cyberattack",
+      "example_usage": "Ein großer Cyberangriff hat den Flughafen Berlin Brandenburg schwer getroffen."
+    },
+    {
+      "term": "der Flughafen",
+      "translated_term": "airport",
+      "example_usage": "Der Flughafen musste sofort alle automatischen Systeme abschalten."
+    },
+    {
+      "term": "angreifen",
+      "translated_term": "to attack",
+      "example_usage": "Hacker griffen eine Firma an, die für das Check-in und das Boarding zuständig ist."
+    },
+    {
+      "term": "abschalten",
+      "translated_term": "to shut down",
+      "example_usage": "Der Flughafen musste sofort alle automatischen Systeme abschalten."
+    },
+    {
+      "term": "die Verspätung",
+      "translated_term": "delay",
+      "example_usage": "94 Prozent aller Flüge hatten Verspätungen von durchschnittlich einer Stunde."
+    },
+    {
+      "term": "die Bordkarte",
+      "translated_term": "boarding pass",
+      "example_usage": "Die Mitarbeiter mussten wieder Bordkarten per Hand schreiben."
+    },
+    {
+      "term": "verhaften",
+      "translated_term": "to arrest",
+      "example_usage": "Die britische Polizei verhaftete einen Mann in England wegen des Angriffs."
+    },
+    {
+      "term": "der Verdächtige",
+      "translated_term": "suspect",
+      "example_usage": "Der 40-jährige Verdächtige wurde später gegen Kaution freigelassen."
+    },
+    {
+      "term": "die Kaution",
+      "translated_term": "bail",
+      "example_usage": "Der 40-jährige Verdächtige wurde später gegen Kaution freigelassen."
+    },
+    {
+      "term": "andauern",
+      "translated_term": "to continue/persist",
+      "example_usage": "Der Flughafen Berlin warnt Passagiere, dass die Probleme noch andauern."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN",
+      "link_url": "https://www.cnn.com/2025/09/24/uk/european-airports-cyberattack-man-arrested-intl"
+    },
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/2025/09/24/man-arrested-in-uk-over-alleged-link-to-cyberattack-that-affected-european-airports"
+    },
+    {
+      "name": "CBS News",
+      "link_url": "https://www.cbsnews.com/news/cyberattack-european-airports-london-berlin-brussels/"
+    }
+  ]
+}

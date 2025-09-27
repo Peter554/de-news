@@ -1,0 +1,130 @@
+{
+  "title": "Taifun Ragasa bringt Zerstörung nach Hongkong und Südchina",
+  "translated_title": "Typhoon Ragasa Brings Destruction to Hong Kong and Southern China",
+  "text": [
+    {
+      "text": "Ein starker Taifun namens Ragasa hat Hongkong und die südchinesische Küste getroffen.",
+      "translated_text": "A strong typhoon named Ragasa has hit Hong Kong and the southern Chinese coast."
+    },
+    {
+      "text": "Der Sturm brachte riesige Wellen mit, die höher als Straßenlaternen waren.",
+      "translated_text": "The storm brought giant waves that were taller than street lamps."
+    },
+    {
+      "text": "Diese gefährlichen Wellen überschwemmten die Promenaden von Hongkong.",
+      "translated_text": "These dangerous waves flooded Hong Kong's promenades."
+    },
+    {
+      "text": "Der Taifun hatte bereits in Taiwan und den Philippinen Schäden verursacht.",
+      "translated_text": "The typhoon had already caused damage in Taiwan and the Philippines."
+    },
+    {
+      "text": "Viele Menschen dort starben durch den gefährlichen Sturm.",
+      "translated_text": "Many people there died from the dangerous storm."
+    },
+    {
+      "text": "Die Behörden in Hongkong warnten alle Bürger vor dem schlechten Wetter.",
+      "translated_text": "The authorities in Hong Kong warned all citizens about the bad weather."
+    },
+    {
+      "text": "Schulen und Büros blieben geschlossen, um Menschen zu schützen.",
+      "translated_text": "Schools and offices remained closed to protect people."
+    },
+    {
+      "text": "Der öffentliche Verkehr funktionierte nur eingeschränkt während des Sturms.",
+      "translated_text": "Public transport only functioned limitedly during the storm."
+    },
+    {
+      "text": "Fischer mussten ihre Boote in sichere Häfen bringen.",
+      "translated_text": "Fishermen had to bring their boats to safe harbors."
+    },
+    {
+      "text": "Die Windgeschwindigkeiten erreichten mehr als 150 Kilometer pro Stunde.",
+      "translated_text": "Wind speeds reached more than 150 kilometers per hour."
+    },
+    {
+      "text": "Meteorologen sagen, dass solche starken Stürme häufiger werden.",
+      "translated_text": "Meteorologists say that such strong storms are becoming more frequent."
+    },
+    {
+      "text": "Der Klimawandel macht Taifune gefährlicher und unvorhersagbarer.",
+      "translated_text": "Climate change makes typhoons more dangerous and unpredictable."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Taifun",
+      "translated_term": "typhoon",
+      "example_usage": "Ein starker Taifun namens Ragasa hat Hongkong und die südchinesische Küste getroffen."
+    },
+    {
+      "term": "die Welle",
+      "translated_term": "wave",
+      "example_usage": "Der Sturm brachte riesige Wellen mit, die höher als Straßenlaternen waren."
+    },
+    {
+      "term": "überschwemmen",
+      "translated_term": "to flood",
+      "example_usage": "Diese gefährlichen Wellen überschwemmten die Promenaden von Hongkong."
+    },
+    {
+      "term": "die Promenade",
+      "translated_term": "promenade",
+      "example_usage": "Diese gefährlichen Wellen überschwemmten die Promenaden von Hongkong."
+    },
+    {
+      "term": "verursachen",
+      "translated_term": "to cause",
+      "example_usage": "Der Taifun hatte bereits in Taiwan und den Philippinen Schäden verursacht."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "authority",
+      "example_usage": "Die Behörden in Hongkong warnten alle Bürger vor dem schlechten Wetter."
+    },
+    {
+      "term": "eingeschränkt",
+      "translated_term": "limited",
+      "example_usage": "Der öffentliche Verkehr funktionierte nur eingeschränkt während des Sturms."
+    },
+    {
+      "term": "der Fischer",
+      "translated_term": "fisherman",
+      "example_usage": "Fischer mussten ihre Boote in sichere Häfen bringen."
+    },
+    {
+      "term": "die Windgeschwindigkeit",
+      "translated_term": "wind speed",
+      "example_usage": "Die Windgeschwindigkeiten erreichten mehr als 150 Kilometer pro Stunde."
+    },
+    {
+      "term": "unvorhersagbar",
+      "translated_term": "unpredictable",
+      "example_usage": "Der Klimawandel macht Taifune gefährlicher und unvorhersagbarer."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    },
+    {
+      "name": "Klimapolitik",
+      "translated_name": "Climate Policy"
+    },
+    {
+      "name": "Asien",
+      "translated_name": "Asia"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Democracy Now!",
+      "link_url": "https://www.democracynow.org/2025/9/24/headlines"
+    },
+    {
+      "name": "Havana Times",
+      "link_url": "https://havanatimes.org/news/international-news-briefs-for-wednesday-september-24-2025/"
+    }
+  ]
+}
