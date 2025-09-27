@@ -3,7 +3,7 @@ version: "3"
 tasks:
   fetch_articles:
     cmds:
-      - uv run create_article_prompt.py > article-prompt.md
+      - uv run create_article_prompt.py --date {{ default (now | date "2006-01-02") .DATE }} > article-prompt.md
       - |
         cat article-prompt.md | claude -p \
           --allowedTools "WebSearch,WebFetch,Read,Bash,Write" \
