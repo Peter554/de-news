@@ -1,0 +1,118 @@
+{
+  "title": "Deutschland diskutiert neue Klimaziele für 2030",
+  "translated_title": "Germany Discusses New Climate Goals for 2030",
+  "text": [
+    {
+      "text": "Die deutsche Regierung plant schärfere Klimaziele bis zum Jahr 2030.",
+      "translated_text": "The German government is planning stricter climate goals by the year 2030."
+    },
+    {
+      "text": "Experten sagen, dass die aktuellen Maßnahmen nicht ausreichen.",
+      "translated_text": "Experts say that the current measures are not sufficient."
+    },
+    {
+      "text": "Deutschland will bis 2045 klimaneutral werden.",
+      "translated_text": "Germany wants to become climate neutral by 2045."
+    },
+    {
+      "text": "Dafür muss das Land mehr erneuerbare Energien nutzen.",
+      "translated_text": "For this, the country must use more renewable energies."
+    },
+    {
+      "text": "Besonders wichtig ist der Ausbau von Wind- und Solarenergie.",
+      "translated_text": "The expansion of wind and solar energy is particularly important."
+    },
+    {
+      "text": "Auch die Industrie muss ihre CO2-Emissionen stark reduzieren.",
+      "translated_text": "Industry must also significantly reduce its CO2 emissions."
+    },
+    {
+      "text": "Viele Bürger unterstützen strengere Umweltgesetze.",
+      "translated_text": "Many citizens support stricter environmental laws."
+    },
+    {
+      "text": "Die Kosten für den Klimaschutz sind sehr hoch.",
+      "translated_text": "The costs for climate protection are very high."
+    },
+    {
+      "text": "Politiker diskutieren über neue Steuern auf umweltschädliche Produkte.",
+      "translated_text": "Politicians are discussing new taxes on environmentally harmful products."
+    },
+    {
+      "text": "Deutschland möchte international ein Vorbild für Klimaschutz sein.",
+      "translated_text": "Germany wants to be an international role model for climate protection."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Klimaziel",
+      "translated_term": "climate goal",
+      "example_usage": "Die deutsche Regierung plant schärfere Klimaziele bis zum Jahr 2030."
+    },
+    {
+      "term": "die Maßnahme",
+      "translated_term": "measure",
+      "example_usage": "Experten sagen, dass die aktuellen Maßnahmen nicht ausreichen."
+    },
+    {
+      "term": "klimaneutral",
+      "translated_term": "climate neutral",
+      "example_usage": "Deutschland will bis 2045 klimaneutral werden."
+    },
+    {
+      "term": "erneuerbar",
+      "translated_term": "renewable",
+      "example_usage": "Dafür muss das Land mehr erneuerbare Energien nutzen."
+    },
+    {
+      "term": "der Ausbau",
+      "translated_term": "expansion",
+      "example_usage": "Besonders wichtig ist der Ausbau von Wind- und Solarenergie."
+    },
+    {
+      "term": "die Emission",
+      "translated_term": "emission",
+      "example_usage": "Auch die Industrie muss ihre CO2-Emissionen stark reduzieren."
+    },
+    {
+      "term": "reduzieren",
+      "translated_term": "to reduce",
+      "example_usage": "Auch die Industrie muss ihre CO2-Emissionen stark reduzieren."
+    },
+    {
+      "term": "das Umweltgesetz",
+      "translated_term": "environmental law",
+      "example_usage": "Viele Bürger unterstützen strengere Umweltgesetze."
+    },
+    {
+      "term": "der Klimaschutz",
+      "translated_term": "climate protection",
+      "example_usage": "Die Kosten für den Klimaschutz sind sehr hoch."
+    },
+    {
+      "term": "das Vorbild",
+      "translated_term": "role model",
+      "example_usage": "Deutschland möchte international ein Vorbild für Klimaschutz sein."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Klimapolitik",
+      "translated_name": "Climate Policy"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Deutsche Welle",
+      "link_url": "https://www.dw.com/de/deutschland-klimaziele-2030/a-67012345"
+    }
+  ]
+}

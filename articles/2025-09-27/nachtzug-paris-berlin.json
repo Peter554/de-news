@@ -1,0 +1,118 @@
+{
+  "title": "Nachtzug zwischen Paris und Berlin steht vor dem Aus",
+  "translated_title": "Night Train Between Paris and Berlin Faces Discontinuation",
+  "text": [
+    {
+      "text": "Der Nachtzug zwischen Paris und Berlin könnte bald nicht mehr fahren.",
+      "translated_text": "The night train between Paris and Berlin might soon stop running."
+    },
+    {
+      "text": "Frankreich will die Subventionen für diese Zugverbindung streichen.",
+      "translated_text": "France wants to cut the subsidies for this train connection."
+    },
+    {
+      "text": "Der Zug wurde erst vor zwei Jahren wieder eingeführt.",
+      "translated_text": "The train was only reintroduced two years ago."
+    },
+    {
+      "text": "Viele Reisende nutzen gerne den komfortablen Nachtzug für längere Strecken.",
+      "translated_text": "Many travelers like to use the comfortable night train for longer routes."
+    },
+    {
+      "text": "Ohne die französischen Zuschüsse ist der Betrieb nicht mehr wirtschaftlich.",
+      "translated_text": "Without the French subsidies, the operation is no longer economical."
+    },
+    {
+      "text": "Die Nachtzüge sind eine umweltfreundliche Alternative zum Flugzeug.",
+      "translated_text": "Night trains are an environmentally friendly alternative to airplanes."
+    },
+    {
+      "text": "Passagiere können während der Fahrt schlafen und kommen ausgeruht an.",
+      "translated_text": "Passengers can sleep during the journey and arrive well-rested."
+    },
+    {
+      "text": "Die Entscheidung über die Zukunft des Zuges soll bald fallen.",
+      "translated_text": "The decision about the train's future should be made soon."
+    },
+    {
+      "text": "Politiker und Reiseunternehmen suchen nach Lösungen für das Problem.",
+      "translated_text": "Politicians and travel companies are looking for solutions to the problem."
+    },
+    {
+      "text": "Der Verlust dieser Verbindung wäre ein Rückschritt für den europäischen Verkehr.",
+      "translated_text": "The loss of this connection would be a setback for European transportation."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Nachtzug",
+      "translated_term": "night train",
+      "example_usage": "Der Nachtzug zwischen Paris und Berlin könnte bald nicht mehr fahren."
+    },
+    {
+      "term": "die Subvention",
+      "translated_term": "subsidy",
+      "example_usage": "Frankreich will die Subventionen für diese Zugverbindung streichen."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cut/cancel",
+      "example_usage": "Frankreich will die Subventionen für diese Zugverbindung streichen."
+    },
+    {
+      "term": "einführen",
+      "translated_term": "to introduce",
+      "example_usage": "Der Zug wurde erst vor zwei Jahren wieder eingeführt."
+    },
+    {
+      "term": "wirtschaftlich",
+      "translated_term": "economical",
+      "example_usage": "Ohne die französischen Zuschüsse ist der Betrieb nicht mehr wirtschaftlich."
+    },
+    {
+      "term": "umweltfreundlich",
+      "translated_term": "environmentally friendly",
+      "example_usage": "Die Nachtzüge sind eine umweltfreundliche Alternative zum Flugzeug."
+    },
+    {
+      "term": "der Zuschuss",
+      "translated_term": "subsidy/financial support",
+      "example_usage": "Ohne die französischen Zuschüsse ist der Betrieb nicht mehr wirtschaftlich."
+    },
+    {
+      "term": "die Verbindung",
+      "translated_term": "connection",
+      "example_usage": "Der Verlust dieser Verbindung wäre ein Rückschritt für den europäischen Verkehr."
+    },
+    {
+      "term": "ausgeruht",
+      "translated_term": "well-rested",
+      "example_usage": "Passagiere können während der Fahrt schlafen und kommen ausgeruht an."
+    },
+    {
+      "term": "der Rückschritt",
+      "translated_term": "setback",
+      "example_usage": "Der Verlust dieser Verbindung wäre ein Rückschritt für den europäischen Verkehr."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tagesspiegel",
+      "link_url": "https://www.tagesspiegel.de/berlin/zuschuss-fallt-weg-nachtzug-zwischen-paris-und-berlin-droht-das-aus-14402387.html"
+    }
+  ]
+}
