@@ -1,0 +1,110 @@
+{
+  "title": "Hurrikan bedroht US-Ostküste - Notstand in South Carolina ausgerufen",
+  "translated_title": "Hurricane Threatens US East Coast - State of Emergency Declared in South Carolina",
+  "text": [
+    {
+      "text": "Ein tropisches Tiefdruckgebiet über der Karibik könnte sich zu einem gefährlichen Hurrikan entwickeln.",
+      "translated_text": "A tropical depression over the Caribbean could develop into a dangerous hurricane."
+    },
+    {
+      "text": "Das Nationale Hurrikan-Zentrum warnt vor einer möglichen Verstärkung des Sturms.",
+      "translated_text": "The National Hurricane Center warns of a possible strengthening of the storm."
+    },
+    {
+      "text": "Der Gouverneur von South Carolina hat bereits den Notstand ausgerufen.",
+      "translated_text": "The governor of South Carolina has already declared a state of emergency."
+    },
+    {
+      "text": "Hurrikan Humberto hat sich bereits zu einem seltenen Kategorie-5-Sturm verstärkt.",
+      "translated_text": "Hurricane Humberto has already strengthened to a rare Category 5 storm."
+    },
+    {
+      "text": "Die Bewohner der Ostküste bereiten sich auf schwere Schäden vor.",
+      "translated_text": "East Coast residents are preparing for severe damage."
+    },
+    {
+      "text": "Experten erwarten, dass der Sturm am Montag die USA erreichen könnte.",
+      "translated_text": "Experts expect that the storm could reach the USA on Monday."
+    },
+    {
+      "text": "Evakuierungen sind bereits in einigen Küstengebieten angeordnet worden.",
+      "translated_text": "Evacuations have already been ordered in some coastal areas."
+    },
+    {
+      "text": "Die Meteorologen überwachen die Entwicklung des Sturms sehr genau.",
+      "translated_text": "Meteorologists are monitoring the development of the storm very closely."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Tiefdruckgebiet",
+      "translated_term": "low pressure system",
+      "example_usage": "Ein tropisches Tiefdruckgebiet über der Karibik könnte sich zu einem Hurrikan entwickeln."
+    },
+    {
+      "term": "sich entwickeln",
+      "translated_term": "to develop",
+      "example_usage": "Das Tiefdruckgebiet könnte sich zu einem gefährlichen Hurrikan entwickeln."
+    },
+    {
+      "term": "das Hurrikan-Zentrum",
+      "translated_term": "hurricane center",
+      "example_usage": "Das Nationale Hurrikan-Zentrum warnt vor einer möglichen Verstärkung."
+    },
+    {
+      "term": "die Verstärkung",
+      "translated_term": "strengthening",
+      "example_usage": "Das Hurrikan-Zentrum warnt vor einer möglichen Verstärkung des Sturms."
+    },
+    {
+      "term": "der Gouverneur",
+      "translated_term": "governor",
+      "example_usage": "Der Gouverneur von South Carolina hat den Notstand ausgerufen."
+    },
+    {
+      "term": "der Notstand",
+      "translated_term": "state of emergency",
+      "example_usage": "Der Gouverneur hat bereits den Notstand ausgerufen."
+    },
+    {
+      "term": "sich vorbereiten",
+      "translated_term": "to prepare",
+      "example_usage": "Die Bewohner der Ostküste bereiten sich auf schwere Schäden vor."
+    },
+    {
+      "term": "die Evakuierung",
+      "translated_term": "evacuation",
+      "example_usage": "Evakuierungen sind bereits in einigen Küstengebieten angeordnet worden."
+    },
+    {
+      "term": "anordnen",
+      "translated_term": "to order",
+      "example_usage": "Evakuierungen sind bereits angeordnet worden."
+    },
+    {
+      "term": "überwachen",
+      "translated_term": "to monitor",
+      "example_usage": "Die Meteorologen überwachen die Entwicklung des Sturms sehr genau."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    }
+  ],
+  "sources": [
+    {
+      "name": "National Hurricane Center",
+      "link_url": "https://www.nhc.noaa.gov/"
+    }
+  ]
+}

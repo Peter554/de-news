@@ -1,0 +1,110 @@
+{
+  "title": "Syriens Präsident spricht erstmals seit 60 Jahren vor UN-Generalversammlung",
+  "translated_title": "Syria's President Speaks to UN General Assembly for First Time in 60 Years",
+  "text": [
+    {
+      "text": "Syriens Präsident Ahmad al-Sharaa hielt eine historische Rede vor den Vereinten Nationen.",
+      "translated_text": "Syria's President Ahmad al-Sharaa gave a historic speech to the United Nations."
+    },
+    {
+      "text": "Es ist das erste Mal seit fast 60 Jahren, dass ein syrischer Präsident vor der UN-Generalversammlung spricht.",
+      "translated_text": "It is the first time in almost 60 years that a Syrian president has spoken to the UN General Assembly."
+    },
+    {
+      "text": "Diese Rede markiert einen wichtigen diplomatischen Meilenstein für Syrien.",
+      "translated_text": "This speech marks an important diplomatic milestone for Syria."
+    },
+    {
+      "text": "Al-Sharaa sprach über die Herausforderungen seines Landes nach Jahren des Bürgerkriegs.",
+      "translated_text": "Al-Sharaa spoke about his country's challenges after years of civil war."
+    },
+    {
+      "text": "Die internationale Gemeinschaft verfolgte die Rede mit großem Interesse.",
+      "translated_text": "The international community followed the speech with great interest."
+    },
+    {
+      "text": "Syrien hofft auf eine Verbesserung seiner internationalen Beziehungen.",
+      "translated_text": "Syria hopes for an improvement in its international relations."
+    },
+    {
+      "text": "Der Präsident betonte die Notwendigkeit von Frieden und Stabilität in der Region.",
+      "translated_text": "The president emphasized the necessity of peace and stability in the region."
+    },
+    {
+      "text": "Experten sehen dies als ersten Schritt zur Normalisierung der Beziehungen.",
+      "translated_text": "Experts see this as a first step toward normalizing relations."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Präsident",
+      "translated_term": "president",
+      "example_usage": "Syriens Präsident Ahmad al-Sharaa hielt eine historische Rede."
+    },
+    {
+      "term": "historisch",
+      "translated_term": "historic",
+      "example_usage": "Syriens Präsident hielt eine historische Rede vor den Vereinten Nationen."
+    },
+    {
+      "term": "markieren",
+      "translated_term": "to mark",
+      "example_usage": "Diese Rede markiert einen wichtigen diplomatischen Meilenstein."
+    },
+    {
+      "term": "der Meilenstein",
+      "translated_term": "milestone",
+      "example_usage": "Diese Rede markiert einen wichtigen diplomatischen Meilenstein für Syrien."
+    },
+    {
+      "term": "der Bürgerkrieg",
+      "translated_term": "civil war",
+      "example_usage": "Al-Sharaa sprach über die Herausforderungen nach Jahren des Bürgerkriegs."
+    },
+    {
+      "term": "die Gemeinschaft",
+      "translated_term": "community",
+      "example_usage": "Die internationale Gemeinschaft verfolgte die Rede mit großem Interesse."
+    },
+    {
+      "term": "verfolgen",
+      "translated_term": "to follow",
+      "example_usage": "Die internationale Gemeinschaft verfolgte die Rede mit großem Interesse."
+    },
+    {
+      "term": "die Verbesserung",
+      "translated_term": "improvement",
+      "example_usage": "Syrien hofft auf eine Verbesserung seiner internationalen Beziehungen."
+    },
+    {
+      "term": "die Notwendigkeit",
+      "translated_term": "necessity",
+      "example_usage": "Der Präsident betonte die Notwendigkeit von Frieden und Stabilität."
+    },
+    {
+      "term": "die Normalisierung",
+      "translated_term": "normalization",
+      "example_usage": "Experten sehen dies als ersten Schritt zur Normalisierung der Beziehungen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Syrien",
+      "translated_name": "Syria"
+    },
+    {
+      "name": "Vereinte Nationen",
+      "translated_name": "United Nations"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "United Nations News",
+      "link_url": "https://news.un.org/en/story/2025/09/1154932"
+    }
+  ]
+}
