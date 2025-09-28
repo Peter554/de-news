@@ -1,0 +1,110 @@
+{
+  "title": "CDU/CSU gewinnt Bundestagswahl - AfD wird stärkste Kraft im Osten",
+  "translated_title": "CDU/CSU Wins Federal Election - AfD Becomes Strongest Force in the East",
+  "text": [
+    {
+      "text": "Die CDU/CSU hat die deutsche Bundestagswahl gewonnen und erhielt 28,6 Prozent der Stimmen.",
+      "translated_text": "The CDU/CSU won the German federal election and received 28.6 percent of the votes."
+    },
+    {
+      "text": "Die Alternative für Deutschland (AfD) wurde zweitstärkste Kraft mit 20,8 Prozent.",
+      "translated_text": "The Alternative for Germany (AfD) became the second strongest force with 20.8 percent."
+    },
+    {
+      "text": "Die SPD erreichte nur 16,4 Prozent und verlor damit deutlich an Unterstützung.",
+      "translated_text": "The SPD only reached 16.4 percent and thus lost significant support."
+    },
+    {
+      "text": "Ein besonders beunruhigendes Ergebnis zeigt sich in den ostdeutschen Bundesländern.",
+      "translated_text": "A particularly concerning result is shown in the East German federal states."
+    },
+    {
+      "text": "Die AfD konnte alle fünf ehemaligen DDR-Bundesländer für sich gewinnen.",
+      "translated_text": "The AfD was able to win all five former GDR federal states."
+    },
+    {
+      "text": "Diese Entwicklung zeigt eine tiefe politische Spaltung zwischen Ost und West.",
+      "translated_text": "This development shows a deep political division between East and West."
+    },
+    {
+      "text": "Die Regierungsbildung wird schwierig, da mehrere Parteien zusammenarbeiten müssen.",
+      "translated_text": "Government formation will be difficult as several parties must work together."
+    },
+    {
+      "text": "Politische Experten sprechen von einer historischen Zäsur in der deutschen Politik.",
+      "translated_text": "Political experts speak of a historic turning point in German politics."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bundestagswahl",
+      "translated_term": "federal election",
+      "example_usage": "Die CDU/CSU hat die deutsche Bundestagswahl gewonnen."
+    },
+    {
+      "term": "die Stimme",
+      "translated_term": "vote",
+      "example_usage": "Die CDU/CSU erhielt 28,6 Prozent der Stimmen."
+    },
+    {
+      "term": "die Kraft",
+      "translated_term": "force/power",
+      "example_usage": "Die AfD wurde zweitstärkste Kraft mit 20,8 Prozent."
+    },
+    {
+      "term": "die Unterstützung",
+      "translated_term": "support",
+      "example_usage": "Die SPD verlor deutlich an Unterstützung."
+    },
+    {
+      "term": "beunruhigend",
+      "translated_term": "concerning",
+      "example_usage": "Ein besonders beunruhigendes Ergebnis zeigt sich in den ostdeutschen Bundesländern."
+    },
+    {
+      "term": "das Bundesland",
+      "translated_term": "federal state",
+      "example_usage": "Die AfD konnte alle fünf ehemaligen DDR-Bundesländer gewinnen."
+    },
+    {
+      "term": "die Spaltung",
+      "translated_term": "division/split",
+      "example_usage": "Diese Entwicklung zeigt eine tiefe politische Spaltung zwischen Ost und West."
+    },
+    {
+      "term": "die Regierungsbildung",
+      "translated_term": "government formation",
+      "example_usage": "Die Regierungsbildung wird schwierig."
+    },
+    {
+      "term": "zusammenarbeiten",
+      "translated_term": "to cooperate",
+      "example_usage": "Mehrere Parteien müssen zusammenarbeiten."
+    },
+    {
+      "term": "die Zäsur",
+      "translated_term": "turning point",
+      "example_usage": "Politische Experten sprechen von einer historischen Zäsur."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Extremismus",
+      "translated_name": "Extremism"
+    },
+    {
+      "name": "Wahlen",
+      "translated_name": "Elections"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bundeswahlleiter",
+      "link_url": "https://www.bundeswahlleiter.de/bundestagswahlen/2025.html"
+    }
+  ]
+}
