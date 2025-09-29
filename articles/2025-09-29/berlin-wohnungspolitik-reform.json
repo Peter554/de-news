@@ -1,0 +1,122 @@
+{
+  "title": "Berlin plant große Reform der Wohnungspolitik",
+  "translated_title": "Berlin Plans Major Reform of Housing Policy",
+  "text": [
+    {
+      "text": "Der Berliner Senat hat heute eine umfassende Reform der Wohnungspolitik angekündigt.",
+      "translated_text": "The Berlin Senate announced a comprehensive reform of housing policy today."
+    },
+    {
+      "text": "Bürgermeister Kai Wegner stellte neue Maßnahmen gegen die Wohnungsknappheit vor.",
+      "translated_text": "Mayor Kai Wegner presented new measures against the housing shortage."
+    },
+    {
+      "text": "Bis 2030 sollen 100.000 neue Wohnungen in der Hauptstadt entstehen.",
+      "translated_text": "By 2030, 100,000 new apartments are to be built in the capital."
+    },
+    {
+      "text": "Die Stadt will dafür 15 Milliarden Euro in den sozialen Wohnungsbau investieren.",
+      "translated_text": "The city wants to invest 15 billion euros in social housing construction for this purpose."
+    },
+    {
+      "text": "Besonders Familien mit geringem Einkommen sollen von den neuen Wohnungen profitieren.",
+      "translated_text": "Families with low income in particular should benefit from the new apartments."
+    },
+    {
+      "text": "Die Mieten in Berlin sind in den letzten Jahren dramatisch gestiegen.",
+      "translated_text": "Rents in Berlin have risen dramatically in recent years."
+    },
+    {
+      "text": "Viele Berliner können sich ihre Wohnungen nicht mehr leisten.",
+      "translated_text": "Many Berliners can no longer afford their apartments."
+    },
+    {
+      "text": "Die Reform sieht auch strengere Regeln für Immobilienunternehmen vor.",
+      "translated_text": "The reform also provides for stricter rules for real estate companies."
+    },
+    {
+      "text": "Mieterverbände begrüßen die Pläne, fordern aber noch mehr Schutz.",
+      "translated_text": "Tenant associations welcome the plans but demand even more protection."
+    },
+    {
+      "text": "Die Opposition warnt vor den hohen Kosten des Programms.",
+      "translated_text": "The opposition warns about the high costs of the program."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Senat",
+      "translated_term": "senate",
+      "example_usage": "Der Berliner Senat hat heute eine umfassende Reform angekündigt."
+    },
+    {
+      "term": "die Wohnungspolitik",
+      "translated_term": "housing policy",
+      "example_usage": "Der Berliner Senat hat eine Reform der Wohnungspolitik angekündigt."
+    },
+    {
+      "term": "der Bürgermeister",
+      "translated_term": "mayor",
+      "example_usage": "Bürgermeister Kai Wegner stellte neue Maßnahmen vor."
+    },
+    {
+      "term": "die Wohnungsknappheit",
+      "translated_term": "housing shortage",
+      "example_usage": "Kai Wegner stellte neue Maßnahmen gegen die Wohnungsknappheit vor."
+    },
+    {
+      "term": "der Wohnungsbau",
+      "translated_term": "housing construction",
+      "example_usage": "Die Stadt will 15 Milliarden Euro in den sozialen Wohnungsbau investieren."
+    },
+    {
+      "term": "das Einkommen",
+      "translated_term": "income",
+      "example_usage": "Besonders Familien mit geringem Einkommen sollen profitieren."
+    },
+    {
+      "term": "die Miete",
+      "translated_term": "rent",
+      "example_usage": "Die Mieten in Berlin sind in den letzten Jahren dramatisch gestiegen."
+    },
+    {
+      "term": "sich leisten",
+      "translated_term": "to afford",
+      "example_usage": "Viele Berliner können sich ihre Wohnungen nicht mehr leisten."
+    },
+    {
+      "term": "das Immobilienunternehmen",
+      "translated_term": "real estate company",
+      "example_usage": "Die Reform sieht strengere Regeln für Immobilienunternehmen vor."
+    },
+    {
+      "term": "der Mieterverband",
+      "translated_term": "tenant association",
+      "example_usage": "Mieterverbände begrüßen die Pläne."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Wohnungskrise",
+      "translated_name": "Housing Crisis"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de",
+      "link_url": "https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/"
+    },
+    {
+      "name": "RBB24",
+      "link_url": "https://www.rbb24.de/politik/beitrag/2025/09/berlin-wohnungspolitik-reform.html"
+    }
+  ]
+}
