@@ -1,0 +1,122 @@
+{
+  "title": "Streik der BVG: Berliner Verkehr steht still",
+  "translated_title": "BVG Strike: Berlin traffic comes to a standstill",
+  "text": [
+    {
+      "text": "Die Berliner Verkehrsbetriebe (BVG) bestreiken heute den öffentlichen Nahverkehr in der Hauptstadt.",
+      "translated_text": "The Berlin public transport company (BVG) is striking public transport in the capital today."
+    },
+    {
+      "text": "U-Bahnen, Busse und Straßenbahnen fahren den ganzen Tag nicht.",
+      "translated_text": "Subways, buses and trams are not running all day."
+    },
+    {
+      "text": "Die Gewerkschaft Ver.di fordert bessere Arbeitsbedingungen und höhere Löhne für die Fahrer.",
+      "translated_text": "The Ver.di union demands better working conditions and higher wages for drivers."
+    },
+    {
+      "text": "Viele Berliner müssen heute mit dem Auto zur Arbeit fahren oder zu Fuß gehen.",
+      "translated_text": "Many Berliners have to drive to work by car today or walk."
+    },
+    {
+      "text": "Die Straßen sind überfüllt, und es gibt lange Staus in der ganzen Stadt.",
+      "translated_text": "The streets are overcrowded, and there are long traffic jams throughout the city."
+    },
+    {
+      "text": "Touristen können viele Sehenswürdigkeiten nicht erreichen.",
+      "translated_text": "Tourists cannot reach many sights."
+    },
+    {
+      "text": "Die BVG entschuldigt sich bei den Fahrgästen für die Unannehmlichkeiten.",
+      "translated_text": "The BVG apologizes to passengers for the inconvenience."
+    },
+    {
+      "text": "Verhandlungen zwischen der Geschäftsführung und der Gewerkschaft sollen morgen weitergehen.",
+      "translated_text": "Negotiations between management and the union are to continue tomorrow."
+    },
+    {
+      "text": "Es ist bereits der dritte Streik in diesem Jahr.",
+      "translated_text": "It is already the third strike this year."
+    },
+    {
+      "text": "Ein schnelles Ende des Konflikts ist nicht in Sicht.",
+      "translated_text": "A quick end to the conflict is not in sight."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "bestreiken",
+      "translated_term": "to strike",
+      "example_usage": "Die BVG bestreiken heute den öffentlichen Nahverkehr."
+    },
+    {
+      "term": "der öffentliche Nahverkehr",
+      "translated_term": "public transport",
+      "example_usage": "Der öffentliche Nahverkehr steht heute still."
+    },
+    {
+      "term": "die U-Bahnen",
+      "translated_term": "subways",
+      "example_usage": "U-Bahnen fahren den ganzen Tag nicht."
+    },
+    {
+      "term": "die Straßenbahnen",
+      "translated_term": "trams",
+      "example_usage": "Straßenbahnen fahren den ganzen Tag nicht."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "union",
+      "example_usage": "Die Gewerkschaft Ver.di fordert bessere Arbeitsbedingungen."
+    },
+    {
+      "term": "die Arbeitsbedingungen",
+      "translated_term": "working conditions",
+      "example_usage": "Die Gewerkschaft fordert bessere Arbeitsbedingungen."
+    },
+    {
+      "term": "überfüllt",
+      "translated_term": "overcrowded",
+      "example_usage": "Die Straßen sind überfüllt."
+    },
+    {
+      "term": "die Staus",
+      "translated_term": "traffic jams",
+      "example_usage": "Es gibt lange Staus in der ganzen Stadt."
+    },
+    {
+      "term": "die Sehenswürdigkeiten",
+      "translated_term": "sights/attractions",
+      "example_usage": "Touristen können viele Sehenswürdigkeiten nicht erreichen."
+    },
+    {
+      "term": "die Unannehmlichkeiten",
+      "translated_term": "inconvenience",
+      "example_usage": "Die BVG entschuldigt sich für die Unannehmlichkeiten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    }
+  ],
+  "sources": [
+    {
+      "name": "BVG Official Statement",
+      "link_url": "https://www.bvg.de/de/aktuell/pressemitteilungen/streik-30-september-2025"
+    },
+    {
+      "name": "rbb24 Berlin News",
+      "link_url": "https://www.rbb24.de/panorama/beitrag/2025/09/berlin-bvg-streik-verkehr-stillstand.html"
+    }
+  ]
+}

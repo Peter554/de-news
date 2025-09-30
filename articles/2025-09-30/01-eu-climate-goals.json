@@ -1,0 +1,122 @@
+{
+  "title": "EU erreicht wichtige Klimaziele früher als geplant",
+  "translated_title": "EU achieves important climate goals earlier than planned",
+  "text": [
+    {
+      "text": "Die Europäische Union hat heute bekannt gegeben, dass sie ihre Klimaziele für 2030 bereits erreicht hat.",
+      "translated_text": "The European Union announced today that it has already achieved its climate goals for 2030."
+    },
+    {
+      "text": "Der CO2-Ausstoß ist um 55 Prozent gesunken, verglichen mit dem Jahr 1990.",
+      "translated_text": "CO2 emissions have fallen by 55 percent compared to 1990."
+    },
+    {
+      "text": "Diese Erfolge sind hauptsächlich auf den Ausbau erneuerbarer Energien zurückzuführen.",
+      "translated_text": "These successes are mainly due to the expansion of renewable energy."
+    },
+    {
+      "text": "Windkraft und Solarenergie machen jetzt 70 Prozent der Stromproduktion in der EU aus.",
+      "translated_text": "Wind and solar power now account for 70 percent of electricity production in the EU."
+    },
+    {
+      "text": "Deutschland spielt eine führende Rolle bei dieser Entwicklung.",
+      "translated_text": "Germany plays a leading role in this development."
+    },
+    {
+      "text": "Das Land hat seine Kohlekraftwerke vollständig abgeschaltet und investiert massiv in grüne Technologien.",
+      "translated_text": "The country has completely shut down its coal power plants and is investing heavily in green technologies."
+    },
+    {
+      "text": "Experten loben die schnellen Fortschritte, warnen aber vor neuen Herausforderungen.",
+      "translated_text": "Experts praise the rapid progress but warn of new challenges."
+    },
+    {
+      "text": "Die nächsten Ziele für 2035 sind noch ehrgeiziger und erfordern weitere Anstrengungen.",
+      "translated_text": "The next targets for 2035 are even more ambitious and require further efforts."
+    },
+    {
+      "text": "Besonders der Verkehrssektor muss noch stärker auf Elektromobilität umsteigen.",
+      "translated_text": "The transport sector in particular needs to switch even more to electric mobility."
+    },
+    {
+      "text": "Die EU-Kommission plant neue Förderprogramme für nachhaltige Technologien.",
+      "translated_text": "The EU Commission plans new funding programs for sustainable technologies."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Klimaziele",
+      "translated_term": "climate goals",
+      "example_usage": "Die EU hat ihre Klimaziele für 2030 bereits erreicht."
+    },
+    {
+      "term": "der CO2-Ausstoß",
+      "translated_term": "CO2 emissions",
+      "example_usage": "Der CO2-Ausstoß ist um 55 Prozent gesunken."
+    },
+    {
+      "term": "erneuerbare Energien",
+      "translated_term": "renewable energy",
+      "example_usage": "Diese Erfolge sind auf den Ausbau erneuerbarer Energien zurückzuführen."
+    },
+    {
+      "term": "die Windkraft",
+      "translated_term": "wind power",
+      "example_usage": "Windkraft macht 70 Prozent der Stromproduktion aus."
+    },
+    {
+      "term": "die Solarenergie",
+      "translated_term": "solar energy",
+      "example_usage": "Solarenergie macht 70 Prozent der Stromproduktion aus."
+    },
+    {
+      "term": "abschalten",
+      "translated_term": "to shut down",
+      "example_usage": "Deutschland hat seine Kohlekraftwerke vollständig abgeschaltet."
+    },
+    {
+      "term": "investieren",
+      "translated_term": "to invest",
+      "example_usage": "Das Land investiert massiv in grüne Technologien."
+    },
+    {
+      "term": "ehrgeizig",
+      "translated_term": "ambitious",
+      "example_usage": "Die nächsten Ziele für 2035 sind noch ehrgeiziger."
+    },
+    {
+      "term": "der Verkehrssektor",
+      "translated_term": "transport sector",
+      "example_usage": "Der Verkehrssektor muss auf Elektromobilität umsteigen."
+    },
+    {
+      "term": "die Elektromobilität",
+      "translated_term": "electric mobility",
+      "example_usage": "Der Verkehrssektor muss auf Elektromobilität umsteigen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Klimapolitik",
+      "translated_name": "Climate Policy"
+    },
+    {
+      "name": "Europäische Union",
+      "translated_name": "European Union"
+    },
+    {
+      "name": "Erneuerbare Energien",
+      "translated_name": "Renewable Energy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "European Commission Press Release",
+      "link_url": "https://ec.europa.eu/climate/news/eu-achieves-2030-climate-targets-early"
+    },
+    {
+      "name": "Reuters Environment News",
+      "link_url": "https://www.reuters.com/business/environment/eu-reaches-climate-goals-ahead-schedule-2025-09-30"
+    }
+  ]
+}
