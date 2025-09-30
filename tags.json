@@ -20,8 +20,20 @@
     "translated_name": "Federal Budget"
   },
   {
+    "name": "Bundestagswahl",
+    "translated_name": "Federal Election"
+  },
+  {
     "name": "Deutsche Politik",
     "translated_name": "German Politics"
+  },
+  {
+    "name": "Erneuerbare Energien",
+    "translated_name": "Renewable Energy"
+  },
+  {
+    "name": "Europäische Union",
+    "translated_name": "European Union"
   },
   {
     "name": "Extremismus",
@@ -100,6 +112,10 @@
     "translated_name": "State Visit"
   },
   {
+    "name": "Streik",
+    "translated_name": "Strike"
+  },
+  {
     "name": "Technologie",
     "translated_name": "Technology"
   },
@@ -118,6 +134,10 @@
   {
     "name": "Vereinte Nationen",
     "translated_name": "United Nations"
+  },
+  {
+    "name": "Wahlkampf",
+    "translated_name": "Election Campaign"
   },
   {
     "name": "Wohnungskrise",

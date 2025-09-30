@@ -1,0 +1,122 @@
+{
+  "title": "Bundestagswahl 2025: Erste Umfragen zeigen knappes Rennen",
+  "translated_title": "Federal Election 2025: First polls show close race",
+  "text": [
+    {
+      "text": "Vier Wochen vor der Bundestagswahl zeigen neue Umfragen ein sehr knappes Rennen zwischen den Parteien.",
+      "translated_text": "Four weeks before the federal election, new polls show a very close race between the parties."
+    },
+    {
+      "text": "Die CDU liegt mit 28 Prozent knapp vor der SPD mit 26 Prozent.",
+      "translated_text": "The CDU leads with 28 percent, just ahead of the SPD with 26 percent."
+    },
+    {
+      "text": "Die Grünen erreichen 18 Prozent und könnten eine wichtige Rolle bei der Regierungsbildung spielen.",
+      "translated_text": "The Greens reach 18 percent and could play an important role in government formation."
+    },
+    {
+      "text": "Die FDP steht bei neun Prozent, während die AfD acht Prozent der Stimmen bekommen würde.",
+      "translated_text": "The FDP stands at nine percent, while the AfD would get eight percent of the votes."
+    },
+    {
+      "text": "Bundeskanzler Olaf Scholz kämpft um eine zweite Amtszeit.",
+      "translated_text": "Chancellor Olaf Scholz is fighting for a second term in office."
+    },
+    {
+      "text": "Sein Herausforderer Friedrich Merz von der CDU verspricht einen Politikwechsel.",
+      "translated_text": "His challenger Friedrich Merz from the CDU promises a change in policy."
+    },
+    {
+      "text": "Die wichtigsten Themen im Wahlkampf sind Wirtschaft, Klimaschutz und Migration.",
+      "translated_text": "The most important topics in the election campaign are economy, climate protection and migration."
+    },
+    {
+      "text": "Viele Wähler sind noch unentschieden und könnten das Ergebnis beeinflussen.",
+      "translated_text": "Many voters are still undecided and could influence the result."
+    },
+    {
+      "text": "Experten rechnen mit einer schwierigen Regierungsbildung nach der Wahl.",
+      "translated_text": "Experts expect difficult government formation after the election."
+    },
+    {
+      "text": "Eine Große Koalition oder ein Dreierbündnis sind die wahrscheinlichsten Optionen.",
+      "translated_text": "A grand coalition or a three-party alliance are the most likely options."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bundestagswahl",
+      "translated_term": "federal election",
+      "example_usage": "Vier Wochen vor der Bundestagswahl zeigen Umfragen ein knappes Rennen."
+    },
+    {
+      "term": "die Umfragen",
+      "translated_term": "polls",
+      "example_usage": "Neue Umfragen zeigen ein sehr knappes Rennen."
+    },
+    {
+      "term": "knapp",
+      "translated_term": "close/narrow",
+      "example_usage": "Die CDU liegt knapp vor der SPD."
+    },
+    {
+      "term": "die Regierungsbildung",
+      "translated_term": "government formation",
+      "example_usage": "Die Grünen könnten eine wichtige Rolle bei der Regierungsbildung spielen."
+    },
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "chancellor",
+      "example_usage": "Bundeskanzler Olaf Scholz kämpft um eine zweite Amtszeit."
+    },
+    {
+      "term": "die Amtszeit",
+      "translated_term": "term in office",
+      "example_usage": "Scholz kämpft um eine zweite Amtszeit."
+    },
+    {
+      "term": "der Herausforderer",
+      "translated_term": "challenger",
+      "example_usage": "Sein Herausforderer Friedrich Merz verspricht einen Politikwechsel."
+    },
+    {
+      "term": "der Politikwechsel",
+      "translated_term": "change in policy",
+      "example_usage": "Friedrich Merz verspricht einen Politikwechsel."
+    },
+    {
+      "term": "der Wahlkampf",
+      "translated_term": "election campaign",
+      "example_usage": "Die wichtigsten Themen im Wahlkampf sind Wirtschaft und Klimaschutz."
+    },
+    {
+      "term": "unentschieden",
+      "translated_term": "undecided",
+      "example_usage": "Viele Wähler sind noch unentschieden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Bundestagswahl",
+      "translated_name": "Federal Election"
+    },
+    {
+      "name": "Wahlkampf",
+      "translated_name": "Election Campaign"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ARD Deutschlandtrend",
+      "link_url": "https://www.tagesschau.de/inland/deutschlandtrend/deutschlandtrend-3538.html"
+    },
+    {
+      "name": "ZDF Politbarometer",
+      "link_url": "https://www.zdf.de/nachrichten/politik/politbarometer-bundestagswahl-2025-100.html"
+    }
+  ]
+}

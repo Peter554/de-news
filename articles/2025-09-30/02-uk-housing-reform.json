@@ -1,0 +1,122 @@
+{
+  "title": "Großbritannien startet große Wohnungsreform",
+  "translated_title": "Great Britain launches major housing reform",
+  "text": [
+    {
+      "text": "Die britische Regierung hat heute ein umfassendes Reformpaket für den Wohnungsmarkt vorgestellt.",
+      "translated_text": "The British government today presented a comprehensive reform package for the housing market."
+    },
+    {
+      "text": "Bis 2030 sollen eine Million neue Sozialwohnungen gebaut werden.",
+      "translated_text": "One million new social housing units are to be built by 2030."
+    },
+    {
+      "text": "Premierminister Keir Starmer nannte die Wohnungskrise eine der größten Herausforderungen des Landes.",
+      "translated_text": "Prime Minister Keir Starmer called the housing crisis one of the country's greatest challenges."
+    },
+    {
+      "text": "Besonders junge Menschen können sich kaum noch eine eigene Wohnung leisten.",
+      "translated_text": "Especially young people can hardly afford their own apartment anymore."
+    },
+    {
+      "text": "Die Mieten in London sind in den letzten fünf Jahren um 40 Prozent gestiegen.",
+      "translated_text": "Rents in London have risen by 40 percent in the last five years."
+    },
+    {
+      "text": "Das neue Gesetz begrenzt Mieterhöhungen auf maximal drei Prozent pro Jahr.",
+      "translated_text": "The new law limits rent increases to a maximum of three percent per year."
+    },
+    {
+      "text": "Außerdem werden Investoren besteuert, die Wohnungen nur als Geldanlage kaufen.",
+      "translated_text": "In addition, investors who buy apartments only as investments will be taxed."
+    },
+    {
+      "text": "Kritiker befürchten, dass diese Maßnahmen den Wohnungsbau verlangsamen könnten.",
+      "translated_text": "Critics fear that these measures could slow down housing construction."
+    },
+    {
+      "text": "Die Regierung plant jedoch staatliche Unterstützung für Bauunternehmen.",
+      "translated_text": "However, the government plans state support for construction companies."
+    },
+    {
+      "text": "Erste Pilotprojekte sollen bereits im nächsten Jahr in Manchester und Birmingham starten.",
+      "translated_text": "First pilot projects are to start next year in Manchester and Birmingham."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Reformpaket",
+      "translated_term": "reform package",
+      "example_usage": "Die Regierung hat ein umfassendes Reformpaket vorgestellt."
+    },
+    {
+      "term": "der Wohnungsmarkt",
+      "translated_term": "housing market",
+      "example_usage": "Das Reformpaket betrifft den Wohnungsmarkt."
+    },
+    {
+      "term": "die Sozialwohnungen",
+      "translated_term": "social housing",
+      "example_usage": "Eine Million neue Sozialwohnungen sollen gebaut werden."
+    },
+    {
+      "term": "die Wohnungskrise",
+      "translated_term": "housing crisis",
+      "example_usage": "Die Wohnungskrise ist eine große Herausforderung."
+    },
+    {
+      "term": "sich leisten",
+      "translated_term": "to afford",
+      "example_usage": "Junge Menschen können sich kaum eine Wohnung leisten."
+    },
+    {
+      "term": "die Mieten",
+      "translated_term": "rents",
+      "example_usage": "Die Mieten in London sind gestiegen."
+    },
+    {
+      "term": "begrenzen",
+      "translated_term": "to limit",
+      "example_usage": "Das Gesetz begrenzt Mieterhöhungen."
+    },
+    {
+      "term": "besteuern",
+      "translated_term": "to tax",
+      "example_usage": "Investoren werden besteuert."
+    },
+    {
+      "term": "die Geldanlage",
+      "translated_term": "investment",
+      "example_usage": "Wohnungen werden als Geldanlage gekauft."
+    },
+    {
+      "term": "der Wohnungsbau",
+      "translated_term": "housing construction",
+      "example_usage": "Diese Maßnahmen könnten den Wohnungsbau verlangsamen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Wohnungskrise",
+      "translated_name": "Housing Crisis"
+    },
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "BBC News Politics",
+      "link_url": "https://www.bbc.com/news/politics/uk-housing-reform-2025-09-30"
+    },
+    {
+      "name": "The Guardian Housing",
+      "link_url": "https://www.theguardian.com/society/2025/sep/30/uk-government-announces-major-housing-reform"
+    }
+  ]
+}
