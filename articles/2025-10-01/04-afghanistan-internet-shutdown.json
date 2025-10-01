@@ -1,0 +1,128 @@
+{
+  "title": "Taliban verbietet Internet in Afghanistan",
+  "translated_title": "Taliban Bans Internet in Afghanistan",
+  "text": [
+    {
+      "text": "Die Taliban-Regierung hat am 1. Oktober das Internet in Afghanistan komplett verboten.",
+      "translated_text": "The Taliban government completely banned the internet in Afghanistan on October 1st."
+    },
+    {
+      "text": "Als Grund für das Verbot nennen die Taliban die Verhinderung von \"Unmoral\".",
+      "translated_text": "The Taliban cite the prevention of \"immorality\" as the reason for the ban."
+    },
+    {
+      "text": "Die Telekommunikation im ganzen Land ist fast vollständig zusammengebrochen.",
+      "translated_text": "Telecommunications throughout the country have almost completely collapsed."
+    },
+    {
+      "text": "Der Mobilfunkdienst funktioniert nur noch auf 1 Prozent des normalen Niveaus.",
+      "translated_text": "Mobile phone service is only functioning at 1 percent of normal levels."
+    },
+    {
+      "text": "Millionen von Menschen in Afghanistan haben dadurch keinen Zugang mehr zum Internet und können nicht mit der Außenwelt kommunizieren.",
+      "translated_text": "As a result, millions of people in Afghanistan no longer have access to the internet and cannot communicate with the outside world."
+    },
+    {
+      "text": "Internationale Menschenrechtsorganisationen haben das Verbot scharf kritisiert.",
+      "translated_text": "International human rights organizations have sharply criticized the ban."
+    },
+    {
+      "text": "Das Internet-Verbot betrifft besonders stark Frauen und Mädchen, die bereits unter vielen anderen Einschränkungen leiden.",
+      "translated_text": "The internet ban particularly affects women and girls, who already suffer under many other restrictions."
+    },
+    {
+      "text": "Viele Geschäfte und Unternehmen können nicht mehr arbeiten, weil sie auf das Internet angewiesen sind.",
+      "translated_text": "Many shops and businesses can no longer operate because they depend on the internet."
+    },
+    {
+      "text": "Die Vereinten Nationen fordern die Taliban auf, das Verbot sofort aufzuheben und den Menschen ihre Grundrechte zurückzugeben.",
+      "translated_text": "The United Nations are calling on the Taliban to lift the ban immediately and restore people's basic rights."
+    },
+    {
+      "text": "Experten warnen, dass Afghanistan durch diese Maßnahme noch weiter vom Rest der Welt isoliert wird.",
+      "translated_text": "Experts warn that this measure will isolate Afghanistan even further from the rest of the world."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "verbieten",
+      "translated_term": "to ban/prohibit",
+      "example_usage": "Die Taliban-Regierung hat am 1. Oktober das Internet in Afghanistan komplett verboten."
+    },
+    {
+      "term": "das Verbot",
+      "translated_term": "ban/prohibition",
+      "example_usage": "Als Grund für das Verbot nennen die Taliban die Verhinderung von \"Unmoral\"."
+    },
+    {
+      "term": "die Verhinderung",
+      "translated_term": "prevention",
+      "example_usage": "Als Grund für das Verbot nennen die Taliban die Verhinderung von \"Unmoral\"."
+    },
+    {
+      "term": "zusammenbrechen",
+      "translated_term": "to collapse",
+      "example_usage": "Die Telekommunikation im ganzen Land ist fast vollständig zusammengebrochen."
+    },
+    {
+      "term": "der Mobilfunkdienst",
+      "translated_term": "mobile phone service",
+      "example_usage": "Der Mobilfunkdienst funktioniert nur noch auf 1 Prozent des normalen Niveaus."
+    },
+    {
+      "term": "der Zugang",
+      "translated_term": "access",
+      "example_usage": "Millionen von Menschen in Afghanistan haben dadurch keinen Zugang mehr zum Internet."
+    },
+    {
+      "term": "die Außenwelt",
+      "translated_term": "outside world",
+      "example_usage": "Millionen von Menschen in Afghanistan haben dadurch keinen Zugang mehr zum Internet und können nicht mit der Außenwelt kommunizieren."
+    },
+    {
+      "term": "kritisieren",
+      "translated_term": "to criticize",
+      "example_usage": "Internationale Menschenrechtsorganisationen haben das Verbot scharf kritisiert."
+    },
+    {
+      "term": "die Einschränkung",
+      "translated_term": "restriction",
+      "example_usage": "Das Internet-Verbot betrifft besonders stark Frauen und Mädchen, die bereits unter vielen anderen Einschränkungen leiden."
+    },
+    {
+      "term": "angewiesen sein auf",
+      "translated_term": "to depend on",
+      "example_usage": "Viele Geschäfte und Unternehmen können nicht mehr arbeiten, weil sie auf das Internet angewiesen sind."
+    },
+    {
+      "term": "aufheben",
+      "translated_term": "to lift/remove",
+      "example_usage": "Die Vereinten Nationen fordern die Taliban auf, das Verbot sofort aufzuheben."
+    },
+    {
+      "term": "isolieren",
+      "translated_term": "to isolate",
+      "example_usage": "Experten warnen, dass Afghanistan durch diese Maßnahme noch weiter vom Rest der Welt isoliert wird."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Menschenrechte",
+      "translated_name": "Human Rights"
+    },
+    {
+      "name": "Asien",
+      "translated_name": "Asia"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR",
+      "link_url": "https://www.npr.org/sections/world/"
+    }
+  ]
+}

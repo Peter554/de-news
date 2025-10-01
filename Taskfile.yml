@@ -5,10 +5,7 @@ tasks:
     cmds:
       - rm -f article-prompt.md ERROR.md
       - uv run create_article_prompt.py {{if .DATE}}--date {{.DATE}}{{end}} > article-prompt.md
-      - |
-        cat article-prompt.md | claude -p \
-          --allowedTools "WebSearch,WebFetch,Read,Bash,Write" \
-          --model sonnet
+      - cat article-prompt.md | claude -p --model sonnet
       - test ! -f ERROR.md
 
   serve:

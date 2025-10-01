@@ -1,0 +1,136 @@
+{
+  "title": "Oktoberfest wegen Bombendrohung geschlossen",
+  "translated_title": "Oktoberfest Closed Due to Bomb Threat",
+  "text": [
+    {
+      "text": "Das berühmte Oktoberfest in München musste am 1. Oktober geschlossen bleiben.",
+      "translated_text": "The famous Oktoberfest in Munich had to remain closed on October 1st."
+    },
+    {
+      "text": "Die Polizei hatte in einem Wohngebäude im Norden der Stadt Sprengstoff gefunden.",
+      "translated_text": "The police had found explosives in a residential building in the north of the city."
+    },
+    {
+      "text": "Das Gebäude war absichtlich in Brand gesetzt worden, und eine Person starb bei dem Vorfall.",
+      "translated_text": "The building had been deliberately set on fire, and one person died in the incident."
+    },
+    {
+      "text": "Die Behörden vermuten einen Familienstreit als Ursache für das Feuer.",
+      "translated_text": "The authorities suspect a family dispute as the cause of the fire."
+    },
+    {
+      "text": "Eine weitere Person wird noch vermisst, befindet sich aber wahrscheinlich nicht in Gefahr.",
+      "translated_text": "Another person is still missing but is probably not in danger."
+    },
+    {
+      "text": "Die Münchner Polizei prüft mögliche Verbindungen zu anderen Orten in der Stadt, einschließlich der Theresienwiese, wo das Oktoberfest stattfindet.",
+      "translated_text": "The Munich police are examining possible connections to other locations in the city, including the Theresienwiese where the Oktoberfest takes place."
+    },
+    {
+      "text": "Das US-Generalkonsulat warnte amerikanische Bürger vor der Situation und empfahl, das Festgelände zu meiden.",
+      "translated_text": "The U.S. Consulate General warned American citizens about the situation and recommended avoiding the festival grounds."
+    },
+    {
+      "text": "Das Oktoberfest blieb bis 17 Uhr geschlossen, während die Sicherheitskräfte die Lage untersuchten.",
+      "translated_text": "The Oktoberfest remained closed until 5 PM while security forces investigated the situation."
+    },
+    {
+      "text": "Tausende Besucher aus der ganzen Welt mussten ihre Pläne ändern und auf den Besuch des beliebten Volksfests verzichten.",
+      "translated_text": "Thousands of visitors from around the world had to change their plans and forgo visiting the popular folk festival."
+    },
+    {
+      "text": "Die Sicherheit der Besucher hat für die Veranstalter oberste Priorität.",
+      "translated_text": "The safety of visitors is the top priority for the organizers."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bombendrohung",
+      "translated_term": "bomb threat",
+      "example_usage": "Das berühmte Oktoberfest in München musste am 1. Oktober wegen einer Bombendrohung geschlossen bleiben."
+    },
+    {
+      "term": "der Sprengstoff",
+      "translated_term": "explosive",
+      "example_usage": "Die Polizei hatte in einem Wohngebäude im Norden der Stadt Sprengstoff gefunden."
+    },
+    {
+      "term": "das Wohngebäude",
+      "translated_term": "residential building",
+      "example_usage": "Die Polizei hatte in einem Wohngebäude im Norden der Stadt Sprengstoff gefunden."
+    },
+    {
+      "term": "in Brand setzen",
+      "translated_term": "to set on fire",
+      "example_usage": "Das Gebäude war absichtlich in Brand gesetzt worden, und eine Person starb bei dem Vorfall."
+    },
+    {
+      "term": "absichtlich",
+      "translated_term": "deliberately/intentionally",
+      "example_usage": "Das Gebäude war absichtlich in Brand gesetzt worden, und eine Person starb bei dem Vorfall."
+    },
+    {
+      "term": "der Vorfall",
+      "translated_term": "incident",
+      "example_usage": "Das Gebäude war absichtlich in Brand gesetzt worden, und eine Person starb bei dem Vorfall."
+    },
+    {
+      "term": "vermissen",
+      "translated_term": "to miss/be missing",
+      "example_usage": "Eine weitere Person wird noch vermisst, befindet sich aber wahrscheinlich nicht in Gefahr."
+    },
+    {
+      "term": "prüfen",
+      "translated_term": "to examine/check",
+      "example_usage": "Die Münchner Polizei prüft mögliche Verbindungen zu anderen Orten in der Stadt."
+    },
+    {
+      "term": "das Festgelände",
+      "translated_term": "festival grounds",
+      "example_usage": "Das US-Generalkonsulat warnte amerikanische Bürger vor der Situation und empfahl, das Festgelände zu meiden."
+    },
+    {
+      "term": "meiden",
+      "translated_term": "to avoid",
+      "example_usage": "Das US-Generalkonsulat warnte amerikanische Bürger vor der Situation und empfahl, das Festgelände zu meiden."
+    },
+    {
+      "term": "verzichten",
+      "translated_term": "to forgo/do without",
+      "example_usage": "Tausende Besucher aus der ganzen Welt mussten ihre Pläne ändern und auf den Besuch des beliebten Volksfests verzichten."
+    },
+    {
+      "term": "das Volksfest",
+      "translated_term": "folk festival",
+      "example_usage": "Tausende Besucher aus der ganzen Welt mussten ihre Pläne ändern und auf den Besuch des beliebten Volksfests verzichten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Kultur",
+      "translated_name": "Culture"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/10/1/munichs-world-famous-oktoberfest-suspended-in-germany-after-bomb-threat"
+    },
+    {
+      "name": "CNN",
+      "link_url": "https://www.cnn.com/2025/10/01/europe/oktoberfest-closed-bomb-threat-germany-intl"
+    },
+    {
+      "name": "U.S. Embassy Germany",
+      "link_url": "https://de.usembassy.gov/security-alert-u-s-consulate-general-munich-october-1-2025/"
+    }
+  ]
+}

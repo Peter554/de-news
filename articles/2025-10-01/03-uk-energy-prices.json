@@ -1,0 +1,123 @@
+{
+  "title": "Energiepreise in Großbritannien steigen",
+  "translated_title": "Energy Prices Rise in Great Britain",
+  "text": [
+    {
+      "text": "Am 1. Oktober 2025 sind die Energiepreise in Großbritannien um 2 Prozent gestiegen.",
+      "translated_text": "On October 1, 2025, energy prices in Great Britain rose by 2 percent."
+    },
+    {
+      "text": "Ein typischer Haushalt mit Gas und Strom zahlt jetzt durchschnittlich 1.755 Pfund pro Jahr.",
+      "translated_text": "A typical household with gas and electricity now pays an average of £1,755 per year."
+    },
+    {
+      "text": "Die Erhöhung der Energiepreise betrifft Millionen von Familien im ganzen Land.",
+      "translated_text": "The increase in energy prices affects millions of families across the country."
+    },
+    {
+      "text": "Gleichzeitig hat die britische Regierung den Mindestlohn erhöht, um die steigenden Lebenshaltungskosten auszugleichen.",
+      "translated_text": "At the same time, the British government has raised the minimum wage to offset the rising cost of living."
+    },
+    {
+      "text": "Der neue Mindestlohn trat ebenfalls am 1. Oktober in Kraft und wird vielen Arbeitnehmern helfen.",
+      "translated_text": "The new minimum wage also took effect on October 1st and will help many workers."
+    },
+    {
+      "text": "Viele Bürger sind jedoch besorgt über die steigenden Kosten für Energie und andere Grundbedürfnisse.",
+      "translated_text": "However, many citizens are concerned about the rising costs for energy and other basic necessities."
+    },
+    {
+      "text": "Verbraucherschutzorganisationen raten den Menschen, ihren Energieverbrauch zu reduzieren und Energiesparmaßnahmen zu ergreifen.",
+      "translated_text": "Consumer protection organizations advise people to reduce their energy consumption and take energy-saving measures."
+    },
+    {
+      "text": "Einige Experten warnen, dass die Energiepreise in den kommenden Monaten weiter steigen könnten.",
+      "translated_text": "Some experts warn that energy prices could continue to rise in the coming months."
+    },
+    {
+      "text": "Die Regierung hat versprochen, einkommensschwache Haushalte mit zusätzlichen Hilfen zu unterstützen.",
+      "translated_text": "The government has promised to support low-income households with additional assistance."
+    },
+    {
+      "text": "Viele Menschen hoffen, dass die Situation sich bald verbessern wird und die Preise wieder sinken.",
+      "translated_text": "Many people hope that the situation will improve soon and prices will fall again."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Energiepreis",
+      "translated_term": "energy price",
+      "example_usage": "Am 1. Oktober 2025 sind die Energiepreise in Großbritannien um 2 Prozent gestiegen."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise/increase",
+      "example_usage": "Am 1. Oktober 2025 sind die Energiepreise in Großbritannien um 2 Prozent gestiegen."
+    },
+    {
+      "term": "der Haushalt",
+      "translated_term": "household",
+      "example_usage": "Ein typischer Haushalt mit Gas und Strom zahlt jetzt durchschnittlich 1.755 Pfund pro Jahr."
+    },
+    {
+      "term": "betreffen",
+      "translated_term": "to affect/concern",
+      "example_usage": "Die Erhöhung der Energiepreise betrifft Millionen von Familien im ganzen Land."
+    },
+    {
+      "term": "der Mindestlohn",
+      "translated_term": "minimum wage",
+      "example_usage": "Gleichzeitig hat die britische Regierung den Mindestlohn erhöht, um die steigenden Lebenshaltungskosten auszugleichen."
+    },
+    {
+      "term": "die Lebenshaltungskosten",
+      "translated_term": "cost of living",
+      "example_usage": "Gleichzeitig hat die britische Regierung den Mindestlohn erhöht, um die steigenden Lebenshaltungskosten auszugleichen."
+    },
+    {
+      "term": "ausgleichen",
+      "translated_term": "to offset/balance",
+      "example_usage": "Gleichzeitig hat die britische Regierung den Mindestlohn erhöht, um die steigenden Lebenshaltungskosten auszugleichen."
+    },
+    {
+      "term": "in Kraft treten",
+      "translated_term": "to take effect/come into force",
+      "example_usage": "Der neue Mindestlohn trat ebenfalls am 1. Oktober in Kraft und wird vielen Arbeitnehmern helfen."
+    },
+    {
+      "term": "das Grundbedürfnis",
+      "translated_term": "basic necessity",
+      "example_usage": "Viele Bürger sind jedoch besorgt über die steigenden Kosten für Energie und andere Grundbedürfnisse."
+    },
+    {
+      "term": "der Energieverbrauch",
+      "translated_term": "energy consumption",
+      "example_usage": "Verbraucherschutzorganisationen raten den Menschen, ihren Energieverbrauch zu reduzieren und Energiesparmaßnahmen zu ergreifen."
+    },
+    {
+      "term": "einkommensschwach",
+      "translated_term": "low-income",
+      "example_usage": "Die Regierung hat versprochen, einkommensschwache Haushalte mit zusätzlichen Hilfen zu unterstützen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Soziale Probleme",
+      "translated_name": "Social Problems"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ofgem",
+      "link_url": "https://www.ofgem.gov.uk/news/changes-energy-price-cap-between-1-october-and-31-december-2025"
+    }
+  ]
+}
