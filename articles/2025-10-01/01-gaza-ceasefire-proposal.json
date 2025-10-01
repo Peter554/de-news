@@ -1,0 +1,132 @@
+{
+  "title": "USA schlägt Waffenruhe für Gaza vor",
+  "translated_title": "USA Proposes Ceasefire for Gaza",
+  "text": [
+    {
+      "text": "Die Vereinigten Staaten haben am 1. Oktober einen neuen Plan für einen Waffenstillstand im Gaza-Konflikt vorgestellt.",
+      "translated_text": "The United States presented a new plan for a ceasefire in the Gaza conflict on October 1st."
+    },
+    {
+      "text": "Präsident Trump und der israelische Premierminister Benjamin Netanyahu haben das Abkommen bei einer gemeinsamen Pressekonferenz angekündigt.",
+      "translated_text": "President Trump and Israeli Prime Minister Benjamin Netanyahu announced the agreement at a joint press conference."
+    },
+    {
+      "text": "Der Plan enthält 20 Punkte und fordert ein sofortiges Ende aller militärischen Operationen im Gazastreifen.",
+      "translated_text": "The plan contains 20 points and calls for an immediate end to all military operations in the Gaza Strip."
+    },
+    {
+      "text": "Israel hat dem Vorschlag zugestimmt und verspricht, alle lebenden Geiseln innerhalb von 72 Stunden freizulassen.",
+      "translated_text": "Israel has agreed to the proposal and promises to release all living hostages within 72 hours."
+    },
+    {
+      "text": "Netanyahu betonte jedoch, dass Israel bereit ist, weiter zu kämpfen, wenn Hamas nicht alle Bedingungen akzeptiert.",
+      "translated_text": "However, Netanyahu stressed that Israel is ready to continue fighting if Hamas does not accept all conditions."
+    },
+    {
+      "text": "Die internationale Gemeinschaft hofft, dass dieser Plan endlich Frieden in die Region bringen kann.",
+      "translated_text": "The international community hopes that this plan can finally bring peace to the region."
+    },
+    {
+      "text": "Humanitäre Organisationen haben die Initiative begrüßt, da die Zivilbevölkerung stark unter dem Konflikt leidet.",
+      "translated_text": "Humanitarian organizations have welcomed the initiative, as the civilian population is suffering greatly from the conflict."
+    },
+    {
+      "text": "In den kommenden Tagen wird sich zeigen, ob Hamas dem Waffenstillstand zustimmen wird.",
+      "translated_text": "In the coming days it will become clear whether Hamas will agree to the ceasefire."
+    },
+    {
+      "text": "Die Vereinten Nationen haben beide Seiten aufgerufen, diese Chance für Frieden zu nutzen.",
+      "translated_text": "The United Nations have called on both sides to seize this opportunity for peace."
+    },
+    {
+      "text": "Viele Menschen in der Region warten dringend auf ein Ende der Gewalt und eine Rückkehr zur Normalität.",
+      "translated_text": "Many people in the region are urgently waiting for an end to the violence and a return to normality."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Waffenruhe",
+      "translated_term": "ceasefire",
+      "example_usage": "Die Vereinigten Staaten haben am 1. Oktober einen neuen Plan für einen Waffenstillstand im Gaza-Konflikt vorgestellt."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "ceasefire/armistice",
+      "example_usage": "In den kommenden Tagen wird sich zeigen, ob Hamas dem Waffenstillstand zustimmen wird."
+    },
+    {
+      "term": "vorstellen",
+      "translated_term": "to present",
+      "example_usage": "Die Vereinigten Staaten haben am 1. Oktober einen neuen Plan für einen Waffenstillstand im Gaza-Konflikt vorgestellt."
+    },
+    {
+      "term": "das Abkommen",
+      "translated_term": "agreement",
+      "example_usage": "Präsident Trump und der israelische Premierminister Benjamin Netanyahu haben das Abkommen bei einer gemeinsamen Pressekonferenz angekündigt."
+    },
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Präsident Trump und der israelische Premierminister Benjamin Netanyahu haben das Abkommen bei einer gemeinsamen Pressekonferenz angekündigt."
+    },
+    {
+      "term": "die Geisel",
+      "translated_term": "hostage",
+      "example_usage": "Israel hat dem Vorschlag zugestimmt und verspricht, alle lebenden Geiseln innerhalb von 72 Stunden freizulassen."
+    },
+    {
+      "term": "freilassen",
+      "translated_term": "to release",
+      "example_usage": "Israel hat dem Vorschlag zugestimmt und verspricht, alle lebenden Geiseln innerhalb von 72 Stunden freizulassen."
+    },
+    {
+      "term": "betonen",
+      "translated_term": "to stress/emphasize",
+      "example_usage": "Netanyahu betonte jedoch, dass Israel bereit ist, weiter zu kämpfen, wenn Hamas nicht alle Bedingungen akzeptiert."
+    },
+    {
+      "term": "die Zivilbevölkerung",
+      "translated_term": "civilian population",
+      "example_usage": "Humanitäre Organisationen haben die Initiative begrüßt, da die Zivilbevölkerung stark unter dem Konflikt leidet."
+    },
+    {
+      "term": "leiden",
+      "translated_term": "to suffer",
+      "example_usage": "Humanitäre Organisationen haben die Initiative begrüßt, da die Zivilbevölkerung stark unter dem Konflikt leidet."
+    },
+    {
+      "term": "aufrufen",
+      "translated_term": "to call on/urge",
+      "example_usage": "Die Vereinten Nationen haben beide Seiten aufgerufen, diese Chance für Frieden zu nutzen."
+    },
+    {
+      "term": "die Gewalt",
+      "translated_term": "violence",
+      "example_usage": "Viele Menschen in der Region warten dringend auf ein Ende der Gewalt und eine Rückkehr zur Normalität."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Gaza-Konflikt",
+      "translated_name": "Gaza Conflict"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Vereinte Nationen",
+      "translated_name": "United Nations"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ABC News",
+      "link_url": "https://abcnews.go.com/International"
+    },
+    {
+      "name": "NPR",
+      "link_url": "https://www.npr.org/sections/world/"
+    }
+  ]
+}

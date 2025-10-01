@@ -28,6 +28,10 @@
     "translated_name": "German Politics"
   },
   {
+    "name": "Deutschland",
+    "translated_name": "Germany"
+  },
+  {
     "name": "Erneuerbare Energien",
     "translated_name": "Renewable Energy"
   },
@@ -62,6 +66,10 @@
   {
     "name": "Klimapolitik",
     "translated_name": "Climate Policy"
+  },
+  {
+    "name": "Kultur",
+    "translated_name": "Culture"
   },
   {
     "name": "Lokale Nachrichten",
@@ -138,6 +146,10 @@
   {
     "name": "Wahlkampf",
     "translated_name": "Election Campaign"
+  },
+  {
+    "name": "Wetter",
+    "translated_name": "Weather"
   },
   {
     "name": "Wohnungskrise",

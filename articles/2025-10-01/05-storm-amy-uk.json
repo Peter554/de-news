@@ -1,0 +1,128 @@
+{
+  "title": "Sturm Amy trifft Großbritannien",
+  "translated_title": "Storm Amy Hits Great Britain",
+  "text": [
+    {
+      "text": "Der erste benannte Sturm der Saison 2025/26 hat am 1. Oktober Großbritannien erreicht.",
+      "translated_text": "The first named storm of the 2025/26 season reached Great Britain on October 1st."
+    },
+    {
+      "text": "Das britische Wetteramt hat dem Sturm den Namen Amy gegeben und gelbe Wetterwarnungen herausgegeben.",
+      "translated_text": "The British Met Office has given the storm the name Amy and issued yellow weather warnings."
+    },
+    {
+      "text": "Besonders betroffen sind Schottland, Nordwestengland, Nordwestwales und Nordirland.",
+      "translated_text": "Scotland, Northwest England, Northwest Wales, and Northern Ireland are particularly affected."
+    },
+    {
+      "text": "Die Behörden warnen vor starken Winden, die zu Schäden an Gebäuden und Bäumen führen können.",
+      "translated_text": "The authorities are warning of strong winds that can cause damage to buildings and trees."
+    },
+    {
+      "text": "Viele Menschen wurden aufgefordert, zu Hause zu bleiben und keine unnötigen Reisen zu unternehmen.",
+      "translated_text": "Many people have been asked to stay at home and not undertake any unnecessary journeys."
+    },
+    {
+      "text": "Der öffentliche Verkehr ist teilweise eingeschränkt, und einige Züge und Busse fahren nicht nach Plan.",
+      "translated_text": "Public transport is partially restricted, and some trains and buses are not running according to schedule."
+    },
+    {
+      "text": "Die Küstenregionen erleben hohe Wellen und gefährliche Bedingungen für Schiffe.",
+      "translated_text": "The coastal regions are experiencing high waves and dangerous conditions for ships."
+    },
+    {
+      "text": "Feuerwehr und Rettungsdienste stehen in erhöhter Bereitschaft, um bei Notfällen schnell helfen zu können.",
+      "translated_text": "Fire services and rescue services are on heightened alert to be able to help quickly in emergencies."
+    },
+    {
+      "text": "Meteorologen erwarten, dass der Sturm in den nächsten 24 bis 48 Stunden über das Land ziehen wird.",
+      "translated_text": "Meteorologists expect that the storm will pass over the country in the next 24 to 48 hours."
+    },
+    {
+      "text": "Die Bürger sollten die aktuellen Wetterberichte verfolgen und die Anweisungen der Behörden befolgen.",
+      "translated_text": "Citizens should follow the current weather reports and comply with the instructions of the authorities."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Sturm",
+      "translated_term": "storm",
+      "example_usage": "Der erste benannte Sturm der Saison 2025/26 hat am 1. Oktober Großbritannien erreicht."
+    },
+    {
+      "term": "benennen",
+      "translated_term": "to name",
+      "example_usage": "Der erste benannte Sturm der Saison 2025/26 hat am 1. Oktober Großbritannien erreicht."
+    },
+    {
+      "term": "das Wetteramt",
+      "translated_term": "weather office/Met Office",
+      "example_usage": "Das britische Wetteramt hat dem Sturm den Namen Amy gegeben und gelbe Wetterwarnungen herausgegeben."
+    },
+    {
+      "term": "die Wetterwarnung",
+      "translated_term": "weather warning",
+      "example_usage": "Das britische Wetteramt hat dem Sturm den Namen Amy gegeben und gelbe Wetterwarnungen herausgegeben."
+    },
+    {
+      "term": "betroffen sein",
+      "translated_term": "to be affected",
+      "example_usage": "Besonders betroffen sind Schottland, Nordwestengland, Nordwestwales und Nordirland."
+    },
+    {
+      "term": "der Wind",
+      "translated_term": "wind",
+      "example_usage": "Die Behörden warnen vor starken Winden, die zu Schäden an Gebäuden und Bäumen führen können."
+    },
+    {
+      "term": "der Schaden",
+      "translated_term": "damage",
+      "example_usage": "Die Behörden warnen vor starken Winden, die zu Schäden an Gebäuden und Bäumen führen können."
+    },
+    {
+      "term": "auffordern",
+      "translated_term": "to ask/request",
+      "example_usage": "Viele Menschen wurden aufgefordert, zu Hause zu bleiben und keine unnötigen Reisen zu unternehmen."
+    },
+    {
+      "term": "eingeschränkt",
+      "translated_term": "restricted/limited",
+      "example_usage": "Der öffentliche Verkehr ist teilweise eingeschränkt, und einige Züge und Busse fahren nicht nach Plan."
+    },
+    {
+      "term": "die Küstenregion",
+      "translated_term": "coastal region",
+      "example_usage": "Die Küstenregionen erleben hohe Wellen und gefährliche Bedingungen für Schiffe."
+    },
+    {
+      "term": "die Bereitschaft",
+      "translated_term": "readiness/alert",
+      "example_usage": "Feuerwehr und Rettungsdienste stehen in erhöhter Bereitschaft, um bei Notfällen schnell helfen zu können."
+    },
+    {
+      "term": "befolgen",
+      "translated_term": "to follow/comply with",
+      "example_usage": "Die Bürger sollten die aktuellen Wetterberichte verfolgen und die Anweisungen der Behörden befolgen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Met Office",
+      "link_url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2025/storm-amy-named"
+    }
+  ]
+}
