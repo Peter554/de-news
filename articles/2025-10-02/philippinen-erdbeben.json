@@ -1,0 +1,126 @@
+{
+  "title": "Schweres Erdbeben auf den Philippinen",
+  "translated_title": "Severe Earthquake in the Philippines",
+  "text": [
+    {
+      "text": "Am 30. September 2025 erschütterte ein schweres Erdbeben die Philippinen.",
+      "translated_text": "On September 30, 2025, a severe earthquake struck the Philippines."
+    },
+    {
+      "text": "Das Beben hatte eine Stärke von 6,9 auf der Richterskala.",
+      "translated_text": "The earthquake had a magnitude of 6.9 on the Richter scale."
+    },
+    {
+      "text": "Das Epizentrum lag vor der Küste der zentralen Philippinen.",
+      "translated_text": "The epicenter was located off the coast of the central Philippines."
+    },
+    {
+      "text": "Besonders betroffen ist die Stadt Bogo in der Provinz Cebu.",
+      "translated_text": "The city of Bogo in Cebu province was particularly affected."
+    },
+    {
+      "text": "Viele Einwohner sind in eingestürzten Gebäuden gefangen.",
+      "translated_text": "Many residents are trapped in collapsed buildings."
+    },
+    {
+      "text": "Auch die umliegenden ländlichen Gebiete wurden schwer beschädigt.",
+      "translated_text": "The surrounding rural areas were also severely damaged."
+    },
+    {
+      "text": "Rettungsteams arbeiten rund um die Uhr, um Überlebende zu bergen.",
+      "translated_text": "Rescue teams are working around the clock to recover survivors."
+    },
+    {
+      "text": "Die Behörden befürchten, dass die Zahl der Todesopfer noch steigen wird.",
+      "translated_text": "The authorities fear that the death toll will continue to rise."
+    },
+    {
+      "text": "Viele Menschen haben ihr Zuhause verloren und leben jetzt in provisorischen Unterkünften.",
+      "translated_text": "Many people have lost their homes and are now living in temporary shelters."
+    },
+    {
+      "text": "Die Regierung hat den Notstand ausgerufen und bittet um internationale Hilfe.",
+      "translated_text": "The government has declared a state of emergency and is asking for international aid."
+    },
+    {
+      "text": "Nachbeben machen die Rettungsarbeiten gefährlich und kompliziert.",
+      "translated_text": "Aftershocks are making the rescue work dangerous and complicated."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Erdbeben",
+      "translated_term": "earthquake",
+      "example_usage": "Am 30. September 2025 erschütterte ein schweres Erdbeben die Philippinen."
+    },
+    {
+      "term": "erschüttern",
+      "translated_term": "to shake, to strike",
+      "example_usage": "Am 30. September 2025 erschütterte ein schweres Erdbeben die Philippinen."
+    },
+    {
+      "term": "die Stärke",
+      "translated_term": "magnitude, strength",
+      "example_usage": "Das Beben hatte eine Stärke von 6,9 auf der Richterskala."
+    },
+    {
+      "term": "das Epizentrum",
+      "translated_term": "epicenter",
+      "example_usage": "Das Epizentrum lag vor der Küste der zentralen Philippinen."
+    },
+    {
+      "term": "einstürzen",
+      "translated_term": "to collapse",
+      "example_usage": "Viele Einwohner sind in eingestürzten Gebäuden gefangen."
+    },
+    {
+      "term": "ländlich",
+      "translated_term": "rural",
+      "example_usage": "Auch die umliegenden ländlichen Gebiete wurden schwer beschädigt."
+    },
+    {
+      "term": "bergen",
+      "translated_term": "to recover, to rescue",
+      "example_usage": "Rettungsteams arbeiten rund um die Uhr, um Überlebende zu bergen."
+    },
+    {
+      "term": "das Todesopfer",
+      "translated_term": "death toll, fatality",
+      "example_usage": "Die Behörden befürchten, dass die Zahl der Todesopfer noch steigen wird."
+    },
+    {
+      "term": "provisorisch",
+      "translated_term": "temporary, provisional",
+      "example_usage": "Viele Menschen haben ihr Zuhause verloren und leben jetzt in provisorischen Unterkünften."
+    },
+    {
+      "term": "das Nachbeben",
+      "translated_term": "aftershock",
+      "example_usage": "Nachbeben machen die Rettungsarbeiten gefährlich und kompliziert."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    },
+    {
+      "name": "Asien",
+      "translated_name": "Asia"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Star (Malaysia)",
+      "link_url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2025/10/01/asean-news-headlines-at-10pm-on-wednesday-oct-1-2025"
+    },
+    {
+      "name": "Xinhua News",
+      "link_url": "http://www.china.org.cn/world/Off_the_Wire/2025-10/01/content_118108030.shtml"
+    }
+  ]
+}

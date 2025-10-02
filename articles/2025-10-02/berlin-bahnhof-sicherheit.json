@@ -1,0 +1,122 @@
+{
+  "title": "Neue Sicherheitsmaßnahmen an Berliner Bahnhöfen",
+  "translated_title": "New Security Measures at Berlin Train Stations",
+  "text": [
+    {
+      "text": "Seit dem 1. Oktober 2025 gelten an wichtigen Berliner Bahnhöfen neue Sicherheitsregeln.",
+      "translated_text": "Since October 1, 2025, new security rules have been in effect at important Berlin train stations."
+    },
+    {
+      "text": "Die Bundespolizei hat ein Verbot für gefährliche Gegenstände eingeführt.",
+      "translated_text": "The Federal Police have introduced a ban on dangerous objects."
+    },
+    {
+      "text": "Das Verbot gilt bis zum 27. Oktober und soll Gewaltkriminalität bekämpfen.",
+      "translated_text": "The ban is in effect until October 27 and is intended to combat violent crime."
+    },
+    {
+      "text": "Betroffen sind große Bahnhöfe wie der Hauptbahnhof, Zoologischer Garten und Alexanderplatz.",
+      "translated_text": "Major stations such as Hauptbahnhof, Zoologischer Garten and Alexanderplatz are affected."
+    },
+    {
+      "text": "Auch die Bahnhöfe Friedrichstraße, Gesundbrunnen und Ostbahnhof fallen unter die Regelung.",
+      "translated_text": "The stations Friedrichstraße, Gesundbrunnen and Ostbahnhof also fall under the regulation."
+    },
+    {
+      "text": "In Potsdam gilt das Verbot am Hauptbahnhof.",
+      "translated_text": "In Potsdam, the ban applies at the main station."
+    },
+    {
+      "text": "Reisende dürfen keine Messer, Schlagstöcke oder ähnliche Waffen mit sich führen.",
+      "translated_text": "Travelers are not allowed to carry knives, batons or similar weapons."
+    },
+    {
+      "text": "Die Polizei kontrolliert regelmäßig und kann bei Verstößen Bußgelder verhängen.",
+      "translated_text": "The police carry out regular checks and can impose fines for violations."
+    },
+    {
+      "text": "Die Maßnahme ist eine Reaktion auf mehrere Gewaltvorfälle in den letzten Monaten.",
+      "translated_text": "The measure is a response to several violent incidents in recent months."
+    },
+    {
+      "text": "Viele Pendler begrüßen die Entscheidung und fühlen sich nun sicherer.",
+      "translated_text": "Many commuters welcome the decision and now feel safer."
+    },
+    {
+      "text": "Kritiker warnen jedoch, dass die Kontrollen zu längeren Wartezeiten führen könnten.",
+      "translated_text": "Critics warn, however, that the checks could lead to longer waiting times."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Sicherheitsmaßnahme",
+      "translated_term": "security measure",
+      "example_usage": "Seit dem 1. Oktober 2025 gelten an wichtigen Berliner Bahnhöfen neue Sicherheitsregeln."
+    },
+    {
+      "term": "die Bundespolizei",
+      "translated_term": "Federal Police",
+      "example_usage": "Die Bundespolizei hat ein Verbot für gefährliche Gegenstände eingeführt."
+    },
+    {
+      "term": "einführen",
+      "translated_term": "to introduce, to implement",
+      "example_usage": "Die Bundespolizei hat ein Verbot für gefährliche Gegenstände eingeführt."
+    },
+    {
+      "term": "die Gewaltkriminalität",
+      "translated_term": "violent crime",
+      "example_usage": "Das Verbot gilt bis zum 27. Oktober und soll Gewaltkriminalität bekämpfen."
+    },
+    {
+      "term": "betroffen sein",
+      "translated_term": "to be affected",
+      "example_usage": "Betroffen sind große Bahnhöfe wie der Hauptbahnhof, Zoologischer Garten und Alexanderplatz."
+    },
+    {
+      "term": "die Regelung",
+      "translated_term": "regulation, rule",
+      "example_usage": "Auch die Bahnhöfe Friedrichstraße, Gesundbrunnen und Ostbahnhof fallen unter die Regelung."
+    },
+    {
+      "term": "mit sich führen",
+      "translated_term": "to carry with oneself",
+      "example_usage": "Reisende dürfen keine Messer, Schlagstöcke oder ähnliche Waffen mit sich führen."
+    },
+    {
+      "term": "das Bußgeld",
+      "translated_term": "fine, penalty",
+      "example_usage": "Die Polizei kontrolliert regelmäßig und kann bei Verstößen Bußgelder verhängen."
+    },
+    {
+      "term": "der Gewaltvorfall",
+      "translated_term": "violent incident",
+      "example_usage": "Die Maßnahme ist eine Reaktion auf mehrere Gewaltvorfälle in den letzten Monaten."
+    },
+    {
+      "term": "der Pendler",
+      "translated_term": "commuter",
+      "example_usage": "Viele Pendler begrüßen die Entscheidung und fühlen sich nun sicherer."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Newsflash24",
+      "link_url": "https://newsflash24.de/blaulicht/berlin-brandenburg/bahnhof-berlin-gesundbrunnen-verbot-gefaehrlicher-gegenstaende-an-berliner-bahnhoefen"
+    }
+  ]
+}
