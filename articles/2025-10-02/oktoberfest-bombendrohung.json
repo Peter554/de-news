@@ -1,0 +1,122 @@
+{
+  "title": "Bombendrohung beim Oktoberfest in München",
+  "translated_title": "Bomb Threat at Oktoberfest in Munich",
+  "text": [
+    {
+      "text": "Am 1. Oktober 2025 musste das berühmte Oktoberfest in München plötzlich geschlossen werden.",
+      "translated_text": "On October 1, 2025, the famous Oktoberfest in Munich had to be suddenly closed."
+    },
+    {
+      "text": "Die Polizei hatte eine Bombendrohung erhalten und wollte die Sicherheit der Besucher garantieren.",
+      "translated_text": "The police had received a bomb threat and wanted to guarantee the safety of the visitors."
+    },
+    {
+      "text": "Alle Menschen mussten das Festgelände sofort verlassen.",
+      "translated_text": "All people had to leave the festival grounds immediately."
+    },
+    {
+      "text": "Die Beamten durchsuchten das gesamte Gelände sehr gründlich nach Sprengstoff.",
+      "translated_text": "The officers searched the entire grounds very thoroughly for explosives."
+    },
+    {
+      "text": "Viele Touristen und Einheimische warteten nervös außerhalb des Geländes.",
+      "translated_text": "Many tourists and locals waited nervously outside the grounds."
+    },
+    {
+      "text": "Die Polizei teilte mit, dass die Schließung bis 17 Uhr dauern würde.",
+      "translated_text": "The police announced that the closure would last until 5 p.m."
+    },
+    {
+      "text": "Nach der intensiven Suche konnten die Behörden keine gefährlichen Gegenstände finden.",
+      "translated_text": "After the intensive search, the authorities could not find any dangerous objects."
+    },
+    {
+      "text": "Um 17:30 Uhr öffnete das Oktoberfest wieder seine Tore für die Gäste.",
+      "translated_text": "At 5:30 p.m., the Oktoberfest reopened its gates for the guests."
+    },
+    {
+      "text": "Die Stimmung war zunächst gedämpft, aber bald feierten die Menschen wieder fröhlich.",
+      "translated_text": "The mood was initially subdued, but soon people were celebrating cheerfully again."
+    },
+    {
+      "text": "Das Oktoberfest ist eines der größten Volksfeste der Welt und zieht jedes Jahr Millionen von Besuchern an.",
+      "translated_text": "Oktoberfest is one of the largest folk festivals in the world and attracts millions of visitors every year."
+    },
+    {
+      "text": "Trotz des Zwischenfalls zeigten sich die Organisatoren zuversichtlich, dass das Fest erfolgreich weitergehen würde.",
+      "translated_text": "Despite the incident, the organizers were confident that the festival would continue successfully."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bombendrohung",
+      "translated_term": "bomb threat",
+      "example_usage": "Die Polizei hatte eine Bombendrohung erhalten und wollte die Sicherheit der Besucher garantieren."
+    },
+    {
+      "term": "das Festgelände",
+      "translated_term": "festival grounds",
+      "example_usage": "Alle Menschen mussten das Festgelände sofort verlassen."
+    },
+    {
+      "term": "durchsuchen",
+      "translated_term": "to search (thoroughly)",
+      "example_usage": "Die Beamten durchsuchten das gesamte Gelände sehr gründlich nach Sprengstoff."
+    },
+    {
+      "term": "der Sprengstoff",
+      "translated_term": "explosive",
+      "example_usage": "Die Beamten durchsuchten das gesamte Gelände sehr gründlich nach Sprengstoff."
+    },
+    {
+      "term": "die Behörden",
+      "translated_term": "authorities",
+      "example_usage": "Nach der intensiven Suche konnten die Behörden keine gefährlichen Gegenstände finden."
+    },
+    {
+      "term": "gedämpft",
+      "translated_term": "subdued, dampened",
+      "example_usage": "Die Stimmung war zunächst gedämpft, aber bald feierten die Menschen wieder fröhlich."
+    },
+    {
+      "term": "das Volksfest",
+      "translated_term": "folk festival, public festival",
+      "example_usage": "Das Oktoberfest ist eines der größten Volksfeste der Welt und zieht jedes Jahr Millionen von Besuchern an."
+    },
+    {
+      "term": "der Zwischenfall",
+      "translated_term": "incident",
+      "example_usage": "Trotz des Zwischenfalls zeigten sich die Organisatoren zuversichtlich, dass das Fest erfolgreich weitergehen würde."
+    },
+    {
+      "term": "zuversichtlich",
+      "translated_term": "confident, optimistic",
+      "example_usage": "Trotz des Zwischenfalls zeigten sich die Organisatoren zuversichtlich, dass das Fest erfolgreich weitergehen würde."
+    },
+    {
+      "term": "die Sicherheit",
+      "translated_term": "safety, security",
+      "example_usage": "Die Polizei hatte eine Bombendrohung erhalten und wollte die Sicherheit der Besucher garantieren."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Kultur",
+      "translated_name": "Culture"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Washington Post",
+      "link_url": "https://www.washingtonpost.com/world/2025/10/01/oktoberfest-bomb-threat-munich-germany/"
+    }
+  ]
+}
