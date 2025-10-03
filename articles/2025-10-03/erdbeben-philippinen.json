@@ -1,0 +1,126 @@
+{
+  "title": "Schweres Erdbeben auf den Philippinen fordert viele Todesopfer",
+  "translated_title": "Severe Earthquake in the Philippines Claims Many Lives",
+  "text": [
+    {
+      "text": "Ein schweres Erdbeben hat die Philippinen am Dienstag erschüttert.",
+      "translated_text": "A severe earthquake shook the Philippines on Tuesday."
+    },
+    {
+      "text": "Das Beben hatte eine Stärke von 6,9 auf der Richterskala.",
+      "translated_text": "The quake had a magnitude of 6.9 on the Richter scale."
+    },
+    {
+      "text": "Die Insel Cebu war besonders stark betroffen.",
+      "translated_text": "The island of Cebu was particularly hard hit."
+    },
+    {
+      "text": "Mehr als 70 Menschen sind bei der Katastrophe ums Leben gekommen.",
+      "translated_text": "More than 70 people lost their lives in the disaster."
+    },
+    {
+      "text": "Die Behörden erwarten, dass die Zahl der Todesopfer noch weiter steigen wird.",
+      "translated_text": "The authorities expect that the death toll will continue to rise."
+    },
+    {
+      "text": "In der Stadt Bogo sind viele Gebäude eingestürzt.",
+      "translated_text": "In the city of Bogo, many buildings have collapsed."
+    },
+    {
+      "text": "Eine unbekannte Anzahl von Menschen ist unter den Trümmern gefangen.",
+      "translated_text": "An unknown number of people are trapped under the rubble."
+    },
+    {
+      "text": "Rettungsteams arbeiten Tag und Nacht, um Überlebende zu finden.",
+      "translated_text": "Rescue teams are working day and night to find survivors."
+    },
+    {
+      "text": "Auch in ländlichen Gebieten der Provinz Cebu gibt es große Schäden.",
+      "translated_text": "There is also major damage in rural areas of Cebu province."
+    },
+    {
+      "text": "Viele Straßen sind blockiert, was die Rettungsarbeiten erschwert.",
+      "translated_text": "Many roads are blocked, which makes rescue efforts more difficult."
+    },
+    {
+      "text": "Die philippinische Regierung hat den Notstand ausgerufen.",
+      "translated_text": "The Philippine government has declared a state of emergency."
+    },
+    {
+      "text": "Internationale Hilfsorganisationen bieten ihre Unterstützung an.",
+      "translated_text": "International aid organizations are offering their support."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Erdbeben",
+      "translated_term": "earthquake",
+      "example_usage": "Ein schweres Erdbeben hat die Philippinen am Dienstag erschüttert."
+    },
+    {
+      "term": "erschüttern",
+      "translated_term": "to shake",
+      "example_usage": "Ein schweres Erdbeben hat die Philippinen am Dienstag erschüttert."
+    },
+    {
+      "term": "die Stärke",
+      "translated_term": "magnitude, strength",
+      "example_usage": "Das Beben hatte eine Stärke von 6,9 auf der Richterskala."
+    },
+    {
+      "term": "betroffen",
+      "translated_term": "affected",
+      "example_usage": "Die Insel Cebu war besonders stark betroffen."
+    },
+    {
+      "term": "das Todesopfer",
+      "translated_term": "death toll, fatality",
+      "example_usage": "Die Behörden erwarten, dass die Zahl der Todesopfer noch weiter steigen wird."
+    },
+    {
+      "term": "einstürzen",
+      "translated_term": "to collapse",
+      "example_usage": "In der Stadt Bogo sind viele Gebäude eingestürzt."
+    },
+    {
+      "term": "die Trümmer",
+      "translated_term": "rubble, debris",
+      "example_usage": "Eine unbekannte Anzahl von Menschen ist unter den Trümmern gefangen."
+    },
+    {
+      "term": "das Rettungsteam",
+      "translated_term": "rescue team",
+      "example_usage": "Rettungsteams arbeiten Tag und Nacht, um Überlebende zu finden."
+    },
+    {
+      "term": "erschweren",
+      "translated_term": "to make more difficult, to complicate",
+      "example_usage": "Viele Straßen sind blockiert, was die Rettungsarbeiten erschwert."
+    },
+    {
+      "term": "der Notstand",
+      "translated_term": "state of emergency",
+      "example_usage": "Die philippinische Regierung hat den Notstand ausgerufen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    },
+    {
+      "name": "Asien",
+      "translated_name": "Asia"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "International News Briefs - Havana Times",
+      "link_url": "https://havanatimes.org/news/international-news-briefs-for-thursday-october-2-2025/"
+    }
+  ]
+}

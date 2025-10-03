@@ -1,0 +1,130 @@
+{
+  "title": "Deutschland feiert 35 Jahre Wiedervereinigung",
+  "translated_title": "Germany Celebrates 35 Years of Reunification",
+  "text": [
+    {
+      "text": "Am 3. Oktober 2025 feiert Deutschland den Tag der Deutschen Einheit.",
+      "translated_text": "On October 3, 2025, Germany celebrates the Day of German Unity."
+    },
+    {
+      "text": "Es sind jetzt 35 Jahre seit der Wiedervereinigung von Ost- und Westdeutschland vergangen.",
+      "translated_text": "It has now been 35 years since the reunification of East and West Germany."
+    },
+    {
+      "text": "In diesem Jahr findet die zentrale Feier in Saarbrücken statt, der Hauptstadt des Saarlandes.",
+      "translated_text": "This year, the central celebration takes place in Saarbrücken, the capital of Saarland."
+    },
+    {
+      "text": "Der Regierende Bürgermeister von Berlin nimmt an der offiziellen Zeremonie teil.",
+      "translated_text": "The Governing Mayor of Berlin is taking part in the official ceremony."
+    },
+    {
+      "text": "Für ihn sind 35 Jahre deutsche Wiedervereinigung ein Grund zum Feiern, aber auch zum Nachdenken.",
+      "translated_text": "For him, 35 years of German reunification are a reason to celebrate, but also to reflect."
+    },
+    {
+      "text": "Überall in Deutschland finden besondere Veranstaltungen und Konzerte statt.",
+      "translated_text": "Special events and concerts are taking place all over Germany."
+    },
+    {
+      "text": "Viele Menschen erinnern sich an den historischen Moment im Jahr 1990.",
+      "translated_text": "Many people remember the historic moment in 1990."
+    },
+    {
+      "text": "Damals wurde Deutschland nach 45 Jahren Teilung wieder ein einziges Land.",
+      "translated_text": "At that time, Germany became a single country again after 45 years of division."
+    },
+    {
+      "text": "Die Wiedervereinigung war ein wichtiger Tag für ganz Europa.",
+      "translated_text": "The reunification was an important day for all of Europe."
+    },
+    {
+      "text": "Heute denken viele Deutsche über die Fortschritte und Herausforderungen der letzten 35 Jahre nach.",
+      "translated_text": "Today, many Germans are thinking about the progress and challenges of the last 35 years."
+    },
+    {
+      "text": "Es gibt noch immer Unterschiede zwischen Ost und West, besonders in der Wirtschaft.",
+      "translated_text": "There are still differences between East and West, especially in the economy."
+    },
+    {
+      "text": "Aber die meisten Menschen sind froh, dass Deutschland wieder vereint ist.",
+      "translated_text": "But most people are glad that Germany is reunited."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Wiedervereinigung",
+      "translated_term": "reunification",
+      "example_usage": "Es sind jetzt 35 Jahre seit der Wiedervereinigung von Ost- und Westdeutschland vergangen."
+    },
+    {
+      "term": "feiern",
+      "translated_term": "to celebrate",
+      "example_usage": "Am 3. Oktober 2025 feiert Deutschland den Tag der Deutschen Einheit."
+    },
+    {
+      "term": "die Feier",
+      "translated_term": "celebration",
+      "example_usage": "In diesem Jahr findet die zentrale Feier in Saarbrücken statt."
+    },
+    {
+      "term": "der Regierende Bürgermeister",
+      "translated_term": "Governing Mayor",
+      "example_usage": "Der Regierende Bürgermeister von Berlin nimmt an der offiziellen Zeremonie teil."
+    },
+    {
+      "term": "nachdenken",
+      "translated_term": "to reflect, to think about",
+      "example_usage": "Für ihn sind 35 Jahre deutsche Wiedervereinigung ein Grund zum Feiern, aber auch zum Nachdenken."
+    },
+    {
+      "term": "die Veranstaltung",
+      "translated_term": "event",
+      "example_usage": "Überall in Deutschland finden besondere Veranstaltungen und Konzerte statt."
+    },
+    {
+      "term": "die Teilung",
+      "translated_term": "division",
+      "example_usage": "Damals wurde Deutschland nach 45 Jahren Teilung wieder ein einziges Land."
+    },
+    {
+      "term": "der Fortschritt",
+      "translated_term": "progress",
+      "example_usage": "Heute denken viele Deutsche über die Fortschritte und Herausforderungen der letzten 35 Jahre nach."
+    },
+    {
+      "term": "die Herausforderung",
+      "translated_term": "challenge",
+      "example_usage": "Heute denken viele Deutsche über die Fortschritte und Herausforderungen der letzten 35 Jahre nach."
+    },
+    {
+      "term": "der Unterschied",
+      "translated_term": "difference",
+      "example_usage": "Es gibt noch immer Unterschiede zwischen Ost und West, besonders in der Wirtschaft."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Kultur",
+      "translated_name": "Culture"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de - Day of German Unity Celebrations",
+      "link_url": "https://www.berlin.de/en/culture-entertainment/archive/2716319-5437163-day-of-german-unity.en.html"
+    },
+    {
+      "name": "The Left Berlin - News from Berlin and Germany",
+      "link_url": "https://www.theleftberlin.com/news-from-berlin-and-germany-1st-october-2025/"
+    }
+  ]
+}
