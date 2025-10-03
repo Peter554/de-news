@@ -1,0 +1,126 @@
+{
+  "title": "Stillstand der US-Regierung wegen Haushaltsstreit",
+  "translated_title": "US Government Shutdown Due to Budget Dispute",
+  "text": [
+    {
+      "text": "Die Regierung der Vereinigten Staaten wurde am 3. Oktober teilweise geschlossen.",
+      "translated_text": "The United States government was partially shut down on October 3."
+    },
+    {
+      "text": "Der Grund ist ein Streit über das Budget im Kongress.",
+      "translated_text": "The reason is a dispute over the budget in Congress."
+    },
+    {
+      "text": "Es ist der erste Regierungsstillstand seit Januar 2019.",
+      "translated_text": "It is the first government shutdown since January 2019."
+    },
+    {
+      "text": "Die Abgeordneten konnten sich nicht auf einen Haushaltsplan einigen.",
+      "translated_text": "The representatives could not agree on a budget plan."
+    },
+    {
+      "text": "Im Zentrum des Konflikts steht das Thema Gesundheitsversorgung.",
+      "translated_text": "At the center of the conflict is the issue of healthcare."
+    },
+    {
+      "text": "Die Demokraten wollen Schutzmaßnahmen für das Affordable Care Act verlängern.",
+      "translated_text": "The Democrats want to extend protections for the Affordable Care Act."
+    },
+    {
+      "text": "Diese Subventionen laufen bald aus und müssen erneuert werden.",
+      "translated_text": "These subsidies are expiring soon and need to be renewed."
+    },
+    {
+      "text": "Die Republikaner haben andere Prioritäten im Haushalt.",
+      "translated_text": "The Republicans have different priorities in the budget."
+    },
+    {
+      "text": "Während des Stillstands müssen viele Bundesbehörden schließen.",
+      "translated_text": "During the shutdown, many federal agencies must close."
+    },
+    {
+      "text": "Hunderttausende Regierungsangestellte werden beurlaubt oder arbeiten ohne Gehalt.",
+      "translated_text": "Hundreds of thousands of government employees are furloughed or working without pay."
+    },
+    {
+      "text": "Wichtige Dienstleistungen wie Sicherheit und Gesundheit bleiben geöffnet.",
+      "translated_text": "Essential services such as security and health remain open."
+    },
+    {
+      "text": "Beide Parteien verhandeln weiter, um eine Lösung zu finden.",
+      "translated_text": "Both parties continue to negotiate to find a solution."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Stillstand",
+      "translated_term": "shutdown, standstill",
+      "example_usage": "Es ist der erste Regierungsstillstand seit Januar 2019."
+    },
+    {
+      "term": "der Streit",
+      "translated_term": "dispute, conflict",
+      "example_usage": "Der Grund ist ein Streit über das Budget im Kongress."
+    },
+    {
+      "term": "der Kongress",
+      "translated_term": "Congress",
+      "example_usage": "Der Grund ist ein Streit über das Budget im Kongress."
+    },
+    {
+      "term": "der Abgeordnete",
+      "translated_term": "representative, member of parliament",
+      "example_usage": "Die Abgeordneten konnten sich nicht auf einen Haushaltsplan einigen."
+    },
+    {
+      "term": "der Haushaltsplan",
+      "translated_term": "budget plan",
+      "example_usage": "Die Abgeordneten konnten sich nicht auf einen Haushaltsplan einigen."
+    },
+    {
+      "term": "die Gesundheitsversorgung",
+      "translated_term": "healthcare",
+      "example_usage": "Im Zentrum des Konflikts steht das Thema Gesundheitsversorgung."
+    },
+    {
+      "term": "die Subvention",
+      "translated_term": "subsidy",
+      "example_usage": "Diese Subventionen laufen bald aus und müssen erneuert werden."
+    },
+    {
+      "term": "die Bundesbehörde",
+      "translated_term": "federal agency",
+      "example_usage": "Während des Stillstands müssen viele Bundesbehörden schließen."
+    },
+    {
+      "term": "beurlauben",
+      "translated_term": "to furlough, to give leave",
+      "example_usage": "Hunderttausende Regierungsangestellte werden beurlaubt oder arbeiten ohne Gehalt."
+    },
+    {
+      "term": "verhandeln",
+      "translated_term": "to negotiate",
+      "example_usage": "Beide Parteien verhandeln weiter, um eine Lösung zu finden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    }
+  ],
+  "sources": [
+    {
+      "name": "International News Briefs - Havana Times",
+      "link_url": "https://havanatimes.org/news/international-news-briefs-for-thursday-october-2-2025/"
+    }
+  ]
+}

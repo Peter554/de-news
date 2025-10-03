@@ -136,12 +136,20 @@
     "translated_name": "Business"
   },
   {
+    "name": "USA",
+    "translated_name": "USA"
+  },
+  {
     "name": "USA-UK Beziehungen",
     "translated_name": "US-UK Relations"
   },
   {
     "name": "Vereinte Nationen",
     "translated_name": "United Nations"
+  },
+  {
+    "name": "Wissenschaft",
+    "translated_name": "Science"
   },
   {
     "name": "Wahlkampf",

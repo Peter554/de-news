@@ -1,0 +1,126 @@
+{
+  "title": "Israel fängt Gaza-Hilfsflotte ab",
+  "translated_title": "Israel Intercepts Gaza Aid Flotilla",
+  "text": [
+    {
+      "text": "Israel hat am 2. Oktober eine internationale Hilfsflotte auf dem Weg nach Gaza abgefangen.",
+      "translated_text": "On October 2, Israel intercepted an international aid flotilla on its way to Gaza."
+    },
+    {
+      "text": "Die Flotte hieß 'Global Sumud' und transportierte Hilfsgüter für die Menschen in Gaza.",
+      "translated_text": "The flotilla was called 'Global Sumud' and was transporting aid supplies for the people in Gaza."
+    },
+    {
+      "text": "Israelische Streitkräfte stoppten die Schiffe in internationalen Gewässern.",
+      "translated_text": "Israeli forces stopped the ships in international waters."
+    },
+    {
+      "text": "Mindestens 443 Aktivisten aus 47 Ländern wurden festgenommen.",
+      "translated_text": "At least 443 activists from 47 countries were arrested."
+    },
+    {
+      "text": "Unter den Festgenommenen waren bekannte Personen wie die schwedische Aktivistin Greta Thunberg.",
+      "translated_text": "Among those arrested were well-known figures like Swedish activist Greta Thunberg."
+    },
+    {
+      "text": "Auch Mandla Mandela, der Enkel von Nelson Mandela, war an Bord.",
+      "translated_text": "Mandla Mandela, Nelson Mandela's grandson, was also on board."
+    },
+    {
+      "text": "Die türkische Regierung nannte Israels Aktion 'einen Akt des Terrorismus'.",
+      "translated_text": "The Turkish government called Israel's action 'an act of terrorism'."
+    },
+    {
+      "text": "In vielen Städten Italiens gingen Tausende Menschen auf die Straße, um zu protestieren.",
+      "translated_text": "In many Italian cities, thousands of people took to the streets to protest."
+    },
+    {
+      "text": "In Rom, Neapel und Turin fanden große Demonstrationen statt.",
+      "translated_text": "Large demonstrations took place in Rome, Naples, and Turin."
+    },
+    {
+      "text": "Die internationale Gemeinschaft reagiert unterschiedlich auf den Vorfall.",
+      "translated_text": "The international community is reacting differently to the incident."
+    },
+    {
+      "text": "Einige Länder kritisieren Israel scharf für die Aktion in internationalen Gewässern.",
+      "translated_text": "Some countries are sharply criticizing Israel for the action in international waters."
+    },
+    {
+      "text": "Israel sagt, die Blockade von Gaza sei notwendig für die nationale Sicherheit.",
+      "translated_text": "Israel says the blockade of Gaza is necessary for national security."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "abfangen",
+      "translated_term": "to intercept",
+      "example_usage": "Israel hat am 2. Oktober eine internationale Hilfsflotte auf dem Weg nach Gaza abgefangen."
+    },
+    {
+      "term": "die Flotte",
+      "translated_term": "flotilla, fleet",
+      "example_usage": "Die Flotte hieß 'Global Sumud' und transportierte Hilfsgüter für die Menschen in Gaza."
+    },
+    {
+      "term": "die Hilfsgüter",
+      "translated_term": "aid supplies",
+      "example_usage": "Die Flotte hieß 'Global Sumud' und transportierte Hilfsgüter für die Menschen in Gaza."
+    },
+    {
+      "term": "die Streitkräfte",
+      "translated_term": "armed forces, military",
+      "example_usage": "Israelische Streitkräfte stoppten die Schiffe in internationalen Gewässern."
+    },
+    {
+      "term": "die Gewässer",
+      "translated_term": "waters",
+      "example_usage": "Israelische Streitkräfte stoppten die Schiffe in internationalen Gewässern."
+    },
+    {
+      "term": "festnehmen",
+      "translated_term": "to arrest, to detain",
+      "example_usage": "Mindestens 443 Aktivisten aus 47 Ländern wurden festgenommen."
+    },
+    {
+      "term": "der Aktivist",
+      "translated_term": "activist",
+      "example_usage": "Unter den Festgenommenen waren bekannte Personen wie die schwedische Aktivistin Greta Thunberg."
+    },
+    {
+      "term": "der Enkel",
+      "translated_term": "grandson",
+      "example_usage": "Auch Mandla Mandela, der Enkel von Nelson Mandela, war an Bord."
+    },
+    {
+      "term": "die Demonstration",
+      "translated_term": "demonstration, protest",
+      "example_usage": "In Rom, Neapel und Turin fanden große Demonstrationen statt."
+    },
+    {
+      "term": "die Blockade",
+      "translated_term": "blockade",
+      "example_usage": "Israel sagt, die Blockade von Gaza sei notwendig für die nationale Sicherheit."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Gaza-Konflikt",
+      "translated_name": "Gaza Conflict"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Proteste",
+      "translated_name": "Protests"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera - How the world is responding to Israel's interception of the Gaza flotilla",
+      "link_url": "https://www.aljazeera.com/news/2025/10/2/how-the-world-is-responding-to-israels-interception-of-the-gaza-flotilla"
+    }
+  ]
+}
