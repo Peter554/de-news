@@ -1,0 +1,144 @@
+{
+  "title": "US-Regierung wegen Haushaltsstreit stillgelegt",
+  "translated_title": "US Government Shut Down Due to Budget Dispute",
+  "text": [
+    {
+      "text": "Die US-Bundesregierung wurde am Mittwoch um 0:01 Uhr offiziell stillgelegt.",
+      "translated_text": "The US federal government was officially shut down on Wednesday at 12:01 AM."
+    },
+    {
+      "text": "Dies geschah, nachdem Republikaner und Demokraten keine Einigung erzielen konnten.",
+      "translated_text": "This happened after Republicans and Democrats could not reach an agreement."
+    },
+    {
+      "text": "Es ist der erste Regierungs-Shutdown seit 2019.",
+      "translated_text": "It is the first government shutdown since 2019."
+    },
+    {
+      "text": "Im Zentrum des Streits steht das Gesundheitswesen.",
+      "translated_text": "At the heart of the dispute is healthcare."
+    },
+    {
+      "text": "Die Demokraten wollen den Schutz für auslaufende Gesundheitssubventionen ausweiten.",
+      "translated_text": "The Democrats want to extend protection for expiring healthcare subsidies."
+    },
+    {
+      "text": "Diese Subventionen sind Teil des Affordable Care Act.",
+      "translated_text": "These subsidies are part of the Affordable Care Act."
+    },
+    {
+      "text": "Der Affordable Care Act wird oft Obamacare genannt.",
+      "translated_text": "The Affordable Care Act is often called Obamacare."
+    },
+    {
+      "text": "Die Republikaner lehnen diese Forderungen ab.",
+      "translated_text": "The Republicans reject these demands."
+    },
+    {
+      "text": "Ein Regierungs-Shutdown hat ernste Folgen für das Land.",
+      "translated_text": "A government shutdown has serious consequences for the country."
+    },
+    {
+      "text": "Viele Bundesangestellte müssen ohne Bezahlung arbeiten oder werden beurlaubt.",
+      "translated_text": "Many federal employees must work without pay or are furloughed."
+    },
+    {
+      "text": "Öffentliche Dienstleistungen werden eingeschränkt.",
+      "translated_text": "Public services are restricted."
+    },
+    {
+      "text": "Die beiden Parteien verhandeln weiterhin über eine Lösung.",
+      "translated_text": "The two parties continue to negotiate a solution."
+    },
+    {
+      "text": "Ein Shutdown kann Wochen oder sogar Monate dauern.",
+      "translated_text": "A shutdown can last weeks or even months."
+    },
+    {
+      "text": "Die amerikanische Bevölkerung ist besorgt über die politische Blockade.",
+      "translated_text": "The American public is concerned about the political deadlock."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Regierung",
+      "translated_term": "government",
+      "example_usage": "Die US-Bundesregierung wurde am Mittwoch um 0:01 Uhr offiziell stillgelegt."
+    },
+    {
+      "term": "stillgelegt",
+      "translated_term": "shut down, suspended",
+      "example_usage": "Die US-Bundesregierung wurde am Mittwoch um 0:01 Uhr offiziell stillgelegt."
+    },
+    {
+      "term": "die Einigung",
+      "translated_term": "agreement",
+      "example_usage": "Dies geschah, nachdem Republikaner und Demokraten keine Einigung erzielen konnten."
+    },
+    {
+      "term": "erzielen",
+      "translated_term": "to achieve, to reach",
+      "example_usage": "Dies geschah, nachdem Republikaner und Demokraten keine Einigung erzielen konnten."
+    },
+    {
+      "term": "der Streit",
+      "translated_term": "dispute, conflict",
+      "example_usage": "Im Zentrum des Streits steht das Gesundheitswesen."
+    },
+    {
+      "term": "das Gesundheitswesen",
+      "translated_term": "healthcare system",
+      "example_usage": "Im Zentrum des Streits steht das Gesundheitswesen."
+    },
+    {
+      "term": "die Subvention",
+      "translated_term": "subsidy",
+      "example_usage": "Die Demokraten wollen den Schutz für auslaufende Gesundheitssubventionen ausweiten."
+    },
+    {
+      "term": "ablehnen",
+      "translated_term": "to reject",
+      "example_usage": "Die Republikaner lehnen diese Forderungen ab."
+    },
+    {
+      "term": "der Bundesangestellte",
+      "translated_term": "federal employee",
+      "example_usage": "Viele Bundesangestellte müssen ohne Bezahlung arbeiten oder werden beurlaubt."
+    },
+    {
+      "term": "beurlauben",
+      "translated_term": "to furlough, to put on leave",
+      "example_usage": "Viele Bundesangestellte müssen ohne Bezahlung arbeiten oder werden beurlaubt."
+    },
+    {
+      "term": "verhandeln",
+      "translated_term": "to negotiate",
+      "example_usage": "Die beiden Parteien verhandeln weiterhin über eine Lösung."
+    },
+    {
+      "term": "die Blockade",
+      "translated_term": "deadlock, blockade",
+      "example_usage": "Die amerikanische Bevölkerung ist besorgt über die politische Blockade."
+    }
+  ],
+  "tags": [
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Havana Times",
+      "link_url": "https://havanatimes.org/news/international-news-briefs-for-thursday-october-2-2025/"
+    }
+  ]
+}

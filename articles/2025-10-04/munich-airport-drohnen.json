@@ -1,0 +1,144 @@
+{
+  "title": "Münchner Flughafen wegen Drohnen geschlossen",
+  "translated_title": "Munich Airport Closed Due to Drones",
+  "text": [
+    {
+      "text": "Der Flughafen München musste am 4. Oktober 2025 den Betrieb einstellen.",
+      "translated_text": "Munich Airport had to suspend operations on October 4, 2025."
+    },
+    {
+      "text": "Der Grund waren mehrere Drohnen, die in der Nähe des Flughafens gesichtet wurden.",
+      "translated_text": "The reason was several drones that were spotted near the airport."
+    },
+    {
+      "text": "Die Behörden erhielten zunächst anonyme Anrufe über die Drohnen.",
+      "translated_text": "Authorities initially received anonymous calls about the drones."
+    },
+    {
+      "text": "Der internationale Flughafen München war die ganze Nacht über geschlossen.",
+      "translated_text": "Munich International Airport was closed all night long."
+    },
+    {
+      "text": "Am Morgen kündigten die Behörden an, dass die Sperrung wegen neuer Drohnen weitergeht.",
+      "translated_text": "In the morning, authorities announced that the lockdown continues due to new drones."
+    },
+    {
+      "text": "Diese Situation führte zu erheblichen Störungen im Flugverkehr.",
+      "translated_text": "This situation led to significant disruptions in air traffic."
+    },
+    {
+      "text": "Viele Passagiere mussten ihre Reisepläne ändern.",
+      "translated_text": "Many passengers had to change their travel plans."
+    },
+    {
+      "text": "Die Sicherheit der Fluggäste hat für die Behörden oberste Priorität.",
+      "translated_text": "The safety of passengers has top priority for the authorities."
+    },
+    {
+      "text": "Drohnen in der Nähe von Flughäfen sind eine ernste Gefahr.",
+      "translated_text": "Drones near airports are a serious danger."
+    },
+    {
+      "text": "Die Polizei untersucht weiterhin den Vorfall.",
+      "translated_text": "The police are continuing to investigate the incident."
+    },
+    {
+      "text": "Es ist unklar, wer die Drohnen geflogen hat.",
+      "translated_text": "It is unclear who flew the drones."
+    },
+    {
+      "text": "Experten warnen vor den Risiken von Drohnen im Luftraum.",
+      "translated_text": "Experts warn about the risks of drones in airspace."
+    },
+    {
+      "text": "Der Flughafen München ist einer der größten in Deutschland.",
+      "translated_text": "Munich Airport is one of the largest in Germany."
+    },
+    {
+      "text": "Die Sperrung betraf Tausende von Reisenden.",
+      "translated_text": "The closure affected thousands of travelers."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Flughafen",
+      "translated_term": "airport",
+      "example_usage": "Der Flughafen München musste am 4. Oktober 2025 den Betrieb einstellen."
+    },
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "Der Grund waren mehrere Drohnen, die in der Nähe des Flughafens gesichtet wurden."
+    },
+    {
+      "term": "einstellen",
+      "translated_term": "to suspend, to stop",
+      "example_usage": "Der Flughafen München musste am 4. Oktober 2025 den Betrieb einstellen."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "authority",
+      "example_usage": "Die Behörden erhielten zunächst anonyme Anrufe über die Drohnen."
+    },
+    {
+      "term": "sichten",
+      "translated_term": "to spot, to sight",
+      "example_usage": "Der Grund waren mehrere Drohnen, die in der Nähe des Flughafens gesichtet wurden."
+    },
+    {
+      "term": "die Sperrung",
+      "translated_term": "lockdown, closure",
+      "example_usage": "Am Morgen kündigten die Behörden an, dass die Sperrung wegen neuer Drohnen weitergeht."
+    },
+    {
+      "term": "die Störung",
+      "translated_term": "disruption",
+      "example_usage": "Diese Situation führte zu erheblichen Störungen im Flugverkehr."
+    },
+    {
+      "term": "der Fluggast",
+      "translated_term": "passenger (air traveler)",
+      "example_usage": "Die Sicherheit der Fluggäste hat für die Behörden oberste Priorität."
+    },
+    {
+      "term": "die Priorität",
+      "translated_term": "priority",
+      "example_usage": "Die Sicherheit der Fluggäste hat für die Behörden oberste Priorität."
+    },
+    {
+      "term": "untersuchen",
+      "translated_term": "to investigate",
+      "example_usage": "Die Polizei untersucht weiterhin den Vorfall."
+    },
+    {
+      "term": "der Vorfall",
+      "translated_term": "incident",
+      "example_usage": "Die Polizei untersucht weiterhin den Vorfall."
+    },
+    {
+      "term": "der Luftraum",
+      "translated_term": "airspace",
+      "example_usage": "Experten warnen vor den Risiken von Drohnen im Luftraum."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda Deutschland",
+      "link_url": "https://germany.news-pravda.com/world/2025/10/04/170368.html"
+    }
+  ]
+}
