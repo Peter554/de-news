@@ -10,4 +10,4 @@ tasks:
 
   serve:
     cmds:
-      - npx @11ty/eleventy --serve
+      - bun --bun run dev

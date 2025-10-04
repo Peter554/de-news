@@ -1,0 +1,166 @@
+---
+import type { GetStaticPaths } from "astro";
+import slugify from "@sindresorhus/slugify";
+
+import Layout from "../../layout.astro";
+import utils from "../../utils";
+
+export const getStaticPaths = async () => {
+  return [];
+    const articles = await utils.getArticles();
+    return articles.map((article) => ({
+        params: { slug: article.slug },
+        props: { article },
+    }));
+};
+
+const { article } = Astro.props;
+---
+
+<Layout>
+    <main>
+        <p class="notice">
+            <b>Warning!</b><br />This news summary is AI generated. It may be
+            biased or factually incorrect.
+        </p>
+        <article>
+            <header>
+                <h1>{article.title}</h1>
+                <p><i>{article.translated_title}</i></p>
+                <small>
+                    <p>
+                        {article.date.toISODate()}
+                    </p>
+                    <p>
+                        {
+                            article.tags.map((tag: any) => (
+                                <a href={`/tags/${slugify(tag.name)}/`}>
+                                    {tag.name} ({tag.translated_name})
+                                </a>
+                            ))
+                        }
+                    </p>
+                </small>
+            </header>
+
+            <section>
+                <div>
+                    <button id="toggle-translations">Show Translations</button>
+                    <button id="read-article">Read Article</button>
+                    <button id="stop-reading" style="display: none;"
+                        >Stop Reading</button
+                    >
+                </div>
+                {
+                    article.text.map((text: any) => (
+                        <div>
+                            <p class="german-text">{text.text}</p>
+                            <p class="translation" style="display: none;">
+                                <i>{text.translated_text}</i>
+                            </p>
+                        </div>
+                    ))
+                }
+            </section>
+
+            <section>
+          <h2>Key Vocabulary</h2>
+          <dl>
+              {article.key_vocab.map((word: any) => (
+                  <dt>{ word.term }</dt>
+                  <dd>
+                    <p>{ word.translated_term }</p>
+                    <p><i>{ word.example_usage }</i></p>
+                  </dd>
+                ))}
+          </dl>
+        </section>
+
+            <section>
+            <h2>Sources</h2>
+            <ul>
+                {article.sources.map((source: any) => (
+                    <li><a href={source.link_url}>{ source.name }</a></li>
+                ))}
+
+            </ul>
+        </section>
+        </article>
+    </main>
+</Layout>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Translation toggle functionality
+    // ================================
+
+    const toggleTranslationsButton = document.getElementById('toggle-translations');
+    const germanTexts = document.querySelectorAll('.german-text');
+    const translations = document.querySelectorAll('.translation');
+    let translationsVisible = false;
+
+    toggleTranslationsButton.addEventListener('click', function() {
+      translationsVisible = !translationsVisible;
+
+      translations.forEach(function(translation) {
+        translation.style.display = translationsVisible ? 'block' : 'none';
+      });
+
+      toggleTranslationsButton.textContent = translationsVisible ? 'Hide Translations' : 'Show Translations';
+    });
+
+    // Text-to-speech functionality
+    // ============================
+
+    const readButton = document.getElementById('read-article');
+    const stopReadingButton = document.getElementById('stop-reading');
+    let speechSynthesis = window.speechSynthesis;
+    let currentUtterance = null;
+
+    readButton.addEventListener('click', function() {
+      if ('speechSynthesis' in window) {
+        // Stop any current speech
+        speechSynthesis.cancel();
+
+        // Collect all German text
+        let fullText = '';
+        germanTexts.forEach(function(textElement) {
+          fullText += textElement.textContent + ' ';
+        });
+
+        // Create speech utterance
+        currentUtterance = new SpeechSynthesisUtterance(fullText);
+        currentUtterance.lang = 'de-DE';
+        currentUtterance.rate = 0.8;
+        currentUtterance.pitch = 1;
+
+        // Handle speech events
+        currentUtterance.onstart = function() {
+          readButton.style.display = 'none';
+          stopReadingButton.style.display = 'inline-block';
+        };
+
+        currentUtterance.onend = function() {
+          readButton.style.display = 'inline-block';
+          stopReadingButton.style.display = 'none';
+        };
+
+        currentUtterance.onerror = function() {
+          readButton.style.display = 'inline-block';
+          stopReadingButton.style.display = 'none';
+        };
+
+        // Start speaking
+        speechSynthesis.speak(currentUtterance);
+      } else {
+        alert('Text-to-speech is not supported in your browser.');
+      }
+    });
+
+    stopReadingButton.addEventListener('click', function() {
+      speechSynthesis.cancel();
+      readButton.style.display = 'inline-block';
+      stopReadingButton.style.display = 'none';
+    });
+  });
+</script>

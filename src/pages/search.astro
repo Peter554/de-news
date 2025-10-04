@@ -1,0 +1,100 @@
+---
+import Layout from "../layout.astro";
+import utils from "../utils";
+
+const articles = await utils.getArticles();
+
+const articlesIndex = articles.map((article) => {
+    return {
+        title: article.title,
+        translated_title: article.translated_title,
+        date: article.date.toISODate(),
+        year: article.date.toISODate().slice(0, 4),
+        month: article.date.toISODate().slice(0, 7),
+        tags: article.tags
+            .map((tag) => `${tag.name} ${tag.translated_name}`)
+            .join(" "),
+        url: `/articles/${article.slug}/`,
+    };
+});
+---
+
+<Layout>
+    <main>
+        <input
+            type="text"
+            name="q"
+            id="search-input"
+            placeholder="title, topic, date..."
+            data-articles-index={JSON.stringify(articlesIndex)}
+        />
+        <div id="search-results"></div>
+    </main>
+</Layout>
+
+<script>
+    import Fuse from "fuse.js";
+    import { debounce } from "lodash";
+
+    document.addEventListener("DOMContentLoaded", function () {
+        const searchInput = document.getElementById("search-input");
+        const searchResults = document.getElementById("search-results");
+
+        const articlesIndex = JSON.parse(searchInput.dataset.articlesIndex);
+
+        const fuse = new Fuse(articlesIndex, {
+            keys: [
+                "title",
+                "translated_title",
+                "date",
+                "year",
+                "month",
+                "tags",
+            ],
+        });
+
+        function updateResults() {
+            const matchedArticles = fuse.search(searchInput.value);
+
+            if (matchedArticles.length === 0) {
+                searchResults.innerHTML = "<p>No results</p>";
+            } else {
+                searchResults.innerHTML =
+                    "<ul>" +
+                    matchedArticles
+                        .map(
+                            (article) => `
+          <li>
+            <a href="${article.item.url}">
+              ${article.item.title}
+            </a>
+            <br/>
+            <i>${article.item.translated_title}</i>
+            <br/>
+            <small>${article.item.date}</small>
+          </li>
+        `,
+                        )
+                        .join("") +
+                    "</ul>";
+            }
+        }
+
+        searchInput.value =
+            new URLSearchParams(window.location.search).get("q") || "";
+        searchInput.focus();
+        updateResults();
+
+        function onInputChange(event) {
+            event.preventDefault();
+
+            const url = new URL(window.location.href);
+            url.searchParams.set("q", searchInput.value);
+            window.history.pushState({}, "", url.toString());
+
+            updateResults();
+        }
+
+        searchInput.addEventListener("input", debounce(onInputChange, 200));
+    });
+</script>

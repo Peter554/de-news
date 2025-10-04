@@ -1,0 +1,41 @@
+---
+import slugify from "@sindresorhus/slugify";
+
+import Layout from "../../layout.astro";
+import utils from "../../utils";
+
+export const getStaticPaths = async () => {
+    const tags = await utils.getTags();
+    return tags.map((tag) => ({
+        params: { tag: slugify(tag.name) },
+        props: { tag },
+    }));
+};
+
+const { tag } = Astro.props;
+
+const articles = (await utils.getArticles()).filter((article) =>
+    article.tags.map((tag) => tag.name).includes(tag.name),
+);
+---
+
+<Layout>
+    <main>
+        <h2>{tag.name} ({tag.translated_name})</h2>
+        <ul>
+            {
+                articles.map((article) => (
+                    <li>
+                        <a href={`/articles/${article.slug}/`}>
+                            {article.title}
+                        </a>
+                        <br />
+                        <i>{article.translated_title}</i>
+                        <br />
+                        <small>{article.date.toISODate()}</small>
+                    </li>
+                ))
+            }
+        </ul>
+    </main>
+</Layout>

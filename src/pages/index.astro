@@ -1,0 +1,93 @@
+---
+import { DateTime } from "luxon";
+
+import Layout from "../layout.astro";
+import utils from "../utils";
+
+const lastNDays = (n: number) => (articles: any[]) => {
+    return articles.filter(
+        (article) =>
+            article.date >= DateTime.now().startOf("day").minus({ days: n }),
+    );
+};
+
+const groupedByDate = (articles: any[]) => {
+    const grouped = new Map();
+    articles.forEach((article) => {
+        const date = article.date.toISODate();
+        if (!grouped.has(date)) grouped.set(date, []);
+        grouped.get(date).push(article);
+    });
+    return grouped;
+};
+
+const articlesByDate = groupedByDate(lastNDays(7)(await utils.getArticles()));
+---
+
+<Layout>
+    <main>
+        <p>
+            AI generated news in simple German with translations and vocabulary
+            lists.
+        </p>
+
+        <h2>Recent articles</h2>
+        {
+            articlesByDate.entries().map(([date, articles]) => {
+                return (
+                    <>
+                        <h3>{date}</h3>
+                        <ul>
+                            {articles.map((article: any) => (
+                                <li>
+                                    <a href={`/articles/${article.slug}/`}>
+                                        {article.title}
+                                    </a>
+                                    <br />
+                                    <i>{article.translated_title}</i>
+                                </li>
+                            ))}
+                        </ul>
+                    </>
+                );
+            })
+        }
+
+        <h2>Motivation</h2>
+        <ul>
+            <li>
+                To create some extra reading practice for myself to improve my
+                German. I've been inspired by tools like <a
+                    href="https://readle-app.com/">Readle</a
+                >
+                and sites like <a href="https://www.nachrichtenleicht.de/"
+                    >nachrichtenleicht</a
+                >.
+            </li>
+            <li>
+                To experiment with AI, both in terms of content generation and
+                coding assistance.
+            </li>
+        </ul>
+        <p>
+            Creating a comprehensive and balanced news experience has not been
+            the goal of this project, so treat the generated content with
+            caution.
+        </p>
+
+        <h2 id="how-it-works">How does it work?</h2>
+        <p>
+            AI (<a href="https://claude.com/product/claude-code">Claude Code</a
+            >) searches the web to fetch top news stories and then creates
+            article summaries in simple German (roughly B1 level) with
+            translations, vocabulary lists and tags. This process runs daily via
+            a GitHub actions workflow with a CRON schedule. AI then makes a
+            daily PR with the new articles and assigns me for review. The
+            articles are then published via a simple <a
+                href="https://astro.build/">Astro</a
+            > site deployed to <a href="https://www.netlify.com/">Netlify</a>.
+            Find the repo <a href="https://github.com/Peter554/de-news">here</a
+            >.
+        </p>
+    </main></Layout
+>

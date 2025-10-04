@@ -1,0 +1,34 @@
+---
+import "simpledotcss/simple.min.css";
+
+import { metadata } from "./metadata";
+---
+
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>{metadata.title}</title>
+    </head>
+    <body>
+        <header>
+            <h1><a href="/">{metadata.title}</a></h1>
+            <div>
+                <a href="/">Home</a>
+                |
+                <a href="/search/">Search</a>
+                |
+                <a href="/tags/">Topics</a>
+                |
+                <a href="/feed.xml">Feed</a>
+                |
+                <a href="/#how-it-works">How it works</a>
+                |
+                <a href="https://github.com/Peter554/de-news">Repo</a>
+            </div>
+        </header>
+        <slot />
+    </body>
+</html>

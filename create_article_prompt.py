@@ -74,12 +74,12 @@ For each article:
 * Provide a list of 2-3 tags that describe the topic of the article.
   * The tags will be used to find articles on the same / similar topics.
   * The tags should be of the form "German text (English translation)" e.g. "Gaza-Konflikt (Gaza Conflict)"
-  * Where appropriate, reuse existing tags from the global `tags.json` file.
-  * Make sure all the article tags are added to the global `tags.json` file. The file should be sorted alphabetically by tag name.
+  * Where appropriate, reuse existing tags from the global `data/tags.json` file.
+  * Make sure all the article tags are added to the global `data/tags.json` file. The file should be sorted alphabetically by tag name.
 * Provide links to the original source articles, where one could go to read more.
   * Make sure these links point to specific articles, not generic sites.
 
-For each article, create a JSON file for the result under `articles/{args.date}`.
+For each article, create a JSON file for the result under `data/articles/{args.date}`.
 Each JSON file should obey the schema given below:
 
 ```json
