@@ -1,0 +1,148 @@
+{
+  "title": "Israel stoppt humanitäre Hilfsflottille für Gaza",
+  "translated_title": "Israel Stops Humanitarian Aid Flotilla for Gaza",
+  "text": [
+    {
+      "text": "Israel hat am 3. Oktober eine gesamte humanitäre Hilfsflottille nach Gaza abgefangen.",
+      "translated_text": "Israel intercepted an entire humanitarian aid flotilla to Gaza on October 3."
+    },
+    {
+      "text": "Das israelische Militär hat Hunderte von Aktivisten festgenommen.",
+      "translated_text": "The Israeli military arrested hundreds of activists."
+    },
+    {
+      "text": "Die Aktivisten waren auf mehreren Dutzend Schiffen unterwegs.",
+      "translated_text": "The activists were traveling on several dozen ships."
+    },
+    {
+      "text": "Unter den festgenommenen Personen waren bekannte Persönlichkeiten.",
+      "translated_text": "Among the detained persons were well-known personalities."
+    },
+    {
+      "text": "Die Klimaaktivistin Greta Thunberg gehörte zu den Festgenommenen.",
+      "translated_text": "Climate activist Greta Thunberg was among those arrested."
+    },
+    {
+      "text": "Auch die ehemalige Bürgermeisterin von Barcelona, Ada Colau, war dabei.",
+      "translated_text": "The former mayor of Barcelona, Ada Colau, was also there."
+    },
+    {
+      "text": "Rima Hassan, Mitglied des Europäischen Parlaments, wurde ebenfalls festgenommen.",
+      "translated_text": "Rima Hassan, Member of the European Parliament, was also arrested."
+    },
+    {
+      "text": "Die Flottille wollte die Belagerung von Gaza durchbrechen.",
+      "translated_text": "The flotilla wanted to break through the siege of Gaza."
+    },
+    {
+      "text": "In Gaza gibt es eine schwierige humanitäre Situation.",
+      "translated_text": "There is a difficult humanitarian situation in Gaza."
+    },
+    {
+      "text": "UN-Helfer berichten von schrecklichen Zuständen in Notfallkrankenhäusern.",
+      "translated_text": "UN aid workers report terrible conditions in makeshift hospitals."
+    },
+    {
+      "text": "Frühgeborene Babys weinen nach Sauerstoff.",
+      "translated_text": "Premature babies cry for oxygen."
+    },
+    {
+      "text": "Ärzte versuchen verzweifelt, Kinder zu retten.",
+      "translated_text": "Doctors desperately try to save children."
+    },
+    {
+      "text": "Die internationale Gemeinschaft fordert humanitären Zugang zu Gaza.",
+      "translated_text": "The international community demands humanitarian access to Gaza."
+    },
+    {
+      "text": "Die Situation bleibt sehr angespannt.",
+      "translated_text": "The situation remains very tense."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Hilfsflottille",
+      "translated_term": "aid flotilla",
+      "example_usage": "Israel hat am 3. Oktober eine gesamte humanitäre Hilfsflottille nach Gaza abgefangen."
+    },
+    {
+      "term": "abfangen",
+      "translated_term": "to intercept",
+      "example_usage": "Israel hat am 3. Oktober eine gesamte humanitäre Hilfsflottille nach Gaza abgefangen."
+    },
+    {
+      "term": "festnehmen",
+      "translated_term": "to arrest, to detain",
+      "example_usage": "Das israelische Militär hat Hunderte von Aktivisten festgenommen."
+    },
+    {
+      "term": "der Aktivist",
+      "translated_term": "activist",
+      "example_usage": "Das israelische Militär hat Hunderte von Aktivisten festgenommen."
+    },
+    {
+      "term": "die Persönlichkeit",
+      "translated_term": "personality, public figure",
+      "example_usage": "Unter den festgenommenen Personen waren bekannte Persönlichkeiten."
+    },
+    {
+      "term": "die Belagerung",
+      "translated_term": "siege",
+      "example_usage": "Die Flottille wollte die Belagerung von Gaza durchbrechen."
+    },
+    {
+      "term": "durchbrechen",
+      "translated_term": "to break through",
+      "example_usage": "Die Flottille wollte die Belagerung von Gaza durchbrechen."
+    },
+    {
+      "term": "das Notfallkrankenhaus",
+      "translated_term": "makeshift hospital, emergency hospital",
+      "example_usage": "UN-Helfer berichten von schrecklichen Zuständen in Notfallkrankenhäusern."
+    },
+    {
+      "term": "frühgeboren",
+      "translated_term": "premature (born early)",
+      "example_usage": "Frühgeborene Babys weinen nach Sauerstoff."
+    },
+    {
+      "term": "verzweifelt",
+      "translated_term": "desperate, desperately",
+      "example_usage": "Ärzte versuchen verzweifelt, Kinder zu retten."
+    },
+    {
+      "term": "die Gemeinschaft",
+      "translated_term": "community",
+      "example_usage": "Die internationale Gemeinschaft fordert humanitären Zugang zu Gaza."
+    },
+    {
+      "term": "angespannt",
+      "translated_term": "tense",
+      "example_usage": "Die Situation bleibt sehr angespannt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Gaza-Konflikt",
+      "translated_name": "Gaza Conflict"
+    },
+    {
+      "name": "Menschenrechte",
+      "translated_name": "Human Rights"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/10/3/israel-dismantles-gaza-humanitarian-flotilla-but-one-boat-sails"
+    },
+    {
+      "name": "UN News",
+      "link_url": "https://news.un.org/en/audio/2025/10/1166026"
+    }
+  ]
+}

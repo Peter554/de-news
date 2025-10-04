@@ -1,0 +1,144 @@
+{
+  "title": "Oktoberfest wegen Bombendrohung vorübergehend geschlossen",
+  "translated_title": "Oktoberfest Temporarily Closed Due to Bomb Threat",
+  "text": [
+    {
+      "text": "Das 190. Oktoberfest in München stand am 4. Oktober vor einer Sicherheitskrise.",
+      "translated_text": "The 190th Oktoberfest in Munich faced a security crisis on October 4."
+    },
+    {
+      "text": "Nach einem Brand im Münchner Stadtteil Lerchenau wurden Sprengstoffe gefunden.",
+      "translated_text": "After a fire in Munich's Lerchenau district, explosives were found."
+    },
+    {
+      "text": "Die Polizei erhielt auch eine Bombendrohung.",
+      "translated_text": "The police also received a bomb threat."
+    },
+    {
+      "text": "Eine Verbindung zum Oktoberfest konnte nicht ausgeschlossen werden.",
+      "translated_text": "A connection to the Oktoberfest could not be ruled out."
+    },
+    {
+      "text": "Bürgermeister Dieter Reiter von der SPD traf eine wichtige Entscheidung.",
+      "translated_text": "Mayor Dieter Reiter from the SPD made an important decision."
+    },
+    {
+      "text": "Er beschloss, das Festgelände bis 17 Uhr geschlossen zu halten.",
+      "translated_text": "He decided to keep the festival grounds closed until 5 PM."
+    },
+    {
+      "text": "Diese Maßnahme diente der Sicherheit der Besucher.",
+      "translated_text": "This measure served the safety of visitors."
+    },
+    {
+      "text": "Das Oktoberfest ist eines der größten Volksfeste der Welt.",
+      "translated_text": "The Oktoberfest is one of the largest folk festivals in the world."
+    },
+    {
+      "text": "Jedes Jahr kommen Millionen von Besuchern aus aller Welt.",
+      "translated_text": "Every year, millions of visitors come from all over the world."
+    },
+    {
+      "text": "Die Sicherheitsbehörden arbeiten eng zusammen, um Gefahren zu verhindern.",
+      "translated_text": "Security authorities work closely together to prevent dangers."
+    },
+    {
+      "text": "Die Sperrung verursachte Enttäuschung bei vielen Besuchern.",
+      "translated_text": "The closure caused disappointment among many visitors."
+    },
+    {
+      "text": "Trotzdem verstanden die meisten Menschen die Notwendigkeit der Maßnahme.",
+      "translated_text": "Nevertheless, most people understood the necessity of the measure."
+    },
+    {
+      "text": "Die Polizei untersucht den Zusammenhang zwischen dem Brand und der Drohung.",
+      "translated_text": "The police are investigating the connection between the fire and the threat."
+    },
+    {
+      "text": "Nach der Überprüfung konnte das Fest am Abend wieder öffnen.",
+      "translated_text": "After the inspection, the festival could reopen in the evening."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Oktoberfest",
+      "translated_term": "Oktoberfest (Munich beer festival)",
+      "example_usage": "Das 190. Oktoberfest in München stand am 4. Oktober vor einer Sicherheitskrise."
+    },
+    {
+      "term": "die Bombendrohung",
+      "translated_term": "bomb threat",
+      "example_usage": "Die Polizei erhielt auch eine Bombendrohung."
+    },
+    {
+      "term": "der Sprengstoff",
+      "translated_term": "explosive",
+      "example_usage": "Nach einem Brand im Münchner Stadtteil Lerchenau wurden Sprengstoffe gefunden."
+    },
+    {
+      "term": "ausschließen",
+      "translated_term": "to rule out, to exclude",
+      "example_usage": "Eine Verbindung zum Oktoberfest konnte nicht ausgeschlossen werden."
+    },
+    {
+      "term": "der Bürgermeister",
+      "translated_term": "mayor",
+      "example_usage": "Bürgermeister Dieter Reiter von der SPD traf eine wichtige Entscheidung."
+    },
+    {
+      "term": "das Festgelände",
+      "translated_term": "festival grounds",
+      "example_usage": "Er beschloss, das Festgelände bis 17 Uhr geschlossen zu halten."
+    },
+    {
+      "term": "die Maßnahme",
+      "translated_term": "measure, action",
+      "example_usage": "Diese Maßnahme diente der Sicherheit der Besucher."
+    },
+    {
+      "term": "das Volksfest",
+      "translated_term": "folk festival",
+      "example_usage": "Das Oktoberfest ist eines der größten Volksfeste der Welt."
+    },
+    {
+      "term": "verhindern",
+      "translated_term": "to prevent",
+      "example_usage": "Die Sicherheitsbehörden arbeiten eng zusammen, um Gefahren zu verhindern."
+    },
+    {
+      "term": "die Enttäuschung",
+      "translated_term": "disappointment",
+      "example_usage": "Die Sperrung verursachte Enttäuschung bei vielen Besuchern."
+    },
+    {
+      "term": "die Notwendigkeit",
+      "translated_term": "necessity",
+      "example_usage": "Trotzdem verstanden die meisten Menschen die Notwendigkeit der Maßnahme."
+    },
+    {
+      "term": "die Überprüfung",
+      "translated_term": "inspection, check",
+      "example_usage": "Nach der Überprüfung konnte das Fest am Abend wieder öffnen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Kultur",
+      "translated_name": "Culture"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda Deutschland",
+      "link_url": "https://germany.news-pravda.com/world/2025/10/04/170368.html"
+    }
+  ]
+}
