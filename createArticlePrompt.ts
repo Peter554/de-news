@@ -47,59 +47,7 @@ const { values } = parseArgs({
 
 const date = values.date!;
 
-const schema = {
-  type: "object",
-  properties: {
-    title: { type: "string" },
-    translated_title: { type: "string" },
-    text: {
-      type: "array",
-      items: {
-        type: "object",
-        properties: {
-          text: { type: "string" },
-          translated_text: { type: "string" },
-        },
-        required: ["text", "translated_text"],
-      },
-    },
-    key_vocab: {
-      type: "array",
-      items: {
-        type: "object",
-        properties: {
-          term: { type: "string" },
-          translated_term: { type: "string" },
-          example_usage: { type: "string" },
-        },
-        required: ["term", "translated_term", "example_usage"],
-      },
-    },
-    tags: {
-      type: "array",
-      items: {
-        type: "object",
-        properties: {
-          name: { type: "string" },
-          translated_name: { type: "string" },
-        },
-        required: ["name", "translated_name"],
-      },
-    },
-    sources: {
-      type: "array",
-      items: {
-        type: "object",
-        properties: {
-          name: { type: "string" },
-          link_url: { type: "string" },
-        },
-        required: ["name", "link_url"],
-      },
-    },
-  },
-  required: ["title", "translated_title", "text", "key_vocab", "tags", "sources"],
-};
+const schema = z.toJSONSchema(Article);
 
 const prompt = `Search the internet for top news for the date ${date}.
 

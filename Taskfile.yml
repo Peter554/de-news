@@ -4,7 +4,7 @@ tasks:
   fetch_articles:
     cmds:
       - rm -f article-prompt.md ERROR.md
-      - bun run createArticlePrompt.ts {{if .DATE}}--date {{.DATE}}{{end}} > article-prompt.md
+      - bun --bun run createArticlePrompt.ts {{if .DATE}}--date {{.DATE}}{{end}} > article-prompt.md
       - cat article-prompt.md | claude -p --model sonnet
       - test ! -f ERROR.md
 
