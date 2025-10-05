@@ -96,6 +96,10 @@
     "translated_name": "Public Service"
   },
   {
+    "name": "Regierungskrise",
+    "translated_name": "Government Crisis"
+  },
+  {
     "name": "Öffentlicher Verkehr",
     "translated_name": "Public Transport"
   },
@@ -136,6 +140,10 @@
     "translated_name": "Technology"
   },
   {
+    "name": "Terrorismus",
+    "translated_name": "Terrorism"
+  },
+  {
     "name": "Ukraine-Krieg",
     "translated_name": "Ukraine War"
   },
@@ -162,6 +170,10 @@
   {
     "name": "Wahlkampf",
     "translated_name": "Election Campaign"
+  },
+  {
+    "name": "Weltraumforschung",
+    "translated_name": "Space Exploration"
   },
   {
     "name": "Wetter",
