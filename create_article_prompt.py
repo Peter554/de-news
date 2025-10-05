@@ -90,8 +90,8 @@ Make your changes on a new branch.
 Commit your changes and open a PR.
 Assign Peter554 to review the PR.
 
-If you are unable to complete this task properly (i.e. you are not able to open a PR with the new articles)
-then create a file `ERROR.md` with a description of the error(s) encountered.
+The end goal of this task is to create an open PR with the new articles and any new tags.
+IMPORTANT!: If for any reason you are unable to complete this task then create a file `ERROR.md` with a description of the error(s) encountered.
 """
 
 print(prompt)
