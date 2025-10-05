@@ -15,7 +15,8 @@
     "fuse.js": "^7.1.0",
     "lodash": "^4.17.21",
     "luxon": "^3.7.2",
-    "simpledotcss": "^2.3.7"
+    "simpledotcss": "^2.3.7",
+    "zod": "^4.1.11"
   },
   "devDependencies": {
     "@types/bun": "^1.2.23",
