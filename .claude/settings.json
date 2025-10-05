@@ -4,11 +4,10 @@
       "Bash(gh pr:*)",
       "Bash(git:*)",
       "Bash(mkdir:*)",
-      "Edit(/articles/**/*.json)",
+      "Edit(/data/**)",
       "Edit(/ERROR.md)",
-      "Edit(/tags.json)",
       "Read(/article-prompt.md)",
-      "Read(/tags.json)",
+      "Read(/data/**)",
       "WebFetch",
       "WebSearch"
     ]
