@@ -1,0 +1,136 @@
+{
+  "title": "Oktoberfest wegen Bombendrohung kurzzeitig geschlossen",
+  "translated_title": "Oktoberfest Temporarily Closed Due to Bomb Threat",
+  "text": [
+    {
+      "text": "Das berühmte Münchner Oktoberfest wurde am 1. Oktober kurzzeitig geschlossen.",
+      "translated_text": "The famous Munich Oktoberfest was temporarily closed on October 1."
+    },
+    {
+      "text": "Der Grund war eine Bombendrohung.",
+      "translated_text": "The reason was a bomb threat."
+    },
+    {
+      "text": "Die Drohung stand in Verbindung mit einem Brand in einem Wohnhaus im Norden der Stadt.",
+      "translated_text": "The threat was connected to a fire in a residential building in the north of the city."
+    },
+    {
+      "text": "Die Polizei fand einen 57-jährigen deutschen Mann in der Nähe des Wohnhauses.",
+      "translated_text": "The police found a 57-year-old German man near the residential building."
+    },
+    {
+      "text": "Er hatte einen Rucksack mit einem Sprengsatz dabei.",
+      "translated_text": "He had a backpack with an explosive device with him."
+    },
+    {
+      "text": "Experten mussten den Sprengsatz entschärfen.",
+      "translated_text": "Experts had to defuse the explosive device."
+    },
+    {
+      "text": "Der Mann war für die Bombendrohung verantwortlich.",
+      "translated_text": "The man was responsible for the bomb threat."
+    },
+    {
+      "text": "Später nahm er sich das Leben.",
+      "translated_text": "Later he took his own life."
+    },
+    {
+      "text": "Die Polizei durchsuchte das Oktoberfest-Gelände mit Spürhunden.",
+      "translated_text": "The police searched the Oktoberfest grounds with detection dogs."
+    },
+    {
+      "text": "Am Mittwochnachmittag wurde das Oktoberfest wieder geöffnet.",
+      "translated_text": "On Wednesday afternoon, the Oktoberfest was reopened."
+    },
+    {
+      "text": "Tausende Besucher konnten das Fest wieder genießen.",
+      "translated_text": "Thousands of visitors could enjoy the festival again."
+    },
+    {
+      "text": "Die Sicherheitsbehörden haben schnell und professionell reagiert.",
+      "translated_text": "The security authorities reacted quickly and professionally."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bombendrohung",
+      "translated_term": "the bomb threat",
+      "example_usage": "Das berühmte Münchner Oktoberfest wurde am 1. Oktober wegen einer Bombendrohung kurzzeitig geschlossen."
+    },
+    {
+      "term": "kurzzeitig",
+      "translated_term": "temporarily / briefly",
+      "example_usage": "Das berühmte Münchner Oktoberfest wurde am 1. Oktober kurzzeitig geschlossen."
+    },
+    {
+      "term": "der Brand",
+      "translated_term": "the fire",
+      "example_usage": "Die Drohung stand in Verbindung mit einem Brand in einem Wohnhaus im Norden der Stadt."
+    },
+    {
+      "term": "das Wohnhaus",
+      "translated_term": "the residential building",
+      "example_usage": "Die Drohung stand in Verbindung mit einem Brand in einem Wohnhaus im Norden der Stadt."
+    },
+    {
+      "term": "der Rucksack",
+      "translated_term": "the backpack",
+      "example_usage": "Er hatte einen Rucksack mit einem Sprengsatz dabei."
+    },
+    {
+      "term": "der Sprengsatz",
+      "translated_term": "the explosive device",
+      "example_usage": "Experten mussten den Sprengsatz entschärfen."
+    },
+    {
+      "term": "entschärfen",
+      "translated_term": "to defuse",
+      "example_usage": "Experten mussten den Sprengsatz entschärfen."
+    },
+    {
+      "term": "verantwortlich",
+      "translated_term": "responsible",
+      "example_usage": "Der Mann war für die Bombendrohung verantwortlich."
+    },
+    {
+      "term": "durchsuchen",
+      "translated_term": "to search",
+      "example_usage": "Die Polizei durchsuchte das Oktoberfest-Gelände mit Spürhunden."
+    },
+    {
+      "term": "der Spürhund",
+      "translated_term": "the detection dog",
+      "example_usage": "Die Polizei durchsuchte das Oktoberfest-Gelände mit Spürhunden."
+    },
+    {
+      "term": "die Sicherheitsbehörde",
+      "translated_term": "the security authority",
+      "example_usage": "Die Sicherheitsbehörden haben schnell und professionell reagiert."
+    },
+    {
+      "term": "reagieren",
+      "translated_term": "to react",
+      "example_usage": "Die Sicherheitsbehörden haben schnell und professionell reagiert."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Kultur",
+      "translated_name": "Culture"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ABC News",
+      "link_url": "https://abcnews.go.com/International/munich-oktoberfest-closed-after-bomb-threat-deadly-explosion/story?id=126107497"
+    }
+  ]
+}
