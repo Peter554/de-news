@@ -1,0 +1,140 @@
+{
+  "title": "US-Regierung schließt nach Haushaltsstreit",
+  "translated_title": "US Government Shuts Down After Budget Dispute",
+  "text": [
+    {
+      "text": "Die US-Regierung hat am 1. Oktober 2025 um Mitternacht ihre Arbeit eingestellt.",
+      "translated_text": "The US government stopped working at midnight on October 1, 2025."
+    },
+    {
+      "text": "Republikaner und Demokraten konnten sich nicht auf ein Haushaltsgesetz einigen.",
+      "translated_text": "Republicans and Democrats could not agree on a budget law."
+    },
+    {
+      "text": "Dies ist der erste Regierungsstillstand seit dem Jahr 2019.",
+      "translated_text": "This is the first government shutdown since 2019."
+    },
+    {
+      "text": "Der Hauptstreitpunkt ist die Gesundheitspolitik.",
+      "translated_text": "The main point of dispute is health policy."
+    },
+    {
+      "text": "Die Demokraten wollen den Schutz für ablaufende Zuschüsse des Affordable Care Act verlängern.",
+      "translated_text": "The Democrats want to extend protections for expiring Affordable Care Act subsidies."
+    },
+    {
+      "text": "Die Republikaner argumentieren, dass Gesundheitsfragen nicht Teil der Haushaltsdebatte sein sollten.",
+      "translated_text": "The Republicans argue that health issues should not be part of the budget debate."
+    },
+    {
+      "text": "Hunderttausende Bundesangestellte sind beurlaubt worden.",
+      "translated_text": "Hundreds of thousands of federal employees have been furloughed."
+    },
+    {
+      "text": "Viele wichtige Programme und Dienstleistungen wurden geschlossen.",
+      "translated_text": "Many important programs and services have been shut down."
+    },
+    {
+      "text": "Das Arbeitsministerium hat fast alle Aktivitäten eingestellt.",
+      "translated_text": "The Labor Department has halted almost all activities."
+    },
+    {
+      "text": "Der Bericht über die Beschäftigungszahlen vom September wird nicht veröffentlicht.",
+      "translated_text": "The September employment figures report will not be published."
+    },
+    {
+      "text": "Trotz des Shutdowns erreichte der S&P 500 Index am 1. Oktober ein neues Rekordhoch.",
+      "translated_text": "Despite the shutdown, the S&P 500 index reached a new record high on October 1."
+    },
+    {
+      "text": "Der Index stieg um 0,34 Prozent auf 6.711,20 Punkte.",
+      "translated_text": "The index rose by 0.34 percent to 6,711.20 points."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Regierung",
+      "translated_term": "the government",
+      "example_usage": "Die US-Regierung hat am 1. Oktober 2025 um Mitternacht ihre Arbeit eingestellt."
+    },
+    {
+      "term": "der Haushaltsstreit",
+      "translated_term": "the budget dispute",
+      "example_usage": "Republikaner und Demokraten konnten sich nicht auf ein Haushaltsgesetz einigen."
+    },
+    {
+      "term": "sich einigen",
+      "translated_term": "to agree",
+      "example_usage": "Republikaner und Demokraten konnten sich nicht auf ein Haushaltsgesetz einigen."
+    },
+    {
+      "term": "der Regierungsstillstand",
+      "translated_term": "the government shutdown",
+      "example_usage": "Dies ist der erste Regierungsstillstand seit dem Jahr 2019."
+    },
+    {
+      "term": "der Streitpunkt",
+      "translated_term": "the point of dispute",
+      "example_usage": "Der Hauptstreitpunkt ist die Gesundheitspolitik."
+    },
+    {
+      "term": "der Zuschuss",
+      "translated_term": "the subsidy",
+      "example_usage": "Die Demokraten wollen den Schutz für ablaufende Zuschüsse des Affordable Care Act verlängern."
+    },
+    {
+      "term": "verlängern",
+      "translated_term": "to extend",
+      "example_usage": "Die Demokraten wollen den Schutz für ablaufende Zuschüsse des Affordable Care Act verlängern."
+    },
+    {
+      "term": "beurlauben",
+      "translated_term": "to furlough",
+      "example_usage": "Hunderttausende Bundesangestellte sind beurlaubt worden."
+    },
+    {
+      "term": "die Dienstleistung",
+      "translated_term": "the service",
+      "example_usage": "Viele wichtige Programme und Dienstleistungen wurden geschlossen."
+    },
+    {
+      "term": "einstellen",
+      "translated_term": "to halt / to stop",
+      "example_usage": "Das Arbeitsministerium hat fast alle Aktivitäten eingestellt."
+    },
+    {
+      "term": "der Bericht",
+      "translated_term": "the report",
+      "example_usage": "Der Bericht über die Beschäftigungszahlen vom September wird nicht veröffentlicht."
+    },
+    {
+      "term": "das Rekordhoch",
+      "translated_term": "the record high",
+      "example_usage": "Trotz des Shutdowns erreichte der S&P 500 Index am 1. Oktober ein neues Rekordhoch."
+    }
+  ],
+  "tags": [
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Regierungskrise",
+      "translated_name": "Government Crisis"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC",
+      "link_url": "https://www.cnbc.com/2025/10/01/government-shutdown-trump-live-updates.html"
+    },
+    {
+      "name": "CNN Politics",
+      "link_url": "https://www.cnn.com/politics/live-news/trump-presidency-shutdown-netanyahu-09-29-25"
+    }
+  ]
+}

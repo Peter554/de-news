@@ -1,0 +1,132 @@
+{
+  "title": "Russland meldet Fortschritte in der Ukraine",
+  "translated_title": "Russia Reports Advances in Ukraine",
+  "text": [
+    {
+      "text": "Der Krieg in der Ukraine geht weiter.",
+      "translated_text": "The war in Ukraine continues."
+    },
+    {
+      "text": "Russland behauptet, zwei Drittel der Gebäude in Kupiansk zu kontrollieren.",
+      "translated_text": "Russia claims to control two-thirds of the buildings in Kupiansk."
+    },
+    {
+      "text": "Kupiansk ist eine Stadt in der nördlichen Region Charkiw.",
+      "translated_text": "Kupiansk is a city in the northern Kharkiv region."
+    },
+    {
+      "text": "Der ukrainische Präsident Selenskyj hat ein großes Waffengeschäft mit den USA angekündigt.",
+      "translated_text": "Ukrainian President Zelenskyy has announced a major weapons deal with the USA."
+    },
+    {
+      "text": "Er nannte es ein 'Mega-Waffengeschäft'.",
+      "translated_text": "He called it a 'mega weapons deal'."
+    },
+    {
+      "text": "Am 1. Oktober hat die Ukraine eine große russische Raffinerie angegriffen.",
+      "translated_text": "On October 1, Ukraine attacked a large Russian refinery."
+    },
+    {
+      "text": "Die Raffinerie liegt in Jaroslawl, 250 Kilometer nordöstlich von Moskau.",
+      "translated_text": "The refinery is located in Yaroslavl, 250 kilometers northeast of Moscow."
+    },
+    {
+      "text": "Dies war ein strategisch wichtiger Angriff auf Russlands Energieinfrastruktur.",
+      "translated_text": "This was a strategically important attack on Russia's energy infrastructure."
+    },
+    {
+      "text": "Der Konflikt hat bereits viele Menschenleben gekostet.",
+      "translated_text": "The conflict has already cost many lives."
+    },
+    {
+      "text": "Beide Seiten kämpfen um die Kontrolle strategisch wichtiger Gebiete.",
+      "translated_text": "Both sides are fighting for control of strategically important areas."
+    },
+    {
+      "text": "Die internationale Gemeinschaft beobachtet die Situation mit großer Sorge.",
+      "translated_text": "The international community is watching the situation with great concern."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Fortschritt",
+      "translated_term": "the advance / progress",
+      "example_usage": "Russland meldet Fortschritte in der Ukraine."
+    },
+    {
+      "term": "behaupten",
+      "translated_term": "to claim",
+      "example_usage": "Russland behauptet, zwei Drittel der Gebäude in Kupiansk zu kontrollieren."
+    },
+    {
+      "term": "kontrollieren",
+      "translated_term": "to control",
+      "example_usage": "Russland behauptet, zwei Drittel der Gebäude in Kupiansk zu kontrollieren."
+    },
+    {
+      "term": "das Waffengeschäft",
+      "translated_term": "the weapons deal",
+      "example_usage": "Der ukrainische Präsident Selenskyj hat ein großes Waffengeschäft mit den USA angekündigt."
+    },
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Der ukrainische Präsident Selenskyj hat ein großes Waffengeschäft mit den USA angekündigt."
+    },
+    {
+      "term": "angreifen",
+      "translated_term": "to attack",
+      "example_usage": "Am 1. Oktober hat die Ukraine eine große russische Raffinerie angegriffen."
+    },
+    {
+      "term": "die Raffinerie",
+      "translated_term": "the refinery",
+      "example_usage": "Die Raffinerie liegt in Jaroslawl, 250 Kilometer nordöstlich von Moskau."
+    },
+    {
+      "term": "strategisch",
+      "translated_term": "strategic",
+      "example_usage": "Dies war ein strategisch wichtiger Angriff auf Russlands Energieinfrastruktur."
+    },
+    {
+      "term": "die Energieinfrastruktur",
+      "translated_term": "the energy infrastructure",
+      "example_usage": "Dies war ein strategisch wichtiger Angriff auf Russlands Energieinfrastruktur."
+    },
+    {
+      "term": "kosten",
+      "translated_term": "to cost",
+      "example_usage": "Der Konflikt hat bereits viele Menschenleben gekostet."
+    },
+    {
+      "term": "kämpfen",
+      "translated_term": "to fight",
+      "example_usage": "Beide Seiten kämpfen um die Kontrolle strategisch wichtiger Gebiete."
+    },
+    {
+      "term": "die Sorge",
+      "translated_name": "the concern",
+      "example_usage": "Die internationale Gemeinschaft beobachtet die Situation mit großer Sorge."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/10/2/russia-advances-in-ukraine-as-zelenskyy-touts-mega-us-weapons-deal"
+    }
+  ]
+}
