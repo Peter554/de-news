@@ -1,0 +1,148 @@
+{
+  "title": "Drei Männer wegen Terrorplanung in Berlin verhaftet",
+  "translated_title": "Three Men Arrested for Terror Planning in Berlin",
+  "text": [
+    {
+      "text": "Die Berliner Polizei hat drei Männer verhaftet, die einen Terroranschlag geplant haben sollen.",
+      "translated_text": "Berlin police have arrested three men who are alleged to have planned a terrorist attack."
+    },
+    {
+      "text": "Die Verdächtigen sollen im Auftrag der Hamas gehandelt haben.",
+      "translated_text": "The suspects are said to have acted on behalf of Hamas."
+    },
+    {
+      "text": "Nach Angaben der Behörden wollten die Männer jüdische Einrichtungen angreifen.",
+      "translated_text": "According to the authorities, the men wanted to attack Jewish institutions."
+    },
+    {
+      "text": "Die Verhaftungen erfolgten nach einer längeren Überwachung durch den Verfassungsschutz.",
+      "translated_text": "The arrests took place after extended monitoring by the domestic intelligence service."
+    },
+    {
+      "text": "Die Ermittler konnten so rechtzeitig eingreifen, bevor ein Anschlag verübt wurde.",
+      "translated_text": "The investigators were thus able to intervene in time before an attack was carried out."
+    },
+    {
+      "text": "Die drei Verdächtigen sind zwischen 25 und 35 Jahre alt.",
+      "translated_text": "The three suspects are between 25 and 35 years old."
+    },
+    {
+      "text": "Sie hatten sich in den letzten Monaten mehrmals getroffen, um den Anschlag vorzubereiten.",
+      "translated_text": "They had met several times in recent months to prepare the attack."
+    },
+    {
+      "text": "Bei Durchsuchungen ihrer Wohnungen wurden verdächtige Materialien gefunden.",
+      "translated_text": "Suspicious materials were found during searches of their apartments."
+    },
+    {
+      "text": "Die Sicherheitslage in Berlin ist derzeit besonders angespannt.",
+      "translated_text": "The security situation in Berlin is currently particularly tense."
+    },
+    {
+      "text": "Wegen des Jahrestages des Hamas-Angriffs am 7. Oktober wurden 1.000 zusätzliche Polizisten eingesetzt.",
+      "translated_text": "Because of the anniversary of the Hamas attack on October 7, 1,000 additional police officers were deployed."
+    },
+    {
+      "text": "Die Polizei rechnet mit spontanen Versammlungen und Demonstrationen in der Stadt.",
+      "translated_text": "The police expect spontaneous gatherings and demonstrations in the city."
+    },
+    {
+      "text": "Der Berliner Innensenator lobte die gute Arbeit der Sicherheitsbehörden.",
+      "translated_text": "Berlin's Interior Senator praised the good work of the security authorities."
+    },
+    {
+      "text": "Er betonte, dass die Sicherheit jüdischer Einrichtungen höchste Priorität habe.",
+      "translated_text": "He emphasized that the security of Jewish institutions has the highest priority."
+    },
+    {
+      "text": "Die Ermittlungen gegen die drei Männer dauern noch an.",
+      "translated_text": "The investigations against the three men are still ongoing."
+    },
+    {
+      "text": "Es wird geprüft, ob weitere Personen an der Planung beteiligt waren.",
+      "translated_text": "It is being examined whether other persons were involved in the planning."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "verhaften",
+      "translated_term": "to arrest",
+      "example_usage": "Die Berliner Polizei hat drei Männer verhaftet."
+    },
+    {
+      "term": "der Verdächtige",
+      "translated_term": "suspect",
+      "example_usage": "Die Verdächtigen sollen im Auftrag der Hamas gehandelt haben."
+    },
+    {
+      "term": "im Auftrag von",
+      "translated_term": "on behalf of",
+      "example_usage": "Die Verdächtigen sollen im Auftrag der Hamas gehandelt haben."
+    },
+    {
+      "term": "die Einrichtung",
+      "translated_term": "institution, facility",
+      "example_usage": "Die Männer wollten jüdische Einrichtungen angreifen."
+    },
+    {
+      "term": "die Überwachung",
+      "translated_term": "surveillance, monitoring",
+      "example_usage": "Die Verhaftungen erfolgten nach einer längeren Überwachung."
+    },
+    {
+      "term": "der Verfassungsschutz",
+      "translated_term": "domestic intelligence service",
+      "example_usage": "Die Verhaftungen erfolgten nach einer längeren Überwachung durch den Verfassungsschutz."
+    },
+    {
+      "term": "eingreifen",
+      "translated_term": "to intervene",
+      "example_usage": "Die Ermittler konnten rechtzeitig eingreifen."
+    },
+    {
+      "term": "verüben",
+      "translated_term": "to commit, to carry out",
+      "example_usage": "Die Ermittler konnten eingreifen, bevor ein Anschlag verübt wurde."
+    },
+    {
+      "term": "die Durchsuchung",
+      "translated_term": "search (of premises)",
+      "example_usage": "Bei Durchsuchungen ihrer Wohnungen wurden verdächtige Materialien gefunden."
+    },
+    {
+      "term": "angespannt",
+      "translated_term": "tense",
+      "example_usage": "Die Sicherheitslage in Berlin ist derzeit besonders angespannt."
+    },
+    {
+      "term": "loben",
+      "translated_term": "to praise",
+      "example_usage": "Der Berliner Innensenator lobte die gute Arbeit der Sicherheitsbehörden."
+    },
+    {
+      "term": "betonen",
+      "translated_term": "to emphasize",
+      "example_usage": "Er betonte, dass die Sicherheit jüdischer Einrichtungen höchste Priorität habe."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Terrorismus",
+      "translated_name": "Terrorism"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda DE",
+      "link_url": "https://deutsch.news-pravda.com/world/2025/10/07/487034.html"
+    }
+  ]
+}
