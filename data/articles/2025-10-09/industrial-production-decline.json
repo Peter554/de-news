@@ -1,0 +1,118 @@
+{
+  "title": "Deutsche Industrieproduktion sinkt drastisch",
+  "translated_title": "German Industrial Production Declines Drastically",
+  "text": [
+    {
+      "text": "Die deutsche Industrieproduktion ist im letzten Monat stark gesunken.",
+      "translated_text": "German industrial production has fallen sharply in the last month."
+    },
+    {
+      "text": "Experten berichten, dass die Produktion um 4,3 Prozent niedriger ist als im Vormonat.",
+      "translated_text": "Experts report that production is 4.3 percent lower than in the previous month."
+    },
+    {
+      "text": "Dies ist der größte Rückgang seit dem Beginn des Ukraine-Krieges.",
+      "translated_text": "This is the largest decline since the beginning of the Ukraine war."
+    },
+    {
+      "text": "Besonders betroffen sind die Bereiche Industrie, Bau und Energie.",
+      "translated_text": "The sectors particularly affected are industry, construction, and energy."
+    },
+    {
+      "text": "Einige Sektoren haben sogar einen Rückgang von 18,5 Prozent erlebt.",
+      "translated_text": "Some sectors have even experienced a decline of 18.5 percent."
+    },
+    {
+      "text": "Wirtschaftsexperten machen sich große Sorgen um die deutsche Wirtschaft.",
+      "translated_text": "Economic experts are very worried about the German economy."
+    },
+    {
+      "text": "Die Regierung diskutiert jetzt neue Maßnahmen, um die Wirtschaft zu unterstützen.",
+      "translated_text": "The government is now discussing new measures to support the economy."
+    },
+    {
+      "text": "Viele Unternehmen kämpfen mit hohen Energiepreisen und schwacher Nachfrage.",
+      "translated_text": "Many companies are struggling with high energy prices and weak demand."
+    },
+    {
+      "text": "Die Situation könnte sich in den kommenden Monaten weiter verschlechtern.",
+      "translated_text": "The situation could worsen further in the coming months."
+    },
+    {
+      "text": "Ökonomen fordern schnelle Hilfen für die betroffenen Branchen.",
+      "translated_text": "Economists are calling for rapid aid for the affected sectors."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Industrieproduktion",
+      "translated_term": "industrial production",
+      "example_usage": "Die deutsche Industrieproduktion ist im letzten Monat stark gesunken."
+    },
+    {
+      "term": "sinken",
+      "translated_term": "to fall/decline",
+      "example_usage": "Die deutsche Industrieproduktion ist im letzten Monat stark gesunken."
+    },
+    {
+      "term": "der Rückgang",
+      "translated_term": "decline/decrease",
+      "example_usage": "Dies ist der größte Rückgang seit dem Beginn des Ukraine-Krieges."
+    },
+    {
+      "term": "betroffen",
+      "translated_term": "affected",
+      "example_usage": "Besonders betroffen sind die Bereiche Industrie, Bau und Energie."
+    },
+    {
+      "term": "der Bereich",
+      "translated_term": "sector/area",
+      "example_usage": "Besonders betroffen sind die Bereiche Industrie, Bau und Energie."
+    },
+    {
+      "term": "die Maßnahme",
+      "translated_term": "measure/action",
+      "example_usage": "Die Regierung diskutiert jetzt neue Maßnahmen, um die Wirtschaft zu unterstützen."
+    },
+    {
+      "term": "kämpfen",
+      "translated_term": "to struggle/fight",
+      "example_usage": "Viele Unternehmen kämpfen mit hohen Energiepreisen und schwacher Nachfrage."
+    },
+    {
+      "term": "die Nachfrage",
+      "translated_term": "demand",
+      "example_usage": "Viele Unternehmen kämpfen mit hohen Energiepreisen und schwacher Nachfrage."
+    },
+    {
+      "term": "sich verschlechtern",
+      "translated_term": "to worsen/deteriorate",
+      "example_usage": "Die Situation könnte sich in den kommenden Monaten weiter verschlechtern."
+    },
+    {
+      "term": "die Branche",
+      "translated_term": "industry/sector",
+      "example_usage": "Ökonomen fordern schnelle Hilfen für die betroffenen Branchen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/world/2025/10/09/89237.html"
+    }
+  ]
+}

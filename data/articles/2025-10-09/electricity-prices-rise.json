@@ -1,0 +1,118 @@
+{
+  "title": "Strompreise steigen auf Sieben-Monats-Hoch",
+  "translated_title": "Electricity Prices Rise to Seven-Month High",
+  "text": [
+    {
+      "text": "Die Strompreise in Deutschland sind auf den höchsten Stand seit sieben Monaten gestiegen.",
+      "translated_text": "Electricity prices in Germany have risen to their highest level in seven months."
+    },
+    {
+      "text": "Der Grund dafür ist das kalte Wetter der letzten Tage.",
+      "translated_text": "The reason for this is the cold weather of recent days."
+    },
+    {
+      "text": "Viele Menschen müssen jetzt mehr heizen als gewöhnlich.",
+      "translated_text": "Many people now have to heat more than usual."
+    },
+    {
+      "text": "Zusätzlich gibt es Sorgen über die Produktion von erneuerbaren Energien.",
+      "translated_text": "Additionally, there are concerns about renewable energy production."
+    },
+    {
+      "text": "Wenn es kalt ist und wenig Wind weht, produzieren Windkraftanlagen weniger Strom.",
+      "translated_text": "When it is cold and there is little wind, wind turbines produce less electricity."
+    },
+    {
+      "text": "Auch Solaranlagen erzeugen im Winter weniger Energie als im Sommer.",
+      "translated_text": "Solar panels also generate less energy in winter than in summer."
+    },
+    {
+      "text": "Deshalb steigt die Nachfrage nach konventionellem Strom aus Gas und Kohle.",
+      "translated_text": "Therefore, demand for conventional electricity from gas and coal increases."
+    },
+    {
+      "text": "Diese Energiequellen sind jedoch teurer.",
+      "translated_text": "However, these energy sources are more expensive."
+    },
+    {
+      "text": "Experten erwarten, dass die Preise bis zum Frühjahr hoch bleiben werden.",
+      "translated_text": "Experts expect that prices will remain high until spring."
+    },
+    {
+      "text": "Verbraucher sollten auf ihren Stromverbrauch achten, um Kosten zu sparen.",
+      "translated_text": "Consumers should pay attention to their electricity consumption to save costs."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Strompreis",
+      "translated_term": "electricity price",
+      "example_usage": "Die Strompreise in Deutschland sind auf den höchsten Stand seit sieben Monaten gestiegen."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise/increase",
+      "example_usage": "Die Strompreise in Deutschland sind auf den höchsten Stand seit sieben Monaten gestiegen."
+    },
+    {
+      "term": "der Stand",
+      "translated_term": "level",
+      "example_usage": "Die Strompreise in Deutschland sind auf den höchsten Stand seit sieben Monaten gestiegen."
+    },
+    {
+      "term": "heizen",
+      "translated_term": "to heat",
+      "example_usage": "Viele Menschen müssen jetzt mehr heizen als gewöhnlich."
+    },
+    {
+      "term": "erneuerbare Energien",
+      "translated_term": "renewable energies",
+      "example_usage": "Zusätzlich gibt es Sorgen über die Produktion von erneuerbaren Energien."
+    },
+    {
+      "term": "die Windkraftanlage",
+      "translated_term": "wind turbine",
+      "example_usage": "Wenn es kalt ist und wenig Wind weht, produzieren Windkraftanlagen weniger Strom."
+    },
+    {
+      "term": "erzeugen",
+      "translated_term": "to generate/produce",
+      "example_usage": "Auch Solaranlagen erzeugen im Winter weniger Energie als im Sommer."
+    },
+    {
+      "term": "die Energiequelle",
+      "translated_term": "energy source",
+      "example_usage": "Diese Energiequellen sind jedoch teurer."
+    },
+    {
+      "term": "der Verbraucher",
+      "translated_term": "consumer",
+      "example_usage": "Verbraucher sollten auf ihren Stromverbrauch achten, um Kosten zu sparen."
+    },
+    {
+      "term": "der Verbrauch",
+      "translated_term": "consumption",
+      "example_usage": "Verbraucher sollten auf ihren Stromverbrauch achten, um Kosten zu sparen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Erneuerbare Energien",
+      "translated_name": "Renewable Energy"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/world/2025/10/09/89237.html"
+    }
+  ]
+}
