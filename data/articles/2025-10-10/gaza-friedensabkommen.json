@@ -1,0 +1,145 @@
+{
+  "title": "Friedensabkommen für Gaza bringt Hoffnung",
+  "translated_title": "Peace Agreement for Gaza Brings Hope",
+  "text": [
+    {
+      "text": "Am 9. Oktober 2025 wurde ein wichtiges Friedensabkommen für Gaza bekannt gegeben.",
+      "translated_text": "On October 9, 2025, an important peace agreement for Gaza was announced."
+    },
+    {
+      "text": "Der britische Premierminister Keir Starmer nannte es einen Moment der großen Erleichterung für die Welt.",
+      "translated_text": "British Prime Minister Keir Starmer called it a moment of great relief for the world."
+    },
+    {
+      "text": "Das Abkommen ist Teil eines Friedensplans, der von Präsident Trump vorgeschlagen wurde.",
+      "translated_text": "The agreement is part of a peace plan proposed by President Trump."
+    },
+    {
+      "text": "Die humanitäre Situation in Gaza ist sehr ernst.",
+      "translated_text": "The humanitarian situation in Gaza is very serious."
+    },
+    {
+      "text": "Etwa 2,1 Millionen Menschen leiden unter extremem Hunger.",
+      "translated_text": "About 2.1 million people suffer from extreme hunger."
+    },
+    {
+      "text": "Das Gesundheitssystem ist zusammengebrochen und die wichtige Infrastruktur ist zerstört.",
+      "translated_text": "The health system has collapsed and the critical infrastructure is destroyed."
+    },
+    {
+      "text": "Mit dem neuen Abkommen beginnt eine Waffenruhe innerhalb von 24 Stunden.",
+      "translated_text": "With the new agreement, a ceasefire begins within 24 hours."
+    },
+    {
+      "text": "Israelische Truppen werden sich aus Gaza zurückziehen.",
+      "translated_text": "Israeli troops will withdraw from Gaza."
+    },
+    {
+      "text": "Die Geiseln sollen innerhalb von 72 Stunden freigelassen werden.",
+      "translated_text": "The hostages are to be released within 72 hours."
+    },
+    {
+      "text": "Viele Menschen hoffen jetzt auf ein Ende des Konflikts, der zwei Jahre gedauert hat.",
+      "translated_text": "Many people now hope for an end to the conflict that has lasted two years."
+    },
+    {
+      "text": "Die Familien der Geiseln und die Zivilbevölkerung in Gaza haben unvorstellbares Leid erlebt.",
+      "translated_text": "The families of the hostages and the civilian population in Gaza have experienced unimaginable suffering."
+    },
+    {
+      "text": "Das Rote Kreuz beschreibt die Lage als katastrophale humanitäre Krise.",
+      "translated_text": "The Red Cross describes the situation as a catastrophic humanitarian crisis."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Friedensabkommen",
+      "translated_term": "peace agreement",
+      "example_usage": "Am 9. Oktober 2025 wurde ein wichtiges Friedensabkommen für Gaza bekannt gegeben."
+    },
+    {
+      "term": "die Erleichterung",
+      "translated_term": "relief",
+      "example_usage": "Der britische Premierminister Keir Starmer nannte es einen Moment der großen Erleichterung für die Welt."
+    },
+    {
+      "term": "vorschlagen",
+      "translated_term": "to propose",
+      "example_usage": "Das Abkommen ist Teil eines Friedensplans, der von Präsident Trump vorgeschlagen wurde."
+    },
+    {
+      "term": "die humanitäre Situation",
+      "translated_term": "humanitarian situation",
+      "example_usage": "Die humanitäre Situation in Gaza ist sehr ernst."
+    },
+    {
+      "term": "leiden unter",
+      "translated_term": "to suffer from",
+      "example_usage": "Etwa 2,1 Millionen Menschen leiden unter extremem Hunger."
+    },
+    {
+      "term": "das Gesundheitssystem",
+      "translated_term": "health system",
+      "example_usage": "Das Gesundheitssystem ist zusammengebrochen und die wichtige Infrastruktur ist zerstört."
+    },
+    {
+      "term": "zusammenbrechen",
+      "translated_term": "to collapse",
+      "example_usage": "Das Gesundheitssystem ist zusammengebrochen und die wichtige Infrastruktur ist zerstört."
+    },
+    {
+      "term": "die Waffenruhe",
+      "translated_term": "ceasefire",
+      "example_usage": "Mit dem neuen Abkommen beginnt eine Waffenruhe innerhalb von 24 Stunden."
+    },
+    {
+      "term": "sich zurückziehen",
+      "translated_term": "to withdraw",
+      "example_usage": "Israelische Truppen werden sich aus Gaza zurückziehen."
+    },
+    {
+      "term": "die Geisel",
+      "translated_term": "hostage",
+      "example_usage": "Die Geiseln sollen innerhalb von 72 Stunden freigelassen werden."
+    },
+    {
+      "term": "freilassen",
+      "translated_term": "to release",
+      "example_usage": "Die Geiseln sollen innerhalb von 72 Stunden freigelassen werden."
+    },
+    {
+      "term": "das Leid",
+      "translated_term": "suffering",
+      "example_usage": "Die Familien der Geiseln und die Zivilbevölkerung in Gaza haben unvorstellbares Leid erlebt."
+    },
+    {
+      "term": "die Krise",
+      "translated_term": "crisis",
+      "example_usage": "Das Rote Kreuz beschreibt die Lage als katastrophale humanitäre Krise."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Gaza-Konflikt",
+      "translated_name": "Gaza Conflict"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Menschenrechte",
+      "translated_name": "Human Rights"
+    }
+  ],
+  "sources": [
+    {
+      "name": "GOV.UK",
+      "link_url": "https://www.gov.uk/government/news/pm-statement-on-gaza-peace-deal-9-october-2025"
+    },
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/10/3/uk-police-urge-cancellation-of-palestine-protest-after-manchester-attack"
+    }
+  ]
+}

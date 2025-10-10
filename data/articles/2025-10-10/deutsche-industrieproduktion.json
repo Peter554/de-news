@@ -1,0 +1,145 @@
+{
+  "title": "Deutsche Industrieproduktion fällt stark",
+  "translated_title": "German Industrial Production Falls Sharply",
+  "text": [
+    {
+      "text": "Die deutsche Industrieproduktion ist im August 2025 um 4,3 Prozent gesunken.",
+      "translated_text": "German industrial production fell by 4.3 percent in August 2025."
+    },
+    {
+      "text": "Das ist der stärkste Rückgang seit Anfang 2022.",
+      "translated_text": "This is the strongest decline since early 2022."
+    },
+    {
+      "text": "Diese Zahlen wurden vom Statistischen Bundesamt veröffentlicht.",
+      "translated_text": "These figures were published by the Federal Statistical Office."
+    },
+    {
+      "text": "Die Automobilindustrie hatte besonders große Probleme.",
+      "translated_text": "The automotive industry had particularly big problems."
+    },
+    {
+      "text": "Die Produktion in dieser Branche ist um 18,5 Prozent gefallen.",
+      "translated_text": "Production in this sector fell by 18.5 percent."
+    },
+    {
+      "text": "Ein Grund dafür sind die jährlichen Betriebsferien und Produktionswechsel.",
+      "translated_text": "One reason for this is the annual plant closures and production changeovers."
+    },
+    {
+      "text": "Die deutschen Wirtschaftsexperten sind besorgt.",
+      "translated_text": "German economic experts are worried."
+    },
+    {
+      "text": "Es besteht die Gefahr einer technischen Rezession.",
+      "translated_text": "There is a risk of a technical recession."
+    },
+    {
+      "text": "Deutschland kämpft schon seit zwei Jahren mit wirtschaftlichen Schwierigkeiten.",
+      "translated_text": "Germany has been struggling with economic difficulties for two years."
+    },
+    {
+      "text": "Hohe Energiepreise und starke internationale Konkurrenz machen Probleme.",
+      "translated_text": "High energy prices and strong international competition are causing problems."
+    },
+    {
+      "text": "Im Sommer kamen auch neue US-Zölle dazu.",
+      "translated_text": "New US tariffs were also added in summer."
+    },
+    {
+      "text": "Diese Zölle liegen bei 15 Prozent für die meisten Produkte aus der EU.",
+      "translated_text": "These tariffs are at 15 percent for most products from the EU."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Industrieproduktion",
+      "translated_term": "industrial production",
+      "example_usage": "Die deutsche Industrieproduktion ist im August 2025 um 4,3 Prozent gesunken."
+    },
+    {
+      "term": "sinken",
+      "translated_term": "to fall, to decline",
+      "example_usage": "Die deutsche Industrieproduktion ist im August 2025 um 4,3 Prozent gesunken."
+    },
+    {
+      "term": "der Rückgang",
+      "translated_term": "decline",
+      "example_usage": "Das ist der stärkste Rückgang seit Anfang 2022."
+    },
+    {
+      "term": "das Statistische Bundesamt",
+      "translated_term": "Federal Statistical Office",
+      "example_usage": "Diese Zahlen wurden vom Statistischen Bundesamt veröffentlicht."
+    },
+    {
+      "term": "veröffentlichen",
+      "translated_term": "to publish",
+      "example_usage": "Diese Zahlen wurden vom Statistischen Bundesamt veröffentlicht."
+    },
+    {
+      "term": "die Automobilindustrie",
+      "translated_term": "automotive industry",
+      "example_usage": "Die Automobilindustrie hatte besonders große Probleme."
+    },
+    {
+      "term": "die Branche",
+      "translated_term": "sector, industry",
+      "example_usage": "Die Produktion in dieser Branche ist um 18,5 Prozent gefallen."
+    },
+    {
+      "term": "die Betriebsferien",
+      "translated_term": "plant closures, company holidays",
+      "example_usage": "Ein Grund dafür sind die jährlichen Betriebsferien und Produktionswechsel."
+    },
+    {
+      "term": "besorgt",
+      "translated_term": "worried, concerned",
+      "example_usage": "Die deutschen Wirtschaftsexperten sind besorgt."
+    },
+    {
+      "term": "die Rezession",
+      "translated_term": "recession",
+      "example_usage": "Es besteht die Gefahr einer technischen Rezession."
+    },
+    {
+      "term": "kämpfen mit",
+      "translated_term": "to struggle with",
+      "example_usage": "Deutschland kämpft schon seit zwei Jahren mit wirtschaftlichen Schwierigkeiten."
+    },
+    {
+      "term": "die Konkurrenz",
+      "translated_term": "competition",
+      "example_usage": "Hohe Energiepreise und starke internationale Konkurrenz machen Probleme."
+    },
+    {
+      "term": "der Zoll",
+      "translated_term": "tariff, customs duty",
+      "example_usage": "Im Sommer kamen auch neue US-Zölle dazu."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2025-10-08/german-industrial-slump-deepens-with-shutdown-in-auto-production"
+    },
+    {
+      "name": "Investing.com",
+      "link_url": "https://www.investing.com/news/economic-indicators/german-industrial-output-falls-more-than-expected-in-august-4276217"
+    }
+  ]
+}
