@@ -1,0 +1,145 @@
+{
+  "title": "Weltgesundheitsgipfel in Berlin beginnt bald",
+  "translated_title": "World Health Summit in Berlin Begins Soon",
+  "text": [
+    {
+      "text": "Der Weltgesundheitsgipfel 2025 findet vom 12. bis 14. Oktober in Berlin statt.",
+      "translated_text": "The World Health Summit 2025 takes place from October 12 to 14 in Berlin."
+    },
+    {
+      "text": "Das Thema des Gipfels ist 'Verantwortung für Gesundheit in einer fragmentierten Welt'.",
+      "translated_text": "The theme of the summit is 'Taking Responsibility for Health in a Fragmenting World'."
+    },
+    {
+      "text": "Über 3.000 hochrangige Teilnehmer aus mehr als 100 Ländern kommen zusammen.",
+      "translated_text": "Over 3,000 high-ranking participants from more than 100 countries come together."
+    },
+    {
+      "text": "Die Veranstaltung findet zum ersten Mal in einem neuen Veranstaltungsort statt.",
+      "translated_text": "The event takes place at a new venue for the first time."
+    },
+    {
+      "text": "Es gibt über 70 Diskussionssitzungen mit etwa 400 Rednern.",
+      "translated_text": "There are over 70 discussion sessions with about 400 speakers."
+    },
+    {
+      "text": "Die Teilnehmer kommen aus Wissenschaft, Politik, Wirtschaft und Zivilgesellschaft.",
+      "translated_text": "The participants come from academia, politics, business and civil society."
+    },
+    {
+      "text": "Wichtige Themen sind künstliche Intelligenz, Klimakrise und Frieden.",
+      "translated_text": "Important topics are artificial intelligence, climate crisis and peace."
+    },
+    {
+      "text": "Auch die Gesundheit von Frauen und Kindern wird besprochen.",
+      "translated_text": "The health of women and children is also discussed."
+    },
+    {
+      "text": "Der Gipfel steht unter der Schirmherrschaft des deutschen Bundeskanzlers und des französischen Präsidenten.",
+      "translated_text": "The summit is under the patronage of the German Chancellor and the French President."
+    },
+    {
+      "text": "Der internationale Ko-Präsident 2025 ist Balvir S. Tomar aus Indien.",
+      "translated_text": "The international Co-President 2025 is Balvir S. Tomar from India."
+    },
+    {
+      "text": "Die Experten diskutieren über die drängendsten globalen Gesundheitsprobleme.",
+      "translated_text": "The experts discuss the most pressing global health problems."
+    },
+    {
+      "text": "Menschen können auch online an dem Gipfel teilnehmen.",
+      "translated_text": "People can also participate in the summit online."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Weltgesundheitsgipfel",
+      "translated_term": "World Health Summit",
+      "example_usage": "Der Weltgesundheitsgipfel 2025 findet vom 12. bis 14. Oktober in Berlin statt."
+    },
+    {
+      "term": "stattfinden",
+      "translated_term": "to take place",
+      "example_usage": "Der Weltgesundheitsgipfel 2025 findet vom 12. bis 14. Oktober in Berlin statt."
+    },
+    {
+      "term": "die Verantwortung",
+      "translated_term": "responsibility",
+      "example_usage": "Das Thema des Gipfels ist 'Verantwortung für Gesundheit in einer fragmentierten Welt'."
+    },
+    {
+      "term": "hochrangig",
+      "translated_term": "high-ranking",
+      "example_usage": "Über 3.000 hochrangige Teilnehmer aus mehr als 100 Ländern kommen zusammen."
+    },
+    {
+      "term": "der Veranstaltungsort",
+      "translated_term": "venue, location",
+      "example_usage": "Die Veranstaltung findet zum ersten Mal in einem neuen Veranstaltungsort statt."
+    },
+    {
+      "term": "die Sitzung",
+      "translated_term": "session, meeting",
+      "example_usage": "Es gibt über 70 Diskussionssitzungen mit etwa 400 Rednern."
+    },
+    {
+      "term": "der Redner",
+      "translated_term": "speaker",
+      "example_usage": "Es gibt über 70 Diskussionssitzungen mit etwa 400 Rednern."
+    },
+    {
+      "term": "die Zivilgesellschaft",
+      "translated_term": "civil society",
+      "example_usage": "Die Teilnehmer kommen aus Wissenschaft, Politik, Wirtschaft und Zivilgesellschaft."
+    },
+    {
+      "term": "künstliche Intelligenz",
+      "translated_term": "artificial intelligence",
+      "example_usage": "Wichtige Themen sind künstliche Intelligenz, Klimakrise und Frieden."
+    },
+    {
+      "term": "besprechen",
+      "translated_term": "to discuss",
+      "example_usage": "Auch die Gesundheit von Frauen und Kindern wird besprochen."
+    },
+    {
+      "term": "die Schirmherrschaft",
+      "translated_term": "patronage, sponsorship",
+      "example_usage": "Der Gipfel steht unter der Schirmherrschaft des deutschen Bundeskanzlers und des französischen Präsidenten."
+    },
+    {
+      "term": "drängend",
+      "translated_term": "pressing, urgent",
+      "example_usage": "Die Experten diskutieren über die drängendsten globalen Gesundheitsprobleme."
+    },
+    {
+      "term": "teilnehmen an",
+      "translated_term": "to participate in",
+      "example_usage": "Menschen können auch online an dem Gipfel teilnehmen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "World Health Summit",
+      "link_url": "https://www.worldhealthsummit.org/events/annual-whs/2025"
+    },
+    {
+      "name": "WHO PMNCH",
+      "link_url": "https://pmnch.who.int/news-and-events/events/item/2025/10/12/default-calendar/world-health-summit-2025"
+    }
+  ]
+}
