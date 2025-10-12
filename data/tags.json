@@ -4,6 +4,10 @@
     "translated_name": "Antisemitism"
   },
   {
+    "name": "Arbeitspolitik",
+    "translated_name": "Labor Policy"
+  },
+  {
     "name": "Apple",
     "translated_name": "Apple"
   },
@@ -104,16 +108,20 @@
     "translated_name": "Public Service"
   },
   {
-    "name": "Regierungskrise",
-    "translated_name": "Government Crisis"
-  },
-  {
     "name": "Öffentlicher Verkehr",
     "translated_name": "Public Transport"
   },
   {
     "name": "Proteste",
     "translated_name": "Protests"
+  },
+  {
+    "name": "Regierungskrise",
+    "translated_name": "Government Crisis"
+  },
+  {
+    "name": "Reisen",
+    "translated_name": "Travel"
   },
   {
     "name": "Skandal",
@@ -168,12 +176,12 @@
     "translated_name": "US-UK Relations"
   },
   {
-    "name": "Vereinte Nationen",
-    "translated_name": "United Nations"
+    "name": "Veranstaltungen",
+    "translated_name": "Events"
   },
   {
-    "name": "Wissenschaft",
-    "translated_name": "Science"
+    "name": "Vereinte Nationen",
+    "translated_name": "United Nations"
   },
   {
     "name": "Wahlkampf",
@@ -188,11 +196,15 @@
     "translated_name": "Weather"
   },
   {
-    "name": "Wohnungskrise",
-    "translated_name": "Housing Crisis"
-  },
-  {
     "name": "Wirtschaftspolitik",
     "translated_name": "Economic Policy"
+  },
+  {
+    "name": "Wissenschaft",
+    "translated_name": "Science"
+  },
+  {
+    "name": "Wohnungskrise",
+    "translated_name": "Housing Crisis"
   }
 ]
