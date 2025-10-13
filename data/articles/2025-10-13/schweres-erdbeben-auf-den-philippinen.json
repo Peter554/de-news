@@ -1,0 +1,147 @@
+{
+  "title": "Schweres Erdbeben auf den Philippinen",
+  "translated_title": "Severe Earthquake in the Philippines",
+  "text": [
+    {
+      "text": "Am 10. Oktober 2025 haben zwei starke Erdbeben die Philippinen erschüttert.",
+      "translated_text": "On October 10, 2025, two strong earthquakes shook the Philippines."
+    },
+    {
+      "text": "Das erste Beben hatte eine Stärke von 7,4 auf der Richterskala.",
+      "translated_text": "The first quake had a magnitude of 7.4 on the Richter scale."
+    },
+    {
+      "text": "Das zweite Beben folgte kurz danach mit einer Stärke von 6,7.",
+      "translated_text": "The second quake followed shortly after with a magnitude of 6.7."
+    },
+    {
+      "text": "Das Epizentrum lag etwa 20 Kilometer vor der Küste der Provinz Davao Oriental auf der Insel Mindanao.",
+      "translated_text": "The epicenter was located about 20 kilometers off the coast of Davao Oriental province on the island of Mindanao."
+    },
+    {
+      "text": "Mindestens zehn Menschen starben bei der Naturkatastrophe.",
+      "translated_text": "At least ten people died in the natural disaster."
+    },
+    {
+      "text": "Über 1.000 Menschen wurden verletzt und mussten im Krankenhaus behandelt werden.",
+      "translated_text": "Over 1,000 people were injured and had to be treated in hospital."
+    },
+    {
+      "text": "Mehr als 8.000 Menschen sind von den Erdbeben betroffen.",
+      "translated_text": "More than 8,000 people are affected by the earthquakes."
+    },
+    {
+      "text": "Nach den Hauptbeben wurden über 1.100 Nachbeben registriert.",
+      "translated_text": "After the main quakes, over 1,100 aftershocks were registered."
+    },
+    {
+      "text": "Die Beben lösten Tsunami-Warnungen für sieben Provinzen und Teile Indonesiens aus.",
+      "translated_text": "The quakes triggered tsunami warnings for seven provinces and parts of Indonesia."
+    },
+    {
+      "text": "In der Stadt Mandaue mussten die Schulen für eine Woche schließen, weil 74 Schüler psychologische Probleme nach dem Erdbeben hatten.",
+      "translated_text": "In the city of Mandaue, schools had to close for a week because 74 students had psychological problems after the earthquake."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Erdbeben",
+      "translated_term": "earthquake",
+      "example_usage": "Am 10. Oktober 2025 haben zwei starke Erdbeben die Philippinen erschüttert."
+    },
+    {
+      "term": "erschüttern",
+      "translated_term": "to shake",
+      "example_usage": "Am 10. Oktober 2025 haben zwei starke Erdbeben die Philippinen erschüttert."
+    },
+    {
+      "term": "das Beben",
+      "translated_term": "quake, tremor",
+      "example_usage": "Das erste Beben hatte eine Stärke von 7,4 auf der Richterskala."
+    },
+    {
+      "term": "die Stärke",
+      "translated_term": "magnitude, strength",
+      "example_usage": "Das erste Beben hatte eine Stärke von 7,4 auf der Richterskala."
+    },
+    {
+      "term": "die Richterskala",
+      "translated_term": "Richter scale",
+      "example_usage": "Das erste Beben hatte eine Stärke von 7,4 auf der Richterskala."
+    },
+    {
+      "term": "das Epizentrum",
+      "translated_term": "epicenter",
+      "example_usage": "Das Epizentrum lag etwa 20 Kilometer vor der Küste der Provinz Davao Oriental."
+    },
+    {
+      "term": "die Küste",
+      "translated_term": "coast",
+      "example_usage": "Das Epizentrum lag etwa 20 Kilometer vor der Küste der Provinz Davao Oriental."
+    },
+    {
+      "term": "die Naturkatastrophe",
+      "translated_term": "natural disaster",
+      "example_usage": "Mindestens zehn Menschen starben bei der Naturkatastrophe."
+    },
+    {
+      "term": "verletzen",
+      "translated_term": "to injure",
+      "example_usage": "Über 1.000 Menschen wurden verletzt und mussten im Krankenhaus behandelt werden."
+    },
+    {
+      "term": "behandeln",
+      "translated_term": "to treat",
+      "example_usage": "Über 1.000 Menschen wurden verletzt und mussten im Krankenhaus behandelt werden."
+    },
+    {
+      "term": "betroffen sein",
+      "translated_term": "to be affected",
+      "example_usage": "Mehr als 8.000 Menschen sind von den Erdbeben betroffen."
+    },
+    {
+      "term": "das Nachbeben",
+      "translated_term": "aftershock",
+      "example_usage": "Nach den Hauptbeben wurden über 1.100 Nachbeben registriert."
+    },
+    {
+      "term": "auslösen",
+      "translated_term": "to trigger",
+      "example_usage": "Die Beben lösten Tsunami-Warnungen für sieben Provinzen aus."
+    },
+    {
+      "term": "die Tsunami-Warnung",
+      "translated_term": "tsunami warning",
+      "example_usage": "Die Beben lösten Tsunami-Warnungen für sieben Provinzen und Teile Indonesiens aus."
+    },
+    {
+      "term": "psychologisch",
+      "translated_term": "psychological",
+      "example_usage": "In der Stadt Mandaue mussten die Schulen für eine Woche schließen, weil 74 Schüler psychologische Probleme nach dem Erdbeben hatten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    },
+    {
+      "name": "Asien",
+      "translated_name": "Asia"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/10/10/strong-magnitude-7-6-earthquake-strikes-off-southern-philippines"
+    },
+    {
+      "name": "CNN",
+      "link_url": "https://www.cnn.com/2025/10/09/asia/philippines-earthquake-mindanao-intl-hnk"
+    }
+  ]
+}

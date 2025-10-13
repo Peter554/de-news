@@ -1,0 +1,147 @@
+{
+  "title": "Terrorverdächtige in Berlin festgenommen",
+  "translated_title": "Terror Suspects Arrested in Berlin",
+  "text": [
+    {
+      "text": "Die deutsche Polizei hat am 1. Oktober 2025 drei Männer in Berlin festgenommen.",
+      "translated_text": "German police arrested three men in Berlin on October 1, 2025."
+    },
+    {
+      "text": "Die Verdächtigen sollen Mitglieder der Hamas sein und Anschläge auf jüdische Einrichtungen geplant haben.",
+      "translated_text": "The suspects are alleged to be members of Hamas and to have planned attacks on Jewish institutions."
+    },
+    {
+      "text": "Bei der Festnahme entdeckten die Ermittler mehrere Waffen, darunter ein Sturmgewehr vom Typ AK-47 und mehrere Pistolen.",
+      "translated_text": "During the arrest, investigators discovered several weapons, including an AK-47 assault rifle and several pistols."
+    },
+    {
+      "text": "Auch eine große Menge Munition wurde sichergestellt.",
+      "translated_text": "A large quantity of ammunition was also seized."
+    },
+    {
+      "text": "Die drei Männer sind zwischen 30 und 40 Jahre alt.",
+      "translated_text": "The three men are between 30 and 40 years old."
+    },
+    {
+      "text": "Zwei von ihnen haben die deutsche Staatsbürgerschaft, einer wurde im Libanon geboren.",
+      "translated_text": "Two of them have German citizenship, one was born in Lebanon."
+    },
+    {
+      "text": "Sie werden beschuldigt, Mitglieder einer ausländischen terroristischen Organisation zu sein.",
+      "translated_text": "They are accused of being members of a foreign terrorist organization."
+    },
+    {
+      "text": "Außerdem werfen die Behörden ihnen vor, staatsfeindliche Gewalt vorbereitet zu haben.",
+      "translated_text": "In addition, the authorities accuse them of having prepared violence against the state."
+    },
+    {
+      "text": "Die Polizei konnte die Männer bei der Übergabe von Waffen verhaften.",
+      "translated_text": "The police were able to arrest the men during a weapons handover."
+    },
+    {
+      "text": "Die Festnahmen erfolgten etwa eine Woche vor dem zweiten Jahrestag des Hamas-Angriffs auf Israel vom 7. Oktober 2023.",
+      "translated_text": "The arrests took place about a week before the second anniversary of the Hamas attack on Israel on October 7, 2023."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Terrorverdächtige",
+      "translated_term": "terror suspect",
+      "example_usage": "Die deutsche Polizei hat am 1. Oktober 2025 drei Männer in Berlin festgenommen."
+    },
+    {
+      "term": "festnehmen",
+      "translated_term": "to arrest",
+      "example_usage": "Die deutsche Polizei hat am 1. Oktober 2025 drei Männer in Berlin festgenommen."
+    },
+    {
+      "term": "der Verdächtige",
+      "translated_term": "suspect",
+      "example_usage": "Die Verdächtigen sollen Mitglieder der Hamas sein."
+    },
+    {
+      "term": "die Einrichtung",
+      "translated_term": "institution, facility",
+      "example_usage": "Die Verdächtigen sollen Anschläge auf jüdische Einrichtungen geplant haben."
+    },
+    {
+      "term": "der Anschlag",
+      "translated_term": "attack",
+      "example_usage": "Die Verdächtigen sollen Anschläge auf jüdische Einrichtungen geplant haben."
+    },
+    {
+      "term": "der Ermittler",
+      "translated_term": "investigator",
+      "example_usage": "Bei der Festnahme entdeckten die Ermittler mehrere Waffen."
+    },
+    {
+      "term": "das Sturmgewehr",
+      "translated_term": "assault rifle",
+      "example_usage": "Bei der Festnahme entdeckten die Ermittler mehrere Waffen, darunter ein Sturmgewehr vom Typ AK-47."
+    },
+    {
+      "term": "die Munition",
+      "translated_term": "ammunition",
+      "example_usage": "Auch eine große Menge Munition wurde sichergestellt."
+    },
+    {
+      "term": "sicherstellen",
+      "translated_term": "to seize, to secure",
+      "example_usage": "Auch eine große Menge Munition wurde sichergestellt."
+    },
+    {
+      "term": "die Staatsbürgerschaft",
+      "translated_term": "citizenship",
+      "example_usage": "Zwei von ihnen haben die deutsche Staatsbürgerschaft."
+    },
+    {
+      "term": "beschuldigen",
+      "translated_term": "to accuse",
+      "example_usage": "Sie werden beschuldigt, Mitglieder einer ausländischen terroristischen Organisation zu sein."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "authority",
+      "example_usage": "Außerdem werfen die Behörden ihnen vor, staatsfeindliche Gewalt vorbereitet zu haben."
+    },
+    {
+      "term": "vorwerfen",
+      "translated_term": "to accuse, to charge with",
+      "example_usage": "Außerdem werfen die Behörden ihnen vor, staatsfeindliche Gewalt vorbereitet zu haben."
+    },
+    {
+      "term": "die Übergabe",
+      "translated_term": "handover, transfer",
+      "example_usage": "Die Polizei konnte die Männer bei der Übergabe von Waffen verhaften."
+    },
+    {
+      "term": "der Jahrestag",
+      "translated_term": "anniversary",
+      "example_usage": "Die Festnahmen erfolgten etwa eine Woche vor dem zweiten Jahrestag des Hamas-Angriffs auf Israel."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Terrorismus",
+      "translated_name": "Terrorism"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/10/1/germany-arrests-three-men-suspected-of-targeting-jewish-institutions"
+    },
+    {
+      "name": "CNN",
+      "link_url": "https://www.cnn.com/2025/10/01/europe/hamas-germany-arrests-israel-latam-intl"
+    }
+  ]
+}
