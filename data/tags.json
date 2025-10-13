@@ -40,6 +40,10 @@
     "translated_name": "Germany"
   },
   {
+    "name": "Einwanderungspolitik",
+    "translated_name": "Immigration Policy"
+  },
+  {
     "name": "Erneuerbare Energien",
     "translated_name": "Renewable Energy"
   },
@@ -70,6 +74,10 @@
   {
     "name": "Großbritannien",
     "translated_name": "Great Britain"
+  },
+  {
+    "name": "Internationale Nachrichten",
+    "translated_name": "International News"
   },
   {
     "name": "Internationale Politik",
