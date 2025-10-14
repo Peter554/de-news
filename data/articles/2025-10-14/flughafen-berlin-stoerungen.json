@@ -1,0 +1,131 @@
+{
+  "title": "Massive Flugverspätungen am Flughafen Berlin Brandenburg",
+  "translated_title": "Massive flight delays at Berlin Brandenburg Airport",
+  "text": [
+    {
+      "text": "Anfang Oktober gab es große Probleme am Flughafen Berlin Brandenburg.",
+      "translated_text": "In early October, there were major problems at Berlin Brandenburg Airport."
+    },
+    {
+      "text": "Mehrere Fluggesellschaften mussten Flüge streichen oder verschieben.",
+      "translated_text": "Several airlines had to cancel or postpone flights."
+    },
+    {
+      "text": "Air Baltic, Air France und British Airways waren betroffen.",
+      "translated_text": "Air Baltic, Air France, and British Airways were affected."
+    },
+    {
+      "text": "Insgesamt gab es 152 Verspätungen am Berliner Flughafen.",
+      "translated_text": "In total, there were 152 delays at the Berlin airport."
+    },
+    {
+      "text": "Zwei Flüge wurden komplett gestrichen.",
+      "translated_text": "Two flights were completely canceled."
+    },
+    {
+      "text": "Auch die Flughäfen in München und Stuttgart hatten Probleme.",
+      "translated_text": "The airports in Munich and Stuttgart also had problems."
+    },
+    {
+      "text": "In ganz Deutschland gab es 374 Verspätungen und fünf Streichungen.",
+      "translated_text": "Throughout Germany, there were 374 delays and five cancellations."
+    },
+    {
+      "text": "Viele Passagiere waren frustriert und mussten lange warten.",
+      "translated_text": "Many passengers were frustrated and had to wait a long time."
+    },
+    {
+      "text": "Die Fluggesellschaften hatten logistische Schwierigkeiten.",
+      "translated_text": "The airlines had logistical difficulties."
+    },
+    {
+      "text": "Einige Reisende verpassten wichtige Termine oder Anschlussflüge.",
+      "translated_text": "Some travelers missed important appointments or connecting flights."
+    },
+    {
+      "text": "Die Flughafenbehörden arbeiteten daran, die Situation zu verbessern.",
+      "translated_text": "Airport authorities worked to improve the situation."
+    },
+    {
+      "text": "Experten empfehlen Reisenden, früh zum Flughafen zu kommen und flexible Pläne zu haben.",
+      "translated_text": "Experts recommend travelers arrive early at the airport and have flexible plans."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Verspätung",
+      "translated_term": "delay",
+      "example_usage": "Insgesamt gab es 152 Verspätungen am Berliner Flughafen."
+    },
+    {
+      "term": "der Flughafen",
+      "translated_term": "airport",
+      "example_usage": "Anfang Oktober gab es große Probleme am Flughafen Berlin Brandenburg."
+    },
+    {
+      "term": "die Fluggesellschaft",
+      "translated_term": "airline",
+      "example_usage": "Mehrere Fluggesellschaften mussten Flüge streichen oder verschieben."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel",
+      "example_usage": "Mehrere Fluggesellschaften mussten Flüge streichen oder verschieben."
+    },
+    {
+      "term": "verschieben",
+      "translated_term": "to postpone, to reschedule",
+      "example_usage": "Mehrere Fluggesellschaften mussten Flüge streichen oder verschieben."
+    },
+    {
+      "term": "betroffen",
+      "translated_term": "affected",
+      "example_usage": "Air Baltic, Air France und British Airways waren betroffen."
+    },
+    {
+      "term": "der Passagier",
+      "translated_term": "passenger",
+      "example_usage": "Viele Passagiere waren frustriert und mussten lange warten."
+    },
+    {
+      "term": "logistisch",
+      "translated_term": "logistical",
+      "example_usage": "Die Fluggesellschaften hatten logistische Schwierigkeiten."
+    },
+    {
+      "term": "verpassen",
+      "translated_term": "to miss",
+      "example_usage": "Einige Reisende verpassten wichtige Termine oder Anschlussflüge."
+    },
+    {
+      "term": "der Anschlussflug",
+      "translated_term": "connecting flight",
+      "example_usage": "Einige Reisende verpassten wichtige Termine oder Anschlussflüge."
+    },
+    {
+      "term": "verbessern",
+      "translated_term": "to improve",
+      "example_usage": "Die Flughafenbehörden arbeiteten daran, die Situation zu verbessern."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Reisen",
+      "translated_name": "Travel"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Travel And Tour World",
+      "link_url": "https://www.travelandtourworld.com/news/article/germany-amid-travel-conundrum-as-air-baltic-air-france-british-airways-and-more-suspends-5-flights-with-374-delays-stranding-passengers-across-berlin-brandenburg-munich-and-stuttgart-airport-new-updat/"
+    }
+  ]
+}

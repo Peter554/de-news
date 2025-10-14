@@ -1,0 +1,135 @@
+{
+  "title": "Drei Hamas-Verdächtige in Berlin festgenommen",
+  "translated_title": "Three Hamas suspects arrested in Berlin",
+  "text": [
+    {
+      "text": "Am 1. Oktober haben deutsche Behörden drei Männer in Berlin festgenommen.",
+      "translated_text": "On October 1, German authorities arrested three men in Berlin."
+    },
+    {
+      "text": "Die Männer werden verdächtigt, Mitglieder der Hamas zu sein.",
+      "translated_text": "The men are suspected of being members of Hamas."
+    },
+    {
+      "text": "Sie sollen geplant haben, jüdische Einrichtungen in Deutschland anzugreifen.",
+      "translated_text": "They allegedly planned to attack Jewish institutions in Germany."
+    },
+    {
+      "text": "Die Verdächtigen sind 36, 43 und 44 Jahre alt.",
+      "translated_text": "The suspects are 36, 43, and 44 years old."
+    },
+    {
+      "text": "Zwei von ihnen haben die deutsche Staatsbürgerschaft.",
+      "translated_text": "Two of them have German citizenship."
+    },
+    {
+      "text": "Seit dem Sommer 2025 sollen die Männer Waffen und Munition beschafft haben.",
+      "translated_text": "Since summer 2025, the men allegedly procured weapons and ammunition."
+    },
+    {
+      "text": "Bei den Festnahmen fanden die Ermittler mehrere Waffen.",
+      "translated_text": "During the arrests, investigators found several weapons."
+    },
+    {
+      "text": "Darunter war ein AK-47 Sturmgewehr und mehrere Pistolen.",
+      "translated_text": "Among them was an AK-47 assault rifle and several pistols."
+    },
+    {
+      "text": "Die Anti-Terror-Einheiten beobachteten die Verdächtigen bei einer Waffenübergabe.",
+      "translated_text": "Anti-terrorism units observed the suspects during a weapons handover."
+    },
+    {
+      "text": "Der israelische Geheimdienst Mossad hat bei den Ermittlungen geholfen.",
+      "translated_text": "The Israeli intelligence service Mossad helped with the investigation."
+    },
+    {
+      "text": "Hamas selbst sagt, dass es keine Verbindung zu den drei Männern hat.",
+      "translated_text": "Hamas itself says it has no connection to the three men."
+    },
+    {
+      "text": "Diese Festnahmen zeigen, wie wichtig die Sicherheit jüdischer Gemeinden in Deutschland ist.",
+      "translated_text": "These arrests show how important the security of Jewish communities in Germany is."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "festnehmen",
+      "translated_term": "to arrest",
+      "example_usage": "Am 1. Oktober haben deutsche Behörden drei Männer in Berlin festgenommen."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "authority",
+      "example_usage": "Am 1. Oktober haben deutsche Behörden drei Männer in Berlin festgenommen."
+    },
+    {
+      "term": "verdächtigen",
+      "translated_term": "to suspect",
+      "example_usage": "Die Männer werden verdächtigt, Mitglieder der Hamas zu sein."
+    },
+    {
+      "term": "die Einrichtung",
+      "translated_term": "institution, facility",
+      "example_usage": "Sie sollen geplant haben, jüdische Einrichtungen in Deutschland anzugreifen."
+    },
+    {
+      "term": "angreifen",
+      "translated_term": "to attack",
+      "example_usage": "Sie sollen geplant haben, jüdische Einrichtungen in Deutschland anzugreifen."
+    },
+    {
+      "term": "die Staatsbürgerschaft",
+      "translated_term": "citizenship",
+      "example_usage": "Zwei von ihnen haben die deutsche Staatsbürgerschaft."
+    },
+    {
+      "term": "beschaffen",
+      "translated_term": "to procure, to obtain",
+      "example_usage": "Seit dem Sommer 2025 sollen die Männer Waffen und Munition beschafft haben."
+    },
+    {
+      "term": "die Waffe",
+      "translated_term": "weapon",
+      "example_usage": "Bei den Festnahmen fanden die Ermittler mehrere Waffen."
+    },
+    {
+      "term": "das Sturmgewehr",
+      "translated_term": "assault rifle",
+      "example_usage": "Darunter war ein AK-47 Sturmgewehr und mehrere Pistolen."
+    },
+    {
+      "term": "der Geheimdienst",
+      "translated_term": "intelligence service",
+      "example_usage": "Der israelische Geheimdienst Mossad hat bei den Ermittlungen geholfen."
+    },
+    {
+      "term": "die Verbindung",
+      "translated_term": "connection",
+      "example_usage": "Hamas selbst sagt, dass es keine Verbindung zu den drei Männern hat."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Terrorismus",
+      "translated_name": "Terrorism"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/10/1/germany-arrests-three-men-suspected-of-targeting-jewish-institutions"
+    },
+    {
+      "name": "The Washington Post",
+      "link_url": "https://www.washingtonpost.com/world/2025/10/01/germany-arrests-three-suspected-hamas-members-plot-attack-jews/"
+    }
+  ]
+}

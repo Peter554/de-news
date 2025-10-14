@@ -1,0 +1,139 @@
+{
+  "title": "Internationaler Strafgerichtshof verurteilt sudanesischen Milizführer",
+  "translated_title": "International Criminal Court convicts Sudanese militia leader",
+  "text": [
+    {
+      "text": "Der Internationale Strafgerichtshof in Den Haag hat einen wichtigen Schuldspruch verkündet.",
+      "translated_text": "The International Criminal Court in The Hague has announced an important conviction."
+    },
+    {
+      "text": "Am 6. Oktober wurde Ali Kushayb für schuldig befunden.",
+      "translated_text": "On October 6, Ali Kushayb was found guilty."
+    },
+    {
+      "text": "Er war ein Kommandeur der Janjaweed-Miliz im Sudan.",
+      "translated_text": "He was a commander of the Janjaweed militia in Sudan."
+    },
+    {
+      "text": "Das Gericht verurteilte ihn wegen Kriegsverbrechen und Verbrechen gegen die Menschlichkeit.",
+      "translated_text": "The court convicted him of war crimes and crimes against humanity."
+    },
+    {
+      "text": "Kushayb ist schuldig an 27 Anklagepunkten.",
+      "translated_text": "Kushayb is guilty on 27 counts."
+    },
+    {
+      "text": "Seine Verbrechen fanden zwischen August 2003 und März 2004 in Darfur statt.",
+      "translated_text": "His crimes took place between August 2003 and March 2004 in Darfur."
+    },
+    {
+      "text": "Er hat Morde, Vergewaltigungen und Folter begangen.",
+      "translated_text": "He committed murders, rapes, and torture."
+    },
+    {
+      "text": "Die Opfer gehörten hauptsächlich zu den Fur- und Masalit-Gemeinschaften.",
+      "translated_text": "The victims mainly belonged to the Fur and Masalit communities."
+    },
+    {
+      "text": "Dies ist die erste Verurteilung des ICC im Zusammenhang mit Darfur.",
+      "translated_text": "This is the first ICC conviction in connection with Darfur."
+    },
+    {
+      "text": "Es ist auch die erste ICC-Verurteilung wegen geschlechtsspezifischer Verfolgung.",
+      "translated_text": "It is also the first ICC conviction for gender-based persecution."
+    },
+    {
+      "text": "Das Strafmaß wird später festgelegt.",
+      "translated_text": "The sentence will be determined later."
+    },
+    {
+      "text": "Kushayb könnte eine lebenslange Haftstrafe bekommen.",
+      "translated_text": "Kushayb could receive a life sentence."
+    },
+    {
+      "text": "Menschenrechtsorganisationen begrüßen dieses historische Urteil.",
+      "translated_text": "Human rights organizations welcome this historic verdict."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Strafgerichtshof",
+      "translated_term": "criminal court",
+      "example_usage": "Der Internationale Strafgerichtshof in Den Haag hat einen wichtigen Schuldspruch verkündet."
+    },
+    {
+      "term": "der Schuldspruch",
+      "translated_term": "verdict of guilty, conviction",
+      "example_usage": "Der Internationale Strafgerichtshof in Den Haag hat einen wichtigen Schuldspruch verkündet."
+    },
+    {
+      "term": "verkünden",
+      "translated_term": "to announce, to proclaim",
+      "example_usage": "Der Internationale Strafgerichtshof in Den Haag hat einen wichtigen Schuldspruch verkündet."
+    },
+    {
+      "term": "die Miliz",
+      "translated_term": "militia",
+      "example_usage": "Er war ein Kommandeur der Janjaweed-Miliz im Sudan."
+    },
+    {
+      "term": "das Kriegsverbrechen",
+      "translated_term": "war crime",
+      "example_usage": "Das Gericht verurteilte ihn wegen Kriegsverbrechen und Verbrechen gegen die Menschlichkeit."
+    },
+    {
+      "term": "die Menschlichkeit",
+      "translated_term": "humanity",
+      "example_usage": "Das Gericht verurteilte ihn wegen Kriegsverbrechen und Verbrechen gegen die Menschlichkeit."
+    },
+    {
+      "term": "der Anklagepunkt",
+      "translated_term": "count, charge",
+      "example_usage": "Kushayb ist schuldig an 27 Anklagepunkten."
+    },
+    {
+      "term": "die Vergewaltigung",
+      "translated_term": "rape",
+      "example_usage": "Er hat Morde, Vergewaltigungen und Folter begangen."
+    },
+    {
+      "term": "die Folter",
+      "translated_term": "torture",
+      "example_usage": "Er hat Morde, Vergewaltigungen und Folter begangen."
+    },
+    {
+      "term": "die Verfolgung",
+      "translated_term": "persecution",
+      "example_usage": "Es ist auch die erste ICC-Verurteilung wegen geschlechtsspezifischer Verfolgung."
+    },
+    {
+      "term": "die Haftstrafe",
+      "translated_term": "prison sentence",
+      "example_usage": "Kushayb könnte eine lebenslange Haftstrafe bekommen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    },
+    {
+      "name": "Menschenrechte",
+      "translated_name": "Human Rights"
+    },
+    {
+      "name": "Vereinte Nationen",
+      "translated_name": "United Nations"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/10/6/icc-convicts-ex-janjaweed-leader-ali-ali-kushayb-of-war-crimes-in-darfur"
+    },
+    {
+      "name": "UN News",
+      "link_url": "https://news.un.org/en/story/2025/10/1166040"
+    }
+  ]
+}
