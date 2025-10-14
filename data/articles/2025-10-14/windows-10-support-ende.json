@@ -1,0 +1,130 @@
+{
+  "title": "Windows 10 erreicht das Ende der Unterstützung",
+  "translated_title": "Windows 10 reaches end of support",
+  "text": [
+    {
+      "text": "Am 14. Oktober 2025 endet die offizielle Unterstützung von Microsoft für Windows 10.",
+      "translated_text": "On October 14, 2025, Microsoft's official support for Windows 10 ends."
+    },
+    {
+      "text": "Das bedeutet, dass es keine kostenlosen Sicherheitsupdates mehr gibt.",
+      "translated_text": "This means there will be no more free security updates."
+    },
+    {
+      "text": "Windows 10 war eines der beliebtesten Betriebssysteme der Welt.",
+      "translated_text": "Windows 10 was one of the most popular operating systems in the world."
+    },
+    {
+      "text": "Millionen von Computern verwenden immer noch dieses System.",
+      "translated_text": "Millions of computers still use this system."
+    },
+    {
+      "text": "Microsoft empfiehlt allen Nutzern, auf Windows 11 zu wechseln.",
+      "translated_text": "Microsoft recommends all users to switch to Windows 11."
+    },
+    {
+      "text": "Windows 11 ist moderner und sicherer als Windows 10.",
+      "translated_text": "Windows 11 is more modern and secure than Windows 10."
+    },
+    {
+      "text": "Für Menschen, die Windows 10 weiter nutzen möchten, gibt es eine kostenpflichtige Option.",
+      "translated_text": "For people who want to continue using Windows 10, there is a paid option."
+    },
+    {
+      "text": "Das Extended Security Updates Programm kostet 30 Dollar pro Jahr.",
+      "translated_text": "The Extended Security Updates program costs 30 dollars per year."
+    },
+    {
+      "text": "Dieses Programm bietet wichtige Sicherheitsupdates für ein weiteres Jahr.",
+      "translated_text": "This program provides important security updates for one more year."
+    },
+    {
+      "text": "Experten warnen, dass Computer ohne Updates gefährlich sein können.",
+      "translated_text": "Experts warn that computers without updates can be dangerous."
+    },
+    {
+      "text": "Ohne Sicherheitsupdates sind Computer anfälliger für Viren und Hackerangriffe.",
+      "translated_text": "Without security updates, computers are more vulnerable to viruses and hacker attacks."
+    },
+    {
+      "text": "Die Benutzer sollten bald eine Entscheidung treffen.",
+      "translated_text": "Users should make a decision soon."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Unterstützung",
+      "translated_term": "support",
+      "example_usage": "Am 14. Oktober 2025 endet die offizielle Unterstützung von Microsoft für Windows 10."
+    },
+    {
+      "term": "das Sicherheitsupdate",
+      "translated_term": "security update",
+      "example_usage": "Das bedeutet, dass es keine kostenlosen Sicherheitsupdates mehr gibt."
+    },
+    {
+      "term": "das Betriebssystem",
+      "translated_term": "operating system",
+      "example_usage": "Windows 10 war eines der beliebtesten Betriebssysteme der Welt."
+    },
+    {
+      "term": "empfehlen",
+      "translated_term": "to recommend",
+      "example_usage": "Microsoft empfiehlt allen Nutzern, auf Windows 11 zu wechseln."
+    },
+    {
+      "term": "wechseln",
+      "translated_term": "to switch",
+      "example_usage": "Microsoft empfiehlt allen Nutzern, auf Windows 11 zu wechseln."
+    },
+    {
+      "term": "kostenpflichtig",
+      "translated_term": "paid, subject to a fee",
+      "example_usage": "Für Menschen, die Windows 10 weiter nutzen möchten, gibt es eine kostenpflichtige Option."
+    },
+    {
+      "term": "anfällig",
+      "translated_term": "vulnerable",
+      "example_usage": "Ohne Sicherheitsupdates sind Computer anfälliger für Viren und Hackerangriffe."
+    },
+    {
+      "term": "der Hackerangriff",
+      "translated_term": "hacker attack",
+      "example_usage": "Ohne Sicherheitsupdates sind Computer anfälliger für Viren und Hackerangriffe."
+    },
+    {
+      "term": "der Virus",
+      "translated_term": "virus",
+      "example_usage": "Ohne Sicherheitsupdates sind Computer anfälliger für Viren und Hackerangriffe."
+    },
+    {
+      "term": "warnen",
+      "translated_term": "to warn",
+      "example_usage": "Experten warnen, dass Computer ohne Updates gefährlich sein können."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    },
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Microsoft Support",
+      "link_url": "https://support.microsoft.com/en-us/windows/windows-10-support-ends-on-october-14-2025-2ca8b313-1946-43d3-b55c-2b95b107f281"
+    },
+    {
+      "name": "Tom's Guide",
+      "link_url": "https://www.tomsguide.com/news/live/windows-10-end-of-support-live"
+    }
+  ]
+}
