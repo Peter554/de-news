@@ -1,6 +1,7 @@
 {
   "permissions": {
     "allow": [
+      "Bash(bun --bun run build)",
       "Bash(gh pr:*)",
       "Bash(git:*)",
       "Bash(mkdir:*)",

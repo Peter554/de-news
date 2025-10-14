@@ -82,8 +82,11 @@ ${JSON.stringify(schema, null, 2)}
 \`\`\`
 
 Make your changes on a new branch.
+Once you've made your changes check the site builds by running \`bun --bun run build\`.
 Commit your changes and open a PR.
 Assign Peter554 to review the PR.
+
+
 
 The end goal of this task is to create an open PR with the new articles and any new tags.
 IMPORTANT!: If for any reason you are unable to complete this task then create a file \`ERROR.md\` with a description of the error(s) encountered.
