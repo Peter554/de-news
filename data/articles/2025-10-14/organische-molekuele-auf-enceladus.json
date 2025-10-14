@@ -1,0 +1,132 @@
+{
+  "title": "Organische Moleküle auf Saturnmond Enceladus entdeckt",
+  "translated_title": "Organic Molecules Discovered on Saturn's Moon Enceladus",
+  "text": [
+    {
+      "text": "Wissenschaftler der Freien Universität Berlin und der Universität Stuttgart haben eine wichtige Entdeckung gemacht.",
+      "translated_text": "Scientists from the Free University of Berlin and the University of Stuttgart have made an important discovery."
+    },
+    {
+      "text": "Sie fanden organische Moleküle in Eispartikeln vom Saturnmond Enceladus.",
+      "translated_text": "They found organic molecules in ice particles from Saturn's moon Enceladus."
+    },
+    {
+      "text": "Die Entdeckung wurde im Oktober 2025 in der Fachzeitschrift Nature Astronomy veröffentlicht.",
+      "translated_text": "The discovery was published in October 2025 in the journal Nature Astronomy."
+    },
+    {
+      "text": "Dr. Nozair Khawaja leitete die Forschung an der Freien Universität Berlin.",
+      "translated_text": "Dr. Nozair Khawaja led the research at the Free University of Berlin."
+    },
+    {
+      "text": "Die organischen Verbindungen stammen aus dem unterirdischen Ozean von Enceladus.",
+      "translated_text": "The organic compounds come from Enceladus's subsurface ocean."
+    },
+    {
+      "text": "Der Mond schießt diese Partikel in Form von Wasserdampf-Fontänen ins All.",
+      "translated_text": "The moon shoots these particles into space in the form of water vapor plumes."
+    },
+    {
+      "text": "Die Daten stammen von der NASA-Raumsonde Cassini, die 2008 durch diese Fontänen flog.",
+      "translated_text": "The data comes from NASA's Cassini spacecraft, which flew through these plumes in 2008."
+    },
+    {
+      "text": "Die Forscher vermuten, dass die Moleküle an hydrothermalen Quellen am Meeresboden entstanden sind.",
+      "translated_text": "The researchers suspect that the molecules originated at hydrothermal vents on the ocean floor."
+    },
+    {
+      "text": "Auf der Erde gibt es Leben in der Nähe solcher hydrothermalen Quellen.",
+      "translated_text": "On Earth, there is life near such hydrothermal vents."
+    },
+    {
+      "text": "Die Entdeckung macht Enceladus zu einem wichtigen Kandidaten bei der Suche nach außerirdischem Leben.",
+      "translated_text": "The discovery makes Enceladus an important candidate in the search for extraterrestrial life."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "organisch",
+      "translated_term": "organic",
+      "example_usage": "Sie fanden organische Moleküle in Eispartikeln vom Saturnmond Enceladus."
+    },
+    {
+      "term": "das Molekül",
+      "translated_term": "molecule",
+      "example_usage": "Sie fanden organische Moleküle in Eispartikeln vom Saturnmond Enceladus."
+    },
+    {
+      "term": "die Entdeckung",
+      "translated_term": "discovery",
+      "example_usage": "Die Entdeckung wurde im Oktober 2025 in der Fachzeitschrift Nature Astronomy veröffentlicht."
+    },
+    {
+      "term": "veröffentlichen",
+      "translated_term": "to publish",
+      "example_usage": "Die Entdeckung wurde im Oktober 2025 in der Fachzeitschrift Nature Astronomy veröffentlicht."
+    },
+    {
+      "term": "leiten",
+      "translated_term": "to lead, to direct",
+      "example_usage": "Dr. Nozair Khawaja leitete die Forschung an der Freien Universität Berlin."
+    },
+    {
+      "term": "die Verbindung",
+      "translated_term": "compound, connection",
+      "example_usage": "Die organischen Verbindungen stammen aus dem unterirdischen Ozean von Enceladus."
+    },
+    {
+      "term": "unterirdisch",
+      "translated_term": "subsurface, underground",
+      "example_usage": "Die organischen Verbindungen stammen aus dem unterirdischen Ozean von Enceladus."
+    },
+    {
+      "term": "die Fontäne",
+      "translated_term": "plume, fountain",
+      "example_usage": "Der Mond schießt diese Partikel in Form von Wasserdampf-Fontänen ins All."
+    },
+    {
+      "term": "die Raumsonde",
+      "translated_term": "space probe, spacecraft",
+      "example_usage": "Die Daten stammen von der NASA-Raumsonde Cassini."
+    },
+    {
+      "term": "vermuten",
+      "translated_term": "to suspect, to assume",
+      "example_usage": "Die Forscher vermuten, dass die Moleküle an hydrothermalen Quellen entstanden sind."
+    },
+    {
+      "term": "die Quelle",
+      "translated_term": "source, spring, vent",
+      "example_usage": "Die Moleküle entstanden an hydrothermalen Quellen am Meeresboden."
+    },
+    {
+      "term": "außerirdisch",
+      "translated_term": "extraterrestrial, alien",
+      "example_usage": "Die Entdeckung macht Enceladus zu einem wichtigen Kandidaten bei der Suche nach außerirdischem Leben."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Wissenschaft",
+      "translated_name": "Science"
+    },
+    {
+      "name": "Weltraumforschung",
+      "translated_name": "Space Exploration"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Freie Universität Berlin",
+      "link_url": "https://www.fu-berlin.de/en/presse/informationen/fup/2025/fup_25_152-saturnmond-enceladus-studie-nozair-khawaja/index.html"
+    },
+    {
+      "name": "University of Washington",
+      "link_url": "https://www.washington.edu/news/2025/10/03/enceladus-saturn-nasa-cassini-life-habitability-organic-compounds/"
+    }
+  ]
+}

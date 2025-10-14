@@ -1,0 +1,132 @@
+{
+  "title": "Windows 10 Support endet heute",
+  "translated_title": "Windows 10 Support Ends Today",
+  "text": [
+    {
+      "text": "Am 14. Oktober 2025 endet offiziell die Unterstützung für Windows 10 durch Microsoft.",
+      "translated_text": "On October 14, 2025, Microsoft's official support for Windows 10 ends."
+    },
+    {
+      "text": "Das Betriebssystem wurde über zehn Jahre lang von Millionen Menschen weltweit genutzt.",
+      "translated_text": "The operating system has been used by millions of people worldwide for over ten years."
+    },
+    {
+      "text": "Ab heute erhalten Computer mit Windows 10 keine kostenlosen Sicherheitsupdates mehr.",
+      "translated_text": "From today, computers with Windows 10 will no longer receive free security updates."
+    },
+    {
+      "text": "Microsoft empfiehlt den Nutzern, auf Windows 11 zu wechseln.",
+      "translated_text": "Microsoft recommends that users switch to Windows 11."
+    },
+    {
+      "text": "Windows 11 bietet moderne Funktionen und besseren Schutz vor Viren und Malware.",
+      "translated_text": "Windows 11 offers modern features and better protection against viruses and malware."
+    },
+    {
+      "text": "Allerdings können nicht alle Computer auf Windows 11 upgraden, weil sie die technischen Anforderungen nicht erfüllen.",
+      "translated_text": "However, not all computers can upgrade to Windows 11 because they don't meet the technical requirements."
+    },
+    {
+      "text": "Für diese Nutzer gibt es eine Alternative: erweiterte Sicherheitsupdates bis Oktober 2026.",
+      "translated_text": "For these users, there is an alternative: extended security updates until October 2026."
+    },
+    {
+      "text": "Diese erweiterten Updates sind kostenlos, wenn man sich mit einem Microsoft-Konto anmeldet.",
+      "translated_text": "These extended updates are free if you sign in with a Microsoft account."
+    },
+    {
+      "text": "Wer Windows 10 weiterhin nutzt, kann das tun – der Computer funktioniert weiter normal.",
+      "translated_text": "Those who continue to use Windows 10 can do so – the computer will continue to work normally."
+    },
+    {
+      "text": "Ohne Sicherheitsupdates besteht jedoch ein höheres Risiko für Cyberangriffe.",
+      "translated_text": "However, without security updates, there is a higher risk of cyberattacks."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Unterstützung",
+      "translated_term": "support",
+      "example_usage": "Am 14. Oktober 2025 endet offiziell die Unterstützung für Windows 10 durch Microsoft."
+    },
+    {
+      "term": "das Betriebssystem",
+      "translated_term": "operating system",
+      "example_usage": "Das Betriebssystem wurde über zehn Jahre lang von Millionen Menschen weltweit genutzt."
+    },
+    {
+      "term": "das Sicherheitsupdate",
+      "translated_term": "security update",
+      "example_usage": "Ab heute erhalten Computer mit Windows 10 keine kostenlosen Sicherheitsupdates mehr."
+    },
+    {
+      "term": "empfehlen",
+      "translated_term": "to recommend",
+      "example_usage": "Microsoft empfiehlt den Nutzern, auf Windows 11 zu wechseln."
+    },
+    {
+      "term": "wechseln",
+      "translated_term": "to switch, to change",
+      "example_usage": "Microsoft empfiehlt den Nutzern, auf Windows 11 zu wechseln."
+    },
+    {
+      "term": "der Schutz",
+      "translated_term": "protection",
+      "example_usage": "Windows 11 bietet moderne Funktionen und besseren Schutz vor Viren und Malware."
+    },
+    {
+      "term": "upgraden",
+      "translated_term": "to upgrade",
+      "example_usage": "Allerdings können nicht alle Computer auf Windows 11 upgraden."
+    },
+    {
+      "term": "die Anforderung",
+      "translated_term": "requirement",
+      "example_usage": "Nicht alle Computer erfüllen die technischen Anforderungen."
+    },
+    {
+      "term": "erweitert",
+      "translated_term": "extended",
+      "example_usage": "Für diese Nutzer gibt es eine Alternative: erweiterte Sicherheitsupdates bis Oktober 2026."
+    },
+    {
+      "term": "sich anmelden",
+      "translated_term": "to sign in, to log in",
+      "example_usage": "Diese erweiterten Updates sind kostenlos, wenn man sich mit einem Microsoft-Konto anmeldet."
+    },
+    {
+      "term": "das Risiko",
+      "translated_term": "risk",
+      "example_usage": "Ohne Sicherheitsupdates besteht jedoch ein höheres Risiko für Cyberangriffe."
+    },
+    {
+      "term": "der Cyberangriff",
+      "translated_term": "cyberattack",
+      "example_usage": "Ohne Sicherheitsupdates besteht jedoch ein höheres Risiko für Cyberangriffe."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    },
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Microsoft Support",
+      "link_url": "https://support.microsoft.com/en-us/windows/windows-10-support-ends-on-october-14-2025-2ca8b313-1946-43d3-b55c-2b95b107f281"
+    },
+    {
+      "name": "Windows Central",
+      "link_url": "https://www.windowscentral.com/microsoft/windows-11/windows-10-end-of-life-do-you-need-to-buy-a-new-pc-after-october-14-2025"
+    }
+  ]
+}

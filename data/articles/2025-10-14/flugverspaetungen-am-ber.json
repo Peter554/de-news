@@ -1,0 +1,128 @@
+{
+  "title": "Massive Flugverspätungen am Berliner Flughafen",
+  "translated_title": "Massive Flight Delays at Berlin Airport",
+  "text": [
+    {
+      "text": "Anfang Oktober 2025 gab es große Probleme am Flughafen Berlin-Brandenburg.",
+      "translated_text": "In early October 2025, there were major problems at Berlin-Brandenburg Airport."
+    },
+    {
+      "text": "Mehrere Fluggesellschaften meldeten Verspätungen und Annullierungen.",
+      "translated_text": "Several airlines reported delays and cancellations."
+    },
+    {
+      "text": "Air Baltic, Air France und British Airways waren von den Problemen betroffen.",
+      "translated_text": "Air Baltic, Air France, and British Airways were affected by the problems."
+    },
+    {
+      "text": "Insgesamt wurden fünf Flüge gestrichen und 374 Flüge verspäteten sich.",
+      "translated_text": "A total of five flights were canceled and 374 flights were delayed."
+    },
+    {
+      "text": "Am Flughafen BER gab es allein zwei Annullierungen und 152 Verspätungen.",
+      "translated_text": "At BER airport alone, there were two cancellations and 152 delays."
+    },
+    {
+      "text": "Viele Passagiere mussten stundenlang am Flughafen warten.",
+      "translated_text": "Many passengers had to wait for hours at the airport."
+    },
+    {
+      "text": "Die Verspätungen betrafen nicht nur Berlin, sondern auch die Flughäfen München und Stuttgart.",
+      "translated_text": "The delays affected not only Berlin but also Munich and Stuttgart airports."
+    },
+    {
+      "text": "Die Fluggesellschaften bemühten sich, die Passagiere umzubuchen.",
+      "translated_text": "The airlines tried to rebook the passengers."
+    },
+    {
+      "text": "Experten raten Reisenden, früh am Flughafen anzukommen und regelmäßig ihren Flugstatus zu überprüfen.",
+      "translated_text": "Experts advise travelers to arrive early at the airport and regularly check their flight status."
+    },
+    {
+      "text": "Der Flugverkehr in Deutschland bleibt eine Herausforderung für die Branche.",
+      "translated_text": "Air traffic in Germany remains a challenge for the industry."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Verspätung",
+      "translated_term": "delay",
+      "example_usage": "Anfang Oktober 2025 gab es große Probleme mit Verspätungen am Flughafen Berlin-Brandenburg."
+    },
+    {
+      "term": "die Fluggesellschaft",
+      "translated_term": "airline",
+      "example_usage": "Mehrere Fluggesellschaften meldeten Verspätungen und Annullierungen."
+    },
+    {
+      "term": "melden",
+      "translated_term": "to report, to announce",
+      "example_usage": "Mehrere Fluggesellschaften meldeten Verspätungen und Annullierungen."
+    },
+    {
+      "term": "die Annullierung",
+      "translated_term": "cancellation",
+      "example_usage": "Am Flughafen BER gab es allein zwei Annullierungen."
+    },
+    {
+      "term": "betroffen sein",
+      "translated_term": "to be affected",
+      "example_usage": "Air Baltic, Air France und British Airways waren von den Problemen betroffen."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel (a flight/service)",
+      "example_usage": "Insgesamt wurden fünf Flüge gestrichen."
+    },
+    {
+      "term": "sich verspäten",
+      "translated_term": "to be delayed",
+      "example_usage": "374 Flüge verspäteten sich."
+    },
+    {
+      "term": "der Passagier",
+      "translated_term": "passenger",
+      "example_usage": "Viele Passagiere mussten stundenlang am Flughafen warten."
+    },
+    {
+      "term": "umbuchen",
+      "translated_term": "to rebook",
+      "example_usage": "Die Fluggesellschaften bemühten sich, die Passagiere umzubuchen."
+    },
+    {
+      "term": "sich bemühen",
+      "translated_term": "to try, to make an effort",
+      "example_usage": "Die Fluggesellschaften bemühten sich, die Passagiere umzubuchen."
+    },
+    {
+      "term": "der Flugstatus",
+      "translated_term": "flight status",
+      "example_usage": "Experten raten Reisenden, regelmäßig ihren Flugstatus zu überprüfen."
+    },
+    {
+      "term": "die Herausforderung",
+      "translated_term": "challenge",
+      "example_usage": "Der Flugverkehr in Deutschland bleibt eine Herausforderung für die Branche."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Reisen",
+      "translated_name": "Travel"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Travel And Tour World",
+      "link_url": "https://www.travelandtourworld.com/news/article/germany-amid-travel-conundrum-as-air-baltic-air-france-british-airways-and-more-suspends-5-flights-with-374-delays-stranding-passengers-across-berlin-brandenburg-munich-and-stuttgart-airport-new-updat/"
+    }
+  ]
+}

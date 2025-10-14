@@ -1,0 +1,128 @@
+{
+  "title": "Deutscher Bundespräsident wird Großbritannien besuchen",
+  "translated_title": "German President to Visit Great Britain",
+  "text": [
+    {
+      "text": "Der Buckingham-Palast hat am 13. Oktober 2025 einen wichtigen Staatsbesuch angekündigt.",
+      "translated_text": "Buckingham Palace announced an important state visit on October 13, 2025."
+    },
+    {
+      "text": "Deutschlands Bundespräsident Frank-Walter Steinmeier wird Anfang Dezember nach Großbritannien reisen.",
+      "translated_text": "Germany's President Frank-Walter Steinmeier will travel to Great Britain in early December."
+    },
+    {
+      "text": "König Charles III. und Königin Camilla werden ihn und seine Frau Elke Büdenbender empfangen.",
+      "translated_text": "King Charles III and Queen Camilla will receive him and his wife Elke Büdenbender."
+    },
+    {
+      "text": "Der Besuch findet vom 3. bis 5. Dezember auf Schloss Windsor statt.",
+      "translated_text": "The visit will take place from December 3 to 5 at Windsor Castle."
+    },
+    {
+      "text": "Es ist der erste deutsche Staatsbesuch in Großbritannien seit 27 Jahren.",
+      "translated_text": "It is the first German state visit to Great Britain in 27 years."
+    },
+    {
+      "text": "Seit 1958 gab es nur fünf offizielle Staatsbesuche des deutschen Staatsoberhaupts in Großbritannien.",
+      "translated_text": "Since 1958, there have been only five official state visits by the German head of state to Great Britain."
+    },
+    {
+      "text": "Der Besuch zeigt die enge Freundschaft zwischen Deutschland und Großbritannien.",
+      "translated_text": "The visit shows the close friendship between Germany and Great Britain."
+    },
+    {
+      "text": "Die beiden Länder arbeiten eng in Politik, Verteidigung und Wirtschaft zusammen.",
+      "translated_text": "The two countries work closely together in politics, defense, and economics."
+    },
+    {
+      "text": "Trotz des Brexit bleiben Deutschland und Großbritannien wichtige Partner.",
+      "translated_text": "Despite Brexit, Germany and Great Britain remain important partners."
+    },
+    {
+      "text": "Der Staatsbesuch wird die deutsch-britischen Beziehungen weiter stärken.",
+      "translated_text": "The state visit will further strengthen German-British relations."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Bundespräsident",
+      "translated_term": "Federal President (head of state)",
+      "example_usage": "Deutschlands Bundespräsident Frank-Walter Steinmeier wird Anfang Dezember nach Großbritannien reisen."
+    },
+    {
+      "term": "der Staatsbesuch",
+      "translated_term": "state visit",
+      "example_usage": "Der Buckingham-Palast hat am 13. Oktober 2025 einen wichtigen Staatsbesuch angekündigt."
+    },
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Der Buckingham-Palast hat am 13. Oktober 2025 einen wichtigen Staatsbesuch angekündigt."
+    },
+    {
+      "term": "empfangen",
+      "translated_term": "to receive, to welcome",
+      "example_usage": "König Charles III. und Königin Camilla werden ihn und seine Frau empfangen."
+    },
+    {
+      "term": "das Schloss",
+      "translated_term": "castle, palace",
+      "example_usage": "Der Besuch findet vom 3. bis 5. Dezember auf Schloss Windsor statt."
+    },
+    {
+      "term": "offiziell",
+      "translated_term": "official",
+      "example_usage": "Seit 1958 gab es nur fünf offizielle Staatsbesuche des deutschen Staatsoberhaupts."
+    },
+    {
+      "term": "das Staatsoberhaupt",
+      "translated_term": "head of state",
+      "example_usage": "Seit 1958 gab es nur fünf offizielle Staatsbesuche des deutschen Staatsoberhaupts in Großbritannien."
+    },
+    {
+      "term": "die Freundschaft",
+      "translated_term": "friendship",
+      "example_usage": "Der Besuch zeigt die enge Freundschaft zwischen Deutschland und Großbritannien."
+    },
+    {
+      "term": "die Verteidigung",
+      "translated_term": "defense",
+      "example_usage": "Die beiden Länder arbeiten eng in Politik, Verteidigung und Wirtschaft zusammen."
+    },
+    {
+      "term": "zusammenarbeiten",
+      "translated_term": "to work together, to cooperate",
+      "example_usage": "Die beiden Länder arbeiten eng in Politik, Verteidigung und Wirtschaft zusammen."
+    },
+    {
+      "term": "die Beziehung",
+      "translated_term": "relationship, relations",
+      "example_usage": "Der Staatsbesuch wird die deutsch-britischen Beziehungen weiter stärken."
+    },
+    {
+      "term": "stärken",
+      "translated_term": "to strengthen",
+      "example_usage": "Der Staatsbesuch wird die deutsch-britischen Beziehungen weiter stärken."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Staatsbesuch",
+      "translated_name": "State Visit"
+    },
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Washington Times",
+      "link_url": "https://www.washingtontimes.com/news/2025/oct/13/german-president-accepts-invitation-state-visit-uk-december/"
+    }
+  ]
+}
