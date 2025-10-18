@@ -1,0 +1,137 @@
+{
+  "title": "Deutschland nimmt Hamas-Verdächtige fest",
+  "translated_title": "Germany arrests suspected Hamas members",
+  "text": [
+    {
+      "text": "Die deutschen Behörden haben drei Männer festgenommen, die verdächtigt werden, für die Hamas zu arbeiten.",
+      "translated_text": "German authorities have arrested three men who are suspected of working for Hamas."
+    },
+    {
+      "text": "Die Festnahmen fanden Anfang Oktober 2025 statt.",
+      "translated_text": "The arrests took place at the beginning of October 2025."
+    },
+    {
+      "text": "Die Verdächtigen sollen geplant haben, Anschläge auf jüdische Einrichtungen in Deutschland durchzuführen.",
+      "translated_text": "The suspects are alleged to have planned to carry out attacks on Jewish institutions in Germany."
+    },
+    {
+      "text": "Bei den Durchsuchungen fanden die Polizisten verschiedene Waffen.",
+      "translated_text": "During the searches, police officers found various weapons."
+    },
+    {
+      "text": "Unter den gefundenen Waffen waren ein AK-47-Sturmgewehr und mehrere Pistolen.",
+      "translated_text": "Among the weapons found were an AK-47 assault rifle and several pistols."
+    },
+    {
+      "text": "Die Behörden beschlagnahmten auch eine große Menge Munition.",
+      "translated_text": "The authorities also seized a large amount of ammunition."
+    },
+    {
+      "text": "Die drei Männer werden beschuldigt, im Namen der Hamas zu handeln.",
+      "translated_text": "The three men are accused of acting on behalf of Hamas."
+    },
+    {
+      "text": "Die Sicherheitsbehörden nehmen Bedrohungen gegen jüdische Gemeinden sehr ernst.",
+      "translated_text": "Security authorities take threats against Jewish communities very seriously."
+    },
+    {
+      "text": "Diese Festnahmen zeigen die anhaltende Gefahr des Terrorismus in Europa.",
+      "translated_text": "These arrests show the ongoing danger of terrorism in Europe."
+    },
+    {
+      "text": "Die Ermittlungen dauern noch an, und die Verdächtigen befinden sich in Untersuchungshaft.",
+      "translated_text": "The investigations are still ongoing, and the suspects are in pre-trial detention."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Behörden",
+      "translated_term": "authorities",
+      "example_usage": "Die deutschen Behörden haben drei Männer festgenommen."
+    },
+    {
+      "term": "festnehmen",
+      "translated_term": "to arrest",
+      "example_usage": "Die deutschen Behörden haben drei Männer festgenommen."
+    },
+    {
+      "term": "verdächtigen",
+      "translated_term": "to suspect",
+      "example_usage": "Die Verdächtigen sollen geplant haben, Anschläge auf jüdische Einrichtungen durchzuführen."
+    },
+    {
+      "term": "der Anschlag",
+      "translated_term": "attack",
+      "example_usage": "Die Verdächtigen sollen geplant haben, Anschläge auf jüdische Einrichtungen durchzuführen."
+    },
+    {
+      "term": "die Einrichtung",
+      "translated_term": "institution, facility",
+      "example_usage": "Die Verdächtigen sollen geplant haben, Anschläge auf jüdische Einrichtungen durchzuführen."
+    },
+    {
+      "term": "die Durchsuchung",
+      "translated_term": "search, raid",
+      "example_usage": "Bei den Durchsuchungen fanden die Polizisten verschiedene Waffen."
+    },
+    {
+      "term": "das Sturmgewehr",
+      "translated_term": "assault rifle",
+      "example_usage": "Unter den gefundenen Waffen waren ein AK-47-Sturmgewehr und mehrere Pistolen."
+    },
+    {
+      "term": "beschlagnahmen",
+      "translated_term": "to seize, to confiscate",
+      "example_usage": "Die Behörden beschlagnahmten auch eine große Menge Munition."
+    },
+    {
+      "term": "die Munition",
+      "translated_term": "ammunition",
+      "example_usage": "Die Behörden beschlagnahmten auch eine große Menge Munition."
+    },
+    {
+      "term": "beschuldigen",
+      "translated_term": "to accuse",
+      "example_usage": "Die drei Männer werden beschuldigt, im Namen der Hamas zu handeln."
+    },
+    {
+      "term": "die Bedrohung",
+      "translated_term": "threat",
+      "example_usage": "Die Sicherheitsbehörden nehmen Bedrohungen gegen jüdische Gemeinden sehr ernst."
+    },
+    {
+      "term": "die Ermittlung",
+      "translated_term": "investigation",
+      "example_usage": "Die Ermittlungen dauern noch an."
+    },
+    {
+      "term": "die Untersuchungshaft",
+      "translated_term": "pre-trial detention",
+      "example_usage": "Die Verdächtigen befinden sich in Untersuchungshaft."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Terrorismus",
+      "translated_name": "Terrorism"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Antisemitismus",
+      "translated_name": "Antisemitism"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CBS News",
+      "link_url": "https://www.cbsnews.com/news/3-hamas-suspects-arrested-germany-accused-plotting-attacks-jews/"
+    },
+    {
+      "name": "NBC News",
+      "link_url": "https://www.nbcnews.com/world/germany/germany-arrests-suspected-hamas-members-jewish-institutions-rcna234953"
+    }
+  ]
+}

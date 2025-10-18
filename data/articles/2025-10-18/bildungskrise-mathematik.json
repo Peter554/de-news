@@ -1,0 +1,143 @@
+{
+  "title": "Bildungskrise: Schüler scheitern an Mathematik",
+  "translated_title": "Education crisis: Students failing in mathematics",
+  "text": [
+    {
+      "text": "Deutschland steht vor einer ernsten Bildungskrise.",
+      "translated_text": "Germany is facing a serious education crisis."
+    },
+    {
+      "text": "Die Bildungsministerin Karin Prien warnt vor sinkenden Leistungen in Mathematik und Naturwissenschaften.",
+      "translated_text": "Education Minister Karin Prien warns of declining performance in mathematics and science."
+    },
+    {
+      "text": "Eine aktuelle Studie zeigt besorgniserregende Ergebnisse.",
+      "translated_text": "A current study shows worrying results."
+    },
+    {
+      "text": "Jeder dritte Neuntklässler erfüllt nicht die Mindeststandards in Mathematik.",
+      "translated_text": "One in three ninth graders does not meet the minimum standards in mathematics."
+    },
+    {
+      "text": "Diese Standards sind notwendig, um einen Schulabschluss zu erhalten.",
+      "translated_text": "These standards are necessary to obtain a school diploma."
+    },
+    {
+      "text": "Im Vergleich zu 2018 ist das ein Anstieg um zehn Prozentpunkte.",
+      "translated_text": "Compared to 2018, this is an increase of ten percentage points."
+    },
+    {
+      "text": "Die Situation hat sich in den letzten Jahren deutlich verschlechtert.",
+      "translated_text": "The situation has clearly deteriorated in recent years."
+    },
+    {
+      "text": "Experten nennen verschiedene Gründe für diese Entwicklung.",
+      "translated_text": "Experts cite various reasons for this development."
+    },
+    {
+      "text": "Lehrermangel und große Klassen erschweren das Lernen.",
+      "translated_text": "Teacher shortage and large classes make learning more difficult."
+    },
+    {
+      "text": "Die Regierung muss dringend handeln, um das Bildungssystem zu verbessern.",
+      "translated_text": "The government must act urgently to improve the education system."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bildungskrise",
+      "translated_term": "education crisis",
+      "example_usage": "Deutschland steht vor einer ernsten Bildungskrise."
+    },
+    {
+      "term": "scheitern",
+      "translated_term": "to fail",
+      "example_usage": "Schüler scheitern an Mathematik."
+    },
+    {
+      "term": "warnen",
+      "translated_term": "to warn",
+      "example_usage": "Die Bildungsministerin Karin Prien warnt vor sinkenden Leistungen."
+    },
+    {
+      "term": "die Leistung",
+      "translated_term": "performance, achievement",
+      "example_usage": "Die Bildungsministerin warnt vor sinkenden Leistungen in Mathematik."
+    },
+    {
+      "term": "die Naturwissenschaft",
+      "translated_term": "natural science",
+      "example_usage": "Die Bildungsministerin warnt vor sinkenden Leistungen in Mathematik und Naturwissenschaften."
+    },
+    {
+      "term": "besorgniserregend",
+      "translated_term": "worrying, concerning",
+      "example_usage": "Eine aktuelle Studie zeigt besorgniserregende Ergebnisse."
+    },
+    {
+      "term": "der Neuntklässler",
+      "translated_term": "ninth grader",
+      "example_usage": "Jeder dritte Neuntklässler erfüllt nicht die Mindeststandards in Mathematik."
+    },
+    {
+      "term": "erfüllen",
+      "translated_term": "to meet, to fulfill",
+      "example_usage": "Jeder dritte Neuntklässler erfüllt nicht die Mindeststandards."
+    },
+    {
+      "term": "der Mindeststandard",
+      "translated_term": "minimum standard",
+      "example_usage": "Jeder dritte Neuntklässler erfüllt nicht die Mindeststandards in Mathematik."
+    },
+    {
+      "term": "der Schulabschluss",
+      "translated_term": "school diploma, graduation",
+      "example_usage": "Diese Standards sind notwendig, um einen Schulabschluss zu erhalten."
+    },
+    {
+      "term": "der Prozentpunkt",
+      "translated_term": "percentage point",
+      "example_usage": "Im Vergleich zu 2018 ist das ein Anstieg um zehn Prozentpunkte."
+    },
+    {
+      "term": "sich verschlechtern",
+      "translated_term": "to deteriorate, to worsen",
+      "example_usage": "Die Situation hat sich in den letzten Jahren deutlich verschlechtert."
+    },
+    {
+      "term": "der Lehrermangel",
+      "translated_term": "teacher shortage",
+      "example_usage": "Lehrermangel und große Klassen erschweren das Lernen."
+    },
+    {
+      "term": "erschweren",
+      "translated_term": "to make more difficult",
+      "example_usage": "Lehrermangel und große Klassen erschweren das Lernen."
+    },
+    {
+      "term": "dringend",
+      "translated_term": "urgently",
+      "example_usage": "Die Regierung muss dringend handeln."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Bildung",
+      "translated_name": "Education"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Soziale Probleme",
+      "translated_name": "Social Problems"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20251017/today-in-germany-a-roundup-of-the-latest-news-on-friday-97"
+    }
+  ]
+}
