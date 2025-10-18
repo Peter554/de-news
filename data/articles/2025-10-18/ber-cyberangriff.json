@@ -1,0 +1,138 @@
+{
+  "title": "Cyberangriff stört Betrieb am Flughafen BER",
+  "translated_title": "Cyber attack disrupts operations at BER Airport",
+  "text": [
+    {
+      "text": "Der Flughafen Berlin Brandenburg (BER) hat mit technischen Problemen zu kämpfen.",
+      "translated_text": "Berlin Brandenburg Airport (BER) is struggling with technical problems."
+    },
+    {
+      "text": "Ein Cyberangriff hat das Passagier- und Gepäckabfertigungssystem getroffen.",
+      "translated_text": "A cyber attack has hit the passenger and baggage handling system."
+    },
+    {
+      "text": "Der Angriff ereignete sich im Oktober 2025.",
+      "translated_text": "The attack occurred in October 2025."
+    },
+    {
+      "text": "Das betroffene System wird von einem externen Anbieter bereitgestellt.",
+      "translated_text": "The affected system is provided by an external provider."
+    },
+    {
+      "text": "Viele Flugzeuge konnten nicht pünktlich starten oder landen.",
+      "translated_text": "Many aircraft could not take off or land on time."
+    },
+    {
+      "text": "Reisende mussten längere Wartezeiten in Kauf nehmen.",
+      "translated_text": "Travelers had to accept longer waiting times."
+    },
+    {
+      "text": "Der Dienstleister teilte mit, dass die Reparatur mehrere Tage dauern könnte.",
+      "translated_text": "The service provider announced that the repair could take several days."
+    },
+    {
+      "text": "Die Flughafenverwaltung arbeitet hart daran, die Störungen zu minimieren.",
+      "translated_text": "The airport management is working hard to minimize the disruptions."
+    },
+    {
+      "text": "Cyberangriffe auf kritische Infrastruktur werden immer häufiger.",
+      "translated_text": "Cyber attacks on critical infrastructure are becoming increasingly common."
+    },
+    {
+      "text": "Experten fordern bessere Sicherheitsmaßnahmen für wichtige Verkehrsknotenpunkte.",
+      "translated_text": "Experts are calling for better security measures for important transport hubs."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Cyberangriff",
+      "translated_term": "cyber attack",
+      "example_usage": "Ein Cyberangriff hat das Passagier- und Gepäckabfertigungssystem getroffen."
+    },
+    {
+      "term": "stören",
+      "translated_term": "to disrupt",
+      "example_usage": "Cyberangriff stört Betrieb am Flughafen BER."
+    },
+    {
+      "term": "der Betrieb",
+      "translated_term": "operations",
+      "example_usage": "Cyberangriff stört Betrieb am Flughafen BER."
+    },
+    {
+      "term": "zu kämpfen haben",
+      "translated_term": "to struggle with",
+      "example_usage": "Der Flughafen Berlin Brandenburg hat mit technischen Problemen zu kämpfen."
+    },
+    {
+      "term": "die Abfertigung",
+      "translated_term": "handling, processing",
+      "example_usage": "Ein Cyberangriff hat das Passagier- und Gepäckabfertigungssystem getroffen."
+    },
+    {
+      "term": "sich ereignen",
+      "translated_term": "to occur, to happen",
+      "example_usage": "Der Angriff ereignete sich im Oktober 2025."
+    },
+    {
+      "term": "der Anbieter",
+      "translated_term": "provider",
+      "example_usage": "Das betroffene System wird von einem externen Anbieter bereitgestellt."
+    },
+    {
+      "term": "pünktlich",
+      "translated_term": "on time, punctual",
+      "example_usage": "Viele Flugzeuge konnten nicht pünktlich starten oder landen."
+    },
+    {
+      "term": "in Kauf nehmen",
+      "translated_term": "to accept, to put up with",
+      "example_usage": "Reisende mussten längere Wartezeiten in Kauf nehmen."
+    },
+    {
+      "term": "der Dienstleister",
+      "translated_term": "service provider",
+      "example_usage": "Der Dienstleister teilte mit, dass die Reparatur mehrere Tage dauern könnte."
+    },
+    {
+      "term": "die Störung",
+      "translated_term": "disruption, disturbance",
+      "example_usage": "Die Flughafenverwaltung arbeitet hart daran, die Störungen zu minimieren."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "infrastructure",
+      "example_usage": "Cyberangriffe auf kritische Infrastruktur werden immer häufiger."
+    },
+    {
+      "term": "die Sicherheitsmaßnahme",
+      "translated_term": "security measure",
+      "example_usage": "Experten fordern bessere Sicherheitsmaßnahmen für wichtige Verkehrsknotenpunkte."
+    },
+    {
+      "term": "der Verkehrsknotenpunkt",
+      "translated_term": "transport hub",
+      "example_usage": "Experten fordern bessere Sicherheitsmaßnahmen für wichtige Verkehrsknotenpunkte."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Cybersicherheit",
+      "translated_name": "Cybersecurity"
+    }
+  ],
+  "sources": [
+    {
+      "name": "International Airport Review",
+      "link_url": "https://www.internationalairportreview.com/news/296718/cyber-attack-disruption-to-continue-at-ber/"
+    }
+  ]
+}
