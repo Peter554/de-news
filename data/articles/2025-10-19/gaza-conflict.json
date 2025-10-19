@@ -1,0 +1,144 @@
+{
+  "title": "Schwere Kämpfe im Gazastreifen",
+  "translated_title": "Heavy Fighting in the Gaza Strip",
+  "text": [
+    {
+      "text": "Bei israelischen Angriffen im Gazastreifen sind mindestens 72 Palästinenser getötet worden.",
+      "translated_text": "At least 72 Palestinians were killed in Israeli attacks in the Gaza Strip."
+    },
+    {
+      "text": "Die meisten Opfer gab es in Gaza-Stadt.",
+      "translated_text": "Most of the victims were in Gaza City."
+    },
+    {
+      "text": "Dort starben 42 Menschen bei verschiedenen Luftangriffen.",
+      "translated_text": "There, 42 people died in various air strikes."
+    },
+    {
+      "text": "Die Kämpfe dauern schon seit vielen Monaten an.",
+      "translated_text": "The fighting has been ongoing for many months."
+    },
+    {
+      "text": "Die humanitäre Lage im Gazastreifen ist katastrophal.",
+      "translated_text": "The humanitarian situation in the Gaza Strip is catastrophic."
+    },
+    {
+      "text": "Viele Menschen haben keinen Zugang zu sauberem Wasser und Medikamenten.",
+      "translated_text": "Many people have no access to clean water and medicine."
+    },
+    {
+      "text": "Krankenhäuser sind überfüllt und haben nicht genug Personal.",
+      "translated_text": "Hospitals are overcrowded and do not have enough staff."
+    },
+    {
+      "text": "Die internationale Gemeinschaft ruft zu einem Waffenstillstand auf.",
+      "translated_text": "The international community is calling for a ceasefire."
+    },
+    {
+      "text": "Doch bisher gibt es keine Anzeichen für ein Ende der Gewalt.",
+      "translated_text": "But so far there are no signs of an end to the violence."
+    },
+    {
+      "text": "Die Vereinten Nationen fordern humanitären Zugang zum Gazastreifen.",
+      "translated_text": "The United Nations is demanding humanitarian access to the Gaza Strip."
+    },
+    {
+      "text": "Hilfsorganisationen können nur begrenzt arbeiten.",
+      "translated_text": "Aid organizations can only work in a limited capacity."
+    },
+    {
+      "text": "Die Zivilbevölkerung leidet am meisten unter dem Konflikt.",
+      "translated_text": "The civilian population suffers most from the conflict."
+    },
+    {
+      "text": "Tausende Menschen haben ihre Häuser verloren.",
+      "translated_text": "Thousands of people have lost their homes."
+    },
+    {
+      "text": "Die Situation wird täglich schlimmer.",
+      "translated_text": "The situation is getting worse every day."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Angriff",
+      "translated_term": "attack",
+      "example_usage": "Bei israelischen Angriffen im Gazastreifen sind mindestens 72 Palästinenser getötet worden."
+    },
+    {
+      "term": "töten",
+      "translated_term": "to kill",
+      "example_usage": "Bei israelischen Angriffen im Gazastreifen sind mindestens 72 Palästinenser getötet worden."
+    },
+    {
+      "term": "das Opfer",
+      "translated_term": "victim",
+      "example_usage": "Die meisten Opfer gab es in Gaza-Stadt."
+    },
+    {
+      "term": "der Luftangriff",
+      "translated_term": "air strike",
+      "example_usage": "Dort starben 42 Menschen bei verschiedenen Luftangriffen."
+    },
+    {
+      "term": "humanitär",
+      "translated_term": "humanitarian",
+      "example_usage": "Die humanitäre Lage im Gazastreifen ist katastrophal."
+    },
+    {
+      "term": "der Zugang",
+      "translated_term": "access",
+      "example_usage": "Viele Menschen haben keinen Zugang zu sauberem Wasser und Medikamenten."
+    },
+    {
+      "term": "überfüllt",
+      "translated_term": "overcrowded",
+      "example_usage": "Krankenhäuser sind überfüllt und haben nicht genug Personal."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "ceasefire",
+      "example_usage": "Die internationale Gemeinschaft ruft zu einem Waffenstillstand auf."
+    },
+    {
+      "term": "die Gewalt",
+      "translated_term": "violence",
+      "example_usage": "Doch bisher gibt es keine Anzeichen für ein Ende der Gewalt."
+    },
+    {
+      "term": "die Hilfsorganisation",
+      "translated_term": "aid organization",
+      "example_usage": "Hilfsorganisationen können nur begrenzt arbeiten."
+    },
+    {
+      "term": "die Zivilbevölkerung",
+      "translated_term": "civilian population",
+      "example_usage": "Die Zivilbevölkerung leidet am meisten unter dem Konflikt."
+    },
+    {
+      "term": "leiden",
+      "translated_term": "to suffer",
+      "example_usage": "Die Zivilbevölkerung leidet am meisten unter dem Konflikt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Gaza-Konflikt",
+      "translated_name": "Gaza Conflict"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    },
+    {
+      "name": "Menschenrechte",
+      "translated_name": "Human Rights"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia Current Events",
+      "link_url": "https://en.wikipedia.org/wiki/Portal:Current_events/October_2025"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "title": "Terroranschlag in Berlin verhindert",
+  "translated_title": "Terror Attack Prevented in Berlin",
+  "text": [
+    {
+      "text": "Die Polizei hat am Samstag drei Männer in Berlin festgenommen.",
+      "translated_text": "The police arrested three men in Berlin on Saturday."
+    },
+    {
+      "text": "Die Männer planten einen Terroranschlag auf jüdische Einrichtungen.",
+      "translated_text": "The men were planning a terrorist attack on Jewish institutions."
+    },
+    {
+      "text": "Sie handelten im Auftrag der Hamas.",
+      "translated_text": "They were acting on behalf of Hamas."
+    },
+    {
+      "text": "Die Polizei konnte den Anschlag rechtzeitig verhindern.",
+      "translated_text": "The police were able to prevent the attack in time."
+    },
+    {
+      "text": "Die Ermittler beobachteten die Verdächtigen schon seit mehreren Wochen.",
+      "translated_text": "The investigators had been observing the suspects for several weeks."
+    },
+    {
+      "text": "Bei den Festgenommenen wurden gefährliche Materialien gefunden.",
+      "translated_text": "Dangerous materials were found on the arrested individuals."
+    },
+    {
+      "text": "Der Innenminister lobte die schnelle Arbeit der Sicherheitskräfte.",
+      "translated_text": "The Interior Minister praised the quick work of the security forces."
+    },
+    {
+      "text": "Die jüdische Gemeinde in Berlin zeigte sich erleichtert.",
+      "translated_text": "The Jewish community in Berlin showed relief."
+    },
+    {
+      "text": "Die Sicherheitsmaßnahmen an jüdischen Einrichtungen wurden verstärkt.",
+      "translated_text": "Security measures at Jewish institutions were reinforced."
+    },
+    {
+      "text": "Die drei Verdächtigen befinden sich nun in Untersuchungshaft.",
+      "translated_text": "The three suspects are now in pre-trial detention."
+    },
+    {
+      "text": "Sie werden wegen Terrorverdachts angeklagt.",
+      "translated_text": "They are being charged with suspected terrorism."
+    },
+    {
+      "text": "Die Ermittlungen dauern weiter an.",
+      "translated_text": "The investigations continue."
+    },
+    {
+      "text": "Die Polizei prüft mögliche Verbindungen zu anderen Personen.",
+      "translated_text": "The police are checking possible connections to other people."
+    },
+    {
+      "text": "Der Fall zeigt die anhaltende Terrorgefahr in Deutschland.",
+      "translated_text": "The case shows the ongoing terrorist threat in Germany."
+    },
+    {
+      "text": "Experten warnen vor einer zunehmenden Radikalisierung.",
+      "translated_text": "Experts warn of increasing radicalization."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Festnahme",
+      "translated_term": "arrest",
+      "example_usage": "Die Polizei hat am Samstag drei Männer in Berlin festgenommen."
+    },
+    {
+      "term": "der Anschlag",
+      "translated_term": "attack",
+      "example_usage": "Die Männer planten einen Terroranschlag auf jüdische Einrichtungen."
+    },
+    {
+      "term": "die Einrichtung",
+      "translated_term": "institution",
+      "example_usage": "Die Sicherheitsmaßnahmen an jüdischen Einrichtungen wurden verstärkt."
+    },
+    {
+      "term": "handeln",
+      "translated_term": "to act",
+      "example_usage": "Sie handelten im Auftrag der Hamas."
+    },
+    {
+      "term": "verhindern",
+      "translated_term": "to prevent",
+      "example_usage": "Die Polizei konnte den Anschlag rechtzeitig verhindern."
+    },
+    {
+      "term": "der Ermittler",
+      "translated_term": "investigator",
+      "example_usage": "Die Ermittler beobachteten die Verdächtigen schon seit mehreren Wochen."
+    },
+    {
+      "term": "der Verdächtige",
+      "translated_term": "suspect",
+      "example_usage": "Die drei Verdächtigen befinden sich nun in Untersuchungshaft."
+    },
+    {
+      "term": "erleichtert",
+      "translated_term": "relieved",
+      "example_usage": "Die jüdische Gemeinde in Berlin zeigte sich erleichtert."
+    },
+    {
+      "term": "verstärken",
+      "translated_term": "to reinforce",
+      "example_usage": "Die Sicherheitsmaßnahmen an jüdischen Einrichtungen wurden verstärkt."
+    },
+    {
+      "term": "die Untersuchungshaft",
+      "translated_term": "pre-trial detention",
+      "example_usage": "Die drei Verdächtigen befinden sich nun in Untersuchungshaft."
+    },
+    {
+      "term": "anklagen",
+      "translated_term": "to charge",
+      "example_usage": "Sie werden wegen Terrorverdachts angeklagt."
+    },
+    {
+      "term": "die Radikalisierung",
+      "translated_term": "radicalization",
+      "example_usage": "Experten warnen vor einer zunehmenden Radikalisierung."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Terrorismus",
+      "translated_name": "Terrorism"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Antisemitismus",
+      "translated_name": "Antisemitism"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia Current Events",
+      "link_url": "https://en.wikipedia.org/wiki/Portal:Current_events/October_2025"
+    }
+  ]
+}
