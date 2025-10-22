@@ -1,0 +1,122 @@
+{
+  "title": "Terrorverdacht: Drei Hamas-Mitglieder in Deutschland verhaftet",
+  "translated_title": "Terror Suspicion: Three Hamas Members Arrested in Germany",
+  "text": [
+    {
+      "text": "Die deutschen Behörden haben drei Männer festgenommen, die der Terrororganisation Hamas angehören sollen.",
+      "translated_text": "German authorities have arrested three men who are alleged to belong to the terrorist organization Hamas."
+    },
+    {
+      "text": "Die Verdächtigen sollen Anschläge gegen jüdische und israelische Einrichtungen in Deutschland geplant haben.",
+      "translated_text": "The suspects are alleged to have planned attacks against Jewish and Israeli institutions in Germany."
+    },
+    {
+      "text": "Nach Angaben der Ermittler sollten die Männer Schusswaffen und Munition beschaffen.",
+      "translated_text": "According to investigators, the men were supposed to procure firearms and ammunition."
+    },
+    {
+      "text": "Diese Waffen sollten für Terroranschläge verwendet werden.",
+      "translated_text": "These weapons were to be used for terrorist attacks."
+    },
+    {
+      "text": "Die Verhaftungen erfolgten im Oktober 2025 in verschiedenen Teilen Deutschlands.",
+      "translated_text": "The arrests took place in October 2025 in various parts of Germany."
+    },
+    {
+      "text": "Die Sicherheitsbehörden hatten die Verdächtigen schon länger beobachtet.",
+      "translated_text": "The security authorities had been observing the suspects for some time."
+    },
+    {
+      "text": "Die Ermittlungen zeigen, wie ernst die Bedrohung durch Terrorismus in Deutschland ist.",
+      "translated_text": "The investigations show how serious the threat of terrorism in Germany is."
+    },
+    {
+      "text": "Besonders nach dem Hamas-Angriff auf Israel am 7. Oktober ist die Sicherheitslage angespannt.",
+      "translated_text": "Especially after the Hamas attack on Israel on October 7, the security situation is tense."
+    },
+    {
+      "text": "Die deutschen Behörden arbeiten eng mit internationalen Partnern zusammen.",
+      "translated_text": "The German authorities are working closely with international partners."
+    },
+    {
+      "text": "Sie wollen weitere Terroranschläge in Europa verhindern.",
+      "translated_text": "They want to prevent further terrorist attacks in Europe."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Behörde",
+      "translated_term": "authority",
+      "example_usage": "Die deutschen Behörden haben drei Männer festgenommen, die der Terrororganisation Hamas angehören sollen."
+    },
+    {
+      "term": "festnehmen",
+      "translated_term": "to arrest",
+      "example_usage": "Die deutschen Behörden haben drei Männer festgenommen, die der Terrororganisation Hamas angehören sollen."
+    },
+    {
+      "term": "der Verdächtige",
+      "translated_term": "suspect",
+      "example_usage": "Die Verdächtigen sollen Anschläge gegen jüdische und israelische Einrichtungen in Deutschland geplant haben."
+    },
+    {
+      "term": "der Anschlag",
+      "translated_term": "attack",
+      "example_usage": "Die Verdächtigen sollen Anschläge gegen jüdische und israelische Einrichtungen in Deutschland geplant haben."
+    },
+    {
+      "term": "die Einrichtung",
+      "translated_term": "institution, facility",
+      "example_usage": "Die Verdächtigen sollen Anschläge gegen jüdische und israelische Einrichtungen in Deutschland geplant haben."
+    },
+    {
+      "term": "der Ermittler",
+      "translated_term": "investigator",
+      "example_usage": "Nach Angaben der Ermittler sollten die Männer Schusswaffen und Munition beschaffen."
+    },
+    {
+      "term": "die Schusswaffe",
+      "translated_term": "firearm",
+      "example_usage": "Nach Angaben der Ermittler sollten die Männer Schusswaffen und Munition beschaffen."
+    },
+    {
+      "term": "beschaffen",
+      "translated_term": "to procure, to obtain",
+      "example_usage": "Nach Angaben der Ermittler sollten die Männer Schusswaffen und Munition beschaffen."
+    },
+    {
+      "term": "die Bedrohung",
+      "translated_term": "threat",
+      "example_usage": "Die Ermittlungen zeigen, wie ernst die Bedrohung durch Terrorismus in Deutschland ist."
+    },
+    {
+      "term": "angespannt",
+      "translated_term": "tense",
+      "example_usage": "Besonders nach dem Hamas-Angriff auf Israel am 7. Oktober ist die Sicherheitslage angespannt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Terrorismus",
+      "translated_name": "Terrorism"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CBS News",
+      "link_url": "https://www.cbsnews.com/news/3-hamas-suspects-arrested-germany-accused-plotting-attacks-jews/"
+    },
+    {
+      "name": "NBC News",
+      "link_url": "https://www.nbcnews.com/world/germany/germany-arrests-suspected-hamas-members-jewish-institutions-rcna234953"
+    }
+  ]
+}

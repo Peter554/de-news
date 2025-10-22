@@ -1,0 +1,118 @@
+{
+  "title": "US-Regierung im Stillstand: Tag 21 der Krise",
+  "translated_title": "US Government at Standstill: Day 21 of Crisis",
+  "text": [
+    {
+      "text": "Die amerikanische Regierung befindet sich seit drei Wochen im Stillstand.",
+      "translated_text": "The American government has been at a standstill for three weeks."
+    },
+    {
+      "text": "Am 22. Oktober 2025 trafen sich republikanische Senatoren mit Präsident Trump im Weißen Haus.",
+      "translated_text": "On October 22, 2025, Republican senators met with President Trump at the White House."
+    },
+    {
+      "text": "Sie wollen die Demokraten dazu bringen, einer Verlängerung der Finanzierung zuzustimmen.",
+      "translated_text": "They want to get the Democrats to agree to an extension of funding."
+    },
+    {
+      "text": "Trump sagte, die Republikaner werden sich nicht erpressen lassen.",
+      "translated_text": "Trump said the Republicans will not be extorted."
+    },
+    {
+      "text": "Der Senat hat bereits elfmal versucht, eine Lösung zu finden, aber ohne Erfolg.",
+      "translated_text": "The Senate has already tried eleven times to find a solution, but without success."
+    },
+    {
+      "text": "Der Stillstand hat ernste Folgen für Bundesbedienstete.",
+      "translated_text": "The standstill has serious consequences for federal employees."
+    },
+    {
+      "text": "Hunderte von Menschen standen vor einer Lebensmittelbank in der Nähe des Kapitols.",
+      "translated_text": "Hundreds of people stood in front of a food bank near the Capitol."
+    },
+    {
+      "text": "Viele Regierungsmitarbeiter bekommen kein Gehalt und brauchen jetzt Hilfe.",
+      "translated_text": "Many government workers are not receiving salaries and now need help."
+    },
+    {
+      "text": "Einige kamen zum ersten Mal zu einer Lebensmittelbank.",
+      "translated_text": "Some came to a food bank for the first time."
+    },
+    {
+      "text": "Ein Ende der Krise ist nicht in Sicht.",
+      "translated_text": "An end to the crisis is not in sight."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Stillstand",
+      "translated_term": "standstill",
+      "example_usage": "Die amerikanische Regierung befindet sich seit drei Wochen im Stillstand."
+    },
+    {
+      "term": "der Senat",
+      "translated_term": "Senate",
+      "example_usage": "Der Senat hat bereits elfmal versucht, eine Lösung zu finden, aber ohne Erfolg."
+    },
+    {
+      "term": "die Finanzierung",
+      "translated_term": "funding",
+      "example_usage": "Sie wollen die Demokraten dazu bringen, einer Verlängerung der Finanzierung zuzustimmen."
+    },
+    {
+      "term": "erpressen",
+      "translated_term": "to extort, to blackmail",
+      "example_usage": "Trump sagte, die Republikaner werden sich nicht erpressen lassen."
+    },
+    {
+      "term": "der Bundesbedienstete",
+      "translated_term": "federal employee",
+      "example_usage": "Der Stillstand hat ernste Folgen für Bundesbedienstete."
+    },
+    {
+      "term": "die Lebensmittelbank",
+      "translated_term": "food bank",
+      "example_usage": "Hunderte von Menschen standen vor einer Lebensmittelbank in der Nähe des Kapitols."
+    },
+    {
+      "term": "das Gehalt",
+      "translated_term": "salary",
+      "example_usage": "Viele Regierungsmitarbeiter bekommen kein Gehalt und brauchen jetzt Hilfe."
+    },
+    {
+      "term": "die Folge",
+      "translated_term": "consequence",
+      "example_usage": "Der Stillstand hat ernste Folgen für Bundesbedienstete."
+    },
+    {
+      "term": "zustimmen",
+      "translated_term": "to agree, to consent",
+      "example_usage": "Sie wollen die Demokraten dazu bringen, einer Verlängerung der Finanzierung zuzustimmen."
+    },
+    {
+      "term": "in Sicht sein",
+      "translated_term": "to be in sight",
+      "example_usage": "Ein Ende der Krise ist nicht in Sicht."
+    }
+  ],
+  "tags": [
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Regierungskrise",
+      "translated_name": "Government Crisis"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CBS News",
+      "link_url": "https://www.cbsnews.com/live-updates/government-shutdown-latest-trump-to-meet-with-senate-republicans/"
+    }
+  ]
+}
