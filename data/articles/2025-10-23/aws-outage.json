@@ -1,0 +1,131 @@
+{
+  "title": "Großer Ausfall bei Amazon Web Services legt Internetdienste lahm",
+  "translated_title": "Major Outage at Amazon Web Services Paralyzes Internet Services",
+  "text": [
+    {
+      "text": "Am 20. Oktober 2025 kam es zu einem schweren Ausfall bei Amazon Web Services (AWS).",
+      "translated_text": "On October 20, 2025, there was a severe outage at Amazon Web Services (AWS)."
+    },
+    {
+      "text": "AWS ist der größte Cloud-Computing-Anbieter der Welt und hat etwa 30 Prozent Marktanteil.",
+      "translated_text": "AWS is the world's largest cloud computing provider and has about 30 percent market share."
+    },
+    {
+      "text": "Der Ausfall begann spät am Sonntagabend und dauerte mehrere Stunden.",
+      "translated_text": "The outage began late Sunday evening and lasted several hours."
+    },
+    {
+      "text": "Die Ursache war ein Fehler in einem Software-Update für die Datenbank DynamoDB.",
+      "translated_text": "The cause was an error in a software update for the DynamoDB database."
+    },
+    {
+      "text": "Über 100 verschiedene Dienste und Websites waren betroffen.",
+      "translated_text": "Over 100 different services and websites were affected."
+    },
+    {
+      "text": "Beliebte Apps wie Snapchat, Reddit, Disney+ und Netflix funktionierten nicht richtig.",
+      "translated_text": "Popular apps like Snapchat, Reddit, Disney+, and Netflix did not work properly."
+    },
+    {
+      "text": "Auch Finanz-Apps wie Coinbase und Robinhood hatten Probleme.",
+      "translated_text": "Financial apps like Coinbase and Robinhood also had problems."
+    },
+    {
+      "text": "Sogar Amazons eigene Website war zeitweise nicht erreichbar.",
+      "translated_text": "Even Amazon's own website was temporarily unreachable."
+    },
+    {
+      "text": "Viele Menschen konnten nicht arbeiten oder ihre Lieblings-Apps nutzen.",
+      "translated_text": "Many people could not work or use their favorite apps."
+    },
+    {
+      "text": "Amazon teilte am Montagabend mit, dass alle Dienste wieder normal funktionieren.",
+      "translated_text": "Amazon announced on Monday evening that all services are working normally again."
+    },
+    {
+      "text": "Der Vorfall zeigt, wie abhängig das Internet von wenigen großen Cloud-Anbietern ist.",
+      "translated_text": "The incident shows how dependent the internet is on a few large cloud providers."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Ausfall",
+      "translated_term": "the outage/failure",
+      "example_usage": "Am 20. Oktober 2025 kam es zu einem schweren Ausfall bei Amazon Web Services (AWS)."
+    },
+    {
+      "term": "der Cloud-Computing-Anbieter",
+      "translated_term": "the cloud computing provider",
+      "example_usage": "AWS ist der größte Cloud-Computing-Anbieter der Welt und hat etwa 30 Prozent Marktanteil."
+    },
+    {
+      "term": "der Marktanteil",
+      "translated_term": "the market share",
+      "example_usage": "AWS ist der größte Cloud-Computing-Anbieter der Welt und hat etwa 30 Prozent Marktanteil."
+    },
+    {
+      "term": "dauern",
+      "translated_term": "to last",
+      "example_usage": "Der Ausfall begann spät am Sonntagabend und dauerte mehrere Stunden."
+    },
+    {
+      "term": "die Ursache",
+      "translated_term": "the cause",
+      "example_usage": "Die Ursache war ein Fehler in einem Software-Update für die Datenbank DynamoDB."
+    },
+    {
+      "term": "die Datenbank",
+      "translated_term": "the database",
+      "example_usage": "Die Ursache war ein Fehler in einem Software-Update für die Datenbank DynamoDB."
+    },
+    {
+      "term": "betroffen sein",
+      "translated_term": "to be affected",
+      "example_usage": "Über 100 verschiedene Dienste und Websites waren betroffen."
+    },
+    {
+      "term": "funktionieren",
+      "translated_term": "to work/function",
+      "example_usage": "Beliebte Apps wie Snapchat, Reddit, Disney+ und Netflix funktionierten nicht richtig."
+    },
+    {
+      "term": "zeitweise",
+      "translated_term": "temporarily/at times",
+      "example_usage": "Sogar Amazons eigene Website war zeitweise nicht erreichbar."
+    },
+    {
+      "term": "mitteilen",
+      "translated_term": "to announce/communicate",
+      "example_usage": "Amazon teilte am Montagabend mit, dass alle Dienste wieder normal funktionieren."
+    },
+    {
+      "term": "abhängig sein von",
+      "translated_term": "to be dependent on",
+      "example_usage": "Der Vorfall zeigt, wie abhängig das Internet von wenigen großen Cloud-Anbietern ist."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    },
+    {
+      "name": "Cybersicherheit",
+      "translated_name": "Cybersecurity"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC",
+      "link_url": "https://www.cnbc.com/2025/10/20/amazon-web-services-outage-takes-down-major-websites.html"
+    },
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/10/21/what-caused-amazons-aws-outage-and-why-did-so-many-major-apps-go-offline"
+    }
+  ]
+}
