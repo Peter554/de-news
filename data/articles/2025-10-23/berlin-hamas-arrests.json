@@ -1,0 +1,132 @@
+{
+  "title": "Drei Hamas-Verdächtige in Berlin verhaftet",
+  "translated_title": "Three Hamas Suspects Arrested in Berlin",
+  "text": [
+    {
+      "text": "Die deutsche Polizei hat Anfang Oktober drei Männer in Berlin verhaftet.",
+      "translated_text": "German police arrested three men in Berlin at the beginning of October."
+    },
+    {
+      "text": "Die Männer werden verdächtigt, für die Terrororganisation Hamas zu arbeiten.",
+      "translated_text": "The men are suspected of working for the terrorist organization Hamas."
+    },
+    {
+      "text": "Laut Staatsanwaltschaft planten sie Angriffe auf jüdische oder israelische Einrichtungen in Deutschland.",
+      "translated_text": "According to the public prosecutor, they were planning attacks on Jewish or Israeli institutions in Germany."
+    },
+    {
+      "text": "Bei den Verdächtigen handelt es sich um zwei deutsche Staatsbürger und einen Mann aus dem Libanon.",
+      "translated_text": "The suspects are two German citizens and a man from Lebanon."
+    },
+    {
+      "text": "Die Polizei fand bei den Durchsuchungen mehrere Waffen, darunter ein AK-47-Sturmgewehr und verschiedene Pistolen.",
+      "translated_text": "During the searches, police found several weapons, including an AK-47 assault rifle and various pistols."
+    },
+    {
+      "text": "Außerdem stellten die Ermittler große Mengen an Munition sicher.",
+      "translated_text": "Investigators also secured large quantities of ammunition."
+    },
+    {
+      "text": "Die Verhaftungen erfolgten einen Tag vor Jom Kippur, dem höchsten jüdischen Feiertag.",
+      "translated_text": "The arrests took place one day before Yom Kippur, the holiest Jewish holiday."
+    },
+    {
+      "text": "Der israelische Geheimdienst Mossad arbeitete mit den deutschen Behörden zusammen.",
+      "translated_text": "The Israeli intelligence service Mossad worked together with the German authorities."
+    },
+    {
+      "text": "Dies ist nicht der erste Fall dieser Art in Deutschland.",
+      "translated_text": "This is not the first case of this kind in Germany."
+    },
+    {
+      "text": "Im Februar begann bereits ein Prozess gegen vier Hamas-Mitglieder in Berlin.",
+      "translated_text": "In February, a trial against four Hamas members already began in Berlin."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "verhaften",
+      "translated_term": "to arrest",
+      "example_usage": "Die deutsche Polizei hat Anfang Oktober drei Männer in Berlin verhaftet."
+    },
+    {
+      "term": "der Verdächtige",
+      "translated_term": "the suspect",
+      "example_usage": "Bei den Verdächtigen handelt es sich um zwei deutsche Staatsbürger und einen Mann aus dem Libanon."
+    },
+    {
+      "term": "die Staatsanwaltschaft",
+      "translated_term": "the public prosecutor's office",
+      "example_usage": "Laut Staatsanwaltschaft planten sie Angriffe auf jüdische oder israelische Einrichtungen in Deutschland."
+    },
+    {
+      "term": "die Einrichtung",
+      "translated_term": "the institution/facility",
+      "example_usage": "Laut Staatsanwaltschaft planten sie Angriffe auf jüdische oder israelische Einrichtungen in Deutschland."
+    },
+    {
+      "term": "die Durchsuchung",
+      "translated_term": "the search",
+      "example_usage": "Die Polizei fand bei den Durchsuchungen mehrere Waffen, darunter ein AK-47-Sturmgewehr und verschiedene Pistolen."
+    },
+    {
+      "term": "das Sturmgewehr",
+      "translated_term": "the assault rifle",
+      "example_usage": "Die Polizei fand bei den Durchsuchungen mehrere Waffen, darunter ein AK-47-Sturmgewehr und verschiedene Pistolen."
+    },
+    {
+      "term": "die Munition",
+      "translated_term": "the ammunition",
+      "example_usage": "Außerdem stellten die Ermittler große Mengen an Munition sicher."
+    },
+    {
+      "term": "sicherstellen",
+      "translated_term": "to secure/seize",
+      "example_usage": "Außerdem stellten die Ermittler große Mengen an Munition sicher."
+    },
+    {
+      "term": "der Feiertag",
+      "translated_term": "the holiday",
+      "example_usage": "Die Verhaftungen erfolgten einen Tag vor Jom Kippur, dem höchsten jüdischen Feiertag."
+    },
+    {
+      "term": "der Geheimdienst",
+      "translated_term": "the intelligence service",
+      "example_usage": "Der israelische Geheimdienst Mossad arbeitete mit den deutschen Behörden zusammen."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "the authority",
+      "example_usage": "Der israelische Geheimdienst Mossad arbeitete mit den deutschen Behörden zusammen."
+    },
+    {
+      "term": "der Prozess",
+      "translated_term": "the trial",
+      "example_usage": "Im Februar begann bereits ein Prozess gegen vier Hamas-Mitglieder in Berlin."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Terrorismus",
+      "translated_name": "Terrorism"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/10/1/germany-arrests-three-men-suspected-of-targeting-jewish-institutions"
+    },
+    {
+      "name": "NBC News",
+      "link_url": "https://www.nbcnews.com/world/germany/germany-arrests-suspected-hamas-members-jewish-institutions-rcna234953"
+    }
+  ]
+}

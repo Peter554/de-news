@@ -1,0 +1,136 @@
+{
+  "title": "Waffenruhe im Gazastreifen unter Druck",
+  "translated_title": "Ceasefire in Gaza Strip Under Pressure",
+  "text": [
+    {
+      "text": "Am 10. Oktober trat im Gazastreifen eine Waffenruhe in Kraft.",
+      "translated_text": "A ceasefire came into effect in the Gaza Strip on October 10."
+    },
+    {
+      "text": "Die USA hatten zwischen Israel und Hamas vermittelt.",
+      "translated_text": "The USA had mediated between Israel and Hamas."
+    },
+    {
+      "text": "Doch schon wenige Tage später stand die Waffenruhe vor dem Scheitern.",
+      "translated_text": "But just a few days later, the ceasefire was on the verge of collapse."
+    },
+    {
+      "text": "Am 19. Oktober führte Israel Luftangriffe auf den Süden des Gazastreifens durch.",
+      "translated_text": "On October 19, Israel carried out air strikes on the south of the Gaza Strip."
+    },
+    {
+      "text": "Israel beschuldigte Hamas-Kämpfer, auf israelische Soldaten geschossen zu haben.",
+      "translated_text": "Israel accused Hamas fighters of having shot at Israeli soldiers."
+    },
+    {
+      "text": "Hamas bestritt dies und sagte, Israel habe die Waffenruhe gebrochen.",
+      "translated_text": "Hamas denied this and said Israel had broken the ceasefire."
+    },
+    {
+      "text": "Laut dem Gaza-Medienbüro wurden seit Beginn der Waffenruhe 97 Palästinenser getötet.",
+      "translated_text": "According to the Gaza Media Office, 97 Palestinians have been killed since the start of the ceasefire."
+    },
+    {
+      "text": "Weitere 230 Menschen wurden verletzt.",
+      "translated_text": "Another 230 people were injured."
+    },
+    {
+      "text": "Israel versprach am selben Tag, sich wieder an die Waffenruhe zu halten.",
+      "translated_text": "Israel promised on the same day to abide by the ceasefire again."
+    },
+    {
+      "text": "Doch es kam zu weiteren Tötungen im nördlichen Gaza.",
+      "translated_text": "But there were further killings in northern Gaza."
+    },
+    {
+      "text": "Auch die humanitäre Lage bleibt schwierig: Israel hält den Grenzübergang Rafah geschlossen und lässt nur 300 Hilfs-LKW pro Tag durch, obwohl die Vereinbarung 600 vorsieht.",
+      "translated_text": "The humanitarian situation also remains difficult: Israel keeps the Rafah border crossing closed and only allows 300 aid trucks through per day, although the agreement provides for 600."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Waffenruhe",
+      "translated_term": "the ceasefire",
+      "example_usage": "Am 10. Oktober trat im Gazastreifen eine Waffenruhe in Kraft."
+    },
+    {
+      "term": "in Kraft treten",
+      "translated_term": "to come into effect",
+      "example_usage": "Am 10. Oktober trat im Gazastreifen eine Waffenruhe in Kraft."
+    },
+    {
+      "term": "vermitteln",
+      "translated_term": "to mediate",
+      "example_usage": "Die USA hatten zwischen Israel und Hamas vermittelt."
+    },
+    {
+      "term": "das Scheitern",
+      "translated_term": "the failure/collapse",
+      "example_usage": "Doch schon wenige Tage später stand die Waffenruhe vor dem Scheitern."
+    },
+    {
+      "term": "der Luftangriff",
+      "translated_term": "the air strike",
+      "example_usage": "Am 19. Oktober führte Israel Luftangriffe auf den Süden des Gazastreifens durch."
+    },
+    {
+      "term": "beschuldigen",
+      "translated_term": "to accuse",
+      "example_usage": "Israel beschuldigte Hamas-Kämpfer, auf israelische Soldaten geschossen zu haben."
+    },
+    {
+      "term": "bestreiten",
+      "translated_term": "to deny",
+      "example_usage": "Hamas bestritt dies und sagte, Israel habe die Waffenruhe gebrochen."
+    },
+    {
+      "term": "verletzen",
+      "translated_term": "to injure/wound",
+      "example_usage": "Weitere 230 Menschen wurden verletzt."
+    },
+    {
+      "term": "sich halten an",
+      "translated_term": "to abide by/adhere to",
+      "example_usage": "Israel versprach am selben Tag, sich wieder an die Waffenruhe zu halten."
+    },
+    {
+      "term": "die Tötung",
+      "translated_term": "the killing",
+      "example_usage": "Doch es kam zu weiteren Tötungen im nördlichen Gaza."
+    },
+    {
+      "term": "der Grenzübergang",
+      "translated_term": "the border crossing",
+      "example_usage": "Israel hält den Grenzübergang Rafah geschlossen und lässt nur 300 Hilfs-LKW pro Tag durch."
+    },
+    {
+      "term": "die Vereinbarung",
+      "translated_term": "the agreement",
+      "example_usage": "Israel hält den Grenzübergang Rafah geschlossen und lässt nur 300 Hilfs-LKW pro Tag durch, obwohl die Vereinbarung 600 vorsieht."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Gaza-Konflikt",
+      "translated_name": "Gaza Conflict"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Menschenrechte",
+      "translated_name": "Human Rights"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/10/19/israeli-strikes-kill-15-in-gaza-as-both-sides-say-the-other-breached-truce"
+    },
+    {
+      "name": "NPR",
+      "link_url": "https://www.npr.org/2025/10/19/nx-s1-5579554/israel-and-hamas-accuse-each-other-of-breaching-fragile-ceasefire-in-gaza"
+    }
+  ]
+}

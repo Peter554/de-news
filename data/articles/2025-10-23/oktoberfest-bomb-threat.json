@@ -1,0 +1,136 @@
+{
+  "title": "Oktoberfest wegen Bombendrohung vorübergehend geschlossen",
+  "translated_title": "Oktoberfest Temporarily Closed Due to Bomb Threat",
+  "text": [
+    {
+      "text": "Das weltberühmte Oktoberfest in München musste am 1. Oktober vorübergehend schließen.",
+      "translated_text": "The world-famous Oktoberfest in Munich had to close temporarily on October 1st."
+    },
+    {
+      "text": "Der Grund war eine Bombendrohung, die mit einem Vorfall in einem Wohnhaus zusammenhing.",
+      "translated_text": "The reason was a bomb threat that was connected to an incident in a residential building."
+    },
+    {
+      "text": "In München-Lerchenau hatte ein 57-jähriger Mann Sprengstoffe im Haus seiner Eltern platziert.",
+      "translated_text": "In Munich-Lerchenau, a 57-year-old man had placed explosives in his parents' house."
+    },
+    {
+      "text": "Das Haus brannte nieder, und der Mann starb durch Suizid.",
+      "translated_text": "The house burned down, and the man died by suicide."
+    },
+    {
+      "text": "Die Polizei fand beim Verdächtigen einen Rucksack mit einem Sprengsatz, der entschärft werden musste.",
+      "translated_text": "Police found a backpack with an explosive device on the suspect that had to be defused."
+    },
+    {
+      "text": "In einem Brief drohte der Mann mit weiteren Sprengstoffen auf dem Oktoberfest.",
+      "translated_text": "In a letter, the man threatened further explosives at the Oktoberfest."
+    },
+    {
+      "text": "Die Behörden nahmen die Drohung sehr ernst und räumten das Festgelände.",
+      "translated_text": "The authorities took the threat very seriously and evacuated the festival grounds."
+    },
+    {
+      "text": "Spürhunde durchsuchten das gesamte Gelände nach Sprengstoffen.",
+      "translated_text": "Detection dogs searched the entire grounds for explosives."
+    },
+    {
+      "text": "Nach mehreren Stunden gab die Polizei Entwarnung.",
+      "translated_text": "After several hours, the police gave the all-clear."
+    },
+    {
+      "text": "Es wurden keine Sprengstoffe auf dem Oktoberfest gefunden, und das Fest konnte um 17:30 Uhr wieder öffnen.",
+      "translated_text": "No explosives were found at the Oktoberfest, and the festival was able to reopen at 5:30 p.m."
+    },
+    {
+      "text": "Die Polizei stellte fest, dass der Vorfall mit einem familiären Streit zusammenhing und keinen terroristischen Hintergrund hatte.",
+      "translated_text": "The police determined that the incident was related to a family dispute and had no terrorist background."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "vorübergehend",
+      "translated_term": "temporarily",
+      "example_usage": "Das weltberühmte Oktoberfest in München musste am 1. Oktober vorübergehend schließen."
+    },
+    {
+      "term": "die Bombendrohung",
+      "translated_term": "the bomb threat",
+      "example_usage": "Der Grund war eine Bombendrohung, die mit einem Vorfall in einem Wohnhaus zusammenhing."
+    },
+    {
+      "term": "der Vorfall",
+      "translated_term": "the incident",
+      "example_usage": "Der Grund war eine Bombendrohung, die mit einem Vorfall in einem Wohnhaus zusammenhing."
+    },
+    {
+      "term": "der Sprengstoff",
+      "translated_term": "the explosive",
+      "example_usage": "In München-Lerchenau hatte ein 57-jähriger Mann Sprengstoffe im Haus seiner Eltern platziert."
+    },
+    {
+      "term": "niederbrennen",
+      "translated_term": "to burn down",
+      "example_usage": "Das Haus brannte nieder, und der Mann starb durch Suizid."
+    },
+    {
+      "term": "der Sprengsatz",
+      "translated_term": "the explosive device",
+      "example_usage": "Die Polizei fand beim Verdächtigen einen Rucksack mit einem Sprengsatz, der entschärft werden musste."
+    },
+    {
+      "term": "entschärfen",
+      "translated_term": "to defuse",
+      "example_usage": "Die Polizei fand beim Verdächtigen einen Rucksack mit einem Sprengsatz, der entschärft werden musste."
+    },
+    {
+      "term": "drohen",
+      "translated_term": "to threaten",
+      "example_usage": "In einem Brief drohte der Mann mit weiteren Sprengstoffen auf dem Oktoberfest."
+    },
+    {
+      "term": "räumen",
+      "translated_term": "to evacuate/clear",
+      "example_usage": "Die Behörden nahmen die Drohung sehr ernst und räumten das Festgelände."
+    },
+    {
+      "term": "der Spürhund",
+      "translated_term": "the detection dog",
+      "example_usage": "Spürhunde durchsuchten das gesamte Gelände nach Sprengstoffen."
+    },
+    {
+      "term": "Entwarnung geben",
+      "translated_term": "to give the all-clear",
+      "example_usage": "Nach mehreren Stunden gab die Polizei Entwarnung."
+    },
+    {
+      "term": "der Streit",
+      "translated_term": "the dispute",
+      "example_usage": "Die Polizei stellte fest, dass der Vorfall mit einem familiären Streit zusammenhing und keinen terroristischen Hintergrund hatte."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Veranstaltungen",
+      "translated_name": "Events"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ABC News",
+      "link_url": "https://abcnews.go.com/International/munich-oktoberfest-closed-after-bomb-threat-deadly-explosion/story?id=126107497"
+    },
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/10/1/munichs-world-famous-oktoberfest-suspended-in-germany-after-bomb-threat"
+    }
+  ]
+}

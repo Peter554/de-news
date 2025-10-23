@@ -1,0 +1,136 @@
+{
+  "title": "Generalstreik in Griechenland gegen neue Arbeitsgesetze",
+  "translated_title": "General Strike in Greece Against New Labor Laws",
+  "text": [
+    {
+      "text": "Am 1. Oktober 2025 fand in Griechenland ein landesweiter Generalstreik statt.",
+      "translated_text": "A nationwide general strike took place in Greece on October 1, 2025."
+    },
+    {
+      "text": "Tausende Menschen gingen in Athen und anderen Städten auf die Straße.",
+      "translated_text": "Thousands of people took to the streets in Athens and other cities."
+    },
+    {
+      "text": "Die Gewerkschaften protestieren gegen ein neues Arbeitsgesetz der konservativen Regierung.",
+      "translated_text": "The unions are protesting against a new labor law from the conservative government."
+    },
+    {
+      "text": "Das Gesetz würde es erlauben, dass Arbeitnehmer an manchen Tagen bis zu 13 Stunden arbeiten müssen.",
+      "translated_text": "The law would allow employees to be required to work up to 13 hours on some days."
+    },
+    {
+      "text": "Die maximale Arbeitszeit mit Überstunden wäre 48 Stunden pro Woche.",
+      "translated_text": "The maximum working time with overtime would be 48 hours per week."
+    },
+    {
+      "text": "Die Gewerkschaften sagen, dass diese Regelungen die Arbeiter ausbeuten.",
+      "translated_text": "The unions say that these regulations exploit the workers."
+    },
+    {
+      "text": "Sie fordern stattdessen eine 35-Stunden-Woche und faire Löhne.",
+      "translated_text": "Instead, they are demanding a 35-hour work week and fair wages."
+    },
+    {
+      "text": "Der Streik legte das öffentliche Leben weitgehend lahm.",
+      "translated_text": "The strike largely paralyzed public life."
+    },
+    {
+      "text": "U-Bahnen, Züge und Fähren fuhren nicht, und viele Schulen und Krankenhäuser waren geschlossen.",
+      "translated_text": "Subways, trains, and ferries did not run, and many schools and hospitals were closed."
+    },
+    {
+      "text": "Die Regierung verteidigt das Gesetz und argumentiert, dass es Arbeitnehmern mehr Flexibilität gibt.",
+      "translated_text": "The government defends the law and argues that it gives workers more flexibility."
+    },
+    {
+      "text": "Dies war bereits der vierte Generalstreik in Griechenland in diesem Jahr.",
+      "translated_text": "This was already the fourth general strike in Greece this year."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Generalstreik",
+      "translated_term": "the general strike",
+      "example_usage": "Am 1. Oktober 2025 fand in Griechenland ein landesweiter Generalstreik statt."
+    },
+    {
+      "term": "landesweit",
+      "translated_term": "nationwide",
+      "example_usage": "Am 1. Oktober 2025 fand in Griechenland ein landesweiter Generalstreik statt."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the union/trade union",
+      "example_usage": "Die Gewerkschaften protestieren gegen ein neues Arbeitsgesetz der konservativen Regierung."
+    },
+    {
+      "term": "das Arbeitsgesetz",
+      "translated_term": "the labor law",
+      "example_usage": "Die Gewerkschaften protestieren gegen ein neues Arbeitsgesetz der konservativen Regierung."
+    },
+    {
+      "term": "der Arbeitnehmer",
+      "translated_term": "the employee",
+      "example_usage": "Das Gesetz würde es erlauben, dass Arbeitnehmer an manchen Tagen bis zu 13 Stunden arbeiten müssen."
+    },
+    {
+      "term": "die Überstunde",
+      "translated_term": "the overtime (hour)",
+      "example_usage": "Die maximale Arbeitszeit mit Überstunden wäre 48 Stunden pro Woche."
+    },
+    {
+      "term": "ausbeuten",
+      "translated_term": "to exploit",
+      "example_usage": "Die Gewerkschaften sagen, dass diese Regelungen die Arbeiter ausbeuten."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand",
+      "example_usage": "Sie fordern stattdessen eine 35-Stunden-Woche und faire Löhne."
+    },
+    {
+      "term": "der Lohn",
+      "translated_term": "the wage",
+      "example_usage": "Sie fordern stattdessen eine 35-Stunden-Woche und faire Löhne."
+    },
+    {
+      "term": "lahmlegen",
+      "translated_term": "to paralyze/bring to a standstill",
+      "example_usage": "Der Streik legte das öffentliche Leben weitgehend lahm."
+    },
+    {
+      "term": "verteidigen",
+      "translated_term": "to defend",
+      "example_usage": "Die Regierung verteidigt das Gesetz und argumentiert, dass es Arbeitnehmern mehr Flexibilität gibt."
+    },
+    {
+      "term": "die Flexibilität",
+      "translated_term": "the flexibility",
+      "example_usage": "Die Regierung verteidigt das Gesetz und argumentiert, dass es Arbeitnehmern mehr Flexibilität gibt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Griechenland",
+      "translated_name": "Greece"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/10/1/greece-labour-law-protests-bring-public-transport-to-a-halt"
+    },
+    {
+      "name": "Greek Reporter",
+      "link_url": "https://greekreporter.com/2025/10/01/greece-nationwide-strike-labor-law/"
+    }
+  ]
+}
