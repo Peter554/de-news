@@ -28,6 +28,10 @@
     "translated_name": "Education"
   },
   {
+    "name": "China",
+    "translated_name": "China"
+  },
+  {
     "name": "Bundeshaushalt",
     "translated_name": "Federal Budget"
   },
@@ -62,6 +66,10 @@
   {
     "name": "Extremismus",
     "translated_name": "Extremism"
+  },
+  {
+    "name": "Frankreich",
+    "translated_name": "France"
   },
   {
     "name": "Friedensproteste",
