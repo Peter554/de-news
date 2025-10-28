@@ -1,0 +1,126 @@
+{
+  "title": "Sicherheitsprobleme in Deutschland nehmen zu",
+  "translated_title": "Security Problems in Germany Increase",
+  "text": [
+    {
+      "text": "In den letzten Wochen gab es in Deutschland mehrere besorgniserregende Sicherheitsvorfälle.",
+      "translated_text": "In recent weeks, there have been several concerning security incidents in Germany."
+    },
+    {
+      "text": "Die deutsche Polizei hat drei Verdächtige festgenommen, die angeblich Anschläge auf jüdische und israelische Einrichtungen geplant hatten.",
+      "translated_text": "German police arrested three suspects who allegedly planned attacks on Jewish and Israeli institutions."
+    },
+    {
+      "text": "Die Männer sollen Verbindungen zur Hamas-Organisation haben.",
+      "translated_text": "The men are said to have connections to the Hamas organization."
+    },
+    {
+      "text": "Auch der Münchner Flughafen hatte Probleme: Er musste zweimal innerhalb von zwei Tagen wegen unbestätigter Drohnensichtungen geschlossen werden.",
+      "translated_text": "Munich Airport also had problems: it had to close twice within two days due to unconfirmed drone sightings."
+    },
+    {
+      "text": "Am 3. Oktober wurden 17 Flüge gestrichen, was fast 3.000 Passagiere betraf.",
+      "translated_text": "On October 3, 17 flights were canceled, affecting nearly 3,000 passengers."
+    },
+    {
+      "text": "Das berühmte Oktoberfest in München wurde am 1. Oktober bis 17 Uhr geschlossen, nachdem es eine Bombendrohung gab.",
+      "translated_text": "The famous Oktoberfest in Munich was closed on October 1 until 5 p.m. after there was a bomb threat."
+    },
+    {
+      "text": "Die Bedrohung stand im Zusammenhang mit einer tödlichen Explosion im Norden Münchens.",
+      "translated_text": "The threat was connected to a deadly explosion in northern Munich."
+    },
+    {
+      "text": "In Hannover wurde eine Person getötet und mehrere verletzt, als in der Nacht zum Mittwoch Schüsse fielen.",
+      "translated_text": "In Hanover, one person was killed and several injured when shots were fired on Wednesday night."
+    },
+    {
+      "text": "Die Polizei arbeitet intensiv daran, die Sicherheit zu verbessern und weitere Vorfälle zu verhindern.",
+      "translated_text": "The police are working intensively to improve security and prevent further incidents."
+    },
+    {
+      "text": "Trotz dieser Herausforderungen bleibt Deutschland ein sicheres Land, aber die Behörden sind wachsam.",
+      "translated_text": "Despite these challenges, Germany remains a safe country, but the authorities are vigilant."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "besorgniserregend",
+      "translated_term": "concerning/worrying",
+      "example_usage": "In den letzten Wochen gab es in Deutschland mehrere besorgniserregende Sicherheitsvorfälle."
+    },
+    {
+      "term": "der Verdächtige",
+      "translated_term": "suspect",
+      "example_usage": "Die deutsche Polizei hat drei Verdächtige festgenommen, die angeblich Anschläge auf jüdische und israelische Einrichtungen geplant hatten."
+    },
+    {
+      "term": "festnehmen",
+      "translated_term": "to arrest",
+      "example_usage": "Die deutsche Polizei hat drei Verdächtige festgenommen, die angeblich Anschläge auf jüdische und israelische Einrichtungen geplant hatten."
+    },
+    {
+      "term": "der Anschlag",
+      "translated_term": "attack",
+      "example_usage": "Die deutsche Polizei hat drei Verdächtige festgenommen, die angeblich Anschläge auf jüdische und israelische Einrichtungen geplant hatten."
+    },
+    {
+      "term": "die Einrichtung",
+      "translated_term": "institution/facility",
+      "example_usage": "Die deutsche Polizei hat drei Verdächtige festgenommen, die angeblich Anschläge auf jüdische und israelische Einrichtungen geplant hatten."
+    },
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "Er musste zweimal innerhalb von zwei Tagen wegen unbestätigter Drohnensichtungen geschlossen werden."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel",
+      "example_usage": "Am 3. Oktober wurden 17 Flüge gestrichen, was fast 3.000 Passagiere betraf."
+    },
+    {
+      "term": "betreffen",
+      "translated_term": "to affect/concern",
+      "example_usage": "Am 3. Oktober wurden 17 Flüge gestrichen, was fast 3.000 Passagiere betraf."
+    },
+    {
+      "term": "die Bedrohung",
+      "translated_term": "threat",
+      "example_usage": "Die Bedrohung stand im Zusammenhang mit einer tödlichen Explosion im Norden Münchens."
+    },
+    {
+      "term": "wachsam",
+      "translated_term": "vigilant/alert",
+      "example_usage": "Trotz dieser Herausforderungen bleibt Deutschland ein sicheres Land, aber die Behörden sind wachsam."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Terrorismus",
+      "translated_name": "Terrorism"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CBS News",
+      "link_url": "https://www.cbsnews.com/news/3-hamas-suspects-arrested-germany-accused-plotting-attacks-jews/"
+    },
+    {
+      "name": "CNN",
+      "link_url": "https://www.cnn.com/2025/10/02/europe/munich-airport-closed-drone-sighting-intl-hnk"
+    },
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/10/1/munichs-world-famous-oktoberfest-suspended-in-germany-after-bomb-threat"
+    }
+  ]
+}
