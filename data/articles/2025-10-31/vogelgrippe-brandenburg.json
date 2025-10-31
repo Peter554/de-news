@@ -1,0 +1,138 @@
+{
+  "title": "Vogelgrippe-Ausbruch in Brandenburg: 130.000 Vögel müssen getötet werden",
+  "translated_title": "Bird Flu Outbreak in Brandenburg: 130,000 Birds Must Be Culled",
+  "text": [
+    {
+      "text": "In Brandenburg müssen rund 130.000 Vögel wegen der Vogelgrippe getötet werden.",
+      "translated_text": "In Brandenburg, around 130,000 birds must be culled because of bird flu."
+    },
+    {
+      "text": "Die Behörden haben das hochansteckende H5N1-Virus in zwei Geflügelbetrieben bestätigt.",
+      "translated_text": "The authorities have confirmed the highly contagious H5N1 virus at two poultry farms."
+    },
+    {
+      "text": "Die Vogelgrippe ist eine gefährliche Krankheit, die sich schnell unter Vögeln verbreitet.",
+      "translated_text": "Bird flu is a dangerous disease that spreads quickly among birds."
+    },
+    {
+      "text": "Um eine weitere Ausbreitung zu verhindern, müssen alle infizierten und möglicherweise infizierten Vögel getötet werden.",
+      "translated_text": "To prevent further spread, all infected and potentially infected birds must be killed."
+    },
+    {
+      "text": "Auch in Berlin wurden die ersten Fälle dieser Welle bestätigt.",
+      "translated_text": "The first cases of this wave were also confirmed in Berlin."
+    },
+    {
+      "text": "Zwei tote Kraniche wurden positiv auf das Virus getestet.",
+      "translated_text": "Two dead cranes tested positive for the virus."
+    },
+    {
+      "text": "Experten sind besorgt, dass sich die Vogelgrippe weiter ausbreiten könnte.",
+      "translated_text": "Experts are concerned that the bird flu could spread further."
+    },
+    {
+      "text": "Die Behörden haben strengere Sicherheitsmaßnahmen für Geflügelhalter eingeführt.",
+      "translated_text": "The authorities have introduced stricter safety measures for poultry farmers."
+    },
+    {
+      "text": "Alle Geflügelhalter müssen ihre Tiere jetzt in geschlossenen Ställen halten.",
+      "translated_text": "All poultry farmers must now keep their animals in enclosed barns."
+    },
+    {
+      "text": "Das Risiko für Menschen ist gering, aber die wirtschaftlichen Folgen für die Geflügelindustrie sind erheblich.",
+      "translated_text": "The risk to humans is low, but the economic consequences for the poultry industry are significant."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Vogelgrippe",
+      "translated_term": "bird flu / avian influenza",
+      "example_usage": "In Brandenburg müssen rund 130.000 Vögel wegen der Vogelgrippe getötet werden."
+    },
+    {
+      "term": "der Ausbruch",
+      "translated_term": "outbreak",
+      "example_usage": "In Brandenburg müssen rund 130.000 Vögel wegen der Vogelgrippe getötet werden."
+    },
+    {
+      "term": "töten",
+      "translated_term": "to kill / to cull",
+      "example_usage": "In Brandenburg müssen rund 130.000 Vögel wegen der Vogelgrippe getötet werden."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "authority",
+      "example_usage": "Die Behörden haben das hochansteckende H5N1-Virus in zwei Geflügelbetrieben bestätigt."
+    },
+    {
+      "term": "hochansteckend",
+      "translated_term": "highly contagious",
+      "example_usage": "Die Behörden haben das hochansteckende H5N1-Virus in zwei Geflügelbetrieben bestätigt."
+    },
+    {
+      "term": "der Geflügelbetrieb",
+      "translated_term": "poultry farm",
+      "example_usage": "Die Behörden haben das hochansteckende H5N1-Virus in zwei Geflügelbetrieben bestätigt."
+    },
+    {
+      "term": "die Krankheit",
+      "translated_term": "disease",
+      "example_usage": "Die Vogelgrippe ist eine gefährliche Krankheit, die sich schnell unter Vögeln verbreitet."
+    },
+    {
+      "term": "sich verbreiten",
+      "translated_term": "to spread",
+      "example_usage": "Die Vogelgrippe ist eine gefährliche Krankheit, die sich schnell unter Vögeln verbreitet."
+    },
+    {
+      "term": "verhindern",
+      "translated_term": "to prevent",
+      "example_usage": "Um eine weitere Ausbreitung zu verhindern, müssen alle infizierten und möglicherweise infizierten Vögel getötet werden."
+    },
+    {
+      "term": "infiziert",
+      "translated_term": "infected",
+      "example_usage": "Um eine weitere Ausbreitung zu verhindern, müssen alle infizierten und möglicherweise infizierten Vögel getötet werden."
+    },
+    {
+      "term": "der Kranich",
+      "translated_term": "crane (bird)",
+      "example_usage": "Zwei tote Kraniche wurden positiv auf das Virus getestet."
+    },
+    {
+      "term": "die Sicherheitsmaßnahme",
+      "translated_term": "safety measure / security measure",
+      "example_usage": "Die Behörden haben strengere Sicherheitsmaßnahmen für Geflügelhalter eingeführt."
+    },
+    {
+      "term": "der Stall",
+      "translated_term": "barn / stable",
+      "example_usage": "Alle Geflügelhalter müssen ihre Tiere jetzt in geschlossenen Ställen halten."
+    },
+    {
+      "term": "erheblich",
+      "translated_term": "significant / considerable",
+      "example_usage": "Das Risiko für Menschen ist gering, aber die wirtschaftlichen Folgen für die Geflügelindustrie sind erheblich."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Left Berlin",
+      "link_url": "https://www.theleftberlin.com/news-from-berlin-and-germany-29th-october-2025/"
+    }
+  ]
+}

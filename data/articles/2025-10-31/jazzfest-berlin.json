@@ -1,0 +1,142 @@
+{
+  "title": "Jazzfest Berlin feiert 62. Ausgabe mit internationalen Künstlern",
+  "translated_title": "Jazzfest Berlin Celebrates 62nd Edition with International Artists",
+  "text": [
+    {
+      "text": "Vom 30. Oktober bis zum 2. November 2025 findet in Berlin das 62. Jazzfest statt.",
+      "translated_text": "From October 30 to November 2, 2025, the 62nd Jazzfest is taking place in Berlin."
+    },
+    {
+      "text": "Mehr als 120 internationale Musiker aus über 20 Ländern nehmen an dem Festival teil.",
+      "translated_text": "More than 120 international musicians from over 20 countries are participating in the festival."
+    },
+    {
+      "text": "Das Jazzfest Berlin ist eines der wichtigsten Jazz-Festivals in Europa.",
+      "translated_text": "The Jazzfest Berlin is one of the most important jazz festivals in Europe."
+    },
+    {
+      "text": "Es zieht jedes Jahr tausende Besucher aus der ganzen Welt an.",
+      "translated_text": "It attracts thousands of visitors from around the world every year."
+    },
+    {
+      "text": "Die Konzerte finden an verschiedenen Orten in Berlin statt, unter anderem im Haus der Berliner Festspiele.",
+      "translated_text": "The concerts take place at various locations in Berlin, including at the Haus der Berliner Festspiele."
+    },
+    {
+      "text": "Das Programm bietet eine vielfältige Mischung aus traditionellem und modernem Jazz.",
+      "translated_text": "The program offers a diverse mix of traditional and modern jazz."
+    },
+    {
+      "text": "Auch experimentelle Klänge und neue musikalische Ideen sind Teil des Festivals.",
+      "translated_text": "Experimental sounds and new musical ideas are also part of the festival."
+    },
+    {
+      "text": "Gleichzeitig öffnet am 31. Oktober die Neue Nationalgalerie ihre Türen für eine besondere Veranstaltung.",
+      "translated_text": "At the same time, on October 31, the Neue Nationalgalerie opens its doors for a special event."
+    },
+    {
+      "text": "Rund 100 internationale Künstler präsentieren dort Performances, Klangarbeiten und Workshops.",
+      "translated_text": "Around 100 international artists present performances, sound works, and workshops there."
+    },
+    {
+      "text": "Berlin zeigt damit einmal mehr, warum es als Kulturhauptstadt Europas gilt.",
+      "translated_text": "Berlin thus shows once again why it is considered the cultural capital of Europe."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Ausgabe",
+      "translated_term": "edition",
+      "example_usage": "Vom 30. Oktober bis zum 2. November 2025 findet in Berlin das 62. Jazzfest statt."
+    },
+    {
+      "term": "der Musiker / die Musikerin",
+      "translated_term": "musician",
+      "example_usage": "Mehr als 120 internationale Musiker aus über 20 Ländern nehmen an dem Festival teil."
+    },
+    {
+      "term": "teilnehmen",
+      "translated_term": "to participate / to take part",
+      "example_usage": "Mehr als 120 internationale Musiker aus über 20 Ländern nehmen an dem Festival teil."
+    },
+    {
+      "term": "das Festival",
+      "translated_term": "festival",
+      "example_usage": "Mehr als 120 internationale Musiker aus über 20 Ländern nehmen an dem Festival teil."
+    },
+    {
+      "term": "anziehen",
+      "translated_term": "to attract",
+      "example_usage": "Es zieht jedes Jahr tausende Besucher aus der ganzen Welt an."
+    },
+    {
+      "term": "das Konzert",
+      "translated_term": "concert",
+      "example_usage": "Die Konzerte finden an verschiedenen Orten in Berlin statt, unter anderem im Haus der Berliner Festspiele."
+    },
+    {
+      "term": "stattfinden",
+      "translated_term": "to take place",
+      "example_usage": "Die Konzerte finden an verschiedenen Orten in Berlin statt, unter anderem im Haus der Berliner Festspiele."
+    },
+    {
+      "term": "vielfältig",
+      "translated_term": "diverse / varied",
+      "example_usage": "Das Programm bietet eine vielfältige Mischung aus traditionellem und modernem Jazz."
+    },
+    {
+      "term": "die Mischung",
+      "translated_term": "mix / mixture",
+      "example_usage": "Das Programm bietet eine vielfältige Mischung aus traditionellem und modernem Jazz."
+    },
+    {
+      "term": "der Klang",
+      "translated_term": "sound",
+      "example_usage": "Auch experimentelle Klänge und neue musikalische Ideen sind Teil des Festivals."
+    },
+    {
+      "term": "die Türen öffnen",
+      "translated_term": "to open the doors",
+      "example_usage": "Gleichzeitig öffnet am 31. Oktober die Neue Nationalgalerie ihre Türen für eine besondere Veranstaltung."
+    },
+    {
+      "term": "präsentieren",
+      "translated_term": "to present",
+      "example_usage": "Rund 100 internationale Künstler präsentieren dort Performances, Klangarbeiten und Workshops."
+    },
+    {
+      "term": "die Kulturhauptstadt",
+      "translated_term": "cultural capital",
+      "example_usage": "Berlin zeigt damit einmal mehr, warum es als Kulturhauptstadt Europas gilt."
+    },
+    {
+      "term": "gelten",
+      "translated_term": "to be considered / to be regarded as",
+      "example_usage": "Berlin zeigt damit einmal mehr, warum es als Kulturhauptstadt Europas gilt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Kultur",
+      "translated_name": "Culture"
+    },
+    {
+      "name": "Veranstaltungen",
+      "translated_name": "Events"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NuBerlin",
+      "link_url": "https://www.nuberlin.com/events/october/"
+    },
+    {
+      "name": "Berlin.de",
+      "link_url": "https://www.berlin.de/en/events/october/"
+    }
+  ]
+}
