@@ -1,0 +1,138 @@
+{
+  "title": "Elektronische Patientenakte wird in Deutschland Pflicht",
+  "translated_title": "Electronic Patient Record Becomes Mandatory in Germany",
+  "text": [
+    {
+      "text": "Seit dem 1. Oktober 2025 ist die elektronische Patientenakte in Deutschland für alle Patienten verpflichtend.",
+      "translated_text": "Since October 1, 2025, the electronic patient record has been mandatory for all patients in Germany."
+    },
+    {
+      "text": "Die elektronische Patientenakte, auch ePA genannt, speichert wichtige medizinische Informationen digital.",
+      "translated_text": "The electronic patient record, also called ePA, stores important medical information digitally."
+    },
+    {
+      "text": "Dazu gehören Diagnosen, Behandlungen, Medikamente und Untersuchungsergebnisse.",
+      "translated_text": "This includes diagnoses, treatments, medications, and examination results."
+    },
+    {
+      "text": "Alle Ärzte und medizinischen Einrichtungen müssen jetzt das System verwenden.",
+      "translated_text": "All doctors and medical facilities must now use the system."
+    },
+    {
+      "text": "Patienten können aber ausdrücklich widersprechen, wenn sie keine elektronische Akte wollen.",
+      "translated_text": "However, patients can explicitly opt out if they do not want an electronic record."
+    },
+    {
+      "text": "Die Regierung sagt, dass die ePA viele Vorteile hat.",
+      "translated_text": "The government says that the ePA has many advantages."
+    },
+    {
+      "text": "Ärzte können schneller auf wichtige Informationen zugreifen und bessere Behandlungsentscheidungen treffen.",
+      "translated_text": "Doctors can access important information more quickly and make better treatment decisions."
+    },
+    {
+      "text": "Auch doppelte Untersuchungen können vermieden werden, was Kosten spart.",
+      "translated_text": "Duplicate examinations can also be avoided, which saves costs."
+    },
+    {
+      "text": "Datenschützer haben jedoch Bedenken über die Sicherheit der persönlichen Gesundheitsdaten geäußert.",
+      "translated_text": "However, data protection advocates have expressed concerns about the security of personal health data."
+    },
+    {
+      "text": "Sie fordern stärkere Kontrollen, um sicherzustellen, dass die Daten gut geschützt sind.",
+      "translated_text": "They are calling for stronger controls to ensure that the data is well protected."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Patientenakte",
+      "translated_term": "patient record",
+      "example_usage": "Seit dem 1. Oktober 2025 ist die elektronische Patientenakte in Deutschland für alle Patienten verpflichtend."
+    },
+    {
+      "term": "verpflichtend",
+      "translated_term": "mandatory / obligatory",
+      "example_usage": "Seit dem 1. Oktober 2025 ist die elektronische Patientenakte in Deutschland für alle Patienten verpflichtend."
+    },
+    {
+      "term": "speichern",
+      "translated_term": "to store / to save",
+      "example_usage": "Die elektronische Patientenakte, auch ePA genannt, speichert wichtige medizinische Informationen digital."
+    },
+    {
+      "term": "die Diagnose",
+      "translated_term": "diagnosis",
+      "example_usage": "Dazu gehören Diagnosen, Behandlungen, Medikamente und Untersuchungsergebnisse."
+    },
+    {
+      "term": "die Behandlung",
+      "translated_term": "treatment",
+      "example_usage": "Dazu gehören Diagnosen, Behandlungen, Medikamente und Untersuchungsergebnisse."
+    },
+    {
+      "term": "das Medikament",
+      "translated_term": "medication / medicine",
+      "example_usage": "Dazu gehören Diagnosen, Behandlungen, Medikamente und Untersuchungsergebnisse."
+    },
+    {
+      "term": "die Einrichtung",
+      "translated_term": "facility / institution",
+      "example_usage": "Alle Ärzte und medizinischen Einrichtungen müssen jetzt das System verwenden."
+    },
+    {
+      "term": "widersprechen",
+      "translated_term": "to object / to opt out",
+      "example_usage": "Patienten können aber ausdrücklich widersprechen, wenn sie keine elektronische Akte wollen."
+    },
+    {
+      "term": "der Vorteil",
+      "translated_term": "advantage / benefit",
+      "example_usage": "Die Regierung sagt, dass die ePA viele Vorteile hat."
+    },
+    {
+      "term": "zugreifen",
+      "translated_term": "to access",
+      "example_usage": "Ärzte können schneller auf wichtige Informationen zugreifen und bessere Behandlungsentscheidungen treffen."
+    },
+    {
+      "term": "vermeiden",
+      "translated_term": "to avoid",
+      "example_usage": "Auch doppelte Untersuchungen können vermieden werden, was Kosten spart."
+    },
+    {
+      "term": "der Datenschützer",
+      "translated_term": "data protection advocate",
+      "example_usage": "Datenschützer haben jedoch Bedenken über die Sicherheit der persönlichen Gesundheitsdaten geäußert."
+    },
+    {
+      "term": "die Bedenken",
+      "translated_term": "concerns / reservations",
+      "example_usage": "Datenschützer haben jedoch Bedenken über die Sicherheit der persönlichen Gesundheitsdaten geäußert."
+    },
+    {
+      "term": "äußern",
+      "translated_term": "to express / to voice",
+      "example_usage": "Datenschützer haben jedoch Bedenken über die Sicherheit der persönlichen Gesundheitsdaten geäußert."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    }
+  ],
+  "sources": [
+    {
+      "name": "IamExpat",
+      "link_url": "https://www.iamexpat.de/expat-info/germany-news/october-2025-12-changes-affecting-expats-germany"
+    }
+  ]
+}
