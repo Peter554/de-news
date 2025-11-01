@@ -112,6 +112,10 @@
     "translated_name": "Youth Crime"
   },
   {
+    "name": "Justiz",
+    "translated_name": "Justice"
+  },
+  {
     "name": "Kirche",
     "translated_name": "Church"
   },
@@ -222,6 +226,10 @@
   {
     "name": "Vereinte Nationen",
     "translated_name": "United Nations"
+  },
+  {
+    "name": "Verteidigung",
+    "translated_name": "Defense"
   },
   {
     "name": "Wahlkampf",

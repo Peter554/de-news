@@ -1,0 +1,136 @@
+{
+  "title": "Drohne legt Flughafen BER lahm",
+  "translated_title": "Drone Shuts Down BER Airport",
+  "text": [
+    {
+      "text": "Der Flughafen Berlin Brandenburg musste in der Nacht zum Samstag fast zwei Stunden lang den Betrieb einstellen.",
+      "translated_text": "Berlin Brandenburg Airport had to suspend operations for almost two hours on Friday night into Saturday."
+    },
+    {
+      "text": "Der Grund war eine Drohne im Luftraum des Flughafens.",
+      "translated_text": "The reason was a drone in the airport's airspace."
+    },
+    {
+      "text": "Ein Zeuge hatte zuerst die unbekannte Drohne in der Nähe des Flughafens gemeldet.",
+      "translated_text": "A witness first reported the unknown drone near the airport."
+    },
+    {
+      "text": "Danach sah auch ein Streifenwagen das Flugobjekt im Bereich des BER.",
+      "translated_text": "After that, a patrol car also spotted the flying object in the BER area."
+    },
+    {
+      "text": "Aus Sicherheitsgründen mussten alle Starts und Landungen gestoppt werden.",
+      "translated_text": "For safety reasons, all takeoffs and landings had to be stopped."
+    },
+    {
+      "text": "Der Flughafen ist der wichtigste Flughafen für Berlin und Brandenburg.",
+      "translated_text": "The airport is the most important airport for Berlin and Brandenburg."
+    },
+    {
+      "text": "Der BER hatte erst kürzlich einen Rekordtag erlebt.",
+      "translated_text": "BER had recently experienced a record day."
+    },
+    {
+      "text": "Am 17. Oktober 2025 nutzten zum ersten Mal mehr als 100.000 Passagiere den Flughafen an einem einzigen Tag.",
+      "translated_text": "On October 17, 2025, more than 100,000 passengers used the airport in a single day for the first time."
+    },
+    {
+      "text": "Das war zu Beginn der Herbstferien in Berlin und Brandenburg.",
+      "translated_text": "That was at the start of autumn holidays in Berlin and Brandenburg."
+    },
+    {
+      "text": "Der Vorfall zeigt, wie gefährlich Drohnen in der Nähe von Flughäfen sein können.",
+      "translated_text": "The incident shows how dangerous drones can be near airports."
+    },
+    {
+      "text": "Solche Zwischenfälle führen zu Verspätungen und Problemen für viele Reisende.",
+      "translated_text": "Such incidents lead to delays and problems for many travelers."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Drohne",
+      "translated_term": "the drone",
+      "example_usage": "Ein Zeuge hatte zuerst die unbekannte Drohne in der Nähe des Flughafens gemeldet."
+    },
+    {
+      "term": "der Flughafen",
+      "translated_term": "the airport",
+      "example_usage": "Der Flughafen Berlin Brandenburg musste in der Nacht zum Samstag fast zwei Stunden lang den Betrieb einstellen."
+    },
+    {
+      "term": "lahmlegen",
+      "translated_term": "to shut down/paralyze",
+      "example_usage": "Drohne legt Flughafen BER lahm."
+    },
+    {
+      "term": "der Betrieb",
+      "translated_term": "the operations",
+      "example_usage": "Der Flughafen Berlin Brandenburg musste in der Nacht zum Samstag fast zwei Stunden lang den Betrieb einstellen."
+    },
+    {
+      "term": "der Luftraum",
+      "translated_term": "the airspace",
+      "example_usage": "Der Grund war eine Drohne im Luftraum des Flughafens."
+    },
+    {
+      "term": "der Zeuge",
+      "translated_term": "the witness",
+      "example_usage": "Ein Zeuge hatte zuerst die unbekannte Drohne in der Nähe des Flughafens gemeldet."
+    },
+    {
+      "term": "der Streifenwagen",
+      "translated_term": "the patrol car",
+      "example_usage": "Danach sah auch ein Streifenwagen das Flugobjekt im Bereich des BER."
+    },
+    {
+      "term": "das Flugobjekt",
+      "translated_term": "the flying object",
+      "example_usage": "Danach sah auch ein Streifenwagen das Flugobjekt im Bereich des BER."
+    },
+    {
+      "term": "die Landung",
+      "translated_term": "the landing",
+      "example_usage": "Aus Sicherheitsgründen mussten alle Starts und Landungen gestoppt werden."
+    },
+    {
+      "term": "der Vorfall",
+      "translated_term": "the incident",
+      "example_usage": "Der Vorfall zeigt, wie gefährlich Drohnen in der Nähe von Flughäfen sein können."
+    },
+    {
+      "term": "die Verspätung",
+      "translated_term": "the delay",
+      "example_usage": "Solche Zwischenfälle führen zu Verspätungen und Problemen für viele Reisende."
+    },
+    {
+      "term": "der Reisende",
+      "translated_term": "the traveler",
+      "example_usage": "Solche Zwischenfälle führen zu Verspätungen und Problemen für viele Reisende."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda EN",
+      "link_url": "https://news-pravda.com/world/2025/11/01/1823739.html"
+    },
+    {
+      "name": "BSS News",
+      "link_url": "https://www.bssnews.net/international/327065"
+    }
+  ]
+}
