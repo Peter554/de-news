@@ -1,0 +1,132 @@
+{
+  "title": "USA und China einigen sich auf Handelsdeal",
+  "translated_title": "USA and China Agree on Trade Deal",
+  "text": [
+    {
+      "text": "Die USA und China haben nach Monaten der Spannungen einen wichtigen Handelsdeal erreicht.",
+      "translated_text": "The USA and China have reached an important trade deal after months of tensions."
+    },
+    {
+      "text": "Präsident Trump und Chinas Präsident Xi Jinping trafen sich in Südkorea.",
+      "translated_text": "President Trump and China's President Xi Jinping met in South Korea."
+    },
+    {
+      "text": "Die beiden größten Volkswirtschaften der Welt haben sich auf niedrigere Zölle geeinigt.",
+      "translated_text": "The world's two largest economies have agreed on lower tariffs."
+    },
+    {
+      "text": "Die Zölle auf chinesische Waren werden von 57 Prozent auf 47 Prozent gesenkt.",
+      "translated_text": "Tariffs on Chinese goods will be reduced from 57 percent to 47 percent."
+    },
+    {
+      "text": "Besonders wichtig sind die Zölle auf Waren, die mit der Produktion von Fentanyl zusammenhängen.",
+      "translated_text": "Particularly important are the tariffs on goods related to the production of fentanyl."
+    },
+    {
+      "text": "Diese Zölle sinken von 20 Prozent auf 10 Prozent.",
+      "translated_text": "These tariffs are dropping from 20 percent to 10 percent."
+    },
+    {
+      "text": "Fentanyl ist eine sehr gefährliche Droge, die in den USA viele Todesfälle verursacht.",
+      "translated_text": "Fentanyl is a very dangerous drug that causes many deaths in the USA."
+    },
+    {
+      "text": "Trump hatte auch an einem ASEAN-Gipfel in Kuala Lumpur teilgenommen.",
+      "translated_text": "Trump had also attended an ASEAN summit in Kuala Lumpur."
+    },
+    {
+      "text": "Danach besuchte er amerikanische Soldaten in Japan, bevor er Xi Jinping traf.",
+      "translated_text": "After that, he visited American soldiers in Japan before meeting Xi Jinping."
+    },
+    {
+      "text": "Experten hoffen, dass der Deal die Handelskriege zwischen den beiden Ländern beendet.",
+      "translated_text": "Experts hope that the deal will end the trade wars between the two countries."
+    },
+    {
+      "text": "Die Vereinbarung ist ein positives Signal für die globale Wirtschaft.",
+      "translated_text": "The agreement is a positive signal for the global economy."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "sich einigen auf",
+      "translated_term": "to agree on",
+      "example_usage": "Die USA und China haben nach Monaten der Spannungen einen wichtigen Handelsdeal erreicht."
+    },
+    {
+      "term": "der Handelsdeal",
+      "translated_term": "the trade deal",
+      "example_usage": "Die USA und China haben nach Monaten der Spannungen einen wichtigen Handelsdeal erreicht."
+    },
+    {
+      "term": "die Spannung",
+      "translated_term": "the tension",
+      "example_usage": "Die USA und China haben nach Monaten der Spannungen einen wichtigen Handelsdeal erreicht."
+    },
+    {
+      "term": "die Volkswirtschaft",
+      "translated_term": "the economy",
+      "example_usage": "Die beiden größten Volkswirtschaften der Welt haben sich auf niedrigere Zölle geeinigt."
+    },
+    {
+      "term": "der Zoll",
+      "translated_term": "the tariff",
+      "example_usage": "Die beiden größten Volkswirtschaften der Welt haben sich auf niedrigere Zölle geeinigt."
+    },
+    {
+      "term": "senken",
+      "translated_term": "to reduce/lower",
+      "example_usage": "Die Zölle auf chinesische Waren werden von 57 Prozent auf 47 Prozent gesenkt."
+    },
+    {
+      "term": "die Ware",
+      "translated_term": "the goods",
+      "example_usage": "Die Zölle auf chinesische Waren werden von 57 Prozent auf 47 Prozent gesenkt."
+    },
+    {
+      "term": "die Produktion",
+      "translated_term": "the production",
+      "example_usage": "Besonders wichtig sind die Zölle auf Waren, die mit der Produktion von Fentanyl zusammenhängen."
+    },
+    {
+      "term": "die Droge",
+      "translated_term": "the drug",
+      "example_usage": "Fentanyl ist eine sehr gefährliche Droge, die in den USA viele Todesfälle verursacht."
+    },
+    {
+      "term": "der Gipfel",
+      "translated_term": "the summit",
+      "example_usage": "Trump hatte auch an einem ASEAN-Gipfel in Kuala Lumpur teilgenommen."
+    },
+    {
+      "term": "der Handelskrieg",
+      "translated_term": "the trade war",
+      "example_usage": "Experten hoffen, dass der Deal die Handelskriege zwischen den beiden Ländern beendet."
+    },
+    {
+      "term": "die Vereinbarung",
+      "translated_term": "the agreement",
+      "example_usage": "Die Vereinbarung ist ein positives Signal für die globale Wirtschaft."
+    }
+  ],
+  "tags": [
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "China",
+      "translated_name": "China"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Yahoo Finance",
+      "link_url": "https://finance.yahoo.com/news/live/trump-tariffs-live-updates-us-china-declare-truce-as-trump-says-he-had-amazing-meeting-with-xi-162418649.html"
+    }
+  ]
+}
