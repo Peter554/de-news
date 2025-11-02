@@ -1,0 +1,143 @@
+{
+  "title": "Messerangriff in britischem Zug - zwei Festnahmen",
+  "translated_title": "Knife attack on British train - two arrests",
+  "text": [
+    {
+      "text": "In Großbritannien hat es einen schweren Angriff in einem Zug gegeben.",
+      "translated_text": "In Great Britain, there was a serious attack on a train."
+    },
+    {
+      "text": "Zwei Männer haben mehrere Passagiere mit einem Messer angegriffen.",
+      "translated_text": "Two men attacked several passengers with a knife."
+    },
+    {
+      "text": "Der Angriff ereignete sich am Samstag in einem Zug nach London.",
+      "translated_text": "The attack occurred on Saturday on a train to London."
+    },
+    {
+      "text": "Bewaffnete Polizisten stoppten den Zug in Huntingdon, etwa 120 Kilometer nördlich von London.",
+      "translated_text": "Armed police officers stopped the train in Huntingdon, about 120 kilometers north of London."
+    },
+    {
+      "text": "Die beiden Verdächtigen wurden sofort festgenommen.",
+      "translated_text": "The two suspects were immediately arrested."
+    },
+    {
+      "text": "Mehrere verletzte Passagiere wurden ins Krankenhaus gebracht.",
+      "translated_text": "Several injured passengers were taken to the hospital."
+    },
+    {
+      "text": "Die Polizei spricht von einer Messerattacke mit mehreren Opfern.",
+      "translated_text": "The police speak of a knife attack with multiple victims."
+    },
+    {
+      "text": "Die genaue Anzahl der Verletzten ist noch nicht bekannt.",
+      "translated_text": "The exact number of injured is not yet known."
+    },
+    {
+      "text": "Andere Passagiere im Zug waren sehr erschrocken über den Vorfall.",
+      "translated_text": "Other passengers on the train were very shocked by the incident."
+    },
+    {
+      "text": "Die Ermittlungen zur Tat und zum Motiv der Täter dauern an.",
+      "translated_text": "The investigations into the act and the motive of the perpetrators continue."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Messerangriff",
+      "translated_term": "knife attack",
+      "example_usage": "In Großbritannien hat es einen schweren Angriff in einem Zug gegeben."
+    },
+    {
+      "term": "die Festnahme",
+      "translated_term": "arrest",
+      "example_usage": "Die beiden Verdächtigen wurden sofort festgenommen."
+    },
+    {
+      "term": "angreifen",
+      "translated_term": "to attack",
+      "example_usage": "Zwei Männer haben mehrere Passagiere mit einem Messer angegriffen."
+    },
+    {
+      "term": "sich ereignen",
+      "translated_term": "to occur, to happen",
+      "example_usage": "Der Angriff ereignete sich am Samstag in einem Zug nach London."
+    },
+    {
+      "term": "bewaffnet",
+      "translated_term": "armed",
+      "example_usage": "Bewaffnete Polizisten stoppten den Zug in Huntingdon, etwa 120 Kilometer nördlich von London."
+    },
+    {
+      "term": "der Verdächtige",
+      "translated_term": "suspect",
+      "example_usage": "Die beiden Verdächtigen wurden sofort festgenommen."
+    },
+    {
+      "term": "festnehmen",
+      "translated_term": "to arrest",
+      "example_usage": "Die beiden Verdächtigen wurden sofort festgenommen."
+    },
+    {
+      "term": "verletzt",
+      "translated_term": "injured",
+      "example_usage": "Mehrere verletzte Passagiere wurden ins Krankenhaus gebracht."
+    },
+    {
+      "term": "das Krankenhaus",
+      "translated_term": "hospital",
+      "example_usage": "Mehrere verletzte Passagiere wurden ins Krankenhaus gebracht."
+    },
+    {
+      "term": "die Messerattacke",
+      "translated_term": "knife attack",
+      "example_usage": "Die Polizei spricht von einer Messerattacke mit mehreren Opfern."
+    },
+    {
+      "term": "das Opfer",
+      "translated_term": "victim",
+      "example_usage": "Die Polizei spricht von einer Messerattacke mit mehreren Opfern."
+    },
+    {
+      "term": "erschrocken",
+      "translated_term": "shocked, frightened",
+      "example_usage": "Andere Passagiere im Zug waren sehr erschrocken über den Vorfall."
+    },
+    {
+      "term": "der Vorfall",
+      "translated_term": "incident",
+      "example_usage": "Andere Passagiere im Zug waren sehr erschrocken über den Vorfall."
+    },
+    {
+      "term": "die Ermittlung",
+      "translated_term": "investigation",
+      "example_usage": "Die Ermittlungen zur Tat und zum Motiv der Täter dauern an."
+    },
+    {
+      "term": "der Täter",
+      "translated_term": "perpetrator",
+      "example_usage": "Die Ermittlungen zur Tat und zum Motiv der Täter dauern an."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "SBS News",
+      "link_url": "https://www.sbs.com.au/news/podcast-episode/midday-news-bulletin-2-november-2025/my91eu51k"
+    }
+  ]
+}
