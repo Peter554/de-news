@@ -1,0 +1,138 @@
+{
+  "title": "China schickt drei Astronauten zur Raumstation",
+  "translated_title": "China sends three astronauts to space station",
+  "text": [
+    {
+      "text": "China hat erfolgreich das Raumschiff Shenzhou-21 ins All geschickt.",
+      "translated_text": "China has successfully sent the Shenzhou-21 spacecraft into space."
+    },
+    {
+      "text": "An Bord sind drei Astronauten, die zur chinesischen Raumstation fliegen.",
+      "translated_text": "On board are three astronauts who are flying to the Chinese space station."
+    },
+    {
+      "text": "Die Mission wird sechs Monate dauern.",
+      "translated_text": "The mission will last six months."
+    },
+    {
+      "text": "Die Astronauten werden viele wissenschaftliche Experimente durchführen.",
+      "translated_text": "The astronauts will conduct many scientific experiments."
+    },
+    {
+      "text": "Besonders interessant ist, dass sie vier Mäuse mitgebracht haben.",
+      "translated_text": "Particularly interesting is that they brought four mice along."
+    },
+    {
+      "text": "Dies ist Chinas erstes wissenschaftliches Experiment mit Säugetieren im Weltraum.",
+      "translated_text": "This is China's first scientific experiment with mammals in space."
+    },
+    {
+      "text": "Die Wissenschaftler wollen verstehen, wie der Weltraum Säugetiere beeinflusst.",
+      "translated_text": "The scientists want to understand how space affects mammals."
+    },
+    {
+      "text": "Diese Forschung ist wichtig für zukünftige lange Weltraummissionen.",
+      "translated_text": "This research is important for future long space missions."
+    },
+    {
+      "text": "China hat sein Raumfahrtprogramm in den letzten Jahren stark entwickelt.",
+      "translated_text": "China has strongly developed its space program in recent years."
+    },
+    {
+      "text": "Die eigene Raumstation ist ein wichtiger Teil dieser Entwicklung.",
+      "translated_text": "Its own space station is an important part of this development."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Raumschiff",
+      "translated_term": "spacecraft",
+      "example_usage": "China hat erfolgreich das Raumschiff Shenzhou-21 ins All geschickt."
+    },
+    {
+      "term": "das All",
+      "translated_term": "space",
+      "example_usage": "China hat erfolgreich das Raumschiff Shenzhou-21 ins All geschickt."
+    },
+    {
+      "term": "an Bord",
+      "translated_term": "on board",
+      "example_usage": "An Bord sind drei Astronauten, die zur chinesischen Raumstation fliegen."
+    },
+    {
+      "term": "der Astronaut",
+      "translated_term": "astronaut",
+      "example_usage": "An Bord sind drei Astronauten, die zur chinesischen Raumstation fliegen."
+    },
+    {
+      "term": "die Raumstation",
+      "translated_term": "space station",
+      "example_usage": "An Bord sind drei Astronauten, die zur chinesischen Raumstation fliegen."
+    },
+    {
+      "term": "die Mission",
+      "translated_term": "mission",
+      "example_usage": "Die Mission wird sechs Monate dauern."
+    },
+    {
+      "term": "durchführen",
+      "translated_term": "to conduct, to carry out",
+      "example_usage": "Die Astronauten werden viele wissenschaftliche Experimente durchführen."
+    },
+    {
+      "term": "das Experiment",
+      "translated_term": "experiment",
+      "example_usage": "Die Astronauten werden viele wissenschaftliche Experimente durchführen."
+    },
+    {
+      "term": "die Maus",
+      "translated_term": "mouse",
+      "example_usage": "Besonders interessant ist, dass sie vier Mäuse mitgebracht haben."
+    },
+    {
+      "term": "das Säugetier",
+      "translated_term": "mammal",
+      "example_usage": "Dies ist Chinas erstes wissenschaftliches Experiment mit Säugetieren im Weltraum."
+    },
+    {
+      "term": "der Weltraum",
+      "translated_term": "space, outer space",
+      "example_usage": "Die Wissenschaftler wollen verstehen, wie der Weltraum Säugetiere beeinflusst."
+    },
+    {
+      "term": "beeinflussen",
+      "translated_term": "to affect, to influence",
+      "example_usage": "Die Wissenschaftler wollen verstehen, wie der Weltraum Säugetiere beeinflusst."
+    },
+    {
+      "term": "die Forschung",
+      "translated_term": "research",
+      "example_usage": "Diese Forschung ist wichtig für zukünftige lange Weltraummissionen."
+    },
+    {
+      "term": "das Raumfahrtprogramm",
+      "translated_term": "space program",
+      "example_usage": "China hat sein Raumfahrtprogramm in den letzten Jahren stark entwickelt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "China",
+      "translated_name": "China"
+    },
+    {
+      "name": "Weltraumforschung",
+      "translated_name": "Space Exploration"
+    },
+    {
+      "name": "Wissenschaft",
+      "translated_name": "Science"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR",
+      "link_url": "https://www.npr.org/2025/11/02/nx-s1-5593453/china-shenzhou-21-space-station-launch"
+    }
+  ]
+}

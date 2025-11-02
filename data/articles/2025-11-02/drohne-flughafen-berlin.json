@@ -1,0 +1,142 @@
+{
+  "title": "Drohne stoppt Flugverkehr am Berliner Flughafen",
+  "translated_title": "Drone stops air traffic at Berlin Airport",
+  "text": [
+    {
+      "text": "Am Samstagabend musste der Flughafen Berlin Brandenburg alle Flüge für fast zwei Stunden stoppen.",
+      "translated_text": "On Saturday evening, Berlin Brandenburg Airport had to stop all flights for almost two hours."
+    },
+    {
+      "text": "Der Grund war eine Drohne, die ein Zeuge gegen 20 Uhr in der Nähe des Flughafens gesehen hat.",
+      "translated_text": "The reason was a drone that a witness saw near the airport around 8 PM."
+    },
+    {
+      "text": "Die Polizei schickte sofort mehrere Einsatzkräfte und einen Hubschrauber zum Flughafen.",
+      "translated_text": "The police immediately sent several emergency responders and a helicopter to the airport."
+    },
+    {
+      "text": "Eine Polizeistreife konnte die Drohne bestätigen, aber später verschwand sie wieder.",
+      "translated_text": "A police patrol was able to confirm the drone, but later it disappeared again."
+    },
+    {
+      "text": "Zwischen 20:08 Uhr und 21:58 Uhr durften keine Flugzeuge starten oder landen.",
+      "translated_text": "Between 8:08 PM and 9:58 PM, no planes were allowed to take off or land."
+    },
+    {
+      "text": "Viele Passagiere mussten auf ihre Flüge warten oder hatten Verspätungen.",
+      "translated_text": "Many passengers had to wait for their flights or experienced delays."
+    },
+    {
+      "text": "Das ist nicht das erste Mal, dass eine Drohne den Flugverkehr in Deutschland stört.",
+      "translated_text": "This is not the first time that a drone has disrupted air traffic in Germany."
+    },
+    {
+      "text": "Im September 2025 musste der Flughafen München zweimal in 24 Stunden wegen Drohnen schließen.",
+      "translated_text": "In September 2025, Munich Airport had to close twice in 24 hours because of drones."
+    },
+    {
+      "text": "Die Polizei sucht weiter nach der Person, die die Drohne geflogen hat.",
+      "translated_text": "The police continue to search for the person who flew the drone."
+    },
+    {
+      "text": "Drohnen in der Nähe von Flughäfen sind sehr gefährlich und in Deutschland verboten.",
+      "translated_text": "Drones near airports are very dangerous and are prohibited in Germany."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "Der Grund war eine Drohne, die ein Zeuge gegen 20 Uhr in der Nähe des Flughafens gesehen hat."
+    },
+    {
+      "term": "der Flugverkehr",
+      "translated_term": "air traffic",
+      "example_usage": "Das ist nicht das erste Mal, dass eine Drohne den Flugverkehr in Deutschland stört."
+    },
+    {
+      "term": "stoppen",
+      "translated_term": "to stop",
+      "example_usage": "Am Samstagabend musste der Flughafen Berlin Brandenburg alle Flüge für fast zwei Stunden stoppen."
+    },
+    {
+      "term": "der Zeuge",
+      "translated_term": "witness",
+      "example_usage": "Der Grund war eine Drohne, die ein Zeuge gegen 20 Uhr in der Nähe des Flughafens gesehen hat."
+    },
+    {
+      "term": "die Einsatzkräfte",
+      "translated_term": "emergency responders",
+      "example_usage": "Die Polizei schickte sofort mehrere Einsatzkräfte und einen Hubschrauber zum Flughafen."
+    },
+    {
+      "term": "der Hubschrauber",
+      "translated_term": "helicopter",
+      "example_usage": "Die Polizei schickte sofort mehrere Einsatzkräfte und einen Hubschrauber zum Flughafen."
+    },
+    {
+      "term": "die Polizeistreife",
+      "translated_term": "police patrol",
+      "example_usage": "Eine Polizeistreife konnte die Drohne bestätigen, aber später verschwand sie wieder."
+    },
+    {
+      "term": "bestätigen",
+      "translated_term": "to confirm",
+      "example_usage": "Eine Polizeistreife konnte die Drohne bestätigen, aber später verschwand sie wieder."
+    },
+    {
+      "term": "verschwinden",
+      "translated_term": "to disappear",
+      "example_usage": "Eine Polizeistreife konnte die Drohne bestätigen, aber später verschwand sie wieder."
+    },
+    {
+      "term": "starten",
+      "translated_term": "to take off",
+      "example_usage": "Zwischen 20:08 Uhr und 21:58 Uhr durften keine Flugzeuge starten oder landen."
+    },
+    {
+      "term": "landen",
+      "translated_term": "to land",
+      "example_usage": "Zwischen 20:08 Uhr und 21:58 Uhr durften keine Flugzeuge starten oder landen."
+    },
+    {
+      "term": "die Verspätung",
+      "translated_term": "delay",
+      "example_usage": "Viele Passagiere mussten auf ihre Flüge warten oder hatten Verspätungen."
+    },
+    {
+      "term": "stören",
+      "translated_term": "to disrupt",
+      "example_usage": "Das ist nicht das erste Mal, dass eine Drohne den Flugverkehr in Deutschland stört."
+    },
+    {
+      "term": "verboten",
+      "translated_term": "prohibited",
+      "example_usage": "Drohnen in der Nähe von Flughäfen sind sehr gefährlich und in Deutschland verboten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/2025/11/01/drone-interrupts-flight-operations-at-berlin-airport-for-two-hours"
+    },
+    {
+      "name": "Travel And Tour World",
+      "link_url": "https://www.travelandtourworld.com/news/article/berlin-brandenburg-airport-temporarily-suspends-flights-after-drone-sighting-what-travelers-need-to-know/"
+    }
+  ]
+}
