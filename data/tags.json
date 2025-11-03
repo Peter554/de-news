@@ -44,6 +44,10 @@
     "translated_name": "Cybersecurity"
   },
   {
+    "name": "Datenschutz",
+    "translated_name": "Data Privacy"
+  },
+  {
     "name": "Deutsche Politik",
     "translated_name": "German Politics"
   },
@@ -104,6 +108,10 @@
     "translated_name": "International Politics"
   },
   {
+    "name": "Innovation",
+    "translated_name": "Innovation"
+  },
+  {
     "name": "Italien",
     "translated_name": "Italy"
   },
@@ -122,6 +130,10 @@
   {
     "name": "Klimapolitik",
     "translated_name": "Climate Policy"
+  },
+  {
+    "name": "Künstliche Intelligenz",
+    "translated_name": "Artificial Intelligence"
   },
   {
     "name": "Kultur",

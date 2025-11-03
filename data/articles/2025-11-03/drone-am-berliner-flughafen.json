@@ -1,0 +1,137 @@
+{
+  "title": "Drohne stoppt Flugverkehr am Berliner Flughafen",
+  "translated_title": "Drone stops air traffic at Berlin Airport",
+  "text": [
+    {
+      "text": "Am Freitagabend musste der Flughafen Berlin Brandenburg (BER) den gesamten Flugverkehr für fast zwei Stunden stoppen.",
+      "translated_text": "On Friday evening, Berlin Brandenburg Airport (BER) had to stop all air traffic for almost two hours."
+    },
+    {
+      "text": "Der Grund war eine unbekannte Drohne im Luftraum des Flughafens.",
+      "translated_text": "The reason was an unknown drone in the airport's airspace."
+    },
+    {
+      "text": "Ein Zeuge hatte die Drohne gegen 20 Uhr gesehen und die Polizei informiert.",
+      "translated_text": "A witness had seen the drone around 8 PM and informed the police."
+    },
+    {
+      "text": "Die Polizei schickte mehrere Einsatzfahrzeuge und einen Hubschrauber, aber die Drohne verschwand spurlos.",
+      "translated_text": "The police sent several emergency vehicles and a helicopter, but the drone disappeared without a trace."
+    },
+    {
+      "text": "Elf ankommende Flugzeuge mussten zu anderen Flughäfen umgeleitet werden - vier nach Dresden, vier nach Leipzig und drei nach Hamburg.",
+      "translated_text": "Eleven arriving aircraft had to be diverted to other airports - four to Dresden, four to Leipzig, and three to Hamburg."
+    },
+    {
+      "text": "Die betroffenen Flüge kamen aus Stockholm, Antalya und Helsinki.",
+      "translated_text": "The affected flights came from Stockholm, Antalya, and Helsinki."
+    },
+    {
+      "text": "Der Flughafen erhielt eine Sondergenehmigung, um den Rückstau abzubauen.",
+      "translated_text": "The airport received special permission to clear the backlog."
+    },
+    {
+      "text": "Starts waren bis 1 Uhr morgens und Landungen bis 4 Uhr erlaubt - normalerweise gibt es nachts ein Flugverbot.",
+      "translated_text": "Takeoffs were permitted until 1 AM and landings until 4 AM - normally there is a night flight ban."
+    },
+    {
+      "text": "Dies ist bereits der fünfte Drohnenvorfall am BER in diesem Jahr.",
+      "translated_text": "This is already the fifth drone incident at BER this year."
+    },
+    {
+      "text": "Der Flughafenverband fordert bessere Abwehrsysteme gegen Drohnen.",
+      "translated_text": "The airport association is calling for better defense systems against drones."
+    },
+    {
+      "text": "Bundesinnenminister Alexander Dobrindt kündigte an, die Drohnenabwehr in ganz Deutschland zu beschleunigen.",
+      "translated_text": "Federal Interior Minister Alexander Dobrindt announced plans to accelerate drone defense throughout Germany."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "Der Grund war eine unbekannte Drohne im Luftraum des Flughafens."
+    },
+    {
+      "term": "der Flugverkehr",
+      "translated_term": "air traffic",
+      "example_usage": "Am Freitagabend musste der Flughafen Berlin Brandenburg den gesamten Flugverkehr für fast zwei Stunden stoppen."
+    },
+    {
+      "term": "der Luftraum",
+      "translated_term": "airspace",
+      "example_usage": "Der Grund war eine unbekannte Drohne im Luftraum des Flughafens."
+    },
+    {
+      "term": "umleiten",
+      "translated_term": "to divert",
+      "example_usage": "Elf ankommende Flugzeuge mussten zu anderen Flughäfen umgeleitet werden."
+    },
+    {
+      "term": "der Zeuge",
+      "translated_term": "witness",
+      "example_usage": "Ein Zeuge hatte die Drohne gegen 20 Uhr gesehen und die Polizei informiert."
+    },
+    {
+      "term": "das Einsatzfahrzeug",
+      "translated_term": "emergency vehicle",
+      "example_usage": "Die Polizei schickte mehrere Einsatzfahrzeuge und einen Hubschrauber."
+    },
+    {
+      "term": "spurlos",
+      "translated_term": "without a trace",
+      "example_usage": "Die Drohne verschwand spurlos."
+    },
+    {
+      "term": "die Sondergenehmigung",
+      "translated_term": "special permission",
+      "example_usage": "Der Flughafen erhielt eine Sondergenehmigung, um den Rückstau abzubauen."
+    },
+    {
+      "term": "der Rückstau",
+      "translated_term": "backlog",
+      "example_usage": "Der Flughafen erhielt eine Sondergenehmigung, um den Rückstau abzubauen."
+    },
+    {
+      "term": "das Flugverbot",
+      "translated_term": "flight ban",
+      "example_usage": "Normalerweise gibt es nachts ein Flugverbot."
+    },
+    {
+      "term": "der Vorfall",
+      "translated_term": "incident",
+      "example_usage": "Dies ist bereits der fünfte Drohnenvorfall am BER in diesem Jahr."
+    },
+    {
+      "term": "das Abwehrsystem",
+      "translated_term": "defense system",
+      "example_usage": "Der Flughafenverband fordert bessere Abwehrsysteme gegen Drohnen."
+    },
+    {
+      "term": "beschleunigen",
+      "translated_term": "to accelerate",
+      "example_usage": "Bundesinnenminister Alexander Dobrindt kündigte an, die Drohnenabwehr in ganz Deutschland zu beschleunigen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/2025/11/01/drone-interrupts-flight-operations-at-berlin-airport-for-two-hours"
+    }
+  ]
+}
