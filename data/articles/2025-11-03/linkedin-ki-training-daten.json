@@ -1,0 +1,145 @@
+{
+  "title": "LinkedIn nutzt ab heute europäische Nutzerdaten für KI-Training",
+  "translated_title": "LinkedIn uses European user data for AI training from today",
+  "text": [
+    {
+      "text": "Ab dem 3. November nutzt LinkedIn die Daten europäischer Nutzer, um seine künstliche Intelligenz zu trainieren.",
+      "translated_text": "From November 3, LinkedIn will use data from European users to train its artificial intelligence."
+    },
+    {
+      "text": "Die Einstellung ist standardmäßig aktiviert, das bedeutet: Alle Nutzer sind automatisch eingeschlossen.",
+      "translated_text": "The setting is enabled by default, which means: All users are automatically included."
+    },
+    {
+      "text": "Die neue Regelung gilt für Nutzer in der EU, dem Europäischen Wirtschaftsraum und der Schweiz.",
+      "translated_text": "The new regulation applies to users in the EU, the European Economic Area, and Switzerland."
+    },
+    {
+      "text": "Auch Mitglieder aus Großbritannien, Kanada und Hongkong sind betroffen.",
+      "translated_text": "Members from Great Britain, Canada, and Hong Kong are also affected."
+    },
+    {
+      "text": "LinkedIn wird Profildaten und öffentliche Beiträge für das KI-Training verwenden.",
+      "translated_text": "LinkedIn will use profile data and public posts for AI training."
+    },
+    {
+      "text": "Private Nachrichten, Kontodaten und persönliche Informationen wie Adressen oder Zahlungsdaten werden nicht verwendet.",
+      "translated_text": "Private messages, account credentials, and personal information such as addresses or payment data will not be used."
+    },
+    {
+      "text": "Nutzer können sich von dieser Datennutzung abmelden, müssen dies aber selbst aktiv tun.",
+      "translated_text": "Users can opt out of this data usage, but must actively do so themselves."
+    },
+    {
+      "text": "Dafür muss man in den Einstellungen zu \"Datenschutz\" gehen und die Funktion \"Daten für generative KI-Verbesserung\" deaktivieren.",
+      "translated_text": "To do this, one must go to \"Data Privacy\" in the settings and disable the \"Data for Generative AI Improvement\" feature."
+    },
+    {
+      "text": "Wichtig zu wissen: Nur Daten ab dem 3. November werden geschützt, wenn man sich abmeldet.",
+      "translated_text": "Important to know: Only data from November 3 onwards will be protected if you opt out."
+    },
+    {
+      "text": "Alle Informationen, die vor diesem Datum gesammelt wurden, bleiben im KI-Trainingssystem.",
+      "translated_text": "All information collected before this date remains in the AI training system."
+    },
+    {
+      "text": "LinkedIn gehört zu Microsoft und arbeitet mit anderen Microsoft-Unternehmen zusammen.",
+      "translated_text": "LinkedIn belongs to Microsoft and collaborates with other Microsoft companies."
+    },
+    {
+      "text": "Datenschützer kritisieren, dass die Nutzer aktiv widersprechen müssen, anstatt aktiv zuzustimmen.",
+      "translated_text": "Data protection advocates criticize that users must actively object instead of actively consenting."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die künstliche Intelligenz (KI)",
+      "translated_term": "artificial intelligence (AI)",
+      "example_usage": "Ab dem 3. November nutzt LinkedIn die Daten europäischer Nutzer, um seine künstliche Intelligenz zu trainieren."
+    },
+    {
+      "term": "das Training",
+      "translated_term": "training",
+      "example_usage": "LinkedIn wird Profildaten und öffentliche Beiträge für das KI-Training verwenden."
+    },
+    {
+      "term": "standardmäßig",
+      "translated_term": "by default",
+      "example_usage": "Die Einstellung ist standardmäßig aktiviert."
+    },
+    {
+      "term": "eingeschlossen sein",
+      "translated_term": "to be included",
+      "example_usage": "Alle Nutzer sind automatisch eingeschlossen."
+    },
+    {
+      "term": "die Regelung",
+      "translated_term": "regulation",
+      "example_usage": "Die neue Regelung gilt für Nutzer in der EU, dem Europäischen Wirtschaftsraum und der Schweiz."
+    },
+    {
+      "term": "der Europäische Wirtschaftsraum",
+      "translated_term": "European Economic Area",
+      "example_usage": "Die neue Regelung gilt für Nutzer in der EU, dem Europäischen Wirtschaftsraum und der Schweiz."
+    },
+    {
+      "term": "betroffen sein",
+      "translated_term": "to be affected",
+      "example_usage": "Auch Mitglieder aus Großbritannien, Kanada und Hongkong sind betroffen."
+    },
+    {
+      "term": "die Profildaten",
+      "translated_term": "profile data",
+      "example_usage": "LinkedIn wird Profildaten und öffentliche Beiträge für das KI-Training verwenden."
+    },
+    {
+      "term": "sich abmelden",
+      "translated_term": "to opt out",
+      "example_usage": "Nutzer können sich von dieser Datennutzung abmelden, müssen dies aber selbst aktiv tun."
+    },
+    {
+      "term": "der Datenschutz",
+      "translated_term": "data privacy",
+      "example_usage": "Dafür muss man in den Einstellungen zu \"Datenschutz\" gehen."
+    },
+    {
+      "term": "deaktivieren",
+      "translated_term": "to disable",
+      "example_usage": "Man muss die Funktion \"Daten für generative KI-Verbesserung\" deaktivieren."
+    },
+    {
+      "term": "widersprechen",
+      "translated_term": "to object",
+      "example_usage": "Datenschützer kritisieren, dass die Nutzer aktiv widersprechen müssen."
+    },
+    {
+      "term": "zustimmen",
+      "translated_term": "to consent",
+      "example_usage": "Die Nutzer müssen aktiv widersprechen, anstatt aktiv zuzustimmen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    },
+    {
+      "name": "Künstliche Intelligenz",
+      "translated_name": "Artificial Intelligence"
+    },
+    {
+      "name": "Datenschutz",
+      "translated_name": "Data Privacy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Proton Blog",
+      "link_url": "https://proton.me/blog/linkedin-ai-training"
+    },
+    {
+      "name": "The Register",
+      "link_url": "https://www.theregister.com/2025/10/27/linkedin_ai_profile_scraping/"
+    }
+  ]
+}
