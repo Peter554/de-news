@@ -1,0 +1,126 @@
+{
+  "title": "Terrorverdacht in Berlin: SEK verhaftet syrischen Mann",
+  "translated_title": "Terrorism Suspicion in Berlin: Special Forces Arrest Syrian Man",
+  "text": [
+    {
+      "text": "Am 1. November 2025 hat die Polizei in Berlin einen syrischen Mann verhaftet.",
+      "translated_text": "On November 1, 2025, the police in Berlin arrested a Syrian man."
+    },
+    {
+      "text": "Der Mann soll einen Terroranschlag in der Hauptstadt geplant haben.",
+      "translated_text": "The man is alleged to have planned a terrorist attack in the capital."
+    },
+    {
+      "text": "Die Spezialeinsatzkräfte, bekannt als SEK, führten die Operation durch.",
+      "translated_text": "The special forces, known as SEK, carried out the operation."
+    },
+    {
+      "text": "Bei der Durchsuchung seiner Wohnung fanden die Beamten explosive Materialien.",
+      "translated_text": "During the search of his apartment, the officers found explosive materials."
+    },
+    {
+      "text": "Die Polizei hatte den Mann schon seit mehreren Wochen beobachtet.",
+      "translated_text": "The police had been observing the man for several weeks."
+    },
+    {
+      "text": "Der Verdächtige arbeitete alleine und hatte keine bekannten Komplizen.",
+      "translated_text": "The suspect worked alone and had no known accomplices."
+    },
+    {
+      "text": "Nach der Verhaftung wurde er in Untersuchungshaft genommen.",
+      "translated_text": "After the arrest, he was taken into custody."
+    },
+    {
+      "text": "Die Behörden prüfen jetzt, ob er Verbindungen zu terroristischen Organisationen hatte.",
+      "translated_text": "The authorities are now checking whether he had connections to terrorist organizations."
+    },
+    {
+      "text": "Die Berliner Polizei dankte den Bürgern für ihre Hinweise.",
+      "translated_text": "The Berlin police thanked the citizens for their tips."
+    },
+    {
+      "text": "Der Fall zeigt, wie wichtig die Zusammenarbeit zwischen Polizei und Bevölkerung ist.",
+      "translated_text": "The case shows how important cooperation between police and the public is."
+    },
+    {
+      "text": "Die Sicherheitsbehörden bleiben wachsam und setzen ihre Arbeit fort.",
+      "translated_text": "The security authorities remain vigilant and continue their work."
+    },
+    {
+      "text": "In den kommenden Wochen wird es eine vollständige Untersuchung geben.",
+      "translated_text": "In the coming weeks, there will be a complete investigation."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Terroranschlag",
+      "translated_term": "terrorist attack",
+      "example_usage": "Der Mann soll einen Terroranschlag in der Hauptstadt geplant haben."
+    },
+    {
+      "term": "verhaften",
+      "translated_term": "to arrest",
+      "example_usage": "Am 1. November 2025 hat die Polizei in Berlin einen syrischen Mann verhaftet."
+    },
+    {
+      "term": "die Spezialeinsatzkräfte",
+      "translated_term": "special forces",
+      "example_usage": "Die Spezialeinsatzkräfte, bekannt als SEK, führten die Operation durch."
+    },
+    {
+      "term": "die Durchsuchung",
+      "translated_term": "search",
+      "example_usage": "Bei der Durchsuchung seiner Wohnung fanden die Beamten explosive Materialien."
+    },
+    {
+      "term": "der Verdächtige",
+      "translated_term": "suspect",
+      "example_usage": "Der Verdächtige arbeitete alleine und hatte keine bekannten Komplizen."
+    },
+    {
+      "term": "die Untersuchungshaft",
+      "translated_term": "custody / pre-trial detention",
+      "example_usage": "Nach der Verhaftung wurde er in Untersuchungshaft genommen."
+    },
+    {
+      "term": "die Behörden",
+      "translated_term": "authorities",
+      "example_usage": "Die Behörden prüfen jetzt, ob er Verbindungen zu terroristischen Organisationen hatte."
+    },
+    {
+      "term": "die Verbindung",
+      "translated_term": "connection",
+      "example_usage": "Die Behörden prüfen jetzt, ob er Verbindungen zu terroristischen Organisationen hatte."
+    },
+    {
+      "term": "wachsam",
+      "translated_term": "vigilant",
+      "example_usage": "Die Sicherheitsbehörden bleiben wachsam und setzen ihre Arbeit fort."
+    },
+    {
+      "term": "die Zusammenarbeit",
+      "translated_term": "cooperation",
+      "example_usage": "Der Fall zeigt, wie wichtig die Zusammenarbeit zwischen Polizei und Bevölkerung ist."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Terrorismus",
+      "translated_name": "Terrorism"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/world/2025/11/03/94648.html"
+    }
+  ]
+}
