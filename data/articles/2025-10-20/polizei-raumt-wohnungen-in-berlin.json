@@ -1,0 +1,153 @@
+{
+  "title": "Polizei räumt Wohnungen in Berlin",
+  "translated_title": "Police Evacuate Apartments in Berlin",
+  "text": [
+    {
+      "text": "Am 20. Oktober räumte die Polizei elf Wohnungen in der Habersaathstraße in Berlin.",
+      "translated_text": "On October 20, police evacuated eleven apartments on Habersaathstraße in Berlin."
+    },
+    {
+      "text": "Bis zu 130 Polizisten waren im Einsatz.",
+      "translated_text": "Up to 130 police officers were deployed."
+    },
+    {
+      "text": "Die Wohnungen waren von der Initiative 'Leerstand Hab-ich-saath' besetzt worden.",
+      "translated_text": "The apartments had been occupied by the initiative 'Leerstand Hab-ich-saath'."
+    },
+    {
+      "text": "Diese Initiative wollte verhindern, dass ehemals obdachlose Menschen ihre Wohnungen verlieren.",
+      "translated_text": "This initiative wanted to prevent formerly homeless people from losing their homes."
+    },
+    {
+      "text": "Bei den Protesten wurden Böller und Tränengas eingesetzt.",
+      "translated_text": "During the protests, firecrackers and tear gas were used."
+    },
+    {
+      "text": "Vierzehn Polizisten wurden dabei verletzt.",
+      "translated_text": "Fourteen police officers were injured in the process."
+    },
+    {
+      "text": "Die Räumung war sehr umstritten.",
+      "translated_text": "The eviction was very controversial."
+    },
+    {
+      "text": "Viele Menschen demonstrierten gegen die Räumung.",
+      "translated_text": "Many people demonstrated against the eviction."
+    },
+    {
+      "text": "Sie forderten mehr bezahlbare Wohnungen in Berlin.",
+      "translated_text": "They demanded more affordable housing in Berlin."
+    },
+    {
+      "text": "Die Wohnungskrise in Berlin wird immer schlimmer.",
+      "translated_text": "The housing crisis in Berlin is getting worse and worse."
+    },
+    {
+      "text": "Viele Menschen können sich die hohen Mieten nicht mehr leisten.",
+      "translated_text": "Many people can no longer afford the high rents."
+    },
+    {
+      "text": "Der Bezirk Friedrichshain-Kreuzberg hat kürzlich einen Vermieter wegen überhöhter Mieten bestraft.",
+      "translated_text": "The district of Friedrichshain-Kreuzberg recently fined a landlord for excessive rent."
+    },
+    {
+      "text": "Die Miete war 190 Prozent über dem erlaubten Maximum.",
+      "translated_text": "The rent was 190 percent above the permitted maximum."
+    },
+    {
+      "text": "Der Mieter kann nun etwa 22.264 Euro zurückverlangen.",
+      "translated_text": "The tenant can now reclaim approximately 22,264 euros."
+    },
+    {
+      "text": "Das zeigt, wie ernst das Problem der Wohnungsausbeutung ist.",
+      "translated_text": "This shows how serious the problem of housing exploitation is."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "räumen",
+      "translated_term": "to evacuate, to clear",
+      "example_usage": "Am 20. Oktober räumte die Polizei elf Wohnungen in der Habersaathstraße in Berlin."
+    },
+    {
+      "term": "die Wohnung",
+      "translated_term": "the apartment",
+      "example_usage": "Diese Initiative wollte verhindern, dass ehemals obdachlose Menschen ihre Wohnungen verlieren."
+    },
+    {
+      "term": "der Einsatz",
+      "translated_term": "the deployment, the operation",
+      "example_usage": "Bis zu 130 Polizisten waren im Einsatz."
+    },
+    {
+      "term": "besetzen",
+      "translated_term": "to occupy",
+      "example_usage": "Die Wohnungen waren von der Initiative 'Leerstand Hab-ich-saath' besetzt worden."
+    },
+    {
+      "term": "obdachlos",
+      "translated_term": "homeless",
+      "example_usage": "Diese Initiative wollte verhindern, dass ehemals obdachlose Menschen ihre Wohnungen verlieren."
+    },
+    {
+      "term": "der Böller",
+      "translated_term": "the firecracker",
+      "example_usage": "Bei den Protesten wurden Böller und Tränengas eingesetzt."
+    },
+    {
+      "term": "verletzen",
+      "translated_term": "to injure",
+      "example_usage": "Vierzehn Polizisten wurden dabei verletzt."
+    },
+    {
+      "term": "umstritten",
+      "translated_term": "controversial",
+      "example_usage": "Die Räumung war sehr umstritten."
+    },
+    {
+      "term": "bezahlbar",
+      "translated_term": "affordable",
+      "example_usage": "Sie forderten mehr bezahlbare Wohnungen in Berlin."
+    },
+    {
+      "term": "die Miete",
+      "translated_term": "the rent",
+      "example_usage": "Viele Menschen können sich die hohen Mieten nicht mehr leisten."
+    },
+    {
+      "term": "der Vermieter",
+      "translated_term": "the landlord",
+      "example_usage": "Der Bezirk Friedrichshain-Kreuzberg hat kürzlich einen Vermieter wegen überhöhter Mieten bestraft."
+    },
+    {
+      "term": "überhöht",
+      "translated_term": "excessive, exorbitant",
+      "example_usage": "Der Bezirk Friedrichshain-Kreuzberg hat kürzlich einen Vermieter wegen überhöhter Mieten bestraft."
+    },
+    {
+      "term": "zurückverlangen",
+      "translated_term": "to reclaim, to demand back",
+      "example_usage": "Der Mieter kann nun etwa 22.264 Euro zurückverlangen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Wohnungskrise",
+      "translated_name": "Housing Crisis"
+    },
+    {
+      "name": "Proteste",
+      "translated_name": "Protests"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Left Berlin",
+      "link_url": "https://www.theleftberlin.com/news-from-berlin-and-germany-22nd-october-2025/"
+    }
+  ]
+}

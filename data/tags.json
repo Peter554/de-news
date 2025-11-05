@@ -60,6 +60,10 @@
     "translated_name": "Immigration Policy"
   },
   {
+    "name": "Energiepolitik",
+    "translated_name": "Energy Policy"
+  },
+  {
     "name": "Erneuerbare Energien",
     "translated_name": "Renewable Energy"
   },
@@ -158,6 +162,10 @@
   {
     "name": "Menschenrechte",
     "translated_name": "Human Rights"
+  },
+  {
+    "name": "NATO",
+    "translated_name": "NATO"
   },
   {
     "name": "Naturkatastrophen",
