@@ -1,0 +1,118 @@
+{
+  "title": "Drei Männer in Berlin wegen Terrorverdacht festgenommen",
+  "translated_title": "Three men arrested in Berlin on suspicion of terrorism",
+  "text": [
+    {
+      "text": "Die Polizei hat drei Männer in Berlin verhaftet, die einen Terroranschlag geplant haben sollen.",
+      "translated_text": "Police have arrested three men in Berlin who are alleged to have planned a terrorist attack."
+    },
+    {
+      "text": "Die Verdächtigen sollen jüdische Einrichtungen ins Visier genommen haben.",
+      "translated_text": "The suspects are said to have targeted Jewish institutions."
+    },
+    {
+      "text": "Nach Angaben der Behörden handelten die Männer im Auftrag der Hamas.",
+      "translated_text": "According to authorities, the men were acting on behalf of Hamas."
+    },
+    {
+      "text": "Die Festnahmen erfolgten, bevor die Verdächtigen ihre Pläne in die Tat umsetzen konnten.",
+      "translated_text": "The arrests took place before the suspects could carry out their plans."
+    },
+    {
+      "text": "Die Sicherheitsbehörden hatten die Gruppe schon seit einiger Zeit beobachtet.",
+      "translated_text": "Security authorities had been monitoring the group for some time."
+    },
+    {
+      "text": "Der Fall zeigt, dass die Terrorgefahr in Deutschland weiterhin ernst ist.",
+      "translated_text": "The case shows that the terrorist threat in Germany continues to be serious."
+    },
+    {
+      "text": "Besonders jüdische Gemeinden und Einrichtungen stehen unter besonderem Schutz.",
+      "translated_text": "Jewish communities and institutions in particular are under special protection."
+    },
+    {
+      "text": "Die Polizei arbeitet eng mit internationalen Partnern zusammen, um solche Bedrohungen zu verhindern.",
+      "translated_text": "The police work closely with international partners to prevent such threats."
+    },
+    {
+      "text": "Die drei Verdächtigen befinden sich nun in Untersuchungshaft.",
+      "translated_text": "The three suspects are now in pre-trial detention."
+    },
+    {
+      "text": "Die Ermittlungen zu möglichen weiteren Beteiligten dauern an.",
+      "translated_text": "Investigations into possible further accomplices are ongoing."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "verhaften",
+      "translated_term": "to arrest",
+      "example_usage": "Die Polizei hat drei Männer in Berlin verhaftet, die einen Terroranschlag geplant haben sollen."
+    },
+    {
+      "term": "der Terroranschlag",
+      "translated_term": "terrorist attack",
+      "example_usage": "Die Polizei hat drei Männer in Berlin verhaftet, die einen Terroranschlag geplant haben sollen."
+    },
+    {
+      "term": "der Verdächtige",
+      "translated_term": "suspect",
+      "example_usage": "Die Verdächtigen sollen jüdische Einrichtungen ins Visier genommen haben."
+    },
+    {
+      "term": "ins Visier nehmen",
+      "translated_term": "to target",
+      "example_usage": "Die Verdächtigen sollen jüdische Einrichtungen ins Visier genommen haben."
+    },
+    {
+      "term": "die Einrichtung",
+      "translated_term": "institution / facility",
+      "example_usage": "Die Verdächtigen sollen jüdische Einrichtungen ins Visier genommen haben."
+    },
+    {
+      "term": "die Festnahme",
+      "translated_term": "arrest",
+      "example_usage": "Die Festnahmen erfolgten, bevor die Verdächtigen ihre Pläne in die Tat umsetzen konnten."
+    },
+    {
+      "term": "in die Tat umsetzen",
+      "translated_term": "to carry out / to put into action",
+      "example_usage": "Die Festnahmen erfolgten, bevor die Verdächtigen ihre Pläne in die Tat umsetzen konnten."
+    },
+    {
+      "term": "beobachten",
+      "translated_term": "to monitor / to observe",
+      "example_usage": "Die Sicherheitsbehörden hatten die Gruppe schon seit einiger Zeit beobachtet."
+    },
+    {
+      "term": "die Terrorgefahr",
+      "translated_term": "terrorist threat",
+      "example_usage": "Der Fall zeigt, dass die Terrorgefahr in Deutschland weiterhin ernst ist."
+    },
+    {
+      "term": "die Untersuchungshaft",
+      "translated_term": "pre-trial detention",
+      "example_usage": "Die drei Verdächtigen befinden sich nun in Untersuchungshaft."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Terrorismus",
+      "translated_name": "Terrorism"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Global News Discover",
+      "link_url": "https://www.globalnewsdiscover.com/2025/10/major-world-news-events-on-30-october.html?m=1"
+    }
+  ]
+}
