@@ -4,6 +4,11 @@ on:
   schedule:
     - cron: "0 6 * * *"
   workflow_dispatch:
+    inputs:
+      date:
+        description: 'Date to fetch articles for (YYYY-MM-DD)'
+        required: false
+        type: string
 
 jobs:
   fetch_articles:
@@ -19,7 +24,12 @@ jobs:
       - name: Install dependencies
         run: bun install
       - name: Create prompt
-        run: bun --bun run createArticlePrompt.ts > article-prompt.md
+        run: |
+          if [ -n "${{ inputs.date }}" ]; then
+            bun --bun run createArticlePrompt.ts --date "${{ inputs.date }}" > article-prompt.md
+          else
+            bun --bun run createArticlePrompt.ts > article-prompt.md
+          fi
       - name: Run Claude Code
         id: claude
         uses: anthropics/claude-code-action@v1
