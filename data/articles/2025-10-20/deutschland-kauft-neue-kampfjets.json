@@ -1,0 +1,153 @@
+{
+  "title": "Deutschland kauft neue Kampfjets",
+  "translated_title": "Germany Buys New Fighter Jets",
+  "text": [
+    {
+      "text": "Deutschland hat beschlossen, 15 zusätzliche F-35 Kampfflugzeuge zu kaufen.",
+      "translated_text": "Germany has decided to buy 15 additional F-35 fighter jets."
+    },
+    {
+      "text": "Diese Entscheidung wurde am 20. Oktober bekannt gegeben.",
+      "translated_text": "This decision was announced on October 20."
+    },
+    {
+      "text": "Die F-35 ist ein modernes amerikanisches Kampfflugzeug.",
+      "translated_text": "The F-35 is a modern American fighter aircraft."
+    },
+    {
+      "text": "Mit diesem Kauf verstärkt Deutschland seine Rolle in der NATO.",
+      "translated_text": "With this purchase, Germany is strengthening its role in NATO."
+    },
+    {
+      "text": "Die Flugzeuge werden für die nukleare Teilhabe verwendet.",
+      "translated_text": "The aircraft will be used for nuclear sharing."
+    },
+    {
+      "text": "Das bedeutet, dass Deutschland im Ernstfall amerikanische Atomwaffen transportieren könnte.",
+      "translated_text": "This means that Germany could transport American nuclear weapons in an emergency."
+    },
+    {
+      "text": "Die nukleare Teilhabe ist ein wichtiger Teil der NATO-Strategie.",
+      "translated_text": "Nuclear sharing is an important part of NATO strategy."
+    },
+    {
+      "text": "Der Kauf ist Teil einer größeren europäischen Aufrüstung.",
+      "translated_text": "The purchase is part of a larger European rearmament."
+    },
+    {
+      "text": "Viele NATO-Länder erhöhen ihre Militärausgaben.",
+      "translated_text": "Many NATO countries are increasing their military spending."
+    },
+    {
+      "text": "Das liegt an den geopolitischen Spannungen in Europa.",
+      "translated_text": "This is due to geopolitical tensions in Europe."
+    },
+    {
+      "text": "Besonders der Ukraine-Krieg hat die Sicherheitslage verändert.",
+      "translated_text": "In particular, the Ukraine war has changed the security situation."
+    },
+    {
+      "text": "Die deutsche Regierung will die Verteidigungsfähigkeit des Landes stärken.",
+      "translated_text": "The German government wants to strengthen the country's defense capabilities."
+    },
+    {
+      "text": "Die F-35 Jets kosten mehrere Milliarden Euro.",
+      "translated_text": "The F-35 jets cost several billion euros."
+    },
+    {
+      "text": "Einige Politiker kritisieren die hohen Ausgaben.",
+      "translated_text": "Some politicians criticize the high expenditure."
+    },
+    {
+      "text": "Andere sagen, dass die Investition notwendig für die Sicherheit ist.",
+      "translated_text": "Others say that the investment is necessary for security."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Kampfflugzeug",
+      "translated_term": "the fighter jet, the combat aircraft",
+      "example_usage": "Deutschland hat beschlossen, 15 zusätzliche F-35 Kampfflugzeuge zu kaufen."
+    },
+    {
+      "term": "bekannt geben",
+      "translated_term": "to announce",
+      "example_usage": "Diese Entscheidung wurde am 20. Oktober bekannt gegeben."
+    },
+    {
+      "term": "verstärken",
+      "translated_term": "to strengthen, to reinforce",
+      "example_usage": "Mit diesem Kauf verstärkt Deutschland seine Rolle in der NATO."
+    },
+    {
+      "term": "nuklear",
+      "translated_term": "nuclear",
+      "example_usage": "Die Flugzeuge werden für die nukleare Teilhabe verwendet."
+    },
+    {
+      "term": "die Teilhabe",
+      "translated_term": "the participation, the sharing",
+      "example_usage": "Die nukleare Teilhabe ist ein wichtiger Teil der NATO-Strategie."
+    },
+    {
+      "term": "der Ernstfall",
+      "translated_term": "the emergency, the worst-case scenario",
+      "example_usage": "Das bedeutet, dass Deutschland im Ernstfall amerikanische Atomwaffen transportieren könnte."
+    },
+    {
+      "term": "die Atomwaffe",
+      "translated_term": "the nuclear weapon",
+      "example_usage": "Das bedeutet, dass Deutschland im Ernstfall amerikanische Atomwaffen transportieren könnte."
+    },
+    {
+      "term": "die Aufrüstung",
+      "translated_term": "the rearmament",
+      "example_usage": "Der Kauf ist Teil einer größeren europäischen Aufrüstung."
+    },
+    {
+      "term": "die Militärausgaben",
+      "translated_term": "the military spending",
+      "example_usage": "Viele NATO-Länder erhöhen ihre Militärausgaben."
+    },
+    {
+      "term": "geopolitisch",
+      "translated_term": "geopolitical",
+      "example_usage": "Das liegt an den geopolitischen Spannungen in Europa."
+    },
+    {
+      "term": "die Sicherheitslage",
+      "translated_term": "the security situation",
+      "example_usage": "Besonders der Ukraine-Krieg hat die Sicherheitslage verändert."
+    },
+    {
+      "term": "die Verteidigungsfähigkeit",
+      "translated_term": "the defense capability",
+      "example_usage": "Die deutsche Regierung will die Verteidigungsfähigkeit des Landes stärken."
+    },
+    {
+      "term": "die Ausgabe",
+      "translated_term": "the expenditure, the expense",
+      "example_usage": "Einige Politiker kritisieren die hohen Ausgaben."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "NATO",
+      "translated_name": "NATO"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda EN",
+      "link_url": "https://news-pravda.com/world/2025/10/21/1794330.html"
+    }
+  ]
+}
