@@ -104,6 +104,10 @@
     "translated_name": "Great Britain"
   },
   {
+    "name": "Humanitäre Krise",
+    "translated_name": "Humanitarian Crisis"
+  },
+  {
     "name": "Internationale Nachrichten",
     "translated_name": "International News"
   },
@@ -140,6 +144,10 @@
     "translated_name": "Climate Policy"
   },
   {
+    "name": "Kriminalität",
+    "translated_name": "Crime"
+  },
+  {
     "name": "Künstliche Intelligenz",
     "translated_name": "Artificial Intelligence"
   },
@@ -166,6 +174,10 @@
   {
     "name": "NATO",
     "translated_name": "NATO"
+  },
+  {
+    "name": "Nationale Sicherheit",
+    "translated_name": "National Security"
   },
   {
     "name": "Naturkatastrophen",

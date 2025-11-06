@@ -1,0 +1,123 @@
+{
+  "title": "Deutschlands neuer Sicherheitsrat trifft sich zum ersten Mal",
+  "translated_title": "Germany's New Security Council Meets for the First Time",
+  "text": [
+    {
+      "text": "Am Mittwoch hat Bundeskanzler Friedrich Merz das erste Treffen des neuen Nationalen Sicherheitsrats geleitet.",
+      "translated_text": "On Wednesday, Chancellor Friedrich Merz chaired the first meeting of the new National Security Council."
+    },
+    {
+      "text": "Das wichtigste Thema des Treffens waren hybride Bedrohungen aus Russland.",
+      "translated_text": "The main topic of the meeting was hybrid threats from Russia."
+    },
+    {
+      "text": "Hybride Bedrohungen sind moderne Formen der Kriegsführung, die militärische und nicht-militärische Mittel kombinieren.",
+      "translated_text": "Hybrid threats are modern forms of warfare that combine military and non-military means."
+    },
+    {
+      "text": "Der Rat hat einen Aktionsplan beschlossen, um Deutschland besser zu schützen.",
+      "translated_text": "The council adopted an action plan to better protect Germany."
+    },
+    {
+      "text": "Die Maßnahmen betreffen besonders die Bereiche Spionage und kritische Infrastruktur.",
+      "translated_text": "The measures particularly concern the areas of espionage and critical infrastructure."
+    },
+    {
+      "text": "Kritische Infrastruktur bedeutet wichtige Einrichtungen wie Kraftwerke, Wasserwerke und Kommunikationsnetze.",
+      "translated_text": "Critical infrastructure means important facilities like power plants, water works, and communication networks."
+    },
+    {
+      "text": "Die deutsche Regierung nimmt die Sicherheitslage sehr ernst.",
+      "translated_text": "The German government takes the security situation very seriously."
+    },
+    {
+      "text": "Der neue Sicherheitsrat soll Deutschland helfen, schneller auf Bedrohungen zu reagieren.",
+      "translated_text": "The new security council is meant to help Germany respond more quickly to threats."
+    },
+    {
+      "text": "Experten sagen, dass die Zusammenarbeit zwischen verschiedenen Ministerien wichtig ist.",
+      "translated_text": "Experts say that cooperation between different ministries is important."
+    },
+    {
+      "text": "Der Sicherheitsrat wird regelmäßig tagen, um die aktuelle Lage zu besprechen.",
+      "translated_text": "The security council will meet regularly to discuss the current situation."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "chancellor",
+      "example_usage": "Am Mittwoch hat Bundeskanzler Friedrich Merz das erste Treffen des neuen Nationalen Sicherheitsrats geleitet."
+    },
+    {
+      "term": "leiten",
+      "translated_term": "to chair, to lead",
+      "example_usage": "Am Mittwoch hat Bundeskanzler Friedrich Merz das erste Treffen des neuen Nationalen Sicherheitsrats geleitet."
+    },
+    {
+      "term": "das Treffen",
+      "translated_term": "meeting",
+      "example_usage": "Das wichtigste Thema des Treffens waren hybride Bedrohungen aus Russland."
+    },
+    {
+      "term": "die Bedrohung",
+      "translated_term": "threat",
+      "example_usage": "Das wichtigste Thema des Treffens waren hybride Bedrohungen aus Russland."
+    },
+    {
+      "term": "die Kriegsführung",
+      "translated_term": "warfare",
+      "example_usage": "Hybride Bedrohungen sind moderne Formen der Kriegsführung, die militärische und nicht-militärische Mittel kombinieren."
+    },
+    {
+      "term": "beschließen",
+      "translated_term": "to adopt, to decide",
+      "example_usage": "Der Rat hat einen Aktionsplan beschlossen, um Deutschland besser zu schützen."
+    },
+    {
+      "term": "die Spionage",
+      "translated_term": "espionage",
+      "example_usage": "Die Maßnahmen betreffen besonders die Bereiche Spionage und kritische Infrastruktur."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "infrastructure",
+      "example_usage": "Die Maßnahmen betreffen besonders die Bereiche Spionage und kritische Infrastruktur."
+    },
+    {
+      "term": "die Einrichtung",
+      "translated_term": "facility",
+      "example_usage": "Kritische Infrastruktur bedeutet wichtige Einrichtungen wie Kraftwerke, Wasserwerke und Kommunikationsnetze."
+    },
+    {
+      "term": "reagieren",
+      "translated_term": "to respond, to react",
+      "example_usage": "Der neue Sicherheitsrat soll Deutschland helfen, schneller auf Bedrohungen zu reagieren."
+    },
+    {
+      "term": "tagen",
+      "translated_term": "to meet, to convene",
+      "example_usage": "Der Sicherheitsrat wird regelmäßig tagen, um die aktuelle Lage zu besprechen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Nationale Sicherheit",
+      "translated_name": "National Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "BSS News",
+      "link_url": "https://www.bssnews.net/international/328977"
+    }
+  ]
+}

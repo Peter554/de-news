@@ -1,0 +1,118 @@
+{
+  "title": "Taifun Kalmaegi trifft die Philippinen: Tote und Zehntausende obdachlos",
+  "translated_title": "Typhoon Kalmaegi Hits the Philippines: Deaths and Tens of Thousands Homeless",
+  "text": [
+    {
+      "text": "Der starke Taifun Kalmaegi ist am Mittwoch auf den Philippinen gelandet.",
+      "translated_text": "The powerful Typhoon Kalmaegi made landfall in the Philippines on Wednesday."
+    },
+    {
+      "text": "Der Sturm traf die Region Central Visayas besonders hart.",
+      "translated_text": "The storm hit the Central Visayas region particularly hard."
+    },
+    {
+      "text": "Mindestens zwei Menschen sind durch den Taifun ums Leben gekommen.",
+      "translated_text": "At least two people lost their lives due to the typhoon."
+    },
+    {
+      "text": "Zehntausende Menschen mussten ihre Häuser verlassen und sind nun obdachlos.",
+      "translated_text": "Tens of thousands of people had to leave their homes and are now homeless."
+    },
+    {
+      "text": "Der Taifun brachte extrem starke Winde und heftige Regenfälle mit sich.",
+      "translated_text": "The typhoon brought extremely strong winds and heavy rainfall."
+    },
+    {
+      "text": "Viele Dörfer und Städte in der Region wurden überflutet.",
+      "translated_text": "Many villages and towns in the region were flooded."
+    },
+    {
+      "text": "Die Behörden haben Notunterkünfte für die betroffenen Menschen eingerichtet.",
+      "translated_text": "Authorities have set up emergency shelters for the affected people."
+    },
+    {
+      "text": "Strom- und Wasserversorgung sind in weiten Teilen der Region ausgefallen.",
+      "translated_text": "Power and water supply have failed in large parts of the region."
+    },
+    {
+      "text": "Rettungsteams arbeiten daran, die isolierten Gemeinden zu erreichen.",
+      "translated_text": "Rescue teams are working to reach the isolated communities."
+    },
+    {
+      "text": "Die Philippinen werden jedes Jahr von mehreren Taifunen heimgesucht.",
+      "translated_text": "The Philippines are hit by several typhoons every year."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Taifun",
+      "translated_term": "typhoon",
+      "example_usage": "Der starke Taifun Kalmaegi ist am Mittwoch auf den Philippinen gelandet."
+    },
+    {
+      "term": "landen",
+      "translated_term": "to make landfall, to land",
+      "example_usage": "Der starke Taifun Kalmaegi ist am Mittwoch auf den Philippinen gelandet."
+    },
+    {
+      "term": "der Sturm",
+      "translated_term": "storm",
+      "example_usage": "Der Sturm traf die Region Central Visayas besonders hart."
+    },
+    {
+      "term": "obdachlos",
+      "translated_term": "homeless",
+      "example_usage": "Zehntausende Menschen mussten ihre Häuser verlassen und sind nun obdachlos."
+    },
+    {
+      "term": "der Regenfall",
+      "translated_term": "rainfall",
+      "example_usage": "Der Taifun brachte extrem starke Winde und heftige Regenfälle mit sich."
+    },
+    {
+      "term": "überfluten",
+      "translated_term": "to flood",
+      "example_usage": "Viele Dörfer und Städte in der Region wurden überflutet."
+    },
+    {
+      "term": "die Notunterkunft",
+      "translated_term": "emergency shelter",
+      "example_usage": "Die Behörden haben Notunterkünfte für die betroffenen Menschen eingerichtet."
+    },
+    {
+      "term": "einrichten",
+      "translated_term": "to set up, to establish",
+      "example_usage": "Die Behörden haben Notunterkünfte für die betroffenen Menschen eingerichtet."
+    },
+    {
+      "term": "ausfallen",
+      "translated_term": "to fail, to break down",
+      "example_usage": "Strom- und Wasserversorgung sind in weiten Teilen der Region ausgefallen."
+    },
+    {
+      "term": "heimsuchen",
+      "translated_term": "to hit, to strike (disaster)",
+      "example_usage": "Die Philippinen werden jedes Jahr von mehreren Taifunen heimgesucht."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    },
+    {
+      "name": "Asien",
+      "translated_name": "Asia"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Australian Jewish Press",
+      "link_url": "https://ajp.com.au/news/world-news-wrapup-6-november-2025/"
+    }
+  ]
+}
