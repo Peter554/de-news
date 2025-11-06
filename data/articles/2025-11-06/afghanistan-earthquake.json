@@ -1,0 +1,118 @@
+{
+  "title": "Schweres Erdbeben in Afghanistan fordert mindestens 20 Todesopfer",
+  "translated_title": "Severe Earthquake in Afghanistan Claims at Least 20 Lives",
+  "text": [
+    {
+      "text": "Ein starkes Erdbeben hat am Donnerstag den Norden Afghanistans erschüttert.",
+      "translated_text": "A strong earthquake shook northern Afghanistan on Thursday."
+    },
+    {
+      "text": "Das Beben hatte eine Stärke von 6,3 auf der Richterskala und ereignete sich in der Nähe der Stadt Mazar-i-Sharif.",
+      "translated_text": "The quake had a magnitude of 6.3 on the Richter scale and occurred near the city of Mazar-i-Sharif."
+    },
+    {
+      "text": "Mindestens 20 Menschen sind bei der Katastrophe ums Leben gekommen.",
+      "translated_text": "At least 20 people lost their lives in the disaster."
+    },
+    {
+      "text": "Hunderte weitere Menschen wurden verletzt und mussten ins Krankenhaus gebracht werden.",
+      "translated_text": "Hundreds more people were injured and had to be taken to the hospital."
+    },
+    {
+      "text": "Viele Gebäude in der Region sind eingestürzt oder schwer beschädigt worden.",
+      "translated_text": "Many buildings in the region collapsed or were severely damaged."
+    },
+    {
+      "text": "Die Menschen in der betroffenen Region haben große Angst vor Nachbeben.",
+      "translated_text": "People in the affected region are very afraid of aftershocks."
+    },
+    {
+      "text": "Rettungsteams arbeiten Tag und Nacht, um Menschen aus den Trümmern zu retten.",
+      "translated_text": "Rescue teams are working day and night to save people from the rubble."
+    },
+    {
+      "text": "Die internationale Gemeinschaft hat Hilfe angeboten.",
+      "translated_text": "The international community has offered assistance."
+    },
+    {
+      "text": "Afghanistan liegt in einer erdbebenreichen Zone und erlebt regelmäßig solche Naturkatastrophen.",
+      "translated_text": "Afghanistan is located in an earthquake-prone zone and regularly experiences such natural disasters."
+    },
+    {
+      "text": "Die Behörden rechnen damit, dass die Zahl der Opfer noch steigen könnte.",
+      "translated_text": "Authorities expect that the number of victims could still rise."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Erdbeben",
+      "translated_term": "earthquake",
+      "example_usage": "Ein starkes Erdbeben hat am Donnerstag den Norden Afghanistans erschüttert."
+    },
+    {
+      "term": "erschüttern",
+      "translated_term": "to shake",
+      "example_usage": "Ein starkes Erdbeben hat am Donnerstag den Norden Afghanistans erschüttert."
+    },
+    {
+      "term": "die Stärke",
+      "translated_term": "magnitude, strength",
+      "example_usage": "Das Beben hatte eine Stärke von 6,3 auf der Richterskala und ereignete sich in der Nähe der Stadt Mazar-i-Sharif."
+    },
+    {
+      "term": "sich ereignen",
+      "translated_term": "to occur, to happen",
+      "example_usage": "Das Beben hatte eine Stärke von 6,3 auf der Richterskala und ereignete sich in der Nähe der Stadt Mazar-i-Sharif."
+    },
+    {
+      "term": "ums Leben kommen",
+      "translated_term": "to lose one's life, to die",
+      "example_usage": "Mindestens 20 Menschen sind bei der Katastrophe ums Leben gekommen."
+    },
+    {
+      "term": "verletzen",
+      "translated_term": "to injure",
+      "example_usage": "Hunderte weitere Menschen wurden verletzt und mussten ins Krankenhaus gebracht werden."
+    },
+    {
+      "term": "einstürzen",
+      "translated_term": "to collapse",
+      "example_usage": "Viele Gebäude in der Region sind eingestürzt oder schwer beschädigt worden."
+    },
+    {
+      "term": "das Nachbeben",
+      "translated_term": "aftershock",
+      "example_usage": "Die Menschen in der betroffenen Region haben große Angst vor Nachbeben."
+    },
+    {
+      "term": "die Trümmer",
+      "translated_term": "rubble, debris",
+      "example_usage": "Rettungsteams arbeiten Tag und Nacht, um Menschen aus den Trümmern zu retten."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "authority",
+      "example_usage": "Die Behörden rechnen damit, dass die Zahl der Opfer noch steigen könnte."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    },
+    {
+      "name": "Asien",
+      "translated_name": "Asia"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Australian Jewish Press",
+      "link_url": "https://ajp.com.au/news/world-news-wrapup-6-november-2025/"
+    }
+  ]
+}
