@@ -1,0 +1,139 @@
+{
+  "title": "Rheinmetall meldet Rekordgewinne durch Ukraine-Unterstützung",
+  "translated_title": "Rheinmetall Reports Record Profits Through Ukraine Support",
+  "text": [
+    {
+      "text": "Der deutsche Rüstungskonzern Rheinmetall hat im Jahr 2025 außergewöhnliche Erfolge erzielt.",
+      "translated_text": "The German defense company Rheinmetall has achieved extraordinary successes in 2025."
+    },
+    {
+      "text": "In den ersten neun Monaten des Jahres stieg der Umsatz um 20 Prozent auf 7,5 Milliarden Euro.",
+      "translated_text": "In the first nine months of the year, revenue increased by 20 percent to 7.5 billion euros."
+    },
+    {
+      "text": "Der Betriebsgewinn wuchs um 18 Prozent auf 835 Millionen Euro.",
+      "translated_text": "Operating profit grew by 18 percent to 835 million euros."
+    },
+    {
+      "text": "Die Nachfrage nach Militärausrüstung ist stark gestiegen, vor allem wegen des Ukraine-Krieges.",
+      "translated_text": "Demand for military equipment has increased sharply, mainly because of the Ukraine war."
+    },
+    {
+      "text": "Deutschland ist nach den USA der zweitgrößte Waffenlieferant für die Ukraine geworden.",
+      "translated_text": "Germany has become the second-largest weapons supplier to Ukraine after the USA."
+    },
+    {
+      "text": "Rheinmetall hat einen Rekordauftragsbestand von 64 Milliarden Euro erreicht.",
+      "translated_text": "Rheinmetall has reached a record order backlog of 64 billion euros."
+    },
+    {
+      "text": "Die Aktien des Unternehmens haben sich im letzten Jahr fast verdreifacht.",
+      "translated_text": "The company's shares have nearly tripled in the last year."
+    },
+    {
+      "text": "Rheinmetall plant, seine Produktionskapazitäten in ganz Europa zu erweitern.",
+      "translated_text": "Rheinmetall plans to expand its production capacities across Europe."
+    },
+    {
+      "text": "Neue Fabriken werden in Litauen, Lettland und Bulgarien gebaut.",
+      "translated_text": "New factories are being built in Lithuania, Latvia and Bulgaria."
+    },
+    {
+      "text": "Anfang November kündigte das Unternehmen eine Investition in Rumänien an.",
+      "translated_text": "In early November, the company announced an investment in Romania."
+    },
+    {
+      "text": "Dort soll eine Fabrik für Zündpulver und modulare Ladungen entstehen.",
+      "translated_text": "A factory for ignition powder and modular charges is to be built there."
+    },
+    {
+      "text": "Die Investition beträgt etwa 535 Millionen Euro.",
+      "translated_text": "The investment amounts to approximately 535 million euros."
+    },
+    {
+      "text": "Deutschland hat seine Haushaltsregeln geändert, um langfristige Verteidigungsausgaben zu ermöglichen.",
+      "translated_text": "Germany has changed its budget rules to enable long-term defense spending."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Rüstungskonzern",
+      "translated_term": "defense company / arms manufacturer",
+      "example_usage": "Der deutsche Rüstungskonzern Rheinmetall hat im Jahr 2025 außergewöhnliche Erfolge erzielt."
+    },
+    {
+      "term": "der Umsatz",
+      "translated_term": "revenue / turnover",
+      "example_usage": "In den ersten neun Monaten des Jahres stieg der Umsatz um 20 Prozent auf 7,5 Milliarden Euro."
+    },
+    {
+      "term": "der Betriebsgewinn",
+      "translated_term": "operating profit",
+      "example_usage": "Der Betriebsgewinn wuchs um 18 Prozent auf 835 Millionen Euro."
+    },
+    {
+      "term": "die Nachfrage",
+      "translated_term": "demand",
+      "example_usage": "Die Nachfrage nach Militärausrüstung ist stark gestiegen, vor allem wegen des Ukraine-Krieges."
+    },
+    {
+      "term": "die Militärausrüstung",
+      "translated_term": "military equipment",
+      "example_usage": "Die Nachfrage nach Militärausrüstung ist stark gestiegen, vor allem wegen des Ukraine-Krieges."
+    },
+    {
+      "term": "der Waffenlieferant",
+      "translated_term": "weapons supplier",
+      "example_usage": "Deutschland ist nach den USA der zweitgrößte Waffenlieferant für die Ukraine geworden."
+    },
+    {
+      "term": "der Auftragsbestand",
+      "translated_term": "order backlog",
+      "example_usage": "Rheinmetall hat einen Rekordauftragsbestand von 64 Milliarden Euro erreicht."
+    },
+    {
+      "term": "sich verdreifachen",
+      "translated_term": "to triple",
+      "example_usage": "Die Aktien des Unternehmens haben sich im letzten Jahr fast verdreifacht."
+    },
+    {
+      "term": "die Produktionskapazität",
+      "translated_term": "production capacity",
+      "example_usage": "Rheinmetall plant, seine Produktionskapazitäten in ganz Europa zu erweitern."
+    },
+    {
+      "term": "erweitern",
+      "translated_term": "to expand",
+      "example_usage": "Rheinmetall plant, seine Produktionskapazitäten in ganz Europa zu erweitern."
+    },
+    {
+      "term": "die Verteidigungsausgaben",
+      "translated_term": "defense spending",
+      "example_usage": "Deutschland hat seine Haushaltsregeln geändert, um langfristige Verteidigungsausgaben zu ermöglichen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/world/2025/11/06/95446.html"
+    },
+    {
+      "name": "Balkan Insight",
+      "link_url": "https://balkaninsight.com/2025/11/03/rheinmetall-to-build-ammunition-plant-in-romania-amid-eu-defence-push/"
+    }
+  ]
+}

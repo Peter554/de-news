@@ -1,0 +1,139 @@
+{
+  "title": "Friedrich Merz führt neue deutsche Regierung",
+  "translated_title": "Friedrich Merz Leads New German Government",
+  "text": [
+    {
+      "text": "Am 23. Februar 2025 fand die Bundestagswahl in Deutschland statt.",
+      "translated_text": "The federal election in Germany took place on February 23, 2025."
+    },
+    {
+      "text": "Die Wahl wurde sieben Monate früher als geplant abgehalten, weil die Regierung von Olaf Scholz Ende 2024 zusammengebrochen war.",
+      "translated_text": "The election was held seven months earlier than planned because Olaf Scholz's government had collapsed at the end of 2024."
+    },
+    {
+      "text": "Die konservative CDU/CSU unter Friedrich Merz gewann die Wahl mit 28,5 Prozent der Stimmen.",
+      "translated_text": "The conservative CDU/CSU under Friedrich Merz won the election with 28.5 percent of the vote."
+    },
+    {
+      "text": "Die SPD erzielte ihr schlechtestes Ergebnis seit über einem Jahrhundert und bekam nur 16,4 Prozent.",
+      "translated_text": "The SPD achieved its worst result in over a century, receiving only 16.4 percent."
+    },
+    {
+      "text": "Die Wahlbeteiligung war mit 82,5 Prozent sehr hoch.",
+      "translated_text": "Voter turnout was very high at 82.5 percent."
+    },
+    {
+      "text": "Nach der Wahl mussten CDU/CSU und SPD eine Koalition bilden.",
+      "translated_text": "After the election, CDU/CSU and SPD had to form a coalition."
+    },
+    {
+      "text": "Am 9. April verkündeten die Parteien ihre Koalitionsvereinbarung.",
+      "translated_text": "On April 9, the parties announced their coalition agreement."
+    },
+    {
+      "text": "Am 6. Mai wurde Friedrich Merz zum Bundeskanzler gewählt.",
+      "translated_text": "On May 6, Friedrich Merz was elected Chancellor."
+    },
+    {
+      "text": "Die Wahl war historisch, denn Merz wurde nicht im ersten Durchgang bestätigt.",
+      "translated_text": "The election was historic because Merz was not confirmed in the first round."
+    },
+    {
+      "text": "Das war in der deutschen Nachkriegsgeschichte noch nie passiert.",
+      "translated_text": "That had never happened in German postwar history."
+    },
+    {
+      "text": "Erst im zweiten Wahlgang erhielt er die notwendige Mehrheit.",
+      "translated_text": "Only in the second round of voting did he receive the necessary majority."
+    },
+    {
+      "text": "Die neue Regierung steht vor vielen Herausforderungen.",
+      "translated_text": "The new government faces many challenges."
+    },
+    {
+      "text": "Deutschland muss Entscheidungen über Wirtschaftspolitik, Verteidigung und Europas Zukunft treffen.",
+      "translated_text": "Germany must make decisions about economic policy, defense and Europe's future."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bundestagswahl",
+      "translated_term": "federal election",
+      "example_usage": "Am 23. Februar 2025 fand die Bundestagswahl in Deutschland statt."
+    },
+    {
+      "term": "abhalten",
+      "translated_term": "to hold / to conduct",
+      "example_usage": "Die Wahl wurde sieben Monate früher als geplant abgehalten, weil die Regierung von Olaf Scholz Ende 2024 zusammengebrochen war."
+    },
+    {
+      "term": "zusammenbrechen",
+      "translated_term": "to collapse",
+      "example_usage": "Die Wahl wurde sieben Monate früher als geplant abgehalten, weil die Regierung von Olaf Scholz Ende 2024 zusammengebrochen war."
+    },
+    {
+      "term": "die Stimme",
+      "translated_term": "vote",
+      "example_usage": "Die konservative CDU/CSU unter Friedrich Merz gewann die Wahl mit 28,5 Prozent der Stimmen."
+    },
+    {
+      "term": "erzielen",
+      "translated_term": "to achieve / to obtain",
+      "example_usage": "Die SPD erzielte ihr schlechtestes Ergebnis seit über einem Jahrhundert und bekam nur 16,4 Prozent."
+    },
+    {
+      "term": "die Wahlbeteiligung",
+      "translated_term": "voter turnout",
+      "example_usage": "Die Wahlbeteiligung war mit 82,5 Prozent sehr hoch."
+    },
+    {
+      "term": "die Koalition",
+      "translated_term": "coalition",
+      "example_usage": "Nach der Wahl mussten CDU/CSU und SPD eine Koalition bilden."
+    },
+    {
+      "term": "verkünden",
+      "translated_term": "to announce / to proclaim",
+      "example_usage": "Am 9. April verkündeten die Parteien ihre Koalitionsvereinbarung."
+    },
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "Chancellor",
+      "example_usage": "Am 6. Mai wurde Friedrich Merz zum Bundeskanzler gewählt."
+    },
+    {
+      "term": "der Durchgang",
+      "translated_term": "round",
+      "example_usage": "Die Wahl war historisch, denn Merz wurde nicht im ersten Durchgang bestätigt."
+    },
+    {
+      "term": "die Herausforderung",
+      "translated_term": "challenge",
+      "example_usage": "Die neue Regierung steht vor vielen Herausforderungen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Bundestagswahl",
+      "translated_name": "Federal Election"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia - 2025 German Federal Election",
+      "link_url": "https://en.wikipedia.org/wiki/2025_German_federal_election"
+    },
+    {
+      "name": "Freshfields - German Federal Election",
+      "link_url": "https://riskandcompliance.freshfields.com/post/102k2gh/shaping-germanys-future-key-takeaways-from-the-2025-federal-election"
+    }
+  ]
+}
