@@ -1,0 +1,118 @@
+{
+  "title": "Demonstration vor dem Bundestag erinnert an Bürgermut",
+  "translated_title": "Demonstration in Front of the Bundestag Commemorates Civic Courage",
+  "text": [
+    {
+      "text": "Am 8. November findet in Berlin eine wichtige Demonstration statt.",
+      "translated_text": "An important demonstration is taking place in Berlin on November 8th."
+    },
+    {
+      "text": "Die Veranstaltung beginnt um 14 Uhr vor dem Deutschen Bundestag und dauert bis 17 Uhr.",
+      "translated_text": "The event starts at 2 pm in front of the German Bundestag and lasts until 5 pm."
+    },
+    {
+      "text": "Die Demonstration ist überparteilich, was bedeutet, dass sie keine bestimmte politische Partei unterstützt.",
+      "translated_text": "The demonstration is non-partisan, which means it does not support any particular political party."
+    },
+    {
+      "text": "Sie findet einen Tag vor dem Jahrestag des Mauerfalls statt.",
+      "translated_text": "It takes place one day before the anniversary of the fall of the Berlin Wall."
+    },
+    {
+      "text": "Am 9. November 1989 fiel die Berliner Mauer, die Deutschland 28 Jahre lang geteilt hatte.",
+      "translated_text": "On November 9, 1989, the Berlin Wall fell, which had divided Germany for 28 years."
+    },
+    {
+      "text": "Die Organisatoren wollen daran erinnern, dass Veränderungen in Deutschland immer vom Mut der Bürger gekommen sind.",
+      "translated_text": "The organizers want to remind people that changes in Germany have always come from the courage of citizens."
+    },
+    {
+      "text": "Damals gingen mutige Menschen auf die Straße und forderten Freiheit und Demokratie.",
+      "translated_text": "Back then, courageous people took to the streets and demanded freedom and democracy."
+    },
+    {
+      "text": "Die friedlichen Proteste führten schließlich zum Fall der Mauer.",
+      "translated_text": "The peaceful protests eventually led to the fall of the Wall."
+    },
+    {
+      "text": "Heute wollen die Demonstranten zeigen, dass Bürger immer noch eine wichtige Rolle in der Demokratie spielen.",
+      "translated_text": "Today, the demonstrators want to show that citizens still play an important role in democracy."
+    },
+    {
+      "text": "Die Veranstaltung soll Menschen ermutigen, sich für ihre Überzeugungen einzusetzen.",
+      "translated_text": "The event aims to encourage people to stand up for their beliefs."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Demonstration",
+      "translated_term": "demonstration",
+      "example_usage": "Am 8. November findet in Berlin eine wichtige Demonstration statt."
+    },
+    {
+      "term": "der Bundestag",
+      "translated_term": "Bundestag (German parliament)",
+      "example_usage": "Die Veranstaltung beginnt um 14 Uhr vor dem Deutschen Bundestag."
+    },
+    {
+      "term": "überparteilich",
+      "translated_term": "non-partisan",
+      "example_usage": "Die Demonstration ist überparteilich, was bedeutet, dass sie keine bestimmte politische Partei unterstützt."
+    },
+    {
+      "term": "der Jahrestag",
+      "translated_term": "anniversary",
+      "example_usage": "Sie findet einen Tag vor dem Jahrestag des Mauerfalls statt."
+    },
+    {
+      "term": "der Mauerfall",
+      "translated_term": "fall of the Wall",
+      "example_usage": "Sie findet einen Tag vor dem Jahrestag des Mauerfalls statt."
+    },
+    {
+      "term": "der Mut",
+      "translated_term": "courage",
+      "example_usage": "Die Organisatoren wollen daran erinnern, dass Veränderungen in Deutschland immer vom Mut der Bürger gekommen sind."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand",
+      "example_usage": "Damals gingen mutige Menschen auf die Straße und forderten Freiheit und Demokratie."
+    },
+    {
+      "term": "friedlich",
+      "translated_term": "peaceful",
+      "example_usage": "Die friedlichen Proteste führten schließlich zum Fall der Mauer."
+    },
+    {
+      "term": "die Überzeugung",
+      "translated_term": "belief/conviction",
+      "example_usage": "Die Veranstaltung soll Menschen ermutigen, sich für ihre Überzeugungen einzusetzen."
+    },
+    {
+      "term": "ermutigen",
+      "translated_term": "to encourage",
+      "example_usage": "Die Veranstaltung soll Menschen ermutigen, sich für ihre Überzeugungen einzusetzen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Proteste",
+      "translated_name": "Protests"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda Deutschland",
+      "link_url": "https://germany.news-pravda.com/germany/2025/10/23/180662.html"
+    }
+  ]
+}

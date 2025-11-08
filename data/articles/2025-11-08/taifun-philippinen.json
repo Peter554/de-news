@@ -1,0 +1,118 @@
+{
+  "title": "Taifun Kalmaegi verwüstet die Philippinen",
+  "translated_title": "Typhoon Kalmaegi Devastates the Philippines",
+  "text": [
+    {
+      "text": "Ein schwerer Taifun hat die Philippinen schwer getroffen und große Zerstörungen verursacht.",
+      "translated_text": "A severe typhoon has hit the Philippines hard and caused major destruction."
+    },
+    {
+      "text": "Der Taifun Kalmaegi hat mindestens 140 Menschen das Leben gekostet.",
+      "translated_text": "Typhoon Kalmaegi has claimed the lives of at least 140 people."
+    },
+    {
+      "text": "Fast zwei Millionen Menschen sind von der Naturkatastrophe betroffen.",
+      "translated_text": "Nearly two million people are affected by the natural disaster."
+    },
+    {
+      "text": "Etwa 560.000 Einwohner mussten ihre Häuser verlassen und sind jetzt obdachlos.",
+      "translated_text": "About 560,000 residents had to leave their homes and are now homeless."
+    },
+    {
+      "text": "Der Taifun brachte starke Regenfälle und verursachte schwere Überschwemmungen in vielen Regionen.",
+      "translated_text": "The typhoon brought heavy rainfall and caused severe flooding in many regions."
+    },
+    {
+      "text": "Die Infrastruktur des Landes wurde erheblich beschädigt.",
+      "translated_text": "The country's infrastructure was significantly damaged."
+    },
+    {
+      "text": "Straßen, Brücken und Gebäude sind zerstört worden.",
+      "translated_text": "Roads, bridges and buildings have been destroyed."
+    },
+    {
+      "text": "Die Regierung hat den Notstand ausgerufen und internationale Hilfe angefordert.",
+      "translated_text": "The government has declared a state of emergency and requested international aid."
+    },
+    {
+      "text": "Rettungsteams arbeiten rund um die Uhr, um Menschen in Not zu helfen.",
+      "translated_text": "Rescue teams are working around the clock to help people in need."
+    },
+    {
+      "text": "Viele Familien warten noch auf Nahrung, sauberes Wasser und medizinische Versorgung.",
+      "translated_text": "Many families are still waiting for food, clean water and medical care."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Taifun",
+      "translated_term": "typhoon",
+      "example_usage": "Der Taifun Kalmaegi hat mindestens 140 Menschen das Leben gekostet."
+    },
+    {
+      "term": "verwüsten",
+      "translated_term": "to devastate",
+      "example_usage": "Ein schwerer Taifun hat die Philippinen schwer getroffen und große Zerstörungen verursacht."
+    },
+    {
+      "term": "die Naturkatastrophe",
+      "translated_term": "natural disaster",
+      "example_usage": "Fast zwei Millionen Menschen sind von der Naturkatastrophe betroffen."
+    },
+    {
+      "term": "obdachlos",
+      "translated_term": "homeless",
+      "example_usage": "Etwa 560.000 Einwohner mussten ihre Häuser verlassen und sind jetzt obdachlos."
+    },
+    {
+      "term": "die Überschwemmung",
+      "translated_term": "flood/flooding",
+      "example_usage": "Der Taifun brachte starke Regenfälle und verursachte schwere Überschwemmungen in vielen Regionen."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "infrastructure",
+      "example_usage": "Die Infrastruktur des Landes wurde erheblich beschädigt."
+    },
+    {
+      "term": "beschädigen",
+      "translated_term": "to damage",
+      "example_usage": "Die Infrastruktur des Landes wurde erheblich beschädigt."
+    },
+    {
+      "term": "der Notstand",
+      "translated_term": "state of emergency",
+      "example_usage": "Die Regierung hat den Notstand ausgerufen und internationale Hilfe angefordert."
+    },
+    {
+      "term": "das Rettungsteam",
+      "translated_term": "rescue team",
+      "example_usage": "Rettungsteams arbeiten rund um die Uhr, um Menschen in Not zu helfen."
+    },
+    {
+      "term": "die Versorgung",
+      "translated_term": "supply/care",
+      "example_usage": "Viele Familien warten noch auf Nahrung, sauberes Wasser und medizinische Versorgung."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Asien",
+      "translated_name": "Asia"
+    },
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    },
+    {
+      "name": "Humanitäre Krise",
+      "translated_name": "Humanitarian Crisis"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/"
+    }
+  ]
+}

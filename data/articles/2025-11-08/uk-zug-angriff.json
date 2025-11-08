@@ -1,0 +1,118 @@
+{
+  "title": "Messerangriff in britischem Zug verletzt zehn Menschen",
+  "translated_title": "Knife Attack on British Train Injures Ten People",
+  "text": [
+    {
+      "text": "In Großbritannien hat sich ein schwerer Vorfall in einem Zug ereignet.",
+      "translated_text": "A serious incident occurred on a train in Great Britain."
+    },
+    {
+      "text": "In der Grafschaft Cambridgeshire kam es zu einem Messerangriff auf Fahrgäste.",
+      "translated_text": "A knife attack on passengers occurred in the county of Cambridgeshire."
+    },
+    {
+      "text": "Zehn Menschen wurden bei dem Angriff verletzt und mussten ins Krankenhaus gebracht werden.",
+      "translated_text": "Ten people were injured in the attack and had to be taken to the hospital."
+    },
+    {
+      "text": "Der Täter griff die Opfer während der Zugfahrt an.",
+      "translated_text": "The perpetrator attacked the victims during the train journey."
+    },
+    {
+      "text": "Die Polizei konnte den Angreifer schnell festnehmen.",
+      "translated_text": "The police were able to arrest the attacker quickly."
+    },
+    {
+      "text": "Der britische Verteidigungsminister bezeichnete den Vorfall als einen isolierten Einzelfall.",
+      "translated_text": "The British Defense Minister described the incident as an isolated individual case."
+    },
+    {
+      "text": "Die Behörden glauben nicht, dass es sich um einen terroristischen Anschlag handelt.",
+      "translated_text": "The authorities do not believe it was a terrorist attack."
+    },
+    {
+      "text": "Trotzdem sind viele Menschen in Großbritannien besorgt über die zunehmende Gewalt.",
+      "translated_text": "Nevertheless, many people in Great Britain are concerned about the increasing violence."
+    },
+    {
+      "text": "Die Verletzten befinden sich in medizinischer Behandlung, und ihr Zustand ist stabil.",
+      "translated_text": "The injured are receiving medical treatment, and their condition is stable."
+    },
+    {
+      "text": "Die Polizei untersucht weiterhin die genauen Umstände des Angriffs.",
+      "translated_text": "The police are continuing to investigate the exact circumstances of the attack."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Messerangriff",
+      "translated_term": "knife attack",
+      "example_usage": "In der Grafschaft Cambridgeshire kam es zu einem Messerangriff auf Fahrgäste."
+    },
+    {
+      "term": "der Vorfall",
+      "translated_term": "incident",
+      "example_usage": "In Großbritannien hat sich ein schwerer Vorfall in einem Zug ereignet."
+    },
+    {
+      "term": "der Fahrgast",
+      "translated_term": "passenger",
+      "example_usage": "In der Grafschaft Cambridgeshire kam es zu einem Messerangriff auf Fahrgäste."
+    },
+    {
+      "term": "verletzen",
+      "translated_term": "to injure",
+      "example_usage": "Zehn Menschen wurden bei dem Angriff verletzt und mussten ins Krankenhaus gebracht werden."
+    },
+    {
+      "term": "der Täter",
+      "translated_term": "perpetrator",
+      "example_usage": "Der Täter griff die Opfer während der Zugfahrt an."
+    },
+    {
+      "term": "festnehmen",
+      "translated_term": "to arrest",
+      "example_usage": "Die Polizei konnte den Angreifer schnell festnehmen."
+    },
+    {
+      "term": "isoliert",
+      "translated_term": "isolated",
+      "example_usage": "Der britische Verteidigungsminister bezeichnete den Vorfall als einen isolierten Einzelfall."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "authority",
+      "example_usage": "Die Behörden glauben nicht, dass es sich um einen terroristischen Anschlag handelt."
+    },
+    {
+      "term": "besorgt",
+      "translated_term": "concerned/worried",
+      "example_usage": "Trotzdem sind viele Menschen in Großbritannien besorgt über die zunehmende Gewalt."
+    },
+    {
+      "term": "untersuchen",
+      "translated_term": "to investigate",
+      "example_usage": "Die Polizei untersucht weiterhin die genauen Umstände des Angriffs."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Kriminalität",
+      "translated_name": "Crime"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Yahoo News UK",
+      "link_url": "https://uk.news.yahoo.com/"
+    }
+  ]
+}
