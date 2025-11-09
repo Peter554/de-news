@@ -96,6 +96,10 @@
     "translated_name": "Health Policy"
   },
   {
+    "name": "Geschichte",
+    "translated_name": "History"
+  },
+  {
     "name": "Griechenland",
     "translated_name": "Greece"
   },
@@ -198,6 +202,10 @@
   {
     "name": "Regierungskrise",
     "translated_name": "Government Crisis"
+  },
+  {
+    "name": "Russland",
+    "translated_name": "Russia"
   },
   {
     "name": "Reisen",

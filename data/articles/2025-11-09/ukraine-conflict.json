@@ -1,0 +1,127 @@
+{
+  "title": "Ukraine-Konflikt eskaliert mit neuen Angriffen",
+  "translated_title": "Ukraine Conflict Escalates with New Attacks",
+  "text": [
+    {
+      "text": "In der Nacht vom 8. auf den 9. November gab es mehrere schwere Angriffe im Ukraine-Konflikt.",
+      "translated_text": "In the night from November 8 to 9, there were several serious attacks in the Ukraine conflict."
+    },
+    {
+      "text": "Ein Wärmekraftwerk in der russischen Stadt Woronesch wurde in der Nacht angegriffen.",
+      "translated_text": "A thermal power plant in the Russian city of Voronezh was attacked during the night."
+    },
+    {
+      "text": "Anwohner berichteten von lauten Explosionen und anschließenden Stromausfällen in der Region.",
+      "translated_text": "Residents reported loud explosions and subsequent power outages in the region."
+    },
+    {
+      "text": "Gleichzeitig führte Russland einen Drohnenangriff auf die ukrainische Stadt Dnipro durch.",
+      "translated_text": "At the same time, Russia carried out a drone attack on the Ukrainian city of Dnipro."
+    },
+    {
+      "text": "Bei diesem Angriff wurden mindestens drei Menschen getötet und zwölf weitere verletzt.",
+      "translated_text": "At least three people were killed and twelve others injured in this attack."
+    },
+    {
+      "text": "Unter den Verletzten befinden sich auch zwei Kinder, die ins Krankenhaus gebracht wurden.",
+      "translated_text": "Among the injured are also two children who were taken to the hospital."
+    },
+    {
+      "text": "Die internationale Gemeinschaft ist besorgt über die zunehmende Gewalt in der Region.",
+      "translated_text": "The international community is concerned about the increasing violence in the region."
+    },
+    {
+      "text": "Viele Länder fordern eine friedliche Lösung des Konflikts, aber die Verhandlungen bleiben schwierig.",
+      "translated_text": "Many countries are calling for a peaceful solution to the conflict, but negotiations remain difficult."
+    },
+    {
+      "text": "Die Zivilbevölkerung auf beiden Seiten leidet unter den anhaltenden Kämpfen und Angriffen.",
+      "translated_text": "The civilian population on both sides is suffering from the ongoing fighting and attacks."
+    },
+    {
+      "text": "Humanitäre Organisationen arbeiten weiterhin daran, den betroffenen Menschen zu helfen.",
+      "translated_text": "Humanitarian organizations continue to work to help the affected people."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Konflikt",
+      "translated_term": "the conflict",
+      "example_usage": "In der Nacht vom 8. auf den 9. November gab es mehrere schwere Angriffe im Ukraine-Konflikt."
+    },
+    {
+      "term": "eskalieren",
+      "translated_term": "to escalate",
+      "example_usage": "Ukraine-Konflikt eskaliert mit neuen Angriffen"
+    },
+    {
+      "term": "das Wärmekraftwerk",
+      "translated_term": "the thermal power plant",
+      "example_usage": "Ein Wärmekraftwerk in der russischen Stadt Woronesch wurde in der Nacht angegriffen."
+    },
+    {
+      "term": "der Anwohner",
+      "translated_term": "the resident",
+      "example_usage": "Anwohner berichteten von lauten Explosionen und anschließenden Stromausfällen in der Region."
+    },
+    {
+      "term": "der Stromausfall",
+      "translated_term": "the power outage",
+      "example_usage": "Anwohner berichteten von lauten Explosionen und anschließenden Stromausfällen in der Region."
+    },
+    {
+      "term": "der Drohnenangriff",
+      "translated_term": "the drone attack",
+      "example_usage": "Gleichzeitig führte Russland einen Drohnenangriff auf die ukrainische Stadt Dnipro durch."
+    },
+    {
+      "term": "töten",
+      "translated_term": "to kill",
+      "example_usage": "Bei diesem Angriff wurden mindestens drei Menschen getötet und zwölf weitere verletzt."
+    },
+    {
+      "term": "die Zivilbevölkerung",
+      "translated_term": "the civilian population",
+      "example_usage": "Die Zivilbevölkerung auf beiden Seiten leidet unter den anhaltenden Kämpfen und Angriffen."
+    },
+    {
+      "term": "leiden",
+      "translated_term": "to suffer",
+      "example_usage": "Die Zivilbevölkerung auf beiden Seiten leidet unter den anhaltenden Kämpfen und Angriffen."
+    },
+    {
+      "term": "anhaltend",
+      "translated_term": "ongoing/continuing",
+      "example_usage": "Die Zivilbevölkerung auf beiden Seiten leidet unter den anhaltenden Kämpfen und Angriffen."
+    },
+    {
+      "term": "humanitär",
+      "translated_term": "humanitarian",
+      "example_usage": "Humanitäre Organisationen arbeiten weiterhin daran, den betroffenen Menschen zu helfen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Humanitäre Krise",
+      "translated_name": "Humanitarian Crisis"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Kyiv Independent",
+      "link_url": "https://kyivindependent.com/"
+    },
+    {
+      "name": "CBS News - Government shutdown updates",
+      "link_url": "https://www.cbsnews.com/live-updates/government-shutdown-latest-senate-vote-day-38/"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "title": "Neuer Nationaler Sicherheitsrat soll Deutschland schützen",
+  "translated_title": "New National Security Council to Protect Germany",
+  "text": [
+    {
+      "text": "Deutschland hat einen neuen Nationalen Sicherheitsrat eingerichtet, um die Krisenfestigkeit des Landes zu stärken.",
+      "translated_text": "Germany has established a new National Security Council to strengthen the country's crisis resilience."
+    },
+    {
+      "text": "Bei seiner ersten Sitzung verabschiedete der Rat einen Plan gegen Bedrohungen aus Russland.",
+      "translated_text": "At its inaugural meeting, the council adopted a plan against threats from Russia."
+    },
+    {
+      "text": "Deutsche Geheimdienste warnen, dass Russland normale Zivilisten als Agenten rekrutiert.",
+      "translated_text": "German intelligence services warn that Russia is recruiting ordinary civilians as agents."
+    },
+    {
+      "text": "Diese sogenannten 'Low-Level-Agenten' bekommen kleine Geldsummen, um Sabotage oder Spionage durchzuführen.",
+      "translated_text": "These so-called 'low-level agents' receive small sums of money to carry out sabotage or espionage."
+    },
+    {
+      "text": "Experten sagen, dass Deutschland zu einer Frontlinie für hybride Kriegsführung geworden ist.",
+      "translated_text": "Experts say that Germany has become a frontline for hybrid warfare."
+    },
+    {
+      "text": "Der neue Sicherheitsrat soll helfen, solche Gefahren frühzeitig zu erkennen und abzuwehren.",
+      "translated_text": "The new Security Council is intended to help detect and repel such dangers early."
+    },
+    {
+      "text": "Hybride Kriegsführung umfasst Cyberangriffe, Desinformation und andere Aktivitäten unterhalb der Schwelle eines offenen Krieges.",
+      "translated_text": "Hybrid warfare includes cyber attacks, disinformation, and other activities below the threshold of open war."
+    },
+    {
+      "text": "Die deutsche Regierung nimmt diese Bedrohungen sehr ernst und investiert mehr in die nationale Sicherheit.",
+      "translated_text": "The German government takes these threats very seriously and is investing more in national security."
+    },
+    {
+      "text": "Der Rat wird regelmäßig tagen, um die Sicherheitslage zu bewerten und Gegenmaßnahmen zu koordinieren.",
+      "translated_text": "The council will meet regularly to assess the security situation and coordinate countermeasures."
+    },
+    {
+      "text": "Dies ist ein wichtiger Schritt, um Deutschland und seine Bürger besser zu schützen.",
+      "translated_text": "This is an important step to better protect Germany and its citizens."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Sicherheitsrat",
+      "translated_term": "the Security Council",
+      "example_usage": "Deutschland hat einen neuen Nationalen Sicherheitsrat eingerichtet, um die Krisenfestigkeit des Landes zu stärken."
+    },
+    {
+      "term": "einrichten",
+      "translated_term": "to establish/set up",
+      "example_usage": "Deutschland hat einen neuen Nationalen Sicherheitsrat eingerichtet, um die Krisenfestigkeit des Landes zu stärken."
+    },
+    {
+      "term": "die Krisenfestigkeit",
+      "translated_term": "the crisis resilience",
+      "example_usage": "Deutschland hat einen neuen Nationalen Sicherheitsrat eingerichtet, um die Krisenfestigkeit des Landes zu stärken."
+    },
+    {
+      "term": "die Bedrohung",
+      "translated_term": "the threat",
+      "example_usage": "Bei seiner ersten Sitzung verabschiedete der Rat einen Plan gegen Bedrohungen aus Russland."
+    },
+    {
+      "term": "der Geheimdienst",
+      "translated_term": "the intelligence service",
+      "example_usage": "Deutsche Geheimdienste warnen, dass Russland normale Zivilisten als Agenten rekrutiert."
+    },
+    {
+      "term": "rekrutieren",
+      "translated_term": "to recruit",
+      "example_usage": "Deutsche Geheimdienste warnen, dass Russland normale Zivilisten als Agenten rekrutiert."
+    },
+    {
+      "term": "die Sabotage",
+      "translated_term": "the sabotage",
+      "example_usage": "Diese sogenannten 'Low-Level-Agenten' bekommen kleine Geldsummen, um Sabotage oder Spionage durchzuführen."
+    },
+    {
+      "term": "die Spionage",
+      "translated_term": "the espionage/spying",
+      "example_usage": "Diese sogenannten 'Low-Level-Agenten' bekommen kleine Geldsummen, um Sabotage oder Spionage durchzuführen."
+    },
+    {
+      "term": "die Kriegsführung",
+      "translated_term": "the warfare",
+      "example_usage": "Experten sagen, dass Deutschland zu einer Frontlinie für hybride Kriegsführung geworden ist."
+    },
+    {
+      "term": "abwehren",
+      "translated_term": "to repel/ward off",
+      "example_usage": "Der neue Sicherheitsrat soll helfen, solche Gefahren frühzeitig zu erkennen und abzuwehren."
+    },
+    {
+      "term": "die Gegenmaßnahme",
+      "translated_term": "the countermeasure",
+      "example_usage": "Der Rat wird regelmäßig tagen, um die Sicherheitslage zu bewerten und Gegenmaßnahmen zu koordinieren."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Nationale Sicherheit",
+      "translated_name": "National Security"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews - Germany News",
+      "link_url": "https://www.euronews.com/news/europe/germany"
+    },
+    {
+      "name": "DGAP - Germany After the 2025 Federal Election",
+      "link_url": "https://dgap.org/en/press/news/germany-after-2025-federal-election-new-role-europe-new-responsibility-world"
+    }
+  ]
+}

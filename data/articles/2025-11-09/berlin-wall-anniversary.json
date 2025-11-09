@@ -1,0 +1,127 @@
+{
+  "title": "36 Jahre nach dem Fall der Berliner Mauer",
+  "translated_title": "36 Years After the Fall of the Berlin Wall",
+  "text": [
+    {
+      "text": "Am 9. November 2025 feiert Berlin den 36. Jahrestag des Falls der Berliner Mauer.",
+      "translated_text": "On November 9, 2025, Berlin celebrates the 36th anniversary of the fall of the Berlin Wall."
+    },
+    {
+      "text": "Die Mauer fiel am 9. November 1989 und markierte das Ende des Kalten Krieges.",
+      "translated_text": "The wall fell on November 9, 1989, and marked the end of the Cold War."
+    },
+    {
+      "text": "Dieses historische Ereignis symbolisierte den Zusammenbruch der kommunistischen Regime in Osteuropa.",
+      "translated_text": "This historic event symbolized the collapse of communist regimes in Eastern Europe."
+    },
+    {
+      "text": "In ganz Berlin finden diese Woche besondere Veranstaltungen im Rahmen der Freiheitswoche statt.",
+      "translated_text": "Special events are taking place throughout Berlin this week as part of Freedom Week."
+    },
+    {
+      "text": "Die Stadt lädt alle ein, Freiheit, Demokratie und Menschenrechte zu feiern.",
+      "translated_text": "The city invites everyone to celebrate freedom, democracy, and human rights."
+    },
+    {
+      "text": "Das Deutsche Historische Museum öffnete am 9. November seine Türen mit freiem Eintritt für alle Besucher.",
+      "translated_text": "The German Historical Museum opened its doors on November 9 with free admission for all visitors."
+    },
+    {
+      "text": "Ausstellungen, Open-Air-Veranstaltungen und Führungen erinnern an die Friedliche Revolution.",
+      "translated_text": "Exhibitions, open-air events, and guided tours commemorate the Peaceful Revolution."
+    },
+    {
+      "text": "Für viele Menschen ist der 9. November das wichtigste Datum in der deutschen Geschichte.",
+      "translated_text": "For many people, November 9 is the most important date in German history."
+    },
+    {
+      "text": "Die Gedenkfeiern zeigen, wie wichtig es ist, die Werte der Freiheit und Demokratie zu schützen.",
+      "translated_text": "The commemorations show how important it is to protect the values of freedom and democracy."
+    },
+    {
+      "text": "Junge und alte Generationen kommen zusammen, um sich an diesen entscheidenden Moment der Geschichte zu erinnern.",
+      "translated_text": "Young and old generations come together to remember this crucial moment in history."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Jahrestag",
+      "translated_term": "the anniversary",
+      "example_usage": "Am 9. November 2025 feiert Berlin den 36. Jahrestag des Falls der Berliner Mauer."
+    },
+    {
+      "term": "die Mauer",
+      "translated_term": "the wall",
+      "example_usage": "Die Mauer fiel am 9. November 1989 und markierte das Ende des Kalten Krieges."
+    },
+    {
+      "term": "feiern",
+      "translated_term": "to celebrate",
+      "example_usage": "Die Stadt lädt alle ein, Freiheit, Demokratie und Menschenrechte zu feiern."
+    },
+    {
+      "term": "der Zusammenbruch",
+      "translated_term": "the collapse",
+      "example_usage": "Dieses historische Ereignis symbolisierte den Zusammenbruch der kommunistischen Regime in Osteuropa."
+    },
+    {
+      "term": "die Freiheit",
+      "translated_term": "the freedom",
+      "example_usage": "Die Stadt lädt alle ein, Freiheit, Demokratie und Menschenrechte zu feiern."
+    },
+    {
+      "term": "die Demokratie",
+      "translated_term": "the democracy",
+      "example_usage": "Die Stadt lädt alle ein, Freiheit, Demokratie und Menschenrechte zu feiern."
+    },
+    {
+      "term": "die Menschenrechte",
+      "translated_term": "the human rights",
+      "example_usage": "Die Stadt lädt alle ein, Freiheit, Demokratie und Menschenrechte zu feiern."
+    },
+    {
+      "term": "der Eintritt",
+      "translated_term": "the admission/entry",
+      "example_usage": "Das Deutsche Historische Museum öffnete am 9. November seine Türen mit freiem Eintritt für alle Besucher."
+    },
+    {
+      "term": "die Gedenkfeier",
+      "translated_term": "the commemoration",
+      "example_usage": "Die Gedenkfeiern zeigen, wie wichtig es ist, die Werte der Freiheit und Demokratie zu schützen."
+    },
+    {
+      "term": "schützen",
+      "translated_term": "to protect",
+      "example_usage": "Die Gedenkfeiern zeigen, wie wichtig es ist, die Werte der Freiheit und Demokratie zu schützen."
+    },
+    {
+      "term": "entscheidend",
+      "translated_term": "crucial/decisive",
+      "example_usage": "Junge und alte Generationen kommen zusammen, um sich an diesen entscheidenden Moment der Geschichte zu erinnern."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Geschichte",
+      "translated_name": "History"
+    },
+    {
+      "name": "Kultur",
+      "translated_name": "Culture"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de - Events on November 09",
+      "link_url": "https://www.berlin.de/en/events/specials/november-9/"
+    },
+    {
+      "name": "35th Anniversary of the Fall of the Berlin Wall",
+      "link_url": "https://kulturprojekte.berlin/en/projects/35-jahre-mauerfall/"
+    }
+  ]
+}
