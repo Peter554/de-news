@@ -1,0 +1,152 @@
+{
+  "title": "Deutschland erlaubt Polizei, Drohnen abzuschießen",
+  "translated_title": "Germany Allows Police to Shoot Down Drones",
+  "text": [
+    {
+      "text": "Im Oktober 2025 genehmigte das deutsche Kabinett ein neues Gesetz zur Drohnenabwehr.",
+      "translated_text": "In October 2025, the German cabinet approved a new law on drone defense."
+    },
+    {
+      "text": "Das Gesetz gibt der Polizei die Befugnis, gefährliche Drohnen abzuschießen.",
+      "translated_text": "The law gives the police the authority to shoot down dangerous drones."
+    },
+    {
+      "text": "Der Entscheidung gingen ernste Vorfälle voraus, darunter Chaos am Münchner Flughafen.",
+      "translated_text": "The decision was preceded by serious incidents, including chaos at Munich Airport."
+    },
+    {
+      "text": "Mehr als 10.000 Passagiere waren betroffen, als Dutzende Flüge wegen Drohnensichtungen umgeleitet oder gestrichen wurden.",
+      "translated_text": "More than 10,000 passengers were affected when dozens of flights were diverted or canceled due to drone sightings."
+    },
+    {
+      "text": "Deutschland verzeichnete 2025 einen Anstieg von 33 Prozent bei drohnenbedingten Störungen des Flugverkehrs.",
+      "translated_text": "Germany recorded a 33 percent increase in drone-related air traffic disruptions in 2025."
+    },
+    {
+      "text": "Zwischen Januar und September gab es 172 solcher Ereignisse, verglichen mit 129 im Vorjahr.",
+      "translated_text": "Between January and September, there were 172 such events, compared to 129 in the previous year."
+    },
+    {
+      "text": "Die Polizei darf modernste technische Maßnahmen einsetzen, einschließlich elektromagnetischer Impulse und GPS-Störungen.",
+      "translated_text": "The police may use state-of-the-art technical measures, including electromagnetic pulses and GPS jamming."
+    },
+    {
+      "text": "In akuten Bedrohungsfällen sind auch physische Mittel erlaubt, um Drohnen abzuschießen.",
+      "translated_text": "In cases of acute threat, physical means are also permitted to shoot down drones."
+    },
+    {
+      "text": "Bundeskanzler Merz behauptet, dass viele Drohnenvorfälle Teil der hybriden Kriegsführung Russlands sind.",
+      "translated_text": "Chancellor Merz claims that many drone incidents are part of Russia's hybrid warfare."
+    },
+    {
+      "text": "Die deutsche Polizei schafft eine neue Anti-Drohnen-Einheit und will von Ländern wie Israel und der Ukraine lernen.",
+      "translated_text": "The German police are creating a new anti-drone unit and want to learn from countries like Israel and Ukraine."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "genehmigen",
+      "translated_term": "to approve",
+      "example_usage": "Im Oktober 2025 genehmigte das deutsche Kabinett ein neues Gesetz zur Drohnenabwehr."
+    },
+    {
+      "term": "das Kabinett",
+      "translated_term": "cabinet",
+      "example_usage": "Im Oktober 2025 genehmigte das deutsche Kabinett ein neues Gesetz zur Drohnenabwehr."
+    },
+    {
+      "term": "das Gesetz",
+      "translated_term": "law",
+      "example_usage": "Im Oktober 2025 genehmigte das deutsche Kabinett ein neues Gesetz zur Drohnenabwehr."
+    },
+    {
+      "term": "die Befugnis",
+      "translated_term": "authority, power",
+      "example_usage": "Das Gesetz gibt der Polizei die Befugnis, gefährliche Drohnen abzuschießen."
+    },
+    {
+      "term": "abschießen",
+      "translated_term": "to shoot down",
+      "example_usage": "Das Gesetz gibt der Polizei die Befugnis, gefährliche Drohnen abzuschießen."
+    },
+    {
+      "term": "der Vorfall",
+      "translated_term": "incident",
+      "example_usage": "Der Entscheidung gingen ernste Vorfälle voraus, darunter Chaos am Münchner Flughafen."
+    },
+    {
+      "term": "vorangehen",
+      "translated_term": "to precede",
+      "example_usage": "Der Entscheidung gingen ernste Vorfälle voraus, darunter Chaos am Münchner Flughafen."
+    },
+    {
+      "term": "umleiten",
+      "translated_term": "to divert, to redirect",
+      "example_usage": "Mehr als 10.000 Passagiere waren betroffen, als Dutzende Flüge wegen Drohnensichtungen umgeleitet oder gestrichen wurden."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel",
+      "example_usage": "Mehr als 10.000 Passagiere waren betroffen, als Dutzende Flüge wegen Drohnensichtungen umgeleitet oder gestrichen wurden."
+    },
+    {
+      "term": "verzeichnen",
+      "translated_term": "to record, to register",
+      "example_usage": "Deutschland verzeichnete 2025 einen Anstieg von 33 Prozent bei drohnenbedingten Störungen des Flugverkehrs."
+    },
+    {
+      "term": "der Anstieg",
+      "translated_term": "increase, rise",
+      "example_usage": "Deutschland verzeichnete 2025 einen Anstieg von 33 Prozent bei drohnenbedingten Störungen des Flugverkehrs."
+    },
+    {
+      "term": "die Störung",
+      "translated_term": "disruption, disturbance",
+      "example_usage": "Deutschland verzeichnete 2025 einen Anstieg von 33 Prozent bei drohnenbedingten Störungen des Flugverkehrs."
+    },
+    {
+      "term": "einsetzen",
+      "translated_term": "to use, to deploy",
+      "example_usage": "Die Polizei darf modernste technische Maßnahmen einsetzen, einschließlich elektromagnetischer Impulse und GPS-Störungen."
+    },
+    {
+      "term": "die Maßnahme",
+      "translated_term": "measure",
+      "example_usage": "Die Polizei darf modernste technische Maßnahmen einsetzen, einschließlich elektromagnetischer Impulse und GPS-Störungen."
+    },
+    {
+      "term": "behaupten",
+      "translated_term": "to claim, to assert",
+      "example_usage": "Bundeskanzler Merz behauptet, dass viele Drohnenvorfälle Teil der hybriden Kriegsführung Russlands sind."
+    },
+    {
+      "term": "schaffen",
+      "translated_term": "to create",
+      "example_usage": "Die deutsche Polizei schafft eine neue Anti-Drohnen-Einheit und will von Ländern wie Israel und der Ukraine lernen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/2025/10/08/germany-to-allow-police-to-shoot-down-drones-interior-minister-says"
+    },
+    {
+      "name": "NBC News",
+      "link_url": "https://www.nbcnews.com/world/germany/germany-police-shoot-down-drones-rcna236341"
+    }
+  ]
+}
