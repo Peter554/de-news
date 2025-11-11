@@ -1,0 +1,118 @@
+{
+  "title": "Deutschland entwickelt neue Anti-Drohnen-Raketen",
+  "translated_title": "Germany develops new anti-drone missiles",
+  "text": [
+    {
+      "text": "Die deutsche Regierung hat die Entwicklung eines neuen Raketentyps genehmigt.",
+      "translated_text": "The German government has approved the development of a new type of missile."
+    },
+    {
+      "text": "Diese kleinen Raketen sollen Drohnen bekämpfen.",
+      "translated_text": "These small missiles are intended to combat drones."
+    },
+    {
+      "text": "Der deutsche Bundestag hat Anfang November das Projekt bewilligt.",
+      "translated_text": "The German Bundestag approved the project in early November."
+    },
+    {
+      "text": "Das Projekt kostet etwa 490 Millionen Euro.",
+      "translated_text": "The project costs approximately 490 million euros."
+    },
+    {
+      "text": "Die Raketen werden auf Rheinmetall Skyranger 30 Fahrzeugen montiert.",
+      "translated_text": "The missiles will be mounted on Rheinmetall Skyranger 30 vehicles."
+    },
+    {
+      "text": "Ein einzelnes Skyranger-Fahrzeug kann bis zu dreißig Drohnen in einem Einsatz zerstören.",
+      "translated_text": "A single Skyranger vehicle can destroy up to thirty drones in one engagement."
+    },
+    {
+      "text": "Die Raketen haben eine Reichweite von sechs Kilometern.",
+      "translated_text": "The missiles have a range of six kilometers."
+    },
+    {
+      "text": "Sie können Drohnen bis zu einem Gewicht von 150 Kilogramm bekämpfen.",
+      "translated_text": "They can combat drones weighing up to 150 kilograms."
+    },
+    {
+      "text": "Das System soll 2029 in Betrieb gehen.",
+      "translated_text": "The system is expected to become operational in 2029."
+    },
+    {
+      "text": "Es wird das erste gepanzerte Luftverteidigungssystem der Bundeswehr sein, das speziell gegen Drohnen entwickelt wurde.",
+      "translated_text": "It will be the first armored air defense system of the German Armed Forces specifically designed against drones."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "Diese kleinen Raketen sollen Drohnen bekämpfen."
+    },
+    {
+      "term": "genehmigen",
+      "translated_term": "to approve, to authorize",
+      "example_usage": "Die deutsche Regierung hat die Entwicklung eines neuen Raketentyps genehmigt."
+    },
+    {
+      "term": "bekämpfen",
+      "translated_term": "to combat, to fight",
+      "example_usage": "Diese kleinen Raketen sollen Drohnen bekämpfen."
+    },
+    {
+      "term": "der Bundestag",
+      "translated_term": "German parliament",
+      "example_usage": "Der deutsche Bundestag hat Anfang November das Projekt bewilligt."
+    },
+    {
+      "term": "montieren",
+      "translated_term": "to mount, to install",
+      "example_usage": "Die Raketen werden auf Rheinmetall Skyranger 30 Fahrzeugen montiert."
+    },
+    {
+      "term": "zerstören",
+      "translated_term": "to destroy",
+      "example_usage": "Ein einzelnes Skyranger-Fahrzeug kann bis zu dreißig Drohnen in einem Einsatz zerstören."
+    },
+    {
+      "term": "die Reichweite",
+      "translated_term": "range",
+      "example_usage": "Die Raketen haben eine Reichweite von sechs Kilometern."
+    },
+    {
+      "term": "in Betrieb gehen",
+      "translated_term": "to become operational, to go into service",
+      "example_usage": "Das System soll 2029 in Betrieb gehen."
+    },
+    {
+      "term": "gepanzert",
+      "translated_term": "armored",
+      "example_usage": "Es wird das erste gepanzerte Luftverteidigungssystem der Bundeswehr sein, das speziell gegen Drohnen entwickelt wurde."
+    },
+    {
+      "term": "die Luftverteidigung",
+      "translated_term": "air defense",
+      "example_usage": "Es wird das erste gepanzerte Luftverteidigungssystem der Bundeswehr sein, das speziell gegen Drohnen entwickelt wurde."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Defense News",
+      "link_url": "https://www.defensenews.com/global/europe/2025/11/06/germany-moves-to-field-a-miniature-anti-drone-missile/"
+    }
+  ]
+}

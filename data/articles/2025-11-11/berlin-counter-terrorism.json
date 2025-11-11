@@ -1,0 +1,122 @@
+{
+  "title": "Anti-Terror-Einsatz in Berlin-Neukölln",
+  "translated_title": "Counter-terrorism operation in Berlin-Neukölln",
+  "text": [
+    {
+      "text": "Am 1. November 2025 führten Spezialkräfte eine Anti-Terror-Operation in Berlin durch.",
+      "translated_text": "On November 1, 2025, special forces conducted a counter-terrorism operation in Berlin."
+    },
+    {
+      "text": "Der Einsatz fand im Bezirk Neukölln statt.",
+      "translated_text": "The operation took place in the Neukölln district."
+    },
+    {
+      "text": "Die SEK-Einheiten verhafteten einen syrischen Staatsbürger namens Abdullah R.",
+      "translated_text": "The SEK units arrested a Syrian citizen named Abdullah R."
+    },
+    {
+      "text": "Bei der Durchsuchung fanden die Ermittler Bauteile für improvise Sprengsätze.",
+      "translated_text": "During the search, investigators found components for improvised explosive devices."
+    },
+    {
+      "text": "Die Beweise zeigen, dass der Verdächtige einen Anschlag vorbereitet haben könnte.",
+      "translated_text": "The evidence shows that the suspect may have been preparing an attack."
+    },
+    {
+      "text": "Am selben Tag gab es auch einen Vorfall am Berliner Flughafen.",
+      "translated_text": "On the same day, there was also an incident at Berlin Airport."
+    },
+    {
+      "text": "Eine Drohne wurde in der Nähe des Flughafens gesichtet.",
+      "translated_text": "A drone was sighted near the airport."
+    },
+    {
+      "text": "Deshalb mussten die Flüge für fast zwei Stunden gestoppt werden.",
+      "translated_text": "Therefore, flights had to be stopped for almost two hours."
+    },
+    {
+      "text": "Die Berliner Polizei verstärkt ihre Sicherheitsmaßnahmen.",
+      "translated_text": "The Berlin police are strengthening their security measures."
+    },
+    {
+      "text": "Die Ermittlungen in beiden Fällen dauern noch an.",
+      "translated_text": "The investigations in both cases are still ongoing."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Spezialkräfte",
+      "translated_term": "special forces",
+      "example_usage": "Am 1. November 2025 führten Spezialkräfte eine Anti-Terror-Operation in Berlin durch."
+    },
+    {
+      "term": "durchführen",
+      "translated_term": "to conduct, to carry out",
+      "example_usage": "Am 1. November 2025 führten Spezialkräfte eine Anti-Terror-Operation in Berlin durch."
+    },
+    {
+      "term": "der Bezirk",
+      "translated_term": "district",
+      "example_usage": "Der Einsatz fand im Bezirk Neukölln statt."
+    },
+    {
+      "term": "verhaften",
+      "translated_term": "to arrest",
+      "example_usage": "Die SEK-Einheiten verhafteten einen syrischen Staatsbürger namens Abdullah R."
+    },
+    {
+      "term": "die Durchsuchung",
+      "translated_term": "search",
+      "example_usage": "Bei der Durchsuchung fanden die Ermittler Bauteile für improvise Sprengsätze."
+    },
+    {
+      "term": "der Sprengsatz",
+      "translated_term": "explosive device",
+      "example_usage": "Bei der Durchsuchung fanden die Ermittler Bauteile für improvise Sprengsätze."
+    },
+    {
+      "term": "der Verdächtige",
+      "translated_term": "suspect",
+      "example_usage": "Die Beweise zeigen, dass der Verdächtige einen Anschlag vorbereitet haben könnte."
+    },
+    {
+      "term": "der Anschlag",
+      "translated_term": "attack",
+      "example_usage": "Die Beweise zeigen, dass der Verdächtige einen Anschlag vorbereitet haben könnte."
+    },
+    {
+      "term": "sichten",
+      "translated_term": "to sight, to spot",
+      "example_usage": "Eine Drohne wurde in der Nähe des Flughafens gesichtet."
+    },
+    {
+      "term": "die Ermittlung",
+      "translated_term": "investigation",
+      "example_usage": "Die Ermittlungen in beiden Fällen dauern noch an."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Terrorismus",
+      "translated_name": "Terrorism"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/world/2025/11/03/94648.html"
+    },
+    {
+      "name": "The Left Berlin",
+      "link_url": "https://www.theleftberlin.com/news-from-berlin-and-germany-5th-november-2025/"
+    }
+  ]
+}
