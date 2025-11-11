@@ -172,6 +172,10 @@
     "translated_name": "Air Traffic"
   },
   {
+    "name": "Medienkrise",
+    "translated_name": "Media Crisis"
+  },
+  {
     "name": "Menschenrechte",
     "translated_name": "Human Rights"
   },
@@ -286,6 +290,10 @@
   {
     "name": "Weltraumforschung",
     "translated_name": "Space Exploration"
+  },
+  {
+    "name": "Weltraumsicherheit",
+    "translated_name": "Space Security"
   },
   {
     "name": "Wetter",
