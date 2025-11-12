@@ -1,0 +1,122 @@
+{
+  "title": "NATO erhöht Verteidigungsausgaben auf 5 Prozent",
+  "translated_title": "NATO increases defense spending to 5 percent",
+  "text": [
+    {
+      "text": "Im Juni 2025 einigten sich die NATO-Mitglieder auf ein neues Ziel für Verteidigungsausgaben.",
+      "translated_text": "In June 2025, NATO members agreed on a new target for defense spending."
+    },
+    {
+      "text": "Die Länder sollen nun 5 Prozent ihres Bruttoinlandsprodukts für Verteidigung ausgeben.",
+      "translated_text": "Countries should now spend 5 percent of their gross domestic product on defense."
+    },
+    {
+      "text": "Das neue Ziel wurde bei einem Gipfel in Den Haag beschlossen.",
+      "translated_text": "The new target was decided at a summit in The Hague."
+    },
+    {
+      "text": "Davon sollen 3,5 Prozent für Waffen und militärische Ausrüstung verwendet werden.",
+      "translated_text": "Of this, 3.5 percent should be used for weapons and military equipment."
+    },
+    {
+      "text": "Die restlichen 1,5 Prozent sind für Infrastruktur wie Häfen gedacht.",
+      "translated_text": "The remaining 1.5 percent is intended for infrastructure such as ports."
+    },
+    {
+      "text": "Die EU-Mitgliedstaaten gaben 2024 bereits 1,9 Prozent ihres BIP für Verteidigung aus.",
+      "translated_text": "EU member states already spent 1.9 percent of their GDP on defense in 2024."
+    },
+    {
+      "text": "Für 2025 wird ein Anstieg auf 2,1 Prozent erwartet.",
+      "translated_text": "For 2025, an increase to 2.1 percent is expected."
+    },
+    {
+      "text": "Polen erfüllt das neue Ziel bereits und gibt 4,1 Prozent seines BIP für Verteidigung aus.",
+      "translated_text": "Poland already meets the new target and spends 4.1 percent of its GDP on defense."
+    },
+    {
+      "text": "Die Niederlande planen, ihre Ausgaben auf 5,4 Prozent zu erhöhen.",
+      "translated_text": "The Netherlands plans to increase its spending to 5.4 percent."
+    },
+    {
+      "text": "Spanien kündigte jedoch an, das 5-Prozent-Ziel nicht erfüllen zu können.",
+      "translated_text": "However, Spain announced that it cannot meet the 5 percent target."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Verteidigungsausgaben",
+      "translated_term": "defense spending",
+      "example_usage": "Im Juni 2025 einigten sich die NATO-Mitglieder auf ein neues Ziel für Verteidigungsausgaben."
+    },
+    {
+      "term": "sich einigen auf",
+      "translated_term": "to agree on",
+      "example_usage": "Die NATO-Mitglieder einigten sich auf ein neues Ziel."
+    },
+    {
+      "term": "das Bruttoinlandsprodukt (BIP)",
+      "translated_term": "gross domestic product (GDP)",
+      "example_usage": "Die Länder sollen 5 Prozent ihres Bruttoinlandsprodukts für Verteidigung ausgeben."
+    },
+    {
+      "term": "ausgeben",
+      "translated_term": "to spend",
+      "example_usage": "Polen gibt 4,1 Prozent seines BIP für Verteidigung aus."
+    },
+    {
+      "term": "der Gipfel",
+      "translated_term": "summit",
+      "example_usage": "Das neue Ziel wurde bei einem Gipfel in Den Haag beschlossen."
+    },
+    {
+      "term": "die Ausrüstung",
+      "translated_term": "equipment",
+      "example_usage": "Davon sollen 3,5 Prozent für Waffen und militärische Ausrüstung verwendet werden."
+    },
+    {
+      "term": "der Anstieg",
+      "translated_term": "increase",
+      "example_usage": "Für 2025 wird ein Anstieg auf 2,1 Prozent erwartet."
+    },
+    {
+      "term": "erfüllen",
+      "translated_term": "to meet, to fulfill",
+      "example_usage": "Polen erfüllt das neue Ziel bereits."
+    },
+    {
+      "term": "erhöhen",
+      "translated_term": "to increase",
+      "example_usage": "Die Niederlande planen, ihre Ausgaben auf 5,4 Prozent zu erhöhen."
+    },
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Spanien kündigte an, das 5-Prozent-Ziel nicht erfüllen zu können."
+    }
+  ],
+  "tags": [
+    {
+      "name": "NATO",
+      "translated_name": "NATO"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Europäische Union",
+      "translated_name": "European Union"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Defense News",
+      "link_url": "https://www.defensenews.com/global/europe/2025/06/25/nato-allies-agree-to-boost-defense-spending-to-5-at-the-hague-summit/"
+    },
+    {
+      "name": "NATO",
+      "link_url": "https://www.nato.int/cps/en/natohq/news_237171.htm"
+    }
+  ]
+}

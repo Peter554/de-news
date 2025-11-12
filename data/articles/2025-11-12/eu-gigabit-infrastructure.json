@@ -1,0 +1,122 @@
+{
+  "title": "EU-Gigabit-Infrastrukturgesetz tritt in Kraft",
+  "translated_title": "EU Gigabit Infrastructure Act comes into effect",
+  "text": [
+    {
+      "text": "Am 12. November 2025 tritt das EU-Gigabit-Infrastrukturgesetz vollständig in Kraft.",
+      "translated_text": "On November 12, 2025, the EU Gigabit Infrastructure Act comes fully into effect."
+    },
+    {
+      "text": "Das Gesetz soll den Ausbau von schnellem Internet in ganz Europa erleichtern.",
+      "translated_text": "The law aims to facilitate the expansion of fast internet throughout Europe."
+    },
+    {
+      "text": "Es ersetzt die alte Richtlinie zur Kostensenkung beim Breitbandausbau aus dem Jahr 2014.",
+      "translated_text": "It replaces the old Broadband Cost Reduction Directive from 2014."
+    },
+    {
+      "text": "Ziel ist es, Gigabit-Netze schneller, günstiger und einfacher zu installieren.",
+      "translated_text": "The goal is to install gigabit networks faster, cheaper, and more easily."
+    },
+    {
+      "text": "Die Mitgliedstaaten müssen nun ihre bestehende Infrastruktur transparenter machen.",
+      "translated_text": "Member states must now make their existing infrastructure more transparent."
+    },
+    {
+      "text": "Das Gesetz fördert die gemeinsame Nutzung von physischer Infrastruktur zwischen verschiedenen Sektoren.",
+      "translated_text": "The law promotes the shared use of physical infrastructure between different sectors."
+    },
+    {
+      "text": "Administrative Prozesse für den Netzausbau werden vereinfacht und digitalisiert.",
+      "translated_text": "Administrative processes for network expansion are being simplified and digitalized."
+    },
+    {
+      "text": "Bis zum 12. November 2025 müssen die Länder Indikatoren festlegen, über die sie regelmäßig berichten.",
+      "translated_text": "By November 12, 2025, countries must establish indicators about which they will regularly report."
+    },
+    {
+      "text": "Das Gesetz reagiert auf den wachsenden Bedarf an schnellem und zuverlässigem Internet.",
+      "translated_text": "The law responds to the growing need for fast and reliable internet."
+    },
+    {
+      "text": "Hochwertige digitale Konnektivität soll in jeder Region Europas erreicht werden.",
+      "translated_text": "High-quality digital connectivity is to be achieved in every region of Europe."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Gesetz",
+      "translated_term": "law",
+      "example_usage": "Am 12. November 2025 tritt das EU-Gigabit-Infrastrukturgesetz vollständig in Kraft."
+    },
+    {
+      "term": "in Kraft treten",
+      "translated_term": "to come into effect",
+      "example_usage": "Das Gesetz tritt am 12. November vollständig in Kraft."
+    },
+    {
+      "term": "der Ausbau",
+      "translated_term": "expansion",
+      "example_usage": "Das Gesetz soll den Ausbau von schnellem Internet erleichtern."
+    },
+    {
+      "term": "erleichtern",
+      "translated_term": "to facilitate",
+      "example_usage": "Das Gesetz soll den Ausbau erleichtern."
+    },
+    {
+      "term": "die Richtlinie",
+      "translated_term": "directive",
+      "example_usage": "Es ersetzt die alte Richtlinie zur Kostensenkung beim Breitbandausbau."
+    },
+    {
+      "term": "der Mitgliedstaat",
+      "translated_term": "member state",
+      "example_usage": "Die Mitgliedstaaten müssen ihre Infrastruktur transparenter machen."
+    },
+    {
+      "term": "fördern",
+      "translated_term": "to promote",
+      "example_usage": "Das Gesetz fördert die gemeinsame Nutzung von Infrastruktur."
+    },
+    {
+      "term": "vereinfachen",
+      "translated_term": "to simplify",
+      "example_usage": "Administrative Prozesse werden vereinfacht und digitalisiert."
+    },
+    {
+      "term": "der Bedarf",
+      "translated_term": "need",
+      "example_usage": "Das Gesetz reagiert auf den wachsenden Bedarf an schnellem Internet."
+    },
+    {
+      "term": "die Konnektivität",
+      "translated_term": "connectivity",
+      "example_usage": "Hochwertige digitale Konnektivität soll in jeder Region erreicht werden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Europäische Union",
+      "translated_name": "European Union"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    }
+  ],
+  "sources": [
+    {
+      "name": "European Commission",
+      "link_url": "https://digital-strategy.ec.europa.eu/en/policies/gigabit-infrastructure-act"
+    },
+    {
+      "name": "EUR-Lex",
+      "link_url": "https://eur-lex.europa.eu/EN/legal-content/summary/gigabit-infrastructure-act-gia.html"
+    }
+  ]
+}

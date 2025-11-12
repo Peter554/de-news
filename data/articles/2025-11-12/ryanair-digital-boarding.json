@@ -1,0 +1,122 @@
+{
+  "title": "Ryanair führt digitale Bordkarten ein",
+  "translated_title": "Ryanair introduces digital boarding passes",
+  "text": [
+    {
+      "text": "Ab dem 12. November 2025 akzeptiert Ryanair nur noch digitale Bordkarten.",
+      "translated_text": "From November 12, 2025, Ryanair will only accept digital boarding passes."
+    },
+    {
+      "text": "Passagiere müssen die myRyanair App auf ihrem Smartphone oder Tablet nutzen.",
+      "translated_text": "Passengers must use the myRyanair app on their smartphone or tablet."
+    },
+    {
+      "text": "Gedruckte Bordkarten werden nicht mehr akzeptiert, auch nicht zu Hause ausgedruckte.",
+      "translated_text": "Printed boarding passes will no longer be accepted, including those printed at home."
+    },
+    {
+      "text": "Die Änderung betrifft über 200 Millionen Passagiere pro Jahr.",
+      "translated_text": "The change affects over 200 million passengers per year."
+    },
+    {
+      "text": "Wenn Passagiere vergessen, online einzuchecken, müssen sie eine Gebühr zwischen 30 und 55 Euro am Flughafen bezahlen.",
+      "translated_text": "If passengers forget to check in online, they must pay a fee between 30 and 55 euros at the airport."
+    },
+    {
+      "text": "Die digitale Bordkarte funktioniert auch offline, sobald man eingecheckt hat.",
+      "translated_text": "The digital boarding pass also works offline once you have checked in."
+    },
+    {
+      "text": "Wenn das Smartphone kaputt geht oder der Akku leer ist, gibt es am Flughafen eine kostenlose Ersatz-Bordkarte.",
+      "translated_text": "If the smartphone breaks or the battery is dead, there is a free replacement boarding pass at the airport."
+    },
+    {
+      "text": "Ryanair hofft, dass die Änderung das Reisen schneller und nachhaltiger macht.",
+      "translated_text": "Ryanair hopes that the change will make travel faster and more sustainable."
+    },
+    {
+      "text": "Die Fluggesellschaft hatte die Umstellung ursprünglich für Anfang November geplant.",
+      "translated_text": "The airline had originally planned the switch for early November."
+    },
+    {
+      "text": "Der Termin wurde verschoben, um Störungen in der Hauptreisezeit zu vermeiden.",
+      "translated_text": "The date was postponed to avoid disruptions during the peak travel period."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bordkarte",
+      "translated_term": "boarding pass",
+      "example_usage": "Ab dem 12. November 2025 akzeptiert Ryanair nur noch digitale Bordkarten."
+    },
+    {
+      "term": "akzeptieren",
+      "translated_term": "to accept",
+      "example_usage": "Gedruckte Bordkarten werden nicht mehr akzeptiert."
+    },
+    {
+      "term": "der Passagier",
+      "translated_term": "passenger",
+      "example_usage": "Die Änderung betrifft über 200 Millionen Passagiere pro Jahr."
+    },
+    {
+      "term": "einchecken",
+      "translated_term": "to check in",
+      "example_usage": "Wenn Passagiere vergessen, online einzuchecken, müssen sie eine Gebühr bezahlen."
+    },
+    {
+      "term": "die Gebühr",
+      "translated_term": "fee",
+      "example_usage": "Sie müssen eine Gebühr zwischen 30 und 55 Euro am Flughafen bezahlen."
+    },
+    {
+      "term": "offline",
+      "translated_term": "offline",
+      "example_usage": "Die digitale Bordkarte funktioniert auch offline, sobald man eingecheckt hat."
+    },
+    {
+      "term": "der Akku",
+      "translated_term": "battery",
+      "example_usage": "Wenn das Smartphone kaputt geht oder der Akku leer ist, gibt es eine kostenlose Ersatz-Bordkarte."
+    },
+    {
+      "term": "nachhaltig",
+      "translated_term": "sustainable",
+      "example_usage": "Ryanair hofft, dass die Änderung das Reisen schneller und nachhaltiger macht."
+    },
+    {
+      "term": "die Fluggesellschaft",
+      "translated_term": "airline",
+      "example_usage": "Die Fluggesellschaft hatte die Umstellung ursprünglich für Anfang November geplant."
+    },
+    {
+      "term": "verschieben",
+      "translated_term": "to postpone",
+      "example_usage": "Der Termin wurde verschoben, um Störungen in der Hauptreisezeit zu vermeiden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    },
+    {
+      "name": "Reisen",
+      "translated_name": "Travel"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/travel/2025/09/30/ryanair-will-only-accept-digital-boarding-passes-from-november-heres-what-travellers-need-"
+    },
+    {
+      "name": "Travel And Tour World",
+      "link_url": "https://www.travelandtourworld.com/news/article/ryanairs-digital-boarding-pass-transition-now-pushed-to-november-12-2025-as-over-two-hundred-million-annual-travelers-prepare-for-a-faster-paperless-future/"
+    }
+  ]
+}
