@@ -1,0 +1,122 @@
+{
+  "title": "Deutschland plant Kauf von US-Raketensystemen",
+  "translated_title": "Germany plans purchase of US missile systems",
+  "text": [
+    {
+      "text": "Deutschland plant den Kauf amerikanischer Tomahawk-Raketen für seine Streitkräfte.",
+      "translated_text": "Germany plans to purchase American Tomahawk missiles for its armed forces."
+    },
+    {
+      "text": "Die Bundeswehr möchte etwa 400 Tomahawk-Raketen erwerben.",
+      "translated_text": "The Bundeswehr wants to acquire about 400 Tomahawk missiles."
+    },
+    {
+      "text": "Berlin plant, 1,15 Milliarden Euro für die Raketen auszugeben.",
+      "translated_text": "Berlin plans to spend 1.15 billion euros on the missiles."
+    },
+    {
+      "text": "Weitere 220 Millionen Euro sind für drei Typhon-Raketenwerfer vorgesehen.",
+      "translated_text": "Another 220 million euros are planned for three Typhon missile launchers."
+    },
+    {
+      "text": "Verteidigungsminister Boris Pistorius hat bereits ein offizielles Kaufgesuch eingereicht.",
+      "translated_text": "Defense Minister Boris Pistorius has already submitted an official purchase request."
+    },
+    {
+      "text": "Die USA werden ab 2026 eigene Langstreckenwaffen in Deutschland stationieren.",
+      "translated_text": "The USA will station its own long-range weapons in Germany starting in 2026."
+    },
+    {
+      "text": "Diese Waffen umfassen SM-6-Raketen, Tomahawks und neue Hyperschallwaffen.",
+      "translated_text": "These weapons include SM-6 missiles, Tomahawks, and new hypersonic weapons."
+    },
+    {
+      "text": "Die deutsche Marine prüft auch, ob sie Tomahawks auf Schiffen einsetzen kann.",
+      "translated_text": "The German Navy is also examining whether it can deploy Tomahawks on ships."
+    },
+    {
+      "text": "Die Tomahawk-Raketen können Ziele in über 1.600 Kilometern Entfernung treffen.",
+      "translated_text": "The Tomahawk missiles can hit targets at a distance of over 1,600 kilometers."
+    },
+    {
+      "text": "Die Entscheidung ist eine Reaktion auf russische Raketenstationierungen in der Region.",
+      "translated_text": "The decision is a response to Russian missile deployments in the region."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Rakete",
+      "translated_term": "missile",
+      "example_usage": "Deutschland plant den Kauf amerikanischer Tomahawk-Raketen für seine Streitkräfte."
+    },
+    {
+      "term": "die Streitkräfte",
+      "translated_term": "armed forces",
+      "example_usage": "Deutschland plant den Kauf amerikanischer Tomahawk-Raketen für seine Streitkräfte."
+    },
+    {
+      "term": "erwerben",
+      "translated_term": "to acquire",
+      "example_usage": "Die Bundeswehr möchte etwa 400 Tomahawk-Raketen erwerben."
+    },
+    {
+      "term": "vorsehen",
+      "translated_term": "to plan for, to intend",
+      "example_usage": "Weitere 220 Millionen Euro sind für drei Typhon-Raketenwerfer vorgesehen."
+    },
+    {
+      "term": "der Verteidigungsminister",
+      "translated_term": "defense minister",
+      "example_usage": "Verteidigungsminister Boris Pistorius hat ein offizielles Kaufgesuch eingereicht."
+    },
+    {
+      "term": "einreichen",
+      "translated_term": "to submit",
+      "example_usage": "Boris Pistorius hat bereits ein offizielles Kaufgesuch eingereicht."
+    },
+    {
+      "term": "stationieren",
+      "translated_term": "to station, to deploy",
+      "example_usage": "Die USA werden ab 2026 eigene Langstreckenwaffen in Deutschland stationieren."
+    },
+    {
+      "term": "umfassen",
+      "translated_term": "to include",
+      "example_usage": "Diese Waffen umfassen SM-6-Raketen, Tomahawks und neue Hyperschallwaffen."
+    },
+    {
+      "term": "einsetzen",
+      "translated_term": "to deploy, to use",
+      "example_usage": "Die deutsche Marine prüft, ob sie Tomahawks auf Schiffen einsetzen kann."
+    },
+    {
+      "term": "die Entfernung",
+      "translated_term": "distance",
+      "example_usage": "Die Tomahawk-Raketen können Ziele in über 1.600 Kilometern Entfernung treffen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Breaking Defense",
+      "link_url": "https://breakingdefense.com/2024/07/germany-gives-us-greenlight-to-deploy-new-longer-range-weapons-inside-its-borders/"
+    },
+    {
+      "name": "Defense Express",
+      "link_url": "https://en.defence-ua.com/weapon_and_tech/germany_bets_on_tomahawk_missiles_despite_unrealistic_costs_long_delivery_timelines-16360.html"
+    }
+  ]
+}
