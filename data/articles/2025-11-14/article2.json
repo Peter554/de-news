@@ -1,0 +1,122 @@
+{
+  "title": "Merz spricht mit Selenskyj über ukrainische Flüchtlinge",
+  "translated_title": "Merz Speaks with Zelensky About Ukrainian Refugees",
+  "text": [
+    {
+      "text": "Friedrich Merz, der deutsche Bundeskanzler, hat mit dem ukrainischen Präsidenten Selenskyj telefoniert.",
+      "translated_text": "Friedrich Merz, the German Chancellor, had a phone call with Ukrainian President Zelensky."
+    },
+    {
+      "text": "Merz bat Selenskyj, junge ukrainische Männer in der Ukraine zu behalten.",
+      "translated_text": "Merz asked Zelensky to keep young Ukrainian men in Ukraine."
+    },
+    {
+      "text": "Er sagte, dass diese jungen Männer ihr Land verteidigen sollten, anstatt nach Deutschland zu kommen.",
+      "translated_text": "He said that these young men should defend their country instead of coming to Germany."
+    },
+    {
+      "text": "In diesem Jahr sind über 122.000 Ukrainer nach Deutschland gekommen.",
+      "translated_text": "This year, over 122,000 Ukrainians have come to Germany."
+    },
+    {
+      "text": "Mehr als 60.000 von ihnen sind junge Menschen unter 60 Jahren.",
+      "translated_text": "More than 60,000 of them are young people under 60 years old."
+    },
+    {
+      "text": "Die deutsche Regierung plant auch, die Sozialleistungen für einige ukrainische Flüchtlinge zu reduzieren.",
+      "translated_text": "The German government also plans to reduce social benefits for some Ukrainian refugees."
+    },
+    {
+      "text": "Merz hatte bereits beim deutschen Handelskongress in Berlin über dieses Thema gesprochen.",
+      "translated_text": "Merz had already spoken about this topic at the German Trade Congress in Berlin."
+    },
+    {
+      "text": "Viele Menschen in Deutschland diskutieren über die Flüchtlingspolitik.",
+      "translated_text": "Many people in Germany are discussing refugee policy."
+    },
+    {
+      "text": "Die Situation ist kompliziert, weil Deutschland ukrainische Flüchtlinge unterstützen möchte.",
+      "translated_text": "The situation is complicated because Germany wants to support Ukrainian refugees."
+    },
+    {
+      "text": "Gleichzeitig gibt es Fragen über die Integration und die Kosten der Flüchtlingshilfe.",
+      "translated_text": "At the same time, there are questions about integration and the costs of refugee aid."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "the Chancellor",
+      "example_usage": "Friedrich Merz, der deutsche Bundeskanzler, hat mit dem ukrainischen Präsidenten Selenskyj telefoniert."
+    },
+    {
+      "term": "telefonieren",
+      "translated_term": "to telephone, to call",
+      "example_usage": "Friedrich Merz hat mit dem ukrainischen Präsidenten Selenskyj telefoniert."
+    },
+    {
+      "term": "verteidigen",
+      "translated_term": "to defend",
+      "example_usage": "Er sagte, dass diese jungen Männer ihr Land verteidigen sollten."
+    },
+    {
+      "term": "der Flüchtling",
+      "translated_term": "refugee",
+      "example_usage": "Die deutsche Regierung plant, die Sozialleistungen für einige ukrainische Flüchtlinge zu reduzieren."
+    },
+    {
+      "term": "die Sozialleistung",
+      "translated_term": "social benefit",
+      "example_usage": "Die deutsche Regierung plant, die Sozialleistungen für einige ukrainische Flüchtlinge zu reduzieren."
+    },
+    {
+      "term": "reduzieren",
+      "translated_term": "to reduce",
+      "example_usage": "Die deutsche Regierung plant, die Sozialleistungen für einige ukrainische Flüchtlinge zu reduzieren."
+    },
+    {
+      "term": "der Handelskongress",
+      "translated_term": "trade congress",
+      "example_usage": "Merz hatte bereits beim deutschen Handelskongress in Berlin über dieses Thema gesprochen."
+    },
+    {
+      "term": "die Flüchtlingspolitik",
+      "translated_term": "refugee policy",
+      "example_usage": "Viele Menschen in Deutschland diskutieren über die Flüchtlingspolitik."
+    },
+    {
+      "term": "unterstützen",
+      "translated_term": "to support",
+      "example_usage": "Deutschland möchte ukrainische Flüchtlinge unterstützen."
+    },
+    {
+      "term": "die Integration",
+      "translated_term": "integration",
+      "example_usage": "Gleichzeitig gibt es Fragen über die Integration und die Kosten der Flüchtlingshilfe."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Einwanderungspolitik",
+      "translated_name": "Immigration Policy"
+    },
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/world/2025/11/14/96807.html"
+    },
+    {
+      "name": "Pravda EN",
+      "link_url": "https://news-pravda.com/world/2025/11/13/1854499.html"
+    }
+  ]
+}
