@@ -1,0 +1,118 @@
+{
+  "title": "Britische Regierung kürzt NHS-Verwaltung",
+  "translated_title": "British Government Cuts NHS Administration",
+  "text": [
+    {
+      "text": "Die britische Labour-Regierung hat einen Plan vorgestellt, um das Gesundheitssystem zu verbessern.",
+      "translated_text": "The British Labour government has presented a plan to improve the healthcare system."
+    },
+    {
+      "text": "Sie möchte unnötige Verwaltungsstellen im NHS abschaffen.",
+      "translated_text": "It wants to abolish unnecessary administrative positions in the NHS."
+    },
+    {
+      "text": "Etwa 18.000 Verwaltungsarbeitsplätze sollen gestrichen werden.",
+      "translated_text": "About 18,000 administrative jobs are to be cut."
+    },
+    {
+      "text": "Dadurch soll eine Milliarde Pfund pro Jahr eingespart werden.",
+      "translated_text": "This should save one billion pounds per year."
+    },
+    {
+      "text": "Das eingesparte Geld soll direkt in die Patientenversorgung fließen.",
+      "translated_text": "The saved money should flow directly into patient care."
+    },
+    {
+      "text": "Die Regierung will NHS England wieder in das Gesundheitsministerium integrieren.",
+      "translated_text": "The government wants to integrate NHS England back into the Department of Health."
+    },
+    {
+      "text": "Gesundheitsminister Wes Streeting sagte, dass er sich auf die Reform des NHS konzentriert.",
+      "translated_text": "Health Secretary Wes Streeting said that he is focused on reforming the NHS."
+    },
+    {
+      "text": "Es gibt auch politische Spannungen innerhalb der Labour-Partei.",
+      "translated_text": "There are also political tensions within the Labour Party."
+    },
+    {
+      "text": "Einige Politiker sind unzufrieden mit der aktuellen Regierungsführung.",
+      "translated_text": "Some politicians are dissatisfied with the current government leadership."
+    },
+    {
+      "text": "Die Reformen sollen bis zum Ende der Legislaturperiode abgeschlossen sein.",
+      "translated_text": "The reforms should be completed by the end of the parliamentary term."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Gesundheitssystem",
+      "translated_term": "healthcare system",
+      "example_usage": "Die britische Labour-Regierung hat einen Plan vorgestellt, um das Gesundheitssystem zu verbessern."
+    },
+    {
+      "term": "die Verwaltungsstelle",
+      "translated_term": "administrative position",
+      "example_usage": "Sie möchte unnötige Verwaltungsstellen im NHS abschaffen."
+    },
+    {
+      "term": "abschaffen",
+      "translated_term": "to abolish",
+      "example_usage": "Sie möchte unnötige Verwaltungsstellen im NHS abschaffen."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cut, to eliminate",
+      "example_usage": "Etwa 18.000 Verwaltungsarbeitsplätze sollen gestrichen werden."
+    },
+    {
+      "term": "einsparen",
+      "translated_term": "to save (money)",
+      "example_usage": "Dadurch soll eine Milliarde Pfund pro Jahr eingespart werden."
+    },
+    {
+      "term": "die Patientenversorgung",
+      "translated_term": "patient care",
+      "example_usage": "Das eingesparte Geld soll direkt in die Patientenversorgung fließen."
+    },
+    {
+      "term": "integrieren",
+      "translated_term": "to integrate",
+      "example_usage": "Die Regierung will NHS England wieder in das Gesundheitsministerium integrieren."
+    },
+    {
+      "term": "die Spannung",
+      "translated_term": "tension",
+      "example_usage": "Es gibt auch politische Spannungen innerhalb der Labour-Partei."
+    },
+    {
+      "term": "die Regierungsführung",
+      "translated_term": "government leadership",
+      "example_usage": "Einige Politiker sind unzufrieden mit der aktuellen Regierungsführung."
+    },
+    {
+      "term": "die Legislaturperiode",
+      "translated_term": "parliamentary term",
+      "example_usage": "Die Reformen sollen bis zum Ende der Legislaturperiode abgeschlossen sein."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    },
+    {
+      "name": "Öffentlicher Dienst",
+      "translated_name": "Public Service"
+    }
+  ],
+  "sources": [
+    {
+      "name": "LabourList",
+      "link_url": "https://labourlist.org/2025/11/good-news-14-november-2025-2/"
+    }
+  ]
+}
