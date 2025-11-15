@@ -1,0 +1,126 @@
+{
+  "title": "Schwerer russischer Angriff auf Kiew",
+  "translated_title": "Heavy Russian Attack on Kyiv",
+  "text": [
+    {
+      "text": "In der Nacht zum Freitag hat Russland einen großen Angriff auf die ukrainische Hauptstadt Kiew gestartet.",
+      "translated_text": "On Thursday night into Friday, Russia launched a large attack on the Ukrainian capital Kyiv."
+    },
+    {
+      "text": "Etwa 430 Drohnen und 18 Raketen wurden eingesetzt.",
+      "translated_text": "Around 430 drones and 18 missiles were deployed."
+    },
+    {
+      "text": "Mindestens sechs Menschen wurden getötet und 29 weitere verletzt.",
+      "translated_text": "At least six people were killed and 29 others injured."
+    },
+    {
+      "text": "Unter den Verletzten sind auch zwei Kinder im Alter von 7 und 10 Jahren.",
+      "translated_text": "Among the injured are also two children aged 7 and 10."
+    },
+    {
+      "text": "Die Angriffe trafen Wohngebäude in fast allen zehn Bezirken der Stadt.",
+      "translated_text": "The attacks hit residential buildings in almost all ten districts of the city."
+    },
+    {
+      "text": "Mehr als 40 Menschen mussten aus beschädigten Gebäuden gerettet werden.",
+      "translated_text": "More than 40 people had to be rescued from damaged buildings."
+    },
+    {
+      "text": "Auch ein Krankenhaus, eine Schule und eine Sportanlage wurden beschädigt.",
+      "translated_text": "A hospital, a school, and a sports facility were also damaged."
+    },
+    {
+      "text": "Der ukrainische Präsident Selenskyj nannte den Angriff \"böse\" und \"grausam\".",
+      "translated_text": "Ukrainian President Zelenskyy called the attack 'wicked' and 'cruel.'"
+    },
+    {
+      "text": "In einer weiteren Attacke am Freitagmorgen starben zwei Menschen in der Stadt Tschornomorsk am Schwarzen Meer.",
+      "translated_text": "In another attack on Friday morning, two people died in the Black Sea city of Chornomorsk."
+    },
+    {
+      "text": "Als Reaktion hat die Ukraine ein wichtiges russisches Ölterminal in der Hafenstadt Noworossijsk angegriffen.",
+      "translated_text": "In response, Ukraine attacked an important Russian oil terminal in the port city of Novorossiysk."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Angriff",
+      "translated_term": "attack",
+      "example_usage": "In der Nacht zum Freitag hat Russland einen großen Angriff auf die ukrainische Hauptstadt Kiew gestartet."
+    },
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "Etwa 430 Drohnen und 18 Raketen wurden eingesetzt."
+    },
+    {
+      "term": "die Rakete",
+      "translated_term": "missile",
+      "example_usage": "Etwa 430 Drohnen und 18 Raketen wurden eingesetzt."
+    },
+    {
+      "term": "töten",
+      "translated_term": "to kill",
+      "example_usage": "Mindestens sechs Menschen wurden getötet und 29 weitere verletzt."
+    },
+    {
+      "term": "verletzen",
+      "translated_term": "to injure",
+      "example_usage": "Mindestens sechs Menschen wurden getötet und 29 weitere verletzt."
+    },
+    {
+      "term": "das Wohngebäude",
+      "translated_term": "residential building",
+      "example_usage": "Die Angriffe trafen Wohngebäude in fast allen zehn Bezirken der Stadt."
+    },
+    {
+      "term": "retten",
+      "translated_term": "to rescue",
+      "example_usage": "Mehr als 40 Menschen mussten aus beschädigten Gebäuden gerettet werden."
+    },
+    {
+      "term": "beschädigen",
+      "translated_term": "to damage",
+      "example_usage": "Auch ein Krankenhaus, eine Schule und eine Sportanlage wurden beschädigt."
+    },
+    {
+      "term": "das Krankenhaus",
+      "translated_term": "hospital",
+      "example_usage": "Auch ein Krankenhaus, eine Schule und eine Sportanlage wurden beschädigt."
+    },
+    {
+      "term": "die Reaktion",
+      "translated_term": "response/reaction",
+      "example_usage": "Als Reaktion hat die Ukraine ein wichtiges russisches Ölterminal in der Hafenstadt Noworossijsk angegriffen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/11/14/massive-enemy-attack-russia-pounds-ukraines-kyiv-killing-one"
+    },
+    {
+      "name": "NBC News",
+      "link_url": "https://www.nbcnews.com/world/ukraine/russia-ukraine-war-attack-kyiv-wicked-anger-zelenskyy-putin-rcna243883"
+    },
+    {
+      "name": "The Kyiv Independent",
+      "link_url": "https://kyivindependent.com/russian-attack-nov-13-2025/"
+    }
+  ]
+}

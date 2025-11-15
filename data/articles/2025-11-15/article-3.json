@@ -1,0 +1,126 @@
+{
+  "title": "Deutschland investiert 500 Milliarden Euro in Infrastruktur",
+  "translated_title": "Germany Invests 500 Billion Euros in Infrastructure",
+  "text": [
+    {
+      "text": "Die deutsche Bundesregierung hat ein historisches Infrastrukturprogramm beschlossen.",
+      "translated_text": "The German federal government has approved a historic infrastructure program."
+    },
+    {
+      "text": "Insgesamt 500 Milliarden Euro sollen in den kommenden Jahren in deutsche Infrastruktur investiert werden.",
+      "translated_text": "A total of 500 billion euros will be invested in German infrastructure in the coming years."
+    },
+    {
+      "text": "Das Geld fließt in verschiedene Bereiche wie Verkehr, Gesundheit, Energie, Bildung und Digitalisierung.",
+      "translated_text": "The money will flow into various areas such as transport, health, energy, education, and digitalization."
+    },
+    {
+      "text": "Ein besonderer Schwerpunkt liegt auf der Eisenbahninfrastruktur.",
+      "translated_text": "A particular focus is on railway infrastructure."
+    },
+    {
+      "text": "Im Jahr 2025 stehen etwa 22 Milliarden Euro für Investitionen in das Schienennetz zur Verfügung.",
+      "translated_text": "In 2025, around 22 billion euros will be available for investments in the rail network."
+    },
+    {
+      "text": "Bis 2029 werden die Investitionen in die Schieneninfrastruktur mehr als 100 Milliarden Euro betragen.",
+      "translated_text": "By 2029, investments in rail infrastructure will amount to more than 100 billion euros."
+    },
+    {
+      "text": "Auch für den sozialen Wohnungsbau und die Stadtentwicklung gibt die Regierung viel Geld aus.",
+      "translated_text": "The government is also spending a lot of money on social housing and urban development."
+    },
+    {
+      "text": "Ab 2025 stehen jährlich mehr als 4 Milliarden Euro für diese Bereiche bereit.",
+      "translated_text": "From 2025 onwards, more than 4 billion euros will be available annually for these areas."
+    },
+    {
+      "text": "Der neue Infrastrukturfonds wurde außerhalb der normalen Haushaltsregeln eingerichtet.",
+      "translated_text": "The new infrastructure fund was set up outside the normal budget rules."
+    },
+    {
+      "text": "Damit umgeht Deutschland die sogenannte Schuldenbremse, die neue Schulden normalerweise begrenzt.",
+      "translated_text": "This way, Germany bypasses the so-called debt brake, which normally limits new debt."
+    },
+    {
+      "text": "Kritiker warnen, dass nicht alle Gelder wirklich für neue Infrastruktur verwendet werden, sondern teilweise Haushaltslücken füllen.",
+      "translated_text": "Critics warn that not all funds will actually be used for new infrastructure, but will partly fill budget gaps."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bundesregierung",
+      "translated_term": "federal government",
+      "example_usage": "Die deutsche Bundesregierung hat ein historisches Infrastrukturprogramm beschlossen."
+    },
+    {
+      "term": "beschließen",
+      "translated_term": "to approve/decide",
+      "example_usage": "Die deutsche Bundesregierung hat ein historisches Infrastrukturprogramm beschlossen."
+    },
+    {
+      "term": "investieren",
+      "translated_term": "to invest",
+      "example_usage": "Insgesamt 500 Milliarden Euro sollen in den kommenden Jahren in deutsche Infrastruktur investiert werden."
+    },
+    {
+      "term": "die Eisenbahninfrastruktur",
+      "translated_term": "railway infrastructure",
+      "example_usage": "Ein besonderer Schwerpunkt liegt auf der Eisenbahninfrastruktur."
+    },
+    {
+      "term": "das Schienennetz",
+      "translated_term": "rail network",
+      "example_usage": "Im Jahr 2025 stehen etwa 22 Milliarden Euro für Investitionen in das Schienennetz zur Verfügung."
+    },
+    {
+      "term": "betragen",
+      "translated_term": "to amount to",
+      "example_usage": "Bis 2029 werden die Investitionen in die Schieneninfrastruktur mehr als 100 Milliarden Euro betragen."
+    },
+    {
+      "term": "der Wohnungsbau",
+      "translated_term": "housing construction",
+      "example_usage": "Auch für den sozialen Wohnungsbau und die Stadtentwicklung gibt die Regierung viel Geld aus."
+    },
+    {
+      "term": "einrichten",
+      "translated_term": "to set up/establish",
+      "example_usage": "Der neue Infrastrukturfonds wurde außerhalb der normalen Haushaltsregeln eingerichtet."
+    },
+    {
+      "term": "die Schuldenbremse",
+      "translated_term": "debt brake",
+      "example_usage": "Damit umgeht Deutschland die sogenannte Schuldenbremse, die neue Schulden normalerweise begrenzt."
+    },
+    {
+      "term": "umgehen",
+      "translated_term": "to bypass/circumvent",
+      "example_usage": "Damit umgeht Deutschland die sogenannte Schuldenbremse, die neue Schulden normalerweise begrenzt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Federal Ministry of Finance",
+      "link_url": "https://www.bundesfinanzministerium.de/Content/EN/Pressemitteilungen/2025/2025-06-24-2-government-draft-2025-federal-budget.html"
+    },
+    {
+      "name": "Latham & Watkins",
+      "link_url": "https://www.lw.com/en/insights/germanys-500-billion-infrastructure-fund-practical-insights-and-opportunities"
+    }
+  ]
+}
