@@ -1,0 +1,126 @@
+{
+  "title": "Berlin schließt Flüchtlingszentrum am Flughafen Tegel",
+  "translated_title": "Berlin Closes Refugee Center at Tegel Airport",
+  "text": [
+    {
+      "text": "Berlin wird das große Flüchtlingszentrum am ehemaligen Flughafen Tegel bis Ende 2025 schließen.",
+      "translated_text": "Berlin will close the large refugee center at the former Tegel Airport by the end of 2025."
+    },
+    {
+      "text": "Das Zentrum, das \"HUB\" genannt wird, war Deutschlands größte einzelne Unterkunft für Flüchtlinge.",
+      "translated_text": "The center, called 'HUB,' was Germany's largest single accommodation facility for refugees."
+    },
+    {
+      "text": "Derzeit leben dort noch etwa 1.500 Menschen aus der Ukraine.",
+      "translated_text": "Currently, around 1,500 people from Ukraine still live there."
+    },
+    {
+      "text": "Früher waren es über 5.000 Bewohner.",
+      "translated_text": "Previously, there were over 5,000 residents."
+    },
+    {
+      "text": "Die Berliner Regierung plant, alle Bewohner in kleinere Unterkünfte in verschiedenen Teilen der Stadt zu verlegen.",
+      "translated_text": "The Berlin government plans to relocate all residents to smaller accommodations in various parts of the city."
+    },
+    {
+      "text": "Dazu gehören auch andere Flughäfen wie Tempelhof und Wohnheime in verschiedenen Bezirken.",
+      "translated_text": "These include other airports like Tempelhof and dormitories in various districts."
+    },
+    {
+      "text": "Die Stadt betont die Vorteile von kleineren und dezentralen Unterkünften.",
+      "translated_text": "The city emphasizes the advantages of smaller and decentralized accommodations."
+    },
+    {
+      "text": "Nach der Schließung will Berlin auf dem Gelände des alten Flughafens ein neues Stadtviertel bauen.",
+      "translated_text": "After the closure, Berlin wants to build a new neighborhood on the site of the old airport."
+    },
+    {
+      "text": "Das Projekt heißt \"Urban Tech Republic\" und kostet etwa 8 Milliarden Euro.",
+      "translated_text": "The project is called 'Urban Tech Republic' and costs around 8 billion euros."
+    },
+    {
+      "text": "Es soll ein grünes Wohnviertel für 10.000 Menschen entstehen.",
+      "translated_text": "A green residential quarter for 10,000 people is to be created."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "schließen",
+      "translated_term": "to close",
+      "example_usage": "Berlin wird das große Flüchtlingszentrum am ehemaligen Flughafen Tegel bis Ende 2025 schließen."
+    },
+    {
+      "term": "ehemalig",
+      "translated_term": "former",
+      "example_usage": "Berlin wird das große Flüchtlingszentrum am ehemaligen Flughafen Tegel bis Ende 2025 schließen."
+    },
+    {
+      "term": "die Unterkunft",
+      "translated_term": "accommodation",
+      "example_usage": "Das Zentrum, das \"HUB\" genannt wird, war Deutschlands größte einzelne Unterkunft für Flüchtlinge."
+    },
+    {
+      "term": "der Bewohner",
+      "translated_term": "resident",
+      "example_usage": "Früher waren es über 5.000 Bewohner."
+    },
+    {
+      "term": "verlegen",
+      "translated_term": "to relocate/transfer",
+      "example_usage": "Die Berliner Regierung plant, alle Bewohner in kleinere Unterkünfte in verschiedenen Teilen der Stadt zu verlegen."
+    },
+    {
+      "term": "das Wohnheim",
+      "translated_term": "dormitory",
+      "example_usage": "Dazu gehören auch andere Flughäfen wie Tempelhof und Wohnheime in verschiedenen Bezirken."
+    },
+    {
+      "term": "betonen",
+      "translated_term": "to emphasize",
+      "example_usage": "Die Stadt betont die Vorteile von kleineren und dezentralen Unterkünften."
+    },
+    {
+      "term": "dezentral",
+      "translated_term": "decentralized",
+      "example_usage": "Die Stadt betont die Vorteile von kleineren und dezentralen Unterkünften."
+    },
+    {
+      "term": "das Gelände",
+      "translated_term": "site/premises",
+      "example_usage": "Nach der Schließung will Berlin auf dem Gelände des alten Flughafens ein neues Stadtviertel bauen."
+    },
+    {
+      "term": "das Stadtviertel",
+      "translated_term": "neighborhood/district",
+      "example_usage": "Nach der Schließung will Berlin auf dem Gelände des alten Flughafens ein neues Stadtviertel bauen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Einwanderungspolitik",
+      "translated_name": "Immigration Policy"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "VisaHQ",
+      "link_url": "https://www.visahq.com/news/2025-11-10/de/berlin-to-close-tegel-refugee-hub-relocate-1500-ukrainians/"
+    },
+    {
+      "name": "The Left Berlin",
+      "link_url": "https://www.theleftberlin.com/news-from-berlin-and-germany-12th-november-2025/"
+    },
+    {
+      "name": "Visit Ukraine",
+      "link_url": "https://visitukraine.today/blog/7203/the-berlin-tegel-refugee-reception-center-in-berlin-is-closing-what-will-happen-to-ukrainians-next"
+    }
+  ]
+}
