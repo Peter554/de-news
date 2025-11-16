@@ -1,0 +1,175 @@
+{
+  "title": "Vogelgrippe-Notstand in Berlin und Brandenburg",
+  "translated_title": "Bird Flu Emergency in Berlin and Brandenburg",
+  "text": [
+    {
+      "text": "Berlin und Brandenburg kämpfen derzeit gegen einen Ausbruch der Vogelgrippe.",
+      "translated_text": "Berlin and Brandenburg are currently fighting against an outbreak of bird flu."
+    },
+    {
+      "text": "Brandenburg befindet sich seit mehreren Tagen im Notstand wegen der sich ausbreitenden Vogelgrippe.",
+      "translated_text": "Brandenburg has been in a state of emergency for several days due to the spreading bird flu."
+    },
+    {
+      "text": "Das hochansteckende Virus H5N1 breitet sich schnell aus.",
+      "translated_text": "The highly infectious H5N1 virus is spreading rapidly."
+    },
+    {
+      "text": "Seit September 2025 verzeichnet Deutschland steigende Fallzahlen bei Wildvögeln und Hausgeflügel.",
+      "translated_text": "Since September 2025, Germany has been recording rising case numbers in wild birds and domestic poultry."
+    },
+    {
+      "text": "Das Friedrich-Loeffler-Institut hat seit Anfang September etwa 31 Ausbrüche in der Tierhaltung registriert.",
+      "translated_text": "The Friedrich Loeffler Institute has recorded about 31 outbreaks in livestock farming since the beginning of September."
+    },
+    {
+      "text": "Zusätzlich wurden 131 Fälle von Vogelgrippe bei Wildvögeln festgestellt.",
+      "translated_text": "Additionally, 131 cases of bird flu in wild birds were detected."
+    },
+    {
+      "text": "In Berlin wurden die ersten Fälle nun auch gemeldet.",
+      "translated_text": "The first cases have now also been reported in Berlin."
+    },
+    {
+      "text": "Zwei tote Kraniche wurden im Berlin-Brandenburger Landeslabor positiv auf Vogelgrippe getestet.",
+      "translated_text": "Two dead cranes tested positive for bird flu in the Berlin-Brandenburg state laboratory."
+    },
+    {
+      "text": "Am 13. November starb auch ein Vogel im Zoo Berlin an dem Virus.",
+      "translated_text": "On November 13, a bird at Zoo Berlin also died from the virus."
+    },
+    {
+      "text": "In Absprache mit den Behörden wurde der Zoo Berlin sofort für Besucher geschlossen.",
+      "translated_text": "In consultation with the authorities, Zoo Berlin was immediately closed to visitors."
+    },
+    {
+      "text": "In Brandenburg müssen etwa 130.000 Vögel getötet werden.",
+      "translated_text": "In Brandenburg, approximately 130,000 birds must be culled."
+    },
+    {
+      "text": "Zwei Geflügelbetriebe im Landkreis Märkisch-Oderland sind von H5N1-Ausbrüchen betroffen.",
+      "translated_text": "Two poultry operations in the Märkisch-Oderland district are affected by H5N1 outbreaks."
+    },
+    {
+      "text": "Nahe Linum sind bereits etwa 1.200 Vögel durch das Virus gestorben.",
+      "translated_text": "Near Linum, about 1,200 birds have already died from the virus."
+    },
+    {
+      "text": "Das Ministerium appelliert an alle Geflügelhalter, strenge Biosicherheitsmaßnahmen einzuhalten.",
+      "translated_text": "The ministry is appealing to all poultry keepers to observe strict biosecurity measures."
+    },
+    {
+      "text": "Unklare Krankheiten oder Todesfälle bei Vögeln müssen sofort dem Veterinäramt gemeldet werden.",
+      "translated_text": "Unclear illnesses or deaths in birds must be reported to the veterinary office immediately."
+    },
+    {
+      "text": "Die Situation zeigt, wie schnell sich Tierseuchen ausbreiten können.",
+      "translated_text": "The situation shows how quickly animal diseases can spread."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Vogelgrippe",
+      "translated_term": "bird flu",
+      "example_usage": "Berlin und Brandenburg kämpfen derzeit gegen einen Ausbruch der Vogelgrippe."
+    },
+    {
+      "term": "der Notstand",
+      "translated_term": "state of emergency",
+      "example_usage": "Brandenburg befindet sich seit mehreren Tagen im Notstand wegen der sich ausbreitenden Vogelgrippe."
+    },
+    {
+      "term": "hochansteckend",
+      "translated_term": "highly infectious",
+      "example_usage": "Das hochansteckende Virus H5N1 breitet sich schnell aus."
+    },
+    {
+      "term": "sich ausbreiten",
+      "translated_term": "to spread",
+      "example_usage": "Das hochansteckende Virus H5N1 breitet sich schnell aus."
+    },
+    {
+      "term": "das Hausgeflügel",
+      "translated_term": "domestic poultry",
+      "example_usage": "Seit September 2025 verzeichnet Deutschland steigende Fallzahlen bei Wildvögeln und Hausgeflügel."
+    },
+    {
+      "term": "der Ausbruch",
+      "translated_term": "outbreak",
+      "example_usage": "Das Friedrich-Loeffler-Institut hat seit Anfang September etwa 31 Ausbrüche in der Tierhaltung registriert."
+    },
+    {
+      "term": "die Tierhaltung",
+      "translated_term": "livestock farming",
+      "example_usage": "Das Friedrich-Loeffler-Institut hat seit Anfang September etwa 31 Ausbrüche in der Tierhaltung registriert."
+    },
+    {
+      "term": "der Kranich",
+      "translated_term": "crane",
+      "example_usage": "Zwei tote Kraniche wurden im Berlin-Brandenburger Landeslabor positiv auf Vogelgrippe getestet."
+    },
+    {
+      "term": "die Absprache",
+      "translated_term": "consultation",
+      "example_usage": "In Absprache mit den Behörden wurde der Zoo Berlin sofort für Besucher geschlossen."
+    },
+    {
+      "term": "töten",
+      "translated_term": "to cull, to kill",
+      "example_usage": "In Brandenburg müssen etwa 130.000 Vögel getötet werden."
+    },
+    {
+      "term": "der Geflügelbetrieb",
+      "translated_term": "poultry operation",
+      "example_usage": "Zwei Geflügelbetriebe im Landkreis Märkisch-Oderland sind von H5N1-Ausbrüchen betroffen."
+    },
+    {
+      "term": "appellieren",
+      "translated_term": "to appeal",
+      "example_usage": "Das Ministerium appelliert an alle Geflügelhalter, strenge Biosicherheitsmaßnahmen einzuhalten."
+    },
+    {
+      "term": "einhalten",
+      "translated_term": "to observe, to comply with",
+      "example_usage": "Das Ministerium appelliert an alle Geflügelhalter, strenge Biosicherheitsmaßnahmen einzuhalten."
+    },
+    {
+      "term": "das Veterinäramt",
+      "translated_term": "veterinary office",
+      "example_usage": "Unklare Krankheiten oder Todesfälle bei Vögeln müssen sofort dem Veterinäramt gemeldet werden."
+    },
+    {
+      "term": "die Tierseuche",
+      "translated_term": "animal disease",
+      "example_usage": "Die Situation zeigt, wie schnell sich Tierseuchen ausbreiten können."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de",
+      "link_url": "https://www.berlin.de/en/news/9978481-5559700-state-laboratory-confirms-first-bird-flu.en.html"
+    },
+    {
+      "name": "Zoo Berlin",
+      "link_url": "https://www.zoo-berlin.de/en/news/zoo-news/detail/bird-flu-outbreak-at-zoo-berlin"
+    },
+    {
+      "name": "Berliner Abendblatt",
+      "link_url": "https://berliner-abendblatt.de/berlin-news/weiterer-ausbruch-von-vogelgrippe-in-brandenburg-id312914"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "title": "Chile wählt: Polarisierte Präsidentschaftswahl",
+  "translated_title": "Chile Votes: Polarized Presidential Election",
+  "text": [
+    {
+      "text": "Am 16. November 2025 wählt Chile einen neuen Präsidenten in einer sehr polarisierten Wahl.",
+      "translated_text": "On November 16, 2025, Chile is electing a new president in a very polarized election."
+    },
+    {
+      "text": "Die Wahl spiegelt die großen Probleme des Landes wider: Kriminalität, Inflation und wirtschaftliche Stagnation.",
+      "translated_text": "The election reflects the country's major problems: crime, inflation, and economic stagnation."
+    },
+    {
+      "text": "Kriminalität ist das wichtigste Thema für die Wähler geworden.",
+      "translated_text": "Crime has become the most important issue for voters."
+    },
+    {
+      "text": "Im Oktober 2025 sagten 63 Prozent der Chilenen, dass Kriminalität ihre größte Sorge ist.",
+      "translated_text": "In October 2025, 63 percent of Chileans said that crime is their biggest concern."
+    },
+    {
+      "text": "Kriminalität hat sogar Inflation, Gesundheit und Bildung als Hauptanliegen überholt.",
+      "translated_text": "Crime has even overtaken inflation, health, and education as the main concern."
+    },
+    {
+      "text": "Seit 2021 hat Chile einen stetigen Anstieg der organisierten Kriminalität erlebt.",
+      "translated_text": "Since 2021, Chile has experienced a steady increase in organized crime."
+    },
+    {
+      "text": "Entführungen, Erpressungen und Gewaltverbrechen haben die Wahrnehmung der Sicherheit verändert.",
+      "translated_text": "Kidnappings, extortion, and violent crimes have changed the perception of security."
+    },
+    {
+      "text": "Die Arbeitslosenquote liegt bei etwa 9 Prozent, eine der höchsten in Lateinamerika.",
+      "translated_text": "The unemployment rate is around 9 percent, one of the highest in Latin America."
+    },
+    {
+      "text": "Die Inflation beträgt 6,1 Prozent, ähnlich wie in anderen Ländern der Region.",
+      "translated_text": "Inflation is 6.1 percent, similar to other countries in the region."
+    },
+    {
+      "text": "Um direkt zu gewinnen, braucht ein Kandidat 50 Prozent der Stimmen.",
+      "translated_text": "To win directly, a candidate needs 50 percent of the votes."
+    },
+    {
+      "text": "Wenn kein Kandidat diese Schwelle erreicht, findet am 14. Dezember eine Stichwahl statt.",
+      "translated_text": "If no candidate reaches this threshold, a runoff election will take place on December 14."
+    },
+    {
+      "text": "Die Wahl zeigt eine tiefe politische Spaltung in der chilenischen Gesellschaft.",
+      "translated_text": "The election shows a deep political division in Chilean society."
+    },
+    {
+      "text": "Viele Wähler identifizieren sich weder mit der Linken noch mit der Rechten.",
+      "translated_text": "Many voters identify with neither the left nor the right."
+    },
+    {
+      "text": "Sie suchen nach praktischen Lösungen für die Probleme des Landes.",
+      "translated_text": "They are looking for practical solutions to the country's problems."
+    },
+    {
+      "text": "Rechte Kandidaten haben in dieser Wahl bessere Chancen als zuvor.",
+      "translated_text": "Right-wing candidates have better chances in this election than before."
+    },
+    {
+      "text": "Sie versprechen härtere Maßnahmen gegen Kriminalität und Migration.",
+      "translated_text": "They promise tougher measures against crime and migration."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Wahl",
+      "translated_term": "election",
+      "example_usage": "Am 16. November 2025 wählt Chile einen neuen Präsidenten in einer sehr polarisierten Wahl."
+    },
+    {
+      "term": "polarisiert",
+      "translated_term": "polarized",
+      "example_usage": "Die Wahl zeigt eine tiefe politische Spaltung in der chilenischen Gesellschaft."
+    },
+    {
+      "term": "die Kriminalität",
+      "translated_term": "crime",
+      "example_usage": "Im Oktober 2025 sagten 63 Prozent der Chilenen, dass Kriminalität ihre größte Sorge ist."
+    },
+    {
+      "term": "die Inflation",
+      "translated_term": "inflation",
+      "example_usage": "Die Inflation beträgt 6,1 Prozent, ähnlich wie in anderen Ländern der Region."
+    },
+    {
+      "term": "die Stagnation",
+      "translated_term": "stagnation",
+      "example_usage": "Die Wahl spiegelt die großen Probleme des Landes wider: Kriminalität, Inflation und wirtschaftliche Stagnation."
+    },
+    {
+      "term": "die Sorge",
+      "translated_term": "concern",
+      "example_usage": "Im Oktober 2025 sagten 63 Prozent der Chilenen, dass Kriminalität ihre größte Sorge ist."
+    },
+    {
+      "term": "überholen",
+      "translated_term": "to overtake",
+      "example_usage": "Kriminalität hat sogar Inflation, Gesundheit und Bildung als Hauptanliegen überholt."
+    },
+    {
+      "term": "der Anstieg",
+      "translated_term": "increase",
+      "example_usage": "Seit 2021 hat Chile einen stetigen Anstieg der organisierten Kriminalität erlebt."
+    },
+    {
+      "term": "die Entführung",
+      "translated_term": "kidnapping",
+      "example_usage": "Entführungen, Erpressungen und Gewaltverbrechen haben die Wahrnehmung der Sicherheit verändert."
+    },
+    {
+      "term": "die Erpressung",
+      "translated_term": "extortion",
+      "example_usage": "Entführungen, Erpressungen und Gewaltverbrechen haben die Wahrnehmung der Sicherheit verändert."
+    },
+    {
+      "term": "die Arbeitslosenquote",
+      "translated_term": "unemployment rate",
+      "example_usage": "Die Arbeitslosenquote liegt bei etwa 9 Prozent, eine der höchsten in Lateinamerika."
+    },
+    {
+      "term": "die Schwelle",
+      "translated_term": "threshold",
+      "example_usage": "Wenn kein Kandidat diese Schwelle erreicht, findet am 14. Dezember eine Stichwahl statt."
+    },
+    {
+      "term": "die Stichwahl",
+      "translated_term": "runoff election",
+      "example_usage": "Wenn kein Kandidat diese Schwelle erreicht, findet am 14. Dezember eine Stichwahl statt."
+    },
+    {
+      "term": "die Spaltung",
+      "translated_term": "division",
+      "example_usage": "Die Wahl zeigt eine tiefe politische Spaltung in der chilenischen Gesellschaft."
+    },
+    {
+      "term": "sich identifizieren",
+      "translated_term": "to identify oneself",
+      "example_usage": "Viele Wähler identifizieren sich weder mit der Linken noch mit der Rechten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    },
+    {
+      "name": "Lateinamerika",
+      "translated_name": "Latin America"
+    },
+    {
+      "name": "Kriminalität",
+      "translated_name": "Crime"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN",
+      "link_url": "https://www.cnn.com/2025/11/15/americas/chile-presidential-election-explainer-latam-intl"
+    },
+    {
+      "name": "NPR",
+      "link_url": "https://www.npr.org/2025/11/14/nx-s1-5605831/chiles-election-sets-up-a-stark-left-right-showdown"
+    },
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/11/15/could-chile-be-on-the-verge-of-a-political-shift-in-its-2025-election"
+    }
+  ]
+}
