@@ -1,0 +1,128 @@
+{
+  "title": "Großbritannien bereitet sich auf größten Sonnensturm seit 20 Jahren vor",
+  "translated_title": "Great Britain Prepares for Largest Solar Storm in 20 Years",
+  "text": [
+    {
+      "text": "Die British Geological Survey hat eine Warnung vor einem starken Sonnensturm herausgegeben.",
+      "translated_text": "The British Geological Survey has issued a warning about a strong solar storm."
+    },
+    {
+      "text": "Am 12. November wurde die geomagnetische Vorhersage auf die höchste Intensitätsstufe angehoben.",
+      "translated_text": "On November 12, the geomagnetic forecast was raised to the highest intensity level."
+    },
+    {
+      "text": "Wissenschaftler glauben, dass dies einer der größten Stürme seit zwei Jahrzehnten sein könnte.",
+      "translated_text": "Scientists believe this could be one of the largest storms in two decades."
+    },
+    {
+      "text": "Ein Sonnensturm entsteht, wenn die Sonne geladene Teilchen in den Weltraum schickt.",
+      "translated_text": "A solar storm occurs when the sun sends charged particles into space."
+    },
+    {
+      "text": "Diese Teilchen können das Magnetfeld der Erde beeinflussen.",
+      "translated_text": "These particles can influence the Earth's magnetic field."
+    },
+    {
+      "text": "Starke Sonnenstürme können Probleme für Satelliten und Kommunikationssysteme verursachen.",
+      "translated_text": "Strong solar storms can cause problems for satellites and communication systems."
+    },
+    {
+      "text": "Auch das Stromnetz könnte von dem Sturm betroffen sein.",
+      "translated_text": "The power grid could also be affected by the storm."
+    },
+    {
+      "text": "Die britischen Behörden überwachen die Situation sehr genau.",
+      "translated_text": "British authorities are monitoring the situation very closely."
+    },
+    {
+      "text": "Ein positiver Effekt ist, dass das Nordlicht in Teilen Großbritanniens sichtbar sein könnte.",
+      "translated_text": "A positive effect is that the Northern Lights could be visible in parts of Great Britain."
+    },
+    {
+      "text": "Experten raten der Bevölkerung, wichtige elektronische Geräte zu schützen.",
+      "translated_text": "Experts advise the population to protect important electronic devices."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Sonnensturm",
+      "translated_term": "solar storm",
+      "example_usage": "Die British Geological Survey hat eine Warnung vor einem starken Sonnensturm herausgegeben."
+    },
+    {
+      "term": "die Warnung",
+      "translated_term": "warning",
+      "example_usage": "Die British Geological Survey hat eine Warnung vor einem starken Sonnensturm herausgegeben."
+    },
+    {
+      "term": "anheben",
+      "translated_term": "to raise / to increase",
+      "example_usage": "Am 12. November wurde die geomagnetische Vorhersage auf die höchste Intensitätsstufe angehoben."
+    },
+    {
+      "term": "die Intensitätsstufe",
+      "translated_term": "intensity level",
+      "example_usage": "Am 12. November wurde die geomagnetische Vorhersage auf die höchste Intensitätsstufe angehoben."
+    },
+    {
+      "term": "das Jahrzehnt",
+      "translated_term": "decade",
+      "example_usage": "Wissenschaftler glauben, dass dies einer der größten Stürme seit zwei Jahrzehnten sein könnte."
+    },
+    {
+      "term": "geladen",
+      "translated_term": "charged",
+      "example_usage": "Ein Sonnensturm entsteht, wenn die Sonne geladene Teilchen in den Weltraum schickt."
+    },
+    {
+      "term": "das Teilchen",
+      "translated_term": "particle",
+      "example_usage": "Ein Sonnensturm entsteht, wenn die Sonne geladene Teilchen in den Weltraum schickt."
+    },
+    {
+      "term": "beeinflussen",
+      "translated_term": "to influence / to affect",
+      "example_usage": "Diese Teilchen können das Magnetfeld der Erde beeinflussen."
+    },
+    {
+      "term": "das Stromnetz",
+      "translated_term": "power grid",
+      "example_usage": "Auch das Stromnetz könnte von dem Sturm betroffen sein."
+    },
+    {
+      "term": "überwachen",
+      "translated_term": "to monitor",
+      "example_usage": "Die britischen Behörden überwachen die Situation sehr genau."
+    },
+    {
+      "term": "das Nordlicht",
+      "translated_term": "Northern Lights / aurora borealis",
+      "example_usage": "Ein positiver Effekt ist, dass das Nordlicht in Teilen Großbritanniens sichtbar sein könnte."
+    },
+    {
+      "term": "schützen",
+      "translated_term": "to protect",
+      "example_usage": "Experten raten der Bevölkerung, wichtige elektronische Geräte zu schützen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Wissenschaft",
+      "translated_name": "Science"
+    },
+    {
+      "name": "Weltraumsicherheit",
+      "translated_name": "Space Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "British Geological Survey",
+      "link_url": "https://www.bgs.ac.uk/news/uk-braced-for-what-could-be-the-largest-solar-storm-in-over-two-decades/"
+    }
+  ]
+}

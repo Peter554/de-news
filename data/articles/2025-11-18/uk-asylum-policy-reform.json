@@ -1,0 +1,132 @@
+{
+  "title": "Großbritannien reformiert das Asylsystem grundlegend",
+  "translated_title": "Great Britain Fundamentally Reforms the Asylum System",
+  "text": [
+    {
+      "text": "Die britische Regierung hat die größte Reform des Asylsystems seit vielen Jahren angekündigt.",
+      "translated_text": "The British government has announced the largest reform of the asylum system in many years."
+    },
+    {
+      "text": "Der Flüchtlingsstatus wird künftig nur noch temporär sein und nicht mehr dauerhaft.",
+      "translated_text": "Refugee status will only be temporary in the future and no longer permanent."
+    },
+    {
+      "text": "Asylbewerber müssen jetzt 20 Jahre warten, bevor sie eine dauerhafte Aufenthaltserlaubnis bekommen können.",
+      "translated_text": "Asylum seekers must now wait 20 years before they can receive permanent residence."
+    },
+    {
+      "text": "Das ist viermal länger als bisher.",
+      "translated_text": "That is four times longer than before."
+    },
+    {
+      "text": "Die Dauer des Flüchtlingsstatus wird auf 30 Monate verkürzt und regelmäßig überprüft.",
+      "translated_text": "The duration of refugee status will be reduced to 30 months and regularly reviewed."
+    },
+    {
+      "text": "Flüchtlinge müssen in ihre Heimatländer zurückkehren, sobald diese als sicher eingestuft werden.",
+      "translated_text": "Refugees must return to their home countries as soon as these are classified as safe."
+    },
+    {
+      "text": "Die Regierung will auch die gesetzliche Pflicht zur Unterstützung von Asylbewerbern abschaffen.",
+      "translated_text": "The government also wants to abolish the legal obligation to support asylum seekers."
+    },
+    {
+      "text": "Das bedeutet, dass Wohnungen und finanzielle Hilfe nicht mehr garantiert sind.",
+      "translated_text": "This means that housing and financial aid are no longer guaranteed."
+    },
+    {
+      "text": "Innenministerin Shabana Mahmood sagte, dass das Asylsystem kein goldenes Ticket mehr sein soll.",
+      "translated_text": "Home Secretary Shabana Mahmood said that the asylum system should no longer be a golden ticket."
+    },
+    {
+      "text": "Kritiker warnen, dass diese Reform gegen internationale Menschenrechte verstoßen könnte.",
+      "translated_text": "Critics warn that this reform could violate international human rights."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Asylsystem",
+      "translated_term": "asylum system",
+      "example_usage": "Die britische Regierung hat die größte Reform des Asylsystems seit vielen Jahren angekündigt."
+    },
+    {
+      "term": "der Flüchtlingsstatus",
+      "translated_term": "refugee status",
+      "example_usage": "Der Flüchtlingsstatus wird künftig nur noch temporär sein und nicht mehr dauerhaft."
+    },
+    {
+      "term": "temporär",
+      "translated_term": "temporary",
+      "example_usage": "Der Flüchtlingsstatus wird künftig nur noch temporär sein."
+    },
+    {
+      "term": "der Asylbewerber",
+      "translated_term": "asylum seeker",
+      "example_usage": "Asylbewerber müssen jetzt 20 Jahre warten, bevor sie eine dauerhafte Aufenthaltserlaubnis bekommen können."
+    },
+    {
+      "term": "die Aufenthaltserlaubnis",
+      "translated_term": "residence permit",
+      "example_usage": "Asylbewerber müssen jetzt 20 Jahre warten, bevor sie eine dauerhafte Aufenthaltserlaubnis bekommen können."
+    },
+    {
+      "term": "verkürzen",
+      "translated_term": "to shorten / to reduce",
+      "example_usage": "Die Dauer des Flüchtlingsstatus wird auf 30 Monate verkürzt."
+    },
+    {
+      "term": "überprüfen",
+      "translated_term": "to review / to check",
+      "example_usage": "Die Dauer des Flüchtlingsstatus wird regelmäßig überprüft."
+    },
+    {
+      "term": "einstufen",
+      "translated_term": "to classify",
+      "example_usage": "Flüchtlinge müssen in ihre Heimatländer zurückkehren, sobald diese als sicher eingestuft werden."
+    },
+    {
+      "term": "die Pflicht",
+      "translated_term": "obligation / duty",
+      "example_usage": "Die Regierung will auch die gesetzliche Pflicht zur Unterstützung von Asylbewerbern abschaffen."
+    },
+    {
+      "term": "abschaffen",
+      "translated_term": "to abolish",
+      "example_usage": "Die Regierung will auch die gesetzliche Pflicht zur Unterstützung von Asylbewerbern abschaffen."
+    },
+    {
+      "term": "die Innenministerin",
+      "translated_term": "Home Secretary",
+      "example_usage": "Innenministerin Shabana Mahmood sagte, dass das Asylsystem kein goldenes Ticket mehr sein soll."
+    },
+    {
+      "term": "verstoßen gegen",
+      "translated_term": "to violate",
+      "example_usage": "Kritiker warnen, dass diese Reform gegen internationale Menschenrechte verstoßen könnte."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Einwanderungspolitik",
+      "translated_name": "Immigration Policy"
+    },
+    {
+      "name": "Menschenrechte",
+      "translated_name": "Human Rights"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN",
+      "link_url": "https://www.cnn.com/2025/11/16/uk/britain-asylum-reform-shabana-mahmood-hnk-intl"
+    },
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/11/16/uk-to-end-golden-ticket-for-asylum-seekers-in-huge-policy-overhaul"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "title": "Deutschland nimmt Waffenlieferungen an Israel wieder auf",
+  "translated_title": "Germany Resumes Arms Deliveries to Israel",
+  "text": [
+    {
+      "text": "Deutschland wird ab dem 24. November wieder Waffen an Israel exportieren.",
+      "translated_text": "Germany will export weapons to Israel again starting from November 24th."
+    },
+    {
+      "text": "Die Bundesregierung hatte die Waffenexporte im August pausiert.",
+      "translated_text": "The federal government had paused the weapons exports in August."
+    },
+    {
+      "text": "Der Grund für die Pause war die schwierige Situation im Gaza-Konflikt.",
+      "translated_text": "The reason for the pause was the difficult situation in the Gaza conflict."
+    },
+    {
+      "text": "Nach der Waffenstillstandsvereinbarung in Gaza hat Deutschland entschieden, die Lieferungen wieder aufzunehmen.",
+      "translated_text": "After the ceasefire agreement in Gaza, Germany decided to resume the deliveries."
+    },
+    {
+      "text": "Verteidigungsminister Boris Pistorius erklärte, dass Israel das Recht hat, sich selbst zu verteidigen.",
+      "translated_text": "Defense Minister Boris Pistorius explained that Israel has the right to defend itself."
+    },
+    {
+      "text": "Die Entscheidung wurde von einigen Politikern kritisiert, die mehr humanitäre Hilfe für Gaza fordern.",
+      "translated_text": "The decision was criticized by some politicians who demand more humanitarian aid for Gaza."
+    },
+    {
+      "text": "Deutschland ist einer der wichtigsten Waffenlieferanten für Israel in Europa.",
+      "translated_text": "Germany is one of the most important weapons suppliers for Israel in Europe."
+    },
+    {
+      "text": "Die Bundesregierung betont, dass alle Waffenexporte streng kontrolliert werden.",
+      "translated_text": "The federal government emphasizes that all weapons exports are strictly controlled."
+    },
+    {
+      "text": "Außenminister Gideon Sa'ar begrüßte die deutsche Entscheidung und forderte andere europäische Länder auf, diesem Beispiel zu folgen.",
+      "translated_text": "Foreign Minister Gideon Sa'ar welcomed the German decision and called on other European countries to follow this example."
+    },
+    {
+      "text": "Die Wiederaufnahme der Waffenexporte zeigt die enge Partnerschaft zwischen Deutschland und Israel.",
+      "translated_text": "The resumption of weapons exports shows the close partnership between Germany and Israel."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Waffenlieferung",
+      "translated_term": "weapons delivery",
+      "example_usage": "Deutschland wird ab dem 24. November wieder Waffen an Israel exportieren."
+    },
+    {
+      "term": "pausieren",
+      "translated_term": "to pause",
+      "example_usage": "Die Bundesregierung hatte die Waffenexporte im August pausiert."
+    },
+    {
+      "term": "die Waffenstillstandsvereinbarung",
+      "translated_term": "ceasefire agreement",
+      "example_usage": "Nach der Waffenstillstandsvereinbarung in Gaza hat Deutschland entschieden, die Lieferungen wieder aufzunehmen."
+    },
+    {
+      "term": "der Verteidigungsminister",
+      "translated_term": "Defense Minister",
+      "example_usage": "Verteidigungsminister Boris Pistorius erklärte, dass Israel das Recht hat, sich selbst zu verteidigen."
+    },
+    {
+      "term": "sich verteidigen",
+      "translated_term": "to defend oneself",
+      "example_usage": "Verteidigungsminister Boris Pistorius erklärte, dass Israel das Recht hat, sich selbst zu verteidigen."
+    },
+    {
+      "term": "kritisieren",
+      "translated_term": "to criticize",
+      "example_usage": "Die Entscheidung wurde von einigen Politikern kritisiert, die mehr humanitäre Hilfe für Gaza fordern."
+    },
+    {
+      "term": "die humanitäre Hilfe",
+      "translated_term": "humanitarian aid",
+      "example_usage": "Die Entscheidung wurde von einigen Politikern kritisiert, die mehr humanitäre Hilfe für Gaza fordern."
+    },
+    {
+      "term": "der Lieferant",
+      "translated_term": "supplier",
+      "example_usage": "Deutschland ist einer der wichtigsten Waffenlieferanten für Israel in Europa."
+    },
+    {
+      "term": "betonen",
+      "translated_term": "to emphasize",
+      "example_usage": "Die Bundesregierung betont, dass alle Waffenexporte streng kontrolliert werden."
+    },
+    {
+      "term": "begrüßen",
+      "translated_term": "to welcome",
+      "example_usage": "Außenminister Gideon Sa'ar begrüßte die deutsche Entscheidung."
+    },
+    {
+      "term": "die Wiederaufnahme",
+      "translated_term": "resumption",
+      "example_usage": "Die Wiederaufnahme der Waffenexporte zeigt die enge Partnerschaft zwischen Deutschland und Israel."
+    },
+    {
+      "term": "die Partnerschaft",
+      "translated_term": "partnership",
+      "example_usage": "Die Wiederaufnahme der Waffenexporte zeigt die enge Partnerschaft zwischen Deutschland und Israel."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Gaza-Konflikt",
+      "translated_name": "Gaza Conflict"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Times of Israel",
+      "link_url": "https://www.timesofisrael.com/liveblog_entry/germany-to-resume-arms-exports-to-israel-next-week-saar-urges-others-to-follow/"
+    },
+    {
+      "name": "Euronews",
+      "link_url": "https://germany.news-pravda.com/en/world/2025/11/17/97637.html"
+    }
+  ]
+}
