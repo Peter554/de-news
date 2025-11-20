@@ -1,0 +1,137 @@
+{
+  "title": "Großbritannien plant größte Asylreform seit dem Zweiten Weltkrieg",
+  "translated_title": "Britain plans largest asylum reform since World War II",
+  "text": [
+    {
+      "text": "Die britische Regierung hat am 17. November 2025 eine umfassende Reform des Asylsystems angekündigt.",
+      "translated_text": "The British government announced a comprehensive reform of the asylum system on November 17, 2025."
+    },
+    {
+      "text": "Innenministerin Shabana Mahmood stellte die Pläne vor, die das System grundlegend ändern werden.",
+      "translated_text": "Home Secretary Shabana Mahmood presented the plans that will fundamentally change the system."
+    },
+    {
+      "text": "Die wichtigste Änderung: Flüchtlinge müssen künftig 20 Jahre warten, bevor sie einen dauerhaften Aufenthaltsstatus beantragen können.",
+      "translated_text": "The most important change: refugees will have to wait 20 years before they can apply for permanent settlement status."
+    },
+    {
+      "text": "Bisher war die Wartezeit nur fünf Jahre.",
+      "translated_text": "Previously, the waiting period was only five years."
+    },
+    {
+      "text": "Außerdem wird der Flüchtlingsstatus nicht mehr permanent sein, sondern nur noch temporär für 30 Monate.",
+      "translated_text": "In addition, refugee status will no longer be permanent, but only temporary for 30 months."
+    },
+    {
+      "text": "Nach jedem 30-Monats-Zeitraum wird die Situation des Flüchtlings neu bewertet.",
+      "translated_text": "After each 30-month period, the refugee's situation will be reassessed."
+    },
+    {
+      "text": "Wenn die Heimat als sicher genug eingestuft wird, könnte die Person zurückkehren müssen.",
+      "translated_text": "If the home country is deemed safe enough, the person may have to return."
+    },
+    {
+      "text": "Die Reform ist die bedeutendste Änderung des Flüchtlingsschutzes seit dem Zweiten Weltkrieg.",
+      "translated_text": "The reform is the most significant change to refugee protection since World War II."
+    },
+    {
+      "text": "Großbritannien hatte im Jahr bis Juni 2025 über 111.000 Asylanträge, die den Staat 5,4 Milliarden Pfund kosteten.",
+      "translated_text": "Britain had over 111,000 asylum applications in the year to June 2025, costing the state 5.4 billion pounds."
+    },
+    {
+      "text": "Mit dieser Reform wird Großbritannien in Europa die längste Wartezeit für einen dauerhaften Aufenthaltsstatus haben.",
+      "translated_text": "With this reform, Britain will have the longest waiting period for permanent settlement status in Europe."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Asylreform",
+      "translated_term": "asylum reform",
+      "example_usage": "Die britische Regierung hat am 17. November 2025 eine umfassende Reform des Asylsystems angekündigt."
+    },
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Die britische Regierung hat am 17. November 2025 eine umfassende Reform des Asylsystems angekündigt."
+    },
+    {
+      "term": "die Innenministerin",
+      "translated_term": "Home Secretary (female)",
+      "example_usage": "Innenministerin Shabana Mahmood stellte die Pläne vor, die das System grundlegend ändern werden."
+    },
+    {
+      "term": "grundlegend",
+      "translated_term": "fundamentally",
+      "example_usage": "Innenministerin Shabana Mahmood stellte die Pläne vor, die das System grundlegend ändern werden."
+    },
+    {
+      "term": "der Flüchtling",
+      "translated_term": "refugee",
+      "example_usage": "Flüchtlinge müssen künftig 20 Jahre warten, bevor sie einen dauerhaften Aufenthaltsstatus beantragen können."
+    },
+    {
+      "term": "dauerhaft",
+      "translated_term": "permanent",
+      "example_usage": "Flüchtlinge müssen künftig 20 Jahre warten, bevor sie einen dauerhaften Aufenthaltsstatus beantragen können."
+    },
+    {
+      "term": "der Aufenthaltsstatus",
+      "translated_term": "residence status",
+      "example_usage": "Flüchtlinge müssen künftig 20 Jahre warten, bevor sie einen dauerhaften Aufenthaltsstatus beantragen können."
+    },
+    {
+      "term": "beantragen",
+      "translated_term": "to apply for",
+      "example_usage": "Flüchtlinge müssen künftig 20 Jahre warten, bevor sie einen dauerhaften Aufenthaltsstatus beantragen können."
+    },
+    {
+      "term": "die Wartezeit",
+      "translated_term": "waiting period",
+      "example_usage": "Bisher war die Wartezeit nur fünf Jahre."
+    },
+    {
+      "term": "temporär",
+      "translated_term": "temporary",
+      "example_usage": "Außerdem wird der Flüchtlingsstatus nicht mehr permanent sein, sondern nur noch temporär für 30 Monate."
+    },
+    {
+      "term": "bewerten",
+      "translated_term": "to assess, evaluate",
+      "example_usage": "Nach jedem 30-Monats-Zeitraum wird die Situation des Flüchtlings neu bewertet."
+    },
+    {
+      "term": "einstufen",
+      "translated_term": "to classify, deem",
+      "example_usage": "Wenn die Heimat als sicher genug eingestuft wird, könnte die Person zurückkehren müssen."
+    },
+    {
+      "term": "der Asylantrag",
+      "translated_term": "asylum application",
+      "example_usage": "Großbritannien hatte im Jahr bis Juni 2025 über 111.000 Asylanträge, die den Staat 5,4 Milliarden Pfund kosteten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Einwanderungspolitik",
+      "translated_name": "Immigration Policy"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "IBTimes UK",
+      "link_url": "https://www.ibtimes.co.uk/end-line-permanent-asylum-uk-announce-sweeping-reforms-1755322"
+    },
+    {
+      "name": "Editorial GE",
+      "link_url": "https://editorialge.com/refugees-20-year-wait-permanent-settlement-uk-asylum-reforms/"
+    }
+  ]
+}
