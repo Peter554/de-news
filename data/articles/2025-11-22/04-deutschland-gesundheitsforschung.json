@@ -1,0 +1,126 @@
+{
+  "title": "Deutschland investiert 500 Millionen Euro in Gesundheitsforschung",
+  "translated_title": "Germany Invests 500 Million Euros in Health Research",
+  "text": [
+    {
+      "text": "Die deutsche Regierung hat ein großes Forschungsprogramm angekündigt.",
+      "translated_text": "The German government has announced a major research program."
+    },
+    {
+      "text": "500 Millionen Euro werden in die Gesundheitsforschung investiert.",
+      "translated_text": "500 million euros will be invested in health research."
+    },
+    {
+      "text": "Das Programm läuft zehn Jahre lang, von 2026 bis 2036.",
+      "translated_text": "The program runs for ten years, from 2026 to 2036."
+    },
+    {
+      "text": "Es heißt Nationale Dekade gegen postinfektiöse Krankheiten.",
+      "translated_text": "It is called the National Decade Against Post-Infectious Diseases."
+    },
+    {
+      "text": "Die Forscher werden Long Covid untersuchen.",
+      "translated_text": "Researchers will study Long Covid."
+    },
+    {
+      "text": "Auch das chronische Erschöpfungssyndrom wird erforscht.",
+      "translated_text": "Chronic fatigue syndrome will also be researched."
+    },
+    {
+      "text": "Viele Menschen leiden noch immer unter den Folgen von Covid.",
+      "translated_text": "Many people still suffer from the effects of Covid."
+    },
+    {
+      "text": "Diese Krankheiten kosten Deutschland sehr viel Geld.",
+      "translated_text": "These diseases cost Germany a lot of money."
+    },
+    {
+      "text": "Eine Studie zeigt: Allein 2024 waren es 63 Milliarden Euro.",
+      "translated_text": "A study shows: In 2024 alone, it was 63 billion euros."
+    },
+    {
+      "text": "Zwischen 2020 und 2024 waren es insgesamt 250 Milliarden Euro.",
+      "translated_text": "Between 2020 and 2024, it was a total of 250 billion euros."
+    },
+    {
+      "text": "Bisher hat die Regierung nur wenig Geld für Forschung ausgegeben.",
+      "translated_text": "So far, the government has spent little money on research."
+    },
+    {
+      "text": "Nur 15 bis 20 Millionen Euro pro Jahr waren es zuletzt.",
+      "translated_text": "It was only 15 to 20 million euros per year recently."
+    },
+    {
+      "text": "Experten kritisierten das als viel zu wenig.",
+      "translated_text": "Experts criticized this as far too little."
+    },
+    {
+      "text": "Das neue Programm ist ein großer Schritt nach vorn.",
+      "translated_text": "The new program is a big step forward."
+    },
+    {
+      "text": "Die Wissenschaftler hoffen auf bessere Behandlungen.",
+      "translated_text": "Scientists hope for better treatments."
+    },
+    {
+      "text": "Millionen Menschen in Deutschland könnten davon profitieren.",
+      "translated_text": "Millions of people in Germany could benefit from this."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Forschung",
+      "translated_term": "research",
+      "example_usage": "500 Millionen Euro werden in die Gesundheitsforschung investiert."
+    },
+    {
+      "term": "die Krankheit",
+      "translated_term": "disease, illness",
+      "example_usage": "Es heißt Nationale Dekade gegen postinfektiöse Krankheiten."
+    },
+    {
+      "term": "das Erschöpfungssyndrom",
+      "translated_term": "fatigue syndrome",
+      "example_usage": "Auch das chronische Erschöpfungssyndrom wird erforscht."
+    },
+    {
+      "term": "leiden",
+      "translated_term": "to suffer",
+      "example_usage": "Viele Menschen leiden noch immer unter den Folgen von Covid."
+    },
+    {
+      "term": "die Behandlung",
+      "translated_term": "treatment",
+      "example_usage": "Die Wissenschaftler hoffen auf bessere Behandlungen."
+    },
+    {
+      "term": "profitieren",
+      "translated_term": "to benefit",
+      "example_usage": "Millionen Menschen in Deutschland könnten davon profitieren."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    },
+    {
+      "name": "Wissenschaft",
+      "translated_name": "Science"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Research Professional News",
+      "link_url": "https://www.researchprofessionalnews.com/rr-news-europe-germany-2025-11-500m-to-tackle-huge-burden-of-long-covid-and-similar-conditions/"
+    },
+    {
+      "name": "ME/CFS Research Foundation",
+      "link_url": "https://mecfs-research.org/en/costreport-long-covid-and-mecfs/"
+    }
+  ]
+}

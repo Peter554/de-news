@@ -1,0 +1,122 @@
+{
+  "title": "Bundesbank erwartet leichtes Wirtschaftswachstum",
+  "translated_title": "Bundesbank Expects Slight Economic Growth",
+  "text": [
+    {
+      "text": "Die Deutsche Bundesbank hat gute Nachrichten für die Wirtschaft.",
+      "translated_text": "The German Bundesbank has good news for the economy."
+    },
+    {
+      "text": "Die Zentralbank erwartet ein leichtes Wachstum im vierten Quartal.",
+      "translated_text": "The central bank expects slight growth in the fourth quarter."
+    },
+    {
+      "text": "Das Jahr 2025 könnte mit einem kleinen Plus enden.",
+      "translated_text": "The year 2025 could end with a small increase."
+    },
+    {
+      "text": "In den letzten Jahren hatte Deutschland wirtschaftliche Probleme.",
+      "translated_text": "In recent years, Germany has had economic problems."
+    },
+    {
+      "text": "Die Wirtschaft war fast drei Jahre lang stagniert.",
+      "translated_text": "The economy had stagnated for almost three years."
+    },
+    {
+      "text": "Besonders die Industrie hatte eine schwere Zeit.",
+      "translated_text": "The industry in particular had a difficult time."
+    },
+    {
+      "text": "Jetzt stabilisiert sich der Industriesektor langsam.",
+      "translated_text": "Now the industrial sector is slowly stabilizing."
+    },
+    {
+      "text": "Der Dienstleistungssektor hilft bei der wirtschaftlichen Erholung.",
+      "translated_text": "The service sector is helping with the economic recovery."
+    },
+    {
+      "text": "Die Bundesbank warnt aber auch vor Problemen.",
+      "translated_text": "However, the Bundesbank also warns of problems."
+    },
+    {
+      "text": "Die Handelspolitik der USA macht Unsicherheit.",
+      "translated_text": "US trade policy is creating uncertainty."
+    },
+    {
+      "text": "Deutsche Exporte werden 2025 deutlich sinken.",
+      "translated_text": "German exports will decline significantly in 2025."
+    },
+    {
+      "text": "Ab 2026 soll es aber besser werden.",
+      "translated_text": "From 2026 onwards, things should improve."
+    },
+    {
+      "text": "Die Regierung plant mehr Geld für Verteidigung und Infrastruktur.",
+      "translated_text": "The government is planning more money for defense and infrastructure."
+    },
+    {
+      "text": "Diese Investitionen sollen die Wirtschaft ankurbeln.",
+      "translated_text": "These investments are intended to boost the economy."
+    },
+    {
+      "text": "Die Inflation wird 2025 bei etwa 2,2 Prozent liegen.",
+      "translated_text": "Inflation will be around 2.2 percent in 2025."
+    },
+    {
+      "text": "Die Bundesbank erwartet, dass die Preise stabil bleiben.",
+      "translated_text": "The Bundesbank expects prices to remain stable."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Zentralbank",
+      "translated_term": "central bank",
+      "example_usage": "Die Zentralbank erwartet ein leichtes Wachstum im vierten Quartal."
+    },
+    {
+      "term": "das Wachstum",
+      "translated_term": "growth",
+      "example_usage": "Die Zentralbank erwartet ein leichtes Wachstum im vierten Quartal."
+    },
+    {
+      "term": "stagnieren",
+      "translated_term": "to stagnate",
+      "example_usage": "Die Wirtschaft war fast drei Jahre lang stagniert."
+    },
+    {
+      "term": "die Erholung",
+      "translated_term": "recovery",
+      "example_usage": "Der Dienstleistungssektor hilft bei der wirtschaftlichen Erholung."
+    },
+    {
+      "term": "der Export",
+      "translated_term": "export",
+      "example_usage": "Deutsche Exporte werden 2025 deutlich sinken."
+    },
+    {
+      "term": "ankurbeln",
+      "translated_term": "to boost, to stimulate",
+      "example_usage": "Diese Investitionen sollen die Wirtschaft ankurbeln."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Deutsche Bundesbank",
+      "link_url": "https://www.bundesbank.de/en/press/press-releases/the-bundesbank-s-forecast-for-germany-economic-recovery-slowly-getting-started-959308"
+    },
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2025-11-20/germany-on-track-for-growth-in-fourth-quarter-bundesbank-says"
+    }
+  ]
+}

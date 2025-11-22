@@ -1,0 +1,134 @@
+{
+  "title": "Berliner Polizei startet Operation Ferrum gegen Kriminalität",
+  "translated_title": "Berlin Police Launches Operation Ferrum Against Crime",
+  "text": [
+    {
+      "text": "Die Berliner Polizei hat eine neue Aktion gegen Kriminalität gestartet.",
+      "translated_text": "The Berlin police have launched a new operation against crime."
+    },
+    {
+      "text": "Die Aktion heißt Ferrum, das ist Latein für Eisen.",
+      "translated_text": "The operation is called Ferrum, which is Latin for iron."
+    },
+    {
+      "text": "In den letzten Wochen gab es viele Schießereien in Berlin.",
+      "translated_text": "In recent weeks, there have been many shootings in Berlin."
+    },
+    {
+      "text": "Mehrere Menschen wurden dabei verletzt.",
+      "translated_text": "Several people were injured in the process."
+    },
+    {
+      "text": "Die Polizei macht sich große Sorgen über diese Gewalt.",
+      "translated_text": "The police are very concerned about this violence."
+    },
+    {
+      "text": "Seit dem 13. November sind hunderte Polizisten im Einsatz.",
+      "translated_text": "Since November 13th, hundreds of police officers have been deployed."
+    },
+    {
+      "text": "Sie arbeiten Tag und Nacht in der ganzen Stadt.",
+      "translated_text": "They work day and night throughout the city."
+    },
+    {
+      "text": "Die Polizei hat ungefähr 1000 Personen kontrolliert.",
+      "translated_text": "The police have checked approximately 1000 people."
+    },
+    {
+      "text": "Auch mehr als 700 Fahrzeuge wurden überprüft.",
+      "translated_text": "More than 700 vehicles were also inspected."
+    },
+    {
+      "text": "Bei den Kontrollen fanden die Beamten gefährliche Gegenstände.",
+      "translated_text": "During the checks, officers found dangerous items."
+    },
+    {
+      "text": "Dazu gehören Messer, Schusswaffen und Pfefferspray.",
+      "translated_text": "These include knives, firearms, and pepper spray."
+    },
+    {
+      "text": "Die Polizei beschlagnahmte auch eine kugelsichere Weste.",
+      "translated_text": "The police also confiscated a bulletproof vest."
+    },
+    {
+      "text": "Fast 70 Ermittlungsverfahren wurden eingeleitet.",
+      "translated_text": "Nearly 70 criminal investigations were initiated."
+    },
+    {
+      "text": "Die Ermittler glauben, dass organisierte Banden hinter der Gewalt stecken.",
+      "translated_text": "Investigators believe that organized gangs are behind the violence."
+    },
+    {
+      "text": "Diese Gruppen kämpfen um Drogenhandel und Territorien.",
+      "translated_text": "These groups are fighting over drug trafficking and territories."
+    },
+    {
+      "text": "Polizeipräsidentin Barbara Slowik hat mehr Maßnahmen angekündigt.",
+      "translated_text": "Police Chief Barbara Slowik has announced more measures."
+    },
+    {
+      "text": "Bis zu 100 Spezialkräfte sollen eingesetzt werden.",
+      "translated_text": "Up to 100 special forces officers are to be deployed."
+    },
+    {
+      "text": "Die Operation Ferrum wird in den nächsten Wochen weitergehen.",
+      "translated_text": "Operation Ferrum will continue in the coming weeks."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Schießerei",
+      "translated_term": "shooting",
+      "example_usage": "In den letzten Wochen gab es viele Schießereien in Berlin."
+    },
+    {
+      "term": "der Einsatz",
+      "translated_term": "deployment, operation",
+      "example_usage": "Seit dem 13. November sind hunderte Polizisten im Einsatz."
+    },
+    {
+      "term": "kontrollieren",
+      "translated_term": "to check, to control",
+      "example_usage": "Die Polizei hat ungefähr 1000 Personen kontrolliert."
+    },
+    {
+      "term": "beschlagnahmen",
+      "translated_term": "to confiscate",
+      "example_usage": "Die Polizei beschlagnahmte auch eine kugelsichere Weste."
+    },
+    {
+      "term": "das Ermittlungsverfahren",
+      "translated_term": "criminal investigation",
+      "example_usage": "Fast 70 Ermittlungsverfahren wurden eingeleitet."
+    },
+    {
+      "term": "die Bande",
+      "translated_term": "gang",
+      "example_usage": "Die Ermittler glauben, dass organisierte Banden hinter der Gewalt stecken."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Kriminalität",
+      "translated_name": "Crime"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de - Polizeimeldungen",
+      "link_url": "https://www.berlin.de/polizei/polizeimeldungen/2025/pressemitteilung.1618395.php"
+    },
+    {
+      "name": "The Local - Today in Germany",
+      "link_url": "https://www.thelocal.de/20251121/today-in-germany-a-roundup-of-the-latest-news-on-friday-101"
+    }
+  ]
+}
