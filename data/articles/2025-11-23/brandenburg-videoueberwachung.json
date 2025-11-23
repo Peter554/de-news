@@ -1,0 +1,105 @@
+{
+  "title": "Brandenburg diskutiert mehr Videoüberwachung",
+  "translated_title": "Brandenburg Discusses More Video Surveillance",
+  "text": [
+    {
+      "text": "Brandenburgs Innenminister René Wilke möchte die Videoüberwachung ausbauen.",
+      "translated_text": "Brandenburg's Interior Minister René Wilke wants to expand video surveillance."
+    },
+    {
+      "text": "Er gehört zur SPD und argumentiert für mehr Sicherheit in Brandenburg.",
+      "translated_text": "He belongs to the SPD and argues for more security in Brandenburg."
+    },
+    {
+      "text": "Die Debatte im Landtag war hitzig und kontrovers.",
+      "translated_text": "The debate in the state parliament was heated and controversial."
+    },
+    {
+      "text": "Die AfD nutzte ausländerfeindliche Rhetorik während der Diskussion.",
+      "translated_text": "The AfD used xenophobic rhetoric during the discussion."
+    },
+    {
+      "text": "Befürworter sagen, dass Kameras die Kriminalität reduzieren können.",
+      "translated_text": "Supporters say that cameras can reduce crime."
+    },
+    {
+      "text": "Sie wollen mehr Kameras an Bahnhöfen und öffentlichen Plätzen.",
+      "translated_text": "They want more cameras at train stations and public places."
+    },
+    {
+      "text": "Kritiker haben Bedenken wegen des Datenschutzes.",
+      "translated_text": "Critics have concerns about data privacy."
+    },
+    {
+      "text": "Sie fragen, ob ständige Überwachung wirklich nötig ist.",
+      "translated_text": "They ask whether constant surveillance is really necessary."
+    },
+    {
+      "text": "Die Bürger von Brandenburg sind in dieser Frage gespalten.",
+      "translated_text": "The citizens of Brandenburg are divided on this issue."
+    },
+    {
+      "text": "Einige fühlen sich mit mehr Kameras sicherer.",
+      "translated_text": "Some feel safer with more cameras."
+    },
+    {
+      "text": "Andere sorgen sich um ihre Privatsphäre.",
+      "translated_text": "Others are worried about their privacy."
+    },
+    {
+      "text": "Die Regierungskoalition muss nun eine Entscheidung treffen.",
+      "translated_text": "The governing coalition must now make a decision."
+    },
+    {
+      "text": "Das Thema Sicherheit bleibt in Brandenburg wichtig.",
+      "translated_text": "The topic of security remains important in Brandenburg."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Videoüberwachung",
+      "translated_term": "video surveillance",
+      "example_usage": "Brandenburgs Innenminister René Wilke möchte die Videoüberwachung ausbauen."
+    },
+    {
+      "term": "der Datenschutz",
+      "translated_term": "data privacy",
+      "example_usage": "Kritiker haben Bedenken wegen des Datenschutzes."
+    },
+    {
+      "term": "ausländerfeindlich",
+      "translated_term": "xenophobic",
+      "example_usage": "Die AfD nutzte ausländerfeindliche Rhetorik während der Diskussion."
+    },
+    {
+      "term": "der Befürworter",
+      "translated_term": "supporter",
+      "example_usage": "Befürworter sagen, dass Kameras die Kriminalität reduzieren können."
+    },
+    {
+      "term": "die Privatsphäre",
+      "translated_term": "privacy",
+      "example_usage": "Andere sorgen sich um ihre Privatsphäre."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Datenschutz",
+      "translated_name": "Data Privacy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tagesspiegel - Brandenburg Nachrichten",
+      "link_url": "https://www.tagesspiegel.de/potsdam/brandenburg/"
+    }
+  ]
+}
