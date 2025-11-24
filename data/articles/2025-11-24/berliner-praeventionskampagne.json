@@ -1,0 +1,118 @@
+{
+  "title": "Berlin startet Sicherheitskampagne vor Weihnachten",
+  "translated_title": "Berlin Launches Safety Campaign Before Christmas",
+  "text": [
+    {
+      "text": "Die Berliner Polizei hat eine große Präventionskampagne gestartet.",
+      "translated_text": "The Berlin police have launched a major prevention campaign."
+    },
+    {
+      "text": "Die Aktion läuft vom 24. November bis zum 5. Dezember 2025.",
+      "translated_text": "The campaign runs from November 24 to December 5, 2025."
+    },
+    {
+      "text": "Sie findet in mehreren Berliner Bezirken statt.",
+      "translated_text": "It takes place in several Berlin districts."
+    },
+    {
+      "text": "Dazu gehören Mitte, Spandau, Friedrichshain und Moabit.",
+      "translated_text": "These include Mitte, Spandau, Friedrichshain, and Moabit."
+    },
+    {
+      "text": "Die Kampagne konzentriert sich auf den öffentlichen Nahverkehr.",
+      "translated_text": "The campaign focuses on public transport."
+    },
+    {
+      "text": "In der Vorweihnachtszeit gibt es oft mehr Taschendiebe.",
+      "translated_text": "There are often more pickpockets in the pre-Christmas period."
+    },
+    {
+      "text": "Die Polizei gibt Tipps, wie man sich schützen kann.",
+      "translated_text": "The police give tips on how to protect yourself."
+    },
+    {
+      "text": "Jeden Tag von 12 bis 16 Uhr sind Berater vor Ort.",
+      "translated_text": "Advisors are on site every day from 12 to 4 pm."
+    },
+    {
+      "text": "Sie sprechen auch über Zivilcourage.",
+      "translated_text": "They also talk about civil courage."
+    },
+    {
+      "text": "Das bedeutet, anderen Menschen in Notsituationen zu helfen.",
+      "translated_text": "That means helping other people in emergency situations."
+    },
+    {
+      "text": "In den letzten Wochen gab es einige Vorfälle in Berlin.",
+      "translated_text": "There have been some incidents in Berlin in recent weeks."
+    },
+    {
+      "text": "Bei einem Vorfall wurde ein schwerer Gegenstand auf einen Bus geworfen.",
+      "translated_text": "In one incident, a heavy object was thrown at a bus."
+    },
+    {
+      "text": "Die Polizei ermittelt in diesem Fall noch.",
+      "translated_text": "The police are still investigating this case."
+    },
+    {
+      "text": "Bürger können sich während der Kampagne kostenlos beraten lassen.",
+      "translated_text": "Citizens can receive free advice during the campaign."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Präventionskampagne",
+      "translated_term": "prevention campaign",
+      "example_usage": "Die Berliner Polizei hat eine große Präventionskampagne gestartet."
+    },
+    {
+      "term": "der Bezirk",
+      "translated_term": "district",
+      "example_usage": "Sie findet in mehreren Berliner Bezirken statt."
+    },
+    {
+      "term": "der Taschendieb",
+      "translated_term": "pickpocket",
+      "example_usage": "In der Vorweihnachtszeit gibt es oft mehr Taschendiebe."
+    },
+    {
+      "term": "sich schützen",
+      "translated_term": "to protect oneself",
+      "example_usage": "Die Polizei gibt Tipps, wie man sich schützen kann."
+    },
+    {
+      "term": "die Zivilcourage",
+      "translated_term": "civil courage",
+      "example_usage": "Sie sprechen auch über Zivilcourage."
+    },
+    {
+      "term": "ermitteln",
+      "translated_term": "to investigate",
+      "example_usage": "Die Polizei ermittelt in diesem Fall noch."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de - Polizeimeldungen",
+      "link_url": "https://www.berlin.de/polizei/polizeimeldungen/"
+    },
+    {
+      "name": "Tagesspiegel Berlin",
+      "link_url": "https://www.tagesspiegel.de/berlin/"
+    }
+  ]
+}
