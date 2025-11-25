@@ -1,0 +1,126 @@
+{
+  "title": "Europa schlägt neuen Ukraine-Friedensplan vor",
+  "translated_title": "Europe proposes new Ukraine peace plan",
+  "text": [
+    {
+      "text": "Deutschland, Frankreich und Großbritannien haben einen Gegenvorschlag zum amerikanischen Friedensplan für die Ukraine entwickelt.",
+      "translated_text": "Germany, France and Great Britain have developed a counter-proposal to the American peace plan for Ukraine."
+    },
+    {
+      "text": "Die drei europäischen Länder wollen, dass die Kämpfe an der aktuellen Frontlinie stoppen.",
+      "translated_text": "The three European countries want the fighting to stop at the current front line."
+    },
+    {
+      "text": "Über die Zukunft der besetzten Gebiete soll später verhandelt werden.",
+      "translated_text": "The future of the occupied territories should be negotiated later."
+    },
+    {
+      "text": "Am Wochenende fanden in Genf wichtige Gespräche zwischen den USA und der Ukraine statt.",
+      "translated_text": "Important talks between the USA and Ukraine took place in Geneva over the weekend."
+    },
+    {
+      "text": "Die Ukraine und ihre Verbündeten waren zunächst skeptisch gegenüber dem amerikanischen Plan.",
+      "translated_text": "Ukraine and its allies were initially skeptical about the American plan."
+    },
+    {
+      "text": "Der US-Vorschlag enthielt strenge Bedingungen für die ukrainische Armee.",
+      "translated_text": "The US proposal contained strict conditions for the Ukrainian army."
+    },
+    {
+      "text": "Europa möchte der Ukraine stärkere Sicherheitsgarantien geben, ähnlich wie die NATO-Mitgliedschaft.",
+      "translated_text": "Europe wants to give Ukraine stronger security guarantees, similar to NATO membership."
+    },
+    {
+      "text": "Der europäische Plan erlaubt der Ukraine, bis zu 800.000 Soldaten in Friedenszeiten zu haben.",
+      "translated_text": "The European plan allows Ukraine to have up to 800,000 soldiers in peacetime."
+    },
+    {
+      "text": "Der ukrainische Präsident Selenskyj telefonierte mit den Regierungschefs von Deutschland, Frankreich und Großbritannien.",
+      "translated_text": "Ukrainian President Zelenskyy spoke by phone with the heads of government of Germany, France and Great Britain."
+    },
+    {
+      "text": "Alle europäischen Länder hoffen auf eine baldige Lösung des Konflikts.",
+      "translated_text": "All European countries are hoping for an early solution to the conflict."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Gegenvorschlag",
+      "translated_term": "counter-proposal",
+      "example_usage": "Deutschland, Frankreich und Großbritannien haben einen Gegenvorschlag zum amerikanischen Friedensplan für die Ukraine entwickelt."
+    },
+    {
+      "term": "die Frontlinie",
+      "translated_term": "front line",
+      "example_usage": "Die drei europäischen Länder wollen, dass die Kämpfe an der aktuellen Frontlinie stoppen."
+    },
+    {
+      "term": "besetzen",
+      "translated_term": "to occupy",
+      "example_usage": "Über die Zukunft der besetzten Gebiete soll später verhandelt werden."
+    },
+    {
+      "term": "verhandeln",
+      "translated_term": "to negotiate",
+      "example_usage": "Über die Zukunft der besetzten Gebiete soll später verhandelt werden."
+    },
+    {
+      "term": "skeptisch",
+      "translated_term": "skeptical",
+      "example_usage": "Die Ukraine und ihre Verbündeten waren zunächst skeptisch gegenüber dem amerikanischen Plan."
+    },
+    {
+      "term": "die Bedingung",
+      "translated_term": "condition",
+      "example_usage": "Der US-Vorschlag enthielt strenge Bedingungen für die ukrainische Armee."
+    },
+    {
+      "term": "die Sicherheitsgarantie",
+      "translated_term": "security guarantee",
+      "example_usage": "Europa möchte der Ukraine stärkere Sicherheitsgarantien geben, ähnlich wie die NATO-Mitgliedschaft."
+    },
+    {
+      "term": "erlauben",
+      "translated_term": "to allow",
+      "example_usage": "Der europäische Plan erlaubt der Ukraine, bis zu 800.000 Soldaten in Friedenszeiten zu haben."
+    },
+    {
+      "term": "der Regierungschef",
+      "translated_term": "head of government",
+      "example_usage": "Der ukrainische Präsident Selenskyj telefonierte mit den Regierungschefs von Deutschland, Frankreich und Großbritannien."
+    },
+    {
+      "term": "die Lösung",
+      "translated_term": "solution",
+      "example_usage": "Alle europäischen Länder hoffen auf eine baldige Lösung des Konflikts."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Europäische Union",
+      "translated_name": "European Union"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/11/24/ukraine-allies-give-cautious-welcome-to-modified-peace-framework"
+    },
+    {
+      "name": "Ukrainska Pravda",
+      "link_url": "https://www.pravda.com.ua/eng/news/2025/11/23/8008654/"
+    },
+    {
+      "name": "President of Ukraine",
+      "link_url": "https://www.president.gov.ua/en/news/volodimir-zelenskij-obgovoriv-iz-liderami-franciyi-velikoyi-101489"
+    }
+  ]
+}

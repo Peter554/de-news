@@ -1,0 +1,122 @@
+{
+  "title": "Welle von Schießereien erschüttert Berlin",
+  "translated_title": "Wave of shootings shakes Berlin",
+  "text": [
+    {
+      "text": "Berlin erlebte am Wochenende mehrere Schießereien mit schwer verletzten Opfern.",
+      "translated_text": "Berlin experienced several shootings over the weekend with seriously injured victims."
+    },
+    {
+      "text": "Am Freitagabend wurden zwei Männer vor einem Imbiss in Lichtenberg angeschossen.",
+      "translated_text": "On Friday evening, two men were shot in front of a snack bar in Lichtenberg."
+    },
+    {
+      "text": "Einer der Männer, 29 Jahre alt, schwebt noch in Lebensgefahr.",
+      "translated_text": "One of the men, 29 years old, is still in critical condition."
+    },
+    {
+      "text": "Am Samstagabend wurde ein 34-jähriger Mann im Böcklerpark in Kreuzberg erschossen.",
+      "translated_text": "On Saturday evening, a 34-year-old man was shot in Böcklerpark in Kreuzberg."
+    },
+    {
+      "text": "Am Sonntagabend schossen Unbekannte auf ein Wohnhaus in Tegel, aber niemand wurde verletzt.",
+      "translated_text": "On Sunday evening, unknown persons shot at a residential building in Tegel, but no one was injured."
+    },
+    {
+      "text": "Die Polizei vermutet, dass organisierte Banden hinter den Angriffen stecken.",
+      "translated_text": "The police suspect that organized gangs are behind the attacks."
+    },
+    {
+      "text": "Die Gewalt hängt wahrscheinlich mit Drogenhandel und Revierkämpfen zusammen.",
+      "translated_text": "The violence is probably related to drug trafficking and turf wars."
+    },
+    {
+      "text": "Berlins Polizeipräsidentin Barbara Slowik kündigte eine härtere Gangart an.",
+      "translated_text": "Berlin's Police Chief Barbara Slowik announced a tougher approach."
+    },
+    {
+      "text": "Bis zu 100 Spezialkräfte sollen Waffen beschlagnahmen und kriminelle Netzwerke zerschlagen.",
+      "translated_text": "Up to 100 special forces are to confiscate weapons and smash criminal networks."
+    },
+    {
+      "text": "Berlin hat in den letzten Jahren eine steigende Zahl von Schusswaffenverbrechen erlebt.",
+      "translated_text": "Berlin has experienced an increasing number of firearms crimes in recent years."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Schießerei",
+      "translated_term": "shooting",
+      "example_usage": "Berlin erlebte am Wochenende mehrere Schießereien mit schwer verletzten Opfern."
+    },
+    {
+      "term": "erschüttern",
+      "translated_term": "to shake",
+      "example_usage": "Welle von Schießereien erschüttert Berlin."
+    },
+    {
+      "term": "anschießen",
+      "translated_term": "to shoot at",
+      "example_usage": "Am Freitagabend wurden zwei Männer vor einem Imbiss in Lichtenberg angeschossen."
+    },
+    {
+      "term": "in Lebensgefahr schweben",
+      "translated_term": "to be in critical condition",
+      "example_usage": "Einer der Männer, 29 Jahre alt, schwebt noch in Lebensgefahr."
+    },
+    {
+      "term": "erschießen",
+      "translated_term": "to shoot (to death)",
+      "example_usage": "Am Samstagabend wurde ein 34-jähriger Mann im Böcklerpark in Kreuzberg erschossen."
+    },
+    {
+      "term": "die Bande",
+      "translated_term": "gang",
+      "example_usage": "Die Polizei vermutet, dass organisierte Banden hinter den Angriffen stecken."
+    },
+    {
+      "term": "der Drogenhandel",
+      "translated_term": "drug trafficking",
+      "example_usage": "Die Gewalt hängt wahrscheinlich mit Drogenhandel und Revierkämpfen zusammen."
+    },
+    {
+      "term": "der Revierkampf",
+      "translated_term": "turf war",
+      "example_usage": "Die Gewalt hängt wahrscheinlich mit Drogenhandel und Revierkämpfen zusammen."
+    },
+    {
+      "term": "beschlagnahmen",
+      "translated_term": "to confiscate",
+      "example_usage": "Bis zu 100 Spezialkräfte sollen Waffen beschlagnahmen und kriminelle Netzwerke zerschlagen."
+    },
+    {
+      "term": "zerschlagen",
+      "translated_term": "to smash, to break up",
+      "example_usage": "Bis zu 100 Spezialkräfte sollen Waffen beschlagnahmen und kriminelle Netzwerke zerschlagen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Kriminalität",
+      "translated_name": "Crime"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "RMX News",
+      "link_url": "https://rmx.news/article/germany-berlin-rocked-by-wave-of-shootings-multiple-victims-targeted-across-the-city/"
+    },
+    {
+      "name": "The Berliner",
+      "link_url": "https://www.the-berliner.com/english-news-berlin/violent-weekend-shooting-king-king-bergmannstrasse-stabbing-gesundbrunnen/"
+    }
+  ]
+}
