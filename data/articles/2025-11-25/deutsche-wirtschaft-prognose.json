@@ -1,0 +1,122 @@
+{
+  "title": "Deutsche Wirtschaft könnte im vierten Quartal leicht wachsen",
+  "translated_title": "German economy could grow slightly in the fourth quarter",
+  "text": [
+    {
+      "text": "Die Deutsche Bundesbank erwartet ein leichtes Wirtschaftswachstum im vierten Quartal 2025.",
+      "translated_text": "The German Bundesbank expects slight economic growth in the fourth quarter of 2025."
+    },
+    {
+      "text": "Deutschland hatte zwei Jahre lang eine wirtschaftliche Rezession.",
+      "translated_text": "Germany had an economic recession for two years."
+    },
+    {
+      "text": "Für das gesamte Jahr 2025 rechnet die Bundesbank jedoch mit einer Stagnation.",
+      "translated_text": "For the entire year 2025, however, the Bundesbank expects stagnation."
+    },
+    {
+      "text": "Die Zentralbank hatte ihre Prognose nach unten korrigiert.",
+      "translated_text": "The central bank had revised its forecast downwards."
+    },
+    {
+      "text": "Im Dezember hatte die Bank noch ein Wachstum von 0,2 Prozent vorhergesagt.",
+      "translated_text": "In December, the bank had predicted growth of 0.2 percent."
+    },
+    {
+      "text": "Neue amerikanische Zölle und politische Unsicherheit bremsen die deutsche Wirtschaft.",
+      "translated_text": "New American tariffs and political uncertainty are slowing down the German economy."
+    },
+    {
+      "text": "Die deutschen Exporte werden 2025 deutlich zurückgehen.",
+      "translated_text": "German exports will decline significantly in 2025."
+    },
+    {
+      "text": "Aber die Regierung plant höhere Ausgaben für Verteidigung und Infrastruktur.",
+      "translated_text": "But the government is planning higher spending on defense and infrastructure."
+    },
+    {
+      "text": "Ab 2026 soll die Wirtschaft wieder stärker wachsen, mit 0,7 Prozent.",
+      "translated_text": "From 2026, the economy is expected to grow more strongly again, at 0.7 percent."
+    },
+    {
+      "text": "Für 2027 prognostiziert die Bundesbank ein Wachstum von 1,2 Prozent.",
+      "translated_text": "For 2027, the Bundesbank forecasts growth of 1.2 percent."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bundesbank",
+      "translated_term": "Federal Bank (central bank)",
+      "example_usage": "Die Deutsche Bundesbank erwartet ein leichtes Wirtschaftswachstum im vierten Quartal 2025."
+    },
+    {
+      "term": "das Wirtschaftswachstum",
+      "translated_term": "economic growth",
+      "example_usage": "Die Deutsche Bundesbank erwartet ein leichtes Wirtschaftswachstum im vierten Quartal 2025."
+    },
+    {
+      "term": "die Rezession",
+      "translated_term": "recession",
+      "example_usage": "Deutschland hatte zwei Jahre lang eine wirtschaftliche Rezession."
+    },
+    {
+      "term": "die Stagnation",
+      "translated_term": "stagnation",
+      "example_usage": "Für das gesamte Jahr 2025 rechnet die Bundesbank jedoch mit einer Stagnation."
+    },
+    {
+      "term": "korrigieren",
+      "translated_term": "to revise, to correct",
+      "example_usage": "Die Zentralbank hatte ihre Prognose nach unten korrigiert."
+    },
+    {
+      "term": "der Zoll",
+      "translated_term": "tariff",
+      "example_usage": "Neue amerikanische Zölle und politische Unsicherheit bremsen die deutsche Wirtschaft."
+    },
+    {
+      "term": "bremsen",
+      "translated_term": "to slow down, to brake",
+      "example_usage": "Neue amerikanische Zölle und politische Unsicherheit bremsen die deutsche Wirtschaft."
+    },
+    {
+      "term": "der Export",
+      "translated_term": "export",
+      "example_usage": "Die deutschen Exporte werden 2025 deutlich zurückgehen."
+    },
+    {
+      "term": "die Verteidigung",
+      "translated_term": "defense",
+      "example_usage": "Aber die Regierung plant höhere Ausgaben für Verteidigung und Infrastruktur."
+    },
+    {
+      "term": "prognostizieren",
+      "translated_term": "to forecast",
+      "example_usage": "Für 2027 prognostiziert die Bundesbank ein Wachstum von 1,2 Prozent."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Finanzmärkte",
+      "translated_name": "Financial Markets"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2025-11-20/germany-on-track-for-growth-in-fourth-quarter-bundesbank-says"
+    },
+    {
+      "name": "Deutsche Bundesbank",
+      "link_url": "https://www.bundesbank.de/en/press/press-releases/the-bundesbank-s-forecast-for-germany-economic-recovery-slowly-getting-started-959308"
+    }
+  ]
+}
