@@ -1,0 +1,122 @@
+{
+  "title": "Trump setzt Ukraine unter Druck mit Friedensplan",
+  "translated_title": "Trump Puts Pressure on Ukraine with Peace Plan",
+  "text": [
+    {
+      "text": "Die US-Regierung unter Präsident Trump hat der Ukraine eine wichtige Frist gesetzt.",
+      "translated_text": "The US government under President Trump has set an important deadline for Ukraine."
+    },
+    {
+      "text": "Bis zum 27. November soll die Ukraine einen 28-Punkte-Friedensplan akzeptieren.",
+      "translated_text": "By November 27, Ukraine is supposed to accept a 28-point peace plan."
+    },
+    {
+      "text": "Wenn die Ukraine den Plan ablehnt, droht Trump, alle Waffenlieferungen und militärische Unterstützung zu stoppen.",
+      "translated_text": "If Ukraine rejects the plan, Trump threatens to stop all weapons shipments and military support."
+    },
+    {
+      "text": "Der ukrainische Präsident Selenskyj beschreibt die Situation als ein starkes Dilemma für sein Land.",
+      "translated_text": "Ukrainian President Zelenskyy describes the situation as a stark dilemma for his country."
+    },
+    {
+      "text": "Die europäischen Verbündeten der Ukraine sind von der Geschwindigkeit des amerikanischen Plans überrascht.",
+      "translated_text": "Ukraine's European allies are surprised by the speed of the American plan."
+    },
+    {
+      "text": "Am 21. November sprach der britische Premierminister mit Präsident Macron aus Frankreich, dem deutschen Bundeskanzler Merz und Präsident Selenskyj.",
+      "translated_text": "On November 21, the British Prime Minister spoke with President Macron of France, German Chancellor Merz, and President Zelenskyy."
+    },
+    {
+      "text": "Diese Gespräche zeigen, dass die europäischen Länder eine gemeinsame Position finden wollen.",
+      "translated_text": "These talks show that the European countries want to find a common position."
+    },
+    {
+      "text": "Viele Experten glauben, dass der Friedensplan schwierige Kompromisse von der Ukraine verlangt.",
+      "translated_text": "Many experts believe that the peace plan demands difficult compromises from Ukraine."
+    },
+    {
+      "text": "Die Situation ist besonders kritisch, weil die Ukraine stark von amerikanischen Waffen abhängig ist.",
+      "translated_text": "The situation is particularly critical because Ukraine is heavily dependent on American weapons."
+    },
+    {
+      "text": "In den nächsten Tagen werden wichtige Entscheidungen über die Zukunft des Krieges fallen.",
+      "translated_text": "In the coming days, important decisions about the future of the war will be made."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Frist",
+      "translated_term": "deadline",
+      "example_usage": "Die US-Regierung unter Präsident Trump hat der Ukraine eine wichtige Frist gesetzt."
+    },
+    {
+      "term": "der Friedensplan",
+      "translated_term": "peace plan",
+      "example_usage": "Bis zum 27. November soll die Ukraine einen 28-Punkte-Friedensplan akzeptieren."
+    },
+    {
+      "term": "ablehnen",
+      "translated_term": "to reject",
+      "example_usage": "Wenn die Ukraine den Plan ablehnt, droht Trump, alle Waffenlieferungen zu stoppen."
+    },
+    {
+      "term": "drohen",
+      "translated_term": "to threaten",
+      "example_usage": "Trump droht, alle Waffenlieferungen und militärische Unterstützung zu stoppen."
+    },
+    {
+      "term": "die Waffenlieferung",
+      "translated_term": "weapons shipment",
+      "example_usage": "Trump droht, alle Waffenlieferungen und militärische Unterstützung zu stoppen."
+    },
+    {
+      "term": "das Dilemma",
+      "translated_term": "dilemma",
+      "example_usage": "Der ukrainische Präsident Selenskyj beschreibt die Situation als ein starkes Dilemma für sein Land."
+    },
+    {
+      "term": "der Verbündete",
+      "translated_term": "ally",
+      "example_usage": "Die europäischen Verbündeten der Ukraine sind von der Geschwindigkeit des amerikanischen Plans überrascht."
+    },
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "Federal Chancellor",
+      "example_usage": "Am 21. November sprach der britische Premierminister mit dem deutschen Bundeskanzler Merz."
+    },
+    {
+      "term": "der Kompromiss",
+      "translated_term": "compromise",
+      "example_usage": "Viele Experten glauben, dass der Friedensplan schwierige Kompromisse von der Ukraine verlangt."
+    },
+    {
+      "term": "abhängig sein von",
+      "translated_term": "to be dependent on",
+      "example_usage": "Die Situation ist besonders kritisch, weil die Ukraine stark von amerikanischen Waffen abhängig ist."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/world/2025/11/22/99049.html"
+    },
+    {
+      "name": "UK Government",
+      "link_url": "https://www.gov.uk/government/news/pm-call-with-president-macron-of-france-chancellor-merz-of-germany-and-president-zelenskyy-of-ukraine-21-november-2025"
+    }
+  ]
+}

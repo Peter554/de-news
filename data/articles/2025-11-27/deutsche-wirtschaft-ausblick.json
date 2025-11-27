@@ -1,0 +1,118 @@
+{
+  "title": "Deutsche Wirtschaft könnte Ende 2025 leicht wachsen",
+  "translated_title": "German Economy Could Grow Slightly at the End of 2025",
+  "text": [
+    {
+      "text": "Die Bundesbank gibt positive Nachrichten über die deutsche Wirtschaft.",
+      "translated_text": "The Bundesbank is giving positive news about the German economy."
+    },
+    {
+      "text": "Sie sagt voraus, dass die Wirtschaft im vierten Quartal 2025 leicht wachsen könnte.",
+      "translated_text": "It predicts that the economy could grow slightly in the fourth quarter of 2025."
+    },
+    {
+      "text": "Das wäre eine wichtige Verbesserung nach mehreren schwierigen Monaten.",
+      "translated_text": "That would be an important improvement after several difficult months."
+    },
+    {
+      "text": "In den letzten Jahren hatte die deutsche Wirtschaft mit vielen Problemen zu kämpfen.",
+      "translated_text": "In recent years, the German economy has struggled with many problems."
+    },
+    {
+      "text": "Hohe Energiepreise und globale Unsicherheiten haben das Wachstum gebremst.",
+      "translated_text": "High energy prices and global uncertainties have slowed growth."
+    },
+    {
+      "text": "Viele deutsche Unternehmen mussten ihre Produktion reduzieren.",
+      "translated_text": "Many German companies had to reduce their production."
+    },
+    {
+      "text": "Die Bundesbank sieht jetzt aber erste Zeichen einer Erholung.",
+      "translated_text": "The Bundesbank now sees first signs of a recovery."
+    },
+    {
+      "text": "Besonders der Export und die Nachfrage aus dem Ausland könnten helfen.",
+      "translated_text": "Especially exports and demand from abroad could help."
+    },
+    {
+      "text": "Experten warnen jedoch, dass das Wachstum noch sehr schwach sein wird.",
+      "translated_text": "However, experts warn that the growth will still be very weak."
+    },
+    {
+      "text": "Die Bundesregierung arbeitet an neuen Programmen, um die Wirtschaft stärker zu unterstützen.",
+      "translated_text": "The federal government is working on new programs to support the economy more strongly."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bundesbank",
+      "translated_term": "Federal Bank (German Central Bank)",
+      "example_usage": "Die Bundesbank gibt positive Nachrichten über die deutsche Wirtschaft."
+    },
+    {
+      "term": "voraussagen",
+      "translated_term": "to predict",
+      "example_usage": "Sie sagt voraus, dass die Wirtschaft im vierten Quartal 2025 leicht wachsen könnte."
+    },
+    {
+      "term": "das Quartal",
+      "translated_term": "quarter (three-month period)",
+      "example_usage": "Die Wirtschaft könnte im vierten Quartal 2025 leicht wachsen."
+    },
+    {
+      "term": "die Verbesserung",
+      "translated_term": "improvement",
+      "example_usage": "Das wäre eine wichtige Verbesserung nach mehreren schwierigen Monaten."
+    },
+    {
+      "term": "zu kämpfen haben mit",
+      "translated_term": "to struggle with",
+      "example_usage": "In den letzten Jahren hatte die deutsche Wirtschaft mit vielen Problemen zu kämpfen."
+    },
+    {
+      "term": "bremsen",
+      "translated_term": "to slow down",
+      "example_usage": "Hohe Energiepreise und globale Unsicherheiten haben das Wachstum gebremst."
+    },
+    {
+      "term": "die Erholung",
+      "translated_term": "recovery",
+      "example_usage": "Die Bundesbank sieht jetzt aber erste Zeichen einer Erholung."
+    },
+    {
+      "term": "der Export",
+      "translated_term": "export",
+      "example_usage": "Besonders der Export und die Nachfrage aus dem Ausland könnten helfen."
+    },
+    {
+      "term": "die Nachfrage",
+      "translated_term": "demand",
+      "example_usage": "Besonders der Export und die Nachfrage aus dem Ausland könnten helfen."
+    },
+    {
+      "term": "die Bundesregierung",
+      "translated_term": "federal government",
+      "example_usage": "Die Bundesregierung arbeitet an neuen Programmen, um die Wirtschaft stärker zu unterstützen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Finanzmärkte",
+      "translated_name": "Financial Markets"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20251121/today-in-germany-a-roundup-of-the-latest-news-on-friday-101"
+    }
+  ]
+}
