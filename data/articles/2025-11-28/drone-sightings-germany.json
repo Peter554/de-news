@@ -1,0 +1,169 @@
+{
+  "title": "Mysteriöse Drohnen über deutschen Militäranlagen",
+  "translated_title": "Mysterious Drones Over German Military Facilities",
+  "text": [
+    {
+      "text": "Deutschland hat ein wachsendes Drohnenproblem.",
+      "translated_text": "Germany has a growing drone problem."
+    },
+    {
+      "text": "Seit Anfang 2025 wurden etwa 850 verdächtige Drohnenflüge registriert.",
+      "translated_text": "Since the beginning of 2025, about 850 suspicious drone flights have been registered."
+    },
+    {
+      "text": "Die Drohnen fliegen über Militäranlagen und Verteidigungseinrichtungen.",
+      "translated_text": "The drones fly over military facilities and defense installations."
+    },
+    {
+      "text": "Auch kritische Infrastruktur ist betroffen.",
+      "translated_text": "Critical infrastructure is also affected."
+    },
+    {
+      "text": "Dazu gehören Energie- und Wasserversorgungsunternehmen.",
+      "translated_text": "This includes energy and water supply companies."
+    },
+    {
+      "text": "Der Flughafen Berlin-Brandenburg musste den Betrieb für zwei Stunden stoppen.",
+      "translated_text": "Berlin-Brandenburg Airport had to stop operations for two hours."
+    },
+    {
+      "text": "Eine Drohne wurde in der Nähe des Flughafens gesichtet.",
+      "translated_text": "A drone was spotted near the airport."
+    },
+    {
+      "text": "Die Polizei bestätigte die Sichtung, konnte die Drohne aber nicht finden.",
+      "translated_text": "The police confirmed the sighting but could not find the drone."
+    },
+    {
+      "text": "Das Problem ist nicht nur in Deutschland.",
+      "translated_text": "The problem is not only in Germany."
+    },
+    {
+      "text": "In ganz Europa gibt es ähnliche Vorfälle.",
+      "translated_text": "There are similar incidents across Europe."
+    },
+    {
+      "text": "Belgien hat Deutschland um Hilfe gebeten.",
+      "translated_text": "Belgium has asked Germany for help."
+    },
+    {
+      "text": "Die deutsche Luftwaffe schickte Drohnenabwehr-Spezialisten nach Belgien.",
+      "translated_text": "The German Air Force sent drone defense specialists to Belgium."
+    },
+    {
+      "text": "Belgische Behörden vermuten einen staatlichen Akteur hinter den Vorfällen.",
+      "translated_text": "Belgian authorities suspect a state actor behind the incidents."
+    },
+    {
+      "text": "Russland wird als möglicher Verdächtiger genannt.",
+      "translated_text": "Russia is mentioned as a possible suspect."
+    },
+    {
+      "text": "Die deutsche Regierung hat neue Gesetze verabschiedet.",
+      "translated_text": "The German government has passed new laws."
+    },
+    {
+      "text": "Die Bundeswehr darf jetzt Drohnen mit Waffen und Störsendern abwehren.",
+      "translated_text": "The military may now defend against drones with weapons and jammers."
+    },
+    {
+      "text": "Dies ist eine historische Entscheidung für Deutschland.",
+      "translated_text": "This is a historic decision for Germany."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "Seit Anfang 2025 wurden etwa 850 verdächtige Drohnenflüge registriert."
+    },
+    {
+      "term": "die Militäranlage",
+      "translated_term": "military facility",
+      "example_usage": "Die Drohnen fliegen über Militäranlagen und Verteidigungseinrichtungen."
+    },
+    {
+      "term": "verdächtig",
+      "translated_term": "suspicious",
+      "example_usage": "Seit Anfang 2025 wurden etwa 850 verdächtige Drohnenflüge registriert."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "infrastructure",
+      "example_usage": "Auch kritische Infrastruktur ist betroffen."
+    },
+    {
+      "term": "die Wasserversorgung",
+      "translated_term": "water supply",
+      "example_usage": "Dazu gehören Energie- und Wasserversorgungsunternehmen."
+    },
+    {
+      "term": "sichten",
+      "translated_term": "to spot/sight",
+      "example_usage": "Eine Drohne wurde in der Nähe des Flughafens gesichtet."
+    },
+    {
+      "term": "bestätigen",
+      "translated_term": "to confirm",
+      "example_usage": "Die Polizei bestätigte die Sichtung, konnte die Drohne aber nicht finden."
+    },
+    {
+      "term": "der Vorfall",
+      "translated_term": "incident",
+      "example_usage": "In ganz Europa gibt es ähnliche Vorfälle."
+    },
+    {
+      "term": "vermuten",
+      "translated_term": "to suspect",
+      "example_usage": "Belgische Behörden vermuten einen staatlichen Akteur hinter den Vorfällen."
+    },
+    {
+      "term": "der Verdächtige",
+      "translated_term": "suspect",
+      "example_usage": "Russland wird als möglicher Verdächtiger genannt."
+    },
+    {
+      "term": "verabschieden",
+      "translated_term": "to pass (a law)",
+      "example_usage": "Die deutsche Regierung hat neue Gesetze verabschiedet."
+    },
+    {
+      "term": "abwehren",
+      "translated_term": "to defend against",
+      "example_usage": "Die Bundeswehr darf jetzt Drohnen mit Waffen und Störsendern abwehren."
+    },
+    {
+      "term": "der Störsender",
+      "translated_term": "jammer",
+      "example_usage": "Die Bundeswehr darf jetzt Drohnen mit Waffen und Störsendern abwehren."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Nationale Sicherheit",
+      "translated_name": "National Security"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Bundeswehr",
+      "translated_name": "Federal Armed Forces"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Strange Sounds",
+      "link_url": "https://strangesounds.org/2025/11/drone-incursions-europe-list-sept-nov-2025.html"
+    },
+    {
+      "name": "Defense News",
+      "link_url": "https://www.defensenews.com/global/europe/2025/11/07/german-luftwaffe-dispatches-drone-defense-experts-to-help-belgium/"
+    },
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2025-11-19/germany-empowers-military-to-shoot-down-drones-in-emergencies"
+    }
+  ]
+}
