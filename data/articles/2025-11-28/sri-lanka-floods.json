@@ -1,0 +1,161 @@
+{
+  "title": "Schwere Überschwemmungen in Sri Lanka",
+  "translated_title": "Severe Floods in Sri Lanka",
+  "text": [
+    {
+      "text": "Sri Lanka kämpft gegen eine schwere Naturkatastrophe.",
+      "translated_text": "Sri Lanka is fighting against a severe natural disaster."
+    },
+    {
+      "text": "Starke Regenfälle haben Überschwemmungen und Erdrutsche ausgelöst.",
+      "translated_text": "Heavy rains have triggered floods and landslides."
+    },
+    {
+      "text": "Mindestens 56 Menschen sind gestorben und 21 werden vermisst.",
+      "translated_text": "At least 56 people have died and 21 are missing."
+    },
+    {
+      "text": "Die meisten Todesfälle ereigneten sich in der zentralen Bergregion.",
+      "translated_text": "Most deaths occurred in the central mountain region."
+    },
+    {
+      "text": "In Badulla wurden 21 Menschen bei einem Erdrutsch lebendig begraben.",
+      "translated_text": "In Badulla, 21 people were buried alive in a landslide."
+    },
+    {
+      "text": "Der Erdrutsch ereignete sich in der Nacht, als Berghänge auf Häuser stürzten.",
+      "translated_text": "The landslide occurred at night when mountain slopes crashed onto houses."
+    },
+    {
+      "text": "Über 5.800 Menschen in 17 Distrikten sind von dem Unwetter betroffen.",
+      "translated_text": "Over 5,800 people in 17 districts are affected by the severe weather."
+    },
+    {
+      "text": "Die Regierung hat Schulen und Behörden am Freitag geschlossen.",
+      "translated_text": "The government closed schools and offices on Friday."
+    },
+    {
+      "text": "Mehr als 600 Häuser wurden im ganzen Land beschädigt.",
+      "translated_text": "More than 600 houses were damaged across the country."
+    },
+    {
+      "text": "Die Behörden haben Passagierzüge gestoppt und viele Straßen gesperrt.",
+      "translated_text": "Authorities stopped passenger trains and closed many roads."
+    },
+    {
+      "text": "Felsen, Schlamm und Bäume blockieren Straßen und Eisenbahnstrecken.",
+      "translated_text": "Rocks, mud, and trees are blocking roads and railway tracks."
+    },
+    {
+      "text": "Das Land bereitet sich auf weiteres schweres Wetter vor.",
+      "translated_text": "The country is preparing for more severe weather."
+    },
+    {
+      "text": "Der Zyklon Ditwah bewegt sich entlang der Ostküste.",
+      "translated_text": "Cyclone Ditwah is moving along the east coast."
+    },
+    {
+      "text": "Er entwickelte sich aus einem Tiefdruckgebiet vor der Küste.",
+      "translated_text": "It developed from a low-pressure system off the coast."
+    },
+    {
+      "text": "Rettungsteams arbeiten weiter in den am stärksten betroffenen Gebieten.",
+      "translated_text": "Rescue teams continue working in the hardest-hit areas."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Überschwemmung",
+      "translated_term": "flood",
+      "example_usage": "Starke Regenfälle haben Überschwemmungen und Erdrutsche ausgelöst."
+    },
+    {
+      "term": "der Erdrutsch",
+      "translated_term": "landslide",
+      "example_usage": "In Badulla wurden 21 Menschen bei einem Erdrutsch lebendig begraben."
+    },
+    {
+      "term": "die Naturkatastrophe",
+      "translated_term": "natural disaster",
+      "example_usage": "Sri Lanka kämpft gegen eine schwere Naturkatastrophe."
+    },
+    {
+      "term": "auslösen",
+      "translated_term": "to trigger",
+      "example_usage": "Starke Regenfälle haben Überschwemmungen und Erdrutsche ausgelöst."
+    },
+    {
+      "term": "vermissen",
+      "translated_term": "to be missing",
+      "example_usage": "Mindestens 56 Menschen sind gestorben und 21 werden vermisst."
+    },
+    {
+      "term": "begraben",
+      "translated_term": "to bury",
+      "example_usage": "In Badulla wurden 21 Menschen bei einem Erdrutsch lebendig begraben."
+    },
+    {
+      "term": "der Berghang",
+      "translated_term": "mountain slope",
+      "example_usage": "Der Erdrutsch ereignete sich in der Nacht, als Berghänge auf Häuser stürzten."
+    },
+    {
+      "term": "betroffen",
+      "translated_term": "affected",
+      "example_usage": "Über 5.800 Menschen in 17 Distrikten sind von dem Unwetter betroffen."
+    },
+    {
+      "term": "das Unwetter",
+      "translated_term": "severe weather",
+      "example_usage": "Über 5.800 Menschen in 17 Distrikten sind von dem Unwetter betroffen."
+    },
+    {
+      "term": "beschädigen",
+      "translated_term": "to damage",
+      "example_usage": "Mehr als 600 Häuser wurden im ganzen Land beschädigt."
+    },
+    {
+      "term": "sperren",
+      "translated_term": "to close/block",
+      "example_usage": "Die Behörden haben Passagierzüge gestoppt und viele Straßen gesperrt."
+    },
+    {
+      "term": "der Zyklon",
+      "translated_term": "cyclone",
+      "example_usage": "Der Zyklon Ditwah bewegt sich entlang der Ostküste."
+    },
+    {
+      "term": "das Rettungsteam",
+      "translated_term": "rescue team",
+      "example_usage": "Rettungsteams arbeiten weiter in den am stärksten betroffenen Gebieten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    },
+    {
+      "name": "Asien",
+      "translated_name": "Asia"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Free Malaysia Today",
+      "link_url": "https://www.freemalaysiatoday.com/category/world/2025/11/28/sri-lankas-death-toll-from-floods-landslides-climbs-to-47-with-21-missing"
+    },
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/2025/11/28/offices-and-schools-closed-in-sri-lanka-as-the-island-nation-grapples-with-floods-and-land"
+    },
+    {
+      "name": "The Washington Post",
+      "link_url": "https://www.washingtonpost.com/world/2025/11/27/sri-lanka-weather-landslides-floods/d20a99ce-cb5c-11f0-ac2a-e98510180900_story.html"
+    }
+  ]
+}
