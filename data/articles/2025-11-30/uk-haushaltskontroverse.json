@@ -1,0 +1,149 @@
+{
+  "title": "Kontroverse um britischen Haushalt",
+  "translated_title": "Controversy Over British Budget",
+  "text": [
+    {
+      "text": "In Großbritannien gibt es einen großen Streit über den neuen Haushalt.",
+      "translated_text": "In Great Britain, there is a major dispute over the new budget."
+    },
+    {
+      "text": "Die britische Finanzministerin Rachel Reeves stellte am 26. November den Haushalt vor.",
+      "translated_text": "British Finance Minister Rachel Reeves presented the budget on November 26."
+    },
+    {
+      "text": "Jetzt wird sie von Kritikern beschuldigt, die Öffentlichkeit getäuscht zu haben.",
+      "translated_text": "Now she is being accused by critics of having deceived the public."
+    },
+    {
+      "text": "Vor dem Haushalt sprach Reeves von einem \"schwarzen Loch\" von 30 Milliarden Pfund.",
+      "translated_text": "Before the budget, Reeves spoke of a 'black hole' of 30 billion pounds."
+    },
+    {
+      "text": "Sie sagte, dass die vorherige Regierung so viel Geld schuldig war.",
+      "translated_text": "She said that the previous government owed that much money."
+    },
+    {
+      "text": "Aber neue Dokumente zeigen, dass dieses \"schwarze Loch\" vielleicht nicht existierte.",
+      "translated_text": "But new documents show that this 'black hole' perhaps did not exist."
+    },
+    {
+      "text": "Kritiker sagen, dass Reeves diese Geschichte erfunden hat.",
+      "translated_text": "Critics say that Reeves invented this story."
+    },
+    {
+      "text": "Sie wollte damit höhere Steuern rechtfertigen.",
+      "translated_text": "She wanted to justify higher taxes with it."
+    },
+    {
+      "text": "Die Opposition ist sehr wütend über diese Situation.",
+      "translated_text": "The opposition is very angry about this situation."
+    },
+    {
+      "text": "Auch einige Labour-Abgeordnete kritisieren die Regierung.",
+      "translated_text": "Some Labour MPs are also criticizing the government."
+    },
+    {
+      "text": "Sie sagen, dass die Regierung ein Wahlversprechen gebrochen hat.",
+      "translated_text": "They say that the government has broken an election promise."
+    },
+    {
+      "text": "Die Regierung muss jetzt erklären, warum sie diese Entscheidungen getroffen hat.",
+      "translated_text": "The government must now explain why it made these decisions."
+    },
+    {
+      "text": "Viele Briten sind besorgt über die steigenden Steuern.",
+      "translated_text": "Many Britons are concerned about the rising taxes."
+    },
+    {
+      "text": "Die Kontroverse zeigt, wie schwierig die wirtschaftliche Lage in Großbritannien ist.",
+      "translated_text": "The controversy shows how difficult the economic situation in Great Britain is."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Kontroverse",
+      "translated_term": "controversy",
+      "example_usage": "In Großbritannien gibt es einen großen Streit über den neuen Haushalt."
+    },
+    {
+      "term": "der Streit",
+      "translated_term": "dispute/argument",
+      "example_usage": "In Großbritannien gibt es einen großen Streit über den neuen Haushalt."
+    },
+    {
+      "term": "der Haushalt",
+      "translated_term": "budget",
+      "example_usage": "Die britische Finanzministerin Rachel Reeves stellte am 26. November den Haushalt vor."
+    },
+    {
+      "term": "vorstellen",
+      "translated_term": "to present",
+      "example_usage": "Die britische Finanzministerin Rachel Reeves stellte am 26. November den Haushalt vor."
+    },
+    {
+      "term": "beschuldigen",
+      "translated_term": "to accuse",
+      "example_usage": "Jetzt wird sie von Kritikern beschuldigt, die Öffentlichkeit getäuscht zu haben."
+    },
+    {
+      "term": "täuschen",
+      "translated_term": "to deceive",
+      "example_usage": "Jetzt wird sie von Kritikern beschuldigt, die Öffentlichkeit getäuscht zu haben."
+    },
+    {
+      "term": "das schwarze Loch",
+      "translated_term": "black hole",
+      "example_usage": "Vor dem Haushalt sprach Reeves von einem \"schwarzen Loch\" von 30 Milliarden Pfund."
+    },
+    {
+      "term": "schuldig sein",
+      "translated_term": "to owe",
+      "example_usage": "Sie sagte, dass die vorherige Regierung so viel Geld schuldig war."
+    },
+    {
+      "term": "erfinden",
+      "translated_term": "to invent/make up",
+      "example_usage": "Kritiker sagen, dass Reeves diese Geschichte erfunden hat."
+    },
+    {
+      "term": "rechtfertigen",
+      "translated_term": "to justify",
+      "example_usage": "Sie wollte damit höhere Steuern rechtfertigen."
+    },
+    {
+      "term": "die Opposition",
+      "translated_term": "opposition",
+      "example_usage": "Die Opposition ist sehr wütend über diese Situation."
+    },
+    {
+      "term": "das Wahlversprechen",
+      "translated_term": "election promise",
+      "example_usage": "Sie sagen, dass die Regierung ein Wahlversprechen gebrochen hat."
+    },
+    {
+      "term": "steigend",
+      "translated_term": "rising/increasing",
+      "example_usage": "Viele Briten sind besorgt über die steigenden Steuern."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Skandal",
+      "translated_name": "Scandal"
+    }
+  ],
+  "sources": [
+    {
+      "name": "GOV.UK",
+      "link_url": "https://www.gov.uk/government/news/budget-2025-factsheet-driving-economic-growth"
+    }
+  ]
+}

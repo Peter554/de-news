@@ -1,0 +1,154 @@
+{
+  "title": "Bundestag debattiert über Rekordhaushalt für 2026",
+  "translated_title": "Bundestag Debates Record Budget for 2026",
+  "text": [
+    {
+      "text": "Der Deutsche Bundestag begann diese Woche eine wichtige viertägige Debatte.",
+      "translated_text": "The German Bundestag began an important four-day debate this week."
+    },
+    {
+      "text": "Die Abgeordneten diskutieren über den Bundeshaushalt für das Jahr 2026.",
+      "translated_text": "The members of parliament are discussing the federal budget for the year 2026."
+    },
+    {
+      "text": "Finanzminister Lars Klingbeil eröffnete die Debatte am Montag.",
+      "translated_text": "Finance Minister Lars Klingbeil opened the debate on Monday."
+    },
+    {
+      "text": "Der Haushaltsausschuss hat den Plan bereits genehmigt.",
+      "translated_text": "The budget committee has already approved the plan."
+    },
+    {
+      "text": "Die Regierung möchte im Jahr 2026 etwa 180 Milliarden Euro neue Schulden aufnehmen.",
+      "translated_text": "The government wants to take on about 180 billion euros in new debt in 2026."
+    },
+    {
+      "text": "Das ist die zweithöchste Neuverschuldung in der deutschen Geschichte.",
+      "translated_text": "This is the second-highest new borrowing in German history."
+    },
+    {
+      "text": "Nur während der Corona-Pandemie waren die Schulden noch höher.",
+      "translated_text": "Only during the Corona pandemic was the debt even higher."
+    },
+    {
+      "text": "Viele Politiker machen sich Sorgen über diese hohen Ausgaben.",
+      "translated_text": "Many politicians are worried about this high spending."
+    },
+    {
+      "text": "Andere sagen, dass Deutschland das Geld braucht, um wichtige Projekte zu finanzieren.",
+      "translated_text": "Others say that Germany needs the money to finance important projects."
+    },
+    {
+      "text": "Deutschland investiert in Infrastruktur, Bildung und die Energiewende.",
+      "translated_text": "Germany is investing in infrastructure, education, and the energy transition."
+    },
+    {
+      "text": "Die wirtschaftliche Situation in Deutschland ist schwierig.",
+      "translated_text": "The economic situation in Germany is difficult."
+    },
+    {
+      "text": "Das Wirtschaftswachstum ist sehr langsam.",
+      "translated_text": "Economic growth is very slow."
+    },
+    {
+      "text": "Die Regierung hofft, dass die Investitionen die Wirtschaft stärken werden.",
+      "translated_text": "The government hopes that the investments will strengthen the economy."
+    },
+    {
+      "text": "Die Debatte im Bundestag zeigt die verschiedenen Meinungen über die beste Wirtschaftspolitik.",
+      "translated_text": "The debate in the Bundestag shows the different opinions about the best economic policy."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Bundestag",
+      "translated_term": "Federal Parliament",
+      "example_usage": "Der Deutsche Bundestag begann diese Woche eine wichtige viertägige Debatte."
+    },
+    {
+      "term": "debattieren",
+      "translated_term": "to debate",
+      "example_usage": "Bundestag debattiert über Rekordhaushalt für 2026."
+    },
+    {
+      "term": "der Bundeshaushalt",
+      "translated_term": "federal budget",
+      "example_usage": "Die Abgeordneten diskutieren über den Bundeshaushalt für das Jahr 2026."
+    },
+    {
+      "term": "der Abgeordnete",
+      "translated_term": "member of parliament",
+      "example_usage": "Die Abgeordneten diskutieren über den Bundeshaushalt für das Jahr 2026."
+    },
+    {
+      "term": "der Finanzminister",
+      "translated_term": "finance minister",
+      "example_usage": "Finanzminister Lars Klingbeil eröffnete die Debatte am Montag."
+    },
+    {
+      "term": "der Haushaltsausschuss",
+      "translated_term": "budget committee",
+      "example_usage": "Der Haushaltsausschuss hat den Plan bereits genehmigt."
+    },
+    {
+      "term": "genehmigen",
+      "translated_term": "to approve",
+      "example_usage": "Der Haushaltsausschuss hat den Plan bereits genehmigt."
+    },
+    {
+      "term": "die Schulden",
+      "translated_term": "debt",
+      "example_usage": "Die Regierung möchte im Jahr 2026 etwa 180 Milliarden Euro neue Schulden aufnehmen."
+    },
+    {
+      "term": "aufnehmen",
+      "translated_term": "to take on",
+      "example_usage": "Die Regierung möchte im Jahr 2026 etwa 180 Milliarden Euro neue Schulden aufnehmen."
+    },
+    {
+      "term": "die Neuverschuldung",
+      "translated_term": "new borrowing/debt",
+      "example_usage": "Das ist die zweithöchste Neuverschuldung in der deutschen Geschichte."
+    },
+    {
+      "term": "die Ausgaben",
+      "translated_term": "spending/expenditure",
+      "example_usage": "Viele Politiker machen sich Sorgen über diese hohen Ausgaben."
+    },
+    {
+      "term": "finanzieren",
+      "translated_term": "to finance",
+      "example_usage": "Andere sagen, dass Deutschland das Geld braucht, um wichtige Projekte zu finanzieren."
+    },
+    {
+      "term": "die Energiewende",
+      "translated_term": "energy transition",
+      "example_usage": "Deutschland investiert in Infrastruktur, Bildung und die Energiewende."
+    },
+    {
+      "term": "das Wirtschaftswachstum",
+      "translated_term": "economic growth",
+      "example_usage": "Das Wirtschaftswachstum ist sehr langsam."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Bundeshaushalt",
+      "translated_name": "Federal Budget"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local",
+      "link_url": "https://www.thelocal.de/20251125/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-100"
+    }
+  ]
+}
