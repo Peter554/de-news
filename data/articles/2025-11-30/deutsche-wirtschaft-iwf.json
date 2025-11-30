@@ -1,0 +1,154 @@
+{
+  "title": "IWF: Deutsche Wirtschaft wächst nur langsam",
+  "translated_title": "IMF: German Economy Growing Only Slowly",
+  "text": [
+    {
+      "text": "Der Internationale Währungsfonds hat eine neue Prognose für Deutschland veröffentlicht.",
+      "translated_text": "The International Monetary Fund has published a new forecast for Germany."
+    },
+    {
+      "text": "Die Nachrichten sind nicht sehr positiv für die deutsche Wirtschaft.",
+      "translated_text": "The news is not very positive for the German economy."
+    },
+    {
+      "text": "Im Jahr 2025 wird die deutsche Wirtschaft nur um 0,2 Prozent wachsen.",
+      "translated_text": "In 2025, the German economy will only grow by 0.2 percent."
+    },
+    {
+      "text": "Das ist sehr wenig Wachstum für eine große Industrienation.",
+      "translated_text": "That is very little growth for a major industrial nation."
+    },
+    {
+      "text": "Die Situation wird aber langsam besser.",
+      "translated_text": "However, the situation is slowly getting better."
+    },
+    {
+      "text": "Für 2026 erwartet der IWF ein Wachstum von etwa 1 Prozent.",
+      "translated_text": "For 2026, the IMF expects growth of about 1 percent."
+    },
+    {
+      "text": "Im Jahr 2027 soll die Wirtschaft dann um 1,5 Prozent wachsen.",
+      "translated_text": "In 2027, the economy should then grow by 1.5 percent."
+    },
+    {
+      "text": "Deutschland hat mit vielen wirtschaftlichen Problemen zu kämpfen.",
+      "translated_text": "Germany is struggling with many economic problems."
+    },
+    {
+      "text": "Der internationale Handel ist schwieriger geworden.",
+      "translated_text": "International trade has become more difficult."
+    },
+    {
+      "text": "Viele deutsche Firmen exportieren ihre Produkte in andere Länder.",
+      "translated_text": "Many German companies export their products to other countries."
+    },
+    {
+      "text": "Wenn der Handel nicht gut läuft, leiden diese Firmen.",
+      "translated_text": "When trade doesn't go well, these companies suffer."
+    },
+    {
+      "text": "Die deutsche Bundesbank ist trotzdem etwas optimistischer.",
+      "translated_text": "The German Federal Bank is nevertheless somewhat more optimistic."
+    },
+    {
+      "text": "Sie sagte diese Woche, dass es Ende 2025 einen kleinen Aufschwung geben könnte.",
+      "translated_text": "It said this week that there could be a small upturn at the end of 2025."
+    },
+    {
+      "text": "Das wäre ein hoffnungsvolles Zeichen für die größte Volkswirtschaft Europas.",
+      "translated_text": "That would be a hopeful sign for Europe's largest economy."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Internationale Währungsfonds (IWF)",
+      "translated_term": "International Monetary Fund (IMF)",
+      "example_usage": "Der Internationale Währungsfonds hat eine neue Prognose für Deutschland veröffentlicht."
+    },
+    {
+      "term": "die Prognose",
+      "translated_term": "forecast/prediction",
+      "example_usage": "Der Internationale Währungsfonds hat eine neue Prognose für Deutschland veröffentlicht."
+    },
+    {
+      "term": "die Wirtschaft",
+      "translated_term": "economy",
+      "example_usage": "Im Jahr 2025 wird die deutsche Wirtschaft nur um 0,2 Prozent wachsen."
+    },
+    {
+      "term": "wachsen",
+      "translated_term": "to grow",
+      "example_usage": "Im Jahr 2025 wird die deutsche Wirtschaft nur um 0,2 Prozent wachsen."
+    },
+    {
+      "term": "das Wachstum",
+      "translated_term": "growth",
+      "example_usage": "Das ist sehr wenig Wachstum für eine große Industrienation."
+    },
+    {
+      "term": "die Industrienation",
+      "translated_term": "industrial nation",
+      "example_usage": "Das ist sehr wenig Wachstum für eine große Industrienation."
+    },
+    {
+      "term": "erwarten",
+      "translated_term": "to expect",
+      "example_usage": "Für 2026 erwartet der IWF ein Wachstum von etwa 1 Prozent."
+    },
+    {
+      "term": "kämpfen",
+      "translated_term": "to fight/struggle",
+      "example_usage": "Deutschland hat mit vielen wirtschaftlichen Problemen zu kämpfen."
+    },
+    {
+      "term": "der Handel",
+      "translated_term": "trade",
+      "example_usage": "Der internationale Handel ist schwieriger geworden."
+    },
+    {
+      "term": "exportieren",
+      "translated_term": "to export",
+      "example_usage": "Viele deutsche Firmen exportieren ihre Produkte in andere Länder."
+    },
+    {
+      "term": "die Bundesbank",
+      "translated_term": "Federal Bank",
+      "example_usage": "Die deutsche Bundesbank ist trotzdem etwas optimistischer."
+    },
+    {
+      "term": "der Aufschwung",
+      "translated_term": "upturn/upswing",
+      "example_usage": "Sie sagte diese Woche, dass es Ende 2025 einen kleinen Aufschwung geben könnte."
+    },
+    {
+      "term": "hoffnungsvoll",
+      "translated_term": "hopeful",
+      "example_usage": "Das wäre ein hoffnungsvolles Zeichen für die größte Volkswirtschaft Europas."
+    },
+    {
+      "term": "die Volkswirtschaft",
+      "translated_term": "economy/national economy",
+      "example_usage": "Das wäre ein hoffnungsvolles Zeichen für die größte Volkswirtschaft Europas."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "IMF",
+      "link_url": "https://www.imf.org/en/news/articles/2025/11/26/mcs-112625-germany-staff-concluding-statement-of-the-2025-article-iv-mission"
+    }
+  ]
+}

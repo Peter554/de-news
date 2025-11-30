@@ -1,0 +1,153 @@
+{
+  "title": "Große Proteste gegen AfD-Jugendkonferenz in Gießen",
+  "translated_title": "Large Protests Against AfD Youth Conference in Giessen",
+  "text": [
+    {
+      "text": "Am Samstag fand in der hessischen Stadt Gießen eine wichtige Konferenz der rechten Partei Alternative für Deutschland statt.",
+      "translated_text": "On Saturday, an important conference of the right-wing party Alternative for Germany took place in the Hessian city of Giessen."
+    },
+    {
+      "text": "Die AfD gründete dort eine neue Jugendorganisation.",
+      "translated_text": "The AfD founded a new youth organization there."
+    },
+    {
+      "text": "Der 28-jährige Jean-Pascal Hohm wurde zum Vorsitzenden gewählt.",
+      "translated_text": "The 28-year-old Jean-Pascal Hohm was elected as chairman."
+    },
+    {
+      "text": "Viele Menschen waren gegen diese Konferenz.",
+      "translated_text": "Many people were against this conference."
+    },
+    {
+      "text": "Zwischen 25.000 und 30.000 Demonstranten kamen nach Gießen, um zu protestieren.",
+      "translated_text": "Between 25,000 and 30,000 demonstrators came to Giessen to protest."
+    },
+    {
+      "text": "Das war die größte Demonstration in der Geschichte der Stadt.",
+      "translated_text": "This was the largest demonstration in the city's history."
+    },
+    {
+      "text": "Die Polizei musste 6.000 Beamte einsetzen.",
+      "translated_text": "The police had to deploy 6,000 officers."
+    },
+    {
+      "text": "Das war der größte Polizeieinsatz in der Geschichte des Bundeslandes Hessen.",
+      "translated_text": "This was the largest police operation in the history of the state of Hesse."
+    },
+    {
+      "text": "Wegen der Proteste begann die AfD-Konferenz später als geplant.",
+      "translated_text": "Because of the protests, the AfD conference started later than planned."
+    },
+    {
+      "text": "Einige Demonstranten warfen Steine auf die Polizei.",
+      "translated_text": "Some demonstrators threw stones at the police."
+    },
+    {
+      "text": "Mehrere Polizisten wurden dabei verletzt.",
+      "translated_text": "Several police officers were injured in the process."
+    },
+    {
+      "text": "Die Situation in Gießen zeigt, wie gespalten Deutschland in politischen Fragen ist.",
+      "translated_text": "The situation in Giessen shows how divided Germany is on political issues."
+    },
+    {
+      "text": "Die AfD ist eine rechte Partei, die in den letzten Jahren immer stärker geworden ist.",
+      "translated_text": "The AfD is a right-wing party that has become increasingly stronger in recent years."
+    },
+    {
+      "text": "Viele Deutsche machen sich Sorgen über den Aufstieg dieser Partei.",
+      "translated_text": "Many Germans are worried about the rise of this party."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Konferenz",
+      "translated_term": "conference",
+      "example_usage": "Am Samstag fand in der hessischen Stadt Gießen eine wichtige Konferenz der rechten Partei Alternative für Deutschland statt."
+    },
+    {
+      "term": "gründen",
+      "translated_term": "to found/establish",
+      "example_usage": "Die AfD gründete dort eine neue Jugendorganisation."
+    },
+    {
+      "term": "der Vorsitzende",
+      "translated_term": "chairman",
+      "example_usage": "Der 28-jährige Jean-Pascal Hohm wurde zum Vorsitzenden gewählt."
+    },
+    {
+      "term": "der Demonstrant",
+      "translated_term": "demonstrator",
+      "example_usage": "Zwischen 25.000 und 30.000 Demonstranten kamen nach Gießen, um zu protestieren."
+    },
+    {
+      "term": "protestieren",
+      "translated_term": "to protest",
+      "example_usage": "Zwischen 25.000 und 30.000 Demonstranten kamen nach Gießen, um zu protestieren."
+    },
+    {
+      "term": "die Demonstration",
+      "translated_term": "demonstration/protest",
+      "example_usage": "Das war die größte Demonstration in der Geschichte der Stadt."
+    },
+    {
+      "term": "der Beamte",
+      "translated_term": "officer/official",
+      "example_usage": "Die Polizei musste 6.000 Beamte einsetzen."
+    },
+    {
+      "term": "einsetzen",
+      "translated_term": "to deploy/use",
+      "example_usage": "Die Polizei musste 6.000 Beamte einsetzen."
+    },
+    {
+      "term": "der Polizeieinsatz",
+      "translated_term": "police operation",
+      "example_usage": "Das war der größte Polizeieinsatz in der Geschichte des Bundeslandes Hessen."
+    },
+    {
+      "term": "das Bundesland",
+      "translated_term": "federal state",
+      "example_usage": "Das war der größte Polizeieinsatz in der Geschichte des Bundeslandes Hessen."
+    },
+    {
+      "term": "verletzen",
+      "translated_term": "to injure",
+      "example_usage": "Mehrere Polizisten wurden dabei verletzt."
+    },
+    {
+      "term": "gespalten",
+      "translated_term": "divided/split",
+      "example_usage": "Die Situation in Gießen zeigt, wie gespalten Deutschland in politischen Fragen ist."
+    },
+    {
+      "term": "der Aufstieg",
+      "translated_term": "rise/ascent",
+      "example_usage": "Viele Deutsche machen sich Sorgen über den Aufstieg dieser Partei."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Proteste",
+      "translated_name": "Protests"
+    },
+    {
+      "name": "Extremismus",
+      "translated_name": "Extremism"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Washington Post",
+      "link_url": "https://www.washingtonpost.com/world/2025/11/29/germany-far-right-afd-youth-organization-protests/5d4d0a3a-cd01-11f0-ac2a-e98510180900_story.html"
+    },
+    {
+      "name": "Fox News",
+      "link_url": "https://www.foxnews.com/world/antifa-agitation-turns-violent-germany-bolstering-trump-admins-foreign-terror-label"
+    }
+  ]
+}
