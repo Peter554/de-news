@@ -1,0 +1,123 @@
+{
+  "title": "Chef der britischen Haushaltsbehörde tritt zurück",
+  "translated_title": "Head of British budget authority resigns",
+  "text": [
+    {
+      "text": "Richard Hughes, der Chef des britischen Office for Budget Responsibility (OBR), ist von seinem Amt zurückgetreten.",
+      "translated_text": "Richard Hughes, the head of the British Office for Budget Responsibility (OBR), has resigned from his position."
+    },
+    {
+      "text": "Das OBR ist eine unabhängige Behörde, die die Wirtschaftsprognosen und Haushaltspläne der Regierung überprüft.",
+      "translated_text": "The OBR is an independent authority that reviews the government's economic forecasts and budget plans."
+    },
+    {
+      "text": "Der Rücktritt kam nach einem frühen Leck des Haushaltsberichts, das am Tag der Haushaltsveröffentlichung passierte.",
+      "translated_text": "The resignation came after an early leak of the budget report that happened on budget day."
+    },
+    {
+      "text": "Es gab einen Veröffentlichungsfehler, der vertrauliche Informationen zu früh freigegeben hat.",
+      "translated_text": "There was a publishing error that released confidential information too early."
+    },
+    {
+      "text": "Die Nachricht vom Rücktritt kam nur wenige Stunden nach dem Vorfall und löste politische Diskussionen aus.",
+      "translated_text": "The news of the resignation came just a few hours after the incident and triggered political discussions."
+    },
+    {
+      "text": "Premierminister Keir Starmer verteidigte den Haushalt seiner Finanzministerin Rachel Reeves gegen Vorwürfe, er sei irreführend.",
+      "translated_text": "Prime Minister Keir Starmer defended his Finance Minister Rachel Reeves' budget against accusations that it was misleading."
+    },
+    {
+      "text": "Die Kontroverse um den Haushalt hatte bereits vorher für Spannungen in der britischen Politik gesorgt.",
+      "translated_text": "The controversy around the budget had already caused tensions in British politics beforehand."
+    },
+    {
+      "text": "Viele Experten diskutieren nun, welche Auswirkungen dieser Rücktritt auf das Vertrauen in die Haushaltsbehörde haben wird.",
+      "translated_text": "Many experts are now discussing what impact this resignation will have on trust in the budget authority."
+    },
+    {
+      "text": "Die Regierung muss jetzt schnell einen neuen Chef für das OBR finden, um die Glaubwürdigkeit der Institution zu sichern.",
+      "translated_text": "The government must now quickly find a new head for the OBR to secure the credibility of the institution."
+    },
+    {
+      "text": "Der Vorfall zeigt, wie wichtig der Schutz vertraulicher Regierungsinformationen ist und welche Konsequenzen Fehler haben können.",
+      "translated_text": "The incident shows how important the protection of confidential government information is and what consequences mistakes can have."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "zurücktreten",
+      "translated_term": "to resign, to step down",
+      "example_usage": "Richard Hughes ist von seinem Amt zurückgetreten."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "authority, agency",
+      "example_usage": "Das OBR ist eine unabhängige Behörde."
+    },
+    {
+      "term": "der Haushalt",
+      "translated_term": "budget",
+      "example_usage": "Es gab ein Leck des Haushaltsberichts."
+    },
+    {
+      "term": "das Leck",
+      "translated_term": "leak",
+      "example_usage": "Der Rücktritt kam nach einem frühen Leck des Haushaltsberichts."
+    },
+    {
+      "term": "vertraulich",
+      "translated_term": "confidential",
+      "example_usage": "Der Veröffentlichungsfehler hat vertrauliche Informationen freigegeben."
+    },
+    {
+      "term": "freigeben",
+      "translated_term": "to release, to disclose",
+      "example_usage": "Der Fehler hat vertrauliche Informationen zu früh freigegeben."
+    },
+    {
+      "term": "auslösen",
+      "translated_term": "to trigger, to cause",
+      "example_usage": "Die Nachricht löste politische Diskussionen aus."
+    },
+    {
+      "term": "irreführend",
+      "translated_term": "misleading",
+      "example_usage": "Starmer verteidigte den Haushalt gegen Vorwürfe, er sei irreführend."
+    },
+    {
+      "term": "die Auswirkung",
+      "translated_term": "impact, effect",
+      "example_usage": "Experten diskutieren, welche Auswirkungen dieser Rücktritt haben wird."
+    },
+    {
+      "term": "die Glaubwürdigkeit",
+      "translated_term": "credibility",
+      "example_usage": "Die Regierung muss die Glaubwürdigkeit der Institution sichern."
+    },
+    {
+      "term": "die Konsequenz",
+      "translated_term": "consequence",
+      "example_usage": "Der Vorfall zeigt, welche Konsequenzen Fehler haben können."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Skandal",
+      "translated_name": "Scandal"
+    }
+  ],
+  "sources": [
+    {
+      "name": "YouGov",
+      "link_url": "https://yougov.co.uk/politics/articles/53607-yougov-news-tracker-30-november-1-december-2025"
+    }
+  ]
+}
