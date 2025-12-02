@@ -1,0 +1,123 @@
+{
+  "title": "Diebstahl von Munition für die Bundeswehr",
+  "translated_title": "Theft of ammunition for the Federal Armed Forces",
+  "text": [
+    {
+      "text": "In Deutschland ist es zu einem schweren Sicherheitsvorfall gekommen: Fast 20.000 Schuss Munition wurden gestohlen.",
+      "translated_text": "A serious security incident has occurred in Germany: Almost 20,000 rounds of ammunition were stolen."
+    },
+    {
+      "text": "Die Munition war für die Bundeswehr, die deutschen Streitkräfte, bestimmt.",
+      "translated_text": "The ammunition was intended for the Bundeswehr, the German armed forces."
+    },
+    {
+      "text": "Der Diebstahl ereignete sich aus einem zivilen Lastwagen, der militärische Vorräte transportierte.",
+      "translated_text": "The theft occurred from a civilian truck that was transporting military supplies."
+    },
+    {
+      "text": "Die Nachricht wurde vom Nachrichtenmagazin Der Spiegel veröffentlicht, das sich auf das Verteidigungsministerium berief.",
+      "translated_text": "The news was published by the news magazine Der Spiegel, which cited the Ministry of Defense."
+    },
+    {
+      "text": "Es ist noch nicht bekannt, wer für den Diebstahl verantwortlich ist oder wo die Munition jetzt ist.",
+      "translated_text": "It is not yet known who is responsible for the theft or where the ammunition is now."
+    },
+    {
+      "text": "Der Vorfall wirft ernste Fragen zur Sicherheit militärischer Transporte auf.",
+      "translated_text": "The incident raises serious questions about the security of military transports."
+    },
+    {
+      "text": "Die Polizei und das Militär haben sofort eine Untersuchung begonnen, um die Munition zu finden.",
+      "translated_text": "The police and military immediately began an investigation to find the ammunition."
+    },
+    {
+      "text": "Experten sind besorgt, dass die gestohlene Munition in die falschen Hände geraten könnte.",
+      "translated_text": "Experts are concerned that the stolen ammunition could fall into the wrong hands."
+    },
+    {
+      "text": "Das Verteidigungsministerium arbeitet daran, die Sicherheitsprotokolle für den Transport militärischer Güter zu verbessern.",
+      "translated_text": "The Ministry of Defense is working to improve security protocols for transporting military goods."
+    },
+    {
+      "text": "Dieser Zwischenfall zeigt, wie wichtig strenge Sicherheitsmaßnahmen beim Transport sensibler militärischer Ausrüstung sind.",
+      "translated_text": "This incident shows how important strict security measures are when transporting sensitive military equipment."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Diebstahl",
+      "translated_term": "theft",
+      "example_usage": "Es ist zu einem Diebstahl von Munition gekommen."
+    },
+    {
+      "term": "die Munition",
+      "translated_term": "ammunition",
+      "example_usage": "Fast 20.000 Schuss Munition wurden gestohlen."
+    },
+    {
+      "term": "die Bundeswehr",
+      "translated_term": "Federal Armed Forces (German military)",
+      "example_usage": "Die Munition war für die Bundeswehr bestimmt."
+    },
+    {
+      "term": "sich ereignen",
+      "translated_term": "to occur, to happen",
+      "example_usage": "Der Diebstahl ereignete sich aus einem zivilen Lastwagen."
+    },
+    {
+      "term": "der Lastwagen",
+      "translated_term": "truck",
+      "example_usage": "Die Munition wurde aus einem zivilen Lastwagen gestohlen."
+    },
+    {
+      "term": "das Verteidigungsministerium",
+      "translated_term": "Ministry of Defense",
+      "example_usage": "Der Spiegel berief sich auf das Verteidigungsministerium."
+    },
+    {
+      "term": "sich berufen auf",
+      "translated_term": "to cite, to refer to",
+      "example_usage": "Der Spiegel berief sich auf das Verteidigungsministerium."
+    },
+    {
+      "term": "aufwerfen",
+      "translated_term": "to raise (a question)",
+      "example_usage": "Der Vorfall wirft ernste Fragen zur Sicherheit auf."
+    },
+    {
+      "term": "besorgt",
+      "translated_term": "concerned, worried",
+      "example_usage": "Experten sind besorgt, dass die Munition in die falschen Hände geraten könnte."
+    },
+    {
+      "term": "das Sicherheitsprotokoll",
+      "translated_term": "security protocol",
+      "example_usage": "Das Verteidigungsministerium arbeitet daran, die Sicherheitsprotokolle zu verbessern."
+    },
+    {
+      "term": "sensibel",
+      "translated_term": "sensitive",
+      "example_usage": "Strenge Sicherheitsmaßnahmen sind beim Transport sensibler militärischer Ausrüstung wichtig."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Bundeswehr",
+      "translated_name": "Federal Armed Forces"
+    },
+    {
+      "name": "Kriminalität",
+      "translated_name": "Crime"
+    },
+    {
+      "name": "Nationale Sicherheit",
+      "translated_name": "National Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/germany/2025/12/02/101030.html"
+    }
+  ]
+}
