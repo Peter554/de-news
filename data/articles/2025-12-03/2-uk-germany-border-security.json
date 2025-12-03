@@ -1,0 +1,147 @@
+{
+  "title": "Großbritannien und Deutschland arbeiten zusammen gegen illegale Migration",
+  "translated_title": "Great Britain and Germany Work Together Against Illegal Migration",
+  "text": [
+    {
+      "text": "Die britische Außenministerin Yvette Cooper reiste am Mittwoch nach Berlin.",
+      "translated_text": "British Foreign Secretary Yvette Cooper traveled to Berlin on Wednesday."
+    },
+    {
+      "text": "Ziel des Besuchs ist die Stärkung der internationalen Zusammenarbeit im Kampf gegen illegale Migration.",
+      "translated_text": "The aim of the visit is to strengthen international cooperation in the fight against illegal migration."
+    },
+    {
+      "text": "Beide Länder wollen ihre Grenzsicherheit verbessern und gemeinsam handeln.",
+      "translated_text": "Both countries want to improve their border security and act together."
+    },
+    {
+      "text": "Ein wichtiger Teil der Zusammenarbeit ist der Kensington-Vertrag.",
+      "translated_text": "An important part of the cooperation is the Kensington Treaty."
+    },
+    {
+      "text": "Dieser Vertrag wurde im Juli unterzeichnet und enthält konkrete Maßnahmen.",
+      "translated_text": "This treaty was signed in July and contains concrete measures."
+    },
+    {
+      "text": "Deutschland plant ein neues Gesetz gegen Schmugglerbanden.",
+      "translated_text": "Germany is planning a new law against smuggling gangs."
+    },
+    {
+      "text": "Das Gesetz soll die Lagerung von kleinen Booten kriminalisieren.",
+      "translated_text": "The law is intended to criminalize the storage of small boats."
+    },
+    {
+      "text": "Viele Schmuggler benutzen solche Boote, um Menschen illegal über die Grenzen zu bringen.",
+      "translated_text": "Many smugglers use such boats to bring people illegally across borders."
+    },
+    {
+      "text": "Das deutsche Parlament soll das Gesetz bis Weihnachten verabschieden.",
+      "translated_text": "The German parliament is expected to pass the law by Christmas."
+    },
+    {
+      "text": "Die britische Regierung unterstützt diese Initiative sehr.",
+      "translated_text": "The British government strongly supports this initiative."
+    },
+    {
+      "text": "Beide Länder hoffen, dass die engere Partnerschaft die illegale Migration reduzieren wird.",
+      "translated_text": "Both countries hope that the closer partnership will reduce illegal migration."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Außenministerin / der Außenminister",
+      "translated_term": "Foreign Secretary, Foreign Minister",
+      "example_usage": "Die britische Außenministerin Yvette Cooper reiste am Mittwoch nach Berlin."
+    },
+    {
+      "term": "die Stärkung",
+      "translated_term": "strengthening",
+      "example_usage": "Ziel des Besuchs ist die Stärkung der internationalen Zusammenarbeit im Kampf gegen illegale Migration."
+    },
+    {
+      "term": "die Zusammenarbeit",
+      "translated_term": "cooperation, collaboration",
+      "example_usage": "Ziel des Besuchs ist die Stärkung der internationalen Zusammenarbeit im Kampf gegen illegale Migration."
+    },
+    {
+      "term": "der Kampf",
+      "translated_term": "fight, battle",
+      "example_usage": "Ziel des Besuchs ist die Stärkung der internationalen Zusammenarbeit im Kampf gegen illegale Migration."
+    },
+    {
+      "term": "die Grenzsicherheit",
+      "translated_term": "border security",
+      "example_usage": "Beide Länder wollen ihre Grenzsicherheit verbessern und gemeinsam handeln."
+    },
+    {
+      "term": "verbessern",
+      "translated_term": "to improve",
+      "example_usage": "Beide Länder wollen ihre Grenzsicherheit verbessern und gemeinsam handeln."
+    },
+    {
+      "term": "der Vertrag",
+      "translated_term": "treaty, contract",
+      "example_usage": "Ein wichtiger Teil der Zusammenarbeit ist der Kensington-Vertrag."
+    },
+    {
+      "term": "unterzeichnen",
+      "translated_term": "to sign",
+      "example_usage": "Dieser Vertrag wurde im Juli unterzeichnet und enthält konkrete Maßnahmen."
+    },
+    {
+      "term": "die Maßnahme",
+      "translated_term": "measure, action",
+      "example_usage": "Dieser Vertrag wurde im Juli unterzeichnet und enthält konkrete Maßnahmen."
+    },
+    {
+      "term": "die Schmugglerbande",
+      "translated_term": "smuggling gang",
+      "example_usage": "Deutschland plant ein neues Gesetz gegen Schmugglerbanden."
+    },
+    {
+      "term": "kriminalisieren",
+      "translated_term": "to criminalize",
+      "example_usage": "Das Gesetz soll die Lagerung von kleinen Booten kriminalisieren."
+    },
+    {
+      "term": "die Lagerung",
+      "translated_term": "storage",
+      "example_usage": "Das Gesetz soll die Lagerung von kleinen Booten kriminalisieren."
+    },
+    {
+      "term": "der Schmuggler / die Schmugglerin",
+      "translated_term": "smuggler",
+      "example_usage": "Viele Schmuggler benutzen solche Boote, um Menschen illegal über die Grenzen zu bringen."
+    },
+    {
+      "term": "verabschieden",
+      "translated_term": "to pass (a law), to adopt",
+      "example_usage": "Das deutsche Parlament soll das Gesetz bis Weihnachten verabschieden."
+    },
+    {
+      "term": "die Initiative",
+      "translated_term": "initiative",
+      "example_usage": "Die britische Regierung unterstützt diese Initiative sehr."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Einwanderungspolitik",
+      "translated_name": "Immigration Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "GOV.UK",
+      "link_url": "https://www.gov.uk/government/news/foreign-secretary-calls-for-stronger-partnerships-to-boost-british-border-security-during-trip-to-germany"
+    }
+  ]
+}
