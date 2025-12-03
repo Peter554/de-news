@@ -1,0 +1,151 @@
+{
+  "title": "Deutschland aktiviert israelisches Raketenabwehrsystem",
+  "translated_title": "Germany Activates Israeli Missile Defense System",
+  "text": [
+    {
+      "text": "Am 3. Dezember nimmt Deutschland ein neues Raketenabwehrsystem in Betrieb.",
+      "translated_text": "On December 3, Germany is putting a new missile defense system into operation."
+    },
+    {
+      "text": "Es handelt sich um das israelische System Hetz-3, das Deutschland gekauft hat.",
+      "translated_text": "It is the Israeli Hetz-3 system that Germany has purchased."
+    },
+    {
+      "text": "Das System soll die Luftverteidigung des Landes erheblich verstärken.",
+      "translated_text": "The system is intended to significantly strengthen the country's air defense."
+    },
+    {
+      "text": "Deutschland hat in den letzten Jahren seine Verteidigungsausgaben stark erhöht.",
+      "translated_text": "Germany has significantly increased its defense spending in recent years."
+    },
+    {
+      "text": "Finanzminister Lars Klingbeil kündigte weitere Investitionen an.",
+      "translated_text": "Finance Minister Lars Klingbeil announced further investments."
+    },
+    {
+      "text": "Das Verteidigungsbudget soll von 2,4 Prozent auf 3,9 Prozent des BIP steigen.",
+      "translated_text": "The defense budget is to rise from 2.4 percent to 3.9 percent of GDP."
+    },
+    {
+      "text": "Dieses Ziel soll bis zum Jahr 2029 erreicht werden.",
+      "translated_text": "This goal is to be achieved by the year 2029."
+    },
+    {
+      "text": "Die Entscheidung zeigt, dass Deutschland seine Sicherheitspolitik ändert.",
+      "translated_text": "The decision shows that Germany is changing its security policy."
+    },
+    {
+      "text": "In den vergangenen Jahrzehnten hatte Deutschland wenig in Verteidigung investiert.",
+      "translated_text": "In recent decades, Germany had invested little in defense."
+    },
+    {
+      "text": "Nun reagiert das Land auf die veränderte Sicherheitslage in Europa.",
+      "translated_text": "Now the country is reacting to the changed security situation in Europe."
+    },
+    {
+      "text": "Das Hetz-3-System kann ballistische Raketen in großer Höhe abfangen.",
+      "translated_text": "The Hetz-3 system can intercept ballistic missiles at high altitude."
+    },
+    {
+      "text": "Damit wird Deutschland besser vor möglichen Bedrohungen geschützt.",
+      "translated_text": "This provides Germany with better protection against potential threats."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Raketenabwehrsystem",
+      "translated_term": "missile defense system",
+      "example_usage": "Am 3. Dezember nimmt Deutschland ein neues Raketenabwehrsystem in Betrieb."
+    },
+    {
+      "term": "in Betrieb nehmen",
+      "translated_term": "to put into operation, to activate",
+      "example_usage": "Am 3. Dezember nimmt Deutschland ein neues Raketenabwehrsystem in Betrieb."
+    },
+    {
+      "term": "die Luftverteidigung",
+      "translated_term": "air defense",
+      "example_usage": "Das System soll die Luftverteidigung des Landes erheblich verstärken."
+    },
+    {
+      "term": "erheblich",
+      "translated_term": "significantly, considerably",
+      "example_usage": "Das System soll die Luftverteidigung des Landes erheblich verstärken."
+    },
+    {
+      "term": "verstärken",
+      "translated_term": "to strengthen, to reinforce",
+      "example_usage": "Das System soll die Luftverteidigung des Landes erheblich verstärken."
+    },
+    {
+      "term": "die Verteidigungsausgaben",
+      "translated_term": "defense spending",
+      "example_usage": "Deutschland hat in den letzten Jahren seine Verteidigungsausgaben stark erhöht."
+    },
+    {
+      "term": "erhöhen",
+      "translated_term": "to increase, to raise",
+      "example_usage": "Deutschland hat in den letzten Jahren seine Verteidigungsausgaben stark erhöht."
+    },
+    {
+      "term": "der Finanzminister / die Finanzministerin",
+      "translated_term": "Finance Minister",
+      "example_usage": "Finanzminister Lars Klingbeil kündigte weitere Investitionen an."
+    },
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Finanzminister Lars Klingbeil kündigte weitere Investitionen an."
+    },
+    {
+      "term": "das Verteidigungsbudget",
+      "translated_term": "defense budget",
+      "example_usage": "Das Verteidigungsbudget soll von 2,4 Prozent auf 3,9 Prozent des BIP steigen."
+    },
+    {
+      "term": "das BIP (Bruttoinlandsprodukt)",
+      "translated_term": "GDP (Gross Domestic Product)",
+      "example_usage": "Das Verteidigungsbudget soll von 2,4 Prozent auf 3,9 Prozent des BIP steigen."
+    },
+    {
+      "term": "die Sicherheitspolitik",
+      "translated_term": "security policy",
+      "example_usage": "Die Entscheidung zeigt, dass Deutschland seine Sicherheitspolitik ändert."
+    },
+    {
+      "term": "die Sicherheitslage",
+      "translated_term": "security situation",
+      "example_usage": "Nun reagiert das Land auf die veränderte Sicherheitslage in Europa."
+    },
+    {
+      "term": "abfangen",
+      "translated_term": "to intercept",
+      "example_usage": "Das Hetz-3-System kann ballistische Raketen in großer Höhe abfangen."
+    },
+    {
+      "term": "die Bedrohung",
+      "translated_term": "threat",
+      "example_usage": "Damit wird Deutschland besser vor möglichen Bedrohungen geschützt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Nationale Sicherheit",
+      "translated_name": "National Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/world/2025/11/30/100779.html"
+    }
+  ]
+}
