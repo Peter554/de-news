@@ -1,0 +1,140 @@
+{
+  "title": "Regierungskrise wegen Rentenreform",
+  "translated_title": "Government Crisis Over Pension Reform",
+  "text": [
+    {
+      "text": "Die deutsche Regierung steht vor einer schweren Krise wegen der geplanten Rentenreform.",
+      "translated_text": "The German government faces a serious crisis over the planned pension reform."
+    },
+    {
+      "text": "Bundeskanzler Friedrich Merz führt eine Koalition aus CDU, CSU und SPD.",
+      "translated_text": "Chancellor Friedrich Merz leads a coalition of CDU, CSU and SPD."
+    },
+    {
+      "text": "Diese Koalition hat nur eine knappe Mehrheit von zwölf Stimmen im Bundestag.",
+      "translated_text": "This coalition has only a slim majority of twelve votes in the Bundestag."
+    },
+    {
+      "text": "Etwa 18 jüngere CDU-Abgeordnete haben sich gegen die Rentenreform gestellt.",
+      "translated_text": "About 18 younger CDU members of parliament have opposed the pension reform."
+    },
+    {
+      "text": "Sie finden, dass die Reform zu teuer ist und zukünftige Generationen zu stark belastet.",
+      "translated_text": "They believe that the reform is too expensive and places too much burden on future generations."
+    },
+    {
+      "text": "Die Abstimmung über das Rentengesetz soll am Freitag im Bundestag stattfinden.",
+      "translated_text": "The vote on the pension law is scheduled to take place in the Bundestag on Friday."
+    },
+    {
+      "text": "Es ist unklar, ob die Regierung genug Stimmen für die Reform bekommt.",
+      "translated_text": "It is unclear whether the government will get enough votes for the reform."
+    },
+    {
+      "text": "Wenn das Gesetz nicht verabschiedet wird, könnte die Koalition zusammenbrechen.",
+      "translated_text": "If the law is not passed, the coalition could collapse."
+    },
+    {
+      "text": "Die Koalition existiert erst seit sieben Monaten.",
+      "translated_text": "The coalition has only existed for seven months."
+    },
+    {
+      "text": "Wirtschaftsvertreter haben gewarnt, dass Deutschland sich im freien Fall befindet.",
+      "translated_text": "Business representatives have warned that Germany is in free fall."
+    },
+    {
+      "text": "Sie fordern mehr Stabilität und klare politische Entscheidungen.",
+      "translated_text": "They demand more stability and clear political decisions."
+    },
+    {
+      "text": "Die Rentenfrage ist eines der wichtigsten Themen für die deutsche Bevölkerung.",
+      "translated_text": "The pension question is one of the most important issues for the German population."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Regierungskrise",
+      "translated_term": "government crisis",
+      "example_usage": "Die deutsche Regierung steht vor einer schweren Krise wegen der geplanten Rentenreform."
+    },
+    {
+      "term": "die Rentenreform",
+      "translated_term": "pension reform",
+      "example_usage": "Die deutsche Regierung steht vor einer schweren Krise wegen der geplanten Rentenreform."
+    },
+    {
+      "term": "die Koalition",
+      "translated_term": "coalition",
+      "example_usage": "Bundeskanzler Friedrich Merz führt eine Koalition aus CDU, CSU und SPD."
+    },
+    {
+      "term": "knapp",
+      "translated_term": "slim/narrow",
+      "example_usage": "Diese Koalition hat nur eine knappe Mehrheit von zwölf Stimmen im Bundestag."
+    },
+    {
+      "term": "der Abgeordnete",
+      "translated_term": "member of parliament",
+      "example_usage": "Etwa 18 jüngere CDU-Abgeordnete haben sich gegen die Rentenreform gestellt."
+    },
+    {
+      "term": "sich gegen etwas stellen",
+      "translated_term": "to oppose something",
+      "example_usage": "Etwa 18 jüngere CDU-Abgeordnete haben sich gegen die Rentenreform gestellt."
+    },
+    {
+      "term": "belasten",
+      "translated_term": "to burden",
+      "example_usage": "Sie finden, dass die Reform zu teuer ist und zukünftige Generationen zu stark belastet."
+    },
+    {
+      "term": "die Abstimmung",
+      "translated_term": "vote",
+      "example_usage": "Die Abstimmung über das Rentengesetz soll am Freitag im Bundestag stattfinden."
+    },
+    {
+      "term": "verabschieden",
+      "translated_term": "to pass/adopt",
+      "example_usage": "Wenn das Gesetz nicht verabschiedet wird, könnte die Koalition zusammenbrechen."
+    },
+    {
+      "term": "zusammenbrechen",
+      "translated_term": "to collapse",
+      "example_usage": "Wenn das Gesetz nicht verabschiedet wird, könnte die Koalition zusammenbrechen."
+    },
+    {
+      "term": "der Wirtschaftsvertreter",
+      "translated_term": "business representative",
+      "example_usage": "Wirtschaftsvertreter haben gewarnt, dass Deutschland sich im freien Fall befindet."
+    },
+    {
+      "term": "der freie Fall",
+      "translated_term": "free fall",
+      "example_usage": "Wirtschaftsvertreter haben gewarnt, dass Deutschland sich im freien Fall befindet."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Regierungskrise",
+      "translated_name": "Government Crisis"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2025-12-04/merz-in-danger-with-business-warning-germany-is-in-free-fall"
+    },
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20251203/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-97"
+    }
+  ]
+}

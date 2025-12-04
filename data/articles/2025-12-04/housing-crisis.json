@@ -1,0 +1,140 @@
+{
+  "title": "Wohnungskrise in Deutschland verschärft sich",
+  "translated_title": "Housing Crisis in Germany Worsens",
+  "text": [
+    {
+      "text": "Deutschland steht vor einer ernsten Wohnungskrise, die sich weiter verschärft.",
+      "translated_text": "Germany faces a serious housing crisis that continues to worsen."
+    },
+    {
+      "text": "Laut einer neuen Studie des Pestel-Instituts fehlen in Westdeutschland derzeit 1,2 Millionen Wohnungen.",
+      "translated_text": "According to a new study by the Pestel Institute, 1.2 million housing units are currently missing in western Germany."
+    },
+    {
+      "text": "Die Situation ist besonders dramatisch in großen Städten wie München, Frankfurt und Hamburg.",
+      "translated_text": "The situation is particularly dramatic in large cities like Munich, Frankfurt and Hamburg."
+    },
+    {
+      "text": "Zwischen 2023 und 2024 ist der Wohnungsbau in Deutschland um 14,4 Prozent zurückgegangen.",
+      "translated_text": "Between 2023 and 2024, housing construction in Germany decreased by 14.4 percent."
+    },
+    {
+      "text": "Dies bedeutet, dass weniger neue Häuser und Wohnungen gebaut werden als benötigt.",
+      "translated_text": "This means that fewer new houses and apartments are being built than needed."
+    },
+    {
+      "text": "Die hohen Baukosten und gestiegenen Zinsen machen es für Bauunternehmen schwierig, neue Projekte zu realisieren.",
+      "translated_text": "High construction costs and increased interest rates make it difficult for construction companies to realize new projects."
+    },
+    {
+      "text": "Viele junge Familien können sich keine Wohnung mehr leisten.",
+      "translated_text": "Many young families can no longer afford an apartment."
+    },
+    {
+      "text": "Die Mieten sind in den vergangenen Jahren stark gestiegen.",
+      "translated_text": "Rents have risen sharply in recent years."
+    },
+    {
+      "text": "Experten fordern die Regierung auf, mehr zu tun, um den Wohnungsbau zu fördern.",
+      "translated_text": "Experts are calling on the government to do more to promote housing construction."
+    },
+    {
+      "text": "Einige schlagen vor, dass der Staat mehr günstigen Wohnraum bauen sollte.",
+      "translated_text": "Some suggest that the state should build more affordable housing."
+    },
+    {
+      "text": "Andere fordern niedrigere Steuern und weniger Bürokratie für Bauvorhaben.",
+      "translated_text": "Others demand lower taxes and less bureaucracy for construction projects."
+    },
+    {
+      "text": "Die Wohnungskrise ist zu einem der wichtigsten politischen Themen in Deutschland geworden.",
+      "translated_text": "The housing crisis has become one of the most important political issues in Germany."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Wohnungskrise",
+      "translated_term": "housing crisis",
+      "example_usage": "Deutschland steht vor einer ernsten Wohnungskrise, die sich weiter verschärft."
+    },
+    {
+      "term": "fehlen",
+      "translated_term": "to be missing",
+      "example_usage": "Laut einer neuen Studie des Pestel-Instituts fehlen in Westdeutschland derzeit 1,2 Millionen Wohnungen."
+    },
+    {
+      "term": "der Wohnungsbau",
+      "translated_term": "housing construction",
+      "example_usage": "Zwischen 2023 und 2024 ist der Wohnungsbau in Deutschland um 14,4 Prozent zurückgegangen."
+    },
+    {
+      "term": "zurückgehen",
+      "translated_term": "to decrease",
+      "example_usage": "Zwischen 2023 und 2024 ist der Wohnungsbau in Deutschland um 14,4 Prozent zurückgegangen."
+    },
+    {
+      "term": "die Baukosten",
+      "translated_term": "construction costs",
+      "example_usage": "Die hohen Baukosten und gestiegenen Zinsen machen es für Bauunternehmen schwierig, neue Projekte zu realisieren."
+    },
+    {
+      "term": "der Zins",
+      "translated_term": "interest rate",
+      "example_usage": "Die hohen Baukosten und gestiegenen Zinsen machen es für Bauunternehmen schwierig, neue Projekte zu realisieren."
+    },
+    {
+      "term": "sich leisten",
+      "translated_term": "to afford",
+      "example_usage": "Viele junge Familien können sich keine Wohnung mehr leisten."
+    },
+    {
+      "term": "die Miete",
+      "translated_term": "rent",
+      "example_usage": "Die Mieten sind in den vergangenen Jahren stark gestiegen."
+    },
+    {
+      "term": "fördern",
+      "translated_term": "to promote/support",
+      "example_usage": "Experten fordern die Regierung auf, mehr zu tun, um den Wohnungsbau zu fördern."
+    },
+    {
+      "term": "der Wohnraum",
+      "translated_term": "living space/housing",
+      "example_usage": "Einige schlagen vor, dass der Staat mehr günstigen Wohnraum bauen sollte."
+    },
+    {
+      "term": "die Bürokratie",
+      "translated_term": "bureaucracy",
+      "example_usage": "Andere fordern niedrigere Steuern und weniger Bürokratie für Bauvorhaben."
+    },
+    {
+      "term": "das Bauvorhaben",
+      "translated_term": "construction project",
+      "example_usage": "Andere fordern niedrigere Steuern und weniger Bürokratie für Bauvorhaben."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Wohnungskrise",
+      "translated_name": "Housing Crisis"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Research Professional News",
+      "link_url": "https://www.researchprofessionalnews.com/rr-news-europe-germany-2025-12-germany-news-roundup-26-november-to-2-december/"
+    },
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20251203/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-97"
+    }
+  ]
+}

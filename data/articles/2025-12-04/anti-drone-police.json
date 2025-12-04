@@ -1,0 +1,136 @@
+{
+  "title": "Deutschland startet neue Anti-Drohnen-Polizeieinheit",
+  "translated_title": "Germany Launches New Anti-Drone Police Unit",
+  "text": [
+    {
+      "text": "Deutschland hat am Dienstag eine neue Polizeieinheit zur Drohnenabwehr gegründet.",
+      "translated_text": "Germany founded a new police unit for drone defense on Tuesday."
+    },
+    {
+      "text": "Die Einheit soll das Land vor unerlaubten Drohnenflügen schützen.",
+      "translated_text": "The unit is supposed to protect the country from unauthorized drone flights."
+    },
+    {
+      "text": "In letzter Zeit gab es viele Vorfälle mit Drohnen über sensiblen Bereichen.",
+      "translated_text": "Recently there have been many incidents with drones over sensitive areas."
+    },
+    {
+      "text": "Viele dieser Drohnenflüge werden Russland zugeschrieben.",
+      "translated_text": "Many of these drone flights are attributed to Russia."
+    },
+    {
+      "text": "Die neue Bundespolizeieinheit hat ein klares Mandat: Drohnen erkennen, abwehren und notfalls abschießen.",
+      "translated_text": "The new federal police unit has a clear mandate: to detect, defend against, and if necessary shoot down drones."
+    },
+    {
+      "text": "Die Einheit wird mit modernster Technologie ausgestattet sein.",
+      "translated_text": "The unit will be equipped with the most modern technology."
+    },
+    {
+      "text": "Dazu gehören Systeme zur Früherkennung von Drohnen und elektronische Abwehrmaßnahmen.",
+      "translated_text": "This includes systems for early detection of drones and electronic countermeasures."
+    },
+    {
+      "text": "Deutschland reagiert damit auf wachsende Sicherheitsbedenken.",
+      "translated_text": "Germany is thus responding to growing security concerns."
+    },
+    {
+      "text": "Drohnen können für Spionage, Sabotage oder sogar Angriffe verwendet werden.",
+      "translated_text": "Drones can be used for espionage, sabotage or even attacks."
+    },
+    {
+      "text": "Besonders gefährdet sind militärische Einrichtungen, Kraftwerke und Regierungsgebäude.",
+      "translated_text": "Particularly vulnerable are military facilities, power plants and government buildings."
+    },
+    {
+      "text": "Die neue Einheit arbeitet eng mit der Bundeswehr und den Geheimdiensten zusammen.",
+      "translated_text": "The new unit works closely with the Federal Armed Forces and the intelligence services."
+    },
+    {
+      "text": "Experten begrüßen die Initiative als wichtigen Schritt für die nationale Sicherheit.",
+      "translated_text": "Experts welcome the initiative as an important step for national security."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Drohnenabwehr",
+      "translated_term": "drone defense",
+      "example_usage": "Deutschland hat am Dienstag eine neue Polizeieinheit zur Drohnenabwehr gegründet."
+    },
+    {
+      "term": "die Einheit",
+      "translated_term": "unit",
+      "example_usage": "Die Einheit soll das Land vor unerlaubten Drohnenflügen schützen."
+    },
+    {
+      "term": "unerlaubt",
+      "translated_term": "unauthorized",
+      "example_usage": "Die Einheit soll das Land vor unerlaubten Drohnenflügen schützen."
+    },
+    {
+      "term": "der Vorfall",
+      "translated_term": "incident",
+      "example_usage": "In letzter Zeit gab es viele Vorfälle mit Drohnen über sensiblen Bereichen."
+    },
+    {
+      "term": "zuschreiben",
+      "translated_term": "to attribute",
+      "example_usage": "Viele dieser Drohnenflüge werden Russland zugeschrieben."
+    },
+    {
+      "term": "das Mandat",
+      "translated_term": "mandate",
+      "example_usage": "Die neue Bundespolizeieinheit hat ein klares Mandat: Drohnen erkennen, abwehren und notfalls abschießen."
+    },
+    {
+      "term": "abwehren",
+      "translated_term": "to defend against",
+      "example_usage": "Die neue Bundespolizeieinheit hat ein klares Mandat: Drohnen erkennen, abwehren und notfalls abschießen."
+    },
+    {
+      "term": "abschießen",
+      "translated_term": "to shoot down",
+      "example_usage": "Die neue Bundespolizeieinheit hat ein klares Mandat: Drohnen erkennen, abwehren und notfalls abschießen."
+    },
+    {
+      "term": "die Früherkennung",
+      "translated_term": "early detection",
+      "example_usage": "Dazu gehören Systeme zur Früherkennung von Drohnen und elektronische Abwehrmaßnahmen."
+    },
+    {
+      "term": "die Spionage",
+      "translated_term": "espionage",
+      "example_usage": "Drohnen können für Spionage, Sabotage oder sogar Angriffe verwendet werden."
+    },
+    {
+      "term": "gefährdet",
+      "translated_term": "vulnerable/at risk",
+      "example_usage": "Besonders gefährdet sind militärische Einrichtungen, Kraftwerke und Regierungsgebäude."
+    },
+    {
+      "term": "der Geheimdienst",
+      "translated_term": "intelligence service",
+      "example_usage": "Die neue Einheit arbeitet eng mit der Bundeswehr und den Geheimdiensten zusammen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Nationale Sicherheit",
+      "translated_name": "National Security"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20251202/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-101"
+    }
+  ]
+}
