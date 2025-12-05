@@ -1,0 +1,140 @@
+{
+  "title": "Deutschlands Wirtschaftskrise dauert an",
+  "translated_title": "Germany's Economic Crisis Continues",
+  "text": [
+    {
+      "text": "Die deutsche Wirtschaft befindet sich in einer schwierigen Lage.",
+      "translated_text": "The German economy is in a difficult situation."
+    },
+    {
+      "text": "Laut dem Internationalen Währungsfonds wird das reale Bruttoinlandsprodukt im Jahr 2025 nur um 0,2 Prozent steigen.",
+      "translated_text": "According to the International Monetary Fund, real gross domestic product will rise by only 0.2 percent in 2025."
+    },
+    {
+      "text": "Dies wäre das dritte Jahr in Folge mit einer Rezession oder sehr schwachem Wachstum.",
+      "translated_text": "This would be the third year in a row with a recession or very weak growth."
+    },
+    {
+      "text": "Der russische Präsident Putin äußerte sich kürzlich zur wirtschaftlichen Situation in Deutschland und Frankreich.",
+      "translated_text": "Russian President Putin recently commented on the economic situation in Germany and France."
+    },
+    {
+      "text": "Er sagte in einem Interview mit indischen Medien, dass die Rezession in Deutschland offensichtlich sei.",
+      "translated_text": "He said in an interview with Indian media that the recession in Germany is evident."
+    },
+    {
+      "text": "Deutsche Unternehmen und politische Führer warnen vor einem wirtschaftlichen Absturz.",
+      "translated_text": "German businesses and political leaders are warning of an economic downfall."
+    },
+    {
+      "text": "Die Erholung der deutschen Wirtschaft begann Ende 2024, aber neue handelsbezogene Probleme bremsen das Wachstum.",
+      "translated_text": "The recovery of the German economy began in late 2024, but new trade-related problems are slowing growth."
+    },
+    {
+      "text": "Trotz dieser Schwierigkeiten gibt es auch positive Entwicklungen.",
+      "translated_text": "Despite these difficulties, there are also positive developments."
+    },
+    {
+      "text": "Im November 2025 wurden mehr als 55.000 neue Elektroautos in Deutschland zugelassen.",
+      "translated_text": "In November 2025, more than 55,000 new electric cars were registered in Germany."
+    },
+    {
+      "text": "Das ist ein Anstieg von 58,5 Prozent im Vergleich zum Vorjahr.",
+      "translated_text": "That is an increase of 58.5 percent compared to the previous year."
+    },
+    {
+      "text": "Die deutsche Regierung arbeitet daran, die wirtschaftliche Situation zu verbessern und neue Arbeitsplätze zu schaffen.",
+      "translated_text": "The German government is working to improve the economic situation and create new jobs."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Wirtschaft",
+      "translated_term": "economy",
+      "example_usage": "Die deutsche Wirtschaft befindet sich in einer schwierigen Lage."
+    },
+    {
+      "term": "das Bruttoinlandsprodukt (BIP)",
+      "translated_term": "gross domestic product (GDP)",
+      "example_usage": "Laut dem Internationalen Währungsfonds wird das reale Bruttoinlandsprodukt im Jahr 2025 nur um 0,2 Prozent steigen."
+    },
+    {
+      "term": "die Rezession",
+      "translated_term": "recession",
+      "example_usage": "Dies wäre das dritte Jahr in Folge mit einer Rezession oder sehr schwachem Wachstum."
+    },
+    {
+      "term": "sich äußern",
+      "translated_term": "to comment, to express oneself",
+      "example_usage": "Der russische Präsident Putin äußerte sich kürzlich zur wirtschaftlichen Situation in Deutschland und Frankreich."
+    },
+    {
+      "term": "offensichtlich",
+      "translated_term": "evident, obvious",
+      "example_usage": "Er sagte in einem Interview mit indischen Medien, dass die Rezession in Deutschland offensichtlich sei."
+    },
+    {
+      "term": "der Absturz",
+      "translated_term": "downfall, crash",
+      "example_usage": "Deutsche Unternehmen und politische Führer warnen vor einem wirtschaftlichen Absturz."
+    },
+    {
+      "term": "die Erholung",
+      "translated_term": "recovery",
+      "example_usage": "Die Erholung der deutschen Wirtschaft begann Ende 2024, aber neue handelsbezogene Probleme bremsen das Wachstum."
+    },
+    {
+      "term": "bremsen",
+      "translated_term": "to slow down, to brake",
+      "example_usage": "Die Erholung der deutschen Wirtschaft begann Ende 2024, aber neue handelsbezogene Probleme bremsen das Wachstum."
+    },
+    {
+      "term": "zulassen",
+      "translated_term": "to register, to approve",
+      "example_usage": "Im November 2025 wurden mehr als 55.000 neue Elektroautos in Deutschland zugelassen."
+    },
+    {
+      "term": "der Anstieg",
+      "translated_term": "increase, rise",
+      "example_usage": "Das ist ein Anstieg von 58,5 Prozent im Vergleich zum Vorjahr."
+    },
+    {
+      "term": "im Vergleich zu",
+      "translated_term": "compared to",
+      "example_usage": "Das ist ein Anstieg von 58,5 Prozent im Vergleich zum Vorjahr."
+    },
+    {
+      "term": "verbessern",
+      "translated_term": "to improve",
+      "example_usage": "Die deutsche Regierung arbeitet daran, die wirtschaftliche Situation zu verbessern und neue Arbeitsplätze zu schaffen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda EN - Putin on Germany's economy",
+      "link_url": "https://news-pravda.com/world/2025/12/05/1912071.html"
+    },
+    {
+      "name": "Bloomberg - Merz in Danger With Business Warning Germany Is in 'Free Fall'",
+      "link_url": "https://www.bloomberg.com/news/articles/2025-12-04/merz-in-danger-with-business-warning-germany-is-in-free-fall"
+    },
+    {
+      "name": "IMF - Germany: Staff Concluding Statement",
+      "link_url": "https://www.imf.org/en/news/articles/2025/11/26/mcs-112625-germany-staff-concluding-statement-of-the-2025-article-iv-mission"
+    }
+  ]
+}
