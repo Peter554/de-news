@@ -1,0 +1,136 @@
+{
+  "title": "Silvesterfeier am Brandenburger Tor findet doch statt",
+  "translated_title": "New Year's Eve Celebration at Brandenburg Gate Will Take Place After All",
+  "text": [
+    {
+      "text": "Berlin feiert Silvester wieder am Brandenburger Tor.",
+      "translated_text": "Berlin will celebrate New Year's Eve again at the Brandenburg Gate."
+    },
+    {
+      "text": "Die traditionelle Feier wurde zunächst abgesagt, aber Bürgermeister Kai Wegner hat eine Kehrtwende angekündigt.",
+      "translated_text": "The traditional celebration was initially cancelled, but Mayor Kai Wegner has announced a U-turn."
+    },
+    {
+      "text": "Im Juli hatte die Stadtregierung die Veranstaltung abgesagt, weil die Subventionen gekürzt wurden.",
+      "translated_text": "In July, the city government had cancelled the event because subsidies were cut."
+    },
+    {
+      "text": "Jetzt wird die Party doch stattfinden.",
+      "translated_text": "Now the party will take place after all."
+    },
+    {
+      "text": "Ab 22 Uhr wird es eine DJ-Party geben.",
+      "translated_text": "From 10 pm there will be a DJ party."
+    },
+    {
+      "text": "Um Mitternacht beginnt ein siebeneinhalb Minuten langes Feuerwerk.",
+      "translated_text": "At midnight, a seven-and-a-half-minute fireworks display will begin."
+    },
+    {
+      "text": "Das Feuerwerk wird live im Ersten ausgestrahlt.",
+      "translated_text": "The fireworks will be broadcast live on Channel One."
+    },
+    {
+      "text": "Die Veranstaltung dauert von 22 Uhr bis 1 Uhr morgens.",
+      "translated_text": "The event lasts from 10 pm to 1 am."
+    },
+    {
+      "text": "Der Eintritt ist kostenlos, aber Tickets sind ab dem 15. Dezember erhältlich.",
+      "translated_text": "Admission is free, but tickets will be available from December 15."
+    },
+    {
+      "text": "Das ZDF wird seine traditionelle Silvestershow nicht aus Berlin, sondern aus Hamburg senden.",
+      "translated_text": "ZDF will broadcast its traditional New Year's Eve show not from Berlin, but from Hamburg."
+    },
+    {
+      "text": "Viele Berlinerinnen und Berliner freuen sich, dass die Feier am Brandenburger Tor wieder stattfindet.",
+      "translated_text": "Many Berlin residents are happy that the celebration at the Brandenburg Gate is taking place again."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Silvesterfeier",
+      "translated_term": "New Year's Eve celebration",
+      "example_usage": "Silvesterfeier am Brandenburger Tor findet doch statt."
+    },
+    {
+      "term": "das Brandenburger Tor",
+      "translated_term": "Brandenburg Gate",
+      "example_usage": "Berlin feiert Silvester wieder am Brandenburger Tor."
+    },
+    {
+      "term": "absagen",
+      "translated_term": "to cancel",
+      "example_usage": "Die traditionelle Feier wurde zunächst abgesagt, aber Bürgermeister Kai Wegner hat eine Kehrtwende angekündigt."
+    },
+    {
+      "term": "die Kehrtwende",
+      "translated_term": "U-turn, reversal",
+      "example_usage": "Die traditionelle Feier wurde zunächst abgesagt, aber Bürgermeister Kai Wegner hat eine Kehrtwende angekündigt."
+    },
+    {
+      "term": "kürzen",
+      "translated_term": "to cut, to reduce",
+      "example_usage": "Im Juli hatte die Stadtregierung die Veranstaltung abgesagt, weil die Subventionen gekürzt wurden."
+    },
+    {
+      "term": "stattfinden",
+      "translated_term": "to take place",
+      "example_usage": "Jetzt wird die Party doch stattfinden."
+    },
+    {
+      "term": "das Feuerwerk",
+      "translated_term": "fireworks",
+      "example_usage": "Um Mitternacht beginnt ein siebeneinhalb Minuten langes Feuerwerk."
+    },
+    {
+      "term": "ausstrahlen",
+      "translated_term": "to broadcast",
+      "example_usage": "Das Feuerwerk wird live im Ersten ausgestrahlt."
+    },
+    {
+      "term": "dauern",
+      "translated_term": "to last, to take (time)",
+      "example_usage": "Die Veranstaltung dauert von 22 Uhr bis 1 Uhr morgens."
+    },
+    {
+      "term": "der Eintritt",
+      "translated_term": "admission, entry",
+      "example_usage": "Der Eintritt ist kostenlos, aber Tickets sind ab dem 15. Dezember erhältlich."
+    },
+    {
+      "term": "erhältlich",
+      "translated_term": "available",
+      "example_usage": "Der Eintritt ist kostenlos, aber Tickets sind ab dem 15. Dezember erhältlich."
+    },
+    {
+      "term": "sich freuen",
+      "translated_term": "to be happy, to look forward to",
+      "example_usage": "Viele Berlinerinnen und Berliner freuen sich, dass die Feier am Brandenburger Tor wieder stattfindet."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Veranstaltungen",
+      "translated_name": "Events"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de - Berlin celebrates New Year's Eve with fireworks at the Brandenburg Gate",
+      "link_url": "https://www.berlin.de/en/news/10030555-5559700-berlin-celebrates-new-years-eve-with-fir.en.html"
+    },
+    {
+      "name": "Yahoo News - New Year's Eve party to go ahead at Brandenburg Gate after U-turn",
+      "link_url": "https://www.yahoo.com/news/articles/years-eve-party-ahead-brandenburg-110136245.html"
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "title": "Debatte um Rentenreform im Bundestag",
+  "translated_title": "Debate on Pension Reform in the Bundestag",
+  "text": [
+    {
+      "text": "Die deutsche Regierung diskutiert über eine wichtige Rentenreform.",
+      "translated_text": "The German government is discussing an important pension reform."
+    },
+    {
+      "text": "Am Freitag findet die letzte Abstimmung über das Rentenpaket im Bundestag statt.",
+      "translated_text": "On Friday, the final vote on the pension package will take place in the Bundestag."
+    },
+    {
+      "text": "Etwa 18 jüngere CDU-Abgeordnete rebellieren gegen den Gesetzentwurf.",
+      "translated_text": "About 18 younger CDU members of parliament are rebelling against the bill."
+    },
+    {
+      "text": "Sie sind nicht zufrieden mit den geplanten Änderungen.",
+      "translated_text": "They are not satisfied with the planned changes."
+    },
+    {
+      "text": "Bundeskanzler Friedrich Merz führt die Regierungskoalition mit den Sozialdemokraten.",
+      "translated_text": "Chancellor Friedrich Merz leads the government coalition with the Social Democrats."
+    },
+    {
+      "text": "Die Koalition steht wegen dieser Debatte unter Druck.",
+      "translated_text": "The coalition is under pressure because of this debate."
+    },
+    {
+      "text": "Die Partei Die Linke hat beschlossen, sich bei der Abstimmung zu enthalten.",
+      "translated_text": "The Left party has decided to abstain from the vote."
+    },
+    {
+      "text": "Das macht es für die Koalitionsparteien leichter, das Paket zu verabschieden.",
+      "translated_text": "That makes it easier for the coalition parties to pass the package."
+    },
+    {
+      "text": "Die Rentenreform ist ein wichtiges Thema für viele Deutsche.",
+      "translated_text": "Pension reform is an important topic for many Germans."
+    },
+    {
+      "text": "Viele Menschen machen sich Sorgen um ihre finanzielle Zukunft im Alter.",
+      "translated_text": "Many people are worried about their financial future in old age."
+    },
+    {
+      "text": "Die Regierung hofft, mit der Reform das Rentensystem stabiler zu machen.",
+      "translated_text": "The government hopes to make the pension system more stable with the reform."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Rentenreform",
+      "translated_term": "pension reform",
+      "example_usage": "Die deutsche Regierung diskutiert über eine wichtige Rentenreform."
+    },
+    {
+      "term": "die Abstimmung",
+      "translated_term": "vote, voting",
+      "example_usage": "Am Freitag findet die letzte Abstimmung über das Rentenpaket im Bundestag statt."
+    },
+    {
+      "term": "der Bundestag",
+      "translated_term": "Bundestag (German Parliament)",
+      "example_usage": "Am Freitag findet die letzte Abstimmung über das Rentenpaket im Bundestag statt."
+    },
+    {
+      "term": "der Abgeordnete",
+      "translated_term": "member of parliament, representative",
+      "example_usage": "Etwa 18 jüngere CDU-Abgeordnete rebellieren gegen den Gesetzentwurf."
+    },
+    {
+      "term": "rebellieren",
+      "translated_term": "to rebel",
+      "example_usage": "Etwa 18 jüngere CDU-Abgeordnete rebellieren gegen den Gesetzentwurf."
+    },
+    {
+      "term": "der Gesetzentwurf",
+      "translated_term": "bill, draft law",
+      "example_usage": "Etwa 18 jüngere CDU-Abgeordnete rebellieren gegen den Gesetzentwurf."
+    },
+    {
+      "term": "die Koalition",
+      "translated_term": "coalition",
+      "example_usage": "Bundeskanzler Friedrich Merz führt die Regierungskoalition mit den Sozialdemokraten."
+    },
+    {
+      "term": "unter Druck stehen",
+      "translated_term": "to be under pressure",
+      "example_usage": "Die Koalition steht wegen dieser Debatte unter Druck."
+    },
+    {
+      "term": "sich enthalten",
+      "translated_term": "to abstain",
+      "example_usage": "Die Partei Die Linke hat beschlossen, sich bei der Abstimmung zu enthalten."
+    },
+    {
+      "term": "verabschieden",
+      "translated_term": "to pass (a law), to adopt",
+      "example_usage": "Das macht es für die Koalitionsparteien leichter, das Paket zu verabschieden."
+    },
+    {
+      "term": "sich Sorgen machen",
+      "translated_term": "to worry, to be concerned",
+      "example_usage": "Viele Menschen machen sich Sorgen um ihre finanzielle Zukunft im Alter."
+    },
+    {
+      "term": "das Rentensystem",
+      "translated_term": "pension system",
+      "example_usage": "Die Regierung hofft, mit der Reform das Rentensystem stabiler zu machen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local - Today in Germany: Thursday roundup",
+      "link_url": "https://www.thelocal.de/20251204/today-in-germany-a-roundup-of-the-latest-news-on-thursday-98"
+    },
+    {
+      "name": "Bloomberg - Merz in Danger With Business Warning Germany Is in 'Free Fall'",
+      "link_url": "https://www.bloomberg.com/news/articles/2025-12-04/merz-in-danger-with-business-warning-germany-is-in-free-fall"
+    }
+  ]
+}
