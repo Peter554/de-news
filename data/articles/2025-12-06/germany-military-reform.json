@@ -1,0 +1,124 @@
+{
+  "title": "Deutschland führt Wehrpflicht-Reform ein",
+  "translated_title": "Germany Introduces Military Service Reform",
+  "text": [
+    {
+      "text": "Der Deutsche Bundestag hat am Freitag für ein neues Gesetz zur Wehrpflicht gestimmt.",
+      "translated_text": "The German Bundestag voted on Friday for a new law on military service."
+    },
+    {
+      "text": "Die Reform ist eine Reaktion auf die wachsenden Spannungen mit Russland.",
+      "translated_text": "The reform is a response to growing tensions with Russia."
+    },
+    {
+      "text": "Viele europäische Länder wollen weniger abhängig von der amerikanischen Sicherheit werden.",
+      "translated_text": "Many European countries want to become less dependent on American security."
+    },
+    {
+      "text": "Nach dem neuen System werden alle 18-Jährigen ab nächstem Jahr einen Fragebogen erhalten.",
+      "translated_text": "Under the new system, all 18-year-olds will receive a questionnaire from next year."
+    },
+    {
+      "text": "Der Fragebogen fragt nach dem Interesse am Militärdienst.",
+      "translated_text": "The questionnaire asks about interest in military service."
+    },
+    {
+      "text": "Nur für Männer ist es Pflicht, den Fragebogen auszufüllen.",
+      "translated_text": "Only for men is it mandatory to fill out the questionnaire."
+    },
+    {
+      "text": "Ab Juli 2027 müssen alle männlichen 18-Jährigen auch eine militärische Untersuchung durchlaufen.",
+      "translated_text": "From July 2027, all male 18-year-olds must also undergo a military examination."
+    },
+    {
+      "text": "Deutschland möchte damit mehr Rekruten für die Bundeswehr gewinnen.",
+      "translated_text": "Germany aims to attract more recruits for the armed forces with this measure."
+    },
+    {
+      "text": "Die Bundeswehr braucht mehr Soldaten, um ihre Aufgaben zu erfüllen.",
+      "translated_text": "The armed forces need more soldiers to fulfill their missions."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Bundestag",
+      "translated_term": "Federal Parliament",
+      "example_usage": "Der Deutsche Bundestag hat am Freitag für ein neues Gesetz zur Wehrpflicht gestimmt."
+    },
+    {
+      "term": "die Wehrpflicht",
+      "translated_term": "military service / conscription",
+      "example_usage": "Der Deutsche Bundestag hat am Freitag für ein neues Gesetz zur Wehrpflicht gestimmt."
+    },
+    {
+      "term": "die Spannung",
+      "translated_term": "tension",
+      "example_usage": "Die Reform ist eine Reaktion auf die wachsenden Spannungen mit Russland."
+    },
+    {
+      "term": "abhängig",
+      "translated_term": "dependent",
+      "example_usage": "Viele europäische Länder wollen weniger abhängig von der amerikanischen Sicherheit werden."
+    },
+    {
+      "term": "der Fragebogen",
+      "translated_term": "questionnaire",
+      "example_usage": "Nach dem neuen System werden alle 18-Jährigen ab nächstem Jahr einen Fragebogen erhalten."
+    },
+    {
+      "term": "die Pflicht",
+      "translated_term": "duty / obligation",
+      "example_usage": "Nur für Männer ist es Pflicht, den Fragebogen auszufüllen."
+    },
+    {
+      "term": "ausfüllen",
+      "translated_term": "to fill out",
+      "example_usage": "Nur für Männer ist es Pflicht, den Fragebogen auszufüllen."
+    },
+    {
+      "term": "die Untersuchung",
+      "translated_term": "examination",
+      "example_usage": "Ab Juli 2027 müssen alle männlichen 18-Jährigen auch eine militärische Untersuchung durchlaufen."
+    },
+    {
+      "term": "durchlaufen",
+      "translated_term": "to undergo / to go through",
+      "example_usage": "Ab Juli 2027 müssen alle männlichen 18-Jährigen auch eine militärische Untersuchung durchlaufen."
+    },
+    {
+      "term": "der Rekrut",
+      "translated_term": "recruit",
+      "example_usage": "Deutschland möchte damit mehr Rekruten für die Bundeswehr gewinnen."
+    },
+    {
+      "term": "die Bundeswehr",
+      "translated_term": "German Armed Forces",
+      "example_usage": "Deutschland möchte damit mehr Rekruten für die Bundeswehr gewinnen."
+    },
+    {
+      "term": "erfüllen",
+      "translated_term": "to fulfill",
+      "example_usage": "Die Bundeswehr braucht mehr Soldaten, um ihre Aufgaben zu erfüllen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Bundeswehr",
+      "translated_name": "Federal Armed Forces"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN",
+      "link_url": "https://www.cnn.com/2025/12/05/europe/german-parliament-conscription-reform-intl"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "title": "Bundestag verabschiedet Rentenreform",
+  "translated_title": "Bundestag Passes Pension Reform",
+  "text": [
+    {
+      "text": "Am Freitag hat der Deutsche Bundestag ein wichtiges Rentenpaket verabschiedet.",
+      "translated_text": "On Friday, the German Bundestag passed an important pension package."
+    },
+    {
+      "text": "Das Paket enthält drei Gesetze, die das Rentensystem sichern sollen.",
+      "translated_text": "The package contains three laws intended to secure the pension system."
+    },
+    {
+      "text": "Die neuen Regelungen gelten bis mindestens 2031.",
+      "translated_text": "The new regulations apply until at least 2031."
+    },
+    {
+      "text": "Eine wichtige Neuerung ist die sogenannte 'aktive Rente'.",
+      "translated_text": "An important innovation is the so-called 'active pension'."
+    },
+    {
+      "text": "Die aktive Rente ermöglicht es älteren Menschen, flexibler zu arbeiten.",
+      "translated_text": "The active pension allows older people to work more flexibly."
+    },
+    {
+      "text": "Außerdem werden die Leistungen der Mütterrente erweitert.",
+      "translated_text": "In addition, the benefits of the mother's pension are being expanded."
+    },
+    {
+      "text": "Die Mütterrente honoriert die Erziehungszeit von Kindern.",
+      "translated_text": "The mother's pension recognizes time spent raising children."
+    },
+    {
+      "text": "Mit diesen Änderungen will die Regierung das Rentensystem stabilisieren.",
+      "translated_text": "With these changes, the government wants to stabilize the pension system."
+    },
+    {
+      "text": "Deutschland steht wie viele andere Länder vor der Herausforderung einer alternden Gesellschaft.",
+      "translated_text": "Like many other countries, Germany faces the challenge of an aging society."
+    },
+    {
+      "text": "Die Reform soll sicherstellen, dass auch zukünftige Generationen eine sichere Rente erhalten.",
+      "translated_text": "The reform is intended to ensure that future generations also receive a secure pension."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Rentenpaket",
+      "translated_term": "pension package",
+      "example_usage": "Am Freitag hat der Deutsche Bundestag ein wichtiges Rentenpaket verabschiedet."
+    },
+    {
+      "term": "enthalten",
+      "translated_term": "to contain",
+      "example_usage": "Das Paket enthält drei Gesetze, die das Rentensystem sichern sollen."
+    },
+    {
+      "term": "sichern",
+      "translated_term": "to secure",
+      "example_usage": "Das Paket enthält drei Gesetze, die das Rentensystem sichern sollen."
+    },
+    {
+      "term": "die Regelung",
+      "translated_term": "regulation / rule",
+      "example_usage": "Die neuen Regelungen gelten bis mindestens 2031."
+    },
+    {
+      "term": "gelten",
+      "translated_term": "to apply / to be valid",
+      "example_usage": "Die neuen Regelungen gelten bis mindestens 2031."
+    },
+    {
+      "term": "die Neuerung",
+      "translated_term": "innovation / new feature",
+      "example_usage": "Eine wichtige Neuerung ist die sogenannte 'aktive Rente'."
+    },
+    {
+      "term": "ermöglichen",
+      "translated_term": "to enable / to make possible",
+      "example_usage": "Die aktive Rente ermöglicht es älteren Menschen, flexibler zu arbeiten."
+    },
+    {
+      "term": "die Leistung",
+      "translated_term": "benefit / service",
+      "example_usage": "Außerdem werden die Leistungen der Mütterrente erweitert."
+    },
+    {
+      "term": "erweitern",
+      "translated_term": "to expand",
+      "example_usage": "Außerdem werden die Leistungen der Mütterrente erweitert."
+    },
+    {
+      "term": "honorieren",
+      "translated_term": "to recognize / to honor",
+      "example_usage": "Die Mütterrente honoriert die Erziehungszeit von Kindern."
+    },
+    {
+      "term": "stabilisieren",
+      "translated_term": "to stabilize",
+      "example_usage": "Mit diesen Änderungen will die Regierung das Rentensystem stabilisieren."
+    },
+    {
+      "term": "alternde Gesellschaft",
+      "translated_term": "aging society",
+      "example_usage": "Deutschland steht wie viele andere Länder vor der Herausforderung einer alternden Gesellschaft."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Sozialpolitik",
+      "translated_name": "Social Policy"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Germany News Search",
+      "link_url": "https://news-pravda.com/eu/2025/12/06/1914831.html"
+    }
+  ]
+}
