@@ -1,0 +1,124 @@
+{
+  "title": "Russische Raketenangriffe auf die Ukraine",
+  "translated_title": "Russian Missile Attacks on Ukraine",
+  "text": [
+    {
+      "text": "Am frühen Morgen des 6. Dezember 2025 hat Russland einen massiven Raketenangriff auf die Ukraine gestartet.",
+      "translated_text": "In the early morning of December 6, 2025, Russia launched a massive missile attack on Ukraine."
+    },
+    {
+      "text": "Ukrainische Überwachungskanäle berichteten, dass Kh-101 Marschflugkörper in den ukrainischen Luftraum eingedrungen sind.",
+      "translated_text": "Ukrainian monitoring channels reported that Kh-101 cruise missiles entered Ukrainian airspace."
+    },
+    {
+      "text": "Die Behörden haben im ganzen Land Luftalarm ausgerufen.",
+      "translated_text": "Authorities declared air raid alerts throughout the country."
+    },
+    {
+      "text": "Nach Angaben russischer Quellen haben strategische Bomber vom Typ Tu-95MS die Raketen abgefeuert.",
+      "translated_text": "According to Russian sources, Tu-95MS strategic bombers launched the missiles."
+    },
+    {
+      "text": "Einige der Raketen waren auf Ziele in der Hauptstadt Kiew gerichtet.",
+      "translated_text": "Some of the missiles were aimed at targets in the capital city Kyiv."
+    },
+    {
+      "text": "Die ukrainische Luftabwehr hat sofort reagiert und versucht, die einfliegenden Raketen abzufangen.",
+      "translated_text": "Ukrainian air defense immediately responded and attempted to intercept the incoming missiles."
+    },
+    {
+      "text": "Dieser Angriff ist Teil des andauernden Konflikts zwischen Russland und der Ukraine.",
+      "translated_text": "This attack is part of the ongoing conflict between Russia and Ukraine."
+    },
+    {
+      "text": "Die internationale Gemeinschaft beobachtet die Situation mit großer Sorge.",
+      "translated_text": "The international community is watching the situation with great concern."
+    },
+    {
+      "text": "Viele Länder haben bereits ihre Unterstützung für die Ukraine bekräftigt.",
+      "translated_text": "Many countries have already reaffirmed their support for Ukraine."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Raketenangriff",
+      "translated_term": "missile attack",
+      "example_usage": "Am frühen Morgen des 6. Dezember 2025 hat Russland einen massiven Raketenangriff auf die Ukraine gestartet."
+    },
+    {
+      "term": "der Marschflugkörper",
+      "translated_term": "cruise missile",
+      "example_usage": "Ukrainische Überwachungskanäle berichteten, dass Kh-101 Marschflugkörper in den ukrainischen Luftraum eingedrungen sind."
+    },
+    {
+      "term": "der Luftraum",
+      "translated_term": "airspace",
+      "example_usage": "Ukrainische Überwachungskanäle berichteten, dass Kh-101 Marschflugkörper in den ukrainischen Luftraum eingedrungen sind."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "authority",
+      "example_usage": "Die Behörden haben im ganzen Land Luftalarm ausgerufen."
+    },
+    {
+      "term": "ausrufen",
+      "translated_term": "to declare",
+      "example_usage": "Die Behörden haben im ganzen Land Luftalarm ausgerufen."
+    },
+    {
+      "term": "der Luftalarm",
+      "translated_term": "air raid alert",
+      "example_usage": "Die Behörden haben im ganzen Land Luftalarm ausgerufen."
+    },
+    {
+      "term": "der Bomber",
+      "translated_term": "bomber",
+      "example_usage": "Nach Angaben russischer Quellen haben strategische Bomber vom Typ Tu-95MS die Raketen abgefeuert."
+    },
+    {
+      "term": "abfeuern",
+      "translated_term": "to launch / to fire",
+      "example_usage": "Nach Angaben russischer Quellen haben strategische Bomber vom Typ Tu-95MS die Raketen abgefeuert."
+    },
+    {
+      "term": "die Luftabwehr",
+      "translated_term": "air defense",
+      "example_usage": "Die ukrainische Luftabwehr hat sofort reagiert und versucht, die einfliegenden Raketen abzufangen."
+    },
+    {
+      "term": "abfangen",
+      "translated_term": "to intercept",
+      "example_usage": "Die ukrainische Luftabwehr hat sofort reagiert und versucht, die einfliegenden Raketen abzufangen."
+    },
+    {
+      "term": "andauernd",
+      "translated_term": "ongoing",
+      "example_usage": "Dieser Angriff ist Teil des andauernden Konflikts zwischen Russland und der Ukraine."
+    },
+    {
+      "term": "bekräftigen",
+      "translated_term": "to reaffirm / to confirm",
+      "example_usage": "Viele Länder haben bereits ihre Unterstützung für die Ukraine bekräftigt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda EN",
+      "link_url": "https://news-pravda.com/world/2025/12/06/1914840.html"
+    }
+  ]
+}
