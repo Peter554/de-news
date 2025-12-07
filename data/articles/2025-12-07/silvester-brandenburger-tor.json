@@ -1,0 +1,155 @@
+{
+  "title": "Silvesterfeier am Brandenburger Tor findet statt",
+  "translated_title": "New Year's Eve celebration at Brandenburg Gate to take place",
+  "text": [
+    {
+      "text": "In Berlin wird es zu Silvester doch eine große Party am Brandenburger Tor geben.",
+      "translated_text": "In Berlin there will be a big party at the Brandenburg Gate on New Year's Eve after all."
+    },
+    {
+      "text": "Bürgermeister Kai Wegner hat die Entscheidung rückgängig gemacht.",
+      "translated_text": "Mayor Kai Wegner reversed the decision."
+    },
+    {
+      "text": "Im Juli hatte die Stadtregierung die traditionelle Feier abgesagt.",
+      "translated_text": "In July, the city government had cancelled the traditional celebration."
+    },
+    {
+      "text": "Der Grund waren Kürzungen bei den staatlichen Zuschüssen.",
+      "translated_text": "The reason was cuts to government subsidies."
+    },
+    {
+      "text": "Jetzt findet die Feier aber wieder statt.",
+      "translated_text": "Now the celebration is taking place again."
+    },
+    {
+      "text": "Es wird ein Feuerwerk und eine DJ-Party geben.",
+      "translated_text": "There will be fireworks and a DJ party."
+    },
+    {
+      "text": "Etwa 20.000 Menschen können ins neue Jahr tanzen.",
+      "translated_text": "Around 20,000 people can dance into the new year."
+    },
+    {
+      "text": "Die Veranstaltung beginnt am 31. Dezember um 22 Uhr und dauert bis 1 Uhr morgens.",
+      "translated_text": "The event begins on December 31 at 10 pm and lasts until 1 am."
+    },
+    {
+      "text": "Der Eintritt ist kostenlos, aber man braucht eine Eintrittskarte.",
+      "translated_text": "Admission is free, but you need a ticket."
+    },
+    {
+      "text": "Die Tickets sind ab dem 15. Dezember erhältlich.",
+      "translated_text": "The tickets are available from December 15."
+    },
+    {
+      "text": "Das Brandenburger Tor ist ein beliebter Ort für Silvester in Berlin.",
+      "translated_text": "The Brandenburg Gate is a popular place for New Year's Eve in Berlin."
+    },
+    {
+      "text": "Viele Berliner und Touristen freuen sich, dass die Party wieder stattfindet.",
+      "translated_text": "Many Berliners and tourists are happy that the party is taking place again."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Silvesterfeier",
+      "translated_term": "New Year's Eve celebration",
+      "example_usage": "Silvesterfeier am Brandenburger Tor findet statt."
+    },
+    {
+      "term": "stattfinden",
+      "translated_term": "to take place",
+      "example_usage": "Silvesterfeier am Brandenburger Tor findet statt."
+    },
+    {
+      "term": "das Brandenburger Tor",
+      "translated_term": "Brandenburg Gate",
+      "example_usage": "Silvesterfeier am Brandenburger Tor findet statt."
+    },
+    {
+      "term": "der Bürgermeister",
+      "translated_term": "mayor",
+      "example_usage": "Bürgermeister Kai Wegner hat die Entscheidung rückgängig gemacht."
+    },
+    {
+      "term": "rückgängig machen",
+      "translated_term": "to reverse",
+      "example_usage": "Bürgermeister Kai Wegner hat die Entscheidung rückgängig gemacht."
+    },
+    {
+      "term": "absagen",
+      "translated_term": "to cancel",
+      "example_usage": "Im Juli hatte die Stadtregierung die traditionelle Feier abgesagt."
+    },
+    {
+      "term": "die Kürzung",
+      "translated_term": "cut, reduction",
+      "example_usage": "Der Grund waren Kürzungen bei den staatlichen Zuschüssen."
+    },
+    {
+      "term": "der Zuschuss",
+      "translated_term": "subsidy",
+      "example_usage": "Der Grund waren Kürzungen bei den staatlichen Zuschüssen."
+    },
+    {
+      "term": "das Feuerwerk",
+      "translated_term": "fireworks",
+      "example_usage": "Es wird ein Feuerwerk und eine DJ-Party geben."
+    },
+    {
+      "term": "die Veranstaltung",
+      "translated_term": "event",
+      "example_usage": "Die Veranstaltung beginnt am 31. Dezember um 22 Uhr und dauert bis 1 Uhr morgens."
+    },
+    {
+      "term": "der Eintritt",
+      "translated_term": "admission",
+      "example_usage": "Der Eintritt ist kostenlos, aber man braucht eine Eintrittskarte."
+    },
+    {
+      "term": "kostenlos",
+      "translated_term": "free",
+      "example_usage": "Der Eintritt ist kostenlos, aber man braucht eine Eintrittskarte."
+    },
+    {
+      "term": "die Eintrittskarte",
+      "translated_term": "ticket",
+      "example_usage": "Der Eintritt ist kostenlos, aber man braucht eine Eintrittskarte."
+    },
+    {
+      "term": "erhältlich",
+      "translated_term": "available",
+      "example_usage": "Die Tickets sind ab dem 15. Dezember erhältlich."
+    },
+    {
+      "term": "sich freuen",
+      "translated_term": "to be happy",
+      "example_usage": "Viele Berliner und Touristen freuen sich, dass die Party wieder stattfindet."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Veranstaltungen",
+      "translated_name": "Events"
+    },
+    {
+      "name": "Kultur",
+      "translated_name": "Culture"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Yahoo News",
+      "link_url": "https://www.yahoo.com/news/articles/years-eve-party-ahead-brandenburg-110136245.html"
+    },
+    {
+      "name": "Berlin.de",
+      "link_url": "https://www.berlin.de/en/news/10030555-5559700-berlin-celebrates-new-years-eve-with-fir.en.html"
+    }
+  ]
+}
