@@ -1,0 +1,132 @@
+{
+  "title": "Friedensgespräche in London zur Ukraine",
+  "translated_title": "Peace Talks in London on Ukraine",
+  "text": [
+    {
+      "text": "Am Montag, den 8. Dezember, treffen sich wichtige europäische Staatschefs in London.",
+      "translated_text": "On Monday, December 8th, important European heads of state are meeting in London."
+    },
+    {
+      "text": "Der britische Premierminister Keir Starmer empfängt den ukrainischen Präsidenten Wolodymyr Selenskyj, den deutschen Bundeskanzler Friedrich Merz und den französischen Präsidenten Emmanuel Macron.",
+      "translated_text": "British Prime Minister Keir Starmer is receiving Ukrainian President Volodymyr Zelensky, German Chancellor Friedrich Merz, and French President Emmanuel Macron."
+    },
+    {
+      "text": "Dies ist das erste Treffen im E3-plus-Ukraine-Format auf höchster Ebene.",
+      "translated_text": "This is the first meeting in the E3-plus-Ukraine format at the highest level."
+    },
+    {
+      "text": "Das Ziel der Gespräche ist es, eine gemeinsame europäische Position für Friedensverhandlungen zu entwickeln.",
+      "translated_text": "The goal of the talks is to develop a common European position for peace negotiations."
+    },
+    {
+      "text": "Die europäischen Länder möchten eine einheitliche Strategie zeigen, um den Krieg in der Ukraine zu beenden.",
+      "translated_text": "The European countries want to show a unified strategy to end the war in Ukraine."
+    },
+    {
+      "text": "Für Deutschland ist dies besonders wichtig, da Bundeskanzler Merz erst seit kurzem im Amt ist.",
+      "translated_text": "For Germany, this is particularly important, as Chancellor Merz has only recently taken office."
+    },
+    {
+      "text": "Das Treffen findet in der Downing Street statt, dem offiziellen Wohnsitz des britischen Premierministers.",
+      "translated_text": "The meeting takes place at Downing Street, the official residence of the British Prime Minister."
+    },
+    {
+      "text": "Nach Angaben des Élysée-Palastes ist dies ein wichtiger Schritt zur Koordination der europäischen Unterstützung für die Ukraine.",
+      "translated_text": "According to the Élysée Palace, this is an important step toward coordinating European support for Ukraine."
+    },
+    {
+      "text": "Die Gespräche kommen zu einer kritischen Zeit, da Russland seine Angriffe auf ukrainische Städte in den letzten Tagen verstärkt hat.",
+      "translated_text": "The talks come at a critical time, as Russia has intensified its attacks on Ukrainian cities in recent days."
+    },
+    {
+      "text": "Experten hoffen, dass das Treffen neue Impulse für eine diplomatische Lösung des Konflikts geben kann.",
+      "translated_text": "Experts hope that the meeting can provide new momentum for a diplomatic solution to the conflict."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Staatschef",
+      "translated_term": "head of state",
+      "example_usage": "Am Montag, den 8. Dezember, treffen sich wichtige europäische Staatschefs in London."
+    },
+    {
+      "term": "empfangen",
+      "translated_term": "to receive",
+      "example_usage": "Der britische Premierminister Keir Starmer empfängt den ukrainischen Präsidenten Wolodymyr Selenskyj."
+    },
+    {
+      "term": "das Treffen",
+      "translated_term": "meeting",
+      "example_usage": "Dies ist das erste Treffen im E3-plus-Ukraine-Format auf höchster Ebene."
+    },
+    {
+      "term": "die Friedensverhandlung",
+      "translated_term": "peace negotiation",
+      "example_usage": "Das Ziel der Gespräche ist es, eine gemeinsame europäische Position für Friedensverhandlungen zu entwickeln."
+    },
+    {
+      "term": "entwickeln",
+      "translated_term": "to develop",
+      "example_usage": "Das Ziel der Gespräche ist es, eine gemeinsame europäische Position für Friedensverhandlungen zu entwickeln."
+    },
+    {
+      "term": "einheitlich",
+      "translated_term": "unified",
+      "example_usage": "Die europäischen Länder möchten eine einheitliche Strategie zeigen."
+    },
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "Chancellor",
+      "example_usage": "Für Deutschland ist dies besonders wichtig, da Bundeskanzler Merz erst seit kurzem im Amt ist."
+    },
+    {
+      "term": "im Amt sein",
+      "translated_term": "to be in office",
+      "example_usage": "Bundeskanzler Merz ist erst seit kurzem im Amt."
+    },
+    {
+      "term": "die Unterstützung",
+      "translated_term": "support",
+      "example_usage": "Dies ist ein wichtiger Schritt zur Koordination der europäischen Unterstützung für die Ukraine."
+    },
+    {
+      "term": "verstärken",
+      "translated_term": "to intensify",
+      "example_usage": "Russland hat seine Angriffe auf ukrainische Städte in den letzten Tagen verstärkt."
+    },
+    {
+      "term": "der Impuls",
+      "translated_term": "momentum/impulse",
+      "example_usage": "Experten hoffen, dass das Treffen neue Impulse für eine diplomatische Lösung des Konflikts geben kann."
+    },
+    {
+      "term": "die Lösung",
+      "translated_term": "solution",
+      "example_usage": "Das Treffen kann neue Impulse für eine diplomatische Lösung des Konflikts geben."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Mezha",
+      "link_url": "https://mezha.net/eng/bukvy/ukraine-and-european-leaders-to-meet-in-london-for-peace-talks-on-december-8/"
+    },
+    {
+      "name": "GOV.UK",
+      "link_url": "https://www.gov.uk/government/news/pm-call-with-prime-minister-schoof-of-netherlands-7-december-2025"
+    }
+  ]
+}
