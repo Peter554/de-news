@@ -1,0 +1,128 @@
+{
+  "title": "Ungewöhnlich warmes Dezemberwetter in Deutschland",
+  "translated_title": "Unusually Warm December Weather in Germany",
+  "text": [
+    {
+      "text": "Deutschland erlebt am Montag, den 8. Dezember, außergewöhnlich milde Temperaturen für diese Jahreszeit.",
+      "translated_text": "Germany is experiencing exceptionally mild temperatures for this time of year on Monday, December 8th."
+    },
+    {
+      "text": "Die Temperaturen steigen auf bis zu 17 Grad Celsius, was für Anfang Dezember sehr ungewöhnlich ist.",
+      "translated_text": "Temperatures are rising to up to 17 degrees Celsius, which is very unusual for early December."
+    },
+    {
+      "text": "Normalerweise liegen die Temperaturen im Dezember zwischen null und fünf Grad.",
+      "translated_text": "Normally, temperatures in December are between zero and five degrees."
+    },
+    {
+      "text": "In vielen Regionen Deutschlands scheint heute die Sonne, besonders im Süden des Landes.",
+      "translated_text": "The sun is shining today in many regions of Germany, especially in the south of the country."
+    },
+    {
+      "text": "Im Norden und Westen gibt es jedoch auch Regen und Wolken.",
+      "translated_text": "In the north and west, however, there is also rain and clouds."
+    },
+    {
+      "text": "Meteorologen sagen, dass dies ein Zeichen des Klimawandels sein könnte.",
+      "translated_text": "Meteorologists say that this could be a sign of climate change."
+    },
+    {
+      "text": "Warme Dezembertemperaturen werden in Deutschland immer häufiger.",
+      "translated_text": "Warm December temperatures are becoming increasingly common in Germany."
+    },
+    {
+      "text": "Viele Menschen genießen das milde Wetter und gehen spazieren oder Rad fahren.",
+      "translated_text": "Many people are enjoying the mild weather and going for walks or cycling."
+    },
+    {
+      "text": "Für die Natur kann das warme Wetter jedoch problematisch sein.",
+      "translated_text": "For nature, however, the warm weather can be problematic."
+    },
+    {
+      "text": "Pflanzen und Tiere sind manchmal verwirrt, weil sie denken, es sei schon Frühling.",
+      "translated_text": "Plants and animals are sometimes confused because they think it's already spring."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "erleben",
+      "translated_term": "to experience",
+      "example_usage": "Deutschland erlebt am Montag außergewöhnlich milde Temperaturen."
+    },
+    {
+      "term": "außergewöhnlich",
+      "translated_term": "exceptional/extraordinary",
+      "example_usage": "Deutschland erlebt außergewöhnlich milde Temperaturen."
+    },
+    {
+      "term": "die Jahreszeit",
+      "translated_term": "season",
+      "example_usage": "Die Temperaturen sind sehr ungewöhnlich für diese Jahreszeit."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise",
+      "example_usage": "Die Temperaturen steigen auf bis zu 17 Grad Celsius."
+    },
+    {
+      "term": "scheinen",
+      "translated_term": "to shine",
+      "example_usage": "In vielen Regionen Deutschlands scheint heute die Sonne."
+    },
+    {
+      "term": "der Meteorologe",
+      "translated_term": "meteorologist",
+      "example_usage": "Meteorologen sagen, dass dies ein Zeichen des Klimawandels sein könnte."
+    },
+    {
+      "term": "der Klimawandel",
+      "translated_term": "climate change",
+      "example_usage": "Dies könnte ein Zeichen des Klimawandels sein."
+    },
+    {
+      "term": "immer häufiger",
+      "translated_term": "increasingly common",
+      "example_usage": "Warme Dezembertemperaturen werden in Deutschland immer häufiger."
+    },
+    {
+      "term": "genießen",
+      "translated_term": "to enjoy",
+      "example_usage": "Viele Menschen genießen das milde Wetter."
+    },
+    {
+      "term": "spazieren gehen",
+      "translated_term": "to go for a walk",
+      "example_usage": "Viele Menschen gehen spazieren."
+    },
+    {
+      "term": "verwirrt",
+      "translated_term": "confused",
+      "example_usage": "Pflanzen und Tiere sind manchmal verwirrt."
+    },
+    {
+      "term": "der Frühling",
+      "translated_term": "spring",
+      "example_usage": "Die Tiere denken, es sei schon Frühling."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Klimapolitik",
+      "translated_name": "Climate Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wetter.com",
+      "link_url": "https://www.wetter.com/news/wetterbericht-fuer-morgen-montag-8-dezember-2025-zweistellige-temperaturen-sonne-und-regen_aid_693546332d9ded6c06032698.html"
+    }
+  ]
+}
