@@ -1,0 +1,144 @@
+{
+  "title": "Neue Zugverbindung zum Berliner Flughafen",
+  "translated_title": "New Train Connection to Berlin Airport",
+  "text": [
+    {
+      "text": "Ab dem 14. Dezember 2025 startet in Berlin eine neue Bahnverbindung zum Flughafen BER.",
+      "translated_text": "From December 14, 2025, a new rail connection to BER airport starts in Berlin."
+    },
+    {
+      "text": "Die neue Strecke heißt \"Dresdner Bahn\" und verbindet wichtige Stationen in der Stadt.",
+      "translated_text": "The new route is called 'Dresdner Bahn' and connects important stations in the city."
+    },
+    {
+      "text": "Der Airport Express (FEX) fährt jetzt vom Hauptbahnhof über Potsdamer Platz und Südkreuz direkt zum Flughafen.",
+      "translated_text": "The Airport Express (FEX) now travels from the main station via Potsdamer Platz and Südkreuz directly to the airport."
+    },
+    {
+      "text": "Die Fahrt vom Hauptbahnhof zum Flughafen dauert nur noch 23 Minuten.",
+      "translated_text": "The journey from the main station to the airport now takes only 23 minutes."
+    },
+    {
+      "text": "Das ist fast die Hälfte der früheren Fahrzeit.",
+      "translated_text": "That is almost half of the previous travel time."
+    },
+    {
+      "text": "Die Züge fahren alle 15 Minuten, was sehr praktisch für Reisende ist.",
+      "translated_text": "The trains run every 15 minutes, which is very convenient for travelers."
+    },
+    {
+      "text": "Aber es gibt auch eine wichtige Änderung: Der FEX hält nicht mehr an den Stationen Gesundbrunnen und Ostkreuz.",
+      "translated_text": "But there is also an important change: The FEX no longer stops at Gesundbrunnen and Ostkreuz stations."
+    },
+    {
+      "text": "Die neue Bahnstrecke bietet auch bessere Verbindungen nach Brandenburg.",
+      "translated_text": "The new railway line also offers better connections to Brandenburg."
+    },
+    {
+      "text": "Ein neuer Regionalzug, der RB20, verbindet Dresden mit Berlin in nur zwei Stunden.",
+      "translated_text": "A new regional train, the RB20, connects Dresden with Berlin in just two hours."
+    },
+    {
+      "text": "Das Infrastrukturprojekt hat rund 560 Millionen Euro gekostet.",
+      "translated_text": "The infrastructure project cost around 560 million euros."
+    },
+    {
+      "text": "Es ist die größte neue Bahnverbindung in der Region seit vielen Jahren.",
+      "translated_text": "It is the largest new rail connection in the region in many years."
+    },
+    {
+      "text": "Für die Menschen in Berlin bedeutet die neue Strecke weniger Stress beim Weg zum Flughafen.",
+      "translated_text": "For the people in Berlin, the new route means less stress on the way to the airport."
+    },
+    {
+      "text": "Touristen und Geschäftsreisende können jetzt schneller und bequemer reisen.",
+      "translated_text": "Tourists and business travelers can now travel faster and more comfortably."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bahnverbindung",
+      "translated_term": "rail connection",
+      "example_usage": "Ab dem 14. Dezember 2025 startet in Berlin eine neue Bahnverbindung zum Flughafen BER."
+    },
+    {
+      "term": "der Flughafen",
+      "translated_term": "airport",
+      "example_usage": "Der Airport Express fährt jetzt vom Hauptbahnhof direkt zum Flughafen."
+    },
+    {
+      "term": "die Strecke",
+      "translated_term": "route",
+      "example_usage": "Die neue Strecke heißt 'Dresdner Bahn' und verbindet wichtige Stationen in der Stadt."
+    },
+    {
+      "term": "der Hauptbahnhof",
+      "translated_term": "main train station",
+      "example_usage": "Die Fahrt vom Hauptbahnhof zum Flughafen dauert nur noch 23 Minuten."
+    },
+    {
+      "term": "dauern",
+      "translated_term": "to take (time), to last",
+      "example_usage": "Die Fahrt vom Hauptbahnhof zum Flughafen dauert nur noch 23 Minuten."
+    },
+    {
+      "term": "die Fahrzeit",
+      "translated_term": "travel time",
+      "example_usage": "Das ist fast die Hälfte der früheren Fahrzeit."
+    },
+    {
+      "term": "praktisch",
+      "translated_term": "practical, convenient",
+      "example_usage": "Die Züge fahren alle 15 Minuten, was sehr praktisch für Reisende ist."
+    },
+    {
+      "term": "halten",
+      "translated_term": "to stop",
+      "example_usage": "Der FEX hält nicht mehr an den Stationen Gesundbrunnen und Ostkreuz."
+    },
+    {
+      "term": "verbinden",
+      "translated_term": "to connect",
+      "example_usage": "Ein neuer Regionalzug verbindet Dresden mit Berlin in nur zwei Stunden."
+    },
+    {
+      "term": "das Infrastrukturprojekt",
+      "translated_term": "infrastructure project",
+      "example_usage": "Das Infrastrukturprojekt hat rund 560 Millionen Euro gekostet."
+    },
+    {
+      "term": "kosten",
+      "translated_term": "to cost",
+      "example_usage": "Das Infrastrukturprojekt hat rund 560 Millionen Euro gekostet."
+    },
+    {
+      "term": "der Geschäftsreisende",
+      "translated_term": "business traveler",
+      "example_usage": "Touristen und Geschäftsreisende können jetzt schneller und bequemer reisen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local",
+      "link_url": "https://www.thelocal.de/20251208/dresdner-bahn-opening-improves-railway-connections-to-berlin-airport"
+    },
+    {
+      "name": "Berlin.de",
+      "link_url": "https://www.berlin.de/en/news/9845791-5559700-dresden-railroad-brings-better-connectio.en.html"
+    }
+  ]
+}

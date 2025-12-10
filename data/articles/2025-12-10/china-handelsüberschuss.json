@@ -1,0 +1,156 @@
+{
+  "title": "Chinas Handelsüberschuss erreicht historische Marke",
+  "translated_title": "China's Trade Surplus Reaches Historic Milestone",
+  "text": [
+    {
+      "text": "China hat im Jahr 2025 einen wichtigen Rekord erreicht.",
+      "translated_text": "China achieved an important record in the year 2025."
+    },
+    {
+      "text": "Der Handelsüberschuss des Landes überschritt zum ersten Mal die Marke von einer Billion US-Dollar.",
+      "translated_text": "The country's trade surplus exceeded the mark of one trillion US dollars for the first time."
+    },
+    {
+      "text": "Das bedeutet, dass China viel mehr Waren exportiert als importiert.",
+      "translated_text": "This means that China exports much more goods than it imports."
+    },
+    {
+      "text": "Die chinesische Zollbehörde veröffentlichte die Zahlen am 8. Dezember 2025.",
+      "translated_text": "The Chinese customs authority published the figures on December 8, 2025."
+    },
+    {
+      "text": "In den ersten elf Monaten des Jahres wuchsen die Exporte um 5,4 Prozent im Vergleich zu 2024.",
+      "translated_text": "In the first eleven months of the year, exports grew by 5.4 percent compared to 2024."
+    },
+    {
+      "text": "Gleichzeitig sanken die Importe um 0,6 Prozent.",
+      "translated_text": "At the same time, imports fell by 0.6 percent."
+    },
+    {
+      "text": "Der Handelsüberschuss stieg damit auf 1,076 Billionen Dollar.",
+      "translated_text": "The trade surplus thus rose to 1.076 trillion dollars."
+    },
+    {
+      "text": "Dieser Erfolg kommt trotz hoher Zölle aus den USA.",
+      "translated_text": "This success comes despite high tariffs from the USA."
+    },
+    {
+      "text": "Die USA haben große Steuern auf chinesische Waren erhoben.",
+      "translated_text": "The USA has imposed large taxes on Chinese goods."
+    },
+    {
+      "text": "Die Exporte nach Amerika sind im November um 29 Prozent gesunken.",
+      "translated_text": "Exports to America fell by 29 percent in November."
+    },
+    {
+      "text": "Aber China hat eine Lösung gefunden: Es verkauft jetzt mehr Produkte nach Europa, Afrika und Asien.",
+      "translated_text": "But China has found a solution: It now sells more products to Europe, Africa, and Asia."
+    },
+    {
+      "text": "Die Exporte in die Europäische Union stiegen im November um 14,8 Prozent.",
+      "translated_text": "Exports to the European Union rose by 14.8 percent in November."
+    },
+    {
+      "text": "Nach Australien wurden 35,8 Prozent mehr Waren verkauft.",
+      "translated_text": "35.8 percent more goods were sold to Australia."
+    },
+    {
+      "text": "Ein wichtiger Grund für den Erfolg sind High-Tech-Produkte, besonders Elektroautos.",
+      "translated_text": "An important reason for the success is high-tech products, especially electric cars."
+    },
+    {
+      "text": "China ist heute einer der größten Exporteure von Elektrofahrzeugen weltweit.",
+      "translated_text": "China is today one of the largest exporters of electric vehicles worldwide."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Handelsüberschuss",
+      "translated_term": "trade surplus",
+      "example_usage": "Der Handelsüberschuss des Landes überschritt zum ersten Mal die Marke von einer Billion US-Dollar."
+    },
+    {
+      "term": "erreichen",
+      "translated_term": "to reach, to achieve",
+      "example_usage": "China hat im Jahr 2025 einen wichtigen Rekord erreicht."
+    },
+    {
+      "term": "überschreiten",
+      "translated_term": "to exceed, to surpass",
+      "example_usage": "Der Handelsüberschuss überschritt zum ersten Mal die Marke von einer Billion US-Dollar."
+    },
+    {
+      "term": "exportieren",
+      "translated_term": "to export",
+      "example_usage": "Das bedeutet, dass China viel mehr Waren exportiert als importiert."
+    },
+    {
+      "term": "importieren",
+      "translated_term": "to import",
+      "example_usage": "Das bedeutet, dass China viel mehr Waren exportiert als importiert."
+    },
+    {
+      "term": "die Zollbehörde",
+      "translated_term": "customs authority",
+      "example_usage": "Die chinesische Zollbehörde veröffentlichte die Zahlen am 8. Dezember 2025."
+    },
+    {
+      "term": "wachsen",
+      "translated_term": "to grow",
+      "example_usage": "In den ersten elf Monaten des Jahres wuchsen die Exporte um 5,4 Prozent."
+    },
+    {
+      "term": "sinken",
+      "translated_term": "to fall, to decrease",
+      "example_usage": "Gleichzeitig sanken die Importe um 0,6 Prozent."
+    },
+    {
+      "term": "der Zoll",
+      "translated_term": "tariff, customs duty",
+      "example_usage": "Dieser Erfolg kommt trotz hoher Zölle aus den USA."
+    },
+    {
+      "term": "erheben",
+      "translated_term": "to impose, to levy",
+      "example_usage": "Die USA haben große Steuern auf chinesische Waren erhoben."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise, to increase",
+      "example_usage": "Die Exporte in die Europäische Union stiegen im November um 14,8 Prozent."
+    },
+    {
+      "term": "das Elektroauto",
+      "translated_term": "electric car",
+      "example_usage": "Ein wichtiger Grund für den Erfolg sind High-Tech-Produkte, besonders Elektroautos."
+    }
+  ],
+  "tags": [
+    {
+      "name": "China",
+      "translated_name": "China"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR",
+      "link_url": "https://www.npr.org/2025/12/08/nx-s1-5637270/china-trade-surplus-tariffs"
+    },
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2025-12-08/china-exports-return-to-growth-as-trade-surplus-tops-1-trillion"
+    },
+    {
+      "name": "Washington Post",
+      "link_url": "https://www.washingtonpost.com/world/2025/12/08/china-trade-surplus-record/"
+    }
+  ]
+}
