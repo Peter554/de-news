@@ -1,0 +1,147 @@
+{
+  "title": "Ukraine-Konflikt: Diplomatische Gespräche und Drohnenangriffe",
+  "translated_title": "Ukraine Conflict: Diplomatic Talks and Drone Attacks",
+  "text": [
+    {
+      "text": "Am 11. Dezember 2025 berichtete das russische Verteidigungsministerium über nächtliche Drohnenangriffe.",
+      "translated_text": "On December 11, 2025, the Russian Defense Ministry reported overnight drone attacks."
+    },
+    {
+      "text": "Insgesamt wurden 287 ukrainische Drohnen über verschiedenen russischen Regionen abgefangen und zerstört.",
+      "translated_text": "In total, 287 Ukrainian drones were intercepted and destroyed over various Russian regions."
+    },
+    {
+      "text": "Davon zielten 32 Drohnen auf Moskau ab.",
+      "translated_text": "Of these, 32 drones were targeting Moscow."
+    },
+    {
+      "text": "Gleichzeitig fanden wichtige diplomatische Gespräche statt.",
+      "translated_text": "At the same time, important diplomatic talks took place."
+    },
+    {
+      "text": "Der amerikanische Präsident Donald Trump sprach mit den Regierungschefs von Deutschland, Frankreich und Großbritannien.",
+      "translated_text": "American President Donald Trump spoke with the heads of government of Germany, France, and Great Britain."
+    },
+    {
+      "text": "Die Gespräche über die Ukraine wurden als \"hart\" beschrieben.",
+      "translated_text": "The talks about Ukraine were described as 'tough.'"
+    },
+    {
+      "text": "Trump sagte, dass eine Lösung \"in kurzer Zeit\" möglich sein könnte.",
+      "translated_text": "Trump said that a solution could be possible 'in a short time.'"
+    },
+    {
+      "text": "Die USA haben Europa Vorschläge geschickt, um Russland wieder in die Weltwirtschaft zu integrieren.",
+      "translated_text": "The USA has sent Europe proposals to reintegrate Russia into the global economy."
+    },
+    {
+      "text": "Diese Vorschläge beinhalten auch die Wiederherstellung von Energielieferungen.",
+      "translated_text": "These proposals also include the restoration of energy supplies."
+    },
+    {
+      "text": "Der Konflikt hat große Auswirkungen auf die internationale Politik und Sicherheit.",
+      "translated_text": "The conflict has major impacts on international politics and security."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Verteidigungsministerium",
+      "translated_term": "Defense Ministry",
+      "example_usage": "Am 11. Dezember 2025 berichtete das russische Verteidigungsministerium über nächtliche Drohnenangriffe."
+    },
+    {
+      "term": "berichten",
+      "translated_term": "to report",
+      "example_usage": "Am 11. Dezember 2025 berichtete das russische Verteidigungsministerium über nächtliche Drohnenangriffe."
+    },
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "Insgesamt wurden 287 ukrainische Drohnen über verschiedenen russischen Regionen abgefangen und zerstört."
+    },
+    {
+      "term": "abfangen",
+      "translated_term": "to intercept",
+      "example_usage": "Insgesamt wurden 287 ukrainische Drohnen über verschiedenen russischen Regionen abgefangen und zerstört."
+    },
+    {
+      "term": "zerstören",
+      "translated_term": "to destroy",
+      "example_usage": "Insgesamt wurden 287 ukrainische Drohnen über verschiedenen russischen Regionen abgefangen und zerstört."
+    },
+    {
+      "term": "abzielen auf",
+      "translated_term": "to target",
+      "example_usage": "Davon zielten 32 Drohnen auf Moskau ab."
+    },
+    {
+      "term": "stattfinden",
+      "translated_term": "to take place",
+      "example_usage": "Gleichzeitig fanden wichtige diplomatische Gespräche statt."
+    },
+    {
+      "term": "der Regierungschef",
+      "translated_term": "head of government",
+      "example_usage": "Der amerikanische Präsident Donald Trump sprach mit den Regierungschefs von Deutschland, Frankreich und Großbritannien."
+    },
+    {
+      "term": "hart",
+      "translated_term": "tough / hard",
+      "example_usage": "Die Gespräche über die Ukraine wurden als \"hart\" beschrieben."
+    },
+    {
+      "term": "die Lösung",
+      "translated_term": "solution",
+      "example_usage": "Trump sagte, dass eine Lösung \"in kurzer Zeit\" möglich sein könnte."
+    },
+    {
+      "term": "der Vorschlag",
+      "translated_term": "proposal",
+      "example_usage": "Die USA haben Europa Vorschläge geschickt, um Russland wieder in die Weltwirtschaft zu integrieren."
+    },
+    {
+      "term": "integrieren",
+      "translated_term": "to integrate",
+      "example_usage": "Die USA haben Europa Vorschläge geschickt, um Russland wieder in die Weltwirtschaft zu integrieren."
+    },
+    {
+      "term": "die Weltwirtschaft",
+      "translated_term": "global economy",
+      "example_usage": "Die USA haben Europa Vorschläge geschickt, um Russland wieder in die Weltwirtschaft zu integrieren."
+    },
+    {
+      "term": "die Wiederherstellung",
+      "translated_term": "restoration",
+      "example_usage": "Diese Vorschläge beinhalten auch die Wiederherstellung von Energielieferungen."
+    },
+    {
+      "term": "die Auswirkung",
+      "translated_term": "impact",
+      "example_usage": "Der Konflikt hat große Auswirkungen auf die internationale Politik und Sicherheit."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda EN",
+      "link_url": "https://news-pravda.com/world/2025/12/11/1926735.html"
+    },
+    {
+      "name": "Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/germany/2025/12/11/103191.html"
+    }
+  ]
+}
