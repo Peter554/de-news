@@ -1,0 +1,151 @@
+{
+  "title": "Ölpipeline-Leck in Brandenburg",
+  "translated_title": "Oil Pipeline Leak in Brandenburg",
+  "text": [
+    {
+      "text": "Am Mittwoch, den 10. Dezember, ist in Brandenburg eine Ölpipeline beschädigt worden.",
+      "translated_text": "On Wednesday, December 10th, an oil pipeline was damaged in Brandenburg."
+    },
+    {
+      "text": "Mindestens 200.000 Liter Rohöl sind aus der Pipeline ausgetreten.",
+      "translated_text": "At least 200,000 liters of crude oil leaked from the pipeline."
+    },
+    {
+      "text": "Der Unfall ereignete sich bei Gramzow im Landkreis Uckermark während Arbeiten an der Pipeline.",
+      "translated_text": "The accident occurred near Gramzow in the Uckermark district during work on the pipeline."
+    },
+    {
+      "text": "Das Öl spritzte mit einem Druck von etwa 20 Bar aus einem kleinen Leck an einer Pumpstation.",
+      "translated_text": "The oil sprayed out from a small leak at a pumping station with a pressure of about 20 bars."
+    },
+    {
+      "text": "Zwei Arbeiter wurden bei dem Vorfall verletzt.",
+      "translated_text": "Two workers were injured in the incident."
+    },
+    {
+      "text": "Ungefähr 100 Feuerwehrleute und 25 Mitarbeiter der PCK-Raffinerie, der die Pipeline gehört, waren vor Ort.",
+      "translated_text": "Approximately 100 firefighters and 25 employees from the PCK refinery, which owns the pipeline, were on site."
+    },
+    {
+      "text": "Spezielle Saugfahrzeuge wurden eingesetzt, um das Öl von einem nassen Feld zu sammeln.",
+      "translated_text": "Special suction vehicles were deployed to collect the oil from a wet field."
+    },
+    {
+      "text": "Bis 19:45 Uhr war das Leck größtenteils abgedichtet, aber es trat noch etwas Öl aus.",
+      "translated_text": "By 7:45 PM, the leak was mostly sealed, but some oil was still leaking out."
+    },
+    {
+      "text": "Die Aufräumarbeiten sollten bis Donnerstagmorgen weitergehen.",
+      "translated_text": "The cleanup operations were expected to continue until Thursday morning."
+    },
+    {
+      "text": "Dies ist ein ernsthafter Umweltunfall in der Region Brandenburg.",
+      "translated_text": "This is a serious environmental accident in the Brandenburg region."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Pipeline",
+      "translated_term": "pipeline",
+      "example_usage": "Am Mittwoch, den 10. Dezember, ist in Brandenburg eine Ölpipeline beschädigt worden."
+    },
+    {
+      "term": "das Leck",
+      "translated_term": "leak",
+      "example_usage": "Das Öl spritzte mit einem Druck von etwa 20 Bar aus einem kleinen Leck an einer Pumpstation."
+    },
+    {
+      "term": "austreten",
+      "translated_term": "to leak out",
+      "example_usage": "Mindestens 200.000 Liter Rohöl sind aus der Pipeline ausgetreten."
+    },
+    {
+      "term": "das Rohöl",
+      "translated_term": "crude oil",
+      "example_usage": "Mindestens 200.000 Liter Rohöl sind aus der Pipeline ausgetreten."
+    },
+    {
+      "term": "sich ereignen",
+      "translated_term": "to occur",
+      "example_usage": "Der Unfall ereignete sich bei Gramzow im Landkreis Uckermark während Arbeiten an der Pipeline."
+    },
+    {
+      "term": "der Landkreis",
+      "translated_term": "district",
+      "example_usage": "Der Unfall ereignete sich bei Gramzow im Landkreis Uckermark während Arbeiten an der Pipeline."
+    },
+    {
+      "term": "der Druck",
+      "translated_term": "pressure",
+      "example_usage": "Das Öl spritzte mit einem Druck von etwa 20 Bar aus einem kleinen Leck an einer Pumpstation."
+    },
+    {
+      "term": "verletzen",
+      "translated_term": "to injure",
+      "example_usage": "Zwei Arbeiter wurden bei dem Vorfall verletzt."
+    },
+    {
+      "term": "die Feuerwehr",
+      "translated_term": "fire brigade",
+      "example_usage": "Ungefähr 100 Feuerwehrleute und 25 Mitarbeiter der PCK-Raffinerie, der die Pipeline gehört, waren vor Ort."
+    },
+    {
+      "term": "die Raffinerie",
+      "translated_term": "refinery",
+      "example_usage": "Ungefähr 100 Feuerwehrleute und 25 Mitarbeiter der PCK-Raffinerie, der die Pipeline gehört, waren vor Ort."
+    },
+    {
+      "term": "das Saugfahrzeug",
+      "translated_term": "suction vehicle",
+      "example_usage": "Spezielle Saugfahrzeuge wurden eingesetzt, um das Öl von einem nassen Feld zu sammeln."
+    },
+    {
+      "term": "einsetzen",
+      "translated_term": "to deploy",
+      "example_usage": "Spezielle Saugfahrzeuge wurden eingesetzt, um das Öl von einem nassen Feld zu sammeln."
+    },
+    {
+      "term": "abdichten",
+      "translated_term": "to seal",
+      "example_usage": "Bis 19:45 Uhr war das Leck größtenteils abgedichtet, aber es trat noch etwas Öl aus."
+    },
+    {
+      "term": "die Aufräumarbeiten",
+      "translated_term": "cleanup operations",
+      "example_usage": "Die Aufräumarbeiten sollten bis Donnerstagmorgen weitergehen."
+    },
+    {
+      "term": "der Umweltunfall",
+      "translated_term": "environmental accident",
+      "example_usage": "Dies ist ein ernsthafter Umweltunfall in der Region Brandenburg."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Umweltschutz",
+      "translated_name": "Environmental Protection"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Xinhua",
+      "link_url": "https://english.news.cn/20251211/bf9200cee138422ebafaeaa0959a53fe/c.html"
+    },
+    {
+      "name": "Yahoo News",
+      "link_url": "https://www.yahoo.com/news/articles/fire-brigade-over-200-000-201029873.html"
+    },
+    {
+      "name": "Pravda EN",
+      "link_url": "https://news-pravda.com/world/2025/12/10/1926224.html"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "title": "Berliner Polizei erhält erweiterte Überwachungsbefugnisse",
+  "translated_title": "Berlin Police Receives Expanded Surveillance Powers",
+  "text": [
+    {
+      "text": "Am 4. Dezember verabschiedete das Berliner Abgeordnetenhaus eine wichtige Gesetzesänderung.",
+      "translated_text": "On December 4, the Berlin House of Representatives passed an important legislative amendment."
+    },
+    {
+      "text": "Die Koalition von CDU und SPD stimmte zusammen mit der Opposition AfD für die Änderung.",
+      "translated_text": "The coalition of CDU and SPD voted together with the opposition AfD for the amendment."
+    },
+    {
+      "text": "Es handelt sich um eine weitreichende Änderung des Allgemeinen Sicherheits- und Ordnungsgesetzes (ASOG).",
+      "translated_text": "It concerns a far-reaching amendment to the General Security and Public Order Act (ASOG)."
+    },
+    {
+      "text": "Das neue Gesetz erlaubt der Polizei, heimlich in Wohnungen einzudringen.",
+      "translated_text": "The new law allows the police to secretly enter homes."
+    },
+    {
+      "text": "Die Polizei darf dort Überwachungstrojaner installieren, um verschlüsselte Kommunikation zu überwachen.",
+      "translated_text": "The police may install surveillance trojans there to monitor encrypted communications."
+    },
+    {
+      "text": "Diese Befugnisse greifen tief in die Grundrechte der Bürger ein.",
+      "translated_text": "These powers deeply infringe on citizens' fundamental rights."
+    },
+    {
+      "text": "Der Landesdatenschutzbeauftragte hat die Maßnahme stark kritisiert.",
+      "translated_text": "The state data protection commissioner has strongly criticized the measure."
+    },
+    {
+      "text": "Auch Bürgerrechtsgruppen sind gegen das neue Gesetz.",
+      "translated_text": "Civil rights groups are also against the new law."
+    },
+    {
+      "text": "Die Kritiker sagen, dass die Maßnahmen zu weit gehen und gefährlich sind.",
+      "translated_text": "Critics say the measures go too far and are dangerous."
+    },
+    {
+      "text": "Das Gesetz ist ein wichtiges Thema in der Debatte über Sicherheit und Privatsphäre.",
+      "translated_text": "The law is an important topic in the debate about security and privacy."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "verabschieden",
+      "translated_term": "to pass (a law)",
+      "example_usage": "Am 4. Dezember verabschiedete das Berliner Abgeordnetenhaus eine wichtige Gesetzesänderung."
+    },
+    {
+      "term": "das Abgeordnetenhaus",
+      "translated_term": "House of Representatives",
+      "example_usage": "Am 4. Dezember verabschiedete das Berliner Abgeordnetenhaus eine wichtige Gesetzesänderung."
+    },
+    {
+      "term": "die Gesetzesänderung",
+      "translated_term": "legislative amendment",
+      "example_usage": "Am 4. Dezember verabschiedete das Berliner Abgeordnetenhaus eine wichtige Gesetzesänderung."
+    },
+    {
+      "term": "die Koalition",
+      "translated_term": "coalition",
+      "example_usage": "Die Koalition von CDU und SPD stimmte zusammen mit der Opposition AfD für die Änderung."
+    },
+    {
+      "term": "weitreichend",
+      "translated_term": "far-reaching",
+      "example_usage": "Es handelt sich um eine weitreichende Änderung des Allgemeinen Sicherheits- und Ordnungsgesetzes (ASOG)."
+    },
+    {
+      "term": "erlauben",
+      "translated_term": "to allow",
+      "example_usage": "Das neue Gesetz erlaubt der Polizei, heimlich in Wohnungen einzudringen."
+    },
+    {
+      "term": "heimlich",
+      "translated_term": "secretly",
+      "example_usage": "Das neue Gesetz erlaubt der Polizei, heimlich in Wohnungen einzudringen."
+    },
+    {
+      "term": "eindringen",
+      "translated_term": "to enter / to intrude",
+      "example_usage": "Das neue Gesetz erlaubt der Polizei, heimlich in Wohnungen einzudringen."
+    },
+    {
+      "term": "der Überwachungstrojaner",
+      "translated_term": "surveillance trojan",
+      "example_usage": "Die Polizei darf dort Überwachungstrojaner installieren, um verschlüsselte Kommunikation zu überwachen."
+    },
+    {
+      "term": "verschlüsselt",
+      "translated_term": "encrypted",
+      "example_usage": "Die Polizei darf dort Überwachungstrojaner installieren, um verschlüsselte Kommunikation zu überwachen."
+    },
+    {
+      "term": "die Befugnis",
+      "translated_term": "power / authority",
+      "example_usage": "Diese Befugnisse greifen tief in die Grundrechte der Bürger ein."
+    },
+    {
+      "term": "eingreifen",
+      "translated_term": "to infringe / to intervene",
+      "example_usage": "Diese Befugnisse greifen tief in die Grundrechte der Bürger ein."
+    },
+    {
+      "term": "das Grundrecht",
+      "translated_term": "fundamental right",
+      "example_usage": "Diese Befugnisse greifen tief in die Grundrechte der Bürger ein."
+    },
+    {
+      "term": "der Datenschutzbeauftragte",
+      "translated_term": "data protection commissioner",
+      "example_usage": "Der Landesdatenschutzbeauftragte hat die Maßnahme stark kritisiert."
+    },
+    {
+      "term": "die Privatsphäre",
+      "translated_term": "privacy",
+      "example_usage": "Das Gesetz ist ein wichtiges Thema in der Debatte über Sicherheit und Privatsphäre."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Datenschutz",
+      "translated_name": "Data Privacy"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Left Berlin",
+      "link_url": "https://www.theleftberlin.com/news-from-berlin-and-germany-10th-december-2025/"
+    }
+  ]
+}
