@@ -1,0 +1,140 @@
+{
+  "title": "Kroatien kauft deutsche Leopard-Panzer",
+  "translated_title": "Croatia buys German Leopard tanks",
+  "text": [
+    {
+      "text": "Am 10. Dezember unterzeichnete Kroatien einen wichtigen Vertrag mit Deutschland.",
+      "translated_text": "On December 10, Croatia signed an important contract with Germany."
+    },
+    {
+      "text": "Das Land kauft 44 moderne Leopard 2A8 Kampfpanzer.",
+      "translated_text": "The country is buying 44 modern Leopard 2A8 battle tanks."
+    },
+    {
+      "text": "Der kroatische Premierminister Andrej Plenković reiste nach Berlin, wo er vom deutschen Bundeskanzler Friedrich Merz mit militärischen Ehren empfangen wurde.",
+      "translated_text": "Croatian Prime Minister Andrej Plenković traveled to Berlin, where he was received by German Chancellor Friedrich Merz with military honors."
+    },
+    {
+      "text": "Der gesamte Vertrag hat einen Wert von 1,48 Milliarden Euro.",
+      "translated_text": "The entire contract has a value of 1.48 billion euros."
+    },
+    {
+      "text": "Das Paket umfasst nicht nur die Panzer, sondern auch Simulatoren und Unterstützungsdienste.",
+      "translated_text": "The package includes not only the tanks, but also simulators and support services."
+    },
+    {
+      "text": "Die Europäische Union hilft Kroatien bei der Finanzierung.",
+      "translated_text": "The European Union is helping Croatia with financing."
+    },
+    {
+      "text": "Über eine Milliarde Euro kommen aus dem EU-SAFE-Instrument zwischen 2026 und 2030.",
+      "translated_text": "Over one billion euros will come from the EU SAFE instrument between 2026 and 2030."
+    },
+    {
+      "text": "Die ersten Panzer werden 2028 geliefert, die letzten 2030.",
+      "translated_text": "The first tanks will be delivered in 2028, the last in 2030."
+    },
+    {
+      "text": "Interessant ist, dass Deutschland Kroatien 144,8 Millionen Euro gezahlt hat.",
+      "translated_text": "Interestingly, Germany has paid Croatia 144.8 million euros."
+    },
+    {
+      "text": "Dieser Betrag gleicht den Wert der älteren M-84 Panzer aus, die Kroatien 2024 an die Ukraine geliefert hat.",
+      "translated_text": "This amount offsets the value of the older M-84 tanks that Croatia delivered to Ukraine in 2024."
+    },
+    {
+      "text": "Kroatien modernisiert damit seine Armee und ersetzt alte sowjetische Ausrüstung durch moderne NATO-Technologie.",
+      "translated_text": "Croatia is thus modernizing its army and replacing old Soviet equipment with modern NATO technology."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "unterzeichnen",
+      "translated_term": "to sign",
+      "example_usage": "Kroatien unterzeichnete einen wichtigen Vertrag mit Deutschland."
+    },
+    {
+      "term": "der Kampfpanzer",
+      "translated_term": "battle tank",
+      "example_usage": "Das Land kauft 44 moderne Leopard 2A8 Kampfpanzer."
+    },
+    {
+      "term": "der Premierminister",
+      "translated_term": "Prime Minister",
+      "example_usage": "Der kroatische Premierminister Andrej Plenković reiste nach Berlin."
+    },
+    {
+      "term": "empfangen",
+      "translated_term": "to receive",
+      "example_usage": "Er wurde vom deutschen Bundeskanzler mit militärischen Ehren empfangen."
+    },
+    {
+      "term": "militärische Ehren",
+      "translated_term": "military honors",
+      "example_usage": "Er wurde mit militärischen Ehren empfangen."
+    },
+    {
+      "term": "der Wert",
+      "translated_term": "value",
+      "example_usage": "Der gesamte Vertrag hat einen Wert von 1,48 Milliarden Euro."
+    },
+    {
+      "term": "umfassen",
+      "translated_term": "to include",
+      "example_usage": "Das Paket umfasst nicht nur die Panzer, sondern auch Simulatoren."
+    },
+    {
+      "term": "die Finanzierung",
+      "translated_term": "financing",
+      "example_usage": "Die Europäische Union hilft Kroatien bei der Finanzierung."
+    },
+    {
+      "term": "liefern",
+      "translated_term": "to deliver",
+      "example_usage": "Die ersten Panzer werden 2028 geliefert."
+    },
+    {
+      "term": "ausgleichen",
+      "translated_term": "to offset",
+      "example_usage": "Dieser Betrag gleicht den Wert der älteren M-84 Panzer aus."
+    },
+    {
+      "term": "modernisieren",
+      "translated_term": "to modernize",
+      "example_usage": "Kroatien modernisiert damit seine Armee."
+    },
+    {
+      "term": "ersetzen",
+      "translated_term": "to replace",
+      "example_usage": "Kroatien ersetzt alte sowjetische Ausrüstung durch moderne NATO-Technologie."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Kroatien",
+      "translated_name": "Croatia"
+    },
+    {
+      "name": "NATO",
+      "translated_name": "NATO"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Defense News",
+      "link_url": "https://www.defensenews.com/global/europe/2025/12/11/croatia-buys-german-leopard-tanks-using-eu-loans/"
+    },
+    {
+      "name": "Army Recognition",
+      "link_url": "https://www.armyrecognition.com/news/army-news/2025/breaking-news-croatia-signs-leopard-2a8-tank-deal-with-germany-in-landmark-defense-modernization-move"
+    },
+    {
+      "name": "Deutschland.de",
+      "link_url": "https://www.deutschland.de/en/news/germany-news-today-foreign-policy"
+    }
+  ]
+}

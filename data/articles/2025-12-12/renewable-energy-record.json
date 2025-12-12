@@ -1,0 +1,137 @@
+{
+  "title": "Deutschland erreicht 56 Prozent erneuerbare Energien",
+  "translated_title": "Germany reaches 56 percent renewable energy",
+  "text": [
+    {
+      "text": "Deutschland hat 2025 einen neuen Rekord bei erneuerbaren Energien erreicht.",
+      "translated_text": "Germany reached a new record for renewable energy in 2025."
+    },
+    {
+      "text": "Fast 56 Prozent des gesamten Stromverbrauchs kam aus erneuerbaren Quellen.",
+      "translated_text": "Almost 56 percent of total electricity consumption came from renewable sources."
+    },
+    {
+      "text": "Das sind 0,7 Prozentpunkte mehr als im Jahr 2024.",
+      "translated_text": "That's 0.7 percentage points more than in 2024."
+    },
+    {
+      "text": "Diese Zahlen kommen vom Bundesverband der Energie- und Wasserwirtschaft (BDEW) und dem Zentrum für Sonnenenergie- und Wasserstoff-Forschung (ZSW).",
+      "translated_text": "These figures come from the Federal Association of Energy and Water Industries (BDEW) and the Center for Solar Energy and Hydrogen Research (ZSW)."
+    },
+    {
+      "text": "Besonders die Solarenergie hat stark zugenommen.",
+      "translated_text": "Solar energy in particular has increased sharply."
+    },
+    {
+      "text": "Deutschland hat die Kapazität für Solarstrom deutlich ausgebaut.",
+      "translated_text": "Germany has significantly expanded its solar power capacity."
+    },
+    {
+      "text": "Die Windenergie hatte allerdings einen schwachen Start ins Jahr.",
+      "translated_text": "Wind energy, however, had a weak start to the year."
+    },
+    {
+      "text": "Das erste Quartal 2025 war für Windkraft historisch schwach.",
+      "translated_text": "The first quarter of 2025 was historically weak for wind power."
+    },
+    {
+      "text": "Trotzdem konnte der Anteil erneuerbarer Energien steigen, weil die Solarenergie so stark wuchs.",
+      "translated_text": "Nevertheless, the share of renewable energy was able to increase because solar energy grew so strongly."
+    },
+    {
+      "text": "Dieser Erfolg ist wichtig für Deutschlands Klimaziele.",
+      "translated_text": "This success is important for Germany's climate goals."
+    },
+    {
+      "text": "Deutschland möchte in Zukunft noch mehr auf erneuerbare Energien setzen und weniger fossile Brennstoffe verwenden.",
+      "translated_text": "Germany wants to rely even more on renewable energy in the future and use fewer fossil fuels."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "erneuerbare Energien",
+      "translated_term": "renewable energy",
+      "example_usage": "Deutschland hat 2025 einen neuen Rekord bei erneuerbaren Energien erreicht."
+    },
+    {
+      "term": "der Stromverbrauch",
+      "translated_term": "electricity consumption",
+      "example_usage": "Fast 56 Prozent des gesamten Stromverbrauchs kam aus erneuerbaren Quellen."
+    },
+    {
+      "term": "die Quelle",
+      "translated_term": "source",
+      "example_usage": "Fast 56 Prozent des Stromverbrauchs kam aus erneuerbaren Quellen."
+    },
+    {
+      "term": "der Prozentpunkt",
+      "translated_term": "percentage point",
+      "example_usage": "Das sind 0,7 Prozentpunkte mehr als im Jahr 2024."
+    },
+    {
+      "term": "der Bundesverband",
+      "translated_term": "Federal Association",
+      "example_usage": "Diese Zahlen kommen vom Bundesverband der Energie- und Wasserwirtschaft."
+    },
+    {
+      "term": "die Solarenergie",
+      "translated_term": "solar energy",
+      "example_usage": "Besonders die Solarenergie hat stark zugenommen."
+    },
+    {
+      "term": "zunehmen",
+      "translated_term": "to increase",
+      "example_usage": "Die Solarenergie hat stark zugenommen."
+    },
+    {
+      "term": "die Kapazität",
+      "translated_term": "capacity",
+      "example_usage": "Deutschland hat die Kapazität für Solarstrom deutlich ausgebaut."
+    },
+    {
+      "term": "ausbauen",
+      "translated_term": "to expand",
+      "example_usage": "Deutschland hat die Kapazität für Solarstrom deutlich ausgebaut."
+    },
+    {
+      "term": "die Windenergie",
+      "translated_term": "wind energy",
+      "example_usage": "Die Windenergie hatte allerdings einen schwachen Start ins Jahr."
+    },
+    {
+      "term": "das Quartal",
+      "translated_term": "quarter (three months)",
+      "example_usage": "Das erste Quartal 2025 war für Windkraft historisch schwach."
+    },
+    {
+      "term": "das Klimaziel",
+      "translated_term": "climate goal",
+      "example_usage": "Dieser Erfolg ist wichtig für Deutschlands Klimaziele."
+    },
+    {
+      "term": "fossile Brennstoffe",
+      "translated_term": "fossil fuels",
+      "example_usage": "Deutschland möchte weniger fossile Brennstoffe verwenden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Erneuerbare Energien",
+      "translated_name": "Renewable Energy"
+    },
+    {
+      "name": "Klimapolitik",
+      "translated_name": "Climate Policy"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Clean Energy Wire",
+      "link_url": "https://www.cleanenergywire.org/news/germany-covers-nearly-56-percent-2025-electricity-use-renewables"
+    }
+  ]
+}

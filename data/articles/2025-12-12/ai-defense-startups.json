@@ -1,0 +1,145 @@
+{
+  "title": "KI-Boom in der Verteidigungsindustrie",
+  "translated_title": "AI boom in the defense industry",
+  "text": [
+    {
+      "text": "Deutschland und Großbritannien werden zu wichtigen Zentren für künstliche Intelligenz in der Verteidigungsindustrie.",
+      "translated_text": "Germany and Great Britain are becoming important centers for artificial intelligence in the defense industry."
+    },
+    {
+      "text": "Seit 2022 haben Investoren mehr als 4,3 Milliarden Dollar in europäische Verteidigungs-Startups investiert.",
+      "translated_text": "Since 2022, investors have invested more than 4.3 billion dollars in European defense startups."
+    },
+    {
+      "text": "Das ist fast viermal so viel wie in den vier Jahren davor.",
+      "translated_text": "That's almost four times as much as in the four years before."
+    },
+    {
+      "text": "Das deutsche Unternehmen Helsing ist der klare Marktführer.",
+      "translated_text": "The German company Helsing is the clear market leader."
+    },
+    {
+      "text": "Im Juni sammelte Helsing 600 Millionen Euro ein – die größte Finanzierungsrunde für ein europäisches Verteidigungsstartup überhaupt.",
+      "translated_text": "In June, Helsing raised 600 million euros - the largest funding round for a European defense startup ever."
+    },
+    {
+      "text": "Das Unternehmen entwickelt KI-Drohnen und hat jetzt einen Wert von 12 Milliarden Euro.",
+      "translated_text": "The company develops AI drones and now has a value of 12 billion euros."
+    },
+    {
+      "text": "Ein anderes deutsches Startup, Quantum Systems, ist auf 3 Milliarden Euro gewachsen.",
+      "translated_text": "Another German startup, Quantum Systems, has grown to 3 billion euros."
+    },
+    {
+      "text": "Quantum Systems erwartet, dass sich der Umsatz 2025 fast verdreifacht – auf 300 Millionen Euro.",
+      "translated_text": "Quantum Systems expects sales to almost triple in 2025 - to 300 million euros."
+    },
+    {
+      "text": "In Großbritannien gibt es auch erfolgreiche Startups.",
+      "translated_text": "There are also successful startups in Great Britain."
+    },
+    {
+      "text": "PhysicsX sammelte 155 Millionen Dollar für ihre Software-Plattform.",
+      "translated_text": "PhysicsX raised 155 million dollars for their software platform."
+    },
+    {
+      "text": "Der Grund für diesen Boom ist klar: Die NATO-Mitglieder haben vereinbart, ihre Verteidigungsausgaben auf 5 Prozent des BIP zu erhöhen.",
+      "translated_text": "The reason for this boom is clear: NATO members have agreed to increase their defense spending to 5 percent of GDP."
+    },
+    {
+      "text": "Deutschland kündigte an, ab 2026 über 100 Milliarden Euro für Verteidigung auszugeben.",
+      "translated_text": "Germany announced it would spend over 100 billion euros on defense from 2026."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "künstliche Intelligenz",
+      "translated_term": "artificial intelligence",
+      "example_usage": "Deutschland und Großbritannien werden zu wichtigen Zentren für künstliche Intelligenz in der Verteidigungsindustrie."
+    },
+    {
+      "term": "die Verteidigungsindustrie",
+      "translated_term": "defense industry",
+      "example_usage": "Deutschland wird zu einem wichtigen Zentrum für künstliche Intelligenz in der Verteidigungsindustrie."
+    },
+    {
+      "term": "der Investor",
+      "translated_term": "investor",
+      "example_usage": "Seit 2022 haben Investoren mehr als 4,3 Milliarden Dollar investiert."
+    },
+    {
+      "term": "investieren",
+      "translated_term": "to invest",
+      "example_usage": "Investoren haben mehr als 4,3 Milliarden Dollar in europäische Verteidigungs-Startups investiert."
+    },
+    {
+      "term": "das Startup",
+      "translated_term": "startup",
+      "example_usage": "Investoren haben mehr als 4,3 Milliarden Dollar in europäische Verteidigungs-Startups investiert."
+    },
+    {
+      "term": "der Marktführer",
+      "translated_term": "market leader",
+      "example_usage": "Das deutsche Unternehmen Helsing ist der klare Marktführer."
+    },
+    {
+      "term": "einsammeln",
+      "translated_term": "to raise (money)",
+      "example_usage": "Im Juni sammelte Helsing 600 Millionen Euro ein."
+    },
+    {
+      "term": "die Finanzierungsrunde",
+      "translated_term": "funding round",
+      "example_usage": "Es war die größte Finanzierungsrunde für ein europäisches Verteidigungsstartup überhaupt."
+    },
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "Das Unternehmen entwickelt KI-Drohnen."
+    },
+    {
+      "term": "der Umsatz",
+      "translated_term": "sales/revenue",
+      "example_usage": "Quantum Systems erwartet, dass sich der Umsatz 2025 fast verdreifacht."
+    },
+    {
+      "term": "verdreifachen",
+      "translated_term": "to triple",
+      "example_usage": "Der Umsatz wird sich 2025 fast verdreifachen."
+    },
+    {
+      "term": "vereinbaren",
+      "translated_term": "to agree",
+      "example_usage": "Die NATO-Mitglieder haben vereinbart, ihre Verteidigungsausgaben auf 5 Prozent des BIP zu erhöhen."
+    },
+    {
+      "term": "das BIP",
+      "translated_term": "GDP (Gross Domestic Product)",
+      "example_usage": "Die Verteidigungsausgaben sollen auf 5 Prozent des BIP erhöht werden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Künstliche Intelligenz",
+      "translated_name": "Artificial Intelligence"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC",
+      "link_url": "https://www.cnbc.com/2025/12/11/ai-defense-boom-in-uk-and-germany-as-new-wave-of-companies-emerge.html"
+    },
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/features/2025-euro-defense-startups/"
+    }
+  ]
+}
