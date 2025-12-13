@@ -1,0 +1,142 @@
+{
+  "title": "Deutschland plant militärische Verteidigungsanlagen an Ostgrenze",
+  "translated_title": "Germany plans military defense installations on eastern border",
+  "text": [
+    {
+      "text": "Die deutsche Bundeswehr plant den Bau von Verteidigungsanlagen an der östlichen NATO-Grenze.",
+      "translated_text": "The German armed forces are planning to build defense installations on NATO's eastern border."
+    },
+    {
+      "text": "Soldaten sollen Gräben ausheben und Stacheldraht installieren.",
+      "translated_text": "Soldiers are to dig trenches and install barbed wire."
+    },
+    {
+      "text": "Die Maßnahmen sind Teil der Eastern Shield Übungen an der Grenze zur Kaliningrad-Region und Belarus.",
+      "translated_text": "The measures are part of the Eastern Shield exercises on the border with the Kaliningrad region and Belarus."
+    },
+    {
+      "text": "Der Aufbau der Anlagen soll im April 2026 beginnen.",
+      "translated_text": "Construction of the installations is scheduled to begin in April 2026."
+    },
+    {
+      "text": "Die Hauptaufgaben umfassen den Bau von Stellungen, Gräben, Panzersperren und technischen Befestigungen.",
+      "translated_text": "The main tasks include the construction of positions, trenches, anti-tank barriers and engineering fortifications."
+    },
+    {
+      "text": "Diese Befestigungen sollen im Norden und Osten Polens errichtet werden.",
+      "translated_text": "These fortifications are to be built in the north and east of Poland."
+    },
+    {
+      "text": "Die Pläne zeigen, wie ernst Deutschland die Sicherheitslage in Europa nimmt.",
+      "translated_text": "The plans show how seriously Germany takes the security situation in Europe."
+    },
+    {
+      "text": "NATO-Generalsekretär Mark Rutte hat die Europäer aufgefordert, sich auf einen möglichen Konflikt vorzubereiten.",
+      "translated_text": "NATO Secretary-General Mark Rutte has called on Europeans to prepare for a possible conflict."
+    },
+    {
+      "text": "Er warnte, Europa müsse bereit sein für eine Konfrontation wie sie die Großeltern erlebt haben.",
+      "translated_text": "He warned that Europe must be ready for a confrontation like their grandparents experienced."
+    },
+    {
+      "text": "Die verstärkten Verteidigungsmaßnahmen sollen die Sicherheit der NATO-Ostflanke erhöhen.",
+      "translated_text": "The enhanced defense measures are intended to increase the security of NATO's eastern flank."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bundeswehr",
+      "translated_term": "German armed forces",
+      "example_usage": "Die deutsche Bundeswehr plant den Bau von Verteidigungsanlagen an der östlichen NATO-Grenze."
+    },
+    {
+      "term": "die Verteidigungsanlage",
+      "translated_term": "defense installation",
+      "example_usage": "Die deutsche Bundeswehr plant den Bau von Verteidigungsanlagen an der östlichen NATO-Grenze."
+    },
+    {
+      "term": "der Graben",
+      "translated_term": "trench",
+      "example_usage": "Soldaten sollen Gräben ausheben und Stacheldraht installieren."
+    },
+    {
+      "term": "ausheben",
+      "translated_term": "to dig",
+      "example_usage": "Soldaten sollen Gräben ausheben und Stacheldraht installieren."
+    },
+    {
+      "term": "der Stacheldraht",
+      "translated_term": "barbed wire",
+      "example_usage": "Soldaten sollen Gräben ausheben und Stacheldraht installieren."
+    },
+    {
+      "term": "die Maßnahme",
+      "translated_term": "measure",
+      "example_usage": "Die Maßnahmen sind Teil der Eastern Shield Übungen an der Grenze zur Kaliningrad-Region und Belarus."
+    },
+    {
+      "term": "die Übung",
+      "translated_term": "exercise",
+      "example_usage": "Die Maßnahmen sind Teil der Eastern Shield Übungen an der Grenze zur Kaliningrad-Region und Belarus."
+    },
+    {
+      "term": "umfassen",
+      "translated_term": "to include",
+      "example_usage": "Die Hauptaufgaben umfassen den Bau von Stellungen, Gräben, Panzersperren und technischen Befestigungen."
+    },
+    {
+      "term": "die Stellung",
+      "translated_term": "position",
+      "example_usage": "Die Hauptaufgaben umfassen den Bau von Stellungen, Gräben, Panzersperren und technischen Befestigungen."
+    },
+    {
+      "term": "die Panzersperre",
+      "translated_term": "anti-tank barrier",
+      "example_usage": "Die Hauptaufgaben umfassen den Bau von Stellungen, Gräben, Panzersperren und technischen Befestigungen."
+    },
+    {
+      "term": "die Befestigung",
+      "translated_term": "fortification",
+      "example_usage": "Die Hauptaufgaben umfassen den Bau von Stellungen, Gräben, Panzersperren und technischen Befestigungen."
+    },
+    {
+      "term": "die Sicherheitslage",
+      "translated_term": "security situation",
+      "example_usage": "Die Pläne zeigen, wie ernst Deutschland die Sicherheitslage in Europa nimmt."
+    },
+    {
+      "term": "die Konfrontation",
+      "translated_term": "confrontation",
+      "example_usage": "Er warnte, Europa müsse bereit sein für eine Konfrontation wie sie die Großeltern erlebt haben."
+    },
+    {
+      "term": "verstärkt",
+      "translated_term": "enhanced",
+      "example_usage": "Die verstärkten Verteidigungsmaßnahmen sollen die Sicherheit der NATO-Ostflanke erhöhen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Bundeswehr",
+      "translated_name": "Federal Armed Forces"
+    },
+    {
+      "name": "NATO",
+      "translated_name": "NATO"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda EN",
+      "link_url": "https://news-pravda.com/world/2025/12/13/1931360.html"
+    },
+    {
+      "name": "Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/germany/2025/12/13/103639.html"
+    }
+  ]
+}
