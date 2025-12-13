@@ -1,0 +1,138 @@
+{
+  "title": "Union Berlin besiegt RB Leipzig mit 3:1",
+  "translated_title": "Union Berlin defeats RB Leipzig 3-1",
+  "text": [
+    {
+      "text": "Am 13. Dezember gewann Union Berlin das Bundesliga-Spiel gegen RB Leipzig mit 3:1.",
+      "translated_text": "On December 13, Union Berlin won the Bundesliga match against RB Leipzig 3-1."
+    },
+    {
+      "text": "Das Spiel fand im Stadion An der Alten Försterei in Berlin statt.",
+      "translated_text": "The match took place at the Stadion An der Alten Försterei in Berlin."
+    },
+    {
+      "text": "Union Berlin zeigte eine starke Leistung und dominierte das Spiel über weite Strecken.",
+      "translated_text": "Union Berlin showed a strong performance and dominated the match for long periods."
+    },
+    {
+      "text": "Die Berliner kontrollierten den Ball 63,5 Prozent der Spielzeit.",
+      "translated_text": "The Berliners controlled the ball for 63.5 percent of the playing time."
+    },
+    {
+      "text": "Die Fans im Stadion waren begeistert von der Leistung ihrer Mannschaft.",
+      "translated_text": "The fans in the stadium were enthusiastic about their team's performance."
+    },
+    {
+      "text": "Mit diesem Sieg konnte Union Berlin wichtige Punkte in der Bundesliga-Tabelle sammeln.",
+      "translated_text": "With this victory, Union Berlin was able to collect important points in the Bundesliga table."
+    },
+    {
+      "text": "RB Leipzig hatte Schwierigkeiten, gegen die gut organisierte Verteidigung der Berliner anzukommen.",
+      "translated_text": "RB Leipzig had difficulties getting through against Berlin's well-organized defense."
+    },
+    {
+      "text": "Der Trainer von Union Berlin lobte nach dem Spiel die Mannschaftsleistung.",
+      "translated_text": "Union Berlin's coach praised the team performance after the match."
+    },
+    {
+      "text": "Die Spieler zeigten großen Einsatz und kämpften bis zur letzten Minute.",
+      "translated_text": "The players showed great commitment and fought until the last minute."
+    },
+    {
+      "text": "Dieser Erfolg gibt Union Berlin neuen Schwung für die kommenden Spiele.",
+      "translated_text": "This success gives Union Berlin new momentum for the upcoming matches."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "besiegen",
+      "translated_term": "to defeat",
+      "example_usage": "Am 13. Dezember gewann Union Berlin das Bundesliga-Spiel gegen RB Leipzig mit 3:1."
+    },
+    {
+      "term": "das Bundesliga-Spiel",
+      "translated_term": "Bundesliga match",
+      "example_usage": "Am 13. Dezember gewann Union Berlin das Bundesliga-Spiel gegen RB Leipzig mit 3:1."
+    },
+    {
+      "term": "das Stadion",
+      "translated_term": "stadium",
+      "example_usage": "Das Spiel fand im Stadion An der Alten Försterei in Berlin statt."
+    },
+    {
+      "term": "die Leistung",
+      "translated_term": "performance",
+      "example_usage": "Union Berlin zeigte eine starke Leistung und dominierte das Spiel über weite Strecken."
+    },
+    {
+      "term": "dominieren",
+      "translated_term": "to dominate",
+      "example_usage": "Union Berlin zeigte eine starke Leistung und dominierte das Spiel über weite Strecken."
+    },
+    {
+      "term": "über weite Strecken",
+      "translated_term": "for long periods",
+      "example_usage": "Union Berlin zeigte eine starke Leistung und dominierte das Spiel über weite Strecken."
+    },
+    {
+      "term": "kontrollieren",
+      "translated_term": "to control",
+      "example_usage": "Die Berliner kontrollierten den Ball 63,5 Prozent der Spielzeit."
+    },
+    {
+      "term": "begeistert",
+      "translated_term": "enthusiastic",
+      "example_usage": "Die Fans im Stadion waren begeistert von der Leistung ihrer Mannschaft."
+    },
+    {
+      "term": "die Mannschaft",
+      "translated_term": "team",
+      "example_usage": "Die Fans im Stadion waren begeistert von der Leistung ihrer Mannschaft."
+    },
+    {
+      "term": "der Sieg",
+      "translated_term": "victory",
+      "example_usage": "Mit diesem Sieg konnte Union Berlin wichtige Punkte in der Bundesliga-Tabelle sammeln."
+    },
+    {
+      "term": "die Verteidigung",
+      "translated_term": "defense",
+      "example_usage": "RB Leipzig hatte Schwierigkeiten, gegen die gut organisierte Verteidigung der Berliner anzukommen."
+    },
+    {
+      "term": "loben",
+      "translated_term": "to praise",
+      "example_usage": "Der Trainer von Union Berlin lobte nach dem Spiel die Mannschaftsleistung."
+    },
+    {
+      "term": "der Einsatz",
+      "translated_term": "commitment",
+      "example_usage": "Die Spieler zeigten großen Einsatz und kämpften bis zur letzten Minute."
+    },
+    {
+      "term": "der Schwung",
+      "translated_term": "momentum",
+      "example_usage": "Dieser Erfolg gibt Union Berlin neuen Schwung für die kommenden Spiele."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Sport",
+      "translated_name": "Sports"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Fußball",
+      "translated_name": "Football"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ESPN",
+      "link_url": "https://www.espn.in/football/match/_/gameId/746838"
+    }
+  ]
+}

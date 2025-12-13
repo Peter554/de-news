@@ -1,0 +1,142 @@
+{
+  "title": "Berlin lädt russischen Botschafter wegen Hybrid-Attacken ein",
+  "translated_title": "Berlin summons Russian ambassador over hybrid attacks",
+  "text": [
+    {
+      "text": "Am 12. Dezember hat Deutschland den russischen Botschafter Sergej Netschajew ins Auswärtige Amt einbestellt.",
+      "translated_text": "On December 12, Germany summoned Russian Ambassador Sergey Nechaev to the Foreign Ministry."
+    },
+    {
+      "text": "Der Grund waren vermutete russische Hybrid-Angriffe auf Deutschland.",
+      "translated_text": "The reason was suspected Russian hybrid attacks on Germany."
+    },
+    {
+      "text": "Deutschland wirft Russland eine massive Zunahme von Bedrohungen vor.",
+      "translated_text": "Germany accuses Russia of a massive increase in threats."
+    },
+    {
+      "text": "Zu den Angriffen gehören Desinformationskampagnen, Spionage, Cyberangriffe und versuchte Sabotage.",
+      "translated_text": "The attacks include disinformation campaigns, espionage, cyberattacks and attempted sabotage."
+    },
+    {
+      "text": "Besonders erwähnt wurde die Hackergruppe APT 28, die auch unter dem Namen Fancy Bear bekannt ist.",
+      "translated_text": "Special mention was made of the hacker group APT 28, which is also known by the name Fancy Bear."
+    },
+    {
+      "text": "Diese Gruppe soll Verbindungen zum russischen Geheimdienst haben.",
+      "translated_text": "This group is said to have connections to the Russian intelligence service."
+    },
+    {
+      "text": "Russland hat die Vorwürfe zurückgewiesen und Deutschland aufgefordert, die anti-russische Rhetorik zu reduzieren.",
+      "translated_text": "Russia has rejected the accusations and called on Germany to reduce its anti-Russian rhetoric."
+    },
+    {
+      "text": "Moskau spricht von Hysterie über angebliche russische Angriffspläne gegen NATO-Länder.",
+      "translated_text": "Moscow speaks of hysteria about alleged Russian attack plans against NATO countries."
+    },
+    {
+      "text": "Die Spannungen zwischen Deutschland und Russland haben in den letzten Monaten zugenommen.",
+      "translated_text": "Tensions between Germany and Russia have increased in recent months."
+    },
+    {
+      "text": "Experten warnen vor einer weiteren Eskalation der Situation.",
+      "translated_text": "Experts warn of a further escalation of the situation."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "einbestellen",
+      "translated_term": "to summon",
+      "example_usage": "Am 12. Dezember hat Deutschland den russischen Botschafter Sergej Netschajew ins Auswärtige Amt einbestellt."
+    },
+    {
+      "term": "der Botschafter",
+      "translated_term": "ambassador",
+      "example_usage": "Am 12. Dezember hat Deutschland den russischen Botschafter Sergej Netschajew ins Auswärtige Amt einbestellt."
+    },
+    {
+      "term": "das Auswärtige Amt",
+      "translated_term": "Foreign Ministry",
+      "example_usage": "Am 12. Dezember hat Deutschland den russischen Botschafter Sergej Netschajew ins Auswärtige Amt einbestellt."
+    },
+    {
+      "term": "der Hybrid-Angriff",
+      "translated_term": "hybrid attack",
+      "example_usage": "Der Grund waren vermutete russische Hybrid-Angriffe auf Deutschland."
+    },
+    {
+      "term": "vorwerfen",
+      "translated_term": "to accuse",
+      "example_usage": "Deutschland wirft Russland eine massive Zunahme von Bedrohungen vor."
+    },
+    {
+      "term": "die Zunahme",
+      "translated_term": "increase",
+      "example_usage": "Deutschland wirft Russland eine massive Zunahme von Bedrohungen vor."
+    },
+    {
+      "term": "die Bedrohung",
+      "translated_term": "threat",
+      "example_usage": "Deutschland wirft Russland eine massive Zunahme von Bedrohungen vor."
+    },
+    {
+      "term": "die Desinformationskampagne",
+      "translated_term": "disinformation campaign",
+      "example_usage": "Zu den Angriffen gehören Desinformationskampagnen, Spionage, Cyberangriffe und versuchte Sabotage."
+    },
+    {
+      "term": "die Spionage",
+      "translated_term": "espionage",
+      "example_usage": "Zu den Angriffen gehören Desinformationskampagnen, Spionage, Cyberangriffe und versuchte Sabotage."
+    },
+    {
+      "term": "der Cyberangriff",
+      "translated_term": "cyberattack",
+      "example_usage": "Zu den Angriffen gehören Desinformationskampagnen, Spionage, Cyberangriffe und versuchte Sabotage."
+    },
+    {
+      "term": "der Geheimdienst",
+      "translated_term": "intelligence service",
+      "example_usage": "Diese Gruppe soll Verbindungen zum russischen Geheimdienst haben."
+    },
+    {
+      "term": "zurückweisen",
+      "translated_term": "to reject",
+      "example_usage": "Russland hat die Vorwürfe zurückgewiesen und Deutschland aufgefordert, die anti-russische Rhetorik zu reduzieren."
+    },
+    {
+      "term": "die Spannung",
+      "translated_term": "tension",
+      "example_usage": "Die Spannungen zwischen Deutschland und Russland haben in den letzten Monaten zugenommen."
+    },
+    {
+      "term": "die Eskalation",
+      "translated_term": "escalation",
+      "example_usage": "Experten warnen vor einer weiteren Eskalation der Situation."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Cybersicherheit",
+      "translated_name": "Cybersecurity"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "US News",
+      "link_url": "https://www.usnews.com/news/world/articles/2025-12-12/berlin-summons-russian-ambassador-over-increase-in-hybrid-attacks"
+    },
+    {
+      "name": "Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/germany/2025/12/11/103390.html"
+    }
+  ]
+}
