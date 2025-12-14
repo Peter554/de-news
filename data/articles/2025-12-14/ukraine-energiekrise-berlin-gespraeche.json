@@ -1,0 +1,146 @@
+{
+  "title": "Ukraine-Energiekrise und Friedensgespräche in Berlin",
+  "translated_title": "Ukraine energy crisis and peace talks in Berlin",
+  "text": [
+    {
+      "text": "Am 13. Dezember hat Russland die Ukraine mit mehr als 450 Drohnen und 30 Raketen angegriffen.",
+      "translated_text": "On December 13, Russia attacked Ukraine with more than 450 drones and 30 missiles."
+    },
+    {
+      "text": "Die Angriffe zielten hauptsächlich auf die Energieversorgung im Süden des Landes.",
+      "translated_text": "The attacks mainly targeted the energy supply in the south of the country."
+    },
+    {
+      "text": "Millionen von Ukrainern sitzen jetzt im Dunkeln und leiden unter der Kälte.",
+      "translated_text": "Millions of Ukrainians are now sitting in the dark and suffering from the cold."
+    },
+    {
+      "text": "Dies ist bereits der vierte Winter, in dem Russland das ukrainische Stromnetz systematisch angreift.",
+      "translated_text": "This is already the fourth winter in which Russia is systematically attacking the Ukrainian power grid."
+    },
+    {
+      "text": "Der Chef von Naftogaz sagt, dieser Winter sei der schwierigste seit Beginn der Invasion.",
+      "translated_text": "The head of Naftogaz says this winter is the most difficult since the start of the invasion."
+    },
+    {
+      "text": "Die Stromausfälle dauern zwischen vier und zehn Stunden pro Tag.",
+      "translated_text": "The power cuts last between four and ten hours per day."
+    },
+    {
+      "text": "Am 14. Dezember finden wichtige Friedensgespräche in Berlin statt.",
+      "translated_text": "On December 14, important peace talks are taking place in Berlin."
+    },
+    {
+      "text": "Präsident Selenskyj trifft sich mit amerikanischen Verhandlungsführern, darunter Trumps Sonderbeauftragter Steve Witkoff.",
+      "translated_text": "President Zelenskyy is meeting with American negotiators, including Trump's special envoy Steve Witkoff."
+    },
+    {
+      "text": "Am 15. Dezember kommen auch Kanzler Merz, der britische Premierminister Starmer und der französische Präsident Macron nach Berlin.",
+      "translated_text": "On December 15, Chancellor Merz, British Prime Minister Starmer, and French President Macron are also coming to Berlin."
+    },
+    {
+      "text": "Die Gespräche drehen sich um territoriale Kontrolle und Sicherheitsgarantien für die Ukraine.",
+      "translated_text": "The talks revolve around territorial control and security guarantees for Ukraine."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "Am 13. Dezember hat Russland die Ukraine mit mehr als 450 Drohnen und 30 Raketen angegriffen."
+    },
+    {
+      "term": "die Rakete",
+      "translated_term": "missile / rocket",
+      "example_usage": "Am 13. Dezember hat Russland die Ukraine mit mehr als 450 Drohnen und 30 Raketen angegriffen."
+    },
+    {
+      "term": "angreifen",
+      "translated_term": "to attack",
+      "example_usage": "Am 13. Dezember hat Russland die Ukraine mit mehr als 450 Drohnen und 30 Raketen angegriffen."
+    },
+    {
+      "term": "zielen auf",
+      "translated_term": "to target / aim at",
+      "example_usage": "Die Angriffe zielten hauptsächlich auf die Energieversorgung im Süden des Landes."
+    },
+    {
+      "term": "die Energieversorgung",
+      "translated_term": "energy supply",
+      "example_usage": "Die Angriffe zielten hauptsächlich auf die Energieversorgung im Süden des Landes."
+    },
+    {
+      "term": "leiden unter",
+      "translated_term": "to suffer from",
+      "example_usage": "Millionen von Ukrainern sitzen jetzt im Dunkeln und leiden unter der Kälte."
+    },
+    {
+      "term": "das Stromnetz",
+      "translated_term": "power grid / electricity network",
+      "example_usage": "Dies ist bereits der vierte Winter, in dem Russland das ukrainische Stromnetz systematisch angreift."
+    },
+    {
+      "term": "systematisch",
+      "translated_term": "systematically",
+      "example_usage": "Dies ist bereits der vierte Winter, in dem Russland das ukrainische Stromnetz systematisch angreift."
+    },
+    {
+      "term": "der Stromausfall",
+      "translated_term": "power cut / blackout",
+      "example_usage": "Die Stromausfälle dauern zwischen vier und zehn Stunden pro Tag."
+    },
+    {
+      "term": "die Friedensgespräche",
+      "translated_term": "peace talks",
+      "example_usage": "Am 14. Dezember finden wichtige Friedensgespräche in Berlin statt."
+    },
+    {
+      "term": "der Verhandlungsführer",
+      "translated_term": "negotiator",
+      "example_usage": "Präsident Selenskyj trifft sich mit amerikanischen Verhandlungsführern, darunter Trumps Sonderbeauftragter Steve Witkoff."
+    },
+    {
+      "term": "der Sonderbeauftragte",
+      "translated_term": "special envoy",
+      "example_usage": "Präsident Selenskyj trifft sich mit amerikanischen Verhandlungsführern, darunter Trumps Sonderbeauftragter Steve Witkoff."
+    },
+    {
+      "term": "sich drehen um",
+      "translated_term": "to revolve around / be about",
+      "example_usage": "Die Gespräche drehen sich um territoriale Kontrolle und Sicherheitsgarantien für die Ukraine."
+    },
+    {
+      "term": "die Sicherheitsgarantie",
+      "translated_term": "security guarantee",
+      "example_usage": "Die Gespräche drehen sich um territoriale Kontrolle und Sicherheitsgarantien für die Ukraine."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Radio Free Europe",
+      "link_url": "https://www.rferl.org/a/ukraine-berlin-zelenskyy-russia-ceasefire-trump-witkoff/33622343.html"
+    },
+    {
+      "name": "ABC News",
+      "link_url": "https://abcnews.go.com/International/dark-fire-ukraine-strains-lights/story?id=128231958"
+    },
+    {
+      "name": "CNN",
+      "link_url": "https://edition.cnn.com/2025/12/11/europe/ukraine-attacks-russian-energy-intl-cmd"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "title": "Deutschland baut die stärkste Armee Europas auf",
+  "translated_title": "Germany is building Europe's strongest army",
+  "text": [
+    {
+      "text": "NATO-Generalsekretär Mark Rutte hat Deutschland am 11. Dezember gelobt.",
+      "translated_text": "NATO Secretary General Mark Rutte praised Germany on December 11."
+    },
+    {
+      "text": "Er traf sich mit Bundeskanzler Friedrich Merz in Berlin.",
+      "translated_text": "He met with Federal Chancellor Friedrich Merz in Berlin."
+    },
+    {
+      "text": "Rutte sagte, Deutschland sei ein führender Partner in der transatlantischen Zusammenarbeit.",
+      "translated_text": "Rutte said Germany is a leading partner in transatlantic cooperation."
+    },
+    {
+      "text": "Kanzler Merz betonte, dass Europa viel mehr für seine Sicherheit tun muss.",
+      "translated_text": "Chancellor Merz emphasized that Europe must do much more for its security."
+    },
+    {
+      "text": "Europa muss unabhängiger von den USA werden, sagte Merz.",
+      "translated_text": "Europe must become more independent from the USA, said Merz."
+    },
+    {
+      "text": "Deutschland investiert jetzt massiv in seine Verteidigung.",
+      "translated_text": "Germany is now investing massively in its defense."
+    },
+    {
+      "text": "Das Ziel ist es, die leistungsfähigste Armee in Europa aufzubauen.",
+      "translated_text": "The goal is to build the most capable army in Europe."
+    },
+    {
+      "text": "Die Bundeswehr hat fünf Eurofighter-Kampfjets nach Polen geschickt.",
+      "translated_text": "The Bundeswehr has sent five Eurofighter combat jets to Poland."
+    },
+    {
+      "text": "Diese Flugzeuge sollen den polnischen Luftraum vor russischen Verletzungen schützen.",
+      "translated_text": "These aircraft are meant to protect Polish airspace from Russian violations."
+    },
+    {
+      "text": "Deutsche Verteidigungsexperten warnen vor einem möglichen Konflikt mit Russland.",
+      "translated_text": "German defense experts warn of a possible conflict with Russia."
+    },
+    {
+      "text": "Verteidigungsminister Boris Pistorius sagt, die NATO muss bereit sein für einen russischen Angriff.",
+      "translated_text": "Defense Minister Boris Pistorius says NATO must be ready for a Russian attack."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "aufbauen",
+      "translated_term": "to build up",
+      "example_usage": "Deutschland baut die stärkste Armee Europas auf."
+    },
+    {
+      "term": "loben",
+      "translated_term": "to praise",
+      "example_usage": "NATO-Generalsekretär Mark Rutte hat Deutschland am 11. Dezember gelobt."
+    },
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "Federal Chancellor",
+      "example_usage": "Er traf sich mit Bundeskanzler Friedrich Merz in Berlin."
+    },
+    {
+      "term": "führend",
+      "translated_term": "leading",
+      "example_usage": "Rutte sagte, Deutschland sei ein führender Partner in der transatlantischen Zusammenarbeit."
+    },
+    {
+      "term": "die Zusammenarbeit",
+      "translated_term": "cooperation",
+      "example_usage": "Rutte sagte, Deutschland sei ein führender Partner in der transatlantischen Zusammenarbeit."
+    },
+    {
+      "term": "betonen",
+      "translated_term": "to emphasize / stress",
+      "example_usage": "Kanzler Merz betonte, dass Europa viel mehr für seine Sicherheit tun muss."
+    },
+    {
+      "term": "unabhängig",
+      "translated_term": "independent",
+      "example_usage": "Europa muss unabhängiger von den USA werden, sagte Merz."
+    },
+    {
+      "term": "investieren",
+      "translated_term": "to invest",
+      "example_usage": "Deutschland investiert jetzt massiv in seine Verteidigung."
+    },
+    {
+      "term": "die Verteidigung",
+      "translated_term": "defense",
+      "example_usage": "Deutschland investiert jetzt massiv in seine Verteidigung."
+    },
+    {
+      "term": "leistungsfähig",
+      "translated_term": "capable / efficient",
+      "example_usage": "Das Ziel ist es, die leistungsfähigste Armee in Europa aufzubauen."
+    },
+    {
+      "term": "die Bundeswehr",
+      "translated_term": "Federal Armed Forces",
+      "example_usage": "Die Bundeswehr hat fünf Eurofighter-Kampfjets nach Polen geschickt."
+    },
+    {
+      "term": "der Kampfjet",
+      "translated_term": "combat jet / fighter jet",
+      "example_usage": "Die Bundeswehr hat fünf Eurofighter-Kampfjets nach Polen geschickt."
+    },
+    {
+      "term": "der Luftraum",
+      "translated_term": "airspace",
+      "example_usage": "Diese Flugzeuge sollen den polnischen Luftraum vor russischen Verletzungen schützen."
+    },
+    {
+      "term": "die Verletzung",
+      "translated_term": "violation",
+      "example_usage": "Diese Flugzeuge sollen den polnischen Luftraum vor russischen Verletzungen schützen."
+    },
+    {
+      "term": "warnen vor",
+      "translated_term": "to warn of / about",
+      "example_usage": "Deutsche Verteidigungsexperten warnen vor einem möglichen Konflikt mit Russland."
+    }
+  ],
+  "tags": [
+    {
+      "name": "NATO",
+      "translated_name": "NATO"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Bundeswehr",
+      "translated_name": "Federal Armed Forces"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/2025/12/11/europe-needs-to-do-much-more-towards-security-germanys-chancellor-warns"
+    },
+    {
+      "name": "CNN",
+      "link_url": "https://www.cnn.com/2025/11/23/europe/germany-europe-army-reform-intl"
+    },
+    {
+      "name": "NPR",
+      "link_url": "https://www.npr.org/2025/06/28/g-s1-74591/germany-military-nato"
+    }
+  ]
+}
