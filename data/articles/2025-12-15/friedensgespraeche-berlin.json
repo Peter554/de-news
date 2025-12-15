@@ -1,0 +1,139 @@
+{
+  "title": "Friedensgespräche in Berlin: Selenskyj trifft US-Gesandte",
+  "translated_title": "Peace Talks in Berlin: Zelensky Meets US Envoys",
+  "text": [
+    {
+      "text": "Am Sonntag fanden in Berlin wichtige Gespräche über den Frieden in der Ukraine statt.",
+      "translated_text": "On Sunday, important talks about peace in Ukraine took place in Berlin."
+    },
+    {
+      "text": "Der ukrainische Präsident Wolodymyr Selenskyj traf sich mit den Gesandten des US-Präsidenten Donald Trump.",
+      "translated_text": "Ukrainian President Volodymyr Zelensky met with the envoys of US President Donald Trump."
+    },
+    {
+      "text": "Steve Witkoff und Jared Kushner sprachen fünf Stunden lang mit Selenskyj über einen möglichen Friedensplan.",
+      "translated_text": "Steve Witkoff and Jared Kushner spoke with Zelensky for five hours about a possible peace plan."
+    },
+    {
+      "text": "Nach dem Treffen sagte Witkoff, dass viel Fortschritt gemacht wurde.",
+      "translated_text": "After the meeting, Witkoff said that a lot of progress was made."
+    },
+    {
+      "text": "Die Gespräche sollen am Montag weitergehen.",
+      "translated_text": "The talks are to continue on Monday."
+    },
+    {
+      "text": "Selenskyj machte ein wichtiges Angebot: Er ist bereit, auf die NATO-Mitgliedschaft der Ukraine zu verzichten.",
+      "translated_text": "Zelensky made an important offer: he is ready to give up Ukraine's NATO membership."
+    },
+    {
+      "text": "Stattdessen möchte er starke Sicherheitsgarantien von den USA und anderen westlichen Ländern.",
+      "translated_text": "Instead, he wants strong security guarantees from the USA and other Western countries."
+    },
+    {
+      "text": "Diese Garantien sollen verhindern, dass Russland die Ukraine in Zukunft wieder angreift.",
+      "translated_text": "These guarantees should prevent Russia from attacking Ukraine again in the future."
+    },
+    {
+      "text": "Neben den amerikanischen Gesandten traf Selenskyj auch den deutschen Kanzler Friedrich Merz.",
+      "translated_text": "Besides the American envoys, Zelensky also met German Chancellor Friedrich Merz."
+    },
+    {
+      "text": "Außerdem gab es Gespräche mit Vertretern aus Großbritannien und Frankreich.",
+      "translated_text": "There were also talks with representatives from Great Britain and France."
+    },
+    {
+      "text": "Die Stadt Berlin hat wegen des wichtigen Besuchs die Sicherheitsmaßnahmen verstärkt.",
+      "translated_text": "The city of Berlin has increased security measures because of the important visit."
+    },
+    {
+      "text": "Viele Menschen hoffen, dass diese Gespräche zu einem Ende des Krieges führen können.",
+      "translated_text": "Many people hope that these talks can lead to an end to the war."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Gespräch",
+      "translated_term": "the talk, the conversation",
+      "example_usage": "Am Sonntag fanden in Berlin wichtige Gespräche über den Frieden in der Ukraine statt."
+    },
+    {
+      "term": "der Gesandte",
+      "translated_term": "the envoy",
+      "example_usage": "Der ukrainische Präsident Wolodymyr Selenskyj traf sich mit den Gesandten des US-Präsidenten Donald Trump."
+    },
+    {
+      "term": "der Friedensplan",
+      "translated_term": "the peace plan",
+      "example_usage": "Steve Witkoff und Jared Kushner sprachen fünf Stunden lang mit Selenskyj über einen möglichen Friedensplan."
+    },
+    {
+      "term": "der Fortschritt",
+      "translated_term": "the progress",
+      "example_usage": "Nach dem Treffen sagte Witkoff, dass viel Fortschritt gemacht wurde."
+    },
+    {
+      "term": "verzichten (auf)",
+      "translated_term": "to give up, to renounce",
+      "example_usage": "Er ist bereit, auf die NATO-Mitgliedschaft der Ukraine zu verzichten."
+    },
+    {
+      "term": "die Mitgliedschaft",
+      "translated_term": "the membership",
+      "example_usage": "Er ist bereit, auf die NATO-Mitgliedschaft der Ukraine zu verzichten."
+    },
+    {
+      "term": "die Sicherheitsgarantie",
+      "translated_term": "the security guarantee",
+      "example_usage": "Stattdessen möchte er starke Sicherheitsgarantien von den USA und anderen westlichen Ländern."
+    },
+    {
+      "term": "verhindern",
+      "translated_term": "to prevent",
+      "example_usage": "Diese Garantien sollen verhindern, dass Russland die Ukraine in Zukunft wieder angreift."
+    },
+    {
+      "term": "angreifen",
+      "translated_term": "to attack",
+      "example_usage": "Diese Garantien sollen verhindern, dass Russland die Ukraine in Zukunft wieder angreift."
+    },
+    {
+      "term": "verstärken",
+      "translated_term": "to strengthen, to increase",
+      "example_usage": "Die Stadt Berlin hat wegen des wichtigen Besuchs die Sicherheitsmaßnahmen verstärkt."
+    },
+    {
+      "term": "die Sicherheitsmaßnahme",
+      "translated_term": "the security measure",
+      "example_usage": "Die Stadt Berlin hat wegen des wichtigen Besuchs die Sicherheitsmaßnahmen verstärkt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    },
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR",
+      "link_url": "https://www.npr.org/2025/12/14/g-s1-102218/us-envoys-arrive-in-berlin-for-more-ukraine-peace-talks"
+    },
+    {
+      "name": "CNBC",
+      "link_url": "https://www.cnbc.com/2025/12/14/ukraines-zelenskyy-ditches-ambition-to-join-nato-ahead-of-peace-talks.html"
+    },
+    {
+      "name": "Kyiv Independent",
+      "link_url": "https://kyivindependent.com/ukraine-war-latest-127/"
+    }
+  ]
+}
