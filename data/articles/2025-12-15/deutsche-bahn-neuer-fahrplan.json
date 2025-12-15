@@ -1,0 +1,144 @@
+{
+  "title": "Deutsche Bahn startet neuen Fahrplan: Mehr Verbindungen, kürzere Fahrzeiten",
+  "translated_title": "Deutsche Bahn Launches New Timetable: More Connections, Shorter Travel Times",
+  "text": [
+    {
+      "text": "Am 15. Dezember hat die Deutsche Bahn einen neuen Fahrplan eingeführt.",
+      "translated_text": "On December 15, Deutsche Bahn introduced a new timetable."
+    },
+    {
+      "text": "Für viele Reisende bringt der neue Fahrplan große Verbesserungen.",
+      "translated_text": "For many travelers, the new timetable brings major improvements."
+    },
+    {
+      "text": "Die wichtigste Änderung: Es gibt jetzt viel mehr ICE-Züge, die alle halbe Stunde fahren.",
+      "translated_text": "The most important change: there are now many more ICE trains that run every half hour."
+    },
+    {
+      "text": "Die Strecke von Berlin über Halle und Erfurt nach Nürnberg wird jetzt im Halbstundentakt bedient.",
+      "translated_text": "The route from Berlin via Halle and Erfurt to Nuremberg is now served every half hour."
+    },
+    {
+      "text": "Insgesamt hat sich das Netz der Halbstundentakt-Verbindungen mehr als verdoppelt.",
+      "translated_text": "Overall, the network of half-hourly connections has more than doubled."
+    },
+    {
+      "text": "Auch die Fahrzeiten werden kürzer: Die neue ICE-Sprinter-Verbindung von Berlin nach Stuttgart braucht nur noch 4 Stunden und 45 Minuten.",
+      "translated_text": "Travel times are also getting shorter: the new ICE Sprinter connection from Berlin to Stuttgart now takes only 4 hours and 45 minutes."
+    },
+    {
+      "text": "Das ist etwa eine Stunde schneller als bisher.",
+      "translated_text": "That is about an hour faster than before."
+    },
+    {
+      "text": "Der Hamburg-Frankfurt-Sprinter fährt nun viermal täglich und braucht nur 3 Stunden und 30 Minuten.",
+      "translated_text": "The Hamburg-Frankfurt Sprinter now runs four times daily and takes only 3 hours and 30 minutes."
+    },
+    {
+      "text": "Zwischen Berlin und Frankfurt fahren jetzt 22 Züge pro Tag hin und zurück.",
+      "translated_text": "Between Berlin and Frankfurt, 22 trains now run back and forth per day."
+    },
+    {
+      "text": "Auch internationale Verbindungen werden ausgebaut, zum Beispiel nach Polen und in die Schweiz.",
+      "translated_text": "International connections are also being expanded, for example to Poland and Switzerland."
+    },
+    {
+      "text": "Eine wichtige Neuerung: Ab heute gibt es keine gedruckten Ankunftspläne mehr an den Bahnsteigen.",
+      "translated_text": "An important innovation: from today, there are no more printed arrival schedules on the platforms."
+    },
+    {
+      "text": "Stattdessen können Fahrgäste einen QR-Code scannen, um die aktuellen Ankunftszeiten online zu sehen.",
+      "translated_text": "Instead, passengers can scan a QR code to see the current arrival times online."
+    },
+    {
+      "text": "Die Deutsche Bahn will damit digitaler und umweltfreundlicher werden.",
+      "translated_text": "Deutsche Bahn wants to become more digital and environmentally friendly with this."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Fahrplan",
+      "translated_term": "the timetable, the schedule",
+      "example_usage": "Am 15. Dezember hat die Deutsche Bahn einen neuen Fahrplan eingeführt."
+    },
+    {
+      "term": "einführen",
+      "translated_term": "to introduce, to implement",
+      "example_usage": "Am 15. Dezember hat die Deutsche Bahn einen neuen Fahrplan eingeführt."
+    },
+    {
+      "term": "die Verbesserung",
+      "translated_term": "the improvement",
+      "example_usage": "Für viele Reisende bringt der neue Fahrplan große Verbesserungen."
+    },
+    {
+      "term": "der Halbstundentakt",
+      "translated_term": "the half-hourly interval",
+      "example_usage": "Die Strecke von Berlin über Halle und Erfurt nach Nürnberg wird jetzt im Halbstundentakt bedient."
+    },
+    {
+      "term": "die Strecke",
+      "translated_term": "the route, the stretch",
+      "example_usage": "Die Strecke von Berlin über Halle und Erfurt nach Nürnberg wird jetzt im Halbstundentakt bedient."
+    },
+    {
+      "term": "bedienen",
+      "translated_term": "to serve, to operate",
+      "example_usage": "Die Strecke von Berlin über Halle und Erfurt nach Nürnberg wird jetzt im Halbstundentakt bedient."
+    },
+    {
+      "term": "sich verdoppeln",
+      "translated_term": "to double",
+      "example_usage": "Insgesamt hat sich das Netz der Halbstundentakt-Verbindungen mehr als verdoppelt."
+    },
+    {
+      "term": "die Fahrzeiten",
+      "translated_term": "the travel times",
+      "example_usage": "Auch die Fahrzeiten werden kürzer."
+    },
+    {
+      "term": "ausbauen",
+      "translated_term": "to expand, to develop",
+      "example_usage": "Auch internationale Verbindungen werden ausgebaut, zum Beispiel nach Polen und in die Schweiz."
+    },
+    {
+      "term": "der Bahnsteig",
+      "translated_term": "the platform",
+      "example_usage": "Ab heute gibt es keine gedruckten Ankunftspläne mehr an den Bahnsteigen."
+    },
+    {
+      "term": "scannen",
+      "translated_term": "to scan",
+      "example_usage": "Stattdessen können Fahrgäste einen QR-Code scannen, um die aktuellen Ankunftszeiten online zu sehen."
+    },
+    {
+      "term": "umweltfreundlich",
+      "translated_term": "environmentally friendly",
+      "example_usage": "Die Deutsche Bahn will damit digitaler und umweltfreundlicher werden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Railway Gazette International",
+      "link_url": "https://www.railwaygazette.com/passenger/db-to-expand-half-hourly-network-with-december-2025-timetable-change/69750.article"
+    },
+    {
+      "name": "I Am Expat",
+      "link_url": "https://www.iamexpat.de/expat-info/germany-news/what-know-about-new-db-timetable-coming-december-15"
+    }
+  ]
+}
