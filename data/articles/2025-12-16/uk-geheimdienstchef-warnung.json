@@ -1,0 +1,135 @@
+{
+  "title": "Britische Geheimdienstchefin warnt vor Russland",
+  "translated_title": "British Intelligence Chief Warns About Russia",
+  "text": [
+    {
+      "text": "Die neue Chefin des britischen Auslandsgeheimdienstes MI6 hat eine wichtige Warnung ausgesprochen.",
+      "translated_text": "The new head of the British foreign intelligence service MI6 has issued an important warning."
+    },
+    {
+      "text": "Blaise Metreweli hält ihre erste öffentliche Rede in diesem Amt.",
+      "translated_text": "Blaise Metreweli is giving her first public speech in this position."
+    },
+    {
+      "text": "Sie warnt vor einem aggressiven und expansionistischen Russland.",
+      "translated_text": "She warns of an aggressive and expansionist Russia."
+    },
+    {
+      "text": "Großbritannien sieht sich zunehmend unvorhersehbaren Bedrohungen ausgesetzt.",
+      "translated_text": "Britain is facing increasingly unpredictable threats."
+    },
+    {
+      "text": "Diese Bedrohungen sind miteinander verbunden und schwer zu kontrollieren.",
+      "translated_text": "These threats are interconnected and difficult to control."
+    },
+    {
+      "text": "Die Geheimdienstchefin spricht auch über die Macht von Technologiekonzernen.",
+      "translated_text": "The intelligence chief also speaks about the power of technology corporations."
+    },
+    {
+      "text": "Sie erklärt, dass Macht von gewählten Führern zu Tech-Giganten und deren Besitzern übergeht.",
+      "translated_text": "She explains that power is shifting from elected leaders to tech giants and their owners."
+    },
+    {
+      "text": "Metreweli sieht Risiken durch undurchsichtige Algorithmen.",
+      "translated_text": "Metreweli sees risks from opaque algorithms."
+    },
+    {
+      "text": "Sie fordert stärkere Kontrolle und einen werteorientierten Einsatz von fortschrittlicher Technologie.",
+      "translated_text": "She calls for stronger oversight and a values-led use of advanced technology."
+    },
+    {
+      "text": "Der MI6 verspricht nachhaltige Unterstützung für Großbritanniens Verbündete.",
+      "translated_text": "MI6 promises sustained support for Britain's allies."
+    },
+    {
+      "text": "Die britische Regierung nimmt die Warnung sehr ernst.",
+      "translated_text": "The British government takes the warning very seriously."
+    },
+    {
+      "text": "Experten sagen, dass die Frontlinie überall ist in der modernen Welt.",
+      "translated_text": "Experts say that the front line is everywhere in the modern world."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Auslandsgeheimdienst",
+      "translated_term": "foreign intelligence service",
+      "example_usage": "Die neue Chefin des britischen Auslandsgeheimdienstes MI6 hat eine wichtige Warnung ausgesprochen."
+    },
+    {
+      "term": "aussprechen",
+      "translated_term": "to issue/express",
+      "example_usage": "Die neue Chefin des britischen Auslandsgeheimdienstes MI6 hat eine wichtige Warnung ausgesprochen."
+    },
+    {
+      "term": "expansionistisch",
+      "translated_term": "expansionist",
+      "example_usage": "Sie warnt vor einem aggressiven und expansionistischen Russland."
+    },
+    {
+      "term": "unvorhersehbar",
+      "translated_term": "unpredictable",
+      "example_usage": "Großbritannien sieht sich zunehmend unvorhersehbaren Bedrohungen ausgesetzt."
+    },
+    {
+      "term": "sich ausgesetzt sehen",
+      "translated_term": "to face/be exposed to",
+      "example_usage": "Großbritannien sieht sich zunehmend unvorhersehbaren Bedrohungen ausgesetzt."
+    },
+    {
+      "term": "miteinander verbunden",
+      "translated_term": "interconnected",
+      "example_usage": "Diese Bedrohungen sind miteinander verbunden und schwer zu kontrollieren."
+    },
+    {
+      "term": "übergehen",
+      "translated_term": "to shift/pass over",
+      "example_usage": "Sie erklärt, dass Macht von gewählten Führern zu Tech-Giganten und deren Besitzern übergeht."
+    },
+    {
+      "term": "undurchsichtig",
+      "translated_term": "opaque",
+      "example_usage": "Metreweli sieht Risiken durch undurchsichtige Algorithmen."
+    },
+    {
+      "term": "werteorientiert",
+      "translated_term": "values-led",
+      "example_usage": "Sie fordert stärkere Kontrolle und einen werteorientierten Einsatz von fortschrittlicher Technologie."
+    },
+    {
+      "term": "der Verbündete",
+      "translated_term": "ally",
+      "example_usage": "Der MI6 verspricht nachhaltige Unterstützung für Großbritanniens Verbündete."
+    },
+    {
+      "term": "die Frontlinie",
+      "translated_term": "front line",
+      "example_usage": "Experten sagen, dass die Frontlinie überall ist in der modernen Welt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Nationale Sicherheit",
+      "translated_name": "National Security"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ABC News",
+      "link_url": "https://abcnews.go.com/International/wireStory/mi6-chief-uk-faces-threat-russias-desire-export-128407638"
+    },
+    {
+      "name": "CNN",
+      "link_url": "https://www.cnn.com/2025/12/15/uk/uk-spy-chief-emerging-threats-intl"
+    }
+  ]
+}
