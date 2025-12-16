@@ -1,0 +1,135 @@
+{
+  "title": "Friedensgespräche zur Ukraine in Berlin",
+  "translated_title": "Peace Talks on Ukraine in Berlin",
+  "text": [
+    {
+      "text": "In Berlin finden wichtige Verhandlungen über den Krieg in der Ukraine statt.",
+      "translated_text": "Important negotiations about the war in Ukraine are taking place in Berlin."
+    },
+    {
+      "text": "Der ukrainische Präsident Wolodymyr Selenskyj trifft sich mit amerikanischen Unterhändlern und europäischen Staats- und Regierungschefs.",
+      "translated_text": "Ukrainian President Volodymyr Zelenskyy is meeting with American negotiators and European heads of state and government."
+    },
+    {
+      "text": "Steve Witkoff, ein Sondergesandter von US-Präsident Donald Trump, führt die amerikanische Delegation.",
+      "translated_text": "Steve Witkoff, a special envoy of US President Donald Trump, is leading the American delegation."
+    },
+    {
+      "text": "Die Gespräche am Sonntag dauerten mehr als fünf Stunden.",
+      "translated_text": "The talks on Sunday lasted more than five hours."
+    },
+    {
+      "text": "Nach den Verhandlungen erklärte Witkoff, dass viel Fortschritt gemacht wurde.",
+      "translated_text": "After the negotiations, Witkoff stated that a lot of progress was made."
+    },
+    {
+      "text": "Am Montag gibt es ein Abendessen im Kanzleramt mit Bundeskanzler Friedrich Merz.",
+      "translated_text": "On Monday there is a dinner at the Chancellery with Chancellor Friedrich Merz."
+    },
+    {
+      "text": "Auch der NATO-Generalsekretär und der EU-Chef nehmen an dem Treffen teil.",
+      "translated_text": "The NATO Secretary General and the EU chief are also participating in the meeting."
+    },
+    {
+      "text": "Die europäischen Staats- und Regierungschefs wollen Sicherheitsgarantien für die Ukraine diskutieren.",
+      "translated_text": "The European heads of state and government want to discuss security guarantees for Ukraine."
+    },
+    {
+      "text": "Sie erwägen, eine europäische Truppe in die Ukraine zu schicken.",
+      "translated_text": "They are considering sending a European force to Ukraine."
+    },
+    {
+      "text": "In Berlin herrscht höchste Sicherheit während der Verhandlungen.",
+      "translated_text": "There is maximum security in Berlin during the negotiations."
+    },
+    {
+      "text": "Die Polizei hat zwei Sicherheitsperimeter um die Verhandlungsorte eingerichtet.",
+      "translated_text": "The police have set up two security perimeters around the negotiation venues."
+    },
+    {
+      "text": "Alle Beteiligten hoffen auf einen Durchbruch für den Frieden.",
+      "translated_text": "All parties involved are hoping for a breakthrough for peace."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Verhandlungen",
+      "translated_term": "negotiations",
+      "example_usage": "In Berlin finden wichtige Verhandlungen über den Krieg in der Ukraine statt."
+    },
+    {
+      "term": "der Unterhändler",
+      "translated_term": "negotiator",
+      "example_usage": "Der ukrainische Präsident Wolodymyr Selenskyj trifft sich mit amerikanischen Unterhändlern und europäischen Staats- und Regierungschefs."
+    },
+    {
+      "term": "der Sondergesandte",
+      "translated_term": "special envoy",
+      "example_usage": "Steve Witkoff, ein Sondergesandter von US-Präsident Donald Trump, führt die amerikanische Delegation."
+    },
+    {
+      "term": "der Fortschritt",
+      "translated_term": "progress",
+      "example_usage": "Nach den Verhandlungen erklärte Witkoff, dass viel Fortschritt gemacht wurde."
+    },
+    {
+      "term": "das Kanzleramt",
+      "translated_term": "chancellery",
+      "example_usage": "Am Montag gibt es ein Abendessen im Kanzleramt mit Bundeskanzler Friedrich Merz."
+    },
+    {
+      "term": "teilnehmen",
+      "translated_term": "to participate",
+      "example_usage": "Auch der NATO-Generalsekretär und der EU-Chef nehmen an dem Treffen teil."
+    },
+    {
+      "term": "die Sicherheitsgarantie",
+      "translated_term": "security guarantee",
+      "example_usage": "Die europäischen Staats- und Regierungschefs wollen Sicherheitsgarantien für die Ukraine diskutieren."
+    },
+    {
+      "term": "erwägen",
+      "translated_term": "to consider",
+      "example_usage": "Sie erwägen, eine europäische Truppe in die Ukraine zu schicken."
+    },
+    {
+      "term": "herrschen",
+      "translated_term": "to prevail",
+      "example_usage": "In Berlin herrscht höchste Sicherheit während der Verhandlungen."
+    },
+    {
+      "term": "einrichten",
+      "translated_term": "to set up",
+      "example_usage": "Die Polizei hat zwei Sicherheitsperimeter um die Verhandlungsorte eingerichtet."
+    },
+    {
+      "term": "der Durchbruch",
+      "translated_term": "breakthrough",
+      "example_usage": "Alle Beteiligten hoffen auf einen Durchbruch für den Frieden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    },
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/germany/2025/12/16/104576.html"
+    },
+    {
+      "name": "NPR",
+      "link_url": "https://www.npr.org/2025/12/14/g-s1-102218/us-envoys-arrive-in-berlin-for-more-ukraine-peace-talks"
+    }
+  ]
+}
