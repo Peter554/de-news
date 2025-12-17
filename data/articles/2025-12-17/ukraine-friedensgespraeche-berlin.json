@@ -1,0 +1,130 @@
+{
+  "title": "Friedensgespräche in Berlin für die Ukraine",
+  "translated_title": "Peace Talks in Berlin for Ukraine",
+  "text": [
+    {
+      "text": "Am 14. und 15. Dezember fanden wichtige Friedensgespräche in Berlin statt.",
+      "translated_text": "On December 14 and 15, important peace talks took place in Berlin."
+    },
+    {
+      "text": "Der deutsche Bundeskanzler Friedrich Merz traf sich mit dem ukrainischen Präsidenten Wolodymyr Selenskyj.",
+      "translated_text": "German Chancellor Friedrich Merz met with Ukrainian President Volodymyr Zelensky."
+    },
+    {
+      "text": "Auch der französische Präsident Emmanuel Macron und der britische Premierminister Keir Starmer waren dabei.",
+      "translated_text": "French President Emmanuel Macron and British Prime Minister Keir Starmer were also there."
+    },
+    {
+      "text": "Die Politiker sprachen über Möglichkeiten, den Krieg in der Ukraine zu beenden.",
+      "translated_text": "The politicians discussed possibilities to end the war in Ukraine."
+    },
+    {
+      "text": "Merz und Selenskyj appellierten an den russischen Präsidenten Putin.",
+      "translated_text": "Merz and Zelensky appealed to Russian President Putin."
+    },
+    {
+      "text": "Sie baten um einen vorübergehenden Waffenstillstand über Weihnachten.",
+      "translated_text": "They asked for a temporary ceasefire over Christmas."
+    },
+    {
+      "text": "Das ukrainische Volk soll zumindest an Weihnachten von Bomben und Raketen verschont bleiben.",
+      "translated_text": "The Ukrainian people should at least be spared from bombs and rockets at Christmas."
+    },
+    {
+      "text": "Laut der Berliner Zeitung könnte ein Friedensabkommen bereits im Frühjahr in Kraft treten.",
+      "translated_text": "According to the Berliner Zeitung, a peace agreement could take effect as early as spring."
+    },
+    {
+      "text": "Deutschland verpflichtete sich, der Ukraine weiter zu helfen.",
+      "translated_text": "Germany committed to continue helping Ukraine."
+    },
+    {
+      "text": "Für 2026 plant Deutschland 13,5 Milliarden Dollar für Luftverteidigung und Munition bereitzustellen.",
+      "translated_text": "For 2026, Germany plans to provide 13.5 billion dollars for air defense and ammunition."
+    },
+    {
+      "text": "Während der Gespräche galt in Berlin die höchste Sicherheitsstufe wegen Terrorrisiken.",
+      "translated_text": "During the talks, the highest security level was in effect in Berlin due to terrorism risks."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Friedensgespräche",
+      "translated_term": "peace talks",
+      "example_usage": "Am 14. und 15. Dezember fanden wichtige Friedensgespräche in Berlin statt."
+    },
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "Chancellor",
+      "example_usage": "Der deutsche Bundeskanzler Friedrich Merz traf sich mit dem ukrainischen Präsidenten Wolodymyr Selenskyj."
+    },
+    {
+      "term": "der Krieg",
+      "translated_term": "war",
+      "example_usage": "Die Politiker sprachen über Möglichkeiten, den Krieg in der Ukraine zu beenden."
+    },
+    {
+      "term": "appellieren",
+      "translated_term": "to appeal",
+      "example_usage": "Merz und Selenskyj appellierten an den russischen Präsidenten Putin."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "ceasefire",
+      "example_usage": "Sie baten um einen vorübergehenden Waffenstillstand über Weihnachten."
+    },
+    {
+      "term": "verschonen",
+      "translated_term": "to spare",
+      "example_usage": "Das ukrainische Volk soll zumindest an Weihnachten von Bomben und Raketen verschont bleiben."
+    },
+    {
+      "term": "das Friedensabkommen",
+      "translated_term": "peace agreement",
+      "example_usage": "Laut der Berliner Zeitung könnte ein Friedensabkommen bereits im Frühjahr in Kraft treten."
+    },
+    {
+      "term": "sich verpflichten",
+      "translated_term": "to commit",
+      "example_usage": "Deutschland verpflichtete sich, der Ukraine weiter zu helfen."
+    },
+    {
+      "term": "die Luftverteidigung",
+      "translated_term": "air defense",
+      "example_usage": "Für 2026 plant Deutschland 13,5 Milliarden Dollar für Luftverteidigung und Munition bereitzustellen."
+    },
+    {
+      "term": "die Sicherheitsstufe",
+      "translated_term": "security level",
+      "example_usage": "Während der Gespräche galt in Berlin die höchste Sicherheitsstufe wegen Terrorrisiken."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    },
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/world/2025/12/14/103935.html"
+    },
+    {
+      "name": "Deutschland.de",
+      "link_url": "https://www.deutschland.de/en/news/germany-news-today-foreign-policy"
+    },
+    {
+      "name": "Berliner Zeitung via Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/world/2025/12/17/104908.html"
+    }
+  ]
+}
