@@ -1,0 +1,122 @@
+{
+  "title": "Humanitäre Krise in Gaza verschärft sich im Winter",
+  "translated_title": "Humanitarian Crisis in Gaza Worsens in Winter",
+  "text": [
+    {
+      "text": "Der Waffenstillstand in Gaza bleibt fragil und unsicher.",
+      "translated_text": "The ceasefire in Gaza remains fragile and uncertain."
+    },
+    {
+      "text": "Die Vereinten Nationen berichteten dem Sicherheitsrat über die schwierige Situation.",
+      "translated_text": "The United Nations reported to the Security Council about the difficult situation."
+    },
+    {
+      "text": "Die kalten Wintertemperaturen machen die Lage noch schlimmer.",
+      "translated_text": "The cold winter temperatures make the situation even worse."
+    },
+    {
+      "text": "Humanitäre Hilfe erreicht die Menschen in Gaza nur mit großen Schwierigkeiten.",
+      "translated_text": "Humanitarian aid reaches the people in Gaza only with great difficulties."
+    },
+    {
+      "text": "Es gibt viele Hindernisse bei der Lieferung von Hilfsgütern.",
+      "translated_text": "There are many obstacles in delivering aid supplies."
+    },
+    {
+      "text": "Tragischerweise starb ein zwei Wochen altes Baby aus Khan Younis an Unterkühlung.",
+      "translated_text": "Tragically, a two-week-old baby from Khan Younis died of hypothermia."
+    },
+    {
+      "text": "Dies war der erste bestätigte Tod durch die Kälte in diesem Winter.",
+      "translated_text": "This was the first confirmed death from the cold this winter."
+    },
+    {
+      "text": "Viele Familien haben keine angemessene Unterkunft und Heizung.",
+      "translated_text": "Many families have no adequate shelter and heating."
+    },
+    {
+      "text": "Die UN-Vertreter fordern dringend mehr Zugang für humanitäre Organisationen.",
+      "translated_text": "The UN representatives urgently demand more access for humanitarian organizations."
+    },
+    {
+      "text": "Medizinische Versorgung und Lebensmittel sind knapp.",
+      "translated_text": "Medical care and food are scarce."
+    },
+    {
+      "text": "Die internationale Gemeinschaft muss schnell handeln, um mehr Leid zu verhindern.",
+      "translated_text": "The international community must act quickly to prevent more suffering."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die humanitäre Krise",
+      "translated_term": "humanitarian crisis",
+      "example_usage": "Humanitäre Krise in Gaza verschärft sich im Winter."
+    },
+    {
+      "term": "sich verschärfen",
+      "translated_term": "to worsen / to intensify",
+      "example_usage": "Humanitäre Krise in Gaza verschärft sich im Winter."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "ceasefire",
+      "example_usage": "Der Waffenstillstand in Gaza bleibt fragil und unsicher."
+    },
+    {
+      "term": "fragil",
+      "translated_term": "fragile",
+      "example_usage": "Der Waffenstillstand in Gaza bleibt fragil und unsicher."
+    },
+    {
+      "term": "die Vereinten Nationen",
+      "translated_term": "United Nations",
+      "example_usage": "Die Vereinten Nationen berichteten dem Sicherheitsrat über die schwierige Situation."
+    },
+    {
+      "term": "das Hindernis",
+      "translated_term": "obstacle",
+      "example_usage": "Es gibt viele Hindernisse bei der Lieferung von Hilfsgütern."
+    },
+    {
+      "term": "die Unterkühlung",
+      "translated_term": "hypothermia",
+      "example_usage": "Tragischerweise starb ein zwei Wochen altes Baby aus Khan Younis an Unterkühlung."
+    },
+    {
+      "term": "die Unterkunft",
+      "translated_term": "shelter / accommodation",
+      "example_usage": "Viele Familien haben keine angemessene Unterkunft und Heizung."
+    },
+    {
+      "term": "knapp",
+      "translated_term": "scarce",
+      "example_usage": "Medizinische Versorgung und Lebensmittel sind knapp."
+    },
+    {
+      "term": "das Leid",
+      "translated_term": "suffering",
+      "example_usage": "Die internationale Gemeinschaft muss schnell handeln, um mehr Leid zu verhindern."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Gaza-Konflikt",
+      "translated_name": "Gaza Conflict"
+    },
+    {
+      "name": "Humanitäre Krise",
+      "translated_name": "Humanitarian Crisis"
+    },
+    {
+      "name": "Vereinte Nationen",
+      "translated_name": "United Nations"
+    }
+  ],
+  "sources": [
+    {
+      "name": "UN News",
+      "link_url": "https://news.un.org/en/story/2025/12/1166611"
+    }
+  ]
+}

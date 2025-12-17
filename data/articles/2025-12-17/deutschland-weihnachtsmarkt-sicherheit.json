@@ -1,0 +1,122 @@
+{
+  "title": "Erhöhte Sicherheit auf deutschen Weihnachtsmärkten",
+  "translated_title": "Increased Security at German Christmas Markets",
+  "text": [
+    {
+      "text": "Die deutschen Behörden haben mehrere Terrorpläne verhindert.",
+      "translated_text": "German authorities have prevented several terror plots."
+    },
+    {
+      "text": "Am Freitag verhaftete die Polizei in Magdeburg einen 21-jährigen Mann.",
+      "translated_text": "On Friday, the police arrested a 21-year-old man in Magdeburg."
+    },
+    {
+      "text": "Der Mann plante angeblich einen Anschlag auf große Menschenmengen.",
+      "translated_text": "The man allegedly planned an attack on large crowds."
+    },
+    {
+      "text": "Der Anschlag hätte möglicherweise einen islamistischen Hintergrund gehabt.",
+      "translated_text": "The attack would possibly have had an Islamist background."
+    },
+    {
+      "text": "Am selben Tag verhaftete die Polizei fünf weitere Männer in Bayern.",
+      "translated_text": "On the same day, the police arrested five more men in Bavaria."
+    },
+    {
+      "text": "Diese Männer planten einen Autoanschlag auf einen Weihnachtsmarkt.",
+      "translated_text": "These men planned a car attack on a Christmas market."
+    },
+    {
+      "text": "Weihnachtsmärkte sind beliebte Ziele für Terroristen, weil dort viele Menschen sind.",
+      "translated_text": "Christmas markets are popular targets for terrorists because many people are there."
+    },
+    {
+      "text": "Die Sicherheitsmaßnahmen wurden in ganz Deutschland verstärkt.",
+      "translated_text": "Security measures have been strengthened throughout Germany."
+    },
+    {
+      "text": "Polizisten patrouillieren häufiger auf den Weihnachtsmärkten.",
+      "translated_text": "Police officers patrol Christmas markets more frequently."
+    },
+    {
+      "text": "Auch während der Friedensgespräche in Berlin galt die höchste Sicherheitsstufe.",
+      "translated_text": "Even during the peace talks in Berlin, the highest security level was in effect."
+    },
+    {
+      "text": "Die Behörden arbeiten eng zusammen, um die Bevölkerung zu schützen.",
+      "translated_text": "The authorities work closely together to protect the population."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Sicherheit",
+      "translated_term": "security",
+      "example_usage": "Erhöhte Sicherheit auf deutschen Weihnachtsmärkten."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "authority",
+      "example_usage": "Die deutschen Behörden haben mehrere Terrorpläne verhindert."
+    },
+    {
+      "term": "verhindern",
+      "translated_term": "to prevent",
+      "example_usage": "Die deutschen Behörden haben mehrere Terrorpläne verhindert."
+    },
+    {
+      "term": "verhaften",
+      "translated_term": "to arrest",
+      "example_usage": "Am Freitag verhaftete die Polizei in Magdeburg einen 21-jährigen Mann."
+    },
+    {
+      "term": "der Anschlag",
+      "translated_term": "attack",
+      "example_usage": "Der Mann plante angeblich einen Anschlag auf große Menschenmengen."
+    },
+    {
+      "term": "die Menschenmenge",
+      "translated_term": "crowd",
+      "example_usage": "Der Mann plante angeblich einen Anschlag auf große Menschenmengen."
+    },
+    {
+      "term": "der Weihnachtsmarkt",
+      "translated_term": "Christmas market",
+      "example_usage": "Diese Männer planten einen Autoanschlag auf einen Weihnachtsmarkt."
+    },
+    {
+      "term": "die Sicherheitsmaßnahme",
+      "translated_term": "security measure",
+      "example_usage": "Die Sicherheitsmaßnahmen wurden in ganz Deutschland verstärkt."
+    },
+    {
+      "term": "patrouillieren",
+      "translated_term": "to patrol",
+      "example_usage": "Polizisten patrouillieren häufiger auf den Weihnachtsmärkten."
+    },
+    {
+      "term": "schützen",
+      "translated_term": "to protect",
+      "example_usage": "Die Behörden arbeiten eng zusammen, um die Bevölkerung zu schützen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Terrorismus",
+      "translated_name": "Terrorism"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20251216/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-103"
+    }
+  ]
+}

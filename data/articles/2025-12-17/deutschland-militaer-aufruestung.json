@@ -1,0 +1,125 @@
+{
+  "title": "Deutschland rüstet sein Militär auf",
+  "translated_title": "Germany is Rearming its Military",
+  "text": [
+    {
+      "text": "Deutschland verstärkt seine militärischen Fähigkeiten erheblich.",
+      "translated_text": "Germany is significantly strengthening its military capabilities."
+    },
+    {
+      "text": "Nach Jahrzehnten der Friedensdividende modernisiert Deutschland jetzt seine Bundeswehr.",
+      "translated_text": "After decades of the peace dividend, Germany is now modernizing its armed forces."
+    },
+    {
+      "text": "Der Ukraine-Krieg und der Druck aus den USA haben diese Entscheidung beeinflusst.",
+      "translated_text": "The Ukraine war and pressure from the USA have influenced this decision."
+    },
+    {
+      "text": "Laut der Financial Times plant Berlin die größten Militärkäufe seit 2022.",
+      "translated_text": "According to the Financial Times, Berlin is planning the largest military purchases since 2022."
+    },
+    {
+      "text": "Die Liste der militärischen Ausrüstung hat einen Wert von etwa 50 Milliarden Euro.",
+      "translated_text": "The list of military equipment has a value of about 50 billion euros."
+    },
+    {
+      "text": "Deutschland möchte mehr Verantwortung für seine eigene Verteidigung übernehmen.",
+      "translated_text": "Germany wants to take on more responsibility for its own defense."
+    },
+    {
+      "text": "Die USA erwarten von europäischen Ländern, dass sie mehr für ihre Sicherheit tun.",
+      "translated_text": "The USA expects European countries to do more for their security."
+    },
+    {
+      "text": "Deutschland investiert auch in neue Technologien für die Verteidigung.",
+      "translated_text": "Germany is also investing in new technologies for defense."
+    },
+    {
+      "text": "Deutsche Unternehmen wie Helsing und Quantum Systems entwickeln KI-gestützte Drohnen.",
+      "translated_text": "German companies like Helsing and Quantum Systems are developing AI-powered drones."
+    },
+    {
+      "text": "Helsing erreichte dieses Jahr eine Bewertung von 12 Milliarden Euro.",
+      "translated_text": "Helsing reached a valuation of 12 billion euros this year."
+    },
+    {
+      "text": "Diese Entwicklung zeigt einen großen Wandel in der deutschen Sicherheitspolitik.",
+      "translated_text": "This development shows a major shift in German security policy."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "aufrüsten",
+      "translated_term": "to rearm",
+      "example_usage": "Deutschland rüstet sein Militär auf."
+    },
+    {
+      "term": "verstärken",
+      "translated_term": "to strengthen",
+      "example_usage": "Deutschland verstärkt seine militärischen Fähigkeiten erheblich."
+    },
+    {
+      "term": "die Bundeswehr",
+      "translated_term": "Federal Armed Forces",
+      "example_usage": "Nach Jahrzehnten der Friedensdividende modernisiert Deutschland jetzt seine Bundeswehr."
+    },
+    {
+      "term": "die Ausrüstung",
+      "translated_term": "equipment",
+      "example_usage": "Die Liste der militärischen Ausrüstung hat einen Wert von etwa 50 Milliarden Euro."
+    },
+    {
+      "term": "die Verteidigung",
+      "translated_term": "defense",
+      "example_usage": "Deutschland möchte mehr Verantwortung für seine eigene Verteidigung übernehmen."
+    },
+    {
+      "term": "die Sicherheit",
+      "translated_term": "security",
+      "example_usage": "Die USA erwarten von europäischen Ländern, dass sie mehr für ihre Sicherheit tun."
+    },
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "Deutsche Unternehmen wie Helsing und Quantum Systems entwickeln KI-gestützte Drohnen."
+    },
+    {
+      "term": "die Bewertung",
+      "translated_term": "valuation",
+      "example_usage": "Helsing erreichte dieses Jahr eine Bewertung von 12 Milliarden Euro."
+    },
+    {
+      "term": "der Wandel",
+      "translated_term": "shift / change",
+      "example_usage": "Diese Entwicklung zeigt einen großen Wandel in der deutschen Sicherheitspolitik."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Bundeswehr",
+      "translated_name": "Federal Armed Forces"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda EN",
+      "link_url": "https://news-pravda.com/world/2025/12/17/1939644.html"
+    },
+    {
+      "name": "CBS News",
+      "link_url": "https://www.cbsnews.com/video/germany-military-60-minutes-video-2025-12-14/"
+    },
+    {
+      "name": "CNBC",
+      "link_url": "https://www.cnbc.com/2025/12/11/ai-defense-boom-in-uk-and-germany-as-new-wave-of-companies-emerge.html"
+    }
+  ]
+}
