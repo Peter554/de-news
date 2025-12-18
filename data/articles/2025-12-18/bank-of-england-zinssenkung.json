@@ -1,0 +1,140 @@
+{
+  "title": "Bank of England senkt Zinsen nach Inflationsrückgang",
+  "translated_title": "Bank of England Cuts Interest Rates After Inflation Drop",
+  "text": [
+    {
+      "text": "Die Bank of England hat am 18. Dezember die Zinsen gesenkt.",
+      "translated_text": "The Bank of England cut interest rates on December 18."
+    },
+    {
+      "text": "Die Zinsen wurden um 0,25 Prozentpunkte auf 3,75 Prozent reduziert.",
+      "translated_text": "Interest rates were reduced by 0.25 percentage points to 3.75 percent."
+    },
+    {
+      "text": "Diese Entscheidung kam nach einem überraschenden Rückgang der Inflation in Großbritannien.",
+      "translated_text": "This decision came after a surprising drop in inflation in Great Britain."
+    },
+    {
+      "text": "Die niedrigere Inflation bedeutet, dass die Preise nicht mehr so schnell steigen.",
+      "translated_text": "The lower inflation means that prices are no longer rising so quickly."
+    },
+    {
+      "text": "Experten hatten die Zinssenkung bereits erwartet.",
+      "translated_text": "Experts had already expected the interest rate cut."
+    },
+    {
+      "text": "Der Markt reagierte positiv auf die Nachricht.",
+      "translated_text": "The market reacted positively to the news."
+    },
+    {
+      "text": "Der FTSE 100, der wichtigste britische Aktienindex, stieg nach der Ankündigung.",
+      "translated_text": "The FTSE 100, the most important British stock index, rose after the announcement."
+    },
+    {
+      "text": "Besonders Banken und Hausbauunternehmen profitierten von der Entscheidung.",
+      "translated_text": "Banks and homebuilding companies in particular benefited from the decision."
+    },
+    {
+      "text": "Das britische Pfund wurde nach der Zinssenkung schwächer.",
+      "translated_text": "The British pound became weaker after the interest rate cut."
+    },
+    {
+      "text": "Niedrigere Zinsen machen es für Menschen günstiger, Kredite aufzunehmen.",
+      "translated_text": "Lower interest rates make it cheaper for people to take out loans."
+    },
+    {
+      "text": "Das kann helfen, die Wirtschaft anzukurbeln und den Wohnungsmarkt zu unterstützen.",
+      "translated_text": "That can help to stimulate the economy and support the housing market."
+    },
+    {
+      "text": "Die Bank of England beobachtet weiterhin die wirtschaftliche Entwicklung genau.",
+      "translated_text": "The Bank of England continues to closely monitor economic development."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "senken",
+      "translated_term": "to cut, to lower",
+      "example_usage": "Die Bank of England hat die Zinsen gesenkt."
+    },
+    {
+      "term": "die Zinsen",
+      "translated_term": "interest rates",
+      "example_usage": "Die Zinsen wurden um 0,25 Prozentpunkte auf 3,75 Prozent reduziert."
+    },
+    {
+      "term": "der Prozentpunkt",
+      "translated_term": "percentage point",
+      "example_usage": "Die Zinsen wurden um 0,25 Prozentpunkte reduziert."
+    },
+    {
+      "term": "die Inflation",
+      "translated_term": "inflation",
+      "example_usage": "Diese Entscheidung kam nach einem überraschenden Rückgang der Inflation."
+    },
+    {
+      "term": "der Rückgang",
+      "translated_term": "drop, decline",
+      "example_usage": "Es gab einen überraschenden Rückgang der Inflation."
+    },
+    {
+      "term": "die Zinssenkung",
+      "translated_term": "interest rate cut",
+      "example_usage": "Experten hatten die Zinssenkung bereits erwartet."
+    },
+    {
+      "term": "der Aktienindex",
+      "translated_term": "stock index",
+      "example_usage": "Der FTSE 100, der wichtigste britische Aktienindex, stieg nach der Ankündigung."
+    },
+    {
+      "term": "profitieren",
+      "translated_term": "to benefit",
+      "example_usage": "Besonders Banken und Hausbauunternehmen profitierten von der Entscheidung."
+    },
+    {
+      "term": "der Kredit",
+      "translated_term": "loan",
+      "example_usage": "Niedrigere Zinsen machen es für Menschen günstiger, Kredite aufzunehmen."
+    },
+    {
+      "term": "ankurbeln",
+      "translated_term": "to stimulate",
+      "example_usage": "Das kann helfen, die Wirtschaft anzukurbeln."
+    },
+    {
+      "term": "der Wohnungsmarkt",
+      "translated_term": "housing market",
+      "example_usage": "Das kann helfen, den Wohnungsmarkt zu unterstützen."
+    },
+    {
+      "term": "beobachten",
+      "translated_term": "to monitor, to observe",
+      "example_usage": "Die Bank of England beobachtet weiterhin die wirtschaftliche Entwicklung genau."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Finanzmärkte",
+      "translated_name": "Financial Markets"
+    }
+  ],
+  "sources": [
+    {
+      "name": "TS2 Space",
+      "link_url": "https://ts2.tech/en/uk-stock-market-preview-for-18-december-2025-boe-rate-decision-inflation-surprise-ftse-100-movers-and-global-cues/"
+    },
+    {
+      "name": "Right Move",
+      "link_url": "https://www.rightmove.co.uk/news/articles/property-news/december-2025-housing-market-update/"
+    }
+  ]
+}

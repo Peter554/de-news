@@ -1,0 +1,136 @@
+{
+  "title": "Deutschland beschuldigt Russland eines Cyberangriffs",
+  "translated_title": "Germany Accuses Russia of Cyber Attack",
+  "text": [
+    {
+      "text": "Die deutsche Regierung hat schwere Vorwürfe gegen Russland erhoben.",
+      "translated_text": "The German government has made serious accusations against Russia."
+    },
+    {
+      "text": "Ein Sprecher des Auswärtigen Amtes sagte, dass der russische Militärgeheimdienst hinter einem Cyberangriff auf die deutsche Flugsicherung stecke.",
+      "translated_text": "A spokesman for the Foreign Office said that Russian military intelligence was behind a cyber attack on German air traffic control."
+    },
+    {
+      "text": "Der Angriff fand im August 2024 statt und richtete sich gegen wichtige Infrastruktur.",
+      "translated_text": "The attack took place in August 2024 and targeted important infrastructure."
+    },
+    {
+      "text": "Die Flugsicherung ist sehr wichtig für die Sicherheit im Luftverkehr.",
+      "translated_text": "Air traffic control is very important for safety in air traffic."
+    },
+    {
+      "text": "Deutschland wirft Russland auch vor, die Bundestagswahl im Februar 2025 beeinflussen zu wollen.",
+      "translated_text": "Germany also accuses Russia of wanting to influence the federal election in February 2025."
+    },
+    {
+      "text": "Russland versuche, Deutschland zu destabilisieren, so der Vorwurf.",
+      "translated_text": "Russia is trying to destabilize Germany, according to the accusation."
+    },
+    {
+      "text": "Cyberangriffe sind eine moderne Form der Kriegsführung.",
+      "translated_text": "Cyber attacks are a modern form of warfare."
+    },
+    {
+      "text": "Sie können große Schäden verursachen, ohne dass Soldaten eingesetzt werden müssen.",
+      "translated_text": "They can cause great damage without soldiers having to be deployed."
+    },
+    {
+      "text": "Die Bundesregierung nimmt die Bedrohung sehr ernst.",
+      "translated_text": "The federal government takes the threat very seriously."
+    },
+    {
+      "text": "Deutschland arbeitet mit seinen europäischen Partnern zusammen, um sich gegen solche Angriffe zu schützen.",
+      "translated_text": "Germany is working together with its European partners to protect itself against such attacks."
+    },
+    {
+      "text": "Experten für Cybersicherheit warnen, dass solche Angriffe in Zukunft zunehmen werden.",
+      "translated_text": "Cybersecurity experts warn that such attacks will increase in the future."
+    },
+    {
+      "text": "Die Sicherheit der digitalen Infrastruktur wird immer wichtiger für moderne Staaten.",
+      "translated_text": "The security of digital infrastructure is becoming increasingly important for modern states."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "beschuldigen",
+      "translated_term": "to accuse",
+      "example_usage": "Deutschland beschuldigt Russland eines Cyberangriffs."
+    },
+    {
+      "term": "der Vorwurf",
+      "translated_term": "accusation",
+      "example_usage": "Die deutsche Regierung hat schwere Vorwürfe gegen Russland erhoben."
+    },
+    {
+      "term": "das Auswärtige Amt",
+      "translated_term": "Foreign Office",
+      "example_usage": "Ein Sprecher des Auswärtigen Amtes sagte, dass der russische Militärgeheimdienst hinter einem Cyberangriff stecke."
+    },
+    {
+      "term": "der Militärgeheimdienst",
+      "translated_term": "military intelligence",
+      "example_usage": "Der russische Militärgeheimdienst war hinter einem Cyberangriff auf die deutsche Flugsicherung."
+    },
+    {
+      "term": "die Flugsicherung",
+      "translated_term": "air traffic control",
+      "example_usage": "Der Angriff richtete sich gegen die deutsche Flugsicherung."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "infrastructure",
+      "example_usage": "Der Angriff richtete sich gegen wichtige Infrastruktur."
+    },
+    {
+      "term": "beeinflussen",
+      "translated_term": "to influence",
+      "example_usage": "Deutschland wirft Russland vor, die Bundestagswahl beeinflussen zu wollen."
+    },
+    {
+      "term": "destabilisieren",
+      "translated_term": "to destabilize",
+      "example_usage": "Russland versuche, Deutschland zu destabilisieren."
+    },
+    {
+      "term": "die Kriegsführung",
+      "translated_term": "warfare",
+      "example_usage": "Cyberangriffe sind eine moderne Form der Kriegsführung."
+    },
+    {
+      "term": "der Schaden",
+      "translated_term": "damage",
+      "example_usage": "Sie können große Schäden verursachen."
+    },
+    {
+      "term": "die Bedrohung",
+      "translated_term": "threat",
+      "example_usage": "Die Bundesregierung nimmt die Bedrohung sehr ernst."
+    },
+    {
+      "term": "zunehmen",
+      "translated_term": "to increase",
+      "example_usage": "Experten warnen, dass solche Angriffe in Zukunft zunehmen werden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Cybersicherheit",
+      "translated_name": "Cybersecurity"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    },
+    {
+      "name": "Nationale Sicherheit",
+      "translated_name": "National Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Left Berlin",
+      "link_url": "https://www.theleftberlin.com/news-from-berlin-and-germany-17th-december-2025/"
+    }
+  ]
+}

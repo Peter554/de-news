@@ -1,0 +1,140 @@
+{
+  "title": "Deutschland investiert in stärkere Bundeswehr",
+  "translated_title": "Germany Invests in Stronger Armed Forces",
+  "text": [
+    {
+      "text": "Deutschland plant große Investitionen in seine Streitkräfte.",
+      "translated_text": "Germany is planning major investments in its armed forces."
+    },
+    {
+      "text": "Das Ziel ist es, die 'leistungsfähigste Armee Europas' aufzubauen.",
+      "translated_text": "The goal is to build the 'most capable army in Europe'."
+    },
+    {
+      "text": "Die Bundeswehr soll modernisiert und verstärkt werden.",
+      "translated_text": "The Federal Armed Forces are to be modernized and strengthened."
+    },
+    {
+      "text": "Der NATO-Generalsekretär lobte die deutschen Pläne.",
+      "translated_text": "The NATO Secretary General praised the German plans."
+    },
+    {
+      "text": "Deutschland reagiert damit auf die unsichere Sicherheitslage in Europa.",
+      "translated_text": "Germany is thus responding to the uncertain security situation in Europe."
+    },
+    {
+      "text": "Besonders die Unsicherheit über die amerikanische Unterstützung spielt eine große Rolle.",
+      "translated_text": "The uncertainty about American support in particular plays a major role."
+    },
+    {
+      "text": "Die Regierung plant, mehr Soldaten einzustellen.",
+      "translated_text": "The government plans to recruit more soldiers."
+    },
+    {
+      "text": "Außerdem soll in moderne Waffentechnologie investiert werden.",
+      "translated_text": "In addition, investments are to be made in modern weapons technology."
+    },
+    {
+      "text": "Dazu gehören Drohnen und neue Aufklärungstechnologie.",
+      "translated_text": "This includes drones and new reconnaissance technology."
+    },
+    {
+      "text": "Deutschland hat in der Vergangenheit relativ wenig für Verteidigung ausgegeben.",
+      "translated_text": "Germany has spent relatively little on defense in the past."
+    },
+    {
+      "text": "Jetzt erkennt die Regierung, dass Europa mehr für seine eigene Sicherheit tun muss.",
+      "translated_text": "Now the government recognizes that Europe must do more for its own security."
+    },
+    {
+      "text": "Die Investitionen sollen helfen, Deutschland und seine europäischen Partner besser zu schützen.",
+      "translated_text": "The investments are meant to help protect Germany and its European partners better."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "investieren",
+      "translated_term": "to invest",
+      "example_usage": "Deutschland investiert in stärkere Bundeswehr."
+    },
+    {
+      "term": "die Bundeswehr",
+      "translated_term": "Federal Armed Forces",
+      "example_usage": "Die Bundeswehr soll modernisiert und verstärkt werden."
+    },
+    {
+      "term": "die Streitkräfte",
+      "translated_term": "armed forces",
+      "example_usage": "Deutschland plant große Investitionen in seine Streitkräfte."
+    },
+    {
+      "term": "leistungsfähig",
+      "translated_term": "capable, efficient",
+      "example_usage": "Das Ziel ist es, die leistungsfähigste Armee Europas aufzubauen."
+    },
+    {
+      "term": "modernisieren",
+      "translated_term": "to modernize",
+      "example_usage": "Die Bundeswehr soll modernisiert werden."
+    },
+    {
+      "term": "der NATO-Generalsekretär",
+      "translated_term": "NATO Secretary General",
+      "example_usage": "Der NATO-Generalsekretär lobte die deutschen Pläne."
+    },
+    {
+      "term": "die Sicherheitslage",
+      "translated_term": "security situation",
+      "example_usage": "Deutschland reagiert auf die unsichere Sicherheitslage in Europa."
+    },
+    {
+      "term": "einstellen",
+      "translated_term": "to recruit, to hire",
+      "example_usage": "Die Regierung plant, mehr Soldaten einzustellen."
+    },
+    {
+      "term": "die Waffentechnologie",
+      "translated_term": "weapons technology",
+      "example_usage": "Es soll in moderne Waffentechnologie investiert werden."
+    },
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "Dazu gehören Drohnen und neue Aufklärungstechnologie."
+    },
+    {
+      "term": "die Verteidigung",
+      "translated_term": "defense",
+      "example_usage": "Deutschland hat in der Vergangenheit relativ wenig für Verteidigung ausgegeben."
+    },
+    {
+      "term": "erkennen",
+      "translated_term": "to recognize",
+      "example_usage": "Jetzt erkennt die Regierung, dass Europa mehr für seine eigene Sicherheit tun muss."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Bundeswehr",
+      "translated_name": "Federal Armed Forces"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "NATO",
+      "translated_name": "NATO"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CBS News",
+      "link_url": "https://www.cbsnews.com/news/german-military-rearmament-60-minutes/"
+    },
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/2025/12/11/europe-needs-to-do-much-more-towards-security-germanys-chancellor-warns"
+    }
+  ]
+}
