@@ -1,0 +1,162 @@
+{
+  "title": "Deutschland eröffnet Drohnenabwehrzentrum in Berlin",
+  "translated_title": "Germany opens drone defense center in Berlin",
+  "text": [
+    {
+      "text": "Deutschland hat ein neues Zentrum für Drohnenabwehr in Berlin eröffnet.",
+      "translated_text": "Germany has opened a new center for drone defense in Berlin."
+    },
+    {
+      "text": "Das Zentrum heißt GDAZ und arbeitet rund um die Uhr.",
+      "translated_text": "The center is called GDAZ and operates around the clock."
+    },
+    {
+      "text": "Dort arbeiten Polizei von Bund und Ländern sowie die Bundeswehr zusammen.",
+      "translated_text": "Federal and state police as well as the armed forces work together there."
+    },
+    {
+      "text": "Innenminister Alexander Dobrindt sagt, Deutschland ist zwar nicht im Krieg.",
+      "translated_text": "Interior Minister Alexander Dobrindt says Germany is not at war."
+    },
+    {
+      "text": "Aber das Land ist fast jeden Tag das Ziel hybrider Kriegstaktiken.",
+      "translated_text": "But the country is the target of hybrid warfare tactics almost every day."
+    },
+    {
+      "text": "In den letzten Monaten gab es immer mehr verdächtige Drohnensichtungen.",
+      "translated_text": "In recent months there have been more and more suspicious drone sightings."
+    },
+    {
+      "text": "Von Januar bis Oktober dokumentierten die Behörden 850 verdächtige Fälle.",
+      "translated_text": "From January to October, the authorities documented 850 suspicious cases."
+    },
+    {
+      "text": "122 dieser Sichtungen waren in der Nähe von Flughäfen.",
+      "translated_text": "122 of these sightings were near airports."
+    },
+    {
+      "text": "Experten glauben, dass einige Drohnen von Russland gesteuert werden.",
+      "translated_text": "Experts believe that some drones are controlled by Russia."
+    },
+    {
+      "text": "Diese Drohnen stören den Flugverkehr und dienen der Spionage.",
+      "translated_text": "These drones disrupt air traffic and serve espionage purposes."
+    },
+    {
+      "text": "Das neue Zentrum soll schnell und koordiniert auf Bedrohungen reagieren.",
+      "translated_text": "The new center should respond quickly and in a coordinated manner to threats."
+    },
+    {
+      "text": "Es nutzt KI-gestützte Störsysteme und Abfangdrohnen.",
+      "translated_text": "It uses AI-supported jamming systems and interceptor drones."
+    },
+    {
+      "text": "Die Regierung hat 100 Millionen Euro für deutsche und israelische Systeme bereitgestellt.",
+      "translated_text": "The government has provided 100 million euros for German and Israeli systems."
+    },
+    {
+      "text": "Das Zentrum wird ab Januar voll einsatzfähig sein.",
+      "translated_text": "The center will be fully operational from January."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Drohnenabwehr",
+      "translated_term": "the drone defense",
+      "example_usage": "Deutschland hat ein neues Zentrum für Drohnenabwehr in Berlin eröffnet."
+    },
+    {
+      "term": "eröffnen",
+      "translated_term": "to open",
+      "example_usage": "Deutschland hat ein neues Zentrum für Drohnenabwehr in Berlin eröffnet."
+    },
+    {
+      "term": "rund um die Uhr",
+      "translated_term": "around the clock",
+      "example_usage": "Das Zentrum heißt GDAZ und arbeitet rund um die Uhr."
+    },
+    {
+      "term": "die Bundeswehr",
+      "translated_term": "the federal armed forces",
+      "example_usage": "Dort arbeiten Polizei von Bund und Ländern sowie die Bundeswehr zusammen."
+    },
+    {
+      "term": "hybrid",
+      "translated_term": "hybrid",
+      "example_usage": "Aber das Land ist fast jeden Tag das Ziel hybrider Kriegstaktiken."
+    },
+    {
+      "term": "die Drohnensichtung",
+      "translated_term": "the drone sighting",
+      "example_usage": "In den letzten Monaten gab es immer mehr verdächtige Drohnensichtungen."
+    },
+    {
+      "term": "dokumentieren",
+      "translated_term": "to document",
+      "example_usage": "Von Januar bis Oktober dokumentierten die Behörden 850 verdächtige Fälle."
+    },
+    {
+      "term": "steuern",
+      "translated_term": "to control",
+      "example_usage": "Experten glauben, dass einige Drohnen von Russland gesteuert werden."
+    },
+    {
+      "term": "stören",
+      "translated_term": "to disrupt",
+      "example_usage": "Diese Drohnen stören den Flugverkehr und dienen der Spionage."
+    },
+    {
+      "term": "die Spionage",
+      "translated_term": "the espionage",
+      "example_usage": "Diese Drohnen stören den Flugverkehr und dienen der Spionage."
+    },
+    {
+      "term": "die Bedrohung",
+      "translated_term": "the threat",
+      "example_usage": "Das neue Zentrum soll schnell und koordiniert auf Bedrohungen reagieren."
+    },
+    {
+      "term": "KI-gestützt",
+      "translated_term": "AI-supported",
+      "example_usage": "Es nutzt KI-gestützte Störsysteme und Abfangdrohnen."
+    },
+    {
+      "term": "bereitstellen",
+      "translated_term": "to provide",
+      "example_usage": "Die Regierung hat 100 Millionen Euro für deutsche und israelische Systeme bereitgestellt."
+    },
+    {
+      "term": "einsatzfähig",
+      "translated_term": "operational",
+      "example_usage": "Das Zentrum wird ab Januar voll einsatzfähig sein."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Nationale Sicherheit",
+      "translated_name": "National Security"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    }
+  ],
+  "sources": [
+    {
+      "name": "US News",
+      "link_url": "https://www.usnews.com/news/world/articles/2025-12-17/germany-opens-joint-drone-defence-centre-in-berlin"
+    },
+    {
+      "name": "DevDiscourse",
+      "link_url": "https://www.devdiscourse.com/article/law-order/3733699-germany-launches-unified-drone-defense-centre"
+    },
+    {
+      "name": "DroneDJ",
+      "link_url": "https://dronexl.co/2025/12/04/germany-police-unit-stop-drone-threat/"
+    }
+  ]
+}
