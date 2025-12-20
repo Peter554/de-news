@@ -1,0 +1,122 @@
+{
+  "title": "Deutschland investiert Milliarden in die Verteidigung",
+  "translated_title": "Germany Invests Billions in Defense",
+  "text": [
+    {
+      "text": "Deutschland gibt fast 60 Milliarden Dollar für die Verteidigung aus.",
+      "translated_text": "Germany is spending almost 60 billion dollars on defense."
+    },
+    {
+      "text": "Der Haushaltsausschuss des Bundestages hat 30 große Rüstungsprojekte genehmigt.",
+      "translated_text": "The budget committee of the Bundestag has approved 30 major armament projects."
+    },
+    {
+      "text": "Diese Projekte haben einen Wert von etwa 50 Milliarden Euro.",
+      "translated_text": "These projects have a value of about 50 billion euros."
+    },
+    {
+      "text": "Insgesamt hat Deutschland im Jahr 2025 schon 103 große Rüstungsprojekte beschlossen.",
+      "translated_text": "In total, Germany has already decided on 103 major armament projects in 2025."
+    },
+    {
+      "text": "Das ist ein Rekord in der deutschen Geschichte.",
+      "translated_text": "This is a record in German history."
+    },
+    {
+      "text": "Experten sagen, dass Deutschland bald die stärkste Armee in Europa haben wird.",
+      "translated_text": "Experts say that Germany will soon have the strongest army in Europe."
+    },
+    {
+      "text": "Die Bundeswehr bekommt neue Ausrüstung und moderne Waffen.",
+      "translated_text": "The Bundeswehr is getting new equipment and modern weapons."
+    },
+    {
+      "text": "Diese Investitionen sind wichtig für die Sicherheit in Europa.",
+      "translated_text": "These investments are important for security in Europe."
+    },
+    {
+      "text": "Viele NATO-Partner begrüßen die deutschen Anstrengungen.",
+      "translated_text": "Many NATO partners welcome the German efforts."
+    },
+    {
+      "text": "Deutschland nimmt seine Verantwortung für die europäische Verteidigung sehr ernst.",
+      "translated_text": "Germany takes its responsibility for European defense very seriously."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Verteidigung",
+      "translated_term": "defense",
+      "example_usage": "Deutschland gibt fast 60 Milliarden Dollar für die Verteidigung aus."
+    },
+    {
+      "term": "der Haushaltsausschuss",
+      "translated_term": "budget committee",
+      "example_usage": "Der Haushaltsausschuss des Bundestages hat 30 große Rüstungsprojekte genehmigt."
+    },
+    {
+      "term": "das Rüstungsprojekt",
+      "translated_term": "armament project",
+      "example_usage": "Der Haushaltsausschuss des Bundestages hat 30 große Rüstungsprojekte genehmigt."
+    },
+    {
+      "term": "genehmigen",
+      "translated_term": "to approve",
+      "example_usage": "Der Haushaltsausschuss des Bundestages hat 30 große Rüstungsprojekte genehmigt."
+    },
+    {
+      "term": "der Rekord",
+      "translated_term": "record",
+      "example_usage": "Das ist ein Rekord in der deutschen Geschichte."
+    },
+    {
+      "term": "die Bundeswehr",
+      "translated_term": "German Armed Forces",
+      "example_usage": "Die Bundeswehr bekommt neue Ausrüstung und moderne Waffen."
+    },
+    {
+      "term": "die Ausrüstung",
+      "translated_term": "equipment",
+      "example_usage": "Die Bundeswehr bekommt neue Ausrüstung und moderne Waffen."
+    },
+    {
+      "term": "die Investition",
+      "translated_term": "investment",
+      "example_usage": "Diese Investitionen sind wichtig für die Sicherheit in Europa."
+    },
+    {
+      "term": "begrüßen",
+      "translated_term": "to welcome",
+      "example_usage": "Viele NATO-Partner begrüßen die deutschen Anstrengungen."
+    },
+    {
+      "term": "die Verantwortung",
+      "translated_term": "responsibility",
+      "example_usage": "Deutschland nimmt seine Verantwortung für die europäische Verteidigung sehr ernst."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Bundeswehr",
+      "translated_name": "Federal Armed Forces"
+    },
+    {
+      "name": "NATO",
+      "translated_name": "NATO"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Defense News",
+      "link_url": "https://www.defensenews.com/global/europe/2025/12/18/germany-to-spend-almost-60-billion-in-latest-military-funding-package/"
+    },
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/2025/12/11/europe-needs-to-do-much-more-towards-security-germanys-chancellor-warns"
+    }
+  ]
+}

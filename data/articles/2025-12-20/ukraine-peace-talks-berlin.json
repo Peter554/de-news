@@ -1,0 +1,122 @@
+{
+  "title": "Friedensgespräche für die Ukraine in Berlin",
+  "translated_title": "Peace Talks for Ukraine in Berlin",
+  "text": [
+    {
+      "text": "In Berlin finden wichtige Verhandlungen über den Krieg in der Ukraine statt.",
+      "translated_text": "Important negotiations about the war in Ukraine are taking place in Berlin."
+    },
+    {
+      "text": "Der ukrainische Präsident Wolodymyr Selenskyj und der amerikanische Sondergesandte Steve Witkoff führen intensive Gespräche.",
+      "translated_text": "Ukrainian President Volodymyr Zelenskyy and American special envoy Steve Witkoff are conducting intensive talks."
+    },
+    {
+      "text": "Der deutsche Bundeskanzler Friedrich Merz sagt, dass es jetzt eine Chance für einen echten Friedensprozess gibt.",
+      "translated_text": "German Chancellor Friedrich Merz says that there is now a chance for a real peace process."
+    },
+    {
+      "text": "Die diplomatische Dynamik ist größer als alles, was wir seit Beginn des Krieges gesehen haben.",
+      "translated_text": "The diplomatic momentum is greater than anything we have seen since the start of the war."
+    },
+    {
+      "text": "Deutschland und andere europäische Länder haben angeboten, eine Schutztruppe zu organisieren.",
+      "translated_text": "Germany and other European countries have offered to organize a protection force."
+    },
+    {
+      "text": "Diese Truppe könnte einen möglichen Waffenstillstand sichern.",
+      "translated_text": "This force could secure a possible ceasefire."
+    },
+    {
+      "text": "Die europäische Truppe würde mit amerikanischer Unterstützung arbeiten.",
+      "translated_text": "The European force would work with American support."
+    },
+    {
+      "text": "Viele Menschen hoffen, dass diese Verhandlungen endlich Frieden bringen.",
+      "translated_text": "Many people hope that these negotiations will finally bring peace."
+    },
+    {
+      "text": "Der Krieg hat schon viel Leid und Zerstörung verursacht.",
+      "translated_text": "The war has already caused much suffering and destruction."
+    },
+    {
+      "text": "Die internationale Gemeinschaft beobachtet die Gespräche in Berlin sehr genau.",
+      "translated_text": "The international community is watching the talks in Berlin very closely."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Verhandlung",
+      "translated_term": "negotiation",
+      "example_usage": "In Berlin finden wichtige Verhandlungen über den Krieg in der Ukraine statt."
+    },
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "chancellor",
+      "example_usage": "Der deutsche Bundeskanzler Friedrich Merz sagt, dass es jetzt eine Chance für einen echten Friedensprozess gibt."
+    },
+    {
+      "term": "der Friedensprozess",
+      "translated_term": "peace process",
+      "example_usage": "Der deutsche Bundeskanzler Friedrich Merz sagt, dass es jetzt eine Chance für einen echten Friedensprozess gibt."
+    },
+    {
+      "term": "führen",
+      "translated_term": "to conduct",
+      "example_usage": "Der ukrainische Präsident Wolodymyr Selenskyj und der amerikanische Sondergesandte Steve Witkoff führen intensive Gespräche."
+    },
+    {
+      "term": "die Dynamik",
+      "translated_term": "momentum/dynamics",
+      "example_usage": "Die diplomatische Dynamik ist größer als alles, was wir seit Beginn des Krieges gesehen haben."
+    },
+    {
+      "term": "die Schutztruppe",
+      "translated_term": "protection force",
+      "example_usage": "Deutschland und andere europäische Länder haben angeboten, eine Schutztruppe zu organisieren."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "ceasefire",
+      "example_usage": "Diese Truppe könnte einen möglichen Waffenstillstand sichern."
+    },
+    {
+      "term": "verursachen",
+      "translated_term": "to cause",
+      "example_usage": "Der Krieg hat schon viel Leid und Zerstörung verursacht."
+    },
+    {
+      "term": "das Leid",
+      "translated_term": "suffering",
+      "example_usage": "Der Krieg hat schon viel Leid und Zerstörung verursacht."
+    },
+    {
+      "term": "die Zerstörung",
+      "translated_term": "destruction",
+      "example_usage": "Der Krieg hat schon viel Leid und Zerstörung verursacht."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Deutschland.de",
+      "link_url": "https://www.deutschland.de/en/news/germany-news-today-foreign-policy"
+    },
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2025-12-19/germany-yields-to-eu-summit-to-keep-ukraine-war-effort-alive"
+    }
+  ]
+}
