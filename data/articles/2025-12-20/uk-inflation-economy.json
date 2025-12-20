@@ -1,0 +1,122 @@
+{
+  "title": "Britische Wirtschaft kämpft mit hoher Inflation",
+  "translated_title": "British Economy Struggles with High Inflation",
+  "text": [
+    {
+      "text": "Großbritannien hat im Oktober 2025 eine Inflation von 3,6 Prozent.",
+      "translated_text": "Great Britain has an inflation rate of 3.6 percent in October 2025."
+    },
+    {
+      "text": "Das ist höher als die Bank of England erwartet hat.",
+      "translated_text": "This is higher than the Bank of England expected."
+    },
+    {
+      "text": "Der Gouverneur der Bank of England hat deshalb einen Brief an den Finanzminister geschrieben.",
+      "translated_text": "The Governor of the Bank of England therefore wrote a letter to the Finance Minister."
+    },
+    {
+      "text": "Der Finanzminister hat am gleichen Tag geantwortet.",
+      "translated_text": "The Finance Minister replied on the same day."
+    },
+    {
+      "text": "Auch der Immobilienmarkt zeigt Probleme.",
+      "translated_text": "The real estate market also shows problems."
+    },
+    {
+      "text": "Die Preise für Häuser sind um 0,6 Prozent gefallen.",
+      "translated_text": "House prices have fallen by 0.6 percent."
+    },
+    {
+      "text": "Das bedeutet, dass ein durchschnittliches Haus etwa 2.000 Pfund weniger kostet als vor einem Jahr.",
+      "translated_text": "This means that an average house costs about 2,000 pounds less than a year ago."
+    },
+    {
+      "text": "Viele Menschen machen sich Sorgen um die wirtschaftliche Situation.",
+      "translated_text": "Many people are worried about the economic situation."
+    },
+    {
+      "text": "Die hohe Inflation macht das Leben teurer.",
+      "translated_text": "High inflation makes life more expensive."
+    },
+    {
+      "text": "Experten hoffen, dass die Inflation bald wieder sinkt.",
+      "translated_text": "Experts hope that inflation will fall again soon."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Inflation",
+      "translated_term": "inflation",
+      "example_usage": "Großbritannien hat im Oktober 2025 eine Inflation von 3,6 Prozent."
+    },
+    {
+      "term": "kämpfen",
+      "translated_term": "to struggle",
+      "example_usage": "Britische Wirtschaft kämpft mit hoher Inflation."
+    },
+    {
+      "term": "erwarten",
+      "translated_term": "to expect",
+      "example_usage": "Das ist höher als die Bank of England erwartet hat."
+    },
+    {
+      "term": "der Gouverneur",
+      "translated_term": "governor",
+      "example_usage": "Der Gouverneur der Bank of England hat deshalb einen Brief an den Finanzminister geschrieben."
+    },
+    {
+      "term": "der Finanzminister",
+      "translated_term": "finance minister",
+      "example_usage": "Der Gouverneur der Bank of England hat deshalb einen Brief an den Finanzminister geschrieben."
+    },
+    {
+      "term": "der Immobilienmarkt",
+      "translated_term": "real estate market",
+      "example_usage": "Auch der Immobilienmarkt zeigt Probleme."
+    },
+    {
+      "term": "fallen",
+      "translated_term": "to fall",
+      "example_usage": "Die Preise für Häuser sind um 0,6 Prozent gefallen."
+    },
+    {
+      "term": "durchschnittlich",
+      "translated_term": "average",
+      "example_usage": "Das bedeutet, dass ein durchschnittliches Haus etwa 2.000 Pfund weniger kostet als vor einem Jahr."
+    },
+    {
+      "term": "sich Sorgen machen",
+      "translated_term": "to worry",
+      "example_usage": "Viele Menschen machen sich Sorgen um die wirtschaftliche Situation."
+    },
+    {
+      "term": "sinken",
+      "translated_term": "to decrease/to fall",
+      "example_usage": "Experten hoffen, dass die Inflation bald wieder sinkt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Finanzmärkte",
+      "translated_name": "Financial Markets"
+    }
+  ],
+  "sources": [
+    {
+      "name": "UK Government",
+      "link_url": "https://www.gov.uk/government/publications/open-letters-between-hm-treasury-and-bank-of-england-december-2025"
+    },
+    {
+      "name": "Rightmove",
+      "link_url": "https://www.rightmove.co.uk/news/articles/property-news/december-2025-housing-market-update/"
+    }
+  ]
+}

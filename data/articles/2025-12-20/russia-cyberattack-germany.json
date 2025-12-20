@@ -1,0 +1,118 @@
+{
+  "title": "Russischer Cyberangriff auf deutsche Flugsicherung",
+  "translated_title": "Russian Cyber Attack on German Air Traffic Control",
+  "text": [
+    {
+      "text": "Deutschland beschuldigt Russland eines Cyberangriffs auf die Flugsicherung.",
+      "translated_text": "Germany accuses Russia of a cyber attack on air traffic control."
+    },
+    {
+      "text": "Ein Sprecher des Auswärtigen Amtes sagt, dass der russische Militärgeheimdienst dahinter steckt.",
+      "translated_text": "A spokesman for the Foreign Ministry says that Russian military intelligence is behind it."
+    },
+    {
+      "text": "Der Angriff fand im August 2024 statt.",
+      "translated_text": "The attack took place in August 2024."
+    },
+    {
+      "text": "Die deutsche Regierung ist sehr besorgt über diese Aktion.",
+      "translated_text": "The German government is very concerned about this action."
+    },
+    {
+      "text": "Cyberangriffe auf wichtige Infrastruktur sind eine große Gefahr.",
+      "translated_text": "Cyber attacks on critical infrastructure are a major threat."
+    },
+    {
+      "text": "Die Flugsicherung ist besonders wichtig für die Sicherheit im Luftverkehr.",
+      "translated_text": "Air traffic control is particularly important for safety in air traffic."
+    },
+    {
+      "text": "Deutschland fordert von Russland, solche Angriffe zu stoppen.",
+      "translated_text": "Germany demands that Russia stop such attacks."
+    },
+    {
+      "text": "Experten warnen vor weiteren Cyberangriffen in der Zukunft.",
+      "translated_text": "Experts warn of further cyber attacks in the future."
+    },
+    {
+      "text": "Die Bundesregierung verstärkt jetzt die Cybersicherheit.",
+      "translated_text": "The federal government is now strengthening cybersecurity."
+    },
+    {
+      "text": "Viele europäische Länder erleben ähnliche Angriffe aus Russland.",
+      "translated_text": "Many European countries are experiencing similar attacks from Russia."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Cyberangriff",
+      "translated_term": "cyber attack",
+      "example_usage": "Deutschland beschuldigt Russland eines Cyberangriffs auf die Flugsicherung."
+    },
+    {
+      "term": "beschuldigen",
+      "translated_term": "to accuse",
+      "example_usage": "Deutschland beschuldigt Russland eines Cyberangriffs auf die Flugsicherung."
+    },
+    {
+      "term": "die Flugsicherung",
+      "translated_term": "air traffic control",
+      "example_usage": "Deutschland beschuldigt Russland eines Cyberangriffs auf die Flugsicherung."
+    },
+    {
+      "term": "das Auswärtige Amt",
+      "translated_term": "Foreign Ministry",
+      "example_usage": "Ein Sprecher des Auswärtigen Amtes sagt, dass der russische Militärgeheimdienst dahinter steckt."
+    },
+    {
+      "term": "der Militärgeheimdienst",
+      "translated_term": "military intelligence",
+      "example_usage": "Ein Sprecher des Auswärtigen Amtes sagt, dass der russische Militärgeheimdienst dahinter steckt."
+    },
+    {
+      "term": "besorgt",
+      "translated_term": "concerned",
+      "example_usage": "Die deutsche Regierung ist sehr besorgt über diese Aktion."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "infrastructure",
+      "example_usage": "Cyberangriffe auf wichtige Infrastruktur sind eine große Gefahr."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand",
+      "example_usage": "Deutschland fordert von Russland, solche Angriffe zu stoppen."
+    },
+    {
+      "term": "verstärken",
+      "translated_term": "to strengthen",
+      "example_usage": "Die Bundesregierung verstärkt jetzt die Cybersicherheit."
+    },
+    {
+      "term": "die Cybersicherheit",
+      "translated_term": "cybersecurity",
+      "example_usage": "Die Bundesregierung verstärkt jetzt die Cybersicherheit."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Cybersicherheit",
+      "translated_name": "Cybersecurity"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Left Berlin",
+      "link_url": "https://www.theleftberlin.com/news-from-berlin-and-germany-17th-december-2025/"
+    }
+  ]
+}
