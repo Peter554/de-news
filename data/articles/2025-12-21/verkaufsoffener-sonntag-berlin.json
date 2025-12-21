@@ -1,0 +1,122 @@
+{
+  "title": "Letzter verkaufsoffener Sonntag in Berlin",
+  "translated_title": "Last Open Shopping Sunday in Berlin",
+  "text": [
+    {
+      "text": "Heute ist der letzte verkaufsoffene Sonntag des Jahres in Berlin.",
+      "translated_text": "Today is the last open shopping Sunday of the year in Berlin."
+    },
+    {
+      "text": "Es ist der vierte Adventssonntag, und die Geschäfte haben geöffnet.",
+      "translated_text": "It is the fourth Sunday of Advent, and the shops are open."
+    },
+    {
+      "text": "Normalerweise sind Geschäfte in Deutschland sonntags geschlossen.",
+      "translated_text": "Normally, shops in Germany are closed on Sundays."
+    },
+    {
+      "text": "Aber an besonderen Sonntagen dürfen einige Läden öffnen.",
+      "translated_text": "But on special Sundays, some stores are allowed to open."
+    },
+    {
+      "text": "Die meisten Geschäfte öffnen von 13 bis 18 Uhr.",
+      "translated_text": "Most shops open from 1 PM to 6 PM."
+    },
+    {
+      "text": "Viele Berliner nutzen den Tag, um ihre Weihnachtseinkäufe zu erledigen.",
+      "translated_text": "Many Berliners use the day to complete their Christmas shopping."
+    },
+    {
+      "text": "In den Einkaufszentren und Kaufhäusern ist es sehr voll.",
+      "translated_text": "The shopping centers and department stores are very crowded."
+    },
+    {
+      "text": "Gleichzeitig findet das Louis Lewandowski Festival in Berlin statt.",
+      "translated_text": "At the same time, the Louis Lewandowski Festival is taking place in Berlin."
+    },
+    {
+      "text": "Das Festival feiert jüdische Musik und Kultur bis zum 21. Dezember.",
+      "translated_text": "The festival celebrates Jewish music and culture until December 21."
+    },
+    {
+      "text": "Trotz des bewölkten Wetters genießen die Menschen die besondere Atmosphäre in der Stadt.",
+      "translated_text": "Despite the cloudy weather, people are enjoying the special atmosphere in the city."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "verkaufsoffen",
+      "translated_term": "open for shopping",
+      "example_usage": "Heute ist der letzte verkaufsoffene Sonntag des Jahres in Berlin."
+    },
+    {
+      "term": "der Adventssonntag",
+      "translated_term": "Sunday of Advent",
+      "example_usage": "Es ist der vierte Adventssonntag, und die Geschäfte haben geöffnet."
+    },
+    {
+      "term": "geschlossen",
+      "translated_term": "closed",
+      "example_usage": "Normalerweise sind Geschäfte in Deutschland sonntags geschlossen."
+    },
+    {
+      "term": "der Laden",
+      "translated_term": "store",
+      "example_usage": "Aber an besonderen Sonntagen dürfen einige Läden öffnen."
+    },
+    {
+      "term": "die Weihnachtseinkäufe",
+      "translated_term": "Christmas shopping",
+      "example_usage": "Viele Berliner nutzen den Tag, um ihre Weihnachtseinkäufe zu erledigen."
+    },
+    {
+      "term": "erledigen",
+      "translated_term": "to complete",
+      "example_usage": "Viele Berliner nutzen den Tag, um ihre Weihnachtseinkäufe zu erledigen."
+    },
+    {
+      "term": "das Einkaufszentrum",
+      "translated_term": "shopping center",
+      "example_usage": "In den Einkaufszentren und Kaufhäusern ist es sehr voll."
+    },
+    {
+      "term": "das Festival",
+      "translated_term": "festival",
+      "example_usage": "Gleichzeitig findet das Louis Lewandowski Festival in Berlin statt."
+    },
+    {
+      "term": "bewölkt",
+      "translated_term": "cloudy",
+      "example_usage": "Trotz des bewölkten Wetters genießen die Menschen die besondere Atmosphäre in der Stadt."
+    },
+    {
+      "term": "die Atmosphäre",
+      "translated_term": "atmosphere",
+      "example_usage": "Trotz des bewölkten Wetters genießen die Menschen die besondere Atmosphäre in der Stadt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Kultur",
+      "translated_name": "Culture"
+    },
+    {
+      "name": "Veranstaltungen",
+      "translated_name": "Events"
+    }
+  ],
+  "sources": [
+    {
+      "name": "in-berlin-brandenburg.com",
+      "link_url": "https://www.in-berlin-brandenburg.com/news/21-12-2025-verkaufsoffener-sonntag-in-berlin-brandenburg/"
+    },
+    {
+      "name": "Berlin.de",
+      "link_url": "https://www.berlin.de/en/news/"
+    }
+  ]
+}
