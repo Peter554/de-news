@@ -1,0 +1,122 @@
+{
+  "title": "Deutschland investiert Rekordsumme in Verteidigung",
+  "translated_title": "Germany Invests Record Amount in Defense",
+  "text": [
+    {
+      "text": "Der deutsche Haushaltsausschuss hat am Mittwoch 30 große Verteidigungsprojekte genehmigt.",
+      "translated_text": "The German budget committee approved 30 major defense projects on Wednesday."
+    },
+    {
+      "text": "Die Projekte kosten fast 50 Milliarden Euro.",
+      "translated_text": "The projects cost almost 50 billion euros."
+    },
+    {
+      "text": "Insgesamt hat Deutschland 2025 bereits 103 Verteidigungsprojekte für 83 Milliarden Euro bewilligt.",
+      "translated_text": "In total, Germany has already approved 103 defense projects for 83 billion euros in 2025."
+    },
+    {
+      "text": "Das ist ein neuer Rekord in der deutschen Geschichte.",
+      "translated_text": "This is a new record in German history."
+    },
+    {
+      "text": "Die Bundesregierung will die Bundeswehr modernisieren und stärker machen.",
+      "translated_text": "The Federal Government wants to modernize and strengthen the Bundeswehr."
+    },
+    {
+      "text": "Der Ukraine-Krieg hat Deutschland gezeigt, dass eine starke Verteidigung wichtig ist.",
+      "translated_text": "The Ukraine War has shown Germany that a strong defense is important."
+    },
+    {
+      "text": "Auch die USA fordern, dass Europa mehr für seine Sicherheit tun soll.",
+      "translated_text": "The USA also demands that Europe should do more for its security."
+    },
+    {
+      "text": "Mit dem Geld kauft Deutschland neue Waffen, Fahrzeuge und Ausrüstung.",
+      "translated_text": "With the money, Germany is buying new weapons, vehicles, and equipment."
+    },
+    {
+      "text": "Experten sagen, dass die Investitionen die Bundeswehr deutlich verbessern werden.",
+      "translated_text": "Experts say that the investments will significantly improve the Bundeswehr."
+    },
+    {
+      "text": "Die Bundeswehr ist ein wichtiger Teil der NATO und muss modern und stark sein.",
+      "translated_text": "The Bundeswehr is an important part of NATO and must be modern and strong."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Haushaltsausschuss",
+      "translated_term": "budget committee",
+      "example_usage": "Der deutsche Haushaltsausschuss hat am Mittwoch 30 große Verteidigungsprojekte genehmigt."
+    },
+    {
+      "term": "genehmigen",
+      "translated_term": "to approve",
+      "example_usage": "Der deutsche Haushaltsausschuss hat am Mittwoch 30 große Verteidigungsprojekte genehmigt."
+    },
+    {
+      "term": "das Verteidigungsprojekt",
+      "translated_term": "defense project",
+      "example_usage": "Insgesamt hat Deutschland 2025 bereits 103 Verteidigungsprojekte für 83 Milliarden Euro bewilligt."
+    },
+    {
+      "term": "der Rekord",
+      "translated_term": "record",
+      "example_usage": "Das ist ein neuer Rekord in der deutschen Geschichte."
+    },
+    {
+      "term": "die Bundeswehr",
+      "translated_term": "Federal Armed Forces",
+      "example_usage": "Die Bundesregierung will die Bundeswehr modernisieren und stärker machen."
+    },
+    {
+      "term": "modernisieren",
+      "translated_term": "to modernize",
+      "example_usage": "Die Bundesregierung will die Bundeswehr modernisieren und stärker machen."
+    },
+    {
+      "term": "die Verteidigung",
+      "translated_term": "defense",
+      "example_usage": "Der Ukraine-Krieg hat Deutschland gezeigt, dass eine starke Verteidigung wichtig ist."
+    },
+    {
+      "term": "die Ausrüstung",
+      "translated_term": "equipment",
+      "example_usage": "Mit dem Geld kauft Deutschland neue Waffen, Fahrzeuge und Ausrüstung."
+    },
+    {
+      "term": "die Investition",
+      "translated_term": "investment",
+      "example_usage": "Experten sagen, dass die Investitionen die Bundeswehr deutlich verbessern werden."
+    },
+    {
+      "term": "verbessern",
+      "translated_term": "to improve",
+      "example_usage": "Experten sagen, dass die Investitionen die Bundeswehr deutlich verbessern werden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Bundeswehr",
+      "translated_name": "Federal Armed Forces"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Defense News",
+      "link_url": "https://www.defensenews.com/global/europe/2025/12/18/germany-to-spend-almost-60-billion-in-latest-military-funding-package/"
+    },
+    {
+      "name": "CBS News",
+      "link_url": "https://www.cbsnews.com/news/germany-rearms-war-in-ukraine-threatens-security-us-presses-europe-to-shoulder-defense-60-minutes-transcript/"
+    }
+  ]
+}
