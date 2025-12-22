@@ -1,0 +1,122 @@
+{
+  "title": "NATO lobt Deutschland für Verteidigungsanstrengungen",
+  "translated_title": "NATO Praises Germany for Defense Efforts",
+  "text": [
+    {
+      "text": "NATO-Generalsekretär Mark Rutte hat Deutschland am 11. Dezember für seine Verteidigungsanstrengungen gelobt.",
+      "translated_text": "NATO Secretary General Mark Rutte praised Germany for its defense efforts on December 11."
+    },
+    {
+      "text": "Bei einem Treffen mit Bundeskanzler Friedrich Merz sagte Rutte, dass Deutschland \"ein gutes Beispiel\" gibt.",
+      "translated_text": "At a meeting with Chancellor Friedrich Merz, Rutte said that Germany is 'setting a good example'."
+    },
+    {
+      "text": "Deutschland arbeitet daran, die stärkste Armee in Europa aufzubauen.",
+      "translated_text": "Germany is working to build the most capable army in Europe."
+    },
+    {
+      "text": "Bundeskanzler Merz betonte, dass Europa in Sicherheitsfragen viel mehr tun muss.",
+      "translated_text": "Chancellor Merz emphasized that Europe must do much more on security issues."
+    },
+    {
+      "text": "Er sagte, dass Europa unabhängiger von den USA werden sollte.",
+      "translated_text": "He said that Europe should become more independent from the USA."
+    },
+    {
+      "text": "Gleichzeitig hat Großbritannien erklärt, dass Deutschland am britischen Kampfflugzeugprojekt GCAP teilnehmen könnte.",
+      "translated_text": "At the same time, Great Britain has stated that Germany could participate in the British fighter aircraft project GCAP."
+    },
+    {
+      "text": "Der britische Verteidigungsminister Luke Pollard sagte, dass das Vereinigte Königreich für neue Partner offen bleibt.",
+      "translated_text": "British Defense Minister Luke Pollard said that the United Kingdom remains open to new partners."
+    },
+    {
+      "text": "Diese Zusammenarbeit könnte wichtig werden, weil das deutsch-französische FCAS-Kampfflugzeugprogramm Schwierigkeiten hat.",
+      "translated_text": "This cooperation could become important because the German-French FCAS fighter aircraft program is having difficulties."
+    },
+    {
+      "text": "Deutschland hat auch in Berlin ein neues Zentrum zur Drohnenabwehr eröffnet.",
+      "translated_text": "Germany has also opened a new drone defense center in Berlin."
+    },
+    {
+      "text": "Innenminister Alexander Dobrindt erklärte, dass Deutschland fast täglich Ziel hybrider Kriegstaktiken ist, und die Zahl der Drohnensichtungen in den letzten Monaten gestiegen ist.",
+      "translated_text": "Interior Minister Alexander Dobrindt explained that Germany is a target of hybrid warfare tactics almost daily, and the number of drone sightings has increased in recent months."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Generalsekretär",
+      "translated_term": "Secretary General",
+      "example_usage": "NATO-Generalsekretär Mark Rutte hat Deutschland am 11. Dezember für seine Verteidigungsanstrengungen gelobt."
+    },
+    {
+      "term": "loben",
+      "translated_term": "to praise",
+      "example_usage": "NATO-Generalsekretär Mark Rutte hat Deutschland am 11. Dezember für seine Verteidigungsanstrengungen gelobt."
+    },
+    {
+      "term": "die Verteidigung",
+      "translated_term": "defense",
+      "example_usage": "NATO-Generalsekretär Mark Rutte hat Deutschland am 11. Dezember für seine Verteidigungsanstrengungen gelobt."
+    },
+    {
+      "term": "die Armee",
+      "translated_term": "army",
+      "example_usage": "Deutschland arbeitet daran, die stärkste Armee in Europa aufzubauen."
+    },
+    {
+      "term": "aufbauen",
+      "translated_term": "to build / construct",
+      "example_usage": "Deutschland arbeitet daran, die stärkste Armee in Europa aufzubauen."
+    },
+    {
+      "term": "betonen",
+      "translated_term": "to emphasize / stress",
+      "example_usage": "Bundeskanzler Merz betonte, dass Europa in Sicherheitsfragen viel mehr tun muss."
+    },
+    {
+      "term": "das Kampfflugzeug",
+      "translated_term": "fighter aircraft",
+      "example_usage": "Großbritannien erklärt, dass Deutschland am britischen Kampfflugzeugprojekt GCAP teilnehmen könnte."
+    },
+    {
+      "term": "teilnehmen",
+      "translated_term": "to participate",
+      "example_usage": "Deutschland am britischen Kampfflugzeugprojekt GCAP teilnehmen könnte."
+    },
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "Deutschland hat auch in Berlin ein neues Zentrum zur Drohnenabwehr eröffnet."
+    },
+    {
+      "term": "die Abwehr",
+      "translated_term": "defense / protection",
+      "example_usage": "Deutschland hat auch in Berlin ein neues Zentrum zur Drohnenabwehr eröffnet."
+    }
+  ],
+  "tags": [
+    {
+      "name": "NATO",
+      "translated_name": "NATO"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/2025/12/11/europe-needs-to-do-much-more-towards-security-germanys-chancellor-warns"
+    },
+    {
+      "name": "UK Defence Journal",
+      "link_url": "https://ukdefencejournal.org.uk/uk-open-to-germany-joining-future-fighter-project/"
+    }
+  ]
+}

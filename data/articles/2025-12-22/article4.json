@@ -1,0 +1,118 @@
+{
+  "title": "Deutscher Ingenieur fliegt als erster Rollstuhlfahrer ins All",
+  "translated_title": "German Engineer Flies to Space as First Wheelchair User",
+  "text": [
+    {
+      "text": "Am 22. Dezember 2025 hat ein deutscher Ingenieur Geschichte geschrieben.",
+      "translated_text": "On December 22, 2025, a German engineer made history."
+    },
+    {
+      "text": "Er ist als erste Person im Rollstuhl und als erste Person mit Querschnittslähmung ins Weltall gereist.",
+      "translated_text": "He traveled to space as the first person in a wheelchair and as the first person with paraplegia."
+    },
+    {
+      "text": "Der Flug fand mit dem privaten Raumfahrtunternehmen Blue Origin statt.",
+      "translated_text": "The flight took place with the private space company Blue Origin."
+    },
+    {
+      "text": "Es war ein suborbitaler Flug, was bedeutet, dass das Raumschiff nicht die Erde umkreist hat, sondern nur kurz ins All geflogen ist.",
+      "translated_text": "It was a sub-orbital flight, which means that the spacecraft did not orbit the Earth, but only briefly flew into space."
+    },
+    {
+      "text": "Der deutsche Ingenieur hat damit bewiesen, dass Raumfahrt auch für Menschen mit Behinderungen möglich ist.",
+      "translated_text": "The German engineer has thus proven that space travel is also possible for people with disabilities."
+    },
+    {
+      "text": "Blue Origin ist ein amerikanisches Unternehmen, das von Amazon-Gründer Jeff Bezos gegründet wurde.",
+      "translated_text": "Blue Origin is an American company founded by Amazon founder Jeff Bezos."
+    },
+    {
+      "text": "Das Unternehmen bietet kommerzielle Weltraumflüge für Touristen an.",
+      "translated_text": "The company offers commercial space flights for tourists."
+    },
+    {
+      "text": "Die Flüge dauern nur wenige Minuten, aber die Passagiere erleben Schwerelosigkeit und können die Erde von oben sehen.",
+      "translated_text": "The flights last only a few minutes, but the passengers experience weightlessness and can see the Earth from above."
+    },
+    {
+      "text": "Dieser historische Flug zeigt, dass die private Raumfahrt inklusiver wird.",
+      "translated_text": "This historic flight shows that private space travel is becoming more inclusive."
+    },
+    {
+      "text": "Es ist ein wichtiger Schritt für Menschen mit Behinderungen, die davon träumen, ins Weltall zu fliegen.",
+      "translated_text": "It is an important step for people with disabilities who dream of flying to space."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Rollstuhl",
+      "translated_term": "wheelchair",
+      "example_usage": "Er ist als erste Person im Rollstuhl und als erste Person mit Querschnittslähmung ins Weltall gereist."
+    },
+    {
+      "term": "die Querschnittslähmung",
+      "translated_term": "paraplegia / paralysis",
+      "example_usage": "Er ist als erste Person im Rollstuhl und als erste Person mit Querschnittslähmung ins Weltall gereist."
+    },
+    {
+      "term": "das Weltall",
+      "translated_term": "space / outer space",
+      "example_usage": "Er ist als erste Person im Rollstuhl und als erste Person mit Querschnittslähmung ins Weltall gereist."
+    },
+    {
+      "term": "das Raumfahrtunternehmen",
+      "translated_term": "space company",
+      "example_usage": "Der Flug fand mit dem privaten Raumfahrtunternehmen Blue Origin statt."
+    },
+    {
+      "term": "suborbitaler Flug",
+      "translated_term": "sub-orbital flight",
+      "example_usage": "Es war ein suborbitaler Flug, was bedeutet, dass das Raumschiff nicht die Erde umkreist hat."
+    },
+    {
+      "term": "umkreisen",
+      "translated_term": "to orbit",
+      "example_usage": "Es war ein suborbitaler Flug, was bedeutet, dass das Raumschiff nicht die Erde umkreist hat."
+    },
+    {
+      "term": "die Behinderung",
+      "translated_term": "disability",
+      "example_usage": "Der deutsche Ingenieur hat damit bewiesen, dass Raumfahrt auch für Menschen mit Behinderungen möglich ist."
+    },
+    {
+      "term": "die Schwerelosigkeit",
+      "translated_term": "weightlessness",
+      "example_usage": "Die Flüge dauern nur wenige Minuten, aber die Passagiere erleben Schwerelosigkeit und können die Erde von oben sehen."
+    },
+    {
+      "term": "inklusiv",
+      "translated_term": "inclusive",
+      "example_usage": "Dieser historische Flug zeigt, dass die private Raumfahrt inklusiver wird."
+    },
+    {
+      "term": "träumen",
+      "translated_term": "to dream",
+      "example_usage": "Es ist ein wichtiger Schritt für Menschen mit Behinderungen, die davon träumen, ins Weltall zu fliegen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Weltraumforschung",
+      "translated_name": "Space Exploration"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Innovation",
+      "translated_name": "Innovation"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia - Current Events December 2025",
+      "link_url": "https://en.wikipedia.org/wiki/Portal:Current_events/December_2025"
+    }
+  ]
+}
