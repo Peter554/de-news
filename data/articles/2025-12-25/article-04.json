@@ -1,0 +1,135 @@
+{
+  "title": "Berlin und Warschau: KI-Satelliten für NATO",
+  "translated_title": "Berlin and Warsaw: AI Satellites for NATO",
+  "text": [
+    {
+      "text": "Deutschland und Polen arbeiten gemeinsam an einem neuen Satellitenprogramm.",
+      "translated_text": "Germany and Poland are working together on a new satellite program."
+    },
+    {
+      "text": "Die beiden Länder entwickeln ein militärisches Satellitennetzwerk mit künstlicher Intelligenz.",
+      "translated_text": "The two countries are developing a military satellite network with artificial intelligence."
+    },
+    {
+      "text": "Das System soll Echtzeitinformationen vom Schlachtfeld an die NATO liefern.",
+      "translated_text": "The system is intended to deliver real-time information from the battlefield to NATO."
+    },
+    {
+      "text": "Am 22. Dezember unterzeichneten Berlin und Warschau einen wichtigen Vertrag.",
+      "translated_text": "On December 22, Berlin and Warsaw signed an important contract."
+    },
+    {
+      "text": "Der deutsche Rüstungskonzern Rheinmetall arbeitet mit der polnischen Firma SATIM zusammen.",
+      "translated_text": "The German defense company Rheinmetall is working together with the Polish company SATIM."
+    },
+    {
+      "text": "SATIM entwickelt spezielle KI-Tools für die Bildverarbeitung.",
+      "translated_text": "SATIM is developing special AI tools for image processing."
+    },
+    {
+      "text": "Diese Tools können große Mengen von Radarbildern analysieren.",
+      "translated_text": "These tools can analyze large quantities of radar images."
+    },
+    {
+      "text": "Die Technologie nutzt ein sogenanntes SAR-System, eine Art Radarverfahren.",
+      "translated_text": "The technology uses a so-called SAR system, a type of radar method."
+    },
+    {
+      "text": "Die polnische KI wird in das deutsche SPOCK-1 Radarsatellitensystem integriert.",
+      "translated_text": "The Polish AI will be integrated into the German SPOCK-1 radar satellite system."
+    },
+    {
+      "text": "Dieses Projekt ist Teil einer größeren europäischen Verteidigungsinitiative.",
+      "translated_text": "This project is part of a larger European defense initiative."
+    },
+    {
+      "text": "Deutschland investiert Milliarden in die militärische Raumfahrt für die NATO.",
+      "translated_text": "Germany is investing billions in military space technology for NATO."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Satellit",
+      "translated_term": "satellite",
+      "example_usage": "Deutschland und Polen arbeiten gemeinsam an einem neuen Satellitenprogramm."
+    },
+    {
+      "term": "die künstliche Intelligenz",
+      "translated_term": "artificial intelligence",
+      "example_usage": "Die beiden Länder entwickeln ein militärisches Satellitennetzwerk mit künstlicher Intelligenz."
+    },
+    {
+      "term": "die Echtzeitinformation",
+      "translated_term": "real-time information",
+      "example_usage": "Das System soll Echtzeitinformationen vom Schlachtfeld an die NATO liefern."
+    },
+    {
+      "term": "das Schlachtfeld",
+      "translated_term": "battlefield",
+      "example_usage": "Das System soll Echtzeitinformationen vom Schlachtfeld an die NATO liefern."
+    },
+    {
+      "term": "unterzeichnen",
+      "translated_term": "to sign",
+      "example_usage": "Am 22. Dezember unterzeichneten Berlin und Warschau einen wichtigen Vertrag."
+    },
+    {
+      "term": "der Rüstungskonzern",
+      "translated_term": "defense company",
+      "example_usage": "Der deutsche Rüstungskonzern Rheinmetall arbeitet mit der polnischen Firma SATIM zusammen."
+    },
+    {
+      "term": "die Bildverarbeitung",
+      "translated_term": "image processing",
+      "example_usage": "SATIM entwickelt spezielle KI-Tools für die Bildverarbeitung."
+    },
+    {
+      "term": "analysieren",
+      "translated_term": "to analyze",
+      "example_usage": "Diese Tools können große Mengen von Radarbildern analysieren."
+    },
+    {
+      "term": "das Radarverfahren",
+      "translated_term": "radar method",
+      "example_usage": "Die Technologie nutzt ein sogenanntes SAR-System, eine Art Radarverfahren."
+    },
+    {
+      "term": "integrieren",
+      "translated_term": "to integrate",
+      "example_usage": "Die polnische KI wird in das deutsche SPOCK-1 Radarsatellitensystem integriert."
+    },
+    {
+      "term": "die Raumfahrt",
+      "translated_term": "space technology, space travel",
+      "example_usage": "Deutschland investiert Milliarden in die militärische Raumfahrt für die NATO."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Künstliche Intelligenz",
+      "translated_name": "Artificial Intelligence"
+    },
+    {
+      "name": "NATO",
+      "translated_name": "NATO"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Polen",
+      "translated_name": "Poland"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda EN - Vitaly Kiselyov: Germany creating military satellites",
+      "link_url": "https://news-pravda.com/world/2025/12/23/1953145.html"
+    },
+    {
+      "name": "Pravda EN - Daily Recap December 24",
+      "link_url": "https://news-pravda.com/world/2025/12/24/1955210.html"
+    }
+  ]
+}

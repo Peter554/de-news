@@ -1,0 +1,131 @@
+{
+  "title": "Polen und die EU: Steigende Zweifel",
+  "translated_title": "Poland and the EU: Growing Doubts",
+  "text": [
+    {
+      "text": "Eine neue Umfrage zeigt, dass fast 25 Prozent der Polen für einen EU-Austritt sind.",
+      "translated_text": "A new poll shows that almost 25 percent of Poles are in favor of leaving the EU."
+    },
+    {
+      "text": "Das Forschungsinstitut IBRiS führte die Umfrage für die Nachrichtenwebsite Wirtualna Polska durch.",
+      "translated_text": "The IBRiS research institute conducted the poll for the Wirtualna Polska news website."
+    },
+    {
+      "text": "Genau 24,7 Prozent der Befragten unterstützen einen sogenannten 'Polexit'.",
+      "translated_text": "Exactly 24.7 percent of respondents support a so-called 'Polexit'."
+    },
+    {
+      "text": "Allerdings sind 65,7 Prozent der Polen gegen einen Austritt aus der Europäischen Union.",
+      "translated_text": "However, 65.7 percent of Poles are against leaving the European Union."
+    },
+    {
+      "text": "Die Umfrage zeigt interessante Unterschiede zwischen verschiedenen Gruppen.",
+      "translated_text": "The poll shows interesting differences between various groups."
+    },
+    {
+      "text": "Männer unterstützen einen Polexit häufiger als Frauen: 28 Prozent gegenüber 21 Prozent.",
+      "translated_text": "Men support a Polexit more often than women: 28 percent versus 21 percent."
+    },
+    {
+      "text": "Die Altersgruppe zwischen 30 und 49 Jahren ist am meisten für den Austritt.",
+      "translated_text": "The age group between 30 and 49 years is most in favor of leaving."
+    },
+    {
+      "text": "Bei jungen Menschen zwischen 18 und 29 Jahren liegt die Zustimmung nur bei 13 Prozent.",
+      "translated_text": "Among young people between 18 and 29 years, approval is only at 13 percent."
+    },
+    {
+      "text": "In ländlichen Gebieten ist die Unterstützung für den Polexit mit 35 Prozent besonders hoch.",
+      "translated_text": "In rural areas, support for Polexit is particularly high at 35 percent."
+    },
+    {
+      "text": "Noch vor wenigen Jahren war ein EU-Austritt Polens undenkbar.",
+      "translated_text": "Just a few years ago, Poland's EU exit was unthinkable."
+    },
+    {
+      "text": "Im Jahr 2022 unterstützten noch 92 Prozent der Polen die EU-Mitgliedschaft.",
+      "translated_text": "In 2022, 92 percent of Poles still supported EU membership."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Umfrage",
+      "translated_term": "poll, survey",
+      "example_usage": "Eine neue Umfrage zeigt, dass fast 25 Prozent der Polen für einen EU-Austritt sind."
+    },
+    {
+      "term": "der Austritt",
+      "translated_term": "exit, withdrawal",
+      "example_usage": "Eine neue Umfrage zeigt, dass fast 25 Prozent der Polen für einen EU-Austritt sind."
+    },
+    {
+      "term": "das Forschungsinstitut",
+      "translated_term": "research institute",
+      "example_usage": "Das Forschungsinstitut IBRiS führte die Umfrage für die Nachrichtenwebsite Wirtualna Polska durch."
+    },
+    {
+      "term": "durchführen",
+      "translated_term": "to conduct, to carry out",
+      "example_usage": "Das Forschungsinstitut IBRiS führte die Umfrage für die Nachrichtenwebsite Wirtualna Polska durch."
+    },
+    {
+      "term": "der Befragte",
+      "translated_term": "respondent",
+      "example_usage": "Genau 24,7 Prozent der Befragten unterstützen einen sogenannten 'Polexit'."
+    },
+    {
+      "term": "unterstützen",
+      "translated_term": "to support",
+      "example_usage": "Genau 24,7 Prozent der Befragten unterstützen einen sogenannten 'Polexit'."
+    },
+    {
+      "term": "allerdings",
+      "translated_term": "however",
+      "example_usage": "Allerdings sind 65,7 Prozent der Polen gegen einen Austritt aus der Europäischen Union."
+    },
+    {
+      "term": "die Altersgruppe",
+      "translated_term": "age group",
+      "example_usage": "Die Altersgruppe zwischen 30 und 49 Jahren ist am meisten für den Austritt."
+    },
+    {
+      "term": "die Zustimmung",
+      "translated_term": "approval, consent",
+      "example_usage": "Bei jungen Menschen zwischen 18 und 29 Jahren liegt die Zustimmung nur bei 13 Prozent."
+    },
+    {
+      "term": "ländlich",
+      "translated_term": "rural",
+      "example_usage": "In ländlichen Gebieten ist die Unterstützung für den Polexit mit 35 Prozent besonders hoch."
+    },
+    {
+      "term": "undenkbar",
+      "translated_term": "unthinkable",
+      "example_usage": "Noch vor wenigen Jahren war ein EU-Austritt Polens undenkbar."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Europäische Union",
+      "translated_name": "European Union"
+    },
+    {
+      "name": "Polen",
+      "translated_name": "Poland"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Notes From Poland - Quarter of Poles favour leaving EU",
+      "link_url": "https://notesfrompoland.com/2025/12/22/quarter-of-poles-now-favour-leaving-eu-finds-new-poll/"
+    },
+    {
+      "name": "Brussels Signal - Support for Polexit at historic high",
+      "link_url": "https://brusselssignal.eu/2025/12/support-for-eu-polexit-at-historic-high-latest-opinion-poll-shows/"
+    }
+  ]
+}
