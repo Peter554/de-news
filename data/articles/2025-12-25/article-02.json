@@ -1,0 +1,131 @@
+{
+  "title": "Rekord bei Migranten im Ärmelkanal",
+  "translated_title": "Record Number of Migrants in English Channel",
+  "text": [
+    {
+      "text": "Am 21. Dezember 2025 überquerten 803 Migranten den Ärmelkanal in kleinen Booten.",
+      "translated_text": "On December 21, 2025, 803 migrants crossed the English Channel in small boats."
+    },
+    {
+      "text": "Dies war die höchste Zahl an Überquerungen an einem einzigen Tag im Dezember.",
+      "translated_text": "This was the highest number of crossings on a single day in December."
+    },
+    {
+      "text": "Die Menschen reisten in 13 Schlauchbooten über das Meer.",
+      "translated_text": "The people traveled across the sea in 13 inflatable boats."
+    },
+    {
+      "text": "Im gesamten Jahr 2025 kamen insgesamt 41.455 Menschen über den Ärmelkanal nach Großbritannien.",
+      "translated_text": "In the entire year 2025, a total of 41,455 people came to Great Britain via the English Channel."
+    },
+    {
+      "text": "Diese Zahl ist höher als die 36.816 Ankünfte im Jahr 2024.",
+      "translated_text": "This number is higher than the 36,816 arrivals in 2024."
+    },
+    {
+      "text": "Nur das Jahr 2022 hatte mit 45.755 Überquerungen mehr Migranten.",
+      "translated_text": "Only the year 2022 had more migrants with 45,755 crossings."
+    },
+    {
+      "text": "Die britische Regierung nannte die Situation inakzeptabel.",
+      "translated_text": "The British government called the situation unacceptable."
+    },
+    {
+      "text": "Ein Sprecher des Innenministeriums sagte, dass die Zahlen beschämend seien.",
+      "translated_text": "A Home Office spokesperson said the numbers were shameful."
+    },
+    {
+      "text": "Die Regierung hat bereits fast 50.000 Menschen zurückgeschickt, die illegal im Land waren.",
+      "translated_text": "The government has already sent back nearly 50,000 people who were in the country illegally."
+    },
+    {
+      "text": "Dezember ist normalerweise der ruhigste Monat für Kanalüberquerungen.",
+      "translated_text": "December is normally the quietest month for channel crossings."
+    },
+    {
+      "text": "Die niedrigen Temperaturen und das schlechte Wetter machen die Reise besonders gefährlich.",
+      "translated_text": "The low temperatures and bad weather make the journey particularly dangerous."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Migrant",
+      "translated_term": "migrant",
+      "example_usage": "Am 21. Dezember 2025 überquerten 803 Migranten den Ärmelkanal in kleinen Booten."
+    },
+    {
+      "term": "der Ärmelkanal",
+      "translated_term": "English Channel",
+      "example_usage": "Im gesamten Jahr 2025 kamen insgesamt 41.455 Menschen über den Ärmelkanal nach Großbritannien."
+    },
+    {
+      "term": "überqueren",
+      "translated_term": "to cross",
+      "example_usage": "Am 21. Dezember 2025 überquerten 803 Migranten den Ärmelkanal in kleinen Booten."
+    },
+    {
+      "term": "das Schlauchboot",
+      "translated_term": "inflatable boat",
+      "example_usage": "Die Menschen reisten in 13 Schlauchbooten über das Meer."
+    },
+    {
+      "term": "die Ankunft",
+      "translated_term": "arrival",
+      "example_usage": "Diese Zahl ist höher als die 36.816 Ankünfte im Jahr 2024."
+    },
+    {
+      "term": "inakzeptabel",
+      "translated_term": "unacceptable",
+      "example_usage": "Die britische Regierung nannte die Situation inakzeptabel."
+    },
+    {
+      "term": "beschämend",
+      "translated_term": "shameful",
+      "example_usage": "Ein Sprecher des Innenministeriums sagte, dass die Zahlen beschämend seien."
+    },
+    {
+      "term": "zurückschicken",
+      "translated_term": "to send back",
+      "example_usage": "Die Regierung hat bereits fast 50.000 Menschen zurückgeschickt, die illegal im Land waren."
+    },
+    {
+      "term": "illegal",
+      "translated_term": "illegal",
+      "example_usage": "Die Regierung hat bereits fast 50.000 Menschen zurückgeschickt, die illegal im Land waren."
+    },
+    {
+      "term": "die Temperatur",
+      "translated_term": "temperature",
+      "example_usage": "Die niedrigen Temperaturen und das schlechte Wetter machen die Reise besonders gefährlich."
+    },
+    {
+      "term": "gefährlich",
+      "translated_term": "dangerous",
+      "example_usage": "Die niedrigen Temperaturen und das schlechte Wetter machen die Reise besonders gefährlich."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Einwanderungspolitik",
+      "translated_name": "Immigration Policy"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda EN - Record 800 migrants cross Channel",
+      "link_url": "https://news-pravda.com/world/2025/12/23/1953219.html"
+    },
+    {
+      "name": "Middle East Monitor - Record crossings",
+      "link_url": "https://www.middleeastmonitor.com/20251222-record-800-migrants-cross-english-channel-to-uk-in-single-day-in-december/"
+    }
+  ]
+}

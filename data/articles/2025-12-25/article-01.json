@@ -1,0 +1,131 @@
+{
+  "title": "Russischer Raketenangriff auf Ukraine",
+  "translated_title": "Russian Rocket Attack on Ukraine",
+  "text": [
+    {
+      "text": "Am 24. Dezember 2025 hat Russland einen massiven Angriff auf die Ukraine gestartet.",
+      "translated_text": "On December 24, 2025, Russia launched a massive attack on Ukraine."
+    },
+    {
+      "text": "Die russischen Streitkräfte verwendeten Drohnen und Raketen, um verschiedene Regionen anzugreifen.",
+      "translated_text": "Russian forces used drones and missiles to attack various regions."
+    },
+    {
+      "text": "Besonders betroffen war die Region Dnipropetrowsk, wo mehrere Explosionen gemeldet wurden.",
+      "translated_text": "The Dnipropetrovsk region was particularly affected, where several explosions were reported."
+    },
+    {
+      "text": "Dieser Angriff war einer der größten seit Anfang Dezember.",
+      "translated_text": "This attack was one of the largest since early December."
+    },
+    {
+      "text": "Die Ukraine berichtete, dass Russland insgesamt 635 Drohnen und 38 Raketen eingesetzt hat.",
+      "translated_text": "Ukraine reported that Russia deployed a total of 635 drones and 38 missiles."
+    },
+    {
+      "text": "Die Angriffe zielten vor allem auf die Energieinfrastruktur des Landes.",
+      "translated_text": "The attacks primarily targeted the country's energy infrastructure."
+    },
+    {
+      "text": "In mehreren Regionen gab es Stromausfälle und Unterbrechungen der Versorgung.",
+      "translated_text": "There were power outages and supply disruptions in several regions."
+    },
+    {
+      "text": "Die ukrainische Luftwaffe konnte viele der Drohnen abwehren.",
+      "translated_text": "The Ukrainian air force was able to intercept many of the drones."
+    },
+    {
+      "text": "Trotzdem kam es zu erheblichen Schäden an der Infrastruktur.",
+      "translated_text": "Nevertheless, there was considerable damage to the infrastructure."
+    },
+    {
+      "text": "Die internationale Gemeinschaft verurteilte den Angriff scharf.",
+      "translated_text": "The international community strongly condemned the attack."
+    },
+    {
+      "text": "Die Vereinten Nationen forderten ein sofortiges Ende der Gewalt gegen Zivilisten.",
+      "translated_text": "The United Nations called for an immediate end to violence against civilians."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Angriff",
+      "translated_term": "attack",
+      "example_usage": "Am 24. Dezember 2025 hat Russland einen massiven Angriff auf die Ukraine gestartet."
+    },
+    {
+      "term": "die Streitkräfte",
+      "translated_term": "armed forces",
+      "example_usage": "Die russischen Streitkräfte verwendeten Drohnen und Raketen, um verschiedene Regionen anzugreifen."
+    },
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "Die Ukraine berichtete, dass Russland insgesamt 635 Drohnen und 38 Raketen eingesetzt hat."
+    },
+    {
+      "term": "die Rakete",
+      "translated_term": "missile, rocket",
+      "example_usage": "Die russischen Streitkräfte verwendeten Drohnen und Raketen, um verschiedene Regionen anzugreifen."
+    },
+    {
+      "term": "die Explosion",
+      "translated_term": "explosion",
+      "example_usage": "Besonders betroffen war die Region Dnipropetrowsk, wo mehrere Explosionen gemeldet wurden."
+    },
+    {
+      "term": "die Energieinfrastruktur",
+      "translated_term": "energy infrastructure",
+      "example_usage": "Die Angriffe zielten vor allem auf die Energieinfrastruktur des Landes."
+    },
+    {
+      "term": "der Stromausfall",
+      "translated_term": "power outage",
+      "example_usage": "In mehreren Regionen gab es Stromausfälle und Unterbrechungen der Versorgung."
+    },
+    {
+      "term": "abwehren",
+      "translated_term": "to intercept, to defend against",
+      "example_usage": "Die ukrainische Luftwaffe konnte viele der Drohnen abwehren."
+    },
+    {
+      "term": "der Schaden",
+      "translated_term": "damage",
+      "example_usage": "Trotzdem kam es zu erheblichen Schäden an der Infrastruktur."
+    },
+    {
+      "term": "verurteilen",
+      "translated_term": "to condemn",
+      "example_usage": "Die internationale Gemeinschaft verurteilte den Angriff scharf."
+    },
+    {
+      "term": "die Gewalt",
+      "translated_term": "violence",
+      "example_usage": "Die Vereinten Nationen forderten ein sofortiges Ende der Gewalt gegen Zivilisten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda EN - Chronicle of strikes",
+      "link_url": "https://news-pravda.com/ukraine/2025/12/25/1955450.html"
+    },
+    {
+      "name": "ABC News - Massive Russian strikes",
+      "link_url": "https://abcnews.go.com/International/massive-russian-strikes-prompt-power-cuts-ukraine-zelenskyy/story?id=128641867"
+    }
+  ]
+}
