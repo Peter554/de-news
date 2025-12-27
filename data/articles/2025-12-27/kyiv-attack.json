@@ -1,0 +1,118 @@
+{
+  "title": "Massiver russischer Angriff auf Kiew",
+  "translated_title": "Massive Russian Attack on Kyiv",
+  "text": [
+    {
+      "text": "Am frühen Samstagmorgen kam die ukrainische Hauptstadt Kiew unter einen massiven russischen Angriff.",
+      "translated_text": "In the early hours of Saturday morning, the Ukrainian capital Kyiv came under a massive Russian attack."
+    },
+    {
+      "text": "Die ukrainische Luftverteidigung wurde sofort aktiviert und versuchte, die Stadt zu schützen.",
+      "translated_text": "Ukrainian air defenses were immediately activated and attempted to protect the city."
+    },
+    {
+      "text": "Dieser Angriff ist Teil des andauernden Krieges zwischen Russland und der Ukraine, der seit Februar 2022 anhält.",
+      "translated_text": "This attack is part of the ongoing war between Russia and Ukraine, which has been continuing since February 2022."
+    },
+    {
+      "text": "Der Konflikt hat bereits massive Zerstörungen in vielen ukrainischen Städten verursacht.",
+      "translated_text": "The conflict has already caused massive destruction in many Ukrainian cities."
+    },
+    {
+      "text": "Am 27. Dezember 2025 ist dies bereits der 1.402. Tag des Krieges.",
+      "translated_text": "On December 27, 2025, this is already the 1,402nd day of the war."
+    },
+    {
+      "text": "Die internationale Gemeinschaft beobachtet die Situation mit großer Sorge.",
+      "translated_text": "The international community is watching the situation with great concern."
+    },
+    {
+      "text": "Viele Länder haben der Ukraine militärische und humanitäre Hilfe angeboten.",
+      "translated_text": "Many countries have offered Ukraine military and humanitarian aid."
+    },
+    {
+      "text": "Die Zivilbevölkerung in Kiew musste wieder in Schutzräume flüchten.",
+      "translated_text": "The civilian population in Kyiv had to flee to shelters again."
+    },
+    {
+      "text": "Trotz der schwierigen Lage zeigen die Ukrainer weiterhin großen Mut und Widerstand.",
+      "translated_text": "Despite the difficult situation, Ukrainians continue to show great courage and resistance."
+    },
+    {
+      "text": "Das Ende des Konflikts ist noch nicht in Sicht, aber die Ukraine kämpft weiter für ihre Freiheit und Souveränität.",
+      "translated_text": "The end of the conflict is not yet in sight, but Ukraine continues to fight for its freedom and sovereignty."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Angriff",
+      "translated_term": "attack",
+      "example_usage": "Am frühen Samstagmorgen kam die ukrainische Hauptstadt Kiew unter einen massiven russischen Angriff."
+    },
+    {
+      "term": "die Luftverteidigung",
+      "translated_term": "air defense",
+      "example_usage": "Die ukrainische Luftverteidigung wurde sofort aktiviert und versuchte, die Stadt zu schützen."
+    },
+    {
+      "term": "andauernd",
+      "translated_term": "ongoing",
+      "example_usage": "Dieser Angriff ist Teil des andauernden Krieges zwischen Russland und der Ukraine."
+    },
+    {
+      "term": "die Zerstörung",
+      "translated_term": "destruction",
+      "example_usage": "Der Konflikt hat bereits massive Zerstörungen in vielen ukrainischen Städten verursacht."
+    },
+    {
+      "term": "die Gemeinschaft",
+      "translated_term": "community",
+      "example_usage": "Die internationale Gemeinschaft beobachtet die Situation mit großer Sorge."
+    },
+    {
+      "term": "die Hilfe",
+      "translated_term": "aid/help",
+      "example_usage": "Viele Länder haben der Ukraine militärische und humanitäre Hilfe angeboten."
+    },
+    {
+      "term": "die Zivilbevölkerung",
+      "translated_term": "civilian population",
+      "example_usage": "Die Zivilbevölkerung in Kiew musste wieder in Schutzräume flüchten."
+    },
+    {
+      "term": "flüchten",
+      "translated_term": "to flee",
+      "example_usage": "Die Zivilbevölkerung in Kiew musste wieder in Schutzräume flüchten."
+    },
+    {
+      "term": "der Mut",
+      "translated_term": "courage",
+      "example_usage": "Trotz der schwierigen Lage zeigen die Ukrainer weiterhin großen Mut und Widerstand."
+    },
+    {
+      "term": "die Souveränität",
+      "translated_term": "sovereignty",
+      "example_usage": "Die Ukraine kämpft weiter für ihre Freiheit und Souveränität."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera - Russia-Ukraine war: List of key events, day 1,402",
+      "link_url": "https://www.aljazeera.com/news/2025/12/27/russia-ukraine-war-list-of-key-events-day-1402"
+    }
+  ]
+}

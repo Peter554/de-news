@@ -1,0 +1,122 @@
+{
+  "title": "Russland warnt Bürger vor Reisen nach Deutschland",
+  "translated_title": "Russia Warns Citizens Against Travel to Germany",
+  "text": [
+    {
+      "text": "Das russische Außenministerium hat eine strenge Reisewarnung für Deutschland ausgesprochen.",
+      "translated_text": "The Russian Foreign Ministry has issued a strict travel warning for Germany."
+    },
+    {
+      "text": "Russische Bürger sollen nur in absolut notwendigen Fällen nach Deutschland reisen.",
+      "translated_text": "Russian citizens should only travel to Germany in absolutely necessary cases."
+    },
+    {
+      "text": "Diese Warnung kam, nachdem Deutschland Russland offiziell für Cyberangriffe verantwortlich gemacht hat.",
+      "translated_text": "This warning came after Germany officially blamed Russia for cyberattacks."
+    },
+    {
+      "text": "Am 12. Dezember 2025 beschuldigte Deutschland Russland, die deutschen Systeme für Luftsicherheit und Wahlinfrastruktur angegriffen zu haben.",
+      "translated_text": "On December 12, 2025, Germany accused Russia of attacking German air safety systems and electoral infrastructure."
+    },
+    {
+      "text": "Die Beziehungen zwischen den beiden Ländern sind sehr angespannt.",
+      "translated_text": "Relations between the two countries are very tense."
+    },
+    {
+      "text": "Am 26. Dezember hatte der britische Premierminister ein wichtiges Telefonat mit dem französischen Präsidenten und dem deutschen Bundeskanzler Friedrich Merz.",
+      "translated_text": "On December 26, the British Prime Minister had an important phone call with the French President and German Chancellor Friedrich Merz."
+    },
+    {
+      "text": "Die europäischen Länder koordinieren ihre Sicherheitspolitik immer enger.",
+      "translated_text": "European countries are coordinating their security policy ever more closely."
+    },
+    {
+      "text": "Deutschland und Großbritannien haben Russland auch beschuldigt, ihre Satelliten zu bedrohen.",
+      "translated_text": "Germany and Great Britain have also accused Russia of threatening their satellites."
+    },
+    {
+      "text": "Die Situation zeigt, wie tief die Krise zwischen Russland und dem Westen geworden ist.",
+      "translated_text": "The situation shows how deep the crisis between Russia and the West has become."
+    },
+    {
+      "text": "Experten befürchten, dass die Spannungen weiter zunehmen könnten.",
+      "translated_text": "Experts fear that tensions could increase further."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Außenministerium",
+      "translated_term": "Foreign Ministry",
+      "example_usage": "Das russische Außenministerium hat eine strenge Reisewarnung für Deutschland ausgesprochen."
+    },
+    {
+      "term": "die Reisewarnung",
+      "translated_term": "travel warning",
+      "example_usage": "Das russische Außenministerium hat eine strenge Reisewarnung für Deutschland ausgesprochen."
+    },
+    {
+      "term": "verantwortlich machen",
+      "translated_term": "to blame/hold responsible",
+      "example_usage": "Diese Warnung kam, nachdem Deutschland Russland offiziell für Cyberangriffe verantwortlich gemacht hat."
+    },
+    {
+      "term": "der Cyberangriff",
+      "translated_term": "cyberattack",
+      "example_usage": "Deutschland hat Russland offiziell für Cyberangriffe verantwortlich gemacht."
+    },
+    {
+      "term": "die Luftsicherheit",
+      "translated_term": "air safety",
+      "example_usage": "Deutschland beschuldigte Russland, die deutschen Systeme für Luftsicherheit angegriffen zu haben."
+    },
+    {
+      "term": "die Wahlinfrastruktur",
+      "translated_term": "electoral infrastructure",
+      "example_usage": "Deutschland beschuldigte Russland, die Wahlinfrastruktur angegriffen zu haben."
+    },
+    {
+      "term": "angespannt",
+      "translated_term": "tense",
+      "example_usage": "Die Beziehungen zwischen den beiden Ländern sind sehr angespannt."
+    },
+    {
+      "term": "koordinieren",
+      "translated_term": "to coordinate",
+      "example_usage": "Die europäischen Länder koordinieren ihre Sicherheitspolitik immer enger."
+    },
+    {
+      "term": "bedrohen",
+      "translated_term": "to threaten",
+      "example_usage": "Deutschland und Großbritannien haben Russland beschuldigt, ihre Satelliten zu bedrohen."
+    },
+    {
+      "term": "die Spannung",
+      "translated_term": "tension",
+      "example_usage": "Experten befürchten, dass die Spannungen weiter zunehmen könnten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Cybersicherheit",
+      "translated_name": "Cybersecurity"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Travel And Tour World - Moscow Issues Travel Warning for Germany",
+      "link_url": "https://www.travelandtourworld.com/news/article/moscow-issues-travel-warning-for-germany-russia-urges-citizens-to-avoid-eu-travel-2025/"
+    },
+    {
+      "name": "GOV.UK - PM call with President Macron and Chancellor Merz",
+      "link_url": "https://www.gov.uk/government/news/pm-call-with-president-macron-of-france-and-chancellor-merz-of-germany-26-december-2025"
+    }
+  ]
+}
