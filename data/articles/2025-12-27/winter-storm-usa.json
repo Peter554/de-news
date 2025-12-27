@@ -1,0 +1,122 @@
+{
+  "title": "Wintersturm trifft Nordosten der USA",
+  "translated_title": "Winter Storm Hits Northeastern USA",
+  "text": [
+    {
+      "text": "Ein massiver Wintersturm bringt Schnee und Eis in den Nordosten der Vereinigten Staaten.",
+      "translated_text": "A massive winter storm is bringing snow and ice to the northeastern United States."
+    },
+    {
+      "text": "Mehrere Gemeinden in Pennsylvania haben einen Schneenotstand ausgerufen.",
+      "translated_text": "Several communities in Pennsylvania have declared a snow emergency."
+    },
+    {
+      "text": "Der Sturm betrifft Millionen von Amerikanern von Minnesota bis zur Ostküste.",
+      "translated_text": "The storm is affecting millions of Americans from Minnesota to the East Coast."
+    },
+    {
+      "text": "Besonders stark betroffen ist die Region um New York City.",
+      "translated_text": "The area around New York City is particularly badly affected."
+    },
+    {
+      "text": "Der Schneefall ist so stark, dass viele Straßen gesperrt werden mussten.",
+      "translated_text": "The snowfall is so heavy that many roads had to be closed."
+    },
+    {
+      "text": "Die Behörden warnen die Menschen, zu Hause zu bleiben und nur bei Notfällen nach draußen zu gehen.",
+      "translated_text": "Authorities are warning people to stay at home and only go outside in emergencies."
+    },
+    {
+      "text": "Viele Flüge wurden gestrichen, und der öffentliche Verkehr ist stark eingeschränkt.",
+      "translated_text": "Many flights have been cancelled, and public transport is severely limited."
+    },
+    {
+      "text": "Die Meteorologen sagen, dass der Sturm noch mehrere Tage andauern könnte.",
+      "translated_text": "Meteorologists say the storm could continue for several more days."
+    },
+    {
+      "text": "Schulen und viele Geschäfte bleiben geschlossen, bis sich die Situation verbessert.",
+      "translated_text": "Schools and many businesses remain closed until the situation improves."
+    },
+    {
+      "text": "Die Menschen müssen sich auf schwierige Bedingungen einstellen und genug Vorräte zu Hause haben.",
+      "translated_text": "People must prepare for difficult conditions and have enough supplies at home."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Wintersturm",
+      "translated_term": "winter storm",
+      "example_usage": "Ein massiver Wintersturm bringt Schnee und Eis in den Nordosten der Vereinigten Staaten."
+    },
+    {
+      "term": "die Gemeinde",
+      "translated_term": "community/municipality",
+      "example_usage": "Mehrere Gemeinden in Pennsylvania haben einen Schneenotstand ausgerufen."
+    },
+    {
+      "term": "der Notstand",
+      "translated_term": "state of emergency",
+      "example_usage": "Mehrere Gemeinden in Pennsylvania haben einen Schneenotstand ausgerufen."
+    },
+    {
+      "term": "betreffen",
+      "translated_term": "to affect",
+      "example_usage": "Der Sturm betrifft Millionen von Amerikanern von Minnesota bis zur Ostküste."
+    },
+    {
+      "term": "der Schneefall",
+      "translated_term": "snowfall",
+      "example_usage": "Der Schneefall ist so stark, dass viele Straßen gesperrt werden mussten."
+    },
+    {
+      "term": "sperren",
+      "translated_term": "to close/block",
+      "example_usage": "Der Schneefall ist so stark, dass viele Straßen gesperrt werden mussten."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "authority",
+      "example_usage": "Die Behörden warnen die Menschen, zu Hause zu bleiben."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel",
+      "example_usage": "Viele Flüge wurden gestrichen."
+    },
+    {
+      "term": "eingeschränkt",
+      "translated_term": "limited/restricted",
+      "example_usage": "Der öffentliche Verkehr ist stark eingeschränkt."
+    },
+    {
+      "term": "die Vorräte",
+      "translated_term": "supplies",
+      "example_usage": "Die Menschen müssen genug Vorräte zu Hause haben."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CBS News - Maps show winter storm forecast for ice and snow",
+      "link_url": "https://www.cbsnews.com/news/winter-storm-forecast-ice-snow-northeast-great-lakes/"
+    },
+    {
+      "name": "6abc Philadelphia - Snow emergency declared in Pennsylvania",
+      "link_url": "https://6abc.com/post/snow-emergency-declared-several-pennsylvania-communities-ahead-storm/18320043/"
+    }
+  ]
+}
