@@ -1,0 +1,147 @@
+{
+  "title": "Arbeitslosigkeit in Deutschland steigt drastisch",
+  "translated_title": "Unemployment in Germany rises drastically",
+  "text": [
+    {
+      "text": "Deutschland erlebt eine ernste Arbeitsmarktkrise.",
+      "translated_text": "Germany is experiencing a serious labor market crisis."
+    },
+    {
+      "text": "Die Zahl der Arbeitslosen hat im August die Marke von drei Millionen überschritten.",
+      "translated_text": "The number of unemployed exceeded the three million mark in August."
+    },
+    {
+      "text": "Im November kamen über 100.000 zusätzliche Menschen auf den Arbeitsmarkt im Vergleich zum Vorjahr.",
+      "translated_text": "In November, over 100,000 additional people entered the labor market compared to the previous year."
+    },
+    {
+      "text": "Ein Hauptgrund für die Krise ist die Rekordzahl an Firmeninsolvenzen.",
+      "translated_text": "A main reason for the crisis is the record number of company bankruptcies."
+    },
+    {
+      "text": "In den ersten drei Quartalen des Jahres erreichten die Insolvenzen einen Höchststand der letzten elf Jahre.",
+      "translated_text": "In the first three quarters of the year, bankruptcies reached a peak of the last eleven years."
+    },
+    {
+      "text": "Das Institut für Wirtschaftsforschung Halle schätzt, dass etwa 170.000 Arbeitsplätze im Jahr 2025 verloren gingen.",
+      "translated_text": "The Halle Institute for Economic Research estimates that about 170,000 jobs were lost in the year 2025."
+    },
+    {
+      "text": "Die größte Gewerkschaft Deutschlands, IG Metall, warnt vor einer tiefen Krise der deutschen Industrie.",
+      "translated_text": "Germany's largest trade union, IG Metall, warns of a deep crisis in German industry."
+    },
+    {
+      "text": "Die Gewerkschaftschefin Christiane Benner sagt, dass die deutsche Wirtschaft vor extremen Herausforderungen steht.",
+      "translated_text": "Union leader Christiane Benner says that the German economy faces extreme challenges."
+    },
+    {
+      "text": "Sie fordert eine enge Zusammenarbeit zwischen Industrie, Politik und Arbeitnehmern.",
+      "translated_text": "She calls for close cooperation between industry, politics and employees."
+    },
+    {
+      "text": "Experten sind besorgt über die Zukunft der deutschen Wirtschaft und fordern schnelle politische Maßnahmen.",
+      "translated_text": "Experts are concerned about the future of the German economy and demand quick political measures."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Arbeitslosigkeit",
+      "translated_term": "the unemployment",
+      "example_usage": "Deutschland erlebt eine ernste Arbeitsmarktkrise."
+    },
+    {
+      "term": "erleben",
+      "translated_term": "to experience",
+      "example_usage": "Deutschland erlebt eine ernste Arbeitsmarktkrise."
+    },
+    {
+      "term": "die Arbeitsmarktkrise",
+      "translated_term": "the labor market crisis",
+      "example_usage": "Deutschland erlebt eine ernste Arbeitsmarktkrise."
+    },
+    {
+      "term": "überschreiten",
+      "translated_term": "to exceed/surpass",
+      "example_usage": "Die Zahl der Arbeitslosen hat im August die Marke von drei Millionen überschritten."
+    },
+    {
+      "term": "der Arbeitsmarkt",
+      "translated_term": "the labor market",
+      "example_usage": "Im November kamen über 100.000 zusätzliche Menschen auf den Arbeitsmarkt im Vergleich zum Vorjahr."
+    },
+    {
+      "term": "das Vorjahr",
+      "translated_term": "the previous year",
+      "example_usage": "Im November kamen über 100.000 zusätzliche Menschen auf den Arbeitsmarkt im Vergleich zum Vorjahr."
+    },
+    {
+      "term": "die Insolvenz",
+      "translated_term": "the bankruptcy",
+      "example_usage": "Ein Hauptgrund für die Krise ist die Rekordzahl an Firmeninsolvenzen."
+    },
+    {
+      "term": "das Quartal",
+      "translated_term": "the quarter (of a year)",
+      "example_usage": "In den ersten drei Quartalen des Jahres erreichten die Insolvenzen einen Höchststand der letzten elf Jahre."
+    },
+    {
+      "term": "der Höchststand",
+      "translated_term": "the peak/record high",
+      "example_usage": "In den ersten drei Quartalen des Jahres erreichten die Insolvenzen einen Höchststand der letzten elf Jahre."
+    },
+    {
+      "term": "schätzen",
+      "translated_term": "to estimate",
+      "example_usage": "Das Institut für Wirtschaftsforschung Halle schätzt, dass etwa 170.000 Arbeitsplätze im Jahr 2025 verloren gingen."
+    },
+    {
+      "term": "der Arbeitsplatz",
+      "translated_term": "the job/workplace",
+      "example_usage": "Das Institut für Wirtschaftsforschung Halle schätzt, dass etwa 170.000 Arbeitsplätze im Jahr 2025 verloren gingen."
+    },
+    {
+      "term": "warnen vor",
+      "translated_term": "to warn of",
+      "example_usage": "Die größte Gewerkschaft Deutschlands, IG Metall, warnt vor einer tiefen Krise der deutschen Industrie."
+    },
+    {
+      "term": "die Herausforderung",
+      "translated_term": "the challenge",
+      "example_usage": "Die Gewerkschaftschefin Christiane Benner sagt, dass die deutsche Wirtschaft vor extremen Herausforderungen steht."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand/call for",
+      "example_usage": "Sie fordert eine enge Zusammenarbeit zwischen Industrie, Politik und Arbeitnehmern."
+    },
+    {
+      "term": "die Maßnahme",
+      "translated_term": "the measure/action",
+      "example_usage": "Experten sind besorgt über die Zukunft der deutschen Wirtschaft und fordern schnelle politische Maßnahmen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/world/2025/12/28/106364.html"
+    },
+    {
+      "name": "Yahoo News",
+      "link_url": "https://www.yahoo.com/news/articles/germanys-largest-union-urges-joint-094017621.html"
+    }
+  ]
+}

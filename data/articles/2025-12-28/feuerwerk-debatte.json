@@ -1,0 +1,143 @@
+{
+  "title": "Debatte über Feuerwerksverbot in Deutschland",
+  "translated_title": "Debate over fireworks ban in Germany",
+  "text": [
+    {
+      "text": "In Deutschland wird heftig über ein mögliches Verbot von privatem Feuerwerk diskutiert.",
+      "translated_text": "In Germany, there is heated debate about a possible ban on private fireworks."
+    },
+    {
+      "text": "Mehr als 2,2 Millionen Menschen haben eine Petition für ein landesweites Verbot unterzeichnet.",
+      "translated_text": "More than 2.2 million people have signed a petition for a nationwide ban."
+    },
+    {
+      "text": "Die Gewerkschaft der Polizei hat die Petition gestartet, weil Feuerwerk oft gefährlich ist.",
+      "translated_text": "The police union started the petition because fireworks are often dangerous."
+    },
+    {
+      "text": "Auch der Chef der Deutschen Ärzteverbandes unterstützt das Verbot aus Sicherheits- und Umweltgründen.",
+      "translated_text": "The head of the German Medical Association also supports the ban for safety and environmental reasons."
+    },
+    {
+      "text": "Jedes Jahr verletzen sich viele Menschen durch Feuerwerkskörper, besonders an Silvester.",
+      "translated_text": "Every year many people are injured by fireworks, especially on New Year's Eve."
+    },
+    {
+      "text": "Außerdem entstehen durch Feuerwerk Müll und Luftverschmutzung.",
+      "translated_text": "In addition, fireworks create waste and air pollution."
+    },
+    {
+      "text": "Umfragen zeigen, dass die Mehrheit der Deutschen ein Verbot befürwortet.",
+      "translated_text": "Polls show that the majority of Germans support a ban."
+    },
+    {
+      "text": "Die Feuerwerkindustrie lehnt das Verbot jedoch strikt ab.",
+      "translated_text": "The fireworks industry, however, strictly rejects the ban."
+    },
+    {
+      "text": "Sie argumentiert, dass Feuerwerk ein wichtiger Teil der Silvestertraditionen ist.",
+      "translated_text": "They argue that fireworks are an important part of New Year's Eve traditions."
+    },
+    {
+      "text": "Die Regierung muss nun entscheiden, ob sie auf die Mehrheit der Bevölkerung oder auf die Industrie hört.",
+      "translated_text": "The government must now decide whether to listen to the majority of the population or to the industry."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Verbot",
+      "translated_term": "the ban",
+      "example_usage": "In Deutschland wird heftig über ein mögliches Verbot von privatem Feuerwerk diskutiert."
+    },
+    {
+      "term": "das Feuerwerk",
+      "translated_term": "the fireworks",
+      "example_usage": "In Deutschland wird heftig über ein mögliches Verbot von privatem Feuerwerk diskutiert."
+    },
+    {
+      "term": "diskutieren",
+      "translated_term": "to discuss/debate",
+      "example_usage": "In Deutschland wird heftig über ein mögliches Verbot von privatem Feuerwerk diskutiert."
+    },
+    {
+      "term": "die Petition",
+      "translated_term": "the petition",
+      "example_usage": "Mehr als 2,2 Millionen Menschen haben eine Petition für ein landesweites Verbot unterzeichnet."
+    },
+    {
+      "term": "unterzeichnen",
+      "translated_term": "to sign",
+      "example_usage": "Mehr als 2,2 Millionen Menschen haben eine Petition für ein landesweites Verbot unterzeichnet."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the union/trade union",
+      "example_usage": "Die Gewerkschaft der Polizei hat die Petition gestartet, weil Feuerwerk oft gefährlich ist."
+    },
+    {
+      "term": "der Ärzteverbandes",
+      "translated_term": "the medical association",
+      "example_usage": "Auch der Chef der Deutschen Ärzteverbandes unterstützt das Verbot aus Sicherheits- und Umweltgründen."
+    },
+    {
+      "term": "unterstützen",
+      "translated_term": "to support",
+      "example_usage": "Auch der Chef der Deutschen Ärzteverbandes unterstützt das Verbot aus Sicherheits- und Umweltgründen."
+    },
+    {
+      "term": "sich verletzen",
+      "translated_term": "to injure oneself",
+      "example_usage": "Jedes Jahr verletzen sich viele Menschen durch Feuerwerkskörper, besonders an Silvester."
+    },
+    {
+      "term": "der Feuerwerkskörper",
+      "translated_term": "the firework/firecracker",
+      "example_usage": "Jedes Jahr verletzen sich viele Menschen durch Feuerwerkskörper, besonders an Silvester."
+    },
+    {
+      "term": "die Luftverschmutzung",
+      "translated_term": "the air pollution",
+      "example_usage": "Außerdem entstehen durch Feuerwerk Müll und Luftverschmutzung."
+    },
+    {
+      "term": "die Umfrage",
+      "translated_term": "the poll/survey",
+      "example_usage": "Umfragen zeigen, dass die Mehrheit der Deutschen ein Verbot befürwortet."
+    },
+    {
+      "term": "befürworten",
+      "translated_term": "to support/advocate for",
+      "example_usage": "Umfragen zeigen, dass die Mehrheit der Deutschen ein Verbot befürwortet."
+    },
+    {
+      "term": "ablehnen",
+      "translated_term": "to reject",
+      "example_usage": "Die Feuerwerkindustrie lehnt das Verbot jedoch strikt ab."
+    },
+    {
+      "term": "argumentieren",
+      "translated_term": "to argue",
+      "example_usage": "Sie argumentiert, dass Feuerwerk ein wichtiger Teil der Silvestertraditionen ist."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Umweltschutz",
+      "translated_name": "Environmental Protection"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Xinhua",
+      "link_url": "https://english.news.cn/europe/20251228/6b4e23566247485fbedfc6db6c183391/c.html"
+    }
+  ]
+}
