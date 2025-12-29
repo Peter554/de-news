@@ -1,0 +1,138 @@
+{
+  "title": "Trump sieht Fortschritte bei Friedensverhandlungen zwischen Ukraine und Russland",
+  "translated_title": "Trump sees progress in peace negotiations between Ukraine and Russia",
+  "text": [
+    {
+      "text": "Der amerikanische Präsident Donald Trump hat sich mit dem ukrainischen Präsidenten Wolodymyr Selenskyj getroffen.",
+      "translated_text": "American President Donald Trump met with Ukrainian President Volodymyr Zelenskyy."
+    },
+    {
+      "text": "Das Treffen fand in Trumps Resort in Florida statt.",
+      "translated_text": "The meeting took place at Trump's resort in Florida."
+    },
+    {
+      "text": "Trump sagte nach dem Gespräch, dass die Ukraine und Russland näher an einem Frieden sind als je zuvor.",
+      "translated_text": "After the conversation, Trump said that Ukraine and Russia are closer to peace than ever before."
+    },
+    {
+      "text": "Vor dem Treffen mit Selenskyj hatte Trump ein langes Telefongespräch mit dem russischen Präsidenten Wladimir Putin.",
+      "translated_text": "Before the meeting with Zelenskyy, Trump had a long telephone conversation with Russian President Vladimir Putin."
+    },
+    {
+      "text": "Das Gespräch mit Putin dauerte zweieinhalb Stunden und verlief nach Trumps Aussage sehr gut.",
+      "translated_text": "The conversation with Putin lasted two and a half hours and went very well according to Trump."
+    },
+    {
+      "text": "Viele Menschen hoffen auf ein Ende des Krieges, der schon seit Jahren andauert.",
+      "translated_text": "Many people hope for an end to the war, which has been going on for years."
+    },
+    {
+      "text": "Der Krieg hat großes Leid über die Ukraine gebracht und auch die Weltwirtschaft stark beeinflusst.",
+      "translated_text": "The war has brought great suffering to Ukraine and has also strongly influenced the global economy."
+    },
+    {
+      "text": "Friedensverhandlungen sind sehr kompliziert, weil beide Seiten unterschiedliche Forderungen haben.",
+      "translated_text": "Peace negotiations are very complicated because both sides have different demands."
+    },
+    {
+      "text": "Experten sind vorsichtig und warten ab, ob die Gespräche wirklich zu einem Frieden führen werden.",
+      "translated_text": "Experts are cautious and are waiting to see whether the talks will really lead to peace."
+    },
+    {
+      "text": "Die internationale Gemeinschaft beobachtet die Entwicklung sehr genau.",
+      "translated_text": "The international community is watching the development very closely."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Präsident",
+      "translated_term": "the president",
+      "example_usage": "Der amerikanische Präsident Donald Trump hat sich mit dem ukrainischen Präsidenten Wolodymyr Selenskyj getroffen."
+    },
+    {
+      "term": "sich treffen",
+      "translated_term": "to meet",
+      "example_usage": "Der amerikanische Präsident Donald Trump hat sich mit dem ukrainischen Präsidenten Wolodymyr Selenskyj getroffen."
+    },
+    {
+      "term": "das Treffen",
+      "translated_term": "the meeting",
+      "example_usage": "Das Treffen fand in Trumps Resort in Florida statt."
+    },
+    {
+      "term": "stattfinden",
+      "translated_term": "to take place",
+      "example_usage": "Das Treffen fand in Trumps Resort in Florida statt."
+    },
+    {
+      "term": "das Gespräch",
+      "translated_term": "the conversation",
+      "example_usage": "Trump sagte nach dem Gespräch, dass die Ukraine und Russland näher an einem Frieden sind als je zuvor."
+    },
+    {
+      "term": "der Frieden",
+      "translated_term": "the peace",
+      "example_usage": "Trump sagte nach dem Gespräch, dass die Ukraine und Russland näher an einem Frieden sind als je zuvor."
+    },
+    {
+      "term": "das Telefongespräch",
+      "translated_term": "the telephone conversation",
+      "example_usage": "Vor dem Treffen mit Selenskyj hatte Trump ein langes Telefongespräch mit dem russischen Präsidenten Wladimir Putin."
+    },
+    {
+      "term": "dauern",
+      "translated_term": "to last",
+      "example_usage": "Das Gespräch mit Putin dauerte zweieinhalb Stunden und verlief nach Trumps Aussage sehr gut."
+    },
+    {
+      "term": "andauern",
+      "translated_term": "to continue/go on",
+      "example_usage": "Viele Menschen hoffen auf ein Ende des Krieges, der schon seit Jahren andauert."
+    },
+    {
+      "term": "das Leid",
+      "translated_term": "the suffering",
+      "example_usage": "Der Krieg hat großes Leid über die Ukraine gebracht und auch die Weltwirtschaft stark beeinflusst."
+    },
+    {
+      "term": "beeinflussen",
+      "translated_term": "to influence",
+      "example_usage": "Der Krieg hat großes Leid über die Ukraine gebracht und auch die Weltwirtschaft stark beeinflusst."
+    },
+    {
+      "term": "die Forderung",
+      "translated_term": "the demand",
+      "example_usage": "Friedensverhandlungen sind sehr kompliziert, weil beide Seiten unterschiedliche Forderungen haben."
+    },
+    {
+      "term": "vorsichtig",
+      "translated_term": "cautious",
+      "example_usage": "Experten sind vorsichtig und warten ab, ob die Gespräche wirklich zu einem Frieden führen werden."
+    },
+    {
+      "term": "beobachten",
+      "translated_term": "to observe/watch",
+      "example_usage": "Die internationale Gemeinschaft beobachtet die Entwicklung sehr genau."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR",
+      "link_url": "https://www.npr.org/2025/12/28/nx-s1-5659700/zelenskyy-meets-trump-efforts-end-russia-ukraine-war-elusive"
+    }
+  ]
+}

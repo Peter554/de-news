@@ -1,0 +1,147 @@
+{
+  "title": "Großbritannien und Deutschland kaufen gemeinsam moderne Artillerie",
+  "translated_title": "Great Britain and Germany jointly purchase modern artillery",
+  "text": [
+    {
+      "text": "Großbritannien und Deutschland haben einen wichtigen Vertrag über militärische Zusammenarbeit unterzeichnet.",
+      "translated_text": "Great Britain and Germany have signed an important contract on military cooperation."
+    },
+    {
+      "text": "Die beiden Länder kaufen zusammen moderne Artilleriesysteme für etwa 61 Millionen Euro.",
+      "translated_text": "The two countries are purchasing modern artillery systems together for about 61 million euros."
+    },
+    {
+      "text": "Das neue Waffensystem heißt RCH 155 und wird von den Unternehmen KNDS und Rheinmetall hergestellt.",
+      "translated_text": "The new weapon system is called RCH 155 and is manufactured by the companies KNDS and Rheinmetall."
+    },
+    {
+      "text": "Diese mobile Artillerie ist sehr modern und kann während der Fahrt schießen.",
+      "translated_text": "This mobile artillery is very modern and can fire while moving."
+    },
+    {
+      "text": "Sie kann Ziele treffen, die mehr als 70 Kilometer entfernt sind.",
+      "translated_text": "It can hit targets that are more than 70 kilometers away."
+    },
+    {
+      "text": "Das System kann acht Schüsse pro Minute abfeuern und braucht nur zwei Soldaten für den Betrieb.",
+      "translated_text": "The system can fire eight shots per minute and only needs two soldiers to operate."
+    },
+    {
+      "text": "Die Reichweite beträgt bis zu 700 Kilometer ohne Nachtanken.",
+      "translated_text": "The range is up to 700 kilometers without refueling."
+    },
+    {
+      "text": "Diese Zusammenarbeit zeigt, dass die europäischen Länder ihre Verteidigung stärken wollen.",
+      "translated_text": "This cooperation shows that the European countries want to strengthen their defense."
+    },
+    {
+      "text": "Besonders in der aktuellen politischen Situation ist die militärische Kooperation zwischen Berlin und London wichtig.",
+      "translated_text": "Especially in the current political situation, the military cooperation between Berlin and London is important."
+    },
+    {
+      "text": "Experten sehen dies als positives Zeichen für die europäische Sicherheit.",
+      "translated_text": "Experts see this as a positive sign for European security."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Vertrag",
+      "translated_term": "the contract",
+      "example_usage": "Großbritannien und Deutschland haben einen wichtigen Vertrag über militärische Zusammenarbeit unterzeichnet."
+    },
+    {
+      "term": "unterzeichnen",
+      "translated_term": "to sign",
+      "example_usage": "Großbritannien und Deutschland haben einen wichtigen Vertrag über militärische Zusammenarbeit unterzeichnet."
+    },
+    {
+      "term": "das Artilleriesystem",
+      "translated_term": "the artillery system",
+      "example_usage": "Die beiden Länder kaufen zusammen moderne Artilleriesysteme für etwa 61 Millionen Euro."
+    },
+    {
+      "term": "das Waffensystem",
+      "translated_term": "the weapon system",
+      "example_usage": "Das neue Waffensystem heißt RCH 155 und wird von den Unternehmen KNDS und Rheinmetall hergestellt."
+    },
+    {
+      "term": "herstellen",
+      "translated_term": "to manufacture",
+      "example_usage": "Das neue Waffensystem heißt RCH 155 und wird von den Unternehmen KNDS und Rheinmetall hergestellt."
+    },
+    {
+      "term": "mobil",
+      "translated_term": "mobile",
+      "example_usage": "Diese mobile Artillerie ist sehr modern und kann während der Fahrt schießen."
+    },
+    {
+      "term": "schießen",
+      "translated_term": "to shoot/fire",
+      "example_usage": "Diese mobile Artillerie ist sehr modern und kann während der Fahrt schießen."
+    },
+    {
+      "term": "das Ziel",
+      "translated_term": "the target",
+      "example_usage": "Sie kann Ziele treffen, die mehr als 70 Kilometer entfernt sind."
+    },
+    {
+      "term": "treffen",
+      "translated_term": "to hit",
+      "example_usage": "Sie kann Ziele treffen, die mehr als 70 Kilometer entfernt sind."
+    },
+    {
+      "term": "abfeuern",
+      "translated_term": "to fire off",
+      "example_usage": "Das System kann acht Schüsse pro Minute abfeuern und braucht nur zwei Soldaten für den Betrieb."
+    },
+    {
+      "term": "der Betrieb",
+      "translated_term": "the operation",
+      "example_usage": "Das System kann acht Schüsse pro Minute abfeuern und braucht nur zwei Soldaten für den Betrieb."
+    },
+    {
+      "term": "die Reichweite",
+      "translated_term": "the range",
+      "example_usage": "Die Reichweite beträgt bis zu 700 Kilometer ohne Nachtanken."
+    },
+    {
+      "term": "die Verteidigung",
+      "translated_term": "the defense",
+      "example_usage": "Diese Zusammenarbeit zeigt, dass die europäischen Länder ihre Verteidigung stärken wollen."
+    },
+    {
+      "term": "stärken",
+      "translated_term": "to strengthen",
+      "example_usage": "Diese Zusammenarbeit zeigt, dass die europäischen Länder ihre Verteidigung stärken wollen."
+    },
+    {
+      "term": "die Sicherheit",
+      "translated_term": "the security",
+      "example_usage": "Experten sehen dies als positives Zeichen für die europäische Sicherheit."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/2025/12/28/berlin-and-london-intensify-military-cooperation-with-purchase-of-60-million-euros-for-new"
+    },
+    {
+      "name": "U.S. News",
+      "link_url": "https://www.usnews.com/news/world/articles/2025-12-28/uk-and-germany-sign-70-million-joint-deal-for-mobile-artillery-systems"
+    }
+  ]
+}
