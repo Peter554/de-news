@@ -1,0 +1,142 @@
+{
+  "title": "Deutschlands Wirtschaft steht vor großen Herausforderungen",
+  "translated_title": "Germany's economy faces major challenges",
+  "text": [
+    {
+      "text": "Die deutsche Wirtschaft hat derzeit mit vielen Problemen zu kämpfen.",
+      "translated_text": "The German economy is currently struggling with many problems."
+    },
+    {
+      "text": "Die Chancen, einen Job zu finden, sind so niedrig wie nie zuvor, sagt die Bundesagentur für Arbeit.",
+      "translated_text": "The chances of finding a job are lower than ever before, says the Federal Employment Agency."
+    },
+    {
+      "text": "Die größte deutsche Gewerkschaft IG Metall warnt vor einer tiefen Krise in der Industrie.",
+      "translated_text": "Germany's largest trade union IG Metall warns of a deep crisis in industry."
+    },
+    {
+      "text": "Die Probleme sind vielfältig: amerikanische Zölle, die technologische Entwicklung in China und hohe Energiepreise.",
+      "translated_text": "The problems are varied: American tariffs, technological development in China, and high energy prices."
+    },
+    {
+      "text": "Besonders die Autoindustrie leidet unter diesen Schwierigkeiten.",
+      "translated_text": "The automotive industry in particular is suffering from these difficulties."
+    },
+    {
+      "text": "Deutsche Autoexporte in die USA sind um fast 14 Prozent zurückgegangen.",
+      "translated_text": "German car exports to the USA have fallen by almost 14 percent."
+    },
+    {
+      "text": "Seit August 2025 gibt es einen Basiszoll von 15 Prozent auf europäische Autos in den USA.",
+      "translated_text": "Since August 2025, there has been a base tariff of 15 percent on European cars in the USA."
+    },
+    {
+      "text": "IG Metall fordert, dass Industrie, Politik und Arbeitnehmer eng zusammenarbeiten müssen.",
+      "translated_text": "IG Metall demands that industry, politics, and workers must work closely together."
+    },
+    {
+      "text": "Nur so kann Deutschland diese Krise überwinden, meinen die Experten.",
+      "translated_text": "Only in this way can Germany overcome this crisis, the experts say."
+    },
+    {
+      "text": "Die hohen Energiepreise sind eine Folge des Krieges in der Ukraine und belasten deutsche Unternehmen stark.",
+      "translated_text": "The high energy prices are a consequence of the war in Ukraine and heavily burden German companies."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Wirtschaft",
+      "translated_term": "the economy",
+      "example_usage": "Die deutsche Wirtschaft hat derzeit mit vielen Problemen zu kämpfen."
+    },
+    {
+      "term": "kämpfen",
+      "translated_term": "to struggle/fight",
+      "example_usage": "Die deutsche Wirtschaft hat derzeit mit vielen Problemen zu kämpfen."
+    },
+    {
+      "term": "die Chance",
+      "translated_term": "the chance",
+      "example_usage": "Die Chancen, einen Job zu finden, sind so niedrig wie nie zuvor."
+    },
+    {
+      "term": "die Bundesagentur für Arbeit",
+      "translated_term": "the Federal Employment Agency",
+      "example_usage": "Die Chancen, einen Job zu finden, sind so niedrig wie nie zuvor, sagt die Bundesagentur für Arbeit."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the trade union",
+      "example_usage": "Die größte deutsche Gewerkschaft IG Metall warnt vor einer tiefen Krise in der Industrie."
+    },
+    {
+      "term": "warnen",
+      "translated_term": "to warn",
+      "example_usage": "Die größte deutsche Gewerkschaft IG Metall warnt vor einer tiefen Krise in der Industrie."
+    },
+    {
+      "term": "die Krise",
+      "translated_term": "the crisis",
+      "example_usage": "Die größte deutsche Gewerkschaft IG Metall warnt vor einer tiefen Krise in der Industrie."
+    },
+    {
+      "term": "vielfältig",
+      "translated_term": "varied/diverse",
+      "example_usage": "Die Probleme sind vielfältig: amerikanische Zölle, die technologische Entwicklung in China und hohe Energiepreise."
+    },
+    {
+      "term": "der Zoll",
+      "translated_term": "the tariff",
+      "example_usage": "Die Probleme sind vielfältig: amerikanische Zölle, die technologische Entwicklung in China und hohe Energiepreise."
+    },
+    {
+      "term": "die Autoindustrie",
+      "translated_term": "the automotive industry",
+      "example_usage": "Besonders die Autoindustrie leidet unter diesen Schwierigkeiten."
+    },
+    {
+      "term": "leiden",
+      "translated_term": "to suffer",
+      "example_usage": "Besonders die Autoindustrie leidet unter diesen Schwierigkeiten."
+    },
+    {
+      "term": "zurückgehen",
+      "translated_term": "to fall/decline",
+      "example_usage": "Deutsche Autoexporte in die USA sind um fast 14 Prozent zurückgegangen."
+    },
+    {
+      "term": "überwinden",
+      "translated_term": "to overcome",
+      "example_usage": "Nur so kann Deutschland diese Krise überwinden, meinen die Experten."
+    },
+    {
+      "term": "belasten",
+      "translated_term": "to burden",
+      "example_usage": "Die hohen Energiepreise sind eine Folge des Krieges in der Ukraine und belasten deutsche Unternehmen stark."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "GMK Center",
+      "link_url": "https://gmk.center/en/news/german-auto-industry-significantly-affected-by-us-tariffs-study/"
+    },
+    {
+      "name": "Yahoo News",
+      "link_url": "https://www.yahoo.com/news/articles/germanys-largest-union-urges-joint-094017621.html"
+    }
+  ]
+}

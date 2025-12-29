@@ -1,0 +1,138 @@
+{
+  "title": "Winterregen verschlimmert die Situation in Gaza",
+  "translated_title": "Winter rain worsens the situation in Gaza",
+  "text": [
+    {
+      "text": "Der Gazastreifen erlebt derzeit starke Winterregenfälle.",
+      "translated_text": "The Gaza Strip is currently experiencing heavy winter rainfall."
+    },
+    {
+      "text": "Die Menschen, die durch den Krieg vertrieben wurden, leben in provisorischen Zelten.",
+      "translated_text": "The people who were displaced by the war live in makeshift tents."
+    },
+    {
+      "text": "Der Regen hat die Lager überflutet und viele Zelte stehen knöcheltief im Wasser.",
+      "translated_text": "The rain has flooded the camps and many tents are ankle-deep in water."
+    },
+    {
+      "text": "Die Zelte sind alt und verschlissen, sie bieten kaum Schutz vor dem Wetter.",
+      "translated_text": "The tents are old and worn out, they offer little protection from the weather."
+    },
+    {
+      "text": "Die palästinensischen Familien kämpfen darum, trocken zu bleiben.",
+      "translated_text": "The Palestinian families are struggling to stay dry."
+    },
+    {
+      "text": "Besonders für Kinder und ältere Menschen ist die Situation sehr gefährlich.",
+      "translated_text": "The situation is very dangerous especially for children and elderly people."
+    },
+    {
+      "text": "Es fehlt an warmer Kleidung, Decken und wasserdichten Materialien.",
+      "translated_text": "There is a lack of warm clothing, blankets, and waterproof materials."
+    },
+    {
+      "text": "Humanitäre Organisationen versuchen zu helfen, aber die Bedingungen sind extrem schwierig.",
+      "translated_text": "Humanitarian organizations are trying to help, but the conditions are extremely difficult."
+    },
+    {
+      "text": "Der andauernde Konflikt macht es schwer, ausreichend Hilfsgüter in die Region zu bringen.",
+      "translated_text": "The ongoing conflict makes it difficult to bring sufficient aid supplies to the region."
+    },
+    {
+      "text": "Die internationale Gemeinschaft ist besorgt über die humanitäre Lage im Gazastreifen.",
+      "translated_text": "The international community is concerned about the humanitarian situation in the Gaza Strip."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Gazastreifen",
+      "translated_term": "the Gaza Strip",
+      "example_usage": "Der Gazastreifen erlebt derzeit starke Winterregenfälle."
+    },
+    {
+      "term": "der Regenfall",
+      "translated_term": "the rainfall",
+      "example_usage": "Der Gazastreifen erlebt derzeit starke Winterregenfälle."
+    },
+    {
+      "term": "vertreiben",
+      "translated_term": "to displace/drive away",
+      "example_usage": "Die Menschen, die durch den Krieg vertrieben wurden, leben in provisorischen Zelten."
+    },
+    {
+      "term": "provisorisch",
+      "translated_term": "makeshift/temporary",
+      "example_usage": "Die Menschen, die durch den Krieg vertrieben wurden, leben in provisorischen Zelten."
+    },
+    {
+      "term": "das Zelt",
+      "translated_term": "the tent",
+      "example_usage": "Die Menschen, die durch den Krieg vertrieben wurden, leben in provisorischen Zelten."
+    },
+    {
+      "term": "überfluten",
+      "translated_term": "to flood",
+      "example_usage": "Der Regen hat die Lager überflutet und viele Zelte stehen knöcheltief im Wasser."
+    },
+    {
+      "term": "das Lager",
+      "translated_term": "the camp",
+      "example_usage": "Der Regen hat die Lager überflutet und viele Zelte stehen knöcheltief im Wasser."
+    },
+    {
+      "term": "verschlissen",
+      "translated_term": "worn out",
+      "example_usage": "Die Zelte sind alt und verschlissen, sie bieten kaum Schutz vor dem Wetter."
+    },
+    {
+      "term": "der Schutz",
+      "translated_term": "the protection",
+      "example_usage": "Die Zelte sind alt und verschlissen, sie bieten kaum Schutz vor dem Wetter."
+    },
+    {
+      "term": "trocken",
+      "translated_term": "dry",
+      "example_usage": "Die palästinensischen Familien kämpfen darum, trocken zu bleiben."
+    },
+    {
+      "term": "wasserdicht",
+      "translated_term": "waterproof",
+      "example_usage": "Es fehlt an warmer Kleidung, Decken und wasserdichten Materialien."
+    },
+    {
+      "term": "die Bedingung",
+      "translated_term": "the condition",
+      "example_usage": "Humanitäre Organisationen versuchen zu helfen, aber die Bedingungen sind extrem schwierig."
+    },
+    {
+      "term": "das Hilfsgut",
+      "translated_term": "the aid supply",
+      "example_usage": "Der andauernde Konflikt macht es schwer, ausreichend Hilfsgüter in die Region zu bringen."
+    },
+    {
+      "term": "besorgt",
+      "translated_term": "concerned",
+      "example_usage": "Die internationale Gemeinschaft ist besorgt über die humanitäre Lage im Gazastreifen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Gaza-Konflikt",
+      "translated_name": "Gaza Conflict"
+    },
+    {
+      "name": "Humanitäre Krise",
+      "translated_name": "Humanitarian Crisis"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "KSAT",
+      "link_url": "https://www.ksat.com/news/world/2025/12/28/winter-rain-floods-gaza-camps-as-netanyahu-heads-for-us-meeting/"
+    }
+  ]
+}

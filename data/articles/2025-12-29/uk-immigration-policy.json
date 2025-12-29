@@ -1,0 +1,138 @@
+{
+  "title": "Großbritannien verschärft seine Einwanderungspolitik",
+  "translated_title": "Great Britain tightens its immigration policy",
+  "text": [
+    {
+      "text": "Die britische Regierung hat neue Maßnahmen in der Einwanderungspolitik angekündigt.",
+      "translated_text": "The British government has announced new measures in immigration policy."
+    },
+    {
+      "text": "Das Innenministerium hat Visabeschränkungen gegen die Demokratische Republik Kongo eingeführt.",
+      "translated_text": "The Home Office has introduced visa restrictions against the Democratic Republic of Congo."
+    },
+    {
+      "text": "Der Grund dafür ist, dass das Land nicht mit der britischen Rückführungspolitik kooperiert.",
+      "translated_text": "The reason for this is that the country does not cooperate with British return policy."
+    },
+    {
+      "text": "Diplomaten und Minister aus dem Kongo erhalten keine bevorzugte Visa-Behandlung mehr.",
+      "translated_text": "Diplomats and ministers from Congo no longer receive preferential visa treatment."
+    },
+    {
+      "text": "Kongolesische Bürger dürfen nicht mehr den Schnellzugang nach Großbritannien nutzen.",
+      "translated_text": "Congolese citizens may no longer use fast-track entry to Great Britain."
+    },
+    {
+      "text": "Das Innenministerium nennt das Land „obstruktiv", weil es abgelehnte Migranten nicht zurücknimmt.",
+      "translated_text": "The Home Office calls the country \"obstructive\" because it does not take back rejected migrants."
+    },
+    {
+      "text": "Gleichzeitig hat Großbritannien Rückführungsabkommen mit Angola und Namibia unterzeichnet.",
+      "translated_text": "At the same time, Great Britain has signed return agreements with Angola and Namibia."
+    },
+    {
+      "text": "Die Zahl der Asylanträge in Großbritannien ist auf einem Rekordniveau.",
+      "translated_text": "The number of asylum applications in Great Britain is at a record level."
+    },
+    {
+      "text": "Im Jahr bis Juni 2025 gab es etwa 111.000 Asylanträge.",
+      "translated_text": "In the year to June 2025, there were about 111,000 asylum applications."
+    },
+    {
+      "text": "Die Regierung versucht mit diesen Maßnahmen, die Einwanderung besser zu kontrollieren.",
+      "translated_text": "The government is trying to better control immigration with these measures."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Regierung",
+      "translated_term": "the government",
+      "example_usage": "Die britische Regierung hat neue Maßnahmen in der Einwanderungspolitik angekündigt."
+    },
+    {
+      "term": "die Maßnahme",
+      "translated_term": "the measure",
+      "example_usage": "Die britische Regierung hat neue Maßnahmen in der Einwanderungspolitik angekündigt."
+    },
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Die britische Regierung hat neue Maßnahmen in der Einwanderungspolitik angekündigt."
+    },
+    {
+      "term": "das Innenministerium",
+      "translated_term": "the Home Office/Interior Ministry",
+      "example_usage": "Das Innenministerium hat Visabeschränkungen gegen die Demokratische Republik Kongo eingeführt."
+    },
+    {
+      "term": "die Beschränkung",
+      "translated_term": "the restriction",
+      "example_usage": "Das Innenministerium hat Visabeschränkungen gegen die Demokratische Republik Kongo eingeführt."
+    },
+    {
+      "term": "einführen",
+      "translated_term": "to introduce",
+      "example_usage": "Das Innenministerium hat Visabeschränkungen gegen die Demokratische Republik Kongo eingeführt."
+    },
+    {
+      "term": "kooperieren",
+      "translated_term": "to cooperate",
+      "example_usage": "Der Grund dafür ist, dass das Land nicht mit der britischen Rückführungspolitik kooperiert."
+    },
+    {
+      "term": "die Rückführung",
+      "translated_term": "the return/repatriation",
+      "example_usage": "Der Grund dafür ist, dass das Land nicht mit der britischen Rückführungspolitik kooperiert."
+    },
+    {
+      "term": "bevorzugt",
+      "translated_term": "preferential/preferred",
+      "example_usage": "Diplomaten und Minister aus dem Kongo erhalten keine bevorzugte Visa-Behandlung mehr."
+    },
+    {
+      "term": "der Schnellzugang",
+      "translated_term": "the fast-track access",
+      "example_usage": "Kongolesische Bürger dürfen nicht mehr den Schnellzugang nach Großbritannien nutzen."
+    },
+    {
+      "term": "das Abkommen",
+      "translated_term": "the agreement",
+      "example_usage": "Gleichzeitig hat Großbritannien Rückführungsabkommen mit Angola und Namibia unterzeichnet."
+    },
+    {
+      "term": "der Asylantrag",
+      "translated_term": "the asylum application",
+      "example_usage": "Die Zahl der Asylanträge in Großbritannien ist auf einem Rekordniveau."
+    },
+    {
+      "term": "das Rekordniveau",
+      "translated_term": "the record level",
+      "example_usage": "Die Zahl der Asylanträge in Großbritannien ist auf einem Rekordniveau."
+    },
+    {
+      "term": "kontrollieren",
+      "translated_term": "to control",
+      "example_usage": "Die Regierung versucht mit diesen Maßnahmen, die Einwanderung besser zu kontrollieren."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Einwanderungspolitik",
+      "translated_name": "Immigration Policy"
+    },
+    {
+      "name": "Afrika",
+      "translated_name": "Africa"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/12/28/uk-curbs-drc-visas-announces-migrant-return-deals-with-angola-namibia"
+    }
+  ]
+}
