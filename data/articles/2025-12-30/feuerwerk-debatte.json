@@ -1,0 +1,123 @@
+{
+  "title": "Debatte über Feuerwerksverbot in Deutschland",
+  "translated_title": "Debate over Fireworks Ban in Germany",
+  "text": [
+    {
+      "text": "In Deutschland gibt es eine große Debatte über private Feuerwerke zu Silvester.",
+      "translated_text": "In Germany, there is a big debate about private fireworks for New Year's Eve."
+    },
+    {
+      "text": "Mehr als 2,2 Millionen Menschen haben eine Petition für ein bundesweites Verbot unterschrieben.",
+      "translated_text": "More than 2.2 million people have signed a petition for a nationwide ban."
+    },
+    {
+      "text": "Die Petition wurde von der Deutschen Polizeigewerkschaft initiiert.",
+      "translated_text": "The petition was initiated by the German Police Union."
+    },
+    {
+      "text": "Der Chef der Deutschen Ärzteverbands fordert auch ein Verbot wegen Sicherheits- und Umweltbedenken.",
+      "translated_text": "The head of the German Medical Association also calls for a ban due to safety and environmental concerns."
+    },
+    {
+      "text": "In Deutschland dürfen Feuerwerke legal vom 29. bis 31. Dezember verkauft werden.",
+      "translated_text": "In Germany, fireworks can legally be sold from December 29 to 31."
+    },
+    {
+      "text": "Umfragen zeigen, dass die Mehrheit der Deutschen ein Verbot unterstützt.",
+      "translated_text": "Polls show that the majority of Germans support a ban."
+    },
+    {
+      "text": "Befürworter eines Verbots argumentieren, dass Feuerwerke gefährlich sind und die Umwelt belasten.",
+      "translated_text": "Supporters of a ban argue that fireworks are dangerous and harm the environment."
+    },
+    {
+      "text": "Jedes Jahr gibt es viele Verletzungen durch unsachgemäßen Umgang mit Feuerwerk.",
+      "translated_text": "Every year, there are many injuries due to improper handling of fireworks."
+    },
+    {
+      "text": "Außerdem verursachen Feuerwerke viel Müll und Feinstaub in der Luft.",
+      "translated_text": "Additionally, fireworks cause a lot of litter and fine dust in the air."
+    },
+    {
+      "text": "Die Diskussion zeigt, wie wichtig den Deutschen sowohl Traditionen als auch Sicherheit sind.",
+      "translated_text": "The discussion shows how important both traditions and safety are to Germans."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Feuerwerk",
+      "translated_term": "fireworks",
+      "example_usage": "In Deutschland gibt es eine große Debatte über private Feuerwerke zu Silvester."
+    },
+    {
+      "term": "das Verbot",
+      "translated_term": "ban",
+      "example_usage": "Der Chef der Deutschen Ärzteverbands fordert auch ein Verbot wegen Sicherheits- und Umweltbedenken."
+    },
+    {
+      "term": "unterschreiben",
+      "translated_term": "to sign",
+      "example_usage": "Mehr als 2,2 Millionen Menschen haben eine Petition für ein bundesweites Verbot unterschrieben."
+    },
+    {
+      "term": "die Petition",
+      "translated_term": "petition",
+      "example_usage": "Die Petition wurde von der Deutschen Polizeigewerkschaft initiiert."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "union",
+      "example_usage": "Die Petition wurde von der Deutschen Polizeigewerkschaft initiiert."
+    },
+    {
+      "term": "die Sicherheit",
+      "translated_term": "safety",
+      "example_usage": "Der Chef der Deutschen Ärzteverbands fordert auch ein Verbot wegen Sicherheits- und Umweltbedenken."
+    },
+    {
+      "term": "die Umwelt",
+      "translated_term": "environment",
+      "example_usage": "Der Chef der Deutschen Ärzteverbands fordert auch ein Verbot wegen Sicherheits- und Umweltbedenken."
+    },
+    {
+      "term": "unterstützen",
+      "translated_term": "to support",
+      "example_usage": "Umfragen zeigen, dass die Mehrheit der Deutschen ein Verbot unterstützt."
+    },
+    {
+      "term": "die Verletzung",
+      "translated_term": "injury",
+      "example_usage": "Jedes Jahr gibt es viele Verletzungen durch unsachgemäßen Umgang mit Feuerwerk."
+    },
+    {
+      "term": "der Feinstaub",
+      "translated_term": "fine dust/particulate matter",
+      "example_usage": "Außerdem verursachen Feuerwerke viel Müll und Feinstaub in der Luft."
+    },
+    {
+      "term": "belasten",
+      "translated_term": "to burden/harm",
+      "example_usage": "Befürworter eines Verbots argumentieren, dass Feuerwerke gefährlich sind und die Umwelt belasten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Umweltschutz",
+      "translated_name": "Environmental Protection"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Xinhua",
+      "link_url": "https://english.news.cn/europe/20251228/6b4e23566247485fbedfc6db6c183391/c.html"
+    }
+  ]
+}
