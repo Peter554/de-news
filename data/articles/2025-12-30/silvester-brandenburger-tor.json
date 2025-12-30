@@ -1,0 +1,118 @@
+{
+  "title": "Silvesterfeier am Brandenburger Tor",
+  "translated_title": "New Year's Eve Celebration at the Brandenburg Gate",
+  "text": [
+    {
+      "text": "Berlin feiert den Jahreswechsel am Brandenburger Tor mit einer großen Party.",
+      "translated_text": "Berlin celebrates the turn of the year at the Brandenburg Gate with a big party."
+    },
+    {
+      "text": "Die Veranstaltung wird live im Fernsehen auf Das Erste übertragen.",
+      "translated_text": "The event will be broadcast live on television on Das Erste."
+    },
+    {
+      "text": "Es wird DJs und ein beeindruckendes Feuerwerk geben.",
+      "translated_text": "There will be DJs and an impressive fireworks display."
+    },
+    {
+      "text": "Die Kapazität vor Ort ist auf 20.000 Menschen begrenzt.",
+      "translated_text": "The on-site capacity is limited to 20,000 people."
+    },
+    {
+      "text": "Besucher brauchen kostenlose Tickets, um an der Feier teilzunehmen.",
+      "translated_text": "Visitors need free tickets to participate in the celebration."
+    },
+    {
+      "text": "Die Straßen rund um das Brandenburger Tor werden ab dem 29. Dezember gesperrt.",
+      "translated_text": "The roads around the Brandenburg Gate will be closed starting December 29."
+    },
+    {
+      "text": "Im Juli hatte Berlins Bürgermeister angekündigt, dass es keine staatlichen Zuschüsse mehr geben würde.",
+      "translated_text": "In July, Berlin's mayor announced that there would be no more state subsidies."
+    },
+    {
+      "text": "Daraufhin hatte der private Veranstalter die Show abgesagt.",
+      "translated_text": "As a result, the private organizer cancelled the show."
+    },
+    {
+      "text": "Nun hat die Stadt eine neue Feier organisiert.",
+      "translated_text": "Now the city has organized a new celebration."
+    },
+    {
+      "text": "Das Brandenburger Tor ist ein symbolischer Ort für die Berliner, um das neue Jahr zu begrüßen.",
+      "translated_text": "The Brandenburg Gate is a symbolic place for Berliners to welcome the new year."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Jahreswechsel",
+      "translated_term": "turn of the year",
+      "example_usage": "Berlin feiert den Jahreswechsel am Brandenburger Tor mit einer großen Party."
+    },
+    {
+      "term": "übertragen",
+      "translated_term": "to broadcast",
+      "example_usage": "Die Veranstaltung wird live im Fernsehen auf Das Erste übertragen."
+    },
+    {
+      "term": "das Feuerwerk",
+      "translated_term": "fireworks",
+      "example_usage": "Es wird DJs und ein beeindruckendes Feuerwerk geben."
+    },
+    {
+      "term": "die Kapazität",
+      "translated_term": "capacity",
+      "example_usage": "Die Kapazität vor Ort ist auf 20.000 Menschen begrenzt."
+    },
+    {
+      "term": "begrenzen",
+      "translated_term": "to limit",
+      "example_usage": "Die Kapazität vor Ort ist auf 20.000 Menschen begrenzt."
+    },
+    {
+      "term": "teilnehmen",
+      "translated_term": "to participate",
+      "example_usage": "Besucher brauchen kostenlose Tickets, um an der Feier teilzunehmen."
+    },
+    {
+      "term": "sperren",
+      "translated_term": "to close/block",
+      "example_usage": "Die Straßen rund um das Brandenburger Tor werden ab dem 29. Dezember gesperrt."
+    },
+    {
+      "term": "der Zuschuss",
+      "translated_term": "subsidy",
+      "example_usage": "Im Juli hatte Berlins Bürgermeister angekündigt, dass es keine staatlichen Zuschüsse mehr geben würde."
+    },
+    {
+      "term": "absagen",
+      "translated_term": "to cancel",
+      "example_usage": "Daraufhin hatte der private Veranstalter die Show abgesagt."
+    },
+    {
+      "term": "begrüßen",
+      "translated_term": "to welcome",
+      "example_usage": "Das Brandenburger Tor ist ein symbolischer Ort für die Berliner, um das neue Jahr zu begrüßen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Veranstaltungen",
+      "translated_name": "Events"
+    },
+    {
+      "name": "Kultur",
+      "translated_name": "Culture"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de",
+      "link_url": "https://www.berlin.de/en/news/10105015-5559700-new-years-eve-at-the-brandenburg-gate-fi.en.html"
+    }
+  ]
+}

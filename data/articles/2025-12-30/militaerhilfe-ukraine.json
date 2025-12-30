@@ -1,0 +1,122 @@
+{
+  "title": "Deutschland reduziert Militärhilfe für Ukraine",
+  "translated_title": "Germany Reduces Military Aid for Ukraine",
+  "text": [
+    {
+      "text": "Deutschland hat seine Militärhilfe für die Ukraine im Jahr 2025 deutlich reduziert.",
+      "translated_text": "Germany has significantly reduced its military aid to Ukraine in 2025."
+    },
+    {
+      "text": "Von Januar bis Dezember genehmigte die Bundesregierung Waffenexporte im Wert von 8,40 Milliarden Euro.",
+      "translated_text": "From January to December, the federal government approved weapons exports worth 8.40 billion euros."
+    },
+    {
+      "text": "Im Jahr 2024 waren es noch 13,33 Milliarden Euro gewesen.",
+      "translated_text": "In 2024, it was still 13.33 billion euros."
+    },
+    {
+      "text": "Das bedeutet einen Rückgang um etwa 37 Prozent.",
+      "translated_text": "This means a decline of about 37 percent."
+    },
+    {
+      "text": "Gleichzeitig gab Deutschland aber 24 Milliarden Euro für eigene Militärbeschaffung aus.",
+      "translated_text": "At the same time, however, Germany spent 24 billion euros on its own military procurement."
+    },
+    {
+      "text": "Die Bundeswehr kauft Waffen bevorzugt von europäischen Lieferanten.",
+      "translated_text": "The Bundeswehr preferentially buys weapons from European suppliers."
+    },
+    {
+      "text": "Bei bestimmten Systemen ist Deutschland aber weiterhin auf die USA angewiesen.",
+      "translated_text": "However, for certain systems, Germany still relies on the USA."
+    },
+    {
+      "text": "Das Ziel ist es, die Streitkräfte schnell zu modernisieren.",
+      "translated_text": "The goal is to modernize the armed forces quickly."
+    },
+    {
+      "text": "Die Reduzierung der Ukraine-Hilfe ist in Europa umstritten.",
+      "translated_text": "The reduction in Ukraine aid is controversial in Europe."
+    },
+    {
+      "text": "Kritiker sagen, dass die Ukraine weiterhin starke Unterstützung braucht.",
+      "translated_text": "Critics say that Ukraine still needs strong support."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Militärhilfe",
+      "translated_term": "military aid",
+      "example_usage": "Deutschland hat seine Militärhilfe für die Ukraine im Jahr 2025 deutlich reduziert."
+    },
+    {
+      "term": "reduzieren",
+      "translated_term": "to reduce",
+      "example_usage": "Deutschland hat seine Militärhilfe für die Ukraine im Jahr 2025 deutlich reduziert."
+    },
+    {
+      "term": "genehmigen",
+      "translated_term": "to approve",
+      "example_usage": "Von Januar bis Dezember genehmigte die Bundesregierung Waffenexporte im Wert von 8,40 Milliarden Euro."
+    },
+    {
+      "term": "der Waffenexport",
+      "translated_term": "weapons export",
+      "example_usage": "Von Januar bis Dezember genehmigte die Bundesregierung Waffenexporte im Wert von 8,40 Milliarden Euro."
+    },
+    {
+      "term": "der Rückgang",
+      "translated_term": "decline",
+      "example_usage": "Das bedeutet einen Rückgang um etwa 37 Prozent."
+    },
+    {
+      "term": "die Beschaffung",
+      "translated_term": "procurement",
+      "example_usage": "Gleichzeitig gab Deutschland aber 24 Milliarden Euro für eigene Militärbeschaffung aus."
+    },
+    {
+      "term": "die Bundeswehr",
+      "translated_term": "German Armed Forces",
+      "example_usage": "Die Bundeswehr kauft Waffen bevorzugt von europäischen Lieferanten."
+    },
+    {
+      "term": "angewiesen sein auf",
+      "translated_term": "to rely on",
+      "example_usage": "Bei bestimmten Systemen ist Deutschland aber weiterhin auf die USA angewiesen."
+    },
+    {
+      "term": "die Streitkräfte",
+      "translated_term": "armed forces",
+      "example_usage": "Das Ziel ist es, die Streitkräfte schnell zu modernisieren."
+    },
+    {
+      "term": "umstritten",
+      "translated_term": "controversial",
+      "example_usage": "Die Reduzierung der Ukraine-Hilfe ist in Europa umstritten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda EN",
+      "link_url": "https://news-pravda.com/world/2025/12/29/1961618.html"
+    },
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/2025/12/25/weapons-made-in-germany-why-the-bundeswehr-does-not-only-buy-arms-in-germany"
+    }
+  ]
+}
