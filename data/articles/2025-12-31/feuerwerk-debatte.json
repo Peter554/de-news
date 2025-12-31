@@ -1,0 +1,122 @@
+{
+  "title": "Debatte über privates Feuerwerk in Deutschland",
+  "translated_title": "Debate Over Private Fireworks in Germany",
+  "text": [
+    {
+      "text": "In Deutschland kann man Feuerwerk nur vom 29. bis zum 31. Dezember kaufen.",
+      "translated_text": "In Germany, you can only buy fireworks from December 29 to December 31."
+    },
+    {
+      "text": "Dieses Jahr gibt es aber eine große Debatte über privates Feuerwerk.",
+      "translated_text": "This year, however, there is a major debate about private fireworks."
+    },
+    {
+      "text": "Mehr als 2,2 Millionen Menschen haben eine Petition für ein Verbot unterschrieben.",
+      "translated_text": "More than 2.2 million people have signed a petition for a ban."
+    },
+    {
+      "text": "Die Petition kommt von der deutschen Polizeigewerkschaft.",
+      "translated_text": "The petition comes from the German police union."
+    },
+    {
+      "text": "Die Polizei macht sich Sorgen um die Sicherheit der Bürger.",
+      "translated_text": "The police are concerned about the safety of citizens."
+    },
+    {
+      "text": "Jedes Jahr gibt es Verletzte durch Feuerwerkskörper.",
+      "translated_text": "Every year there are injuries from fireworks."
+    },
+    {
+      "text": "Auch Umweltschützer kritisieren das private Feuerwerk.",
+      "translated_text": "Environmental activists also criticize private fireworks."
+    },
+    {
+      "text": "Die Raketen produzieren viel Feinstaub und Lärm.",
+      "translated_text": "The rockets produce a lot of particulate matter and noise."
+    },
+    {
+      "text": "Der Chef der Bundesärztekammer fordert ebenfalls ein Verbot.",
+      "translated_text": "The head of the German Medical Association is also calling for a ban."
+    },
+    {
+      "text": "Trotzdem ist privates Feuerwerk zu Silvester in Deutschland noch legal und sehr beliebt.",
+      "translated_text": "Nevertheless, private fireworks on New Year's Eve are still legal and very popular in Germany."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Debatte",
+      "translated_term": "the debate",
+      "example_usage": "Dieses Jahr gibt es aber eine große Debatte über privates Feuerwerk."
+    },
+    {
+      "term": "das Verbot",
+      "translated_term": "the ban",
+      "example_usage": "Mehr als 2,2 Millionen Menschen haben eine Petition für ein Verbot unterschrieben."
+    },
+    {
+      "term": "unterschreiben",
+      "translated_term": "to sign",
+      "example_usage": "Mehr als 2,2 Millionen Menschen haben eine Petition für ein Verbot unterschrieben."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the union",
+      "example_usage": "Die Petition kommt von der deutschen Polizeigewerkschaft."
+    },
+    {
+      "term": "sich Sorgen machen",
+      "translated_term": "to be worried, to be concerned",
+      "example_usage": "Die Polizei macht sich Sorgen um die Sicherheit der Bürger."
+    },
+    {
+      "term": "der Feuerwerkskörper",
+      "translated_term": "the firework",
+      "example_usage": "Jedes Jahr gibt es Verletzte durch Feuerwerkskörper."
+    },
+    {
+      "term": "der Umweltschützer",
+      "translated_term": "the environmental activist",
+      "example_usage": "Auch Umweltschützer kritisieren das private Feuerwerk."
+    },
+    {
+      "term": "der Feinstaub",
+      "translated_term": "the particulate matter, the fine dust",
+      "example_usage": "Die Raketen produzieren viel Feinstaub und Lärm."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand, to call for",
+      "example_usage": "Der Chef der Bundesärztekammer fordert ebenfalls ein Verbot."
+    },
+    {
+      "term": "beliebt",
+      "translated_term": "popular",
+      "example_usage": "Trotzdem ist privates Feuerwerk zu Silvester in Deutschland noch legal und sehr beliebt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Umweltschutz",
+      "translated_name": "Environmental Protection"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Xinhua - German Medical Association Calls for Fireworks Ban",
+      "link_url": "https://english.news.cn/europe/20251228/6b4e23566247485fbedfc6db6c183391/c.html"
+    },
+    {
+      "name": "Pravda Germany - Fireworks Sales in Germany",
+      "link_url": "https://germany.news-pravda.com/en/world/2025/12/30/106654.html"
+    }
+  ]
+}
