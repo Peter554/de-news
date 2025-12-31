@@ -1,0 +1,118 @@
+{
+  "title": "Große Silvesterfeier am Brandenburger Tor",
+  "translated_title": "Large New Year's Eve Celebration at Brandenburg Gate",
+  "text": [
+    {
+      "text": "Berlin feiert Silvester mit einer großen Party am Brandenburger Tor.",
+      "translated_text": "Berlin is celebrating New Year's Eve with a large party at the Brandenburg Gate."
+    },
+    {
+      "text": "Die Stadt hat 590.000 Euro für die Veranstaltung bereitgestellt.",
+      "translated_text": "The city has provided 590,000 euros for the event."
+    },
+    {
+      "text": "Bis zu 20.000 Menschen können an der Party teilnehmen.",
+      "translated_text": "Up to 20,000 people can participate in the party."
+    },
+    {
+      "text": "Alle Besucher brauchen kostenlose Tickets, die man vorher reservieren muss.",
+      "translated_text": "All visitors need free tickets that must be reserved in advance."
+    },
+    {
+      "text": "Die Party beginnt um 21:30 Uhr mit DJs und Musik.",
+      "translated_text": "The party starts at 9:30 PM with DJs and music."
+    },
+    {
+      "text": "Um Mitternacht gibt es das traditionelle Feuerwerk über dem Brandenburger Tor.",
+      "translated_text": "At midnight, there will be the traditional fireworks display above the Brandenburg Gate."
+    },
+    {
+      "text": "Im Juli gab es fast keine Silvesterfeier, weil das Geld fehlte.",
+      "translated_text": "In July, there was almost no New Year's Eve celebration because funding was lacking."
+    },
+    {
+      "text": "Dann hat die Stadt aber im November die Finanzierung gesichert.",
+      "translated_text": "But then the city secured the funding in November."
+    },
+    {
+      "text": "Ein großer Teil des Geldes wird für Sicherheitsmaßnahmen verwendet.",
+      "translated_text": "A large portion of the money will be used for security measures."
+    },
+    {
+      "text": "Wegen der Feier sind viele Straßen rund um das Brandenburger Tor ab 6 Uhr morgens gesperrt.",
+      "translated_text": "Because of the celebration, many streets around the Brandenburg Gate are closed from 6 AM."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Silvesterfeier",
+      "translated_term": "the New Year's Eve celebration",
+      "example_usage": "Berlin feiert Silvester mit einer großen Party am Brandenburger Tor."
+    },
+    {
+      "term": "bereitstellen",
+      "translated_term": "to provide, to make available",
+      "example_usage": "Die Stadt hat 590.000 Euro für die Veranstaltung bereitgestellt."
+    },
+    {
+      "term": "teilnehmen",
+      "translated_term": "to participate",
+      "example_usage": "Bis zu 20.000 Menschen können an der Party teilnehmen."
+    },
+    {
+      "term": "reservieren",
+      "translated_term": "to reserve",
+      "example_usage": "Alle Besucher brauchen kostenlose Tickets, die man vorher reservieren muss."
+    },
+    {
+      "term": "das Feuerwerk",
+      "translated_term": "the fireworks",
+      "example_usage": "Um Mitternacht gibt es das traditionelle Feuerwerk über dem Brandenburger Tor."
+    },
+    {
+      "term": "fehlen",
+      "translated_term": "to be missing, to lack",
+      "example_usage": "Im Juli gab es fast keine Silvesterfeier, weil das Geld fehlte."
+    },
+    {
+      "term": "die Finanzierung",
+      "translated_term": "the funding, the financing",
+      "example_usage": "Dann hat die Stadt aber im November die Finanzierung gesichert."
+    },
+    {
+      "term": "sichern",
+      "translated_term": "to secure",
+      "example_usage": "Dann hat die Stadt aber im November die Finanzierung gesichert."
+    },
+    {
+      "term": "die Sicherheitsmaßnahme",
+      "translated_term": "the security measure",
+      "example_usage": "Ein großer Teil des Geldes wird für Sicherheitsmaßnahmen verwendet."
+    },
+    {
+      "term": "sperren",
+      "translated_term": "to close, to block",
+      "example_usage": "Wegen der Feier sind viele Straßen rund um das Brandenburger Tor ab 6 Uhr morgens gesperrt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Veranstaltungen",
+      "translated_name": "Events"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de - New Year's Eve at Brandenburg Gate",
+      "link_url": "https://www.berlin.de/en/news/10105015-5559700-new-years-eve-at-the-brandenburg-gate-fi.en.html"
+    }
+  ]
+}
