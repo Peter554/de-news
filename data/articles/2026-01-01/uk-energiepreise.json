@@ -1,0 +1,130 @@
+{
+  "title": "Energiepreise in Großbritannien steigen leicht an",
+  "translated_title": "Energy Prices in Great Britain Rise Slightly",
+  "text": [
+    {
+      "text": "Ab dem 1. Januar 2026 steigen die Energiepreise in Großbritannien leicht an.",
+      "translated_text": "From January 1, 2026, energy prices in Great Britain are rising slightly."
+    },
+    {
+      "text": "Die Energieaufsichtsbehörde Ofgem hat die neue Preisobergrenze festgelegt.",
+      "translated_text": "The energy regulator Ofgem has set the new price cap."
+    },
+    {
+      "text": "Für einen typischen Haushalt mit Strom und Gas beträgt die Preisobergrenze nun 1.758 Pfund pro Jahr.",
+      "translated_text": "For a typical household with electricity and gas, the price cap is now 1,758 pounds per year."
+    },
+    {
+      "text": "Das ist ein Anstieg von 28 Pence pro Monat.",
+      "translated_text": "That is an increase of 28 pence per month."
+    },
+    {
+      "text": "Die neue Regelung gilt für Haushalte, die per Lastschrift bezahlen.",
+      "translated_text": "The new regulation applies to households that pay by direct debit."
+    },
+    {
+      "text": "Die Preisobergrenze bleibt bis zum 31. März 2026 gültig.",
+      "translated_text": "The price cap remains valid until March 31, 2026."
+    },
+    {
+      "text": "Gleichzeitig kämpft Großbritannien mit extremen Wetterbedingungen.",
+      "translated_text": "At the same time, Great Britain is struggling with extreme weather conditions."
+    },
+    {
+      "text": "Das Met Office hat eine viertägige Schnee- und Eiswarnung herausgegeben.",
+      "translated_text": "The Met Office has issued a four-day snow and ice warning."
+    },
+    {
+      "text": "Arktische Luft bewegt sich von Donnerstag, dem 1. Januar, nach Süden.",
+      "translated_text": "Arctic air is moving south from Thursday, January 1st."
+    },
+    {
+      "text": "In vielen Gebieten werden 2 bis 3 Zentimeter Schnee erwartet.",
+      "translated_text": "In many areas, 2 to 3 centimeters of snow are expected."
+    },
+    {
+      "text": "In Teilen Schottlands könnte es lokal bis zu 10 Zentimeter schneien.",
+      "translated_text": "In parts of Scotland, it could snow up to 10 centimeters locally."
+    },
+    {
+      "text": "Die Kombination aus kaltem Wetter und steigenden Energiepreisen stellt eine Herausforderung für viele Familien dar.",
+      "translated_text": "The combination of cold weather and rising energy prices poses a challenge for many families."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Energieaufsichtsbehörde",
+      "translated_term": "energy regulator",
+      "example_usage": "Die Energieaufsichtsbehörde Ofgem hat die neue Preisobergrenze festgelegt."
+    },
+    {
+      "term": "die Preisobergrenze",
+      "translated_term": "price cap",
+      "example_usage": "Die Energieaufsichtsbehörde Ofgem hat die neue Preisobergrenze festgelegt."
+    },
+    {
+      "term": "der Haushalt",
+      "translated_term": "household",
+      "example_usage": "Für einen typischen Haushalt mit Strom und Gas beträgt die Preisobergrenze nun 1.758 Pfund pro Jahr."
+    },
+    {
+      "term": "der Anstieg",
+      "translated_term": "increase, rise",
+      "example_usage": "Das ist ein Anstieg von 28 Pence pro Monat."
+    },
+    {
+      "term": "die Lastschrift",
+      "translated_term": "direct debit",
+      "example_usage": "Die neue Regelung gilt für Haushalte, die per Lastschrift bezahlen."
+    },
+    {
+      "term": "gültig",
+      "translated_term": "valid",
+      "example_usage": "Die Preisobergrenze bleibt bis zum 31. März 2026 gültig."
+    },
+    {
+      "term": "die Wetterbedingung",
+      "translated_term": "weather condition",
+      "example_usage": "Gleichzeitig kämpft Großbritannien mit extremen Wetterbedingungen."
+    },
+    {
+      "term": "die Warnung",
+      "translated_term": "warning",
+      "example_usage": "Das Met Office hat eine viertägige Schnee- und Eiswarnung herausgegeben."
+    },
+    {
+      "term": "arktisch",
+      "translated_term": "arctic",
+      "example_usage": "Arktische Luft bewegt sich von Donnerstag, dem 1. Januar, nach Süden."
+    },
+    {
+      "term": "die Herausforderung",
+      "translated_term": "challenge",
+      "example_usage": "Die Kombination aus kaltem Wetter und steigenden Energiepreisen stellt eine Herausforderung für viele Familien dar."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Energiepolitik",
+      "translated_name": "Energy Policy"
+    },
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ofgem - Changes to energy price cap between 1 January and 31 March 2026",
+      "link_url": "https://www.ofgem.gov.uk/news/changes-energy-price-cap-between-1-january-and-31-march-2026"
+    },
+    {
+      "name": "Country Living - UK Snow Forecast: Areas That Will See Snowfall In January",
+      "link_url": "https://www.countryliving.com/uk/news/a62816337/uk-snow-forecast-2026/"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "title": "Gewalt gegen Rettungskräfte in der Silvesternacht in Berlin",
+  "translated_title": "Violence Against Emergency Services on New Year's Eve in Berlin",
+  "text": [
+    {
+      "text": "In Berlin kam es in der Silvesternacht zu Angriffen auf Polizisten und Rettungskräfte.",
+      "translated_text": "In Berlin, there were attacks on police officers and emergency services on New Year's Eve."
+    },
+    {
+      "text": "Menschen haben Feuerwerkskörper auf Einsatzkräfte geworfen und abgefeuert.",
+      "translated_text": "People threw and fired fireworks at emergency personnel."
+    },
+    {
+      "text": "Die Vorfälle ereigneten sich in den Stadtteilen Neukölln und Moabit.",
+      "translated_text": "The incidents occurred in the districts of Neukölln and Moabit."
+    },
+    {
+      "text": "Insgesamt waren 4.300 Polizisten im Einsatz, um die Sicherheit zu gewährleisten.",
+      "translated_text": "A total of 4,300 police officers were deployed to ensure safety."
+    },
+    {
+      "text": "Das sind 3.300 mehr als in normalen Nächten.",
+      "translated_text": "That is 3,300 more than on normal nights."
+    },
+    {
+      "text": "Die Feuerwehr hatte 1.600 Einsatzkräfte bereitgestellt.",
+      "translated_text": "The fire department had deployed 1,600 emergency personnel."
+    },
+    {
+      "text": "Das ist dreimal so viel Personal wie üblich.",
+      "translated_text": "That is three times as much staff as usual."
+    },
+    {
+      "text": "Am Brandenburger Tor fand eine große Party mit DJ statt.",
+      "translated_text": "A large party with a DJ took place at the Brandenburg Gate."
+    },
+    {
+      "text": "Die traditionelle Silvesterfeier mit Live-Auftritten wurde abgesagt.",
+      "translated_text": "The traditional New Year's Eve celebration with live performances was cancelled."
+    },
+    {
+      "text": "Die Stadt sagte, sie würde die Veranstaltung nicht mehr finanzieren.",
+      "translated_text": "The city said it would no longer fund the event."
+    },
+    {
+      "text": "Ein Feuerwerk dauerte siebeneinhalb Minuten.",
+      "translated_text": "A fireworks display lasted seven and a half minutes."
+    },
+    {
+      "text": "Trotz der verstärkten Sicherheitsmaßnahmen kam es zu den Angriffen auf Helfer.",
+      "translated_text": "Despite the increased security measures, the attacks on helpers occurred."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Rettungskraft",
+      "translated_term": "emergency service worker, rescue worker",
+      "example_usage": "In Berlin kam es in der Silvesternacht zu Angriffen auf Polizisten und Rettungskräfte."
+    },
+    {
+      "term": "der Angriff",
+      "translated_term": "attack",
+      "example_usage": "Trotz der verstärkten Sicherheitsmaßnahmen kam es zu den Angriffen auf Helfer."
+    },
+    {
+      "term": "der Feuerwerkskörper",
+      "translated_term": "firework",
+      "example_usage": "Menschen haben Feuerwerkskörper auf Einsatzkräfte geworfen und abgefeuert."
+    },
+    {
+      "term": "die Einsatzkraft",
+      "translated_term": "emergency personnel, operative",
+      "example_usage": "Menschen haben Feuerwerkskörper auf Einsatzkräfte geworfen und abgefeuert."
+    },
+    {
+      "term": "sich ereignen",
+      "translated_term": "to occur, to take place",
+      "example_usage": "Die Vorfälle ereigneten sich in den Stadtteilen Neukölln und Moabit."
+    },
+    {
+      "term": "der Stadtteil",
+      "translated_term": "district, neighborhood",
+      "example_usage": "Die Vorfälle ereigneten sich in den Stadtteilen Neukölln und Moabit."
+    },
+    {
+      "term": "gewährleisten",
+      "translated_term": "to ensure, to guarantee",
+      "example_usage": "Insgesamt waren 4.300 Polizisten im Einsatz, um die Sicherheit zu gewährleisten."
+    },
+    {
+      "term": "die Feuerwehr",
+      "translated_term": "fire department",
+      "example_usage": "Die Feuerwehr hatte 1.600 Einsatzkräfte bereitgestellt."
+    },
+    {
+      "term": "absagen",
+      "translated_term": "to cancel",
+      "example_usage": "Die traditionelle Silvesterfeier mit Live-Auftritten wurde abgesagt."
+    },
+    {
+      "term": "die Sicherheitsmaßnahme",
+      "translated_term": "security measure",
+      "example_usage": "Trotz der verstärkten Sicherheitsmaßnahmen kam es zu den Angriffen auf Helfer."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Kriminalität",
+      "translated_name": "Crime"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "DPA International - German police on alert as nation rings in 2026",
+      "link_url": "https://dpa-international.com/culture-and-science/urn:newsml:dpa.com:20090101:260101-99-47610/"
+    },
+    {
+      "name": "The Left Berlin - News from Berlin and Germany, 31st December 2025",
+      "link_url": "https://www.theleftberlin.com/news-from-berlin-and-germany-31st-december-2025/"
+    }
+  ]
+}
