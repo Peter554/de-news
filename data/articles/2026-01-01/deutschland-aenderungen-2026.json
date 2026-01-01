@@ -1,0 +1,130 @@
+{
+  "title": "Wichtige Änderungen in Deutschland ab 2026",
+  "translated_title": "Important Changes in Germany from 2026",
+  "text": [
+    {
+      "text": "Das Jahr 2026 bringt viele wichtige Änderungen für die Menschen in Deutschland.",
+      "translated_text": "The year 2026 brings many important changes for people in Germany."
+    },
+    {
+      "text": "Eine neue Politik namens Aktivrente wurde eingeführt.",
+      "translated_text": "A new policy called active retirement was introduced."
+    },
+    {
+      "text": "Menschen, die über das Rentenalter hinaus arbeiten, zahlen keine Steuern auf die ersten 2.000 Euro ihres monatlichen Einkommens.",
+      "translated_text": "People who work past retirement age pay no taxes on the first 2,000 euros of their monthly income."
+    },
+    {
+      "text": "Das Kindergeld ist von 255 Euro auf 259 Euro pro Monat gestiegen.",
+      "translated_text": "Child benefit has increased from 255 euros to 259 euros per month."
+    },
+    {
+      "text": "Die Regierung hat auch einen neuen Frühstart-Rentenfonds eingeführt.",
+      "translated_text": "The government has also introduced a new early start pension fund."
+    },
+    {
+      "text": "Für jedes Kind zwischen 6 und 17 Jahren zahlt der Staat 10 Euro monatlich in diesen Fonds ein.",
+      "translated_text": "For each child between 6 and 17 years old, the state pays 10 euros monthly into this fund."
+    },
+    {
+      "text": "Die Pendlerpauschale wurde dauerhaft auf 38 Cent pro Kilometer ab dem ersten Kilometer erhöht.",
+      "translated_text": "The commuter allowance was permanently increased to 38 cents per kilometer from the first kilometer."
+    },
+    {
+      "text": "Dies hilft Menschen, die täglich zur Arbeit pendeln müssen.",
+      "translated_text": "This helps people who have to commute to work daily."
+    },
+    {
+      "text": "Eine weitere wichtige Änderung betrifft die Wehrpflicht.",
+      "translated_text": "Another important change concerns military service."
+    },
+    {
+      "text": "Ab Anfang 2026 erhalten alle 18-jährigen Männer und Frauen einen Fragebogen.",
+      "translated_text": "From early 2026, all 18-year-old men and women will receive a questionnaire."
+    },
+    {
+      "text": "Dieser bewertet ihre Eignung und Motivation für den Dienst bei den Streitkräften.",
+      "translated_text": "This assesses their suitability and motivation for service in the armed forces."
+    },
+    {
+      "text": "Alle diese Änderungen zielen darauf ab, das Leben der Menschen in Deutschland zu verbessern.",
+      "translated_text": "All these changes aim to improve the lives of people in Germany."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Änderung",
+      "translated_term": "change",
+      "example_usage": "Das Jahr 2026 bringt viele wichtige Änderungen für die Menschen in Deutschland."
+    },
+    {
+      "term": "die Aktivrente",
+      "translated_term": "active retirement",
+      "example_usage": "Eine neue Politik namens Aktivrente wurde eingeführt."
+    },
+    {
+      "term": "das Rentenalter",
+      "translated_term": "retirement age",
+      "example_usage": "Menschen, die über das Rentenalter hinaus arbeiten, zahlen keine Steuern auf die ersten 2.000 Euro ihres monatlichen Einkommens."
+    },
+    {
+      "term": "das Kindergeld",
+      "translated_term": "child benefit",
+      "example_usage": "Das Kindergeld ist von 255 Euro auf 259 Euro pro Monat gestiegen."
+    },
+    {
+      "term": "der Fonds",
+      "translated_term": "fund",
+      "example_usage": "Die Regierung hat auch einen neuen Frühstart-Rentenfonds eingeführt."
+    },
+    {
+      "term": "die Pendlerpauschale",
+      "translated_term": "commuter allowance",
+      "example_usage": "Die Pendlerpauschale wurde dauerhaft auf 38 Cent pro Kilometer ab dem ersten Kilometer erhöht."
+    },
+    {
+      "term": "pendeln",
+      "translated_term": "to commute",
+      "example_usage": "Dies hilft Menschen, die täglich zur Arbeit pendeln müssen."
+    },
+    {
+      "term": "die Wehrpflicht",
+      "translated_term": "military service, conscription",
+      "example_usage": "Eine weitere wichtige Änderung betrifft die Wehrpflicht."
+    },
+    {
+      "term": "der Fragebogen",
+      "translated_term": "questionnaire",
+      "example_usage": "Ab Anfang 2026 erhalten alle 18-jährigen Männer und Frauen einen Fragebogen."
+    },
+    {
+      "term": "die Streitkräfte",
+      "translated_term": "armed forces",
+      "example_usage": "Dieser bewertet ihre Eignung und Motivation für den Dienst bei den Streitkräften."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Sozialpolitik",
+      "translated_name": "Social Policy"
+    },
+    {
+      "name": "Bundeswehr",
+      "translated_name": "Federal Armed Forces"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Deutschland.de - Taxes, minimum wage, military service – what will change for German citizens in 2026",
+      "link_url": "https://www.deutschland.de/en/news/taxes-minimum-wage-military-service-what-will-change-for-german-citizens-in-2026"
+    },
+    {
+      "name": "The Local - Everything that changes in Germany in January 2026",
+      "link_url": "https://www.thelocal.de/20251231/everything-that-changes-in-germany-in-january-2026"
+    }
+  ]
+}
