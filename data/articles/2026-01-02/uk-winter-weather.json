@@ -1,0 +1,127 @@
+{
+  "title": "Winterwetter bringt Schnee nach Großbritannien",
+  "translated_title": "Winter Weather Brings Snow to Great Britain",
+  "text": [
+    {
+      "text": "Ein kräftiger Wintersturm hat Großbritannien am 2. Januar erreicht.",
+      "translated_text": "A strong winter storm reached Great Britain on January 2nd."
+    },
+    {
+      "text": "Der britische Wetterdienst hat eine Amber-Warnung für Schneefall in Teilen Schottlands herausgegeben.",
+      "translated_text": "The British weather service has issued an amber warning for snowfall in parts of Scotland."
+    },
+    {
+      "text": "Die Warnung gilt für 24 Stunden ab Freitagmittag und betrifft besonders den Norden und Osten Schottlands.",
+      "translated_text": "The warning is valid for 24 hours from Friday noon and particularly affects northern and eastern Scotland."
+    },
+    {
+      "text": "Meteorologen erwarten zwischen 2 und 3 Zentimeter Schnee in vielen Gebieten, aber lokal können bis zu 10 Zentimeter fallen.",
+      "translated_text": "Meteorologists expect between 2 and 3 centimeters of snow in many areas, but locally up to 10 centimeters could fall."
+    },
+    {
+      "text": "Die Temperaturen werden nachts auf minus 10 Grad oder noch tiefer sinken.",
+      "translated_text": "Temperatures will drop to minus 10 degrees or even lower at night."
+    },
+    {
+      "text": "Auch tagsüber wird es sehr kalt bleiben, mit Höchstwerten knapp über null Grad.",
+      "translated_text": "It will also remain very cold during the day, with maximum values just above zero degrees."
+    },
+    {
+      "text": "Die britische Gesundheitsbehörde UKHSA hat Amber-Warnungen für die Kälte in ganz England bis zum 6. Januar ausgegeben.",
+      "translated_text": "The British health authority UKHSA has issued amber cold warnings for all of England until January 6th."
+    },
+    {
+      "text": "Experten raten den Menschen, warm angezogen zu bleiben und besonders auf ältere und kranke Personen zu achten.",
+      "translated_text": "Experts advise people to stay warmly dressed and to pay special attention to elderly and sick people."
+    },
+    {
+      "text": "Der öffentliche Verkehr könnte in einigen Regionen gestört werden, besonders in den Highlands.",
+      "translated_text": "Public transport could be disrupted in some regions, especially in the Highlands."
+    },
+    {
+      "text": "Die Behörden empfehlen, nur notwendige Reisen zu unternehmen und Vorsicht auf den Straßen walten zu lassen.",
+      "translated_text": "The authorities recommend only making necessary trips and exercising caution on the roads."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Wintersturm",
+      "translated_term": "winter storm",
+      "example_usage": "Ein kräftiger Wintersturm hat Großbritannien am 2. Januar erreicht."
+    },
+    {
+      "term": "der Wetterdienst",
+      "translated_term": "weather service",
+      "example_usage": "Der britische Wetterdienst hat eine Amber-Warnung herausgegeben."
+    },
+    {
+      "term": "die Warnung",
+      "translated_term": "warning",
+      "example_usage": "Die Warnung gilt für 24 Stunden ab Freitagmittag."
+    },
+    {
+      "term": "der Schneefall",
+      "translated_term": "snowfall",
+      "example_usage": "Der Wetterdienst hat eine Warnung für Schneefall herausgegeben."
+    },
+    {
+      "term": "erwarten",
+      "translated_term": "to expect",
+      "example_usage": "Meteorologen erwarten zwischen 2 und 3 Zentimeter Schnee in vielen Gebieten."
+    },
+    {
+      "term": "sinken",
+      "translated_term": "to drop / to fall",
+      "example_usage": "Die Temperaturen werden nachts auf minus 10 Grad sinken."
+    },
+    {
+      "term": "der Höchstwert",
+      "translated_term": "maximum value",
+      "example_usage": "Auch tagsüber wird es sehr kalt bleiben, mit Höchstwerten knapp über null Grad."
+    },
+    {
+      "term": "die Gesundheitsbehörde",
+      "translated_term": "health authority",
+      "example_usage": "Die britische Gesundheitsbehörde UKHSA hat Warnungen ausgegeben."
+    },
+    {
+      "term": "achten auf",
+      "translated_term": "to pay attention to",
+      "example_usage": "Experten raten, besonders auf ältere und kranke Personen zu achten."
+    },
+    {
+      "term": "stören",
+      "translated_term": "to disrupt",
+      "example_usage": "Der öffentliche Verkehr könnte in einigen Regionen gestört werden."
+    },
+    {
+      "term": "walten lassen",
+      "translated_term": "to exercise",
+      "example_usage": "Die Behörden empfehlen, Vorsicht auf den Straßen walten zu lassen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Met Office - Amber warning for snow issued",
+      "link_url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/amber-snow-warning-issued-new-years-day"
+    },
+    {
+      "name": "Country Living - UK Snow Forecast",
+      "link_url": "https://www.countryliving.com/uk/news/a62816337/uk-snow-forecast-2026/"
+    }
+  ]
+}

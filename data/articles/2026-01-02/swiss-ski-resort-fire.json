@@ -1,0 +1,127 @@
+{
+  "title": "Tragisches Feuer in Schweizer Skigebiet",
+  "translated_title": "Tragic Fire at Swiss Ski Resort",
+  "text": [
+    {
+      "text": "In der Silvesternacht ereignete sich eine schreckliche Tragödie in der Schweiz.",
+      "translated_text": "A terrible tragedy occurred in Switzerland on New Year's Eve."
+    },
+    {
+      "text": "Im beliebten Skigebiet Crans-Montana in der Region Wallis brach ein verheerendes Feuer in einer Bar aus.",
+      "translated_text": "A devastating fire broke out in a bar in the popular ski resort of Crans-Montana in the Valais region."
+    },
+    {
+      "text": "Nach ersten Berichten starben mindestens 46 Menschen bei dem Brand, und rund 100 weitere wurden verletzt.",
+      "translated_text": "According to initial reports, at least 46 people died in the fire, and around 100 others were injured."
+    },
+    {
+      "text": "Die Polizei vermutet, dass Pyrotechnik die Explosion und das Feuer verursacht hat.",
+      "translated_text": "Police suspect that pyrotechnics caused the explosion and fire."
+    },
+    {
+      "text": "Viele Menschen feierten Silvester in der Bar, als das Unglück geschah.",
+      "translated_text": "Many people were celebrating New Year's Eve in the bar when the disaster happened."
+    },
+    {
+      "text": "Rettungskräfte arbeiteten die ganze Nacht, um Verletzte zu versorgen und zu den Krankenhäusern zu transportieren.",
+      "translated_text": "Emergency services worked all night to care for the injured and transport them to hospitals."
+    },
+    {
+      "text": "Der israelische Präsident Isaac Herzog bot der Schweiz israelische Hilfe an.",
+      "translated_text": "Israeli President Isaac Herzog offered Israeli assistance to Switzerland."
+    },
+    {
+      "text": "Die Schweizer Regierung hat eine Untersuchung eingeleitet, um die genaue Ursache des Brandes zu ermitteln.",
+      "translated_text": "The Swiss government has launched an investigation to determine the exact cause of the fire."
+    },
+    {
+      "text": "Dieser Vorfall ist eine der schlimmsten Katastrophen in der Geschichte des Schweizer Tourismus.",
+      "translated_text": "This incident is one of the worst disasters in the history of Swiss tourism."
+    },
+    {
+      "text": "Die ganze Welt trauert mit den Opfern und ihren Familien.",
+      "translated_text": "The whole world mourns with the victims and their families."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Feuer",
+      "translated_term": "fire",
+      "example_usage": "Im beliebten Skigebiet Crans-Montana brach ein verheerendes Feuer in einer Bar aus."
+    },
+    {
+      "term": "die Tragödie",
+      "translated_term": "tragedy",
+      "example_usage": "In der Silvesternacht ereignete sich eine schreckliche Tragödie in der Schweiz."
+    },
+    {
+      "term": "das Skigebiet",
+      "translated_term": "ski resort",
+      "example_usage": "Im beliebten Skigebiet Crans-Montana brach ein verheerendes Feuer aus."
+    },
+    {
+      "term": "verletzen",
+      "translated_term": "to injure",
+      "example_usage": "Mindestens 46 Menschen starben und rund 100 weitere wurden verletzt."
+    },
+    {
+      "term": "die Pyrotechnik",
+      "translated_term": "pyrotechnics",
+      "example_usage": "Die Polizei vermutet, dass Pyrotechnik die Explosion und das Feuer verursacht hat."
+    },
+    {
+      "term": "das Unglück",
+      "translated_term": "disaster",
+      "example_usage": "Viele Menschen feierten Silvester in der Bar, als das Unglück geschah."
+    },
+    {
+      "term": "die Rettungskräfte",
+      "translated_term": "emergency services",
+      "example_usage": "Rettungskräfte arbeiteten die ganze Nacht, um Verletzte zu versorgen."
+    },
+    {
+      "term": "versorgen",
+      "translated_term": "to care for / to provide care",
+      "example_usage": "Rettungskräfte arbeiteten, um Verletzte zu versorgen und zu den Krankenhäusern zu transportieren."
+    },
+    {
+      "term": "die Untersuchung",
+      "translated_term": "investigation",
+      "example_usage": "Die Schweizer Regierung hat eine Untersuchung eingeleitet."
+    },
+    {
+      "term": "ermitteln",
+      "translated_term": "to determine / to investigate",
+      "example_usage": "Die Regierung will die genaue Ursache des Brandes ermitteln."
+    },
+    {
+      "term": "trauern",
+      "translated_term": "to mourn",
+      "example_usage": "Die ganze Welt trauert mit den Opfern und ihren Familien."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    },
+    {
+      "name": "Katastrophe",
+      "translated_name": "Disaster"
+    },
+    {
+      "name": "Schweiz",
+      "translated_name": "Switzerland"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Times of Israel",
+      "link_url": "https://www.timesofisrael.com/liveblog-january-1-2026/"
+    },
+    {
+      "name": "Wikipedia - Current Events January 2026",
+      "link_url": "https://en.wikipedia.org/wiki/Portal:Current_events/January_2026"
+    }
+  ]
+}
