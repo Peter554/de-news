@@ -1,0 +1,127 @@
+{
+  "title": "Neue Änderungen in Deutschland ab Januar 2026",
+  "translated_title": "New Changes in Germany from January 2026",
+  "text": [
+    {
+      "text": "Das neue Jahr bringt wichtige Veränderungen für Menschen in Deutschland.",
+      "translated_text": "The new year brings important changes for people in Germany."
+    },
+    {
+      "text": "Seit dem 1. Januar 2026 gilt ein höherer Mindestlohn von 13,90 Euro pro Stunde.",
+      "translated_text": "Since January 1, 2026, a higher minimum wage of 13.90 euros per hour applies."
+    },
+    {
+      "text": "Diese Erhöhung hilft vielen Arbeitnehmerinnen und Arbeitnehmern, besonders in Berufen mit niedrigem Einkommen.",
+      "translated_text": "This increase helps many workers, especially in low-income professions."
+    },
+    {
+      "text": "Auch das Kindergeld ist gestiegen: Eltern bekommen jetzt 259 Euro pro Monat für jedes Kind, das sind 4 Euro mehr als vorher.",
+      "translated_text": "Child benefit has also increased: parents now receive 259 euros per month for each child, which is 4 euros more than before."
+    },
+    {
+      "text": "Der Grundfreibetrag bei der Steuer wurde auf 12.348 Euro erhöht, was bedeutet, dass Menschen weniger Steuern zahlen müssen.",
+      "translated_text": "The basic tax-free allowance has been increased to 12,348 euros, which means people have to pay less tax."
+    },
+    {
+      "text": "Eine weitere wichtige Änderung betrifft den Wehrdienst: Alle 18-jährigen Männer und Frauen erhalten einen Fragebogen zur Erfassung ihrer Eignung für den Militärdienst.",
+      "translated_text": "Another important change concerns military service: all 18-year-old men and women will receive a questionnaire to assess their suitability for military service."
+    },
+    {
+      "text": "Das beliebte Deutschlandticket für öffentliche Verkehrsmittel kostet jetzt 63 Euro statt 58 Euro pro Monat.",
+      "translated_text": "The popular Deutschland ticket for public transport now costs 63 euros instead of 58 euros per month."
+    },
+    {
+      "text": "Für Pendler gibt es gute Nachrichten: Die Pendlerpauschale beträgt jetzt 38 Cent pro Kilometer ab dem ersten Kilometer.",
+      "translated_text": "There is good news for commuters: the commuter allowance is now 38 cents per kilometer from the first kilometer."
+    },
+    {
+      "text": "Rentner dürfen unter dem neuen Programm bis zu 2.000 Euro pro Monat steuerfrei dazuverdienen.",
+      "translated_text": "Retirees are allowed to earn up to 2,000 euros per month tax-free under the new program."
+    },
+    {
+      "text": "Diese Reformen sollen die finanzielle Situation vieler Bürger verbessern und den sozialen Zusammenhalt stärken.",
+      "translated_text": "These reforms are intended to improve the financial situation of many citizens and strengthen social cohesion."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Veränderung",
+      "translated_term": "change",
+      "example_usage": "Das neue Jahr bringt wichtige Veränderungen für Menschen in Deutschland."
+    },
+    {
+      "term": "der Mindestlohn",
+      "translated_term": "minimum wage",
+      "example_usage": "Seit dem 1. Januar 2026 gilt ein höherer Mindestlohn von 13,90 Euro pro Stunde."
+    },
+    {
+      "term": "die Erhöhung",
+      "translated_term": "increase",
+      "example_usage": "Diese Erhöhung hilft vielen Arbeitnehmerinnen und Arbeitnehmern."
+    },
+    {
+      "term": "das Einkommen",
+      "translated_term": "income",
+      "example_usage": "Die Erhöhung hilft besonders in Berufen mit niedrigem Einkommen."
+    },
+    {
+      "term": "das Kindergeld",
+      "translated_term": "child benefit",
+      "example_usage": "Das Kindergeld ist gestiegen: Eltern bekommen jetzt 259 Euro pro Monat."
+    },
+    {
+      "term": "der Grundfreibetrag",
+      "translated_term": "basic tax-free allowance",
+      "example_usage": "Der Grundfreibetrag bei der Steuer wurde auf 12.348 Euro erhöht."
+    },
+    {
+      "term": "der Wehrdienst",
+      "translated_term": "military service",
+      "example_usage": "Eine wichtige Änderung betrifft den Wehrdienst."
+    },
+    {
+      "term": "die Eignung",
+      "translated_term": "suitability",
+      "example_usage": "Alle 18-jährigen erhalten einen Fragebogen zur Erfassung ihrer Eignung für den Militärdienst."
+    },
+    {
+      "term": "die Pendlerpauschale",
+      "translated_term": "commuter allowance",
+      "example_usage": "Die Pendlerpauschale beträgt jetzt 38 Cent pro Kilometer."
+    },
+    {
+      "term": "dazuverdienen",
+      "translated_term": "to earn extra",
+      "example_usage": "Rentner dürfen bis zu 2.000 Euro pro Monat steuerfrei dazuverdienen."
+    },
+    {
+      "term": "der Zusammenhalt",
+      "translated_term": "cohesion / solidarity",
+      "example_usage": "Die Reformen sollen den sozialen Zusammenhalt stärken."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Sozialpolitik",
+      "translated_name": "Social Policy"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local - Everything that changes in Germany in January 2026",
+      "link_url": "https://www.thelocal.de/20251231/everything-that-changes-in-germany-in-january-2026"
+    },
+    {
+      "name": "Deutschland.de - What will change for German citizens in 2026",
+      "link_url": "https://www.deutschland.de/en/news/taxes-minimum-wage-military-service-what-will-change-for-german-citizens-in-2026"
+    }
+  ]
+}

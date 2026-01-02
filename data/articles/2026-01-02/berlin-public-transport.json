@@ -1,0 +1,123 @@
+{
+  "title": "Höhere Ticketpreise im Berliner Nahverkehr",
+  "translated_title": "Higher Ticket Prices in Berlin Public Transport",
+  "text": [
+    {
+      "text": "Das neue Jahr beginnt in Berlin mit teureren Fahrkarten für den öffentlichen Nahverkehr.",
+      "translated_text": "The new year begins in Berlin with more expensive tickets for public transport."
+    },
+    {
+      "text": "Seit dem 1. Januar 2026 sind die Fahrpreise in Berlin und Brandenburg durchschnittlich um sechs Prozent gestiegen.",
+      "translated_text": "Since January 1, 2026, fares in Berlin and Brandenburg have increased by an average of six percent."
+    },
+    {
+      "text": "Eine Einzelfahrt innerhalb des S-Bahn-Rings kostet nun zum ersten Mal 4,00 Euro.",
+      "translated_text": "A single journey within the S-Bahn ring now costs 4.00 euros for the first time."
+    },
+    {
+      "text": "Das ist eine Erhöhung von 20 Cent im Vergleich zum Vorjahr.",
+      "translated_text": "This is an increase of 20 cents compared to the previous year."
+    },
+    {
+      "text": "Die Verkehrsbetriebe begründen die Preiserhöhung mit gestiegenen Kosten für Personal und Energie.",
+      "translated_text": "The transport companies justify the price increase with increased costs for personnel and energy."
+    },
+    {
+      "text": "Trotz der höheren Preise bleibt das Deutschlandticket eine günstige Option für Pendler.",
+      "translated_text": "Despite the higher prices, the Deutschland ticket remains an affordable option for commuters."
+    },
+    {
+      "text": "Viele Berliner sind unzufrieden mit der Preiserhöhung, da die Qualität des Services nicht verbessert wurde.",
+      "translated_text": "Many Berliners are dissatisfied with the price increase, as the quality of service has not improved."
+    },
+    {
+      "text": "Besonders Studenten und Menschen mit geringem Einkommen sind von den höheren Kosten betroffen.",
+      "translated_text": "Students and people with low incomes are particularly affected by the higher costs."
+    },
+    {
+      "text": "Die Stadt verspricht, mehr in die Modernisierung der Infrastruktur zu investieren.",
+      "translated_text": "The city promises to invest more in modernizing the infrastructure."
+    },
+    {
+      "text": "Experten sagen, dass weitere Preiserhöhungen in den kommenden Jahren wahrscheinlich sind.",
+      "translated_text": "Experts say that further price increases in the coming years are likely."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Nahverkehr",
+      "translated_term": "local transport / public transport",
+      "example_usage": "Das neue Jahr beginnt in Berlin mit teureren Fahrkarten für den öffentlichen Nahverkehr."
+    },
+    {
+      "term": "die Fahrkarte",
+      "translated_term": "ticket",
+      "example_usage": "Das neue Jahr beginnt mit teureren Fahrkarten."
+    },
+    {
+      "term": "der Fahrpreis",
+      "translated_term": "fare",
+      "example_usage": "Die Fahrpreise in Berlin und Brandenburg sind durchschnittlich um sechs Prozent gestiegen."
+    },
+    {
+      "term": "die Einzelfahrt",
+      "translated_term": "single journey",
+      "example_usage": "Eine Einzelfahrt innerhalb des S-Bahn-Rings kostet nun 4,00 Euro."
+    },
+    {
+      "term": "begründen",
+      "translated_term": "to justify",
+      "example_usage": "Die Verkehrsbetriebe begründen die Preiserhöhung mit gestiegenen Kosten."
+    },
+    {
+      "term": "der Pendler",
+      "translated_term": "commuter",
+      "example_usage": "Das Deutschlandticket bleibt eine günstige Option für Pendler."
+    },
+    {
+      "term": "unzufrieden",
+      "translated_term": "dissatisfied",
+      "example_usage": "Viele Berliner sind unzufrieden mit der Preiserhöhung."
+    },
+    {
+      "term": "betroffen sein",
+      "translated_term": "to be affected",
+      "example_usage": "Studenten und Menschen mit geringem Einkommen sind von den höheren Kosten betroffen."
+    },
+    {
+      "term": "versprechen",
+      "translated_term": "to promise",
+      "example_usage": "Die Stadt verspricht, mehr in die Modernisierung der Infrastruktur zu investieren."
+    },
+    {
+      "term": "die Modernisierung",
+      "translated_term": "modernization",
+      "example_usage": "Die Stadt verspricht, mehr in die Modernisierung der Infrastruktur zu investieren."
+    },
+    {
+      "term": "wahrscheinlich",
+      "translated_term": "likely / probable",
+      "example_usage": "Experten sagen, dass weitere Preiserhöhungen wahrscheinlich sind."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local - Everything that changes in Germany in January 2026",
+      "link_url": "https://www.thelocal.de/20251231/everything-that-changes-in-germany-in-january-2026"
+    }
+  ]
+}
