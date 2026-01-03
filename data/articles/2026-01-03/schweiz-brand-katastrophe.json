@@ -1,0 +1,153 @@
+{
+  "title": "Tragödie in Schweizer Bar",
+  "translated_title": "Tragedy in Swiss Bar",
+  "text": [
+    {
+      "text": "In der Silvesternacht ereignete sich eine schreckliche Katastrophe in der Schweiz.",
+      "translated_text": "A terrible disaster occurred in Switzerland on New Year's Eve."
+    },
+    {
+      "text": "In einer Bar in Crans-Montana im Kanton Wallis brach ein Feuer aus.",
+      "translated_text": "A fire broke out in a bar in Crans-Montana in the canton of Valais."
+    },
+    {
+      "text": "Die Bar war voll mit Menschen, die das neue Jahr feiern wollten.",
+      "translated_text": "The bar was full of people who wanted to celebrate the new year."
+    },
+    {
+      "text": "Plötzlich gab es eine Explosion, die vermutlich von Pyrotechnik verursacht wurde.",
+      "translated_text": "Suddenly there was an explosion, presumably caused by pyrotechnics."
+    },
+    {
+      "text": "Danach breitete sich das Feuer sehr schnell aus.",
+      "translated_text": "After that, the fire spread very quickly."
+    },
+    {
+      "text": "Die Folgen waren verheerend.",
+      "translated_text": "The consequences were devastating."
+    },
+    {
+      "text": "Mindestens 46 Menschen starben bei diesem Unglück.",
+      "translated_text": "At least 46 people died in this accident."
+    },
+    {
+      "text": "Etwa 100 weitere Personen wurden verletzt, viele davon schwer.",
+      "translated_text": "About 100 more people were injured, many of them seriously."
+    },
+    {
+      "text": "Die Rettungskräfte kamen so schnell wie möglich zur Unfallstelle.",
+      "translated_text": "The rescue services came to the accident site as quickly as possible."
+    },
+    {
+      "text": "Sie mussten unter sehr schwierigen Bedingungen arbeiten.",
+      "translated_text": "They had to work under very difficult conditions."
+    },
+    {
+      "text": "Das Feuer war so intensiv, dass es schwer zu kontrollieren war.",
+      "translated_text": "The fire was so intense that it was difficult to control."
+    },
+    {
+      "text": "Die Schweizer Behörden haben eine Untersuchung eingeleitet.",
+      "translated_text": "The Swiss authorities have launched an investigation."
+    },
+    {
+      "text": "Sie wollen genau herausfinden, wie es zu dieser Katastrophe kommen konnte.",
+      "translated_text": "They want to find out exactly how this disaster could happen."
+    },
+    {
+      "text": "Besonders wichtig ist die Frage, ob die Sicherheitsvorschriften eingehalten wurden.",
+      "translated_text": "The question of whether safety regulations were followed is particularly important."
+    },
+    {
+      "text": "Dieses tragische Ereignis hat die ganze Schweiz erschüttert und viele Familien trauern um ihre Angehörigen.",
+      "translated_text": "This tragic event has shaken all of Switzerland and many families are mourning their relatives."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Katastrophe",
+      "translated_term": "disaster, catastrophe",
+      "example_usage": "In der Silvesternacht ereignete sich eine schreckliche Katastrophe in der Schweiz."
+    },
+    {
+      "term": "ausbrechen",
+      "translated_term": "to break out",
+      "example_usage": "In einer Bar in Crans-Montana im Kanton Wallis brach ein Feuer aus."
+    },
+    {
+      "term": "die Explosion",
+      "translated_term": "explosion",
+      "example_usage": "Plötzlich gab es eine Explosion, die vermutlich von Pyrotechnik verursacht wurde."
+    },
+    {
+      "term": "vermutlich",
+      "translated_term": "presumably, probably",
+      "example_usage": "Plötzlich gab es eine Explosion, die vermutlich von Pyrotechnik verursacht wurde."
+    },
+    {
+      "term": "die Pyrotechnik",
+      "translated_term": "pyrotechnics, fireworks",
+      "example_usage": "Plötzlich gab es eine Explosion, die vermutlich von Pyrotechnik verursacht wurde."
+    },
+    {
+      "term": "sich ausbreiten",
+      "translated_term": "to spread",
+      "example_usage": "Danach breitete sich das Feuer sehr schnell aus."
+    },
+    {
+      "term": "verheerend",
+      "translated_term": "devastating",
+      "example_usage": "Die Folgen waren verheerend."
+    },
+    {
+      "term": "das Unglück",
+      "translated_term": "accident, misfortune",
+      "example_usage": "Mindestens 46 Menschen starben bei diesem Unglück."
+    },
+    {
+      "term": "verletzen",
+      "translated_term": "to injure",
+      "example_usage": "Etwa 100 weitere Personen wurden verletzt, viele davon schwer."
+    },
+    {
+      "term": "die Rettungskräfte",
+      "translated_term": "rescue services",
+      "example_usage": "Die Rettungskräfte kamen so schnell wie möglich zur Unfallstelle."
+    },
+    {
+      "term": "die Behörden",
+      "translated_term": "authorities",
+      "example_usage": "Die Schweizer Behörden haben eine Untersuchung eingeleitet."
+    },
+    {
+      "term": "die Sicherheitsvorschriften",
+      "translated_term": "safety regulations",
+      "example_usage": "Besonders wichtig ist die Frage, ob die Sicherheitsvorschriften eingehalten wurden."
+    },
+    {
+      "term": "trauern",
+      "translated_term": "to mourn",
+      "example_usage": "Dieses tragische Ereignis hat die ganze Schweiz erschüttert und viele Familien trauern um ihre Angehörigen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Schweiz",
+      "translated_name": "Switzerland"
+    },
+    {
+      "name": "Katastrophe",
+      "translated_name": "Disaster"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia Current Events",
+      "link_url": "https://en.wikipedia.org/wiki/Portal:Current_events/2026_January_1"
+    }
+  ]
+}
