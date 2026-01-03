@@ -1,0 +1,143 @@
+{
+  "title": "Öffentlicher Nahverkehr wird teurer",
+  "translated_title": "Public Transport Becomes More Expensive",
+  "text": [
+    {
+      "text": "Seit dem 1. Januar 2026 sind die Preise für den öffentlichen Nahverkehr in Berlin und Brandenburg gestiegen.",
+      "translated_text": "Since January 1, 2026, prices for public transport in Berlin and Brandenburg have risen."
+    },
+    {
+      "text": "Die Fahrkarten kosten jetzt durchschnittlich sechs Prozent mehr.",
+      "translated_text": "Tickets now cost an average of six percent more."
+    },
+    {
+      "text": "Eine Einzelfahrkarte für die Zone AB in Berlin kostet nun 4 Euro.",
+      "translated_text": "A single ticket for zone AB in Berlin now costs 4 euros."
+    },
+    {
+      "text": "Das sind 20 Cent mehr als im letzten Jahr.",
+      "translated_text": "That is 20 cents more than last year."
+    },
+    {
+      "text": "Auch die Kurzstreckenkarte wurde teurer und kostet jetzt 2,80 Euro.",
+      "translated_text": "The short-distance ticket also became more expensive and now costs 2.80 euros."
+    },
+    {
+      "text": "Besonders betroffen sind Menschen mit dem Sozialticket.",
+      "translated_text": "People with the social ticket are particularly affected."
+    },
+    {
+      "text": "Das Ticket S, wie es offiziell heißt, kostet nun 27,50 Euro pro Monat.",
+      "translated_text": "The S ticket, as it is officially called, now costs 27.50 euros per month."
+    },
+    {
+      "text": "Das ist eine Erhöhung von 45 Prozent im Vergleich zum Vorjahr.",
+      "translated_text": "This is an increase of 45 percent compared to the previous year."
+    },
+    {
+      "text": "Einige Ticketarten gibt es nicht mehr.",
+      "translated_text": "Some ticket types no longer exist."
+    },
+    {
+      "text": "BC-Tickets, Jahres- und Wochenkarten sowie die 8-, 9- und 10-Uhr-Tickets wurden abgeschafft.",
+      "translated_text": "BC tickets, annual and weekly tickets, as well as the 8, 9, and 10 o'clock tickets were abolished."
+    },
+    {
+      "text": "Auch das deutschlandweite Deutschlandticket ist teurer geworden.",
+      "translated_text": "The nationwide Germany ticket has also become more expensive."
+    },
+    {
+      "text": "Der Preis stieg von 58 Euro auf 63 Euro pro Monat.",
+      "translated_text": "The price rose from 58 euros to 63 euros per month."
+    },
+    {
+      "text": "Viele Pendler sind über diese Preiserhöhungen besorgt.",
+      "translated_text": "Many commuters are concerned about these price increases."
+    },
+    {
+      "text": "Sie müssen nun mehr Geld für ihre täglichen Fahrten zur Arbeit oder zur Schule bezahlen.",
+      "translated_text": "They now have to pay more money for their daily trips to work or school."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Nahverkehr",
+      "translated_term": "local/public transport",
+      "example_usage": "Seit dem 1. Januar 2026 sind die Preise für den öffentlichen Nahverkehr in Berlin und Brandenburg gestiegen."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise, to increase",
+      "example_usage": "Seit dem 1. Januar 2026 sind die Preise für den öffentlichen Nahverkehr in Berlin und Brandenburg gestiegen."
+    },
+    {
+      "term": "die Fahrkarte",
+      "translated_term": "ticket",
+      "example_usage": "Die Fahrkarten kosten jetzt durchschnittlich sechs Prozent mehr."
+    },
+    {
+      "term": "die Einzelfahrkarte",
+      "translated_term": "single ticket",
+      "example_usage": "Eine Einzelfahrkarte für die Zone AB in Berlin kostet nun 4 Euro."
+    },
+    {
+      "term": "die Kurzstreckenkarte",
+      "translated_term": "short-distance ticket",
+      "example_usage": "Auch die Kurzstreckenkarte wurde teurer und kostet jetzt 2,80 Euro."
+    },
+    {
+      "term": "betroffen",
+      "translated_term": "affected",
+      "example_usage": "Besonders betroffen sind Menschen mit dem Sozialticket."
+    },
+    {
+      "term": "das Sozialticket",
+      "translated_term": "social ticket (reduced-price ticket)",
+      "example_usage": "Besonders betroffen sind Menschen mit dem Sozialticket."
+    },
+    {
+      "term": "die Erhöhung",
+      "translated_term": "increase",
+      "example_usage": "Das ist eine Erhöhung von 45 Prozent im Vergleich zum Vorjahr."
+    },
+    {
+      "term": "abschaffen",
+      "translated_term": "to abolish, to discontinue",
+      "example_usage": "BC-Tickets, Jahres- und Wochenkarten sowie die 8-, 9- und 10-Uhr-Tickets wurden abgeschafft."
+    },
+    {
+      "term": "der Pendler",
+      "translated_term": "commuter",
+      "example_usage": "Viele Pendler sind über diese Preiserhöhungen besorgt."
+    },
+    {
+      "term": "besorgt",
+      "translated_term": "concerned, worried",
+      "example_usage": "Viele Pendler sind über diese Preiserhöhungen besorgt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Berliner",
+      "link_url": "https://www.the-berliner.com/english-news-berlin/public-transport-prices-rise-again/"
+    },
+    {
+      "name": "Berliner Zeitung",
+      "link_url": "https://www.berliner-zeitung.de/news/oepnv-in-berlin-und-brandenburg-diese-tickets-werden-teurer-li.10011649"
+    }
+  ]
+}
