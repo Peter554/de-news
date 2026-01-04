@@ -1,0 +1,132 @@
+{
+  "title": "Stromausfall in Berlin nach mutmaßlichem Brandanschlag",
+  "translated_title": "Power Outage in Berlin After Suspected Arson Attack",
+  "text": [
+    {
+      "text": "Am Samstag, den 3. Januar, waren etwa 50.000 Haushalte und 2.000 Unternehmen in Südwest-Berlin ohne Strom.",
+      "translated_text": "On Saturday, January 3rd, around 50,000 households and 2,000 businesses in southwest Berlin were without power."
+    },
+    {
+      "text": "Die Polizei vermutet, dass ein Brandanschlag die Ursache war.",
+      "translated_text": "The police suspect that an arson attack was the cause."
+    },
+    {
+      "text": "In den frühen Morgenstunden wurden Stromkabel durch ein Feuer beschädigt.",
+      "translated_text": "In the early morning hours, power cables were damaged by a fire."
+    },
+    {
+      "text": "Deutschland ist in höchster Alarmbereitschaft wegen möglicher Sabotageakte gegen die Infrastruktur.",
+      "translated_text": "Germany is on high alert for possible acts of sabotage against infrastructure."
+    },
+    {
+      "text": "Experten befürchten, dass ausländische Akteure wie Russland hinter solchen Angriffen stehen könnten.",
+      "translated_text": "Experts fear that foreign actors such as Russia could be behind such attacks."
+    },
+    {
+      "text": "Die Energieversorgung ist ein kritischer Teil der deutschen Infrastruktur.",
+      "translated_text": "The energy supply is a critical part of German infrastructure."
+    },
+    {
+      "text": "Tausende Menschen mussten am Samstagnachmittag ohne Elektrizität auskommen.",
+      "translated_text": "Thousands of people had to get by without electricity on Saturday afternoon."
+    },
+    {
+      "text": "Die Behörden arbeiten daran, die Stromversorgung so schnell wie möglich wiederherzustellen.",
+      "translated_text": "Authorities are working to restore the power supply as quickly as possible."
+    },
+    {
+      "text": "Der Vorfall zeigt die Verwundbarkeit moderner Städte gegenüber Infrastrukturangriffen.",
+      "translated_text": "The incident shows the vulnerability of modern cities to infrastructure attacks."
+    },
+    {
+      "text": "Die Ermittlungen der Polizei dauern an, um die Täter zu finden.",
+      "translated_text": "The police investigation continues to find the perpetrators."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Stromausfall",
+      "translated_term": "power outage",
+      "example_usage": "Am Samstag, den 3. Januar, waren etwa 50.000 Haushalte und 2.000 Unternehmen in Südwest-Berlin ohne Strom."
+    },
+    {
+      "term": "der Brandanschlag",
+      "translated_term": "arson attack",
+      "example_usage": "Die Polizei vermutet, dass ein Brandanschlag die Ursache war."
+    },
+    {
+      "term": "beschädigen",
+      "translated_term": "to damage",
+      "example_usage": "In den frühen Morgenstunden wurden Stromkabel durch ein Feuer beschädigt."
+    },
+    {
+      "term": "die Alarmbereitschaft",
+      "translated_term": "state of alert",
+      "example_usage": "Deutschland ist in höchster Alarmbereitschaft wegen möglicher Sabotageakte gegen die Infrastruktur."
+    },
+    {
+      "term": "der Sabotageakt",
+      "translated_term": "act of sabotage",
+      "example_usage": "Deutschland ist in höchster Alarmbereitschaft wegen möglicher Sabotageakte gegen die Infrastruktur."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "infrastructure",
+      "example_usage": "Die Energieversorgung ist ein kritischer Teil der deutschen Infrastruktur."
+    },
+    {
+      "term": "die Energieversorgung",
+      "translated_term": "energy supply",
+      "example_usage": "Die Energieversorgung ist ein kritischer Teil der deutschen Infrastruktur."
+    },
+    {
+      "term": "auskommen",
+      "translated_term": "to get by / to manage",
+      "example_usage": "Tausende Menschen mussten am Samstagnachmittag ohne Elektrizität auskommen."
+    },
+    {
+      "term": "wiederherstellen",
+      "translated_term": "to restore",
+      "example_usage": "Die Behörden arbeiten daran, die Stromversorgung so schnell wie möglich wiederherzustellen."
+    },
+    {
+      "term": "die Verwundbarkeit",
+      "translated_term": "vulnerability",
+      "example_usage": "Der Vorfall zeigt die Verwundbarkeit moderner Städte gegenüber Infrastrukturangriffen."
+    },
+    {
+      "term": "die Ermittlung",
+      "translated_term": "investigation",
+      "example_usage": "Die Ermittlungen der Polizei dauern an, um die Täter zu finden."
+    },
+    {
+      "term": "der Täter",
+      "translated_term": "perpetrator",
+      "example_usage": "Die Ermittlungen der Polizei dauern an, um die Täter zu finden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    },
+    {
+      "name": "Nationale Sicherheit",
+      "translated_name": "National Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-01-03/berlin-power-outage-hits-50-000-homes-in-suspected-arson-attack"
+    },
+    {
+      "name": "Gulf Today",
+      "link_url": "https://www.gulftoday.ae/news/2026/01/03/fire-disrupts-power-to-50000-berlin-homes-police-suspect-arson"
+    }
+  ]
+}

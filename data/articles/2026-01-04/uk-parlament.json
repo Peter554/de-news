@@ -1,0 +1,128 @@
+{
+  "title": "Britisches Parlament debattiert wichtige Themen im Januar",
+  "translated_title": "British Parliament Debates Important Topics in January",
+  "text": [
+    {
+      "text": "Das britische Oberhaus hat vom 5. bis 9. Januar mehrere parlamentarische Aktivitäten geplant.",
+      "translated_text": "The British House of Lords has scheduled several parliamentary activities from January 5th to 9th."
+    },
+    {
+      "text": "Ein Gesetzentwurf über die Militärbasis Diego Garcia wird im Oberhaus geprüft.",
+      "translated_text": "A bill concerning the Diego Garcia military base is being reviewed in the House of Lords."
+    },
+    {
+      "text": "Das Kriminalitäts- und Polizeigesetz durchläuft eine detaillierte Prüfung Zeile für Zeile.",
+      "translated_text": "The Crime and Policing Bill is undergoing detailed line-by-line scrutiny."
+    },
+    {
+      "text": "Die Abgeordneten werden über den britischen Rundfunk diskutieren.",
+      "translated_text": "The members will debate British broadcasting."
+    },
+    {
+      "text": "Dabei geht es um technologische Entwicklungen und den Aufstieg von Streaming-Diensten.",
+      "translated_text": "This concerns technological developments and the rise of streaming services."
+    },
+    {
+      "text": "Fünf kurze Debatten sind geplant, die verschiedene Themen abdecken.",
+      "translated_text": "Five short debates are planned covering various topics."
+    },
+    {
+      "text": "Diese Themen umfassen Bergbaubetriebe in ehemaligen Kolonien und die Entwicklung künstlicher Intelligenz.",
+      "translated_text": "These topics include mining operations in former colonies and the development of artificial intelligence."
+    },
+    {
+      "text": "Auch Umweltverbesserungspläne und der Handel mit Israel stehen auf der Tagesordnung.",
+      "translated_text": "Environmental improvement plans and trade with Israel are also on the agenda."
+    },
+    {
+      "text": "Zusätzlich wird über Impfstofftechnologie gesprochen.",
+      "translated_text": "Additionally, vaccine technology will be discussed."
+    },
+    {
+      "text": "Das Parlament zeigt damit sein Engagement für wichtige nationale und internationale Fragen.",
+      "translated_text": "Parliament thus shows its commitment to important national and international issues."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Oberhaus",
+      "translated_term": "House of Lords / Upper House",
+      "example_usage": "Das britische Oberhaus hat vom 5. bis 9. Januar mehrere parlamentarische Aktivitäten geplant."
+    },
+    {
+      "term": "der Gesetzentwurf",
+      "translated_term": "bill / draft law",
+      "example_usage": "Ein Gesetzentwurf über die Militärbasis Diego Garcia wird im Oberhaus geprüft."
+    },
+    {
+      "term": "prüfen",
+      "translated_term": "to review / to examine",
+      "example_usage": "Ein Gesetzentwurf über die Militärbasis Diego Garcia wird im Oberhaus geprüft."
+    },
+    {
+      "term": "durchlaufen",
+      "translated_term": "to go through / to undergo",
+      "example_usage": "Das Kriminalitäts- und Polizeigesetz durchläuft eine detaillierte Prüfung Zeile für Zeile."
+    },
+    {
+      "term": "der Abgeordnete",
+      "translated_term": "member of parliament",
+      "example_usage": "Die Abgeordneten werden über den britischen Rundfunk diskutieren."
+    },
+    {
+      "term": "der Rundfunk",
+      "translated_term": "broadcasting",
+      "example_usage": "Die Abgeordneten werden über den britischen Rundfunk diskutieren."
+    },
+    {
+      "term": "der Aufstieg",
+      "translated_term": "rise / ascent",
+      "example_usage": "Dabei geht es um technologische Entwicklungen und den Aufstieg von Streaming-Diensten."
+    },
+    {
+      "term": "umfassen",
+      "translated_term": "to include / to comprise",
+      "example_usage": "Diese Themen umfassen Bergbaubetriebe in ehemaligen Kolonien und die Entwicklung künstlicher Intelligenz."
+    },
+    {
+      "term": "der Bergbaubetrieb",
+      "translated_term": "mining operation",
+      "example_usage": "Diese Themen umfassen Bergbaubetriebe in ehemaligen Kolonien und die Entwicklung künstlicher Intelligenz."
+    },
+    {
+      "term": "die Tagesordnung",
+      "translated_term": "agenda",
+      "example_usage": "Auch Umweltverbesserungspläne und der Handel mit Israel stehen auf der Tagesordnung."
+    },
+    {
+      "term": "die Impfstofftechnologie",
+      "translated_term": "vaccine technology",
+      "example_usage": "Zusätzlich wird über Impfstofftechnologie gesprochen."
+    },
+    {
+      "term": "das Engagement",
+      "translated_term": "commitment / engagement",
+      "example_usage": "Das Parlament zeigt damit sein Engagement für wichtige nationale und internationale Fragen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    }
+  ],
+  "sources": [
+    {
+      "name": "UK Parliament",
+      "link_url": "https://www.parliament.uk/business/news/2026/jan-2026/"
+    }
+  ]
+}

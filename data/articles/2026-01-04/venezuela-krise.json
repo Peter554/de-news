@@ -1,0 +1,132 @@
+{
+  "title": "USA greifen Venezuela an und nehmen Präsident Maduro fest",
+  "translated_title": "USA Attacks Venezuela and Arrests President Maduro",
+  "text": [
+    {
+      "text": "Die Vereinigten Staaten haben am Samstag einen großangelegten Militäreinsatz in Venezuela durchgeführt.",
+      "translated_text": "The United States carried out a large-scale military operation in Venezuela on Saturday."
+    },
+    {
+      "text": "Präsident Donald Trump verkündete, dass venezolanische Präsident Nicolás Maduro und seine Frau festgenommen wurden.",
+      "translated_text": "President Donald Trump announced that Venezuelan President Nicolás Maduro and his wife were arrested."
+    },
+    {
+      "text": "Eine Spezialeinheit der US-Armee, die Delta Force, führte die Operation durch.",
+      "translated_text": "A special unit of the US Army, Delta Force, carried out the operation."
+    },
+    {
+      "text": "Maduro kam am Samstagabend in New York an und wurde in ein Gefängnis gebracht.",
+      "translated_text": "Maduro arrived in New York on Saturday evening and was taken to a prison."
+    },
+    {
+      "text": "Trump sagte, dass die USA Venezuela vorübergehend leiten werden.",
+      "translated_text": "Trump said that the USA will run Venezuela temporarily."
+    },
+    {
+      "text": "Das Ziel sei es, das Öl wieder fließen zu lassen, erklärte der Präsident.",
+      "translated_text": "The goal is to get the oil flowing again, the president explained."
+    },
+    {
+      "text": "Eine kleine Gruppe von Pro-Maduro-Demonstranten versammelte sich vor dem Weißen Haus.",
+      "translated_text": "A small group of pro-Maduro demonstrators gathered outside the White House."
+    },
+    {
+      "text": "Einige demokratische Politiker äußerten Bedenken über die Operation.",
+      "translated_text": "Some Democratic politicians expressed concerns about the operation."
+    },
+    {
+      "text": "Senator Mark Warner warnte vor einem gefährlichen Präzedenzfall.",
+      "translated_text": "Senator Mark Warner warned of a dangerous precedent."
+    },
+    {
+      "text": "Die internationale Gemeinschaft beobachtet die Situation mit großer Sorge.",
+      "translated_text": "The international community is watching the situation with great concern."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Militäreinsatz",
+      "translated_term": "military operation",
+      "example_usage": "Die Vereinigten Staaten haben am Samstag einen großangelegten Militäreinsatz in Venezuela durchgeführt."
+    },
+    {
+      "term": "großangelegt",
+      "translated_term": "large-scale",
+      "example_usage": "Die Vereinigten Staaten haben am Samstag einen großangelegten Militäreinsatz in Venezuela durchgeführt."
+    },
+    {
+      "term": "verkünden",
+      "translated_term": "to announce / to proclaim",
+      "example_usage": "Präsident Donald Trump verkündete, dass venezolanische Präsident Nicolás Maduro und seine Frau festgenommen wurden."
+    },
+    {
+      "term": "festnehmen",
+      "translated_term": "to arrest",
+      "example_usage": "Präsident Donald Trump verkündete, dass venezolanische Präsident Nicolás Maduro und seine Frau festgenommen wurden."
+    },
+    {
+      "term": "die Spezialeinheit",
+      "translated_term": "special unit / special forces",
+      "example_usage": "Eine Spezialeinheit der US-Armee, die Delta Force, führte die Operation durch."
+    },
+    {
+      "term": "durchführen",
+      "translated_term": "to carry out / to execute",
+      "example_usage": "Eine Spezialeinheit der US-Armee, die Delta Force, führte die Operation durch."
+    },
+    {
+      "term": "vorübergehend",
+      "translated_term": "temporarily",
+      "example_usage": "Trump sagte, dass die USA Venezuela vorübergehend leiten werden."
+    },
+    {
+      "term": "leiten",
+      "translated_term": "to lead / to run / to manage",
+      "example_usage": "Trump sagte, dass die USA Venezuela vorübergehend leiten werden."
+    },
+    {
+      "term": "sich versammeln",
+      "translated_term": "to gather / to assemble",
+      "example_usage": "Eine kleine Gruppe von Pro-Maduro-Demonstranten versammelte sich vor dem Weißen Haus."
+    },
+    {
+      "term": "Bedenken äußern",
+      "translated_term": "to express concerns",
+      "example_usage": "Einige demokratische Politiker äußerten Bedenken über die Operation."
+    },
+    {
+      "term": "der Präzedenzfall",
+      "translated_term": "precedent",
+      "example_usage": "Senator Mark Warner warnte vor einem gefährlichen Präzedenzfall."
+    },
+    {
+      "term": "die Gemeinschaft",
+      "translated_term": "community",
+      "example_usage": "Die internationale Gemeinschaft beobachtet die Situation mit großer Sorge."
+    }
+  ],
+  "tags": [
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Lateinamerika",
+      "translated_name": "Latin America"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CBS News",
+      "link_url": "https://www.cbsnews.com/live-updates/venezuela-us-military-strikes-maduro-trump/"
+    },
+    {
+      "name": "ABC News",
+      "link_url": "https://abcnews.go.com/International/explosions-heard-venezuelas-capital-city-caracas/story?id=128861598"
+    }
+  ]
+}

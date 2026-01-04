@@ -1,0 +1,132 @@
+{
+  "title": "Neue Regelungen in Deutschland ab 2026",
+  "translated_title": "New Regulations in Germany from 2026",
+  "text": [
+    {
+      "text": "Am 1. Januar 2026 traten mehrere wichtige Änderungen in Deutschland in Kraft.",
+      "translated_text": "On January 1st, 2026, several important changes came into effect in Germany."
+    },
+    {
+      "text": "Der gesetzliche Mindestlohn stieg auf 13,90 Euro pro Stunde.",
+      "translated_text": "The statutory minimum wage rose to 13.90 euros per hour."
+    },
+    {
+      "text": "Dies bedeutet mehr Geld für Millionen von Arbeitnehmern im ganzen Land.",
+      "translated_text": "This means more money for millions of workers across the country."
+    },
+    {
+      "text": "Das Deutschlandticket, das unbegrenzte Fahrten im Regionalverkehr erlaubt, kostet jetzt 63 Euro statt 58 Euro.",
+      "translated_text": "The Deutschlandticket, which allows unlimited travel on regional transport, now costs 63 euros instead of 58 euros."
+    },
+    {
+      "text": "In Berlin und Brandenburg steigen die Fahrpreise im Durchschnitt um sechs Prozent.",
+      "translated_text": "In Berlin and Brandenburg, fares are rising by an average of six percent."
+    },
+    {
+      "text": "Eine einzelne Fahrt innerhalb des Berliner S-Bahn-Rings kostet nun 4 Euro.",
+      "translated_text": "A single journey within Berlin's S-Bahn ring now costs 4 euros."
+    },
+    {
+      "text": "Das Kindergeld erhöht sich um vier Euro auf 259 Euro pro Kind und Monat.",
+      "translated_text": "Child benefit increases by four euros to 259 euros per child per month."
+    },
+    {
+      "text": "Der steuerliche Grundfreibetrag steigt auf 12.348 Euro.",
+      "translated_text": "The basic tax-free allowance rises to 12,348 euros."
+    },
+    {
+      "text": "Dies bedeutet, dass Menschen bis zu diesem Betrag keine Einkommensteuer zahlen müssen.",
+      "translated_text": "This means that people do not have to pay income tax up to this amount."
+    },
+    {
+      "text": "Die Änderungen sollen Familien und Geringverdiener entlasten und gleichzeitig die Kosten des öffentlichen Verkehrs decken.",
+      "translated_text": "The changes are intended to relieve families and low earners while covering the costs of public transport."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Regelung",
+      "translated_term": "regulation",
+      "example_usage": "Am 1. Januar 2026 traten mehrere wichtige Änderungen in Deutschland in Kraft."
+    },
+    {
+      "term": "in Kraft treten",
+      "translated_term": "to come into effect",
+      "example_usage": "Am 1. Januar 2026 traten mehrere wichtige Änderungen in Deutschland in Kraft."
+    },
+    {
+      "term": "der Mindestlohn",
+      "translated_term": "minimum wage",
+      "example_usage": "Der gesetzliche Mindestlohn stieg auf 13,90 Euro pro Stunde."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise / to increase",
+      "example_usage": "Der gesetzliche Mindestlohn stieg auf 13,90 Euro pro Stunde."
+    },
+    {
+      "term": "der Arbeitnehmer",
+      "translated_term": "worker / employee",
+      "example_usage": "Dies bedeutet mehr Geld für Millionen von Arbeitnehmern im ganzen Land."
+    },
+    {
+      "term": "unbegrenzt",
+      "translated_term": "unlimited",
+      "example_usage": "Das Deutschlandticket, das unbegrenzte Fahrten im Regionalverkehr erlaubt, kostet jetzt 63 Euro statt 58 Euro."
+    },
+    {
+      "term": "der Fahrpreis",
+      "translated_term": "fare / ticket price",
+      "example_usage": "In Berlin und Brandenburg steigen die Fahrpreise im Durchschnitt um sechs Prozent."
+    },
+    {
+      "term": "das Kindergeld",
+      "translated_term": "child benefit",
+      "example_usage": "Das Kindergeld erhöht sich um vier Euro auf 259 Euro pro Kind und Monat."
+    },
+    {
+      "term": "der Grundfreibetrag",
+      "translated_term": "basic tax-free allowance",
+      "example_usage": "Der steuerliche Grundfreibetrag steigt auf 12.348 Euro."
+    },
+    {
+      "term": "die Einkommensteuer",
+      "translated_term": "income tax",
+      "example_usage": "Dies bedeutet, dass Menschen bis zu diesem Betrag keine Einkommensteuer zahlen müssen."
+    },
+    {
+      "term": "entlasten",
+      "translated_term": "to relieve / to ease burden",
+      "example_usage": "Die Änderungen sollen Familien und Geringverdiener entlasten und gleichzeitig die Kosten des öffentlichen Verkehrs decken."
+    },
+    {
+      "term": "der Geringverdiener",
+      "translated_term": "low earner",
+      "example_usage": "Die Änderungen sollen Familien und Geringverdiener entlasten und gleichzeitig die Kosten des öffentlichen Verkehrs decken."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Sozialpolitik",
+      "translated_name": "Social Policy"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local",
+      "link_url": "https://www.thelocal.de/20251231/everything-that-changes-in-germany-in-january-2026"
+    },
+    {
+      "name": "Deutschland.de",
+      "link_url": "https://www.deutschland.de/en/news/taxes-minimum-wage-military-service-what-will-change-for-german-citizens-in-2026"
+    }
+  ]
+}
