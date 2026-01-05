@@ -1,0 +1,167 @@
+{
+  "title": "Chaos an deutschen Flughäfen: Hunderte Verspätungen und Ausfälle",
+  "translated_title": "Chaos at German airports: Hundreds of delays and cancellations",
+  "text": [
+    {
+      "text": "Am 2. Januar 2026 erlebten deutsche Flughäfen massive Probleme.",
+      "translated_text": "On January 2, 2026, German airports experienced massive problems."
+    },
+    {
+      "text": "Große Flughäfen wie München, Frankfurt und Berlin waren besonders betroffen.",
+      "translated_text": "Major airports such as Munich, Frankfurt and Berlin were particularly affected."
+    },
+    {
+      "text": "Es gab 45 Flugausfälle und 1.082 Verspätungen.",
+      "translated_text": "There were 45 flight cancellations and 1,082 delays."
+    },
+    {
+      "text": "Hunderte Reisende saßen an den Flughäfen fest.",
+      "translated_text": "Hundreds of travelers were stranded at the airports."
+    },
+    {
+      "text": "Auch Hamburg und Stuttgart hatten große Schwierigkeiten.",
+      "translated_text": "Hamburg and Stuttgart also had major difficulties."
+    },
+    {
+      "text": "Mehrere Fluggesellschaften waren von den Störungen betroffen.",
+      "translated_text": "Several airlines were affected by the disruptions."
+    },
+    {
+      "text": "Dazu gehörten Lufthansa, German Airways, Air Dolomiti, KLM und easyJet.",
+      "translated_text": "These included Lufthansa, German Airways, Air Dolomiti, KLM and easyJet."
+    },
+    {
+      "text": "Die Probleme erstreckten sich über das gesamte europäische Verkehrsnetz.",
+      "translated_text": "The problems extended across the entire European transport network."
+    },
+    {
+      "text": "Viele Passagiere mussten lange am Flughafen warten.",
+      "translated_text": "Many passengers had to wait a long time at the airport."
+    },
+    {
+      "text": "Einige verpassten wichtige Anschlussflüge.",
+      "translated_text": "Some missed important connecting flights."
+    },
+    {
+      "text": "Die genauen Ursachen für das Chaos sind noch nicht vollständig bekannt.",
+      "translated_text": "The exact causes of the chaos are not yet fully known."
+    },
+    {
+      "text": "Möglicherweise spielten Wetterbedingungen eine Rolle.",
+      "translated_text": "Weather conditions may have played a role."
+    },
+    {
+      "text": "Auch technische Probleme und Personalmangel könnten Gründe sein.",
+      "translated_text": "Technical problems and staff shortages could also be reasons."
+    },
+    {
+      "text": "Die Fluggesellschaften arbeiteten daran, die Situation zu verbessern.",
+      "translated_text": "The airlines worked to improve the situation."
+    },
+    {
+      "text": "Betroffene Passagiere haben Anspruch auf Entschädigung.",
+      "translated_text": "Affected passengers are entitled to compensation."
+    },
+    {
+      "text": "Reisende sollten sich direkt an ihre Fluggesellschaft wenden.",
+      "translated_text": "Travelers should contact their airline directly."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Flughafen",
+      "translated_term": "airport",
+      "example_usage": "Am 2. Januar 2026 erlebten deutsche Flughäfen massive Probleme."
+    },
+    {
+      "term": "die Verspätung",
+      "translated_term": "delay",
+      "example_usage": "Chaos an deutschen Flughäfen: Hunderte Verspätungen und Ausfälle."
+    },
+    {
+      "term": "der Ausfall",
+      "translated_term": "cancellation",
+      "example_usage": "Chaos an deutschen Flughäfen: Hunderte Verspätungen und Ausfälle."
+    },
+    {
+      "term": "erleben",
+      "translated_term": "to experience",
+      "example_usage": "Am 2. Januar 2026 erlebten deutsche Flughäfen massive Probleme."
+    },
+    {
+      "term": "betroffen",
+      "translated_term": "affected",
+      "example_usage": "Große Flughäfen wie München, Frankfurt und Berlin waren besonders betroffen."
+    },
+    {
+      "term": "der Flugausfall",
+      "translated_term": "flight cancellation",
+      "example_usage": "Es gab 45 Flugausfälle und 1.082 Verspätungen."
+    },
+    {
+      "term": "der Reisende",
+      "translated_term": "traveler",
+      "example_usage": "Hunderte Reisende saßen an den Flughäfen fest."
+    },
+    {
+      "term": "festsitzen",
+      "translated_term": "to be stranded / to be stuck",
+      "example_usage": "Hunderte Reisende saßen an den Flughäfen fest."
+    },
+    {
+      "term": "die Schwierigkeit",
+      "translated_term": "difficulty",
+      "example_usage": "Auch Hamburg und Stuttgart hatten große Schwierigkeiten."
+    },
+    {
+      "term": "die Fluggesellschaft",
+      "translated_term": "airline",
+      "example_usage": "Mehrere Fluggesellschaften waren von den Störungen betroffen."
+    },
+    {
+      "term": "die Störung",
+      "translated_term": "disruption / disturbance",
+      "example_usage": "Mehrere Fluggesellschaften waren von den Störungen betroffen."
+    },
+    {
+      "term": "sich erstrecken",
+      "translated_term": "to extend / to stretch",
+      "example_usage": "Die Probleme erstreckten sich über das gesamte europäische Verkehrsnetz."
+    },
+    {
+      "term": "der Anschlussflug",
+      "translated_term": "connecting flight",
+      "example_usage": "Einige verpassten wichtige Anschlussflüge."
+    },
+    {
+      "term": "der Personalmangel",
+      "translated_term": "staff shortage",
+      "example_usage": "Auch technische Probleme und Personalmangel könnten Gründe sein."
+    },
+    {
+      "term": "die Entschädigung",
+      "translated_term": "compensation",
+      "example_usage": "Betroffene Passagiere haben Anspruch auf Entschädigung."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Reisen",
+      "translated_name": "Travel"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Travel And Tour World",
+      "link_url": "https://www.travelandtourworld.com/news/article/hundreds-of-travelers-abandoned-in-germany-as-airports-of-munich-frankfurt-berlin-hamburg-and-stuttgart-face-45-flight-cancellations-1082-delays-by-lufthansa-german-airways-air-dolomiti-klm-easyjet-an/"
+    }
+  ]
+}
