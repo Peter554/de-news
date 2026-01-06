@@ -1,0 +1,180 @@
+{
+  "title": "Öffentlicher Nahverkehr in Berlin wird teurer",
+  "translated_title": "Public transport in Berlin becomes more expensive",
+  "text": [
+    {
+      "text": "Am 1. Januar 2026 sind die Preise für den öffentlichen Nahverkehr in Berlin gestiegen.",
+      "translated_text": "On January 1, 2026, the prices for public transport in Berlin have risen."
+    },
+    {
+      "text": "Die Verkehrsbetriebe haben die Ticketkosten erhöht und einige Ticketoptionen abgeschafft.",
+      "translated_text": "The transport companies have increased ticket costs and eliminated some ticket options."
+    },
+    {
+      "text": "Eine Einzelfahrkarte für die S-Bahn in Berlin und Brandenburg kostet jetzt 4 Euro.",
+      "translated_text": "A single ticket for the S-Bahn in Berlin and Brandenburg now costs 4 euros."
+    },
+    {
+      "text": "Zuvor kostete sie 3,80 Euro.",
+      "translated_text": "Previously it cost 3.80 euros."
+    },
+    {
+      "text": "Eine Kurzstreckenkarte kostet 2,80 Euro, ermäßigt 2,10 Euro.",
+      "translated_text": "A short-trip ticket costs 2.80 euros, reduced 2.10 euros."
+    },
+    {
+      "text": "Die Tageskarte für den Tarifbereich AB kostet nun 11,20 Euro für Erwachsene.",
+      "translated_text": "The day ticket for fare zone AB now costs 11.20 euros for adults."
+    },
+    {
+      "text": "Ermäßigt zahlt man 7,40 Euro.",
+      "translated_text": "With a reduced fare, one pays 7.40 euros."
+    },
+    {
+      "text": "Die Preise sind im Durchschnitt um sechs Prozent gestiegen.",
+      "translated_text": "Prices have risen by six percent on average."
+    },
+    {
+      "text": "Mit der Tarifänderung gibt es auch strukturelle Veränderungen.",
+      "translated_text": "With the tariff change there are also structural changes."
+    },
+    {
+      "text": "Der Tarifbereich Berlin BC wird ab dem 1. Januar 2026 nicht mehr angeboten.",
+      "translated_text": "The Berlin BC fare zone will no longer be offered from January 1, 2026."
+    },
+    {
+      "text": "Die 7-Tage-Karte wurde ebenfalls abgeschafft.",
+      "translated_text": "The 7-day ticket was also eliminated."
+    },
+    {
+      "text": "Auch das Sozialticket ist teurer geworden.",
+      "translated_text": "The social ticket has also become more expensive."
+    },
+    {
+      "text": "Berlins Ticket S kostet jetzt 27,50 Euro pro Monat.",
+      "translated_text": "Berlin's Ticket S now costs 27.50 euros per month."
+    },
+    {
+      "text": "Das ist ein Anstieg um 45 Prozent.",
+      "translated_text": "This is an increase of 45 percent."
+    },
+    {
+      "text": "Die Tarifstruktur verwendet weiterhin die Zonen AB und ABC.",
+      "translated_text": "The fare structure continues to use zones AB and ABC."
+    },
+    {
+      "text": "Der Tarifbereich ABC umfasst zusätzlich Berlins Umland, den Flughafen BER und den Potsdamer Hauptbahnhof.",
+      "translated_text": "Fare zone ABC additionally includes Berlin's surrounding area, BER Airport, and Potsdam Central Station."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der öffentliche Nahverkehr",
+      "translated_term": "public transport / local public transport",
+      "example_usage": "Am 1. Januar 2026 sind die Preise für den öffentlichen Nahverkehr in Berlin gestiegen."
+    },
+    {
+      "term": "die Verkehrsbetriebe",
+      "translated_term": "transport companies",
+      "example_usage": "Die Verkehrsbetriebe haben die Ticketkosten erhöht und einige Ticketoptionen abgeschafft."
+    },
+    {
+      "term": "abschaffen",
+      "translated_term": "to eliminate / to abolish",
+      "example_usage": "Die Verkehrsbetriebe haben die Ticketkosten erhöht und einige Ticketoptionen abgeschafft."
+    },
+    {
+      "term": "die Einzelfahrkarte",
+      "translated_term": "single ticket",
+      "example_usage": "Eine Einzelfahrkarte für die S-Bahn in Berlin und Brandenburg kostet jetzt 4 Euro."
+    },
+    {
+      "term": "die S-Bahn",
+      "translated_term": "S-Bahn (urban rapid transit)",
+      "example_usage": "Eine Einzelfahrkarte für die S-Bahn in Berlin und Brandenburg kostet jetzt 4 Euro."
+    },
+    {
+      "term": "die Kurzstreckenkarte",
+      "translated_term": "short-trip ticket",
+      "example_usage": "Eine Kurzstreckenkarte kostet 2,80 Euro, ermäßigt 2,10 Euro."
+    },
+    {
+      "term": "ermäßigt",
+      "translated_term": "reduced / discounted",
+      "example_usage": "Eine Kurzstreckenkarte kostet 2,80 Euro, ermäßigt 2,10 Euro."
+    },
+    {
+      "term": "die Tageskarte",
+      "translated_term": "day ticket",
+      "example_usage": "Die Tageskarte für den Tarifbereich AB kostet nun 11,20 Euro für Erwachsene."
+    },
+    {
+      "term": "der Tarifbereich",
+      "translated_term": "fare zone",
+      "example_usage": "Die Tageskarte für den Tarifbereich AB kostet nun 11,20 Euro für Erwachsene."
+    },
+    {
+      "term": "die Tarifänderung",
+      "translated_term": "tariff change / fare change",
+      "example_usage": "Mit der Tarifänderung gibt es auch strukturelle Veränderungen."
+    },
+    {
+      "term": "die Veränderung",
+      "translated_term": "change",
+      "example_usage": "Mit der Tarifänderung gibt es auch strukturelle Veränderungen."
+    },
+    {
+      "term": "das Sozialticket",
+      "translated_term": "social ticket (reduced-price ticket for low-income people)",
+      "example_usage": "Auch das Sozialticket ist teurer geworden."
+    },
+    {
+      "term": "der Anstieg",
+      "translated_term": "increase / rise",
+      "example_usage": "Das ist ein Anstieg um 45 Prozent."
+    },
+    {
+      "term": "die Tarifstruktur",
+      "translated_term": "fare structure / tariff structure",
+      "example_usage": "Die Tarifstruktur verwendet weiterhin die Zonen AB und ABC."
+    },
+    {
+      "term": "das Umland",
+      "translated_term": "surrounding area / outskirts",
+      "example_usage": "Der Tarifbereich ABC umfasst zusätzlich Berlins Umland, den Flughafen BER und den Potsdamer Hauptbahnhof."
+    },
+    {
+      "term": "umfassen",
+      "translated_term": "to include / to comprise",
+      "example_usage": "Der Tarifbereich ABC umfasst zusätzlich Berlins Umland, den Flughafen BER und den Potsdamer Hauptbahnhof."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Berliner",
+      "link_url": "https://www.the-berliner.com/english-news-berlin/public-transport-prices-rise-again/"
+    },
+    {
+      "name": "IamExpat",
+      "link_url": "https://www.iamexpat.de/expat-info/germany-news/price-public-transport-increase-5-german-states-2026"
+    },
+    {
+      "name": "Mein Berlin",
+      "link_url": "https://mein-berlin.net/berlin/oepnv-preiserhoehung-in-berlin-ticketpreise-steigen-ab-2026-um-ueber-6/en"
+    }
+  ]
+}
