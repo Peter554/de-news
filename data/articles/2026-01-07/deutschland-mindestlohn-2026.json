@@ -1,0 +1,148 @@
+{
+  "title": "Neue Regelungen in Deutschland ab Januar 2026",
+  "translated_title": "New Regulations in Germany from January 2026",
+  "text": [
+    {
+      "text": "Am 1. Januar 2026 traten in Deutschland wichtige Änderungen in Kraft.",
+      "translated_text": "On January 1, 2026, important changes came into effect in Germany."
+    },
+    {
+      "text": "Der gesetzliche Mindestlohn stieg von 12,82 Euro auf 13,90 Euro pro Stunde.",
+      "translated_text": "The statutory minimum wage rose from 12.82 euros to 13.90 euros per hour."
+    },
+    {
+      "text": "Das bedeutet mehr Geld für viele Arbeitnehmer in Deutschland.",
+      "translated_text": "This means more money for many workers in Germany."
+    },
+    {
+      "text": "Auch das Kindergeld wurde erhöht.",
+      "translated_text": "Child benefit was also increased."
+    },
+    {
+      "text": "Familien bekommen jetzt 259 Euro pro Kind im Monat, das sind 4 Euro mehr als vorher.",
+      "translated_text": "Families now receive 259 euros per child per month, which is 4 euros more than before."
+    },
+    {
+      "text": "Der Grundfreibetrag bei der Steuer stieg auf 12.348 Euro.",
+      "translated_text": "The basic tax-free allowance rose to 12,348 euros."
+    },
+    {
+      "text": "Das Deutschlandticket wurde aber teurer.",
+      "translated_text": "However, the Deutschlandticket became more expensive."
+    },
+    {
+      "text": "Der Preis stieg von 58 Euro auf 63 Euro pro Monat.",
+      "translated_text": "The price rose from 58 euros to 63 euros per month."
+    },
+    {
+      "text": "In Berlin und Brandenburg stiegen auch die lokalen Fahrpreise um durchschnittlich sechs Prozent.",
+      "translated_text": "In Berlin and Brandenburg, local fares also rose by an average of six percent."
+    },
+    {
+      "text": "Eine gute Nachricht gibt es für Pendler.",
+      "translated_text": "There is good news for commuters."
+    },
+    {
+      "text": "Die Pendlerpauschale wurde auf 38 Cent pro Kilometer erhöht, und das schon ab dem ersten Kilometer.",
+      "translated_text": "The commuter allowance was increased to 38 cents per kilometer, starting from the first kilometer."
+    },
+    {
+      "text": "Früher galt der höhere Satz erst ab dem 21. Kilometer.",
+      "translated_text": "Previously, the higher rate only applied from the 21st kilometer onwards."
+    },
+    {
+      "text": "Die Gasspeicherumlage wurde abgeschafft, was Haushalte bis zu 60 Euro pro Jahr sparen kann.",
+      "translated_text": "The gas storage surcharge was eliminated, which can save households up to 60 euros per year."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Mindestlohn",
+      "translated_term": "minimum wage",
+      "example_usage": "Der gesetzliche Mindestlohn stieg von 12,82 Euro auf 13,90 Euro pro Stunde."
+    },
+    {
+      "term": "in Kraft treten",
+      "translated_term": "to come into effect",
+      "example_usage": "Am 1. Januar 2026 traten in Deutschland wichtige Änderungen in Kraft."
+    },
+    {
+      "term": "der Arbeitnehmer",
+      "translated_term": "employee / worker",
+      "example_usage": "Das bedeutet mehr Geld für viele Arbeitnehmer in Deutschland."
+    },
+    {
+      "term": "das Kindergeld",
+      "translated_term": "child benefit",
+      "example_usage": "Auch das Kindergeld wurde erhöht."
+    },
+    {
+      "term": "der Grundfreibetrag",
+      "translated_term": "basic tax-free allowance",
+      "example_usage": "Der Grundfreibetrag bei der Steuer stieg auf 12.348 Euro."
+    },
+    {
+      "term": "das Deutschlandticket",
+      "translated_term": "Germany ticket",
+      "example_usage": "Das Deutschlandticket wurde aber teurer."
+    },
+    {
+      "term": "der Fahrpreis",
+      "translated_term": "fare / ticket price",
+      "example_usage": "In Berlin und Brandenburg stiegen auch die lokalen Fahrpreise um durchschnittlich sechs Prozent."
+    },
+    {
+      "term": "der Pendler",
+      "translated_term": "commuter",
+      "example_usage": "Eine gute Nachricht gibt es für Pendler."
+    },
+    {
+      "term": "die Pendlerpauschale",
+      "translated_term": "commuter allowance",
+      "example_usage": "Die Pendlerpauschale wurde auf 38 Cent pro Kilometer erhöht."
+    },
+    {
+      "term": "die Gasspeicherumlage",
+      "translated_term": "gas storage surcharge",
+      "example_usage": "Die Gasspeicherumlage wurde abgeschafft, was Haushalte bis zu 60 Euro pro Jahr sparen kann."
+    },
+    {
+      "term": "abschaffen",
+      "translated_term": "to eliminate / abolish",
+      "example_usage": "Die Gasspeicherumlage wurde abgeschafft."
+    },
+    {
+      "term": "sparen",
+      "translated_term": "to save",
+      "example_usage": "Die Gasspeicherumlage wurde abgeschafft, was Haushalte bis zu 60 Euro pro Jahr sparen kann."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    },
+    {
+      "name": "Sozialpolitik",
+      "translated_name": "Social Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local DE",
+      "link_url": "https://www.thelocal.de/20251231/everything-that-changes-in-germany-in-january-2026"
+    },
+    {
+      "name": "Deutschland.de",
+      "link_url": "https://www.deutschland.de/en/news/taxes-minimum-wage-military-service-what-will-change-for-german-citizens-in-2026"
+    },
+    {
+      "name": "IamExpat",
+      "link_url": "https://www.iamexpat.de/expat-info/germany-news/2026-germany-all-changes-you-need-know-about"
+    }
+  ]
+}

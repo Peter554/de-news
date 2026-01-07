@@ -1,0 +1,144 @@
+{
+  "title": "Silvester in Deutschland: Angriffe auf Polizei und viele Festnahmen",
+  "translated_title": "New Year's Eve in Germany: Attacks on Police and Many Arrests",
+  "text": [
+    {
+      "text": "Die Silvesternacht verlief in Deutschland nicht friedlich.",
+      "translated_text": "New Year's Eve did not pass peacefully in Germany."
+    },
+    {
+      "text": "In vielen Städten kam es zu Angriffen auf Polizisten.",
+      "translated_text": "In many cities, there were attacks on police officers."
+    },
+    {
+      "text": "Besonders in Berlin war die Situation angespannt.",
+      "translated_text": "The situation was particularly tense in Berlin."
+    },
+    {
+      "text": "Die Polizei war mit 4.300 Beamten im Einsatz.",
+      "translated_text": "The police were deployed with 4,300 officers."
+    },
+    {
+      "text": "Bis 1 Uhr morgens am Neujahrstag gab es mehr als 400 Festnahmen.",
+      "translated_text": "By 1 am on New Year's Day, there were more than 400 arrests."
+    },
+    {
+      "text": "Insgesamt wurden 21 Polizisten leicht verletzt.",
+      "translated_text": "A total of 21 police officers were slightly injured."
+    },
+    {
+      "text": "Die meisten Verletzungen entstanden durch Böller und Feuerwerkskörper.",
+      "translated_text": "Most injuries were caused by firecrackers and fireworks."
+    },
+    {
+      "text": "Einige Polizisten wurden mit Böllern beschossen.",
+      "translated_text": "Some police officers were shot at with firecrackers."
+    },
+    {
+      "text": "Es gab auch Verletzungen durch Widerstand von Verdächtigen.",
+      "translated_text": "There were also injuries from resistance by suspects."
+    },
+    {
+      "text": "Die Polizei war auf solche Vorfälle vorbereitet.",
+      "translated_text": "The police were prepared for such incidents."
+    },
+    {
+      "text": "Schon in den vergangenen Jahren gab es ähnliche Probleme an Silvester.",
+      "translated_text": "In previous years, there had been similar problems on New Year's Eve."
+    },
+    {
+      "text": "Die Behörden fordern strengere Regeln für Feuerwerk.",
+      "translated_text": "The authorities are calling for stricter rules for fireworks."
+    },
+    {
+      "text": "Viele Menschen fragen sich, ob private Feuerwerke verboten werden sollten.",
+      "translated_text": "Many people wonder whether private fireworks should be banned."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "Silvester",
+      "translated_term": "New Year's Eve",
+      "example_usage": "Die Silvesternacht verlief in Deutschland nicht friedlich."
+    },
+    {
+      "term": "der Angriff",
+      "translated_term": "attack",
+      "example_usage": "In vielen Städten kam es zu Angriffen auf Polizisten."
+    },
+    {
+      "term": "die Festnahme",
+      "translated_term": "arrest",
+      "example_usage": "Bis 1 Uhr morgens am Neujahrstag gab es mehr als 400 Festnahmen."
+    },
+    {
+      "term": "der Beamte",
+      "translated_term": "officer / official",
+      "example_usage": "Die Polizei war mit 4.300 Beamten im Einsatz."
+    },
+    {
+      "term": "im Einsatz sein",
+      "translated_term": "to be deployed / on duty",
+      "example_usage": "Die Polizei war mit 4.300 Beamten im Einsatz."
+    },
+    {
+      "term": "verletzen",
+      "translated_term": "to injure",
+      "example_usage": "Insgesamt wurden 21 Polizisten leicht verletzt."
+    },
+    {
+      "term": "der Böller",
+      "translated_term": "firecracker / banger",
+      "example_usage": "Die meisten Verletzungen entstanden durch Böller und Feuerwerkskörper."
+    },
+    {
+      "term": "der Feuerwerkskörper",
+      "translated_term": "firework",
+      "example_usage": "Die meisten Verletzungen entstanden durch Böller und Feuerwerkskörper."
+    },
+    {
+      "term": "beschießen",
+      "translated_term": "to shoot at",
+      "example_usage": "Einige Polizisten wurden mit Böllern beschossen."
+    },
+    {
+      "term": "der Widerstand",
+      "translated_term": "resistance",
+      "example_usage": "Es gab auch Verletzungen durch Widerstand von Verdächtigen."
+    },
+    {
+      "term": "der Vorfall",
+      "translated_term": "incident",
+      "example_usage": "Die Polizei war auf solche Vorfälle vorbereitet."
+    },
+    {
+      "term": "verbieten",
+      "translated_term": "to ban / prohibit",
+      "example_usage": "Viele Menschen fragen sich, ob private Feuerwerke verboten werden sollten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Kriminalität",
+      "translated_name": "Crime"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Yahoo News",
+      "link_url": "https://www.yahoo.com/news/articles/attacks-police-arrests-germany-nation-122531012.html"
+    },
+    {
+      "name": "Yahoo News",
+      "link_url": "https://www.yahoo.com/news/articles/german-police-alert-nation-rings-002528027.html"
+    }
+  ]
+}
