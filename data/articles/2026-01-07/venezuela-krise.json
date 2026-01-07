@@ -1,0 +1,140 @@
+{
+  "title": "Venezuela-Krise: Maduro von US-Streitkräften festgenommen",
+  "translated_title": "Venezuela Crisis: Maduro Detained by US Forces",
+  "text": [
+    {
+      "text": "Der venezolanische Präsident Nicolás Maduro wurde von amerikanischen Streitkräften festgenommen.",
+      "translated_text": "Venezuelan President Nicolás Maduro was detained by American forces."
+    },
+    {
+      "text": "Maduro und seine Frau wurden aus Venezuela ausgeflogen.",
+      "translated_text": "Maduro and his wife were flown out of Venezuela."
+    },
+    {
+      "text": "Sie wurden nach New York gebracht.",
+      "translated_text": "They were taken to New York."
+    },
+    {
+      "text": "Dort wurde Maduro wegen Drogen- und Waffenvorwürfen angeklagt.",
+      "translated_text": "There, Maduro was indicted on drug and weapons charges."
+    },
+    {
+      "text": "Die Vizepräsidentin Delcy Rodríguez wurde zur amtierenden Präsidentin.",
+      "translated_text": "Vice President Delcy Rodríguez became acting president."
+    },
+    {
+      "text": "Außenminister Marco Rubio informierte wichtige Kongressmitglieder über die Militäroperation.",
+      "translated_text": "Secretary of State Marco Rubio briefed key congressional members on the military operation."
+    },
+    {
+      "text": "Es gibt Sorgen über eine neue Ära des amerikanischen Expansionismus unter Präsident Trump.",
+      "translated_text": "There are concerns about a new era of American expansionism under President Trump."
+    },
+    {
+      "text": "Der Sprecher des Repräsentantenhauses, Mike Johnson, sagte nach dem Briefing, dass er keinen Einsatz von US-Truppen in Venezuela erwartet.",
+      "translated_text": "House Speaker Mike Johnson said after the briefing that he does not expect US troops to deploy to Venezuela."
+    },
+    {
+      "text": "Die Situation in Venezuela bleibt angespannt.",
+      "translated_text": "The situation in Venezuela remains tense."
+    },
+    {
+      "text": "Viele Beobachter fragen sich, wie die internationale Gemeinschaft reagieren wird.",
+      "translated_text": "Many observers wonder how the international community will react."
+    },
+    {
+      "text": "Die Europäische Union hat noch keine offizielle Stellungnahme abgegeben.",
+      "translated_text": "The European Union has not yet issued an official statement."
+    },
+    {
+      "text": "Die Zukunft Venezuelas ist nun höchst unsicher.",
+      "translated_text": "The future of Venezuela is now highly uncertain."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "festnehmen",
+      "translated_term": "to detain / arrest",
+      "example_usage": "Der venezolanische Präsident Nicolás Maduro wurde von amerikanischen Streitkräften festgenommen."
+    },
+    {
+      "term": "die Streitkräfte",
+      "translated_term": "armed forces",
+      "example_usage": "Der venezolanische Präsident Nicolás Maduro wurde von amerikanischen Streitkräften festgenommen."
+    },
+    {
+      "term": "ausfliegen",
+      "translated_term": "to fly out / evacuate",
+      "example_usage": "Maduro und seine Frau wurden aus Venezuela ausgeflogen."
+    },
+    {
+      "term": "anklagen",
+      "translated_term": "to indict / charge",
+      "example_usage": "Dort wurde Maduro wegen Drogen- und Waffenvorwürfen angeklagt."
+    },
+    {
+      "term": "der Drogenvorwurf",
+      "translated_term": "drug charge",
+      "example_usage": "Dort wurde Maduro wegen Drogen- und Waffenvorwürfen angeklagt."
+    },
+    {
+      "term": "amtierend",
+      "translated_term": "acting",
+      "example_usage": "Die Vizepräsidentin Delcy Rodríguez wurde zur amtierenden Präsidentin."
+    },
+    {
+      "term": "informieren",
+      "translated_term": "to brief / inform",
+      "example_usage": "Außenminister Marco Rubio informierte wichtige Kongressmitglieder über die Militäroperation."
+    },
+    {
+      "term": "der Expansionismus",
+      "translated_term": "expansionism",
+      "example_usage": "Es gibt Sorgen über eine neue Ära des amerikanischen Expansionismus unter Präsident Trump."
+    },
+    {
+      "term": "der Einsatz",
+      "translated_term": "deployment / operation",
+      "example_usage": "Mike Johnson sagte nach dem Briefing, dass er keinen Einsatz von US-Truppen in Venezuela erwartet."
+    },
+    {
+      "term": "angespannt",
+      "translated_term": "tense",
+      "example_usage": "Die Situation in Venezuela bleibt angespannt."
+    },
+    {
+      "term": "die Stellungnahme",
+      "translated_term": "statement",
+      "example_usage": "Die Europäische Union hat noch keine offizielle Stellungnahme abgegeben."
+    },
+    {
+      "term": "unsicher",
+      "translated_term": "uncertain",
+      "example_usage": "Die Zukunft Venezuelas ist nun höchst unsicher."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Venezuela",
+      "translated_name": "Venezuela"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "KSAT News",
+      "link_url": "https://www.ksat.com/news/2026/01/06/the-latest-after-briefing-johnson-says-he-doesnt-expect-us-troops-to-deploy-to-venezuela/"
+    },
+    {
+      "name": "Wikipedia Current Events",
+      "link_url": "https://en.wikipedia.org/wiki/Portal:Current_events/January_2026"
+    }
+  ]
+}

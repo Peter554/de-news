@@ -1,0 +1,140 @@
+{
+  "title": "Stromausfall in Berlin nach mutmaßlichem Brandanschlag",
+  "translated_title": "Power Outage in Berlin After Suspected Arson Attack",
+  "text": [
+    {
+      "text": "Am Morgen des 3. Januar 2026 brach in Berlin ein Feuer aus.",
+      "translated_text": "On the morning of January 3, 2026, a fire broke out in Berlin."
+    },
+    {
+      "text": "Das Feuer ereignete sich im Stadtteil Lichterfelde auf einer Kabelbrücke über dem Teltowkanal.",
+      "translated_text": "The fire occurred in the Lichterfelde district on a cable bridge over the Teltow Canal."
+    },
+    {
+      "text": "Die Brücke befindet sich nicht weit von einem Kraftwerk entfernt.",
+      "translated_text": "The bridge is located not far from a power station."
+    },
+    {
+      "text": "Durch das Feuer wurden mehrere Hochspannungskabel und Mittelspannungsleitungen beschädigt.",
+      "translated_text": "Several high-voltage cables and medium-voltage lines were damaged by the fire."
+    },
+    {
+      "text": "Etwa 45.000 bis 50.000 Haushalte waren ohne Strom.",
+      "translated_text": "About 45,000 to 50,000 households were without electricity."
+    },
+    {
+      "text": "Auch mehr als 2.000 Unternehmen hatten keinen Strom.",
+      "translated_text": "More than 2,000 businesses also had no electricity."
+    },
+    {
+      "text": "Die Polizei untersucht den Vorfall als mögliche Brandstiftung.",
+      "translated_text": "The police are investigating the incident as possible arson."
+    },
+    {
+      "text": "Unter den Kabeln wurden Brandvorrichtungen gefunden.",
+      "translated_text": "Incendiary devices were found under the cables."
+    },
+    {
+      "text": "Die Behörden beschreiben den Angriff als politisch motiviert.",
+      "translated_text": "The authorities describe the attack as politically motivated."
+    },
+    {
+      "text": "Sie vermuten linksextremistische Täter hinter dem Anschlag.",
+      "translated_text": "They suspect far-left extremists behind the attack."
+    },
+    {
+      "text": "Der Stromausfall betraf vor allem den Südwesten Berlins.",
+      "translated_text": "The power outage mainly affected southwest Berlin."
+    },
+    {
+      "text": "Die Reparatur der beschädigten Kabel dauerte mehrere Stunden.",
+      "translated_text": "The repair of the damaged cables took several hours."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Stromausfall",
+      "translated_term": "power outage",
+      "example_usage": "Der Stromausfall betraf vor allem den Südwesten Berlins."
+    },
+    {
+      "term": "der Brandanschlag",
+      "translated_term": "arson attack",
+      "example_usage": "Stromausfall in Berlin nach mutmaßlichem Brandanschlag."
+    },
+    {
+      "term": "die Kabelbrücke",
+      "translated_term": "cable bridge",
+      "example_usage": "Das Feuer ereignete sich im Stadtteil Lichterfelde auf einer Kabelbrücke über dem Teltowkanal."
+    },
+    {
+      "term": "das Hochspannungskabel",
+      "translated_term": "high-voltage cable",
+      "example_usage": "Durch das Feuer wurden mehrere Hochspannungskabel und Mittelspannungsleitungen beschädigt."
+    },
+    {
+      "term": "der Haushalt",
+      "translated_term": "household",
+      "example_usage": "Etwa 45.000 bis 50.000 Haushalte waren ohne Strom."
+    },
+    {
+      "term": "die Brandstiftung",
+      "translated_term": "arson",
+      "example_usage": "Die Polizei untersucht den Vorfall als mögliche Brandstiftung."
+    },
+    {
+      "term": "die Brandvorrichtung",
+      "translated_term": "incendiary device",
+      "example_usage": "Unter den Kabeln wurden Brandvorrichtungen gefunden."
+    },
+    {
+      "term": "politisch motiviert",
+      "translated_term": "politically motivated",
+      "example_usage": "Die Behörden beschreiben den Angriff als politisch motiviert."
+    },
+    {
+      "term": "linksextremistisch",
+      "translated_term": "far-left extremist",
+      "example_usage": "Sie vermuten linksextremistische Täter hinter dem Anschlag."
+    },
+    {
+      "term": "beschädigen",
+      "translated_term": "to damage",
+      "example_usage": "Durch das Feuer wurden mehrere Hochspannungskabel und Mittelspannungsleitungen beschädigt."
+    },
+    {
+      "term": "untersuchen",
+      "translated_term": "to investigate",
+      "example_usage": "Die Polizei untersucht den Vorfall als mögliche Brandstiftung."
+    },
+    {
+      "term": "die Reparatur",
+      "translated_term": "repair",
+      "example_usage": "Die Reparatur der beschädigten Kabel dauerte mehrere Stunden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Kriminalität",
+      "translated_name": "Crime"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/2026/01/04/45000-homes-in-berlin-without-power-after-politically-motivated-attack-by-left-wing-extrem"
+    },
+    {
+      "name": "Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/germany/2026/01/05/107287.html"
+    }
+  ]
+}
