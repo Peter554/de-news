@@ -1,0 +1,157 @@
+{
+  "title": "Stromausfall in Berlin nach mutmaßlichem Brandanschlag",
+  "translated_title": "Power Outage in Berlin After Suspected Arson Attack",
+  "text": [
+    {
+      "text": "Am 3. Januar 2026 gab es einen großen Stromausfall in Berlin.",
+      "translated_text": "On January 3, 2026, there was a major power outage in Berlin."
+    },
+    {
+      "text": "Etwa 50.000 Haushalte und 2.000 Unternehmen im Südwesten der Stadt waren ohne Strom.",
+      "translated_text": "Around 50,000 households and 2,000 businesses in the southwest of the city were without power."
+    },
+    {
+      "text": "Der Stromausfall dauerte mehr als vier Tage, bis zum 7. Januar.",
+      "translated_text": "The power outage lasted more than four days, until January 7."
+    },
+    {
+      "text": "Die Polizei vermutet, dass es ein Brandanschlag war.",
+      "translated_text": "The police suspect that it was an arson attack."
+    },
+    {
+      "text": "Ein Feuer brach auf einer Kabelbrücke über dem Teltowkanal aus.",
+      "translated_text": "A fire broke out on a cable bridge over the Teltow Canal."
+    },
+    {
+      "text": "Dabei wurden wichtige Hochspannungskabel beschädigt.",
+      "translated_text": "Important high-voltage cables were damaged in the process."
+    },
+    {
+      "text": "Die linksextreme Gruppe 'Vulkangruppe' hat die Verantwortung für den Anschlag übernommen.",
+      "translated_text": "The left-wing extremist group 'Volcano Group' has claimed responsibility for the attack."
+    },
+    {
+      "text": "Sie protestieren gegen die fossile Energiewirtschaft und den Klimawandel.",
+      "translated_text": "They are protesting against the fossil fuel energy industry and climate change."
+    },
+    {
+      "text": "Berlins Innensenatorin Iris Spranger nannte den Anschlag 'linken Terrorismus'.",
+      "translated_text": "Berlin's Interior Senator Iris Spranger called the attack 'left-wing terrorism.'"
+    },
+    {
+      "text": "Die Bundesanwaltschaft hat eine Terrorermittlung eingeleitet.",
+      "translated_text": "The federal prosecutor's office has launched a terrorism investigation."
+    },
+    {
+      "text": "Die Reparaturarbeiten waren schwierig, weil es sehr kalt war.",
+      "translated_text": "The repair work was difficult because it was very cold."
+    },
+    {
+      "text": "Viele Menschen mussten tagelang ohne Strom und Heizung auskommen.",
+      "translated_text": "Many people had to manage without electricity and heating for days."
+    },
+    {
+      "text": "Eine 83-jährige Frau starb während des Stromausfalls.",
+      "translated_text": "An 83-year-old woman died during the power outage."
+    },
+    {
+      "text": "Der Anschlag hat eine große Debatte über Sicherheit und Terrorismus ausgelöst.",
+      "translated_text": "The attack has triggered a major debate about security and terrorism."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Stromausfall",
+      "translated_term": "power outage",
+      "example_usage": "Am 3. Januar 2026 gab es einen großen Stromausfall in Berlin."
+    },
+    {
+      "term": "der Brandanschlag",
+      "translated_term": "arson attack",
+      "example_usage": "Die Polizei vermutet, dass es ein Brandanschlag war."
+    },
+    {
+      "term": "der Haushalt",
+      "translated_term": "household",
+      "example_usage": "Etwa 50.000 Haushalte und 2.000 Unternehmen im Südwesten der Stadt waren ohne Strom."
+    },
+    {
+      "term": "das Hochspannungskabel",
+      "translated_term": "high-voltage cable",
+      "example_usage": "Dabei wurden wichtige Hochspannungskabel beschädigt."
+    },
+    {
+      "term": "beschädigen",
+      "translated_term": "to damage",
+      "example_usage": "Dabei wurden wichtige Hochspannungskabel beschädigt."
+    },
+    {
+      "term": "die Verantwortung übernehmen",
+      "translated_term": "to claim responsibility",
+      "example_usage": "Die linksextreme Gruppe 'Vulkangruppe' hat die Verantwortung für den Anschlag übernommen."
+    },
+    {
+      "term": "linksextrem",
+      "translated_term": "left-wing extremist",
+      "example_usage": "Die linksextreme Gruppe 'Vulkangruppe' hat die Verantwortung für den Anschlag übernommen."
+    },
+    {
+      "term": "die Energiewirtschaft",
+      "translated_term": "energy industry",
+      "example_usage": "Sie protestieren gegen die fossile Energiewirtschaft und den Klimawandel."
+    },
+    {
+      "term": "die Bundesanwaltschaft",
+      "translated_term": "federal prosecutor's office",
+      "example_usage": "Die Bundesanwaltschaft hat eine Terrorermittlung eingeleitet."
+    },
+    {
+      "term": "einleiten",
+      "translated_term": "to launch/initiate",
+      "example_usage": "Die Bundesanwaltschaft hat eine Terrorermittlung eingeleitet."
+    },
+    {
+      "term": "die Reparaturarbeit",
+      "translated_term": "repair work",
+      "example_usage": "Die Reparaturarbeiten waren schwierig, weil es sehr kalt war."
+    },
+    {
+      "term": "auskommen",
+      "translated_term": "to manage/get by",
+      "example_usage": "Viele Menschen mussten tagelang ohne Strom und Heizung auskommen."
+    },
+    {
+      "term": "auslösen",
+      "translated_term": "to trigger/spark",
+      "example_usage": "Der Anschlag hat eine große Debatte über Sicherheit und Terrorismus ausgelöst."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Terrorismus",
+      "translated_name": "Terrorism"
+    },
+    {
+      "name": "Energiepolitik",
+      "translated_name": "Energy Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-01-07/power-supply-resumes-in-berlin-after-longest-blackout-in-decades"
+    },
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/2026/01/04/45000-homes-in-berlin-without-power-after-politically-motivated-attack-by-left-wing-extrem"
+    },
+    {
+      "name": "CBS News",
+      "link_url": "https://www.cbsnews.com/news/berlin-power-outage-vulkangruppe-left-wing-arson-attack-called-terrorism/"
+    }
+  ]
+}

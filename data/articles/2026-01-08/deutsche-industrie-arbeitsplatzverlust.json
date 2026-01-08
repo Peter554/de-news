@@ -1,0 +1,152 @@
+{
+  "title": "Deutsche Industrie verliert tausende Arbeitsplätze",
+  "translated_title": "German Industry Loses Thousands of Jobs",
+  "text": [
+    {
+      "text": "Die deutsche Wirtschaft steht vor großen Herausforderungen.",
+      "translated_text": "The German economy is facing major challenges."
+    },
+    {
+      "text": "Deutschland verliert derzeit 10.000 Arbeitsplätze pro Monat in der Industrie.",
+      "translated_text": "Germany is currently losing 10,000 jobs per month in manufacturing."
+    },
+    {
+      "text": "Ein wichtiger Grund ist die starke Konkurrenz aus China.",
+      "translated_text": "An important reason is the strong competition from China."
+    },
+    {
+      "text": "Chinesische Unternehmen produzieren viele Waren zu niedrigen Preisen.",
+      "translated_text": "Chinese companies produce many goods at low prices."
+    },
+    {
+      "text": "Das macht es für deutsche Firmen schwer, auf dem Weltmarkt zu bestehen.",
+      "translated_text": "This makes it difficult for German companies to survive in the global market."
+    },
+    {
+      "text": "Eine neue Studie zeigt, dass 41 Prozent der Industrieunternehmen in Deutschland im Jahr 2026 Stellen abbauen wollen.",
+      "translated_text": "A new study shows that 41 percent of industrial companies in Germany want to cut jobs in 2026."
+    },
+    {
+      "text": "Nur eines von sieben Unternehmen plant, neue Arbeitsplätze zu schaffen.",
+      "translated_text": "Only one in seven companies plans to create new jobs."
+    },
+    {
+      "text": "Besonders betroffen ist die Automobilindustrie.",
+      "translated_text": "The automotive industry is particularly affected."
+    },
+    {
+      "text": "Die Zahl der Beschäftigten in der deutschen Autoindustrie ist von 830.000 im Jahr 2018 auf etwa 770.000 gesunken.",
+      "translated_text": "The number of employees in the German automotive industry has fallen from 830,000 in 2018 to about 770,000."
+    },
+    {
+      "text": "Chinesische Autohersteller gewinnen immer mehr Marktanteile.",
+      "translated_text": "Chinese car manufacturers are gaining more and more market share."
+    },
+    {
+      "text": "Auch der Export leidet unter der Situation.",
+      "translated_text": "Exports are also suffering from the situation."
+    },
+    {
+      "text": "Hohe Zölle, ein starker Euro und der Wettbewerb mit China machen den deutschen Export schwierig.",
+      "translated_text": "High tariffs, a strong euro, and competition with China make German exports difficult."
+    },
+    {
+      "text": "Experten sind besorgt über die Zukunft der deutschen Industrie.",
+      "translated_text": "Experts are concerned about the future of German industry."
+    },
+    {
+      "text": "Die Regierung diskutiert über Maßnahmen, um die Wirtschaft zu unterstützen.",
+      "translated_text": "The government is discussing measures to support the economy."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Arbeitsplatz",
+      "translated_term": "job/workplace",
+      "example_usage": "Deutschland verliert derzeit 10.000 Arbeitsplätze pro Monat in der Industrie."
+    },
+    {
+      "term": "die Herausforderung",
+      "translated_term": "challenge",
+      "example_usage": "Die deutsche Wirtschaft steht vor großen Herausforderungen."
+    },
+    {
+      "term": "die Konkurrenz",
+      "translated_term": "competition",
+      "example_usage": "Ein wichtiger Grund ist die starke Konkurrenz aus China."
+    },
+    {
+      "term": "der Weltmarkt",
+      "translated_term": "global market",
+      "example_usage": "Das macht es für deutsche Firmen schwer, auf dem Weltmarkt zu bestehen."
+    },
+    {
+      "term": "bestehen",
+      "translated_term": "to survive/persist",
+      "example_usage": "Das macht es für deutsche Firmen schwer, auf dem Weltmarkt zu bestehen."
+    },
+    {
+      "term": "Stellen abbauen",
+      "translated_term": "to cut jobs",
+      "example_usage": "41 Prozent der Industrieunternehmen in Deutschland im Jahr 2026 Stellen abbauen wollen."
+    },
+    {
+      "term": "die Automobilindustrie",
+      "translated_term": "automotive industry",
+      "example_usage": "Besonders betroffen ist die Automobilindustrie."
+    },
+    {
+      "term": "der Beschäftigte",
+      "translated_term": "employee",
+      "example_usage": "Die Zahl der Beschäftigten in der deutschen Autoindustrie ist von 830.000 im Jahr 2018 auf etwa 770.000 gesunken."
+    },
+    {
+      "term": "der Marktanteil",
+      "translated_term": "market share",
+      "example_usage": "Chinesische Autohersteller gewinnen immer mehr Marktanteile."
+    },
+    {
+      "term": "der Export",
+      "translated_term": "export",
+      "example_usage": "Auch der Export leidet unter der Situation."
+    },
+    {
+      "term": "der Zoll",
+      "translated_term": "tariff/customs duty",
+      "example_usage": "Hohe Zölle, ein starker Euro und der Wettbewerb mit China machen den deutschen Export schwierig."
+    },
+    {
+      "term": "die Maßnahme",
+      "translated_term": "measure",
+      "example_usage": "Die Regierung diskutiert über Maßnahmen, um die Wirtschaft zu unterstützen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "China",
+      "translated_name": "China"
+    }
+  ],
+  "sources": [
+    {
+      "name": "German Marshall Fund",
+      "link_url": "https://www.gmfus.org/news/watching-china-europe-january-2026"
+    },
+    {
+      "name": "I Am Expat",
+      "link_url": "https://www.iamexpat.de/career/employment-news/one-third-companies-germany-cut-jobs-2026"
+    },
+    {
+      "name": "The Last Refuge",
+      "link_url": "https://theconservativetreehouse.com/blog/2025/12/29/half-of-germanys-manufacturing-sectors-anticipate-significant-layoffs-and-job-losses-in-2026/"
+    }
+  ]
+}
