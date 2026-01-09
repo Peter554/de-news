@@ -1,0 +1,122 @@
+{
+  "title": "Wintersturm bringt Schnee und Chaos nach Berlin",
+  "translated_title": "Winter Storm Brings Snow and Chaos to Berlin",
+  "text": [
+    {
+      "text": "Am Freitag, den 9. Januar 2026, erreichte ein starker Wintersturm Berlin und Brandenburg.",
+      "translated_text": "On Friday, January 9, 2026, a powerful winter storm reached Berlin and Brandenburg."
+    },
+    {
+      "text": "Der Deutsche Wetterdienst (DWD) hatte vor starkem Schneefall, Eisregen und starken Ostwinden gewarnt.",
+      "translated_text": "The German Weather Service (DWD) had warned of heavy snowfall, freezing rain, and strong easterly winds."
+    },
+    {
+      "text": "Viele Schulen in Berlin haben die Präsenzpflicht ausgesetzt.",
+      "translated_text": "Many schools in Berlin suspended compulsory attendance."
+    },
+    {
+      "text": "Eltern konnten selbst entscheiden, ob ihre Kinder am Freitag zur Schule gehen oder zu Hause bleiben sollten.",
+      "translated_text": "Parents could decide for themselves whether their children should go to school on Friday or stay at home."
+    },
+    {
+      "text": "Der Wintersturm verursachte auch große Probleme im Flugverkehr.",
+      "translated_text": "The winter storm also caused major problems in air traffic."
+    },
+    {
+      "text": "An deutschen Flughäfen wurden 44 Flüge gestrichen und 167 Flüge hatten Verspätung.",
+      "translated_text": "At German airports, 44 flights were canceled and 167 flights were delayed."
+    },
+    {
+      "text": "Der Flughafen München war besonders stark betroffen, mit neun Streichungen und 33 Verspätungen.",
+      "translated_text": "Munich Airport was particularly heavily affected, with nine cancellations and 33 delays."
+    },
+    {
+      "text": "Dichter Nebel und Schneestürme führten zu erheblichen Sichtproblemen.",
+      "translated_text": "Dense fog and snowstorms led to significant visibility problems."
+    },
+    {
+      "text": "Die Behörden rieten den Menschen, nur notwendige Reisen zu unternehmen.",
+      "translated_text": "The authorities advised people to only make necessary journeys."
+    },
+    {
+      "text": "Viele Bürger blieben zu Hause und warteten, bis das schlechte Wetter vorbeizog.",
+      "translated_text": "Many citizens stayed at home and waited until the bad weather passed."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Wintersturm",
+      "translated_term": "winter storm",
+      "example_usage": "Am Freitag, den 9. Januar 2026, erreichte ein starker Wintersturm Berlin und Brandenburg."
+    },
+    {
+      "term": "der Schneefall",
+      "translated_term": "snowfall",
+      "example_usage": "Der Deutsche Wetterdienst (DWD) hatte vor starkem Schneefall, Eisregen und starken Ostwinden gewarnt."
+    },
+    {
+      "term": "der Eisregen",
+      "translated_term": "freezing rain",
+      "example_usage": "Der Deutsche Wetterdienst (DWD) hatte vor starkem Schneefall, Eisregen und starken Ostwinden gewarnt."
+    },
+    {
+      "term": "die Präsenzpflicht",
+      "translated_term": "compulsory attendance",
+      "example_usage": "Viele Schulen in Berlin haben die Präsenzpflicht ausgesetzt."
+    },
+    {
+      "term": "aussetzen",
+      "translated_term": "to suspend",
+      "example_usage": "Viele Schulen in Berlin haben die Präsenzpflicht ausgesetzt."
+    },
+    {
+      "term": "der Flugverkehr",
+      "translated_term": "air traffic",
+      "example_usage": "Der Wintersturm verursachte auch große Probleme im Flugverkehr."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel",
+      "example_usage": "An deutschen Flughäfen wurden 44 Flüge gestrichen und 167 Flüge hatten Verspätung."
+    },
+    {
+      "term": "die Verspätung",
+      "translated_term": "delay",
+      "example_usage": "An deutschen Flughäfen wurden 44 Flüge gestrichen und 167 Flüge hatten Verspätung."
+    },
+    {
+      "term": "der Nebel",
+      "translated_term": "fog",
+      "example_usage": "Dichter Nebel und Schneestürme führten zu erheblichen Sichtproblemen."
+    },
+    {
+      "term": "die Behörden",
+      "translated_term": "authorities",
+      "example_usage": "Die Behörden rieten den Menschen, nur notwendige Reisen zu unternehmen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de",
+      "link_url": "https://www.berlin.de/en/news/10125484-5559700-winter-storm-on-friday-german-weather-se.en.html"
+    },
+    {
+      "name": "Travel And Tour World",
+      "link_url": "https://www.travelandtourworld.com/news/article/germany-hit-by-massive-travel-disruption-as-lufthansa-klm-ryanair-hop-eurowings-and-more-cancel-44-new-flights-and-167-delays-stranding-passengers-across-munich-berlin-frankfurt-hamburg-and-b/"
+    }
+  ]
+}

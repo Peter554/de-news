@@ -1,0 +1,122 @@
+{
+  "title": "Venezuela-Krise: USA und Ölinvestitionen",
+  "translated_title": "Venezuela Crisis: USA and Oil Investments",
+  "text": [
+    {
+      "text": "Die Situation in Venezuela bleibt sehr angespannt.",
+      "translated_text": "The situation in Venezuela remains very tense."
+    },
+    {
+      "text": "Anfang Januar 2026 starteten die USA eine militärische Operation gegen das Land.",
+      "translated_text": "At the beginning of January 2026, the USA launched a military operation against the country."
+    },
+    {
+      "text": "Die Operation fand in den frühen Morgenstunden des 3. Januar statt.",
+      "translated_text": "The operation took place in the early morning hours of January 3."
+    },
+    {
+      "text": "Der ehemalige Präsident Nicolás Maduro wurde von US-Truppen gefangen genommen.",
+      "translated_text": "Former President Nicolás Maduro was captured by US forces."
+    },
+    {
+      "text": "Maduro und seine Frau Cilia Flores plädieren vor einem US-Gericht auf nicht schuldig.",
+      "translated_text": "Maduro and his wife Cilia Flores are pleading not guilty in a US court."
+    },
+    {
+      "text": "Sie werden beschuldigt, in Drogenhandel und Narkoterrorismus verwickelt zu sein.",
+      "translated_text": "They are accused of being involved in drug trafficking and narcoterrorism."
+    },
+    {
+      "text": "Sie bleiben bis zu ihrem nächsten Gerichtstermin im März in Haft.",
+      "translated_text": "They will remain in custody until their next court hearing in March."
+    },
+    {
+      "text": "Am 9. Januar traf sich US-Präsident Trump mit Führungskräften großer Ölkonzerne.",
+      "translated_text": "On January 9, US President Trump met with executives from major oil companies."
+    },
+    {
+      "text": "Die 14 Unternehmen planen, mindestens 100 Milliarden Dollar in die venezolanische Ölindustrie zu investieren.",
+      "translated_text": "The 14 companies are planning to invest at least 100 billion dollars in the Venezuelan oil industry."
+    },
+    {
+      "text": "Währenddessen hielt das venezolanische Militär eine Massenbeerdigung für die während der US-Operation getöteten Soldaten ab.",
+      "translated_text": "Meanwhile, the Venezuelan military held a mass funeral for the soldiers killed during the US operation."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "angespannt",
+      "translated_term": "tense",
+      "example_usage": "Die Situation in Venezuela bleibt sehr angespannt."
+    },
+    {
+      "term": "die Operation",
+      "translated_term": "operation",
+      "example_usage": "Anfang Januar 2026 starteten die USA eine militärische Operation gegen das Land."
+    },
+    {
+      "term": "gefangen nehmen",
+      "translated_term": "to capture",
+      "example_usage": "Der ehemalige Präsident Nicolás Maduro wurde von US-Truppen gefangen genommen."
+    },
+    {
+      "term": "plädieren",
+      "translated_term": "to plead",
+      "example_usage": "Maduro und seine Frau Cilia Flores plädieren vor einem US-Gericht auf nicht schuldig."
+    },
+    {
+      "term": "der Drogenhandel",
+      "translated_term": "drug trafficking",
+      "example_usage": "Sie werden beschuldigt, in Drogenhandel und Narkoterrorismus verwickelt zu sein."
+    },
+    {
+      "term": "die Haft",
+      "translated_term": "custody, detention",
+      "example_usage": "Sie bleiben bis zu ihrem nächsten Gerichtstermin im März in Haft."
+    },
+    {
+      "term": "die Führungskraft",
+      "translated_term": "executive",
+      "example_usage": "Am 9. Januar traf sich US-Präsident Trump mit Führungskräften großer Ölkonzerne."
+    },
+    {
+      "term": "der Ölkonzern",
+      "translated_term": "oil company",
+      "example_usage": "Am 9. Januar traf sich US-Präsident Trump mit Führungskräften großer Ölkonzerne."
+    },
+    {
+      "term": "investieren",
+      "translated_term": "to invest",
+      "example_usage": "Die 14 Unternehmen planen, mindestens 100 Milliarden Dollar in die venezolanische Ölindustrie zu investieren."
+    },
+    {
+      "term": "die Beerdigung",
+      "translated_term": "funeral",
+      "example_usage": "Währenddessen hielt das venezolanische Militär eine Massenbeerdigung für die während der US-Operation getöteten Soldaten ab."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Venezuela",
+      "translated_name": "Venezuela"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda EN",
+      "link_url": "https://news-pravda.com/world/2026/01/09/1986627.html"
+    },
+    {
+      "name": "Pravda USA",
+      "link_url": "https://usa.news-pravda.com/world/2026/01/08/614375.html"
+    }
+  ]
+}
