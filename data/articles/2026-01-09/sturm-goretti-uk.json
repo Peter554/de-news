@@ -1,0 +1,122 @@
+{
+  "title": "Sturm Goretti sorgt für Reisechaos in Großbritannien",
+  "translated_title": "Storm Goretti Causes Travel Chaos in Great Britain",
+  "text": [
+    {
+      "text": "Vom 8. bis 9. Januar 2026 traf Sturm Goretti das Vereinigte Königreich hart.",
+      "translated_text": "From January 8 to 9, 2026, Storm Goretti hit the United Kingdom hard."
+    },
+    {
+      "text": "Der britische Wetterdienst gab eine gelbe Schneewarnung heraus.",
+      "translated_text": "The British weather service issued a yellow snow warning."
+    },
+    {
+      "text": "Die Warnung galt von Donnerstagabend 18 Uhr bis Freitagmittag 12 Uhr.",
+      "translated_text": "The warning was valid from Thursday evening at 6 p.m. until Friday noon at 12 p.m."
+    },
+    {
+      "text": "Große Teile Englands und Wales waren betroffen, einschließlich der Midlands, des Südwestens und Teilen von Yorkshire.",
+      "translated_text": "Large parts of England and Wales were affected, including the Midlands, the Southwest, and parts of Yorkshire."
+    },
+    {
+      "text": "Der Sturm führte zu massiven Störungen im Reiseverkehr.",
+      "translated_text": "The storm led to massive disruptions in travel."
+    },
+    {
+      "text": "Flughäfen, Fähren und Züge waren alle betroffen.",
+      "translated_text": "Airports, ferries, and trains were all affected."
+    },
+    {
+      "text": "Der Flughafen Jersey musste schließen, sollte aber am Freitag, den 9. Januar, wieder öffnen.",
+      "translated_text": "Jersey Airport had to close but was expected to reopen on Friday, January 9."
+    },
+    {
+      "text": "Trotzdem konnten einige Flüge weiterhin beeinträchtigt sein.",
+      "translated_text": "Nevertheless, some flights could still be affected."
+    },
+    {
+      "text": "Die Temperaturen lagen zwischen 1 und 6 Grad Celsius.",
+      "translated_text": "Temperatures ranged between 1 and 6 degrees Celsius."
+    },
+    {
+      "text": "Die Behörden empfahlen den Menschen, ihre Reisepläne zu überprüfen und bei schlechtem Wetter zu Hause zu bleiben.",
+      "translated_text": "The authorities recommended that people check their travel plans and stay at home in bad weather."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Sturm",
+      "translated_term": "storm",
+      "example_usage": "Vom 8. bis 9. Januar 2026 traf Sturm Goretti das Vereinigte Königreich hart."
+    },
+    {
+      "term": "die Warnung",
+      "translated_term": "warning",
+      "example_usage": "Der britische Wetterdienst gab eine gelbe Schneewarnung heraus."
+    },
+    {
+      "term": "herausgeben",
+      "translated_term": "to issue",
+      "example_usage": "Der britische Wetterdienst gab eine gelbe Schneewarnung heraus."
+    },
+    {
+      "term": "betroffen",
+      "translated_term": "affected",
+      "example_usage": "Große Teile Englands und Wales waren betroffen, einschließlich der Midlands, des Südwestens und Teilen von Yorkshire."
+    },
+    {
+      "term": "die Störung",
+      "translated_term": "disruption",
+      "example_usage": "Der Sturm führte zu massiven Störungen im Reiseverkehr."
+    },
+    {
+      "term": "die Fähre",
+      "translated_term": "ferry",
+      "example_usage": "Flughäfen, Fähren und Züge waren alle betroffen."
+    },
+    {
+      "term": "schließen",
+      "translated_term": "to close",
+      "example_usage": "Der Flughafen Jersey musste schließen, sollte aber am Freitag, den 9. Januar, wieder öffnen."
+    },
+    {
+      "term": "beeinträchtigt",
+      "translated_term": "affected, impaired",
+      "example_usage": "Trotzdem konnten einige Flüge weiterhin beeinträchtigt sein."
+    },
+    {
+      "term": "die Temperatur",
+      "translated_term": "temperature",
+      "example_usage": "Die Temperaturen lagen zwischen 1 und 6 Grad Celsius."
+    },
+    {
+      "term": "empfehlen",
+      "translated_term": "to recommend",
+      "example_usage": "Die Behörden empfahlen den Menschen, ihre Reisepläne zu überprüfen und bei schlechtem Wetter zu Hause zu bleiben."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    },
+    {
+      "name": "Reisen",
+      "translated_name": "Travel"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/travel/2026/01/08/ferries-airports-and-trains-travel-chaos-looms-as-uk-and-france-brace-for-storm-goretti"
+    },
+    {
+      "name": "Loganair",
+      "link_url": "https://www.loganair.co.uk/news/weather-warning-thursday-8-january-to-friday-9-january-2026/"
+    }
+  ]
+}
