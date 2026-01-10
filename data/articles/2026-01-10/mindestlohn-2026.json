@@ -1,0 +1,161 @@
+{
+  "title": "Neue Änderungen in Deutschland 2026: Mindestlohn und mehr",
+  "translated_title": "New Changes in Germany 2026: Minimum Wage and More",
+  "text": [
+    {
+      "text": "Seit dem 1. Januar 2026 gibt es wichtige Änderungen für Menschen in Deutschland.",
+      "translated_text": "Since January 1, 2026, there are important changes for people in Germany."
+    },
+    {
+      "text": "Der Mindestlohn ist auf 13,90 Euro pro Stunde gestiegen.",
+      "translated_text": "The minimum wage has increased to 13.90 euros per hour."
+    },
+    {
+      "text": "Die Verdienstgrenze für Minijobs wurde von 556 Euro auf 603 Euro pro Monat erhöht.",
+      "translated_text": "The earnings limit for mini-jobs was raised from 556 euros to 603 euros per month."
+    },
+    {
+      "text": "Der Grundfreibetrag für Steuern stieg auf 12.348 Euro.",
+      "translated_text": "The basic tax-free allowance rose to 12,348 euros."
+    },
+    {
+      "text": "Außerdem bekommen Familien jetzt mehr Kindergeld: 259 Euro pro Monat pro Kind, das sind 4 Euro mehr als vorher.",
+      "translated_text": "In addition, families now receive more child benefit: 259 euros per month per child, which is 4 euros more than before."
+    },
+    {
+      "text": "Auch das Deutschlandticket wurde teurer: Es kostet jetzt 63 Euro pro Monat statt 58 Euro.",
+      "translated_text": "The Deutschlandticket also became more expensive: it now costs 63 euros per month instead of 58 euros."
+    },
+    {
+      "text": "Die Pendlerpauschale wurde dauerhaft auf 38 Cent pro Kilometer vom ersten Kilometer an erhöht.",
+      "translated_text": "The commuter allowance was permanently increased to 38 cents per kilometer from the first kilometer."
+    },
+    {
+      "text": "Früher galt die höhere Rate erst ab dem 21. Kilometer.",
+      "translated_text": "Previously, the higher rate only applied from the 21st kilometer."
+    },
+    {
+      "text": "Eine wichtige Neuerung betrifft junge Menschen: Alle 18-jährigen deutschen Männer und Frauen erhalten einen Fragebogen zur Bundeswehr.",
+      "translated_text": "An important innovation affects young people: All 18-year-old German men and women receive a questionnaire about the armed forces."
+    },
+    {
+      "text": "Der Fragebogen prüft, ob sie für den Dienst bei der Bundeswehr geeignet und motiviert sind.",
+      "translated_text": "The questionnaire checks whether they are suitable and motivated for service in the armed forces."
+    },
+    {
+      "text": "Für Männer ist der Fragebogen Pflicht, für Frauen freiwillig.",
+      "translated_text": "The questionnaire is mandatory for men, voluntary for women."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Änderung",
+      "translated_term": "change",
+      "example_usage": "Seit dem 1. Januar 2026 gibt es wichtige Änderungen für Menschen in Deutschland."
+    },
+    {
+      "term": "der Mindestlohn",
+      "translated_term": "minimum wage",
+      "example_usage": "Der Mindestlohn ist auf 13,90 Euro pro Stunde gestiegen."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to increase, to rise",
+      "example_usage": "Der Mindestlohn ist auf 13,90 Euro pro Stunde gestiegen."
+    },
+    {
+      "term": "die Verdienstgrenze",
+      "translated_term": "earnings limit",
+      "example_usage": "Die Verdienstgrenze für Minijobs wurde von 556 Euro auf 603 Euro pro Monat erhöht."
+    },
+    {
+      "term": "der Minijob",
+      "translated_term": "mini-job (marginal employment)",
+      "example_usage": "Die Verdienstgrenze für Minijobs wurde von 556 Euro auf 603 Euro pro Monat erhöht."
+    },
+    {
+      "term": "erhöhen",
+      "translated_term": "to raise, to increase",
+      "example_usage": "Die Verdienstgrenze für Minijobs wurde von 556 Euro auf 603 Euro pro Monat erhöht."
+    },
+    {
+      "term": "der Grundfreibetrag",
+      "translated_term": "basic tax-free allowance",
+      "example_usage": "Der Grundfreibetrag für Steuern stieg auf 12.348 Euro."
+    },
+    {
+      "term": "das Kindergeld",
+      "translated_term": "child benefit",
+      "example_usage": "Außerdem bekommen Familien jetzt mehr Kindergeld: 259 Euro pro Monat pro Kind."
+    },
+    {
+      "term": "das Deutschlandticket",
+      "translated_term": "Germany ticket (nationwide public transport pass)",
+      "example_usage": "Auch das Deutschlandticket wurde teurer: Es kostet jetzt 63 Euro pro Monat statt 58 Euro."
+    },
+    {
+      "term": "die Pendlerpauschale",
+      "translated_term": "commuter allowance",
+      "example_usage": "Die Pendlerpauschale wurde dauerhaft auf 38 Cent pro Kilometer vom ersten Kilometer an erhöht."
+    },
+    {
+      "term": "dauerhaft",
+      "translated_term": "permanently",
+      "example_usage": "Die Pendlerpauschale wurde dauerhaft auf 38 Cent pro Kilometer vom ersten Kilometer an erhöht."
+    },
+    {
+      "term": "die Neuerung",
+      "translated_term": "innovation, new development",
+      "example_usage": "Eine wichtige Neuerung betrifft junge Menschen."
+    },
+    {
+      "term": "der Fragebogen",
+      "translated_term": "questionnaire",
+      "example_usage": "Alle 18-jährigen deutschen Männer und Frauen erhalten einen Fragebogen zur Bundeswehr."
+    },
+    {
+      "term": "die Bundeswehr",
+      "translated_term": "armed forces (German military)",
+      "example_usage": "Alle 18-jährigen deutschen Männer und Frauen erhalten einen Fragebogen zur Bundeswehr."
+    },
+    {
+      "term": "geeignet",
+      "translated_term": "suitable",
+      "example_usage": "Der Fragebogen prüft, ob sie für den Dienst bei der Bundeswehr geeignet und motiviert sind."
+    },
+    {
+      "term": "die Pflicht",
+      "translated_term": "duty, obligation",
+      "example_usage": "Für Männer ist der Fragebogen Pflicht, für Frauen freiwillig."
+    },
+    {
+      "term": "freiwillig",
+      "translated_term": "voluntary",
+      "example_usage": "Für Männer ist der Fragebogen Pflicht, für Frauen freiwillig."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    },
+    {
+      "name": "Sozialpolitik",
+      "translated_name": "Social Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local - Everything that changes in Germany in January 2026",
+      "link_url": "https://www.thelocal.de/20251231/everything-that-changes-in-germany-in-january-2026"
+    },
+    {
+      "name": "Deutschland.de - What will change for German citizens in 2026",
+      "link_url": "https://www.deutschland.de/en/news/taxes-minimum-wage-military-service-what-will-change-for-german-citizens-in-2026"
+    }
+  ]
+}

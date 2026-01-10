@@ -1,0 +1,147 @@
+{
+  "title": "Großbritannien und Frankreich wollen Ukraine unterstützen",
+  "translated_title": "Great Britain and France Want to Support Ukraine",
+  "text": [
+    {
+      "text": "Großbritannien und Frankreich haben eine wichtige Vereinbarung zur Ukraine getroffen.",
+      "translated_text": "Great Britain and France have reached an important agreement on Ukraine."
+    },
+    {
+      "text": "Am 6. Januar 2026 unterzeichneten die beiden Länder eine \"Absichtserklärung\".",
+      "translated_text": "On January 6, 2026, the two countries signed a 'Declaration of Intent'."
+    },
+    {
+      "text": "Darin erklären sie, dass sie bereit sind, Truppen in die Ukraine zu schicken, wenn es einen Waffenstillstand mit Russland gibt.",
+      "translated_text": "In it, they declare that they are ready to send troops to Ukraine if there is a ceasefire with Russia."
+    },
+    {
+      "text": "Der britische Premierminister Keir Starmer, der französische Präsident Emmanuel Macron und der ukrainische Präsident Wolodymyr Selenskyj waren bei der Unterzeichnung dabei.",
+      "translated_text": "British Prime Minister Keir Starmer, French President Emmanuel Macron, and Ukrainian President Volodymyr Zelensky were present at the signing."
+    },
+    {
+      "text": "Die Truppen sollen helfen, einen Friedensvertrag zu überwachen und die Sicherheit zu garantieren.",
+      "translated_text": "The troops are to help monitor a peace treaty and guarantee security."
+    },
+    {
+      "text": "Auch Deutschland könnte sich an einer solchen Mission beteiligen.",
+      "translated_text": "Germany could also participate in such a mission."
+    },
+    {
+      "text": "Der deutsche Kanzler Friedrich Merz sagte, dass deutsche Streitkräfte Teil einer multinationalen Truppe sein könnten, die einen Waffenstillstand überwacht.",
+      "translated_text": "German Chancellor Friedrich Merz said that German forces could be part of a multinational force monitoring a ceasefire."
+    },
+    {
+      "text": "Allerdings würde diese Truppe nur in Gebieten an der Grenze zur Ukraine stationiert werden, nicht in der Ukraine selbst.",
+      "translated_text": "However, this force would only be stationed in areas bordering Ukraine, not in Ukraine itself."
+    },
+    {
+      "text": "Die Vereinbarung zeigt, dass europäische Länder eine aktivere Rolle bei der Sicherung des Friedens in Europa spielen wollen.",
+      "translated_text": "The agreement shows that European countries want to play a more active role in securing peace in Europe."
+    },
+    {
+      "text": "Ob und wann ein solcher Waffenstillstand kommt, ist aber noch unklar.",
+      "translated_text": "However, whether and when such a ceasefire will come is still unclear."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Vereinbarung",
+      "translated_term": "agreement",
+      "example_usage": "Großbritannien und Frankreich haben eine wichtige Vereinbarung zur Ukraine getroffen."
+    },
+    {
+      "term": "unterzeichnen",
+      "translated_term": "to sign",
+      "example_usage": "Am 6. Januar 2026 unterzeichneten die beiden Länder eine \\\"Absichtserklärung\\\"."
+    },
+    {
+      "term": "die Absichtserklärung",
+      "translated_term": "declaration of intent",
+      "example_usage": "Am 6. Januar 2026 unterzeichneten die beiden Länder eine \\\"Absichtserklärung\\\"."
+    },
+    {
+      "term": "die Truppe",
+      "translated_term": "troops, forces",
+      "example_usage": "Darin erklären sie, dass sie bereit sind, Truppen in die Ukraine zu schicken."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "ceasefire",
+      "example_usage": "Sie sind bereit, Truppen in die Ukraine zu schicken, wenn es einen Waffenstillstand mit Russland gibt."
+    },
+    {
+      "term": "der Premierminister",
+      "translated_term": "prime minister",
+      "example_usage": "Der britische Premierminister Keir Starmer war bei der Unterzeichnung dabei."
+    },
+    {
+      "term": "der Präsident",
+      "translated_term": "president",
+      "example_usage": "Der französische Präsident Emmanuel Macron war bei der Unterzeichnung dabei."
+    },
+    {
+      "term": "überwachen",
+      "translated_term": "to monitor, to supervise",
+      "example_usage": "Die Truppen sollen helfen, einen Friedensvertrag zu überwachen."
+    },
+    {
+      "term": "der Friedensvertrag",
+      "translated_term": "peace treaty",
+      "example_usage": "Die Truppen sollen helfen, einen Friedensvertrag zu überwachen."
+    },
+    {
+      "term": "garantieren",
+      "translated_term": "to guarantee",
+      "example_usage": "Die Truppen sollen helfen, die Sicherheit zu garantieren."
+    },
+    {
+      "term": "sich beteiligen",
+      "translated_term": "to participate",
+      "example_usage": "Auch Deutschland könnte sich an einer solchen Mission beteiligen."
+    },
+    {
+      "term": "die Streitkräfte",
+      "translated_term": "armed forces",
+      "example_usage": "Der deutsche Kanzler Friedrich Merz sagte, dass deutsche Streitkräfte Teil einer multinationalen Truppe sein könnten."
+    },
+    {
+      "term": "stationieren",
+      "translated_term": "to station, to deploy",
+      "example_usage": "Diese Truppe würde nur in Gebieten an der Grenze zur Ukraine stationiert werden."
+    },
+    {
+      "term": "die Grenze",
+      "translated_term": "border",
+      "example_usage": "Diese Truppe würde nur in Gebieten an der Grenze zur Ukraine stationiert werden."
+    },
+    {
+      "term": "sichern",
+      "translated_term": "to secure",
+      "example_usage": "Europäische Länder wollen eine aktivere Rolle bei der Sicherung des Friedens in Europa spielen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Frankreich",
+      "translated_name": "France"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ABC News - France and UK commit to deploying troops to Ukraine",
+      "link_url": "https://abcnews.go.com/International/france-uk-commit-deploying-troops-ukraine-ceasefire-agreed/story?id=128958047"
+    },
+    {
+      "name": "The Local - Today in Germany roundup",
+      "link_url": "https://www.thelocal.de/20260107/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-102"
+    }
+  ]
+}
