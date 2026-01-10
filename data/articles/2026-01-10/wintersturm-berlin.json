@@ -1,0 +1,147 @@
+{
+  "title": "Wintersturm in Berlin und Brandenburg überstanden",
+  "translated_title": "Winter Storm in Berlin and Brandenburg Overcome",
+  "text": [
+    {
+      "text": "Berlin und Brandenburg haben einen starken Wintersturm mit Schneefall überstanden.",
+      "translated_text": "Berlin and Brandenburg have overcome a strong winter storm with snowfall."
+    },
+    {
+      "text": "Die schwere Wetterwarnung für starken Schneefall wurde am Freitag aufgehoben.",
+      "translated_text": "The severe weather warning for heavy snowfall was lifted on Friday."
+    },
+    {
+      "text": "Es fiel deutlich weniger Schnee als vorhergesagt, besonders in der nördlichen Hälfte von Brandenburg und in Berlin.",
+      "translated_text": "Significantly less snow fell than predicted, especially in the northern half of Brandenburg and in Berlin."
+    },
+    {
+      "text": "Trotzdem bleibt eine offizielle Warnung vor Schneeverwehungen bestehen.",
+      "translated_text": "Nevertheless, an official warning for snow drifts remains in place."
+    },
+    {
+      "text": "Wegen des Sturms wurde die Schulpflicht am Freitag ausgesetzt, aber am Montag beginnt der Unterricht wieder normal.",
+      "translated_text": "Because of the storm, compulsory school attendance was suspended on Friday, but classes will resume normally on Monday."
+    },
+    {
+      "text": "Der Flugverkehr am Berlin-Brandenburg Flughafen läuft trotz der Wettervorhersage normal.",
+      "translated_text": "Air traffic at Berlin-Brandenburg Airport is running normally despite the weather forecast."
+    },
+    {
+      "text": "Die Polizei warnt die Menschen davor, auf zugefrorenen Seen, Flüssen und Kanälen zu laufen.",
+      "translated_text": "The police are warning people not to walk on frozen lakes, rivers, and canals."
+    },
+    {
+      "text": "Gleichzeitig wurde die Stromversorgung in allen betroffenen Bezirken wiederhergestellt, einen Tag früher als geplant.",
+      "translated_text": "At the same time, power supply has been restored in all affected districts, one day ahead of schedule."
+    },
+    {
+      "text": "Die S-Bahn-Linien S1 und S7 fahren wieder im 10-Minuten-Takt.",
+      "translated_text": "The S1 and S7 city rail lines are running again at 10-minute intervals."
+    },
+    {
+      "text": "Die Berliner Stadtreinigung bietet bis zum 17. Januar kostenlose Entsorgung von verdorbenen Lebensmitteln für die vom Stromausfall Betroffenen an.",
+      "translated_text": "Berliner Stadtreinigung is offering free disposal of spoiled food until January 17 for those affected by the power outage."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Wintersturm",
+      "translated_term": "winter storm",
+      "example_usage": "Berlin und Brandenburg haben einen starken Wintersturm mit Schneefall überstanden."
+    },
+    {
+      "term": "überstehen",
+      "translated_term": "to overcome, to weather",
+      "example_usage": "Berlin und Brandenburg haben einen starken Wintersturm mit Schneefall überstanden."
+    },
+    {
+      "term": "die Wetterwarnung",
+      "translated_term": "weather warning",
+      "example_usage": "Die schwere Wetterwarnung für starken Schneefall wurde am Freitag aufgehoben."
+    },
+    {
+      "term": "aufheben",
+      "translated_term": "to lift, to cancel",
+      "example_usage": "Die schwere Wetterwarnung für starken Schneefall wurde am Freitag aufgehoben."
+    },
+    {
+      "term": "der Schneefall",
+      "translated_term": "snowfall",
+      "example_usage": "Die schwere Wetterwarnung für starken Schneefall wurde am Freitag aufgehoben."
+    },
+    {
+      "term": "vorhersagen",
+      "translated_term": "to predict, to forecast",
+      "example_usage": "Es fiel deutlich weniger Schnee als vorhergesagt."
+    },
+    {
+      "term": "die Schneeverwehung",
+      "translated_term": "snow drift",
+      "example_usage": "Trotzdem bleibt eine offizielle Warnung vor Schneeverwehungen bestehen."
+    },
+    {
+      "term": "die Schulpflicht",
+      "translated_term": "compulsory school attendance",
+      "example_usage": "Wegen des Sturms wurde die Schulpflicht am Freitag ausgesetzt."
+    },
+    {
+      "term": "aussetzen",
+      "translated_term": "to suspend",
+      "example_usage": "Wegen des Sturms wurde die Schulpflicht am Freitag ausgesetzt."
+    },
+    {
+      "term": "der Flugverkehr",
+      "translated_term": "air traffic",
+      "example_usage": "Der Flugverkehr am Berlin-Brandenburg Flughafen läuft trotz der Wettervorhersage normal."
+    },
+    {
+      "term": "zugefroren",
+      "translated_term": "frozen over",
+      "example_usage": "Die Polizei warnt die Menschen davor, auf zugefrorenen Seen, Flüssen und Kanälen zu laufen."
+    },
+    {
+      "term": "die Stromversorgung",
+      "translated_term": "power supply",
+      "example_usage": "Gleichzeitig wurde die Stromversorgung in allen betroffenen Bezirken wiederhergestellt."
+    },
+    {
+      "term": "wiederherstellen",
+      "translated_term": "to restore",
+      "example_usage": "Gleichzeitig wurde die Stromversorgung in allen betroffenen Bezirken wiederhergestellt."
+    },
+    {
+      "term": "der Stromausfall",
+      "translated_term": "power outage",
+      "example_usage": "Die Berliner Stadtreinigung bietet bis zum 17. Januar kostenlose Entsorgung von verdorbenen Lebensmitteln für die vom Stromausfall Betroffenen an."
+    },
+    {
+      "term": "die Entsorgung",
+      "translated_term": "disposal",
+      "example_usage": "Die Berliner Stadtreinigung bietet bis zum 17. Januar kostenlose Entsorgung von verdorbenen Lebensmitteln für die vom Stromausfall Betroffenen an."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de - Winter Storm Warning",
+      "link_url": "https://www.berlin.de/en/news/10125484-5559700-winter-storm-on-friday-german-weather-se.en.html"
+    },
+    {
+      "name": "Berlin.de - Power Supply Restored",
+      "link_url": "https://www.berlin.de/en/news/10113643-5559700-power-outage-in-the-southwest-50000-hous.en.html"
+    }
+  ]
+}

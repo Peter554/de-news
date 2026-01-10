@@ -1,0 +1,162 @@
+{
+  "title": "UN-Bericht: Weltwirtschaft wächst langsam",
+  "translated_title": "UN Report: World Economy Growing Slowly",
+  "text": [
+    {
+      "text": "Die Vereinten Nationen haben einen neuen Bericht über die Weltwirtschaft veröffentlicht.",
+      "translated_text": "The United Nations has published a new report on the world economy."
+    },
+    {
+      "text": "Der Bericht mit dem Titel \"Weltwirtschaftslage und Perspektiven 2026\" zeigt, dass die globale Wirtschaft nur langsam wächst.",
+      "translated_text": "The report titled 'World Economic Situation and Prospects 2026' shows that the global economy is growing only slowly."
+    },
+    {
+      "text": "Die Experten erwarten ein Wachstum von 2,7 Prozent im Jahr 2026.",
+      "translated_text": "The experts expect growth of 2.7 percent in 2026."
+    },
+    {
+      "text": "Das ist etwas weniger als die geschätzten 2,8 Prozent für 2025 und deutlich unter dem Durchschnitt vor der Pandemie von 3,2 Prozent.",
+      "translated_text": "This is slightly less than the estimated 2.8 percent for 2025 and significantly below the pre-pandemic average of 3.2 percent."
+    },
+    {
+      "text": "Geopolitische Risiken, politische Unsicherheit und finanzielle Herausforderungen belasten die Wirtschaft weltweit.",
+      "translated_text": "Geopolitical risks, political uncertainty, and financial challenges are weighing on the economy worldwide."
+    },
+    {
+      "text": "Für die USA wird ein Wirtschaftswachstum von 2,0 Prozent vorhergesagt.",
+      "translated_text": "For the USA, economic growth of 2.0 percent is predicted."
+    },
+    {
+      "text": "In der Europäischen Union wird die Wirtschaft voraussichtlich nur um 1,3 Prozent wachsen, das ist weniger als die 1,5 Prozent im Jahr 2025.",
+      "translated_text": "In the European Union, the economy is expected to grow by only 1.3 percent, which is less than the 1.5 percent in 2025."
+    },
+    {
+      "text": "Höhere amerikanische Zölle und anhaltende geopolitische Unsicherheit schwächen die Exporte.",
+      "translated_text": "Higher American tariffs and ongoing geopolitical uncertainty are weakening exports."
+    },
+    {
+      "text": "Indien zeigt hingegen eine starke wirtschaftliche Entwicklung mit einem erwarteten Wachstum von 6,6 Prozent.",
+      "translated_text": "India, on the other hand, shows strong economic development with expected growth of 6.6 percent."
+    },
+    {
+      "text": "Dieses Wachstum wird durch stabilen Konsum und große öffentliche Investitionen angetrieben.",
+      "translated_text": "This growth is driven by stable consumption and large public investments."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Vereinten Nationen",
+      "translated_term": "United Nations",
+      "example_usage": "Die Vereinten Nationen haben einen neuen Bericht über die Weltwirtschaft veröffentlicht."
+    },
+    {
+      "term": "veröffentlichen",
+      "translated_term": "to publish",
+      "example_usage": "Die Vereinten Nationen haben einen neuen Bericht über die Weltwirtschaft veröffentlicht."
+    },
+    {
+      "term": "der Bericht",
+      "translated_term": "report",
+      "example_usage": "Die Vereinten Nationen haben einen neuen Bericht über die Weltwirtschaft veröffentlicht."
+    },
+    {
+      "term": "die Weltwirtschaft",
+      "translated_term": "world economy",
+      "example_usage": "Die Vereinten Nationen haben einen neuen Bericht über die Weltwirtschaft veröffentlicht."
+    },
+    {
+      "term": "die Perspektive",
+      "translated_term": "prospect, outlook",
+      "example_usage": "Der Bericht mit dem Titel \\\"Weltwirtschaftslage und Perspektiven 2026\\\" zeigt, dass die globale Wirtschaft nur langsam wächst."
+    },
+    {
+      "term": "wachsen",
+      "translated_term": "to grow",
+      "example_usage": "Der Bericht zeigt, dass die globale Wirtschaft nur langsam wächst."
+    },
+    {
+      "term": "das Wachstum",
+      "translated_term": "growth",
+      "example_usage": "Die Experten erwarten ein Wachstum von 2,7 Prozent im Jahr 2026."
+    },
+    {
+      "term": "schätzen",
+      "translated_term": "to estimate",
+      "example_usage": "Das ist etwas weniger als die geschätzten 2,8 Prozent für 2025."
+    },
+    {
+      "term": "der Durchschnitt",
+      "translated_term": "average",
+      "example_usage": "Das ist deutlich unter dem Durchschnitt vor der Pandemie von 3,2 Prozent."
+    },
+    {
+      "term": "belasten",
+      "translated_term": "to burden, to weigh on",
+      "example_usage": "Geopolitische Risiken, politische Unsicherheit und finanzielle Herausforderungen belasten die Wirtschaft weltweit."
+    },
+    {
+      "term": "die Herausforderung",
+      "translated_term": "challenge",
+      "example_usage": "Finanzielle Herausforderungen belasten die Wirtschaft weltweit."
+    },
+    {
+      "term": "vorhersagen",
+      "translated_term": "to predict",
+      "example_usage": "Für die USA wird ein Wirtschaftswachstum von 2,0 Prozent vorhergesagt."
+    },
+    {
+      "term": "voraussichtlich",
+      "translated_term": "expected, presumably",
+      "example_usage": "In der Europäischen Union wird die Wirtschaft voraussichtlich nur um 1,3 Prozent wachsen."
+    },
+    {
+      "term": "der Zoll",
+      "translated_term": "tariff, customs duty",
+      "example_usage": "Höhere amerikanische Zölle schwächen die Exporte."
+    },
+    {
+      "term": "schwächen",
+      "translated_term": "to weaken",
+      "example_usage": "Höhere amerikanische Zölle und anhaltende geopolitische Unsicherheit schwächen die Exporte."
+    },
+    {
+      "term": "hingegen",
+      "translated_term": "on the other hand, however",
+      "example_usage": "Indien zeigt hingegen eine starke wirtschaftliche Entwicklung."
+    },
+    {
+      "term": "antreiben",
+      "translated_term": "to drive, to propel",
+      "example_usage": "Dieses Wachstum wird durch stabilen Konsum und große öffentliche Investitionen angetrieben."
+    },
+    {
+      "term": "die Investition",
+      "translated_term": "investment",
+      "example_usage": "Dieses Wachstum wird durch stabilen Konsum und große öffentliche Investitionen angetrieben."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Vereinte Nationen",
+      "translated_name": "United Nations"
+    }
+  ],
+  "sources": [
+    {
+      "name": "UN News - Global economy shows signs of steady but subdued growth",
+      "link_url": "https://news.un.org/en/story/2026/01/1166717"
+    },
+    {
+      "name": "UN Sustainable Development - Media Advisory on WESP 2026",
+      "link_url": "https://www.un.org/sustainabledevelopment/blog/2026/01/media-advisory-wesp2026/"
+    }
+  ]
+}
