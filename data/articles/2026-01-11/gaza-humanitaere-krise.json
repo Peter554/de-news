@@ -1,0 +1,122 @@
+{
+  "title": "Gaza: Säugling stirbt an extremer Kälte",
+  "translated_title": "Gaza: Infant Dies from Extreme Cold",
+  "text": [
+    {
+      "text": "Ein sieben Tage altes Baby ist in Gaza an extremer Kälte gestorben.",
+      "translated_text": "A seven-day-old baby has died in Gaza from extreme cold."
+    },
+    {
+      "text": "Der kleine Mahmoud Al-Aqraa starb in Deir el-Balah im zentralen Gaza-Streifen, wo die Temperaturen stark gesunken sind.",
+      "translated_text": "Little Mahmoud Al-Aqraa died in Deir el-Balah in the central Gaza Strip, where temperatures have dropped sharply."
+    },
+    {
+      "text": "Israel blockiert weiterhin lebenswichtige Hilfe, obwohl im Oktober ein Waffenstillstand vereinbart wurde.",
+      "translated_text": "Israel continues to block vital aid, although a ceasefire was agreed in October."
+    },
+    {
+      "text": "Die israelische Armee begrenzt die Anzahl der Zelte und dauerhaften Unterkünfte, die nach Gaza gelangen.",
+      "translated_text": "The Israeli army limits the number of tents and permanent shelters entering Gaza."
+    },
+    {
+      "text": "Seit dem Waffenstillstand haben israelische Angriffe mindestens 414 Palästinenser getötet.",
+      "translated_text": "Since the ceasefire, Israeli attacks have killed at least 414 Palestinians."
+    },
+    {
+      "text": "Die Vereinten Nationen schätzen, dass über eine Million Menschen dringend Unterkunft benötigen.",
+      "translated_text": "The United Nations estimates that over one million people urgently need shelter."
+    },
+    {
+      "text": "Fast 80 Prozent aller Gebäude in Gaza wurden während des mehr als zweijährigen Krieges zerstört oder beschädigt.",
+      "translated_text": "Almost 80 percent of all buildings in Gaza were destroyed or damaged during the more than two-year war."
+    },
+    {
+      "text": "Israel besetzt jetzt physisch mehr als 50 Prozent des Gaza-Streifens.",
+      "translated_text": "Israel now physically occupies more than 50 percent of the Gaza Strip."
+    },
+    {
+      "text": "Die humanitäre Lage verschlechtert sich täglich, besonders im Winter.",
+      "translated_text": "The humanitarian situation deteriorates daily, especially in winter."
+    },
+    {
+      "text": "Hilfsorganisationen fordern sofortigen Zugang, um Leben zu retten.",
+      "translated_text": "Aid organizations demand immediate access to save lives."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Säugling",
+      "translated_term": "infant",
+      "example_usage": "Ein sieben Tage altes Baby ist in Gaza an extremer Kälte gestorben."
+    },
+    {
+      "term": "die Kälte",
+      "translated_term": "cold",
+      "example_usage": "Ein sieben Tage altes Baby ist in Gaza an extremer Kälte gestorben."
+    },
+    {
+      "term": "blockieren",
+      "translated_term": "to block",
+      "example_usage": "Israel blockiert weiterhin lebenswichtige Hilfe."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "ceasefire",
+      "example_usage": "Obwohl im Oktober ein Waffenstillstand vereinbart wurde."
+    },
+    {
+      "term": "begrenzen",
+      "translated_term": "to limit",
+      "example_usage": "Die israelische Armee begrenzt die Anzahl der Zelte."
+    },
+    {
+      "term": "die Unterkunft",
+      "translated_term": "shelter",
+      "example_usage": "Über eine Million Menschen benötigen dringend Unterkunft."
+    },
+    {
+      "term": "zerstören",
+      "translated_term": "to destroy",
+      "example_usage": "Fast 80 Prozent aller Gebäude wurden zerstört oder beschädigt."
+    },
+    {
+      "term": "besetzen",
+      "translated_term": "to occupy",
+      "example_usage": "Israel besetzt jetzt physisch mehr als 50 Prozent des Gaza-Streifens."
+    },
+    {
+      "term": "sich verschlechtern",
+      "translated_term": "to deteriorate",
+      "example_usage": "Die humanitäre Lage verschlechtert sich täglich."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand",
+      "example_usage": "Hilfsorganisationen fordern sofortigen Zugang, um Leben zu retten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Gaza-Konflikt",
+      "translated_name": "Gaza Conflict"
+    },
+    {
+      "name": "Humanitäre Krise",
+      "translated_name": "Humanitarian Crisis"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2026/1/10/extreme-cold-kills-another-infant-in-gaza-as-israel-blocks-vital-aid"
+    },
+    {
+      "name": "UN News",
+      "link_url": "https://news.un.org/en/story/2026/01/1166694"
+    }
+  ]
+}
