@@ -1,0 +1,127 @@
+{
+  "title": "Ein Jahr nach den verheerenden Waldbränden in Los Angeles",
+  "translated_title": "One Year After the Devastating Wildfires in Los Angeles",
+  "text": [
+    {
+      "text": "Am 7. Januar 2026 jährt sich der Beginn der katastrophalen Waldbrände in Los Angeles zum ersten Mal.",
+      "translated_text": "On January 7, 2026, the beginning of the catastrophic wildfires in Los Angeles marks its first anniversary."
+    },
+    {
+      "text": "Die Feuer brachen im Januar 2025 aus und wurden zur zweit- und drittgrößten Katastrophe in der Geschichte Kaliforniens.",
+      "translated_text": "The fires broke out in January 2025 and became the second and third largest disaster in California's history."
+    },
+    {
+      "text": "31 Menschen starben und mehr als 16.000 Gebäude wurden zerstört.",
+      "translated_text": "31 people died and more than 16,000 buildings were destroyed."
+    },
+    {
+      "text": "Die Schäden werden auf 76 bis 131 Milliarden Dollar geschätzt.",
+      "translated_text": "The damages are estimated at 76 to 131 billion dollars."
+    },
+    {
+      "text": "Über 200.000 Menschen mussten ihre Häuser verlassen und evakuiert werden.",
+      "translated_text": "Over 200,000 people had to leave their homes and be evacuated."
+    },
+    {
+      "text": "Ganze Stadtteile in Altadena, Pasadena und Pacific Palisades wurden zu Asche.",
+      "translated_text": "Entire neighborhoods in Altadena, Pasadena, and Pacific Palisades were reduced to ash."
+    },
+    {
+      "text": "Die Brände entstanden trotz Winterzeit, als normalerweise weniger Waldbrände auftreten.",
+      "translated_text": "The fires arose despite wintertime, when wildfires normally occur less frequently."
+    },
+    {
+      "text": "Extrem trockene Bedingungen und starke Winde von fast 160 Kilometern pro Stunde schufen gefährliche Situationen.",
+      "translated_text": "Extremely dry conditions and strong winds of almost 160 kilometers per hour created dangerous situations."
+    },
+    {
+      "text": "Ein Jahr später ist der Wiederaufbau langsam: Weniger als tausend Gebäude sind im Bau.",
+      "translated_text": "One year later, reconstruction is slow: fewer than a thousand buildings are under construction."
+    },
+    {
+      "text": "Mehr als 1.100 Baugenehmigungen wurden jedoch bereits ausgestellt.",
+      "translated_text": "However, more than 1,100 building permits have already been issued."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Waldbrand",
+      "translated_term": "wildfire",
+      "example_usage": "Ein Jahr nach den verheerenden Waldbränden in Los Angeles."
+    },
+    {
+      "term": "verheerend",
+      "translated_term": "devastating",
+      "example_usage": "Nach den verheerenden Waldbränden in Los Angeles."
+    },
+    {
+      "term": "sich jähren",
+      "translated_term": "to mark an anniversary",
+      "example_usage": "Am 7. Januar 2026 jährt sich der Beginn zum ersten Mal."
+    },
+    {
+      "term": "ausbrechen",
+      "translated_term": "to break out",
+      "example_usage": "Die Feuer brachen im Januar 2025 aus."
+    },
+    {
+      "term": "die Katastrophe",
+      "translated_term": "disaster",
+      "example_usage": "Sie wurden zur zweit- und drittgrößten Katastrophe in der Geschichte Kaliforniens."
+    },
+    {
+      "term": "der Schaden",
+      "translated_term": "damage",
+      "example_usage": "Die Schäden werden auf 76 bis 131 Milliarden Dollar geschätzt."
+    },
+    {
+      "term": "evakuieren",
+      "translated_term": "to evacuate",
+      "example_usage": "Über 200.000 Menschen mussten evakuiert werden."
+    },
+    {
+      "term": "zu Asche werden",
+      "translated_term": "to be reduced to ash",
+      "example_usage": "Ganze Stadtteile wurden zu Asche."
+    },
+    {
+      "term": "auftreten",
+      "translated_term": "to occur",
+      "example_usage": "Als normalerweise weniger Waldbrände auftreten."
+    },
+    {
+      "term": "der Wiederaufbau",
+      "translated_term": "reconstruction",
+      "example_usage": "Ein Jahr später ist der Wiederaufbau langsam."
+    },
+    {
+      "term": "die Baugenehmigung",
+      "translated_term": "building permit",
+      "example_usage": "Mehr als 1.100 Baugenehmigungen wurden bereits ausgestellt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    },
+    {
+      "name": "Katastrophe",
+      "translated_name": "Disaster"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR",
+      "link_url": "https://www.npr.org/2026/01/07/nx-s1-5655224/one-year-los-angeles-fire-survivors-mark-a-somber-milestone"
+    },
+    {
+      "name": "NBC Los Angeles",
+      "link_url": "https://www.nbclosangeles.com/news/california-wildfires/la-fires-palisades-eaton-wildfires/3819751/"
+    }
+  ]
+}

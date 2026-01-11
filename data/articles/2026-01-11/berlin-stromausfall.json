@@ -1,0 +1,127 @@
+{
+  "title": "Berliner Stromausfall: Die längste Unterbrechung seit 1945",
+  "translated_title": "Berlin Power Outage: The Longest Interruption Since 1945",
+  "text": [
+    {
+      "text": "Berlin hat den längsten Stromausfall seit dem Ende des Zweiten Weltkriegs erlebt.",
+      "translated_text": "Berlin has experienced the longest power outage since the end of World War II."
+    },
+    {
+      "text": "Fast 100.000 Menschen waren mehrere Tage ohne Elektrizität, während die Temperaturen unter null Grad fielen.",
+      "translated_text": "Almost 100,000 people were without electricity for several days while temperatures fell below zero degrees."
+    },
+    {
+      "text": "Die Behörden sagen, dass ein Brandanschlag auf die Stromversorgung der Stadt die Ursache war.",
+      "translated_text": "The authorities say that an arson attack on the city's power supply was the cause."
+    },
+    {
+      "text": "Am Samstag haben unbekannte Personen wichtige Stromleitungen in Brand gesetzt.",
+      "translated_text": "On Saturday, unknown persons set important power lines on fire."
+    },
+    {
+      "text": "Die Polizei vermutet, dass linksradikale Aktivisten hinter dem Anschlag stehen.",
+      "translated_text": "The police suspect that left-wing radical activists are behind the attack."
+    },
+    {
+      "text": "Der Stromversorger begann am Mittwochmorgen um 11 Uhr, die Stromversorgung schrittweise wiederherzustellen.",
+      "translated_text": "The electricity provider began to gradually restore the power supply on Wednesday morning at 11 o'clock."
+    },
+    {
+      "text": "Die Bewohner wurden gewarnt, nicht sofort alle elektrischen Geräte einzuschalten.",
+      "translated_text": "Residents were warned not to switch on all electrical devices immediately."
+    },
+    {
+      "text": "Viele Menschen mussten bei eisigen Temperaturen in ihren kalten Wohnungen ausharren.",
+      "translated_text": "Many people had to endure icy temperatures in their cold apartments."
+    },
+    {
+      "text": "Der Vorfall zeigt die Verwundbarkeit der deutschen Infrastruktur.",
+      "translated_text": "The incident shows the vulnerability of German infrastructure."
+    },
+    {
+      "text": "Experten fordern jetzt bessere Sicherheitsmaßnahmen für kritische Versorgungseinrichtungen.",
+      "translated_text": "Experts are now demanding better security measures for critical supply facilities."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Stromausfall",
+      "translated_term": "power outage",
+      "example_usage": "Berlin hat den längsten Stromausfall seit dem Ende des Zweiten Weltkriegs erlebt."
+    },
+    {
+      "term": "die Unterbrechung",
+      "translated_term": "interruption",
+      "example_usage": "Die längste Unterbrechung seit 1945."
+    },
+    {
+      "term": "die Elektrizität",
+      "translated_term": "electricity",
+      "example_usage": "Fast 100.000 Menschen waren mehrere Tage ohne Elektrizität."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "authority",
+      "example_usage": "Die Behörden sagen, dass ein Brandanschlag die Ursache war."
+    },
+    {
+      "term": "der Brandanschlag",
+      "translated_term": "arson attack",
+      "example_usage": "Die Behörden sagen, dass ein Brandanschlag auf die Stromversorgung der Stadt die Ursache war."
+    },
+    {
+      "term": "die Stromversorgung",
+      "translated_term": "power supply",
+      "example_usage": "Ein Brandanschlag auf die Stromversorgung der Stadt."
+    },
+    {
+      "term": "vermuten",
+      "translated_term": "to suspect",
+      "example_usage": "Die Polizei vermutet, dass linksradikale Aktivisten hinter dem Anschlag stehen."
+    },
+    {
+      "term": "wiederherstellen",
+      "translated_term": "to restore",
+      "example_usage": "Der Stromversorger begann, die Stromversorgung schrittweise wiederherzustellen."
+    },
+    {
+      "term": "ausharren",
+      "translated_term": "to endure",
+      "example_usage": "Viele Menschen mussten bei eisigen Temperaturen in ihren kalten Wohnungen ausharren."
+    },
+    {
+      "term": "die Verwundbarkeit",
+      "translated_term": "vulnerability",
+      "example_usage": "Der Vorfall zeigt die Verwundbarkeit der deutschen Infrastruktur."
+    },
+    {
+      "term": "die Sicherheitsmaßnahme",
+      "translated_term": "security measure",
+      "example_usage": "Experten fordern jetzt bessere Sicherheitsmaßnahmen für kritische Versorgungseinrichtungen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Washington Post",
+      "link_url": "https://www.washingtonpost.com/world/2026/01/10/berlin-blackout-germany-vulernable-infrastructure/"
+    },
+    {
+      "name": "CNN",
+      "link_url": "https://www.cnn.com/2026/01/07/europe/berlin-power-outage-intl"
+    }
+  ]
+}
