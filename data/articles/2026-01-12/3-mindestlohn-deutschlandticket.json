@@ -1,0 +1,139 @@
+{
+  "title": "Mehr Mindestlohn, teureres Deutschlandticket",
+  "translated_title": "Higher Minimum Wage, More Expensive Deutschlandticket",
+  "text": [
+    {
+      "text": "Seit dem 1. Januar 2026 gibt es in Deutschland wichtige Änderungen.",
+      "translated_text": "Since January 1, 2026, there have been important changes in Germany."
+    },
+    {
+      "text": "Der gesetzliche Mindestlohn ist von 12,82 Euro auf 13,90 Euro pro Stunde gestiegen.",
+      "translated_text": "The statutory minimum wage has risen from 12.82 euros to 13.90 euros per hour."
+    },
+    {
+      "text": "Das ist die größte Mindestlohnerhöhung in der deutschen Geschichte.",
+      "translated_text": "This is the largest minimum wage increase in German history."
+    },
+    {
+      "text": "Die Regierung sagt, dass diese Erhöhung vielen Arbeitnehmern hilft.",
+      "translated_text": "The government says that this increase helps many workers."
+    },
+    {
+      "text": "Am 1. Januar 2027 wird der Mindestlohn noch einmal steigen, auf 14,60 Euro pro Stunde.",
+      "translated_text": "On January 1, 2027, the minimum wage will rise again, to 14.60 euros per hour."
+    },
+    {
+      "text": "Gleichzeitig ist das Deutschlandticket teurer geworden.",
+      "translated_text": "At the same time, the Deutschlandticket has become more expensive."
+    },
+    {
+      "text": "Es kostet jetzt 63 Euro pro Monat statt 58 Euro.",
+      "translated_text": "It now costs 63 euros per month instead of 58 euros."
+    },
+    {
+      "text": "Das Deutschlandticket wurde im Mai 2023 eingeführt und kostete damals 49 Euro.",
+      "translated_text": "The Deutschlandticket was introduced in May 2023 and cost 49 euros at the time."
+    },
+    {
+      "text": "Die Verkehrsminister sagen, dass höhere Energie- und Lohnkosten der Grund für die Preiserhöhung sind.",
+      "translated_text": "The transport ministers say that higher energy and wage costs are the reason for the price increase."
+    },
+    {
+      "text": "Etwa 14 Millionen Menschen in Deutschland nutzen das Ticket.",
+      "translated_text": "About 14 million people in Germany use the ticket."
+    },
+    {
+      "text": "Für sie bedeutet die Änderung 60 Euro mehr pro Jahr.",
+      "translated_text": "For them, the change means 60 euros more per year."
+    },
+    {
+      "text": "Auch bei Minijobs gibt es eine Änderung: Arbeitnehmer können jetzt bis zu 603 Euro pro Monat steuerfrei verdienen.",
+      "translated_text": "There is also a change for mini-jobs: employees can now earn up to 603 euros per month tax-free."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Änderung",
+      "translated_term": "the change",
+      "example_usage": "Seit dem 1. Januar 2026 gibt es in Deutschland wichtige Änderungen."
+    },
+    {
+      "term": "der Mindestlohn",
+      "translated_term": "the minimum wage",
+      "example_usage": "Der gesetzliche Mindestlohn ist von 12,82 Euro auf 13,90 Euro pro Stunde gestiegen."
+    },
+    {
+      "term": "gesetzlich",
+      "translated_term": "statutory / legal",
+      "example_usage": "Der gesetzliche Mindestlohn ist von 12,82 Euro auf 13,90 Euro pro Stunde gestiegen."
+    },
+    {
+      "term": "die Erhöhung",
+      "translated_term": "the increase",
+      "example_usage": "Die Regierung sagt, dass diese Erhöhung vielen Arbeitnehmern hilft."
+    },
+    {
+      "term": "der Arbeitnehmer",
+      "translated_term": "the employee / worker",
+      "example_usage": "Die Regierung sagt, dass diese Erhöhung vielen Arbeitnehmern hilft."
+    },
+    {
+      "term": "gleichzeitig",
+      "translated_term": "at the same time / simultaneously",
+      "example_usage": "Gleichzeitig ist das Deutschlandticket teurer geworden."
+    },
+    {
+      "term": "einführen",
+      "translated_term": "to introduce",
+      "example_usage": "Das Deutschlandticket wurde im Mai 2023 eingeführt und kostete damals 49 Euro."
+    },
+    {
+      "term": "die Preiserhöhung",
+      "translated_term": "the price increase",
+      "example_usage": "Die Verkehrsminister sagen, dass höhere Energie- und Lohnkosten der Grund für die Preiserhöhung sind."
+    },
+    {
+      "term": "nutzen",
+      "translated_term": "to use",
+      "example_usage": "Etwa 14 Millionen Menschen in Deutschland nutzen das Ticket."
+    },
+    {
+      "term": "der Minijob",
+      "translated_term": "the mini-job",
+      "example_usage": "Auch bei Minijobs gibt es eine Änderung."
+    },
+    {
+      "term": "steuerfrei",
+      "translated_term": "tax-free",
+      "example_usage": "Arbeitnehmer können jetzt bis zu 603 Euro pro Monat steuerfrei verdienen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Sozialpolitik",
+      "translated_name": "Social Policy"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "I Am Expat",
+      "link_url": "https://www.iamexpat.de/expat-info/germany-news/2026-germany-all-changes-you-need-know-about"
+    },
+    {
+      "name": "VisaHQ",
+      "link_url": "https://www.visahq.com/news/2025-12-28/de/deutschlandticket-price-rises-to-63-as-2026-mobility-reforms-take-effect/"
+    },
+    {
+      "name": "Deutschland.de",
+      "link_url": "https://www.deutschland.de/en/news/taxes-minimum-wage-military-service-what-will-change-for-german-citizens-in-2026"
+    }
+  ]
+}

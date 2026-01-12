@@ -1,0 +1,139 @@
+{
+  "title": "Deutsche Industrie verliert 10.000 Jobs pro Monat",
+  "translated_title": "German Industry Loses 10,000 Jobs per Month",
+  "text": [
+    {
+      "text": "Deutschland hat große wirtschaftliche Probleme.",
+      "translated_text": "Germany has major economic problems."
+    },
+    {
+      "text": "Jeden Monat verliert die deutsche Industrie etwa 10.000 Arbeitsplätze.",
+      "translated_text": "Every month, German industry loses about 10,000 jobs."
+    },
+    {
+      "text": "Der Hauptgrund ist die starke Konkurrenz aus China.",
+      "translated_text": "The main reason is the strong competition from China."
+    },
+    {
+      "text": "Früher war Deutschland führend in Bereichen wie Maschinenbau, Chemie und Automobilindustrie.",
+      "translated_text": "Germany used to be a leader in areas such as mechanical engineering, chemistry, and the automotive industry."
+    },
+    {
+      "text": "Jetzt haben chinesische Firmen viele deutsche Champions überholt.",
+      "translated_text": "Now Chinese companies have overtaken many German champions."
+    },
+    {
+      "text": "Seit 2018 ist die industrielle Produktion in Deutschland um 15 Prozent gefallen.",
+      "translated_text": "Since 2018, industrial production in Germany has fallen by 15 percent."
+    },
+    {
+      "text": "Deutschland importiert heute mehr Investitionsgüter aus China, als es dorthin exportiert.",
+      "translated_text": "Germany today imports more capital goods from China than it exports there."
+    },
+    {
+      "text": "Besonders schwierig ist die Situation für die deutschen Autohersteller.",
+      "translated_text": "The situation is particularly difficult for German car manufacturers."
+    },
+    {
+      "text": "Sie verdienen weniger Geld in China und müssen gegen chinesische Elektroautos kämpfen.",
+      "translated_text": "They earn less money in China and have to fight against Chinese electric cars."
+    },
+    {
+      "text": "Viele deutsche Unternehmen fordern jetzt Schutzmaßnahmen von der Europäischen Union.",
+      "translated_text": "Many German companies are now demanding protective measures from the European Union."
+    },
+    {
+      "text": "Die Regierung plant, die wirtschaftliche Abhängigkeit von China zu reduzieren.",
+      "translated_text": "The government plans to reduce economic dependence on China."
+    },
+    {
+      "text": "Es ist unklar, ob diese Maßnahmen den Jobverlust stoppen können.",
+      "translated_text": "It is unclear whether these measures can stop the job losses."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Arbeitsplatz",
+      "translated_term": "the job / workplace",
+      "example_usage": "Jeden Monat verliert die deutsche Industrie etwa 10.000 Arbeitsplätze."
+    },
+    {
+      "term": "die Konkurrenz",
+      "translated_term": "the competition",
+      "example_usage": "Der Hauptgrund ist die starke Konkurrenz aus China."
+    },
+    {
+      "term": "führend",
+      "translated_term": "leading",
+      "example_usage": "Früher war Deutschland führend in Bereichen wie Maschinenbau, Chemie und Automobilindustrie."
+    },
+    {
+      "term": "der Maschinenbau",
+      "translated_term": "mechanical engineering",
+      "example_usage": "Früher war Deutschland führend in Bereichen wie Maschinenbau, Chemie und Automobilindustrie."
+    },
+    {
+      "term": "überholen",
+      "translated_term": "to overtake",
+      "example_usage": "Jetzt haben chinesische Firmen viele deutsche Champions überholt."
+    },
+    {
+      "term": "das Investitionsgut",
+      "translated_term": "the capital good",
+      "example_usage": "Deutschland importiert heute mehr Investitionsgüter aus China, als es dorthin exportiert."
+    },
+    {
+      "term": "der Autohersteller",
+      "translated_term": "the car manufacturer",
+      "example_usage": "Besonders schwierig ist die Situation für die deutschen Autohersteller."
+    },
+    {
+      "term": "kämpfen",
+      "translated_term": "to fight",
+      "example_usage": "Sie verdienen weniger Geld in China und müssen gegen chinesische Elektroautos kämpfen."
+    },
+    {
+      "term": "die Schutzmaßnahme",
+      "translated_term": "the protective measure",
+      "example_usage": "Viele deutsche Unternehmen fordern jetzt Schutzmaßnahmen von der Europäischen Union."
+    },
+    {
+      "term": "die Abhängigkeit",
+      "translated_term": "the dependence",
+      "example_usage": "Die Regierung plant, die wirtschaftliche Abhängigkeit von China zu reduzieren."
+    },
+    {
+      "term": "der Jobverlust",
+      "translated_term": "the job loss",
+      "example_usage": "Es ist unklar, ob diese Maßnahmen den Jobverlust stoppen können."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "China",
+      "translated_name": "China"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "German Marshall Fund",
+      "link_url": "https://www.gmfus.org/news/watching-china-europe-january-2026"
+    },
+    {
+      "name": "Recruitonomics",
+      "link_url": "https://recruitonomics.com/germanys-manufacturing-sector-imperiled-by-china-shock/"
+    },
+    {
+      "name": "Tekedia",
+      "link_url": "https://www.tekedia.com/germanys-factory-downturn-deepens-at-end-of-2025-as-exports-slump-jobs-are-cut-and-recovery-hinges-on-2026-spending-push/"
+    }
+  ]
+}
