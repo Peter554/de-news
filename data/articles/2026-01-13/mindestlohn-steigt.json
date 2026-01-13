@@ -1,0 +1,126 @@
+{
+  "title": "Mindestlohn steigt auf 13,90 Euro",
+  "translated_title": "Minimum Wage Rises to 13.90 Euros",
+  "text": [
+    {
+      "text": "Der gesetzliche Mindestlohn in Deutschland ist im Januar 2026 auf 13,90 Euro pro Stunde gestiegen.",
+      "translated_text": "The statutory minimum wage in Germany rose to 13.90 euros per hour in January 2026."
+    },
+    {
+      "text": "Diese Erhöhung bringt Millionen von Arbeitnehmern mehr Geld.",
+      "translated_text": "This increase brings millions of workers more money."
+    },
+    {
+      "text": "Auch die Minijob-Grenze wurde erhöht.",
+      "translated_text": "The mini-job limit was also raised."
+    },
+    {
+      "text": "Jetzt können Minijobber bis zu 603 Euro pro Monat verdienen, ohne in eine höhere Steuerklasse zu kommen.",
+      "translated_text": "Now mini-jobbers can earn up to 603 euros per month without entering a higher tax bracket."
+    },
+    {
+      "text": "Das ist besonders wichtig für Studenten und Teilzeitarbeiter.",
+      "translated_text": "This is especially important for students and part-time workers."
+    },
+    {
+      "text": "Für Auszubildende gibt es auch gute Nachrichten.",
+      "translated_text": "There is also good news for trainees."
+    },
+    {
+      "text": "Die Mindestvergütung für Azubis im ersten Jahr liegt jetzt bei 724 Euro monatlich.",
+      "translated_text": "The minimum pay for apprentices in the first year is now 724 euros per month."
+    },
+    {
+      "text": "Im vierten Ausbildungsjahr können sie bis zu 1.014 Euro bekommen.",
+      "translated_text": "In the fourth training year they can receive up to 1,014 euros."
+    },
+    {
+      "text": "Gleichzeitig wurde der steuerfreie Grundfreibetrag auf 12.348 Euro erhöht.",
+      "translated_text": "At the same time, the tax-free basic allowance was increased to 12,348 euros."
+    },
+    {
+      "text": "Das bedeutet, dass Menschen weniger Steuern zahlen müssen.",
+      "translated_text": "This means that people have to pay less tax."
+    },
+    {
+      "text": "Das Kindergeld wurde um vier Euro erhöht und liegt jetzt bei 259 Euro pro Kind.",
+      "translated_text": "Child benefit was increased by four euros and is now 259 euros per child."
+    },
+    {
+      "text": "Diese Änderungen sollen den Menschen helfen, mit den steigenden Lebenshaltungskosten besser zurechtzukommen.",
+      "translated_text": "These changes are intended to help people cope better with rising living costs."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Mindestlohn",
+      "translated_term": "minimum wage",
+      "example_usage": "Der gesetzliche Mindestlohn in Deutschland ist im Januar 2026 auf 13,90 Euro pro Stunde gestiegen."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise, to increase",
+      "example_usage": "Der gesetzliche Mindestlohn in Deutschland ist im Januar 2026 auf 13,90 Euro pro Stunde gestiegen."
+    },
+    {
+      "term": "die Erhöhung",
+      "translated_term": "increase, raise",
+      "example_usage": "Diese Erhöhung bringt Millionen von Arbeitnehmern mehr Geld."
+    },
+    {
+      "term": "der Arbeitnehmer",
+      "translated_term": "employee, worker",
+      "example_usage": "Diese Erhöhung bringt Millionen von Arbeitnehmern mehr Geld."
+    },
+    {
+      "term": "die Steuerklasse",
+      "translated_term": "tax bracket",
+      "example_usage": "Jetzt können Minijobber bis zu 603 Euro pro Monat verdienen, ohne in eine höhere Steuerklasse zu kommen."
+    },
+    {
+      "term": "der Auszubildende",
+      "translated_term": "trainee, apprentice",
+      "example_usage": "Für Auszubildende gibt es auch gute Nachrichten."
+    },
+    {
+      "term": "die Mindestvergütung",
+      "translated_term": "minimum compensation",
+      "example_usage": "Die Mindestvergütung für Azubis im ersten Jahr liegt jetzt bei 724 Euro monatlich."
+    },
+    {
+      "term": "der Grundfreibetrag",
+      "translated_term": "basic tax-free allowance",
+      "example_usage": "Gleichzeitig wurde der steuerfreie Grundfreibetrag auf 12.348 Euro erhöht."
+    },
+    {
+      "term": "das Kindergeld",
+      "translated_term": "child benefit",
+      "example_usage": "Das Kindergeld wurde um vier Euro erhöht und liegt jetzt bei 259 Euro pro Kind."
+    },
+    {
+      "term": "die Lebenshaltungskosten",
+      "translated_term": "living costs, cost of living",
+      "example_usage": "Diese Änderungen sollen den Menschen helfen, mit den steigenden Lebenshaltungskosten besser zurechtzukommen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local",
+      "link_url": "https://www.thelocal.de/20251231/everything-that-changes-in-germany-in-january-2026"
+    }
+  ]
+}

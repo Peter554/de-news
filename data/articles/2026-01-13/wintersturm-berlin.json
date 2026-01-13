@@ -1,0 +1,126 @@
+{
+  "title": "Wintersturm bringt Schnee und Eis nach Berlin und Brandenburg",
+  "translated_title": "Winter Storm Brings Snow and Ice to Berlin and Brandenburg",
+  "text": [
+    {
+      "text": "Ein Wintersturm hat Berlin und Brandenburg am Wochenende erreicht.",
+      "translated_text": "A winter storm reached Berlin and Brandenburg over the weekend."
+    },
+    {
+      "text": "Der Deutsche Wetterdienst hatte vor starkem Schneefall gewarnt.",
+      "translated_text": "The German Weather Service had warned of heavy snowfall."
+    },
+    {
+      "text": "Am Ende fiel aber weniger Schnee als erwartet.",
+      "translated_text": "In the end, however, less snow fell than expected."
+    },
+    {
+      "text": "Trotzdem blieben viele Straßen und Gehwege sehr glatt.",
+      "translated_text": "Nevertheless, many roads and sidewalks remained very slippery."
+    },
+    {
+      "text": "Die Behörden haben die Schulpflicht für Freitag aufgehoben.",
+      "translated_text": "The authorities suspended compulsory school attendance for Friday."
+    },
+    {
+      "text": "Eltern konnten selbst entscheiden, ob ihre Kinder zur Schule gehen sollten.",
+      "translated_text": "Parents could decide for themselves whether their children should go to school."
+    },
+    {
+      "text": "Viele Unfälle passierten wegen des glatten Eises.",
+      "translated_text": "Many accidents happened because of the slippery ice."
+    },
+    {
+      "text": "Das Unfallkrankenhaus in Berlin war sehr voll.",
+      "translated_text": "The accident hospital in Berlin was very full."
+    },
+    {
+      "text": "Die Polizei warnte die Menschen vor gefrorenen Seen.",
+      "translated_text": "The police warned people about frozen lakes."
+    },
+    {
+      "text": "Das Eis auf den Seen ist noch nicht dick genug und kann brechen.",
+      "translated_text": "The ice on the lakes is not yet thick enough and can break."
+    },
+    {
+      "text": "Die öffentlichen Verkehrsmittel konnten weiter fahren.",
+      "translated_text": "Public transport was able to continue running."
+    },
+    {
+      "text": "BVG und S-Bahn waren gut vorbereitet und hatten nur kleine Probleme.",
+      "translated_text": "BVG and S-Bahn were well prepared and had only minor problems."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Wintersturm",
+      "translated_term": "winter storm",
+      "example_usage": "Ein Wintersturm hat Berlin und Brandenburg am Wochenende erreicht."
+    },
+    {
+      "term": "warnen",
+      "translated_term": "to warn",
+      "example_usage": "Der Deutsche Wetterdienst hatte vor starkem Schneefall gewarnt."
+    },
+    {
+      "term": "der Schneefall",
+      "translated_term": "snowfall",
+      "example_usage": "Der Deutsche Wetterdienst hatte vor starkem Schneefall gewarnt."
+    },
+    {
+      "term": "glatt",
+      "translated_term": "slippery, smooth",
+      "example_usage": "Trotzdem blieben viele Straßen und Gehwege sehr glatt."
+    },
+    {
+      "term": "die Schulpflicht",
+      "translated_term": "compulsory school attendance",
+      "example_usage": "Die Behörden haben die Schulpflicht für Freitag aufgehoben."
+    },
+    {
+      "term": "aufheben",
+      "translated_term": "to suspend, to cancel",
+      "example_usage": "Die Behörden haben die Schulpflicht für Freitag aufgehoben."
+    },
+    {
+      "term": "der Unfall",
+      "translated_term": "accident",
+      "example_usage": "Viele Unfälle passierten wegen des glatten Eises."
+    },
+    {
+      "term": "gefroren",
+      "translated_term": "frozen",
+      "example_usage": "Die Polizei warnte die Menschen vor gefrorenen Seen."
+    },
+    {
+      "term": "brechen",
+      "translated_term": "to break",
+      "example_usage": "Das Eis auf den Seen ist noch nicht dick genug und kann brechen."
+    },
+    {
+      "term": "öffentliche Verkehrsmittel",
+      "translated_term": "public transport",
+      "example_usage": "Die öffentlichen Verkehrsmittel konnten weiter fahren."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de",
+      "link_url": "https://www.berlin.de/en/news/10125484-5559700-winter-storm-on-friday-german-weather-se.en.html"
+    }
+  ]
+}
