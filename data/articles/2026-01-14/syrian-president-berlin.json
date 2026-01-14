@@ -1,0 +1,118 @@
+{
+  "title": "Syrischer Präsident besucht Berlin",
+  "translated_title": "Syrian President Visits Berlin",
+  "text": [
+    {
+      "text": "Der syrische Präsident Ahmed al-Sharaa wird am 19. Januar Berlin besuchen.",
+      "translated_text": "Syrian President Ahmed al-Sharaa will visit Berlin on January 19."
+    },
+    {
+      "text": "Dies ist ein offizieller Staatsbesuch in der deutschen Hauptstadt.",
+      "translated_text": "This is an official state visit to the German capital."
+    },
+    {
+      "text": "Bundeskanzler Friedrich Merz hatte al-Sharaa bereits im November zu diesem Besuch eingeladen.",
+      "translated_text": "Chancellor Friedrich Merz had already invited al-Sharaa to this visit in November."
+    },
+    {
+      "text": "Die Einladung erfolgte während eines Treffens zwischen den beiden Politikern.",
+      "translated_text": "The invitation took place during a meeting between the two politicians."
+    },
+    {
+      "text": "Syrien hat in den letzten Jahren viele politische Veränderungen erlebt.",
+      "translated_text": "Syria has experienced many political changes in recent years."
+    },
+    {
+      "text": "Der Besuch zeigt, dass Deutschland neue diplomatische Beziehungen mit Syrien aufbauen möchte.",
+      "translated_text": "The visit shows that Germany wants to build new diplomatic relations with Syria."
+    },
+    {
+      "text": "Viele syrische Flüchtlinge leben heute in Deutschland.",
+      "translated_text": "Many Syrian refugees live in Germany today."
+    },
+    {
+      "text": "Die Gespräche in Berlin werden wahrscheinlich über die Zukunft Syriens und die Zusammenarbeit zwischen beiden Ländern gehen.",
+      "translated_text": "The talks in Berlin will probably be about the future of Syria and the cooperation between both countries."
+    },
+    {
+      "text": "Deutschland spielt eine wichtige Rolle in der europäischen Politik zum Nahen Osten.",
+      "translated_text": "Germany plays an important role in European politics regarding the Middle East."
+    },
+    {
+      "text": "Der Staatsbesuch ist ein Zeichen für einen möglichen Neuanfang in den Beziehungen.",
+      "translated_text": "The state visit is a sign of a possible new beginning in the relations."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Staatsbesuch",
+      "translated_term": "state visit",
+      "example_usage": "Dies ist ein offizieller Staatsbesuch in der deutschen Hauptstadt."
+    },
+    {
+      "term": "einladen",
+      "translated_term": "to invite",
+      "example_usage": "Bundeskanzler Friedrich Merz hatte al-Sharaa bereits im November zu diesem Besuch eingeladen."
+    },
+    {
+      "term": "die Veränderung",
+      "translated_term": "change",
+      "example_usage": "Syrien hat in den letzten Jahren viele politische Veränderungen erlebt."
+    },
+    {
+      "term": "aufbauen",
+      "translated_term": "to build up/establish",
+      "example_usage": "Deutschland möchte neue diplomatische Beziehungen mit Syrien aufbauen."
+    },
+    {
+      "term": "der Flüchtling",
+      "translated_term": "refugee",
+      "example_usage": "Viele syrische Flüchtlinge leben heute in Deutschland."
+    },
+    {
+      "term": "das Gespräch",
+      "translated_term": "conversation/talk",
+      "example_usage": "Die Gespräche in Berlin werden wahrscheinlich über die Zukunft Syriens gehen."
+    },
+    {
+      "term": "die Zusammenarbeit",
+      "translated_term": "cooperation",
+      "example_usage": "Die Gespräche werden über die Zusammenarbeit zwischen beiden Ländern gehen."
+    },
+    {
+      "term": "der Nahe Osten",
+      "translated_term": "Middle East",
+      "example_usage": "Deutschland spielt eine wichtige Rolle in der europäischen Politik zum Nahen Osten."
+    },
+    {
+      "term": "der Neuanfang",
+      "translated_term": "new beginning",
+      "example_usage": "Der Staatsbesuch ist ein Zeichen für einen möglichen Neuanfang in den Beziehungen."
+    },
+    {
+      "term": "die Beziehung",
+      "translated_term": "relationship/relation",
+      "example_usage": "Der Staatsbesuch ist ein Zeichen für einen möglichen Neuanfang in den Beziehungen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Staatsbesuch",
+      "translated_name": "State Visit"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/world/2026/01/13/108745.html"
+    }
+  ]
+}

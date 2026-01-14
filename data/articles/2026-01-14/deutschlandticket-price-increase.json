@@ -1,0 +1,118 @@
+{
+  "title": "Deutschlandticket wird teurer",
+  "translated_title": "Deutschlandticket Becomes More Expensive",
+  "text": [
+    {
+      "text": "Das Deutschlandticket kostet ab Januar 2026 mehr Geld.",
+      "translated_text": "The Deutschlandticket costs more money from January 2026."
+    },
+    {
+      "text": "Der monatliche Preis ist von 58 Euro auf 63 Euro gestiegen.",
+      "translated_text": "The monthly price has increased from 58 euros to 63 euros."
+    },
+    {
+      "text": "Das sind 5 Euro mehr pro Monat oder 60 Euro mehr pro Jahr.",
+      "translated_text": "That is 5 euros more per month or 60 euros more per year."
+    },
+    {
+      "text": "Mit dem Deutschlandticket können Fahrgäste in ganz Deutschland mit Regionalzügen, S-Bahnen, U-Bahnen und Bussen fahren.",
+      "translated_text": "With the Deutschlandticket, passengers can travel throughout Germany on regional trains, S-Bahns, U-Bahns, and buses."
+    },
+    {
+      "text": "Das Ticket ist sehr beliebt, weil man unbegrenzt reisen kann.",
+      "translated_text": "The ticket is very popular because you can travel unlimited."
+    },
+    {
+      "text": "Viele Menschen nutzen das Ticket täglich für den Weg zur Arbeit oder zur Schule.",
+      "translated_text": "Many people use the ticket daily for the commute to work or school."
+    },
+    {
+      "text": "Die Verkehrsunternehmen sagen, dass die höheren Kosten notwendig sind.",
+      "translated_text": "The transport companies say that the higher costs are necessary."
+    },
+    {
+      "text": "Die Preise für Energie und Personal sind gestiegen.",
+      "translated_text": "The prices for energy and personnel have increased."
+    },
+    {
+      "text": "Auch regionale Fahrscheine sind teurer geworden.",
+      "translated_text": "Regional tickets have also become more expensive."
+    },
+    {
+      "text": "In Berlin kostet eine Einzelfahrt mit der S-Bahn jetzt 4 Euro.",
+      "translated_text": "In Berlin, a single journey on the S-Bahn now costs 4 euros."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Deutschlandticket",
+      "translated_term": "Germany ticket (nationwide transport ticket)",
+      "example_usage": "Das Deutschlandticket kostet ab Januar 2026 mehr Geld."
+    },
+    {
+      "term": "teuer / teurer",
+      "translated_term": "expensive / more expensive",
+      "example_usage": "Das Deutschlandticket wird teurer."
+    },
+    {
+      "term": "der Fahrgast",
+      "translated_term": "passenger",
+      "example_usage": "Mit dem Deutschlandticket können Fahrgäste in ganz Deutschland fahren."
+    },
+    {
+      "term": "der Regionalzug",
+      "translated_term": "regional train",
+      "example_usage": "Fahrgäste können mit Regionalzügen, S-Bahnen, U-Bahnen und Bussen fahren."
+    },
+    {
+      "term": "unbegrenzt",
+      "translated_term": "unlimited",
+      "example_usage": "Das Ticket ist sehr beliebt, weil man unbegrenzt reisen kann."
+    },
+    {
+      "term": "nutzen",
+      "translated_term": "to use",
+      "example_usage": "Viele Menschen nutzen das Ticket täglich für den Weg zur Arbeit."
+    },
+    {
+      "term": "der Weg zur Arbeit",
+      "translated_term": "commute to work",
+      "example_usage": "Viele Menschen nutzen das Ticket täglich für den Weg zur Arbeit."
+    },
+    {
+      "term": "das Verkehrsunternehmen",
+      "translated_term": "transport company",
+      "example_usage": "Die Verkehrsunternehmen sagen, dass die höheren Kosten notwendig sind."
+    },
+    {
+      "term": "das Personal",
+      "translated_term": "personnel/staff",
+      "example_usage": "Die Preise für Energie und Personal sind gestiegen."
+    },
+    {
+      "term": "die Einzelfahrt",
+      "translated_term": "single journey/trip",
+      "example_usage": "In Berlin kostet eine Einzelfahrt mit der S-Bahn jetzt 4 Euro."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local",
+      "link_url": "https://www.thelocal.de/20251231/everything-that-changes-in-germany-in-january-2026"
+    }
+  ]
+}
