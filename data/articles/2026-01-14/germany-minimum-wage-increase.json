@@ -1,0 +1,122 @@
+{
+  "title": "Mindestlohn in Deutschland steigt auf 13,90 Euro",
+  "translated_title": "Minimum Wage in Germany Rises to 13.90 Euros",
+  "text": [
+    {
+      "text": "Seit dem 1. Januar 2026 gibt es in Deutschland einen höheren Mindestlohn.",
+      "translated_text": "Since January 1, 2026, there is a higher minimum wage in Germany."
+    },
+    {
+      "text": "Der gesetzliche Mindestlohn ist von 12,82 Euro auf 13,90 Euro pro Stunde gestiegen.",
+      "translated_text": "The statutory minimum wage has increased from 12.82 euros to 13.90 euros per hour."
+    },
+    {
+      "text": "Das ist eine Erhöhung von mehr als einem Euro.",
+      "translated_text": "That is an increase of more than one euro."
+    },
+    {
+      "text": "Die Änderung betrifft Millionen von Arbeitnehmern in ganz Deutschland.",
+      "translated_text": "The change affects millions of workers throughout Germany."
+    },
+    {
+      "text": "Auch für Menschen mit Minijobs gibt es Verbesserungen.",
+      "translated_text": "There are also improvements for people with mini-jobs."
+    },
+    {
+      "text": "Die Grenze für Minijobs ist jetzt 603 Euro pro Monat statt 556 Euro.",
+      "translated_text": "The limit for mini-jobs is now 603 euros per month instead of 556 euros."
+    },
+    {
+      "text": "Auszubildende bekommen je nach Ausbildungsjahr zwischen 724 und 1.014 Euro im Monat.",
+      "translated_text": "Trainees receive between 724 and 1,014 euros per month depending on their training year."
+    },
+    {
+      "text": "Die Erhöhung des Mindestlohns soll den Menschen helfen, die steigenden Lebenshaltungskosten zu bezahlen.",
+      "translated_text": "The increase in the minimum wage is meant to help people pay the rising cost of living."
+    },
+    {
+      "text": "Kritiker sagen jedoch, dass höhere Löhne für kleine Unternehmen schwierig sein können.",
+      "translated_text": "Critics say, however, that higher wages can be difficult for small businesses."
+    },
+    {
+      "text": "Die deutsche Regierung glaubt, dass faire Löhne wichtig für die Wirtschaft sind.",
+      "translated_text": "The German government believes that fair wages are important for the economy."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Mindestlohn",
+      "translated_term": "minimum wage",
+      "example_usage": "Der gesetzliche Mindestlohn ist von 12,82 Euro auf 13,90 Euro pro Stunde gestiegen."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise/increase",
+      "example_usage": "Der gesetzliche Mindestlohn ist von 12,82 Euro auf 13,90 Euro pro Stunde gestiegen."
+    },
+    {
+      "term": "die Erhöhung",
+      "translated_term": "increase",
+      "example_usage": "Das ist eine Erhöhung von mehr als einem Euro."
+    },
+    {
+      "term": "betreffen",
+      "translated_term": "to affect/concern",
+      "example_usage": "Die Änderung betrifft Millionen von Arbeitnehmern in ganz Deutschland."
+    },
+    {
+      "term": "der Arbeitnehmer / die Arbeitnehmerin",
+      "translated_term": "employee/worker",
+      "example_usage": "Die Änderung betrifft Millionen von Arbeitnehmern in ganz Deutschland."
+    },
+    {
+      "term": "der Minijob",
+      "translated_term": "mini-job (part-time employment)",
+      "example_usage": "Die Grenze für Minijobs ist jetzt 603 Euro pro Monat."
+    },
+    {
+      "term": "der Auszubildende / die Auszubildende",
+      "translated_term": "trainee/apprentice",
+      "example_usage": "Auszubildende bekommen je nach Ausbildungsjahr zwischen 724 und 1.014 Euro im Monat."
+    },
+    {
+      "term": "die Lebenshaltungskosten",
+      "translated_term": "cost of living",
+      "example_usage": "Die Erhöhung soll den Menschen helfen, die steigenden Lebenshaltungskosten zu bezahlen."
+    },
+    {
+      "term": "der Kritiker / die Kritikerin",
+      "translated_term": "critic",
+      "example_usage": "Kritiker sagen jedoch, dass höhere Löhne für kleine Unternehmen schwierig sein können."
+    },
+    {
+      "term": "der Lohn / die Löhne",
+      "translated_term": "wage/wages",
+      "example_usage": "Die deutsche Regierung glaubt, dass faire Löhne wichtig für die Wirtschaft sind."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local",
+      "link_url": "https://www.thelocal.de/20251231/everything-that-changes-in-germany-in-january-2026"
+    },
+    {
+      "name": "Payroll.org",
+      "link_url": "https://payroll.org/news-resources/news/news-detail/2026/01/01/germany-s-minimum-wage-increases-have-implications-for-mini-jobs"
+    }
+  ]
+}
