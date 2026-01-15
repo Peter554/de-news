@@ -1,0 +1,147 @@
+{
+  "title": "Deutschland schickt Soldaten nach Grönland",
+  "translated_title": "Germany Sends Soldiers to Greenland",
+  "text": [
+    {
+      "text": "Deutschland hat angekündigt, mehr als zehn Bundeswehrsoldaten nach Grönland zu schicken.",
+      "translated_text": "Germany has announced that it will send more than ten soldiers of the German armed forces to Greenland."
+    },
+    {
+      "text": "Die Soldaten sollen diese Woche als Aufklärungsgruppe auf die dänische Insel reisen.",
+      "translated_text": "The soldiers are expected to travel to the Danish island this week as a reconnaissance group."
+    },
+    {
+      "text": "Diese Entscheidung kommt, nachdem US-Präsident Donald Trump mehrmals gesagt hat, dass die USA Grönland kontrollieren sollten.",
+      "translated_text": "This decision comes after US President Donald Trump has repeatedly said that the USA should control Greenland."
+    },
+    {
+      "text": "Auch Schweden und Norwegen haben ähnliche Pläne angekündigt, Truppen in die Arktis-Region zu senden.",
+      "translated_text": "Sweden and Norway have also announced similar plans to send troops to the Arctic region."
+    },
+    {
+      "text": "Ein Sprecher der deutschen Regierung bestätigte die Nachricht gegenüber der Nachrichtenagentur Reuters.",
+      "translated_text": "A spokesperson for the German government confirmed the news to the Reuters news agency."
+    },
+    {
+      "text": "Die Mission zeigt, dass Europa seine Präsenz in der strategisch wichtigen Arktis verstärken will.",
+      "translated_text": "The mission shows that Europe wants to strengthen its presence in the strategically important Arctic."
+    },
+    {
+      "text": "Grönland gehört zu Dänemark, hat aber eine gewisse Autonomie.",
+      "translated_text": "Greenland belongs to Denmark, but has a certain autonomy."
+    },
+    {
+      "text": "Die USA und Dänemark haben eine Arbeitsgruppe gebildet, um über ihre Differenzen zu diskutieren.",
+      "translated_text": "The USA and Denmark have formed a working group to discuss their differences."
+    },
+    {
+      "text": "Die Arktis wird immer wichtiger für internationale Sicherheit und Rohstoffgewinnung.",
+      "translated_text": "The Arctic is becoming increasingly important for international security and resource extraction."
+    },
+    {
+      "text": "Experten sagen, dass die Region in den kommenden Jahren eine größere Rolle in der Weltpolitik spielen wird.",
+      "translated_text": "Experts say that the region will play a larger role in world politics in the coming years."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bundeswehr",
+      "translated_term": "the German armed forces",
+      "example_usage": "Deutschland hat angekündigt, mehr als zehn Bundeswehrsoldaten nach Grönland zu schicken."
+    },
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Deutschland hat angekündigt, mehr als zehn Bundeswehrsoldaten nach Grönland zu schicken."
+    },
+    {
+      "term": "die Aufklärungsgruppe",
+      "translated_term": "the reconnaissance group",
+      "example_usage": "Die Soldaten sollen diese Woche als Aufklärungsgruppe auf die dänische Insel reisen."
+    },
+    {
+      "term": "die Insel",
+      "translated_term": "the island",
+      "example_usage": "Die Soldaten sollen diese Woche als Aufklärungsgruppe auf die dänische Insel reisen."
+    },
+    {
+      "term": "kontrollieren",
+      "translated_term": "to control",
+      "example_usage": "Diese Entscheidung kommt, nachdem US-Präsident Donald Trump mehrmals gesagt hat, dass die USA Grönland kontrollieren sollten."
+    },
+    {
+      "term": "die Arktis",
+      "translated_term": "the Arctic",
+      "example_usage": "Auch Schweden und Norwegen haben ähnliche Pläne angekündigt, Truppen in die Arktis-Region zu senden."
+    },
+    {
+      "term": "der Sprecher",
+      "translated_term": "the spokesperson",
+      "example_usage": "Ein Sprecher der deutschen Regierung bestätigte die Nachricht gegenüber der Nachrichtenagentur Reuters."
+    },
+    {
+      "term": "bestätigen",
+      "translated_term": "to confirm",
+      "example_usage": "Ein Sprecher der deutschen Regierung bestätigte die Nachricht gegenüber der Nachrichtenagentur Reuters."
+    },
+    {
+      "term": "die Nachrichtenagentur",
+      "translated_term": "the news agency",
+      "example_usage": "Ein Sprecher der deutschen Regierung bestätigte die Nachricht gegenüber der Nachrichtenagentur Reuters."
+    },
+    {
+      "term": "verstärken",
+      "translated_term": "to strengthen",
+      "example_usage": "Die Mission zeigt, dass Europa seine Präsenz in der strategisch wichtigen Arktis verstärken will."
+    },
+    {
+      "term": "die Präsenz",
+      "translated_term": "the presence",
+      "example_usage": "Die Mission zeigt, dass Europa seine Präsenz in der strategisch wichtigen Arktis verstärken will."
+    },
+    {
+      "term": "strategisch",
+      "translated_term": "strategic",
+      "example_usage": "Die Mission zeigt, dass Europa seine Präsenz in der strategisch wichtigen Arktis verstärken will."
+    },
+    {
+      "term": "die Autonomie",
+      "translated_term": "the autonomy",
+      "example_usage": "Grönland gehört zu Dänemark, hat aber eine gewisse Autonomie."
+    },
+    {
+      "term": "die Arbeitsgruppe",
+      "translated_term": "the working group",
+      "example_usage": "Die USA und Dänemark haben eine Arbeitsgruppe gebildet, um über ihre Differenzen zu diskutieren."
+    },
+    {
+      "term": "die Rohstoffgewinnung",
+      "translated_term": "resource extraction",
+      "example_usage": "Die Arktis wird immer wichtiger für internationale Sicherheit und Rohstoffgewinnung."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Bundeswehr",
+      "translated_name": "Federal Armed Forces"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    }
+  ],
+  "sources": [
+    {
+      "name": "U.S. News & World Report",
+      "link_url": "https://www.usnews.com/news/world/articles/2026-01-14/germany-to-send-reconnaissance-troops-to-greenland-government-says"
+    },
+    {
+      "name": "Pravda Germany",
+      "link_url": "https://germany.news-pravda.com/en/world/2026/01/14/108940.html"
+    }
+  ]
+}

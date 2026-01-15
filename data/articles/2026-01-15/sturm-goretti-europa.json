@@ -1,0 +1,143 @@
+{
+  "title": "Sturm Goretti bringt Schnee und Eis nach Europa",
+  "translated_title": "Storm Goretti Brings Snow and Ice to Europe",
+  "text": [
+    {
+      "text": "Ein heftiger Wintersturm namens Goretti hat Teile Europas mit Schnee, Eis und starken Winden getroffen.",
+      "translated_text": "A severe winter storm named Goretti has hit parts of Europe with snow, ice and strong winds."
+    },
+    {
+      "text": "Besonders betroffen sind Großbritannien, Skandinavien und andere nördliche Regionen.",
+      "translated_text": "Particularly affected are Great Britain, Scandinavia and other northern regions."
+    },
+    {
+      "text": "In Großbritannien wurden Wetterwarnungen ausgegeben, da Schnee und Eis viele Straßen bedeckten.",
+      "translated_text": "In Great Britain, weather warnings were issued as snow and ice covered many roads."
+    },
+    {
+      "text": "Dieser Winter ist einer der kältesten in Europa seit Jahrzehnten.",
+      "translated_text": "This winter is one of the coldest in Europe in decades."
+    },
+    {
+      "text": "In Finnland, Schweden und Nordnorwegen sanken die Temperaturen auf minus 30 Grad Celsius.",
+      "translated_text": "In Finland, Sweden and northern Norway, temperatures dropped to minus 30 degrees Celsius."
+    },
+    {
+      "text": "Der Verkehr wurde stark beeinträchtigt: Viele Züge und Busse fielen aus oder hatten Verspätungen.",
+      "translated_text": "Traffic was severely affected: Many trains and buses were cancelled or delayed."
+    },
+    {
+      "text": "Schulen in einigen Regionen blieben geschlossen, um die Sicherheit der Kinder zu gewährleisten.",
+      "translated_text": "Schools in some regions remained closed to ensure the safety of children."
+    },
+    {
+      "text": "Die Behörden warnen die Bevölkerung, nur notwendige Reisen zu unternehmen.",
+      "translated_text": "The authorities warn the population to make only necessary trips."
+    },
+    {
+      "text": "Meteorologen erwarten, dass die extremen Wetterbedingungen noch mehrere Tage andauern werden.",
+      "translated_text": "Meteorologists expect that the extreme weather conditions will last for several more days."
+    },
+    {
+      "text": "Experten sagen, dass solche Kältewellen trotz des Klimawandels weiterhin auftreten können.",
+      "translated_text": "Experts say that such cold waves can continue to occur despite climate change."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Sturm",
+      "translated_term": "the storm",
+      "example_usage": "Ein heftiger Wintersturm namens Goretti hat Teile Europas mit Schnee, Eis und starken Winden getroffen."
+    },
+    {
+      "term": "heftig",
+      "translated_term": "severe, violent",
+      "example_usage": "Ein heftiger Wintersturm namens Goretti hat Teile Europas mit Schnee, Eis und starken Winden getroffen."
+    },
+    {
+      "term": "treffen",
+      "translated_term": "to hit, to strike",
+      "example_usage": "Ein heftiger Wintersturm namens Goretti hat Teile Europas mit Schnee, Eis und starken Winden getroffen."
+    },
+    {
+      "term": "betroffen",
+      "translated_term": "affected",
+      "example_usage": "Besonders betroffen sind Großbritannien, Skandinavien und andere nördliche Regionen."
+    },
+    {
+      "term": "die Wetterwarnung",
+      "translated_term": "the weather warning",
+      "example_usage": "In Großbritannien wurden Wetterwarnungen ausgegeben, da Schnee und Eis viele Straßen bedeckten."
+    },
+    {
+      "term": "ausgeben",
+      "translated_term": "to issue",
+      "example_usage": "In Großbritannien wurden Wetterwarnungen ausgegeben, da Schnee und Eis viele Straßen bedeckten."
+    },
+    {
+      "term": "bedecken",
+      "translated_term": "to cover",
+      "example_usage": "In Großbritannien wurden Wetterwarnungen ausgegeben, da Schnee und Eis viele Straßen bedeckten."
+    },
+    {
+      "term": "sinken",
+      "translated_term": "to drop, to sink",
+      "example_usage": "In Finnland, Schweden und Nordnorwegen sanken die Temperaturen auf minus 30 Grad Celsius."
+    },
+    {
+      "term": "der Verkehr",
+      "translated_term": "the traffic",
+      "example_usage": "Der Verkehr wurde stark beeinträchtigt."
+    },
+    {
+      "term": "beeinträchtigen",
+      "translated_term": "to affect, to impair",
+      "example_usage": "Der Verkehr wurde stark beeinträchtigt."
+    },
+    {
+      "term": "ausfallen",
+      "translated_term": "to be cancelled",
+      "example_usage": "Viele Züge und Busse fielen aus oder hatten Verspätungen."
+    },
+    {
+      "term": "die Verspätung",
+      "translated_term": "the delay",
+      "example_usage": "Viele Züge und Busse fielen aus oder hatten Verspätungen."
+    },
+    {
+      "term": "gewährleisten",
+      "translated_term": "to ensure, to guarantee",
+      "example_usage": "Schulen in einigen Regionen blieben geschlossen, um die Sicherheit der Kinder zu gewährleisten."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "the authority",
+      "example_usage": "Die Behörden warnen die Bevölkerung, nur notwendige Reisen zu unternehmen."
+    },
+    {
+      "term": "die Kältewelle",
+      "translated_term": "the cold wave",
+      "example_usage": "Experten sagen, dass solche Kältewellen trotz des Klimawandels weiterhin auftreten können."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    },
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    }
+  ],
+  "sources": [
+    {
+      "name": "UK Column",
+      "link_url": "https://www.ukcolumn.org/video/uk-column-news-14th-january-2026"
+    }
+  ]
+}
