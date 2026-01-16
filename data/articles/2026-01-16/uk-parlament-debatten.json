@@ -1,0 +1,142 @@
+{
+  "title": "Wichtige Debatten im britischen Parlament",
+  "translated_title": "Important Debates in British Parliament",
+  "text": [
+    {
+      "text": "Das britische Parlament hat am 16. Januar über mehrere wichtige Themen diskutiert.",
+      "translated_text": "The British Parliament discussed several important topics on 16 January."
+    },
+    {
+      "text": "Im Unterhaus wurde das sogenannte \"Hillsborough-Gesetz\" behandelt.",
+      "translated_text": "The so-called \"Hillsborough Law\" was discussed in the House of Commons."
+    },
+    {
+      "text": "Dieses Gesetz soll Behörden daran hindern, die Wahrheit zu verbergen.",
+      "translated_text": "This law is intended to prevent authorities from concealing the truth."
+    },
+    {
+      "text": "Es ist nach der Hillsborough-Tragödie von 1989 benannt, bei der 97 Fußballfans starben.",
+      "translated_text": "It is named after the 1989 Hillsborough tragedy, in which 97 football fans died."
+    },
+    {
+      "text": "Das Oberhaus (House of Lords) debattierte weiter über das Gesetz zur Sterbehilfe.",
+      "translated_text": "The House of Lords continued to debate the assisted dying law."
+    },
+    {
+      "text": "Dies ist bereits der sechste Tag der Diskussion über dieses sensible Thema.",
+      "translated_text": "This is already the sixth day of discussion on this sensitive topic."
+    },
+    {
+      "text": "Die Abgeordneten sprachen auch über Änderungen im Finanzgesetz.",
+      "translated_text": "The MPs also spoke about amendments to the Finance Bill."
+    },
+    {
+      "text": "Besonders die \"Familiensteuer\" für Bauernhöfe war ein umstrittenes Thema.",
+      "translated_text": "In particular, the \"family tax\" for farms was a controversial topic."
+    },
+    {
+      "text": "Ein Ausschuss hörte Aussagen vom ehemaligen Chef des Büros für Haushaltsverantwortung.",
+      "translated_text": "A committee heard evidence from the former head of the Office for Budget Responsibility."
+    },
+    {
+      "text": "Richard Hughes war zurückgetreten, nachdem ein Haushaltsbericht versehentlich zu früh veröffentlicht wurde.",
+      "translated_text": "Richard Hughes had resigned after a budget report was accidentally published too early."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Parlament",
+      "translated_term": "the parliament",
+      "example_usage": "Das britische Parlament hat am 16. Januar über mehrere wichtige Themen diskutiert."
+    },
+    {
+      "term": "diskutieren",
+      "translated_term": "to discuss",
+      "example_usage": "Das britische Parlament hat am 16. Januar über mehrere wichtige Themen diskutiert."
+    },
+    {
+      "term": "das Unterhaus",
+      "translated_term": "the House of Commons",
+      "example_usage": "Im Unterhaus wurde das sogenannte \"Hillsborough-Gesetz\" behandelt."
+    },
+    {
+      "term": "das Gesetz",
+      "translated_term": "the law",
+      "example_usage": "Im Unterhaus wurde das sogenannte \"Hillsborough-Gesetz\" behandelt."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "the authority",
+      "example_usage": "Dieses Gesetz soll Behörden daran hindern, die Wahrheit zu verbergen."
+    },
+    {
+      "term": "verbergen",
+      "translated_term": "to conceal",
+      "example_usage": "Dieses Gesetz soll Behörden daran hindern, die Wahrheit zu verbergen."
+    },
+    {
+      "term": "die Tragödie",
+      "translated_term": "the tragedy",
+      "example_usage": "Es ist nach der Hillsborough-Tragödie von 1989 benannt, bei der 97 Fußballfans starben."
+    },
+    {
+      "term": "das Oberhaus",
+      "translated_term": "the House of Lords",
+      "example_usage": "Das Oberhaus (House of Lords) debattierte weiter über das Gesetz zur Sterbehilfe."
+    },
+    {
+      "term": "die Sterbehilfe",
+      "translated_term": "assisted dying",
+      "example_usage": "Das Oberhaus (House of Lords) debattierte weiter über das Gesetz zur Sterbehilfe."
+    },
+    {
+      "term": "sensibel",
+      "translated_term": "sensitive",
+      "example_usage": "Dies ist bereits der sechste Tag der Diskussion über dieses sensible Thema."
+    },
+    {
+      "term": "der Abgeordnete",
+      "translated_term": "the MP, the member of parliament",
+      "example_usage": "Die Abgeordneten sprachen auch über Änderungen im Finanzgesetz."
+    },
+    {
+      "term": "umstritten",
+      "translated_term": "controversial",
+      "example_usage": "Besonders die \"Familiensteuer\" für Bauernhöfe war ein umstrittenes Thema."
+    },
+    {
+      "term": "der Ausschuss",
+      "translated_term": "the committee",
+      "example_usage": "Ein Ausschuss hörte Aussagen vom ehemaligen Chef des Büros für Haushaltsverantwortung."
+    },
+    {
+      "term": "zurücktreten",
+      "translated_term": "to resign",
+      "example_usage": "Richard Hughes war zurückgetreten, nachdem ein Haushaltsbericht versehentlich zu früh veröffentlicht wurde."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Justiz",
+      "translated_name": "Justice"
+    },
+    {
+      "name": "Demokratie",
+      "translated_name": "Democracy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "UK Parliament",
+      "link_url": "https://www.parliament.uk/business/news/2026/jan-2026/coming-up-in-the-commons-12-16-january/"
+    },
+    {
+      "name": "Hansard Society",
+      "link_url": "https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-12-january-2026"
+    }
+  ]
+}

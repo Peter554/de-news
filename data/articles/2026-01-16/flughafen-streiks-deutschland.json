@@ -1,0 +1,138 @@
+{
+  "title": "Massive Flughafenstreiks legen Deutschland lahm",
+  "translated_title": "Massive Airport Strikes Paralyze Germany",
+  "text": [
+    {
+      "text": "Am 14. Januar haben Streiks an 13 deutschen Flughäfen für massive Probleme gesorgt.",
+      "translated_text": "On January 14, strikes at 13 German airports caused massive problems."
+    },
+    {
+      "text": "Die Gewerkschaft ver.di hat zu Warnstreiks aufgerufen, um bessere Löhne und Arbeitsbedingungen zu fordern.",
+      "translated_text": "The union ver.di called for warning strikes to demand better wages and working conditions."
+    },
+    {
+      "text": "Mehr als 3.400 Flüge wurden gestrichen, was etwa eine halbe Million Passagiere betroffen hat.",
+      "translated_text": "More than 3,400 flights were cancelled, affecting about half a million passengers."
+    },
+    {
+      "text": "Zu den betroffenen Flughäfen gehören Frankfurt, München, Berlin, Hamburg und Düsseldorf.",
+      "translated_text": "The affected airports include Frankfurt, Munich, Berlin, Hamburg and Düsseldorf."
+    },
+    {
+      "text": "Frankfurt ist der größte Flughafen Deutschlands und ein wichtiges internationales Drehkreuz.",
+      "translated_text": "Frankfurt is Germany's largest airport and an important international hub."
+    },
+    {
+      "text": "Viele Reisende waren überrascht und mussten ihre Pläne kurzfristig ändern.",
+      "translated_text": "Many travellers were surprised and had to change their plans at short notice."
+    },
+    {
+      "text": "Die Gewerkschaft sagt, dass die Arbeitsbedingungen am Flughafen oft schwierig sind.",
+      "translated_text": "The union says that working conditions at the airport are often difficult."
+    },
+    {
+      "text": "Die Streiks dauerten den ganzen Tag, von früh morgens bis spät abends.",
+      "translated_text": "The strikes lasted all day, from early morning to late evening."
+    },
+    {
+      "text": "Fluggesellschaften versuchten, Passagiere auf andere Flüge umzubuchen.",
+      "translated_text": "Airlines tried to rebook passengers onto other flights."
+    },
+    {
+      "text": "Experten sagen, dass solche Streiks in Zukunft häufiger vorkommen könnten, wenn keine Lösung gefunden wird.",
+      "translated_text": "Experts say that such strikes could occur more frequently in the future if no solution is found."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Flughafen",
+      "translated_term": "the airport",
+      "example_usage": "Am 14. Januar haben Streiks an 13 deutschen Flughäfen für massive Probleme gesorgt."
+    },
+    {
+      "term": "der Streik",
+      "translated_term": "the strike",
+      "example_usage": "Am 14. Januar haben Streiks an 13 deutschen Flughäfen für massive Probleme gesorgt."
+    },
+    {
+      "term": "lahmlegen",
+      "translated_term": "to paralyze",
+      "example_usage": "Massive Flughafenstreiks legen Deutschland lahm."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the union",
+      "example_usage": "Die Gewerkschaft ver.di hat zu Warnstreiks aufgerufen, um bessere Löhne und Arbeitsbedingungen zu fordern."
+    },
+    {
+      "term": "der Warnstreik",
+      "translated_term": "the warning strike",
+      "example_usage": "Die Gewerkschaft ver.di hat zu Warnstreiks aufgerufen, um bessere Löhne und Arbeitsbedingungen zu fordern."
+    },
+    {
+      "term": "der Lohn",
+      "translated_term": "the wage",
+      "example_usage": "Die Gewerkschaft ver.di hat zu Warnstreiks aufgerufen, um bessere Löhne und Arbeitsbedingungen zu fordern."
+    },
+    {
+      "term": "die Arbeitsbedingungen",
+      "translated_term": "the working conditions",
+      "example_usage": "Die Gewerkschaft ver.di hat zu Warnstreiks aufgerufen, um bessere Löhne und Arbeitsbedingungen zu fordern."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel",
+      "example_usage": "Mehr als 3.400 Flüge wurden gestrichen, was etwa eine halbe Million Passagiere betroffen hat."
+    },
+    {
+      "term": "der Passagier",
+      "translated_term": "the passenger",
+      "example_usage": "Mehr als 3.400 Flüge wurden gestrichen, was etwa eine halbe Million Passagiere betroffen hat."
+    },
+    {
+      "term": "betreffen",
+      "translated_term": "to affect",
+      "example_usage": "Mehr als 3.400 Flüge wurden gestrichen, was etwa eine halbe Million Passagiere betroffen hat."
+    },
+    {
+      "term": "das Drehkreuz",
+      "translated_term": "the hub",
+      "example_usage": "Frankfurt ist der größte Flughafen Deutschlands und ein wichtiges internationales Drehkreuz."
+    },
+    {
+      "term": "kurzfristig",
+      "translated_term": "at short notice",
+      "example_usage": "Viele Reisende waren überrascht und mussten ihre Pläne kurzfristig ändern."
+    },
+    {
+      "term": "umbuchen",
+      "translated_term": "to rebook",
+      "example_usage": "Fluggesellschaften versuchten, Passagiere auf andere Flüge umzubuchen."
+    },
+    {
+      "term": "vorkommen",
+      "translated_term": "to occur",
+      "example_usage": "Experten sagen, dass solche Streiks in Zukunft häufiger vorkommen könnten, wenn keine Lösung gefunden wird."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "VisaHQ",
+      "link_url": "https://www.visahq.com/news/2026-01-14/de/germany-wide-airport-strikes-cancel-over-3400-flights-and-disrupt-half-a-million-passengers/"
+    }
+  ]
+}

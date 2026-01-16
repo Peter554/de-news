@@ -1,0 +1,142 @@
+{
+  "title": "Tödliche Proteste im Iran: UN-Sicherheitsrat tagt",
+  "translated_title": "Deadly Protests in Iran: UN Security Council Convenes",
+  "text": [
+    {
+      "text": "Im Iran finden seit Wochen landesweite Proteste statt, bei denen Tausende Menschen ums Leben gekommen sind.",
+      "translated_text": "Nationwide protests have been taking place in Iran for weeks, in which thousands of people have lost their lives."
+    },
+    {
+      "text": "Nach Angaben von Menschenrechtsorganisationen wurden mindestens 2.000 Menschen getötet.",
+      "translated_text": "According to human rights organizations, at least 2,000 people have been killed."
+    },
+    {
+      "text": "Unabhängige Quellen sprechen sogar von 12.000 bis 20.000 Toten.",
+      "translated_text": "Independent sources even speak of 12,000 to 20,000 deaths."
+    },
+    {
+      "text": "Am Donnerstag traf sich der UN-Sicherheitsrat in New York, um über die Krise zu sprechen.",
+      "translated_text": "On Thursday, the UN Security Council met in New York to discuss the crisis."
+    },
+    {
+      "text": "Die USA hatten um diese Dringlichkeitssitzung gebeten.",
+      "translated_text": "The USA had requested this emergency meeting."
+    },
+    {
+      "text": "US-Präsident Donald Trump sagte dem Iran, dass er keine militärischen Schläge plant.",
+      "translated_text": "US President Donald Trump told Iran that he is not planning military strikes."
+    },
+    {
+      "text": "Dies sagte der iranische Botschafter in Pakistan.",
+      "translated_text": "This was stated by the Iranian ambassador in Pakistan."
+    },
+    {
+      "text": "Die Sicherheitsstufe auf dem amerikanischen Luftwaffenstützpunkt Al Udeid in Katar wurde wieder gesenkt.",
+      "translated_text": "The security level at the American Al Udeid air base in Qatar has been lowered again."
+    },
+    {
+      "text": "Die internationale Gemeinschaft beobachtet die Situation im Iran mit großer Sorge.",
+      "translated_text": "The international community is watching the situation in Iran with great concern."
+    },
+    {
+      "text": "Viele Länder fordern den Iran auf, die Gewalt gegen Demonstranten zu beenden.",
+      "translated_text": "Many countries are calling on Iran to end the violence against demonstrators."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Protest",
+      "translated_term": "the protest",
+      "example_usage": "Im Iran finden seit Wochen landesweite Proteste statt, bei denen Tausende Menschen ums Leben gekommen sind."
+    },
+    {
+      "term": "landesweit",
+      "translated_term": "nationwide",
+      "example_usage": "Im Iran finden seit Wochen landesweite Proteste statt, bei denen Tausende Menschen ums Leben gekommen sind."
+    },
+    {
+      "term": "ums Leben kommen",
+      "translated_term": "to lose one's life",
+      "example_usage": "Im Iran finden seit Wochen landesweite Proteste statt, bei denen Tausende Menschen ums Leben gekommen sind."
+    },
+    {
+      "term": "die Menschenrechtsorganisation",
+      "translated_term": "the human rights organization",
+      "example_usage": "Nach Angaben von Menschenrechtsorganisationen wurden mindestens 2.000 Menschen getötet."
+    },
+    {
+      "term": "töten",
+      "translated_term": "to kill",
+      "example_usage": "Nach Angaben von Menschenrechtsorganisationen wurden mindestens 2.000 Menschen getötet."
+    },
+    {
+      "term": "die Quelle",
+      "translated_term": "the source",
+      "example_usage": "Unabhängige Quellen sprechen sogar von 12.000 bis 20.000 Toten."
+    },
+    {
+      "term": "unabhängig",
+      "translated_term": "independent",
+      "example_usage": "Unabhängige Quellen sprechen sogar von 12.000 bis 20.000 Toten."
+    },
+    {
+      "term": "der UN-Sicherheitsrat",
+      "translated_term": "the UN Security Council",
+      "example_usage": "Am Donnerstag traf sich der UN-Sicherheitsrat in New York, um über die Krise zu sprechen."
+    },
+    {
+      "term": "die Dringlichkeitssitzung",
+      "translated_term": "the emergency meeting",
+      "example_usage": "Die USA hatten um diese Dringlichkeitssitzung gebeten."
+    },
+    {
+      "term": "der Schlag",
+      "translated_term": "the strike",
+      "example_usage": "US-Präsident Donald Trump sagte dem Iran, dass er keine militärischen Schläge plant."
+    },
+    {
+      "term": "der Botschafter",
+      "translated_term": "the ambassador",
+      "example_usage": "Dies sagte der iranische Botschafter in Pakistan."
+    },
+    {
+      "term": "der Luftwaffenstützpunkt",
+      "translated_term": "the air base",
+      "example_usage": "Die Sicherheitsstufe auf dem amerikanischen Luftwaffenstützpunkt Al Udeid in Katar wurde wieder gesenkt."
+    },
+    {
+      "term": "die Gemeinschaft",
+      "translated_term": "the community",
+      "example_usage": "Die internationale Gemeinschaft beobachtet die Situation im Iran mit großer Sorge."
+    },
+    {
+      "term": "der Demonstrant",
+      "translated_term": "the demonstrator",
+      "example_usage": "Viele Länder fordern den Iran auf, die Gewalt gegen Demonstranten zu beenden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Proteste",
+      "translated_name": "Protests"
+    },
+    {
+      "name": "Vereinte Nationen",
+      "translated_name": "United Nations"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN",
+      "link_url": "https://www.cnn.com/world/live-news/iran-protests-trump-01-15-26"
+    },
+    {
+      "name": "The Times of Israel",
+      "link_url": "https://www.timesofisrael.com/liveblog-january-15-2026/"
+    }
+  ]
+}

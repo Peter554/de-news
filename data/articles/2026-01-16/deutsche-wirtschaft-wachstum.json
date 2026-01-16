@@ -1,0 +1,138 @@
+{
+  "title": "Deutsche Wirtschaft wächst erstmals seit 2022",
+  "translated_title": "German Economy Grows for First Time Since 2022",
+  "text": [
+    {
+      "text": "Nach zwei schwierigen Jahren hat die deutsche Wirtschaft endlich wieder positive Zahlen gemeldet.",
+      "translated_text": "After two difficult years, the German economy has finally reported positive figures again."
+    },
+    {
+      "text": "Das Bruttoinlandsprodukt (BIP) ist 2025 um 0,2 Prozent gewachsen.",
+      "translated_text": "The gross domestic product (GDP) grew by 0.2 percent in 2025."
+    },
+    {
+      "text": "Dies ist das erste Wachstum seit 2022, nachdem es zwei Jahre lang Rückgänge gab.",
+      "translated_text": "This is the first growth since 2022, after there were declines for two years."
+    },
+    {
+      "text": "Experten sagen, dass die Verbraucherausgaben eine wichtige Rolle gespielt haben.",
+      "translated_text": "Experts say that consumer spending played an important role."
+    },
+    {
+      "text": "Die Menschen in Deutschland haben wieder mehr Geld ausgegeben.",
+      "translated_text": "People in Germany have spent more money again."
+    },
+    {
+      "text": "Trotzdem gibt es weiterhin Probleme in der deutschen Industrie.",
+      "translated_text": "Nevertheless, there are still problems in German industry."
+    },
+    {
+      "text": "Deutschland verliert jeden Monat etwa 10.000 Arbeitsplätze im verarbeitenden Gewerbe.",
+      "translated_text": "Germany is losing about 10,000 jobs in manufacturing every month."
+    },
+    {
+      "text": "Der intensive Wettbewerb mit China macht der deutschen Industrie zu schaffen.",
+      "translated_text": "Intense competition with China is causing problems for German industry."
+    },
+    {
+      "text": "Die Regierung plant neue Maßnahmen, um die Wirtschaft weiter zu unterstützen.",
+      "translated_text": "The government is planning new measures to further support the economy."
+    },
+    {
+      "text": "Viele hoffen, dass 2026 ein noch besseres Jahr für die deutsche Wirtschaft wird.",
+      "translated_text": "Many hope that 2026 will be an even better year for the German economy."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Wirtschaft",
+      "translated_term": "the economy",
+      "example_usage": "Nach zwei schwierigen Jahren hat die deutsche Wirtschaft endlich wieder positive Zahlen gemeldet."
+    },
+    {
+      "term": "wachsen",
+      "translated_term": "to grow",
+      "example_usage": "Das Bruttoinlandsprodukt (BIP) ist 2025 um 0,2 Prozent gewachsen."
+    },
+    {
+      "term": "das Bruttoinlandsprodukt",
+      "translated_term": "the gross domestic product",
+      "example_usage": "Das Bruttoinlandsprodukt (BIP) ist 2025 um 0,2 Prozent gewachsen."
+    },
+    {
+      "term": "das Wachstum",
+      "translated_term": "the growth",
+      "example_usage": "Dies ist das erste Wachstum seit 2022, nachdem es zwei Jahre lang Rückgänge gab."
+    },
+    {
+      "term": "der Rückgang",
+      "translated_term": "the decline",
+      "example_usage": "Dies ist das erste Wachstum seit 2022, nachdem es zwei Jahre lang Rückgänge gab."
+    },
+    {
+      "term": "die Verbraucherausgaben",
+      "translated_term": "consumer spending",
+      "example_usage": "Experten sagen, dass die Verbraucherausgaben eine wichtige Rolle gespielt haben."
+    },
+    {
+      "term": "ausgeben",
+      "translated_term": "to spend",
+      "example_usage": "Die Menschen in Deutschland haben wieder mehr Geld ausgegeben."
+    },
+    {
+      "term": "die Industrie",
+      "translated_term": "the industry",
+      "example_usage": "Trotzdem gibt es weiterhin Probleme in der deutschen Industrie."
+    },
+    {
+      "term": "der Arbeitsplatz",
+      "translated_term": "the job",
+      "example_usage": "Deutschland verliert jeden Monat etwa 10.000 Arbeitsplätze im verarbeitenden Gewerbe."
+    },
+    {
+      "term": "das verarbeitende Gewerbe",
+      "translated_term": "manufacturing",
+      "example_usage": "Deutschland verliert jeden Monat etwa 10.000 Arbeitsplätze im verarbeitenden Gewerbe."
+    },
+    {
+      "term": "der Wettbewerb",
+      "translated_term": "the competition",
+      "example_usage": "Der intensive Wettbewerb mit China macht der deutschen Industrie zu schaffen."
+    },
+    {
+      "term": "zu schaffen machen",
+      "translated_term": "to cause problems",
+      "example_usage": "Der intensive Wettbewerb mit China macht der deutschen Industrie zu schaffen."
+    },
+    {
+      "term": "die Maßnahme",
+      "translated_term": "the measure",
+      "example_usage": "Die Regierung plant neue Maßnahmen, um die Wirtschaft weiter zu unterstützen."
+    },
+    {
+      "term": "unterstützen",
+      "translated_term": "to support",
+      "example_usage": "Die Regierung plant neue Maßnahmen, um die Wirtschaft weiter zu unterstützen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "China",
+      "translated_name": "China"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-01-15/german-economy-grows-for-first-year-since-2022-on-spending-boost"
+    }
+  ]
+}
