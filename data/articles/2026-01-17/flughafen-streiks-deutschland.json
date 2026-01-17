@@ -1,0 +1,118 @@
+{
+  "title": "Streik legt deutsche Flughäfen lahm",
+  "translated_title": "Strike Paralyzes German Airports",
+  "text": [
+    {
+      "text": "Am 14. Januar 2026 gab es einen großen Streik an deutschen Flughäfen.",
+      "translated_text": "On January 14, 2026, there was a major strike at German airports."
+    },
+    {
+      "text": "Die Gewerkschaft ver.di hatte zu einem eintägigen Streik aufgerufen.",
+      "translated_text": "The ver.di union had called for a one-day strike."
+    },
+    {
+      "text": "Dreizehn Flughäfen in ganz Deutschland waren von dem Streik betroffen.",
+      "translated_text": "Thirteen airports across Germany were affected by the strike."
+    },
+    {
+      "text": "Mehr als 3.400 Flüge mussten gestrichen werden.",
+      "translated_text": "More than 3,400 flights had to be cancelled."
+    },
+    {
+      "text": "Etwa 510.000 Passagiere waren betroffen und konnten nicht fliegen.",
+      "translated_text": "Approximately 510,000 passengers were affected and could not fly."
+    },
+    {
+      "text": "Die Gewerkschaft fordert eine Lohnerhöhung von acht Prozent für die Flughafenmitarbeiter.",
+      "translated_text": "The union is demanding a wage increase of eight percent for airport employees."
+    },
+    {
+      "text": "Viele Reisende waren frustriert und mussten ihre Pläne ändern.",
+      "translated_text": "Many travelers were frustrated and had to change their plans."
+    },
+    {
+      "text": "Die Flughäfen versuchten, die Passagiere über alternative Reisemöglichkeiten zu informieren.",
+      "translated_text": "The airports tried to inform passengers about alternative travel options."
+    },
+    {
+      "text": "Der Streik zeigt, wie wichtig die Arbeit der Flughafenmitarbeiter ist.",
+      "translated_text": "The strike shows how important the work of airport employees is."
+    },
+    {
+      "text": "Die Verhandlungen zwischen der Gewerkschaft und den Arbeitgebern sollen weitergehen.",
+      "translated_text": "The negotiations between the union and employers are to continue."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Streik",
+      "translated_term": "strike",
+      "example_usage": "Am 14. Januar 2026 gab es einen großen Streik an deutschen Flughäfen."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "union, trade union",
+      "example_usage": "Die Gewerkschaft ver.di hatte zu einem eintägigen Streik aufgerufen."
+    },
+    {
+      "term": "betroffen sein",
+      "translated_term": "to be affected",
+      "example_usage": "Dreizehn Flughäfen in ganz Deutschland waren von dem Streik betroffen."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel",
+      "example_usage": "Mehr als 3.400 Flüge mussten gestrichen werden."
+    },
+    {
+      "term": "der Passagier",
+      "translated_term": "passenger",
+      "example_usage": "Etwa 510.000 Passagiere waren betroffen und konnten nicht fliegen."
+    },
+    {
+      "term": "die Lohnerhöhung",
+      "translated_term": "wage increase, pay rise",
+      "example_usage": "Die Gewerkschaft fordert eine Lohnerhöhung von acht Prozent für die Flughafenmitarbeiter."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand",
+      "example_usage": "Die Gewerkschaft fordert eine Lohnerhöhung von acht Prozent für die Flughafenmitarbeiter."
+    },
+    {
+      "term": "frustriert",
+      "translated_term": "frustrated",
+      "example_usage": "Viele Reisende waren frustriert und mussten ihre Pläne ändern."
+    },
+    {
+      "term": "der Arbeitgeber",
+      "translated_term": "employer",
+      "example_usage": "Die Verhandlungen zwischen der Gewerkschaft und den Arbeitgebern sollen weitergehen."
+    },
+    {
+      "term": "die Verhandlung",
+      "translated_term": "negotiation",
+      "example_usage": "Die Verhandlungen zwischen der Gewerkschaft und den Arbeitgebern sollen weitergehen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "VisaHQ",
+      "link_url": "https://www.visahq.com/news/2026-01-14/de/germany-wide-airport-strikes-cancel-over-3400-flights-and-disrupt-half-a-million-passengers/"
+    }
+  ]
+}
