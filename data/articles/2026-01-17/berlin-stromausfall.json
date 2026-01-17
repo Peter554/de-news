@@ -1,0 +1,122 @@
+{
+  "title": "Stromausfall in Berlin nach Angriff behoben",
+  "translated_title": "Power Outage in Berlin Resolved After Attack",
+  "text": [
+    {
+      "text": "Ein großer Stromausfall hat Teile von Südwest-Berlin mehrere Tage lang getroffen.",
+      "translated_text": "A major power outage hit parts of southwest Berlin for several days."
+    },
+    {
+      "text": "Mehr als 45.000 Haushalte und 2.200 Unternehmen waren ohne Strom.",
+      "translated_text": "More than 45,000 households and 2,200 businesses were without electricity."
+    },
+    {
+      "text": "Die Polizei sagt, dass es ein politisch motivierter Angriff von linksextremen Aktivisten war.",
+      "translated_text": "The police say it was a politically motivated attack by left-wing extremist activists."
+    },
+    {
+      "text": "Am 3. Januar gab es ein Feuer auf einer Kabelbrücke über dem Teltowkanal.",
+      "translated_text": "On January 3, there was a fire on a cable bridge over the Teltow Canal."
+    },
+    {
+      "text": "Das Feuer beschädigte mehrere wichtige Stromkabel zum nahegelegenen Kraftwerk Lichterfelde.",
+      "translated_text": "The fire damaged several important power cables to the nearby Lichterfelde power station."
+    },
+    {
+      "text": "Die Stromversorgung wurde am Mittwochnachmittag vollständig wiederhergestellt.",
+      "translated_text": "The electricity supply was fully restored on Wednesday afternoon."
+    },
+    {
+      "text": "Der Notfall wurde am Freitag offiziell für beendet erklärt.",
+      "translated_text": "The state of emergency was officially declared over on Friday."
+    },
+    {
+      "text": "Viele Berliner waren während des Ausfalls ohne Heizung und Licht.",
+      "translated_text": "Many Berliners were without heating and light during the outage."
+    },
+    {
+      "text": "Geschäfte mussten schließen und konnten keine Waren verkaufen.",
+      "translated_text": "Shops had to close and could not sell goods."
+    },
+    {
+      "text": "Die Stadt arbeitet jetzt daran, die Infrastruktur besser zu schützen.",
+      "translated_text": "The city is now working to better protect the infrastructure."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Stromausfall",
+      "translated_term": "power outage",
+      "example_usage": "Ein großer Stromausfall hat Teile von Südwest-Berlin mehrere Tage lang getroffen."
+    },
+    {
+      "term": "der Haushalt",
+      "translated_term": "household",
+      "example_usage": "Mehr als 45.000 Haushalte und 2.200 Unternehmen waren ohne Strom."
+    },
+    {
+      "term": "politisch motiviert",
+      "translated_term": "politically motivated",
+      "example_usage": "Die Polizei sagt, dass es ein politisch motivierter Angriff von linksextremen Aktivisten war."
+    },
+    {
+      "term": "linksextrem",
+      "translated_term": "left-wing extremist",
+      "example_usage": "Die Polizei sagt, dass es ein politisch motivierter Angriff von linksextremen Aktivisten war."
+    },
+    {
+      "term": "die Kabelbrücke",
+      "translated_term": "cable bridge",
+      "example_usage": "Am 3. Januar gab es ein Feuer auf einer Kabelbrücke über dem Teltowkanal."
+    },
+    {
+      "term": "beschädigen",
+      "translated_term": "to damage",
+      "example_usage": "Das Feuer beschädigte mehrere wichtige Stromkabel zum nahegelegenen Kraftwerk Lichterfelde."
+    },
+    {
+      "term": "wiederherstellen",
+      "translated_term": "to restore",
+      "example_usage": "Die Stromversorgung wurde am Mittwochnachmittag vollständig wiederhergestellt."
+    },
+    {
+      "term": "der Notfall",
+      "translated_term": "emergency, state of emergency",
+      "example_usage": "Der Notfall wurde am Freitag offiziell für beendet erklärt."
+    },
+    {
+      "term": "die Heizung",
+      "translated_term": "heating",
+      "example_usage": "Viele Berliner waren während des Ausfalls ohne Heizung und Licht."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "infrastructure",
+      "example_usage": "Die Stadt arbeitet jetzt daran, die Infrastruktur besser zu schützen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    },
+    {
+      "name": "Extremismus",
+      "translated_name": "Extremism"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Left Berlin",
+      "link_url": "https://theleftberlin.com/news-from-berlin-and-germany-14th-january-2026/"
+    },
+    {
+      "name": "VisaHQ",
+      "link_url": "https://www.visahq.com/news/2026-01-07/de/berlin-restores-power-after-four-day-blackout-spotlight-on-business-travel-resilience/"
+    }
+  ]
+}
