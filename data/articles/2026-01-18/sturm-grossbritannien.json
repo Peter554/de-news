@@ -1,0 +1,122 @@
+{
+  "title": "Sturm Goretti bringt Schnee und Eis nach Großbritannien",
+  "translated_title": "Storm Goretti brings snow and ice to Great Britain",
+  "text": [
+    {
+      "text": "Großbritannien wird derzeit von Sturm Goretti heimgesucht.",
+      "translated_text": "Great Britain is currently being hit by Storm Goretti."
+    },
+    {
+      "text": "Der Sturm bringt Schnee, Eis und starke Winde ins ganze Land.",
+      "translated_text": "The storm is bringing snow, ice, and strong winds to the entire country."
+    },
+    {
+      "text": "Viele Teile des Vereinigten Königreichs haben bereits mehrere Tage schweren Schneefall erlebt.",
+      "translated_text": "Many parts of the United Kingdom have already experienced several days of heavy snowfall."
+    },
+    {
+      "text": "Es gibt Warnungen vor Schnee und Eis in großen Teilen des Landes.",
+      "translated_text": "There are warnings for snow and ice in large parts of the country."
+    },
+    {
+      "text": "Der Verkehr ist stark betroffen, besonders in London.",
+      "translated_text": "Traffic is severely affected, especially in London."
+    },
+    {
+      "text": "Die Piccadilly-Linie war am Wochenende vollständig geschlossen.",
+      "translated_text": "The Piccadilly line was completely closed over the weekend."
+    },
+    {
+      "text": "Auch auf der Elizabeth-Linie und im Overground-Netz gab es Störungen.",
+      "translated_text": "There were also disruptions on the Elizabeth line and the Overground network."
+    },
+    {
+      "text": "Am Sonntag, dem 18. Januar, gab es einen reduzierten Service zwischen Paddington und Heathrow Terminal 4.",
+      "translated_text": "On Sunday, January 18th, there was a reduced service between Paddington and Heathrow Terminal 4."
+    },
+    {
+      "text": "Die Menschen werden gebeten, zu Hause zu bleiben, wenn es nicht notwendig ist, rauszugehen.",
+      "translated_text": "People are being asked to stay at home if it is not necessary to go out."
+    },
+    {
+      "text": "Das schlechte Wetter soll noch einige Tage andauern.",
+      "translated_text": "The bad weather is expected to last for a few more days."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Sturm",
+      "translated_term": "storm",
+      "example_usage": "Großbritannien wird derzeit von Sturm Goretti heimgesucht."
+    },
+    {
+      "term": "heimsuchen",
+      "translated_term": "to hit, to afflict",
+      "example_usage": "Großbritannien wird derzeit von Sturm Goretti heimgesucht."
+    },
+    {
+      "term": "der Schneefall",
+      "translated_term": "snowfall",
+      "example_usage": "Viele Teile des Vereinigten Königreichs haben bereits mehrere Tage schweren Schneefall erlebt."
+    },
+    {
+      "term": "die Warnung",
+      "translated_term": "warning",
+      "example_usage": "Es gibt Warnungen vor Schnee und Eis in großen Teilen des Landes."
+    },
+    {
+      "term": "betroffen sein",
+      "translated_term": "to be affected",
+      "example_usage": "Der Verkehr ist stark betroffen, besonders in London."
+    },
+    {
+      "term": "geschlossen",
+      "translated_term": "closed",
+      "example_usage": "Die Piccadilly-Linie war am Wochenende vollständig geschlossen."
+    },
+    {
+      "term": "die Störung",
+      "translated_term": "disruption, disturbance",
+      "example_usage": "Auch auf der Elizabeth-Linie und im Overground-Netz gab es Störungen."
+    },
+    {
+      "term": "reduziert",
+      "translated_term": "reduced",
+      "example_usage": "Am Sonntag, dem 18. Januar, gab es einen reduzierten Service zwischen Paddington und Heathrow Terminal 4."
+    },
+    {
+      "term": "bitten",
+      "translated_term": "to ask, to request",
+      "example_usage": "Die Menschen werden gebeten, zu Hause zu bleiben, wenn es nicht notwendig ist, rauszugehen."
+    },
+    {
+      "term": "andauern",
+      "translated_term": "to last, to continue",
+      "example_usage": "Das schlechte Wetter soll noch einige Tage andauern."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Timeout London",
+      "link_url": "https://www.timeout.com/london/news/london-travel-disruption-this-weekend-january-16-18-2026-piccadilly-line-011526"
+    },
+    {
+      "name": "UK News Headlines",
+      "link_url": "https://www.uknewsheadlines.net/2026/01"
+    }
+  ]
+}

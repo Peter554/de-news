@@ -1,0 +1,122 @@
+{
+  "title": "Deutsche Wirtschaft wächst zum ersten Mal seit 2022",
+  "translated_title": "German economy grows for the first time since 2022",
+  "text": [
+    {
+      "text": "Die deutsche Wirtschaft ist im Jahr 2025 zum ersten Mal seit 2022 wieder gewachsen.",
+      "translated_text": "The German economy grew again in 2025 for the first time since 2022."
+    },
+    {
+      "text": "Das Bruttoinlandsprodukt ist um 0,2 Prozent gestiegen.",
+      "translated_text": "The gross domestic product increased by 0.2 percent."
+    },
+    {
+      "text": "Dies geschah nach zwei aufeinanderfolgenden Jahren mit negativem Wachstum.",
+      "translated_text": "This happened after two consecutive years with negative growth."
+    },
+    {
+      "text": "Der Hauptgrund für dieses Wachstum waren die staatlichen Ausgaben.",
+      "translated_text": "The main reason for this growth was government spending."
+    },
+    {
+      "text": "Die Regierung hat viel Geld in verschiedene Bereiche investiert.",
+      "translated_text": "The government invested a lot of money in various areas."
+    },
+    {
+      "text": "Dies hat der deutschen Wirtschaft geholfen, ihre lange industrielle Krise zu überwinden.",
+      "translated_text": "This helped the German economy to overcome its lengthy industrial crisis."
+    },
+    {
+      "text": "In den Jahren 2023 und 2024 war die Wirtschaft geschrumpft.",
+      "translated_text": "In the years 2023 and 2024, the economy had contracted."
+    },
+    {
+      "text": "Viele Unternehmen hatten mit Problemen zu kämpfen.",
+      "translated_text": "Many companies had been struggling with problems."
+    },
+    {
+      "text": "Das positive Wachstum ist ein gutes Zeichen für die Zukunft.",
+      "translated_text": "The positive growth is a good sign for the future."
+    },
+    {
+      "text": "Wirtschaftsexperten hoffen, dass diese positive Entwicklung weitergeht.",
+      "translated_text": "Economic experts hope that this positive development continues."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Wirtschaft",
+      "translated_term": "economy",
+      "example_usage": "Die deutsche Wirtschaft ist im Jahr 2025 zum ersten Mal seit 2022 wieder gewachsen."
+    },
+    {
+      "term": "wachsen",
+      "translated_term": "to grow",
+      "example_usage": "Die deutsche Wirtschaft ist im Jahr 2025 zum ersten Mal seit 2022 wieder gewachsen."
+    },
+    {
+      "term": "das Bruttoinlandsprodukt",
+      "translated_term": "gross domestic product (GDP)",
+      "example_usage": "Das Bruttoinlandsprodukt ist um 0,2 Prozent gestiegen."
+    },
+    {
+      "term": "aufeinanderfolgend",
+      "translated_term": "consecutive",
+      "example_usage": "Dies geschah nach zwei aufeinanderfolgenden Jahren mit negativem Wachstum."
+    },
+    {
+      "term": "die Ausgabe",
+      "translated_term": "spending, expenditure",
+      "example_usage": "Der Hauptgrund für dieses Wachstum waren die staatlichen Ausgaben."
+    },
+    {
+      "term": "investieren",
+      "translated_term": "to invest",
+      "example_usage": "Die Regierung hat viel Geld in verschiedene Bereiche investiert."
+    },
+    {
+      "term": "überwinden",
+      "translated_term": "to overcome",
+      "example_usage": "Dies hat der deutschen Wirtschaft geholfen, ihre lange industrielle Krise zu überwinden."
+    },
+    {
+      "term": "schrumpfen",
+      "translated_term": "to shrink, to contract",
+      "example_usage": "In den Jahren 2023 und 2024 war die Wirtschaft geschrumpft."
+    },
+    {
+      "term": "kämpfen mit",
+      "translated_term": "to struggle with",
+      "example_usage": "Viele Unternehmen hatten mit Problemen zu kämpfen."
+    },
+    {
+      "term": "die Entwicklung",
+      "translated_term": "development",
+      "example_usage": "Wirtschaftsexperten hoffen, dass diese positive Entwicklung weitergeht."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Bundeshaushalt",
+      "translated_name": "Federal Budget"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-01-15/german-economy-grows-for-first-year-since-2022-on-spending-boost"
+    },
+    {
+      "name": "The Local",
+      "link_url": "https://www.thelocal.de/20251231/everything-that-changes-in-germany-in-january-2026"
+    }
+  ]
+}
