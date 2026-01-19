@@ -1,0 +1,146 @@
+{
+  "title": "Fahrpreise in Berlin und Brandenburg steigen",
+  "translated_title": "Fares in Berlin and Brandenburg Increase",
+  "text": [
+    {
+      "text": "Seit dem 1. Januar 2026 sind die Ticketpreise für den öffentlichen Nahverkehr in Berlin und Brandenburg gestiegen.",
+      "translated_text": "Since January 1st, 2026, ticket prices for public transport in Berlin and Brandenburg have increased."
+    },
+    {
+      "text": "Die Fahrpreise des Verkehrsverbunds Berlin-Brandenburg sind durchschnittlich um 6 Prozent teurer geworden.",
+      "translated_text": "The fares of the Berlin-Brandenburg Transport Association have become 6 percent more expensive on average."
+    },
+    {
+      "text": "Eine Einzelfahrt mit der S-Bahn innerhalb Berlins kostet jetzt 4 Euro.",
+      "translated_text": "A single journey on the S-Bahn within Berlin now costs 4 euros."
+    },
+    {
+      "text": "Das ist das erste Mal, dass eine Einzelfahrt 4 Euro kostet.",
+      "translated_text": "This is the first time that a single journey costs 4 euros."
+    },
+    {
+      "text": "Vorher lag der Preis bei 3,80 Euro.",
+      "translated_text": "Previously, the price was 3.80 euros."
+    },
+    {
+      "text": "Eine Kurzstrecke kostet nun 2,80 Euro statt 2,60 Euro.",
+      "translated_text": "A short journey now costs 2.80 euros instead of 2.60 euros."
+    },
+    {
+      "text": "Auch das Deutschlandticket ist teurer geworden.",
+      "translated_text": "The Deutschland-Ticket has also become more expensive."
+    },
+    {
+      "text": "Es kostet jetzt 63 Euro pro Monat statt 58 Euro.",
+      "translated_text": "It now costs 63 euros per month instead of 58 euros."
+    },
+    {
+      "text": "Das ist fast 30 Prozent mehr als bei der Einführung im Jahr 2023.",
+      "translated_text": "This is almost 30 percent more than at its launch in 2023."
+    },
+    {
+      "text": "Das Sozialticket Ticket S wird ebenfalls teurer.",
+      "translated_text": "The social ticket Ticket S is also becoming more expensive."
+    },
+    {
+      "text": "Ab Januar kostet es 27,50 Euro pro Monat.",
+      "translated_text": "From January it costs 27.50 euros per month."
+    },
+    {
+      "text": "Die Verkehrsbetriebe begründen die Preiserhöhungen mit steigenden Kosten.",
+      "translated_text": "The transport companies justify the price increases with rising costs."
+    },
+    {
+      "text": "Kraftstoff, Personal und Investitionen in den öffentlichen Verkehr sind teurer geworden.",
+      "translated_text": "Fuel, personnel, and investments in public transport have become more expensive."
+    },
+    {
+      "text": "Die Erhöhungen betreffen nicht nur Berlin und Brandenburg.",
+      "translated_text": "The increases do not only affect Berlin and Brandenburg."
+    },
+    {
+      "text": "In fünf deutschen Bundesländern sind die Preise für den öffentlichen Nahverkehr gestiegen.",
+      "translated_text": "In five German federal states, prices for public transport have increased."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Fahrpreise",
+      "translated_term": "fares, ticket prices",
+      "example_usage": "Seit dem 1. Januar 2026 sind die Ticketpreise für den öffentlichen Nahverkehr in Berlin und Brandenburg gestiegen."
+    },
+    {
+      "term": "der Verkehrsverbund",
+      "translated_term": "transport association",
+      "example_usage": "Die Fahrpreise des Verkehrsverbunds Berlin-Brandenburg sind durchschnittlich um 6 Prozent teurer geworden."
+    },
+    {
+      "term": "die Einzelfahrt",
+      "translated_term": "single journey",
+      "example_usage": "Eine Einzelfahrt mit der S-Bahn innerhalb Berlins kostet jetzt 4 Euro."
+    },
+    {
+      "term": "die Kurzstrecke",
+      "translated_term": "short journey",
+      "example_usage": "Eine Kurzstrecke kostet nun 2,80 Euro statt 2,60 Euro."
+    },
+    {
+      "term": "die Einführung",
+      "translated_term": "introduction, launch",
+      "example_usage": "Das ist fast 30 Prozent mehr als bei der Einführung im Jahr 2023."
+    },
+    {
+      "term": "das Sozialticket",
+      "translated_term": "social ticket",
+      "example_usage": "Das Sozialticket Ticket S wird ebenfalls teurer."
+    },
+    {
+      "term": "die Verkehrsbetriebe",
+      "translated_term": "transport companies",
+      "example_usage": "Die Verkehrsbetriebe begründen die Preiserhöhungen mit steigenden Kosten."
+    },
+    {
+      "term": "begründen",
+      "translated_term": "to justify, to give reasons for",
+      "example_usage": "Die Verkehrsbetriebe begründen die Preiserhöhungen mit steigenden Kosten."
+    },
+    {
+      "term": "der Kraftstoff",
+      "translated_term": "fuel",
+      "example_usage": "Kraftstoff, Personal und Investitionen in den öffentlichen Verkehr sind teurer geworden."
+    },
+    {
+      "term": "betreffen",
+      "translated_term": "to affect, to concern",
+      "example_usage": "Die Erhöhungen betreffen nicht nur Berlin und Brandenburg."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local",
+      "link_url": "https://www.thelocal.de/20251231/everything-that-changes-in-germany-in-january-2026"
+    },
+    {
+      "name": "IamExpat",
+      "link_url": "https://www.iamexpat.de/expat-info/germany-news/price-public-transport-increase-5-german-states-2026"
+    },
+    {
+      "name": "VBB",
+      "link_url": "https://www.vbb.de/news/neue-fahrpreise-im-vbb-ab-1-januar-2026/"
+    }
+  ]
+}

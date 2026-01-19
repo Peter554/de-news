@@ -1,0 +1,150 @@
+{
+  "title": "Herausforderungen für die Merz-Regierung",
+  "translated_title": "Challenges for the Merz Government",
+  "text": [
+    {
+      "text": "Friedrich Merz ist seit Mai 2025 Bundeskanzler von Deutschland.",
+      "translated_text": "Friedrich Merz has been Chancellor of Germany since May 2025."
+    },
+    {
+      "text": "Er führt eine Koalition aus CDU, CSU und SPD.",
+      "translated_text": "He leads a coalition of CDU, CSU, and SPD."
+    },
+    {
+      "text": "Die Koalition ist fragil und steht vor großen Herausforderungen.",
+      "translated_text": "The coalition is fragile and faces major challenges."
+    },
+    {
+      "text": "Merz wurde erst im zweiten Wahlgang zum Kanzler gewählt.",
+      "translated_text": "Merz was only elected chancellor in the second ballot."
+    },
+    {
+      "text": "Das war beispiellos in der deutschen Nachkriegsgeschichte.",
+      "translated_text": "This was unprecedented in German postwar history."
+    },
+    {
+      "text": "Die wirtschaftliche Erneuerung, die Merz versprochen hat, ist noch nicht eingetreten.",
+      "translated_text": "The economic renewal that Merz promised has not yet occurred."
+    },
+    {
+      "text": "Viele wichtige Entscheidungen in der Klima- und Energiepolitik stehen noch aus.",
+      "translated_text": "Many important decisions on climate and energy policy are still pending."
+    },
+    {
+      "text": "Die Wirtschaftsführer warnen vor wachsender Frustration.",
+      "translated_text": "Business leaders warn of growing frustration."
+    },
+    {
+      "text": "Merz hat versprochen, Wettbewerbsfähigkeit wichtiger als Klimaziele zu machen.",
+      "translated_text": "Merz has promised to make competitiveness more important than climate goals."
+    },
+    {
+      "text": "Umweltgruppen befürchten eine Abschwächung der Klimaziele.",
+      "translated_text": "Environmental groups fear a weakening of climate targets."
+    },
+    {
+      "text": "Im Jahr 2026 finden fünf Landtagswahlen statt.",
+      "translated_text": "In 2026, five state elections are taking place."
+    },
+    {
+      "text": "Die erste Wahl ist am 8. März in Baden-Württemberg.",
+      "translated_text": "The first election is on March 8th in Baden-Württemberg."
+    },
+    {
+      "text": "Die rechtspopulistische AfD könnte bei den Wahlen stark abschneiden.",
+      "translated_text": "The right-wing populist AfD could perform strongly in the elections."
+    },
+    {
+      "text": "Das erhöht die Komplexität der Politik für die Regierung.",
+      "translated_text": "This increases the complexity of politics for the government."
+    },
+    {
+      "text": "Deutschland verliert derzeit 10.000 Arbeitsplätze im verarbeitenden Gewerbe pro Monat.",
+      "translated_text": "Germany is currently losing 10,000 manufacturing jobs per month."
+    },
+    {
+      "text": "Die Konkurrenz mit China verschärft sich.",
+      "translated_text": "Competition with China is intensifying."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "Federal Chancellor",
+      "example_usage": "Friedrich Merz ist seit Mai 2025 Bundeskanzler von Deutschland."
+    },
+    {
+      "term": "die Koalition",
+      "translated_term": "coalition",
+      "example_usage": "Er führt eine Koalition aus CDU, CSU und SPD."
+    },
+    {
+      "term": "fragil",
+      "translated_term": "fragile",
+      "example_usage": "Die Koalition ist fragil und steht vor großen Herausforderungen."
+    },
+    {
+      "term": "der Wahlgang",
+      "translated_term": "ballot, voting round",
+      "example_usage": "Merz wurde erst im zweiten Wahlgang zum Kanzler gewählt."
+    },
+    {
+      "term": "beispiellos",
+      "translated_term": "unprecedented",
+      "example_usage": "Das war beispiellos in der deutschen Nachkriegsgeschichte."
+    },
+    {
+      "term": "die Erneuerung",
+      "translated_term": "renewal, reform",
+      "example_usage": "Die wirtschaftliche Erneuerung, die Merz versprochen hat, ist noch nicht eingetreten."
+    },
+    {
+      "term": "ausstehen",
+      "translated_term": "to be pending, to be outstanding",
+      "example_usage": "Viele wichtige Entscheidungen in der Klima- und Energiepolitik stehen noch aus."
+    },
+    {
+      "term": "die Wettbewerbsfähigkeit",
+      "translated_term": "competitiveness",
+      "example_usage": "Merz hat versprochen, Wettbewerbsfähigkeit wichtiger als Klimaziele zu machen."
+    },
+    {
+      "term": "die Landtagswahl",
+      "translated_term": "state election",
+      "example_usage": "Im Jahr 2026 finden fünf Landtagswahlen statt."
+    },
+    {
+      "term": "das verarbeitende Gewerbe",
+      "translated_term": "manufacturing sector",
+      "example_usage": "Deutschland verliert derzeit 10.000 Arbeitsplätze im verarbeitenden Gewerbe pro Monat."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Klimapolitik",
+      "translated_name": "Climate Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Clean Energy Wire",
+      "link_url": "https://www.cleanenergywire.org/news/preview-2026-merz-government-must-deliver-key-energy-projects-patience-wears-thin"
+    },
+    {
+      "name": "Atlantic Council",
+      "link_url": "https://www.atlanticcouncil.org/blogs/new-atlanticist/is-merzs-double-take-chancellor-vote-a-sign-of-things-to-come-in-germany/"
+    },
+    {
+      "name": "PBS News",
+      "link_url": "https://www.pbs.org/newshour/show/as-germany-selects-a-new-conservative-chancellor-a-look-at-the-challenges-he-inherits"
+    }
+  ]
+}

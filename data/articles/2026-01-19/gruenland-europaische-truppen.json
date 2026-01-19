@@ -1,0 +1,146 @@
+{
+  "title": "Europäische Truppen in Grönland",
+  "translated_title": "European Troops in Greenland",
+  "text": [
+    {
+      "text": "Mehrere europäische Länder haben Soldaten nach Grönland geschickt.",
+      "translated_text": "Several European countries have sent soldiers to Greenland."
+    },
+    {
+      "text": "Deutschland, Frankreich, Schweden und Norwegen nehmen an einer gemeinsamen Militärübung teil.",
+      "translated_text": "Germany, France, Sweden, and Norway are participating in a joint military exercise."
+    },
+    {
+      "text": "Die Truppen sind in der Hauptstadt Nuuk angekommen.",
+      "translated_text": "The troops have arrived in the capital Nuuk."
+    },
+    {
+      "text": "Deutschland hat ein Aufklärungsteam von 13 Personen entsandt.",
+      "translated_text": "Germany has sent a reconnaissance team of 13 people."
+    },
+    {
+      "text": "Frankreich schickte etwa 15 Soldaten von einer Gebirgsjägereinheit.",
+      "translated_text": "France sent about 15 soldiers from a mountain infantry unit."
+    },
+    {
+      "text": "Die Mission soll die Sicherheit der arktischen Insel stärken.",
+      "translated_text": "The mission is intended to strengthen the security of the Arctic island."
+    },
+    {
+      "text": "Grönland gehört zu Dänemark, ist aber teilweise autonom.",
+      "translated_text": "Greenland belongs to Denmark but is partially autonomous."
+    },
+    {
+      "text": "Der amerikanische Präsident Trump hat gedroht, Grönland zu annektieren.",
+      "translated_text": "American President Trump has threatened to annex Greenland."
+    },
+    {
+      "text": "Er will Zugang zu den Bodenschätzen der Insel haben.",
+      "translated_text": "He wants access to the island's mineral resources."
+    },
+    {
+      "text": "Die USA sind auch wegen der steigenden Interessen von Russland und China in der Arktis besorgt.",
+      "translated_text": "The USA is also concerned about the rising interests of Russia and China in the Arctic."
+    },
+    {
+      "text": "Dänische und grönländische Außenminister trafen sich mit amerikanischen Vertretern.",
+      "translated_text": "Danish and Greenlandic foreign ministers met with American representatives."
+    },
+    {
+      "text": "Die Gespräche endeten mit grundlegenden Meinungsverschiedenheiten.",
+      "translated_text": "The talks ended with fundamental disagreements."
+    },
+    {
+      "text": "Als Reaktion kündigte Trump Zölle auf europäische Waren an.",
+      "translated_text": "In response, Trump announced tariffs on European goods."
+    },
+    {
+      "text": "Ab dem 1. Februar werden Waren aus acht europäischen Ländern mit einem Zoll von 10 Prozent belegt.",
+      "translated_text": "From February 1st, goods from eight European countries will be subject to a 10 percent tariff."
+    },
+    {
+      "text": "Der britische Premierminister nannte die Zölle gegen NATO-Verbündete völlig falsch.",
+      "translated_text": "The British Prime Minister called the tariffs against NATO allies completely wrong."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Truppen",
+      "translated_term": "troops",
+      "example_usage": "Mehrere europäische Länder haben Soldaten nach Grönland geschickt."
+    },
+    {
+      "term": "entsenden",
+      "translated_term": "to send, to dispatch",
+      "example_usage": "Deutschland hat ein Aufklärungsteam von 13 Personen entsandt."
+    },
+    {
+      "term": "die Militärübung",
+      "translated_term": "military exercise",
+      "example_usage": "Deutschland, Frankreich, Schweden und Norwegen nehmen an einer gemeinsamen Militärübung teil."
+    },
+    {
+      "term": "die Sicherheit",
+      "translated_term": "security",
+      "example_usage": "Die Mission soll die Sicherheit der arktischen Insel stärken."
+    },
+    {
+      "term": "autonom",
+      "translated_term": "autonomous",
+      "example_usage": "Grönland gehört zu Dänemark, ist aber teilweise autonom."
+    },
+    {
+      "term": "annektieren",
+      "translated_term": "to annex",
+      "example_usage": "Der amerikanische Präsident Trump hat gedroht, Grönland zu annektieren."
+    },
+    {
+      "term": "die Bodenschätze",
+      "translated_term": "mineral resources",
+      "example_usage": "Er will Zugang zu den Bodenschätzen der Insel haben."
+    },
+    {
+      "term": "die Meinungsverschiedenheit",
+      "translated_term": "disagreement",
+      "example_usage": "Die Gespräche endeten mit grundlegenden Meinungsverschiedenheiten."
+    },
+    {
+      "term": "der Zoll",
+      "translated_term": "tariff, customs duty",
+      "example_usage": "Als Reaktion kündigte Trump Zölle auf europäische Waren an."
+    },
+    {
+      "term": "der Verbündete",
+      "translated_term": "ally",
+      "example_usage": "Der britische Premierminister nannte die Zölle gegen NATO-Verbündete völlig falsch."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Grönland",
+      "translated_name": "Greenland"
+    },
+    {
+      "name": "NATO",
+      "translated_name": "NATO"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR",
+      "link_url": "https://www.npr.org/2026/01/15/g-s1-106113/european-troops-arrive-greenland"
+    },
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2026/1/15/european-troops-arrive-in-greenland-as-talks-with-us-hit-wall-over-future"
+    },
+    {
+      "name": "TIME",
+      "link_url": "https://time.com/7347120/greenland-trump-protests-tariffs/"
+    }
+  ]
+}
