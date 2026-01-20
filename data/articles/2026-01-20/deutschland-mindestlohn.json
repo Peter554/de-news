@@ -1,0 +1,132 @@
+{
+  "title": "Wichtige Änderungen in Deutschland ab Januar 2026",
+  "translated_title": "Important Changes in Germany from January 2026",
+  "text": [
+    {
+      "text": "Seit dem 1. Januar 2026 gelten in Deutschland mehrere wichtige Änderungen für Arbeitnehmer und Familien.",
+      "translated_text": "Since January 1, 2026, several important changes have been in effect in Germany for workers and families."
+    },
+    {
+      "text": "Der gesetzliche Mindestlohn ist von 12,82 Euro auf 13,90 Euro pro Stunde gestiegen.",
+      "translated_text": "The statutory minimum wage has risen from 12.82 euros to 13.90 euros per hour."
+    },
+    {
+      "text": "Dies bedeutet eine Erhöhung von mehr als einem Euro für Millionen von Arbeitnehmern.",
+      "translated_text": "This means an increase of more than one euro for millions of workers."
+    },
+    {
+      "text": "Das Kindergeld wurde ebenfalls erhöht: Familien erhalten jetzt 259 Euro pro Monat pro Kind, statt 255 Euro.",
+      "translated_text": "Child benefit has also been increased: families now receive 259 euros per month per child, instead of 255 euros."
+    },
+    {
+      "text": "Der Preis für das Deutschlandticket ist allerdings auch gestiegen.",
+      "translated_text": "However, the price for the Deutschlandticket has also increased."
+    },
+    {
+      "text": "Das Ticket für den öffentlichen Nahverkehr kostet jetzt 63 Euro im Monat, vorher waren es 58 Euro.",
+      "translated_text": "The ticket for local public transport now costs 63 euros per month, previously it was 58 euros."
+    },
+    {
+      "text": "Die deutsche Wirtschaft zeigt positive Zeichen: Nach zwei Jahren Rückgang wuchs sie im Jahr 2025 wieder um 0,2 Prozent.",
+      "translated_text": "The German economy shows positive signs: after two years of decline, it grew again by 0.2 percent in 2025."
+    },
+    {
+      "text": "Experten sehen diese Entwicklung als Hoffnungszeichen für die wirtschaftliche Erholung.",
+      "translated_text": "Experts see this development as a sign of hope for economic recovery."
+    },
+    {
+      "text": "Die Regierung hofft, dass die höheren Löhne den privaten Konsum ankurbeln werden.",
+      "translated_text": "The government hopes that the higher wages will boost private consumption."
+    },
+    {
+      "text": "Diese Änderungen sollen die Kaufkraft der deutschen Haushalte stärken.",
+      "translated_text": "These changes are intended to strengthen the purchasing power of German households."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Änderung",
+      "translated_term": "change",
+      "example_usage": "Seit dem 1. Januar 2026 gelten in Deutschland mehrere wichtige Änderungen."
+    },
+    {
+      "term": "gelten",
+      "translated_term": "to be in effect/apply",
+      "example_usage": "Seit dem 1. Januar 2026 gelten in Deutschland mehrere wichtige Änderungen."
+    },
+    {
+      "term": "der Mindestlohn",
+      "translated_term": "minimum wage",
+      "example_usage": "Der gesetzliche Mindestlohn ist von 12,82 Euro auf 13,90 Euro pro Stunde gestiegen."
+    },
+    {
+      "term": "gesetzlich",
+      "translated_term": "statutory/legal",
+      "example_usage": "Der gesetzliche Mindestlohn ist von 12,82 Euro auf 13,90 Euro pro Stunde gestiegen."
+    },
+    {
+      "term": "die Erhöhung",
+      "translated_term": "increase",
+      "example_usage": "Dies bedeutet eine Erhöhung von mehr als einem Euro für Millionen von Arbeitnehmern."
+    },
+    {
+      "term": "das Kindergeld",
+      "translated_term": "child benefit",
+      "example_usage": "Das Kindergeld wurde ebenfalls erhöht."
+    },
+    {
+      "term": "der Nahverkehr",
+      "translated_term": "local public transport",
+      "example_usage": "Das Ticket für den öffentlichen Nahverkehr kostet jetzt 63 Euro im Monat."
+    },
+    {
+      "term": "der Rückgang",
+      "translated_term": "decline",
+      "example_usage": "Nach zwei Jahren Rückgang wuchs sie im Jahr 2025 wieder um 0,2 Prozent."
+    },
+    {
+      "term": "das Hoffnungszeichen",
+      "translated_term": "sign of hope",
+      "example_usage": "Experten sehen diese Entwicklung als Hoffnungszeichen für die wirtschaftliche Erholung."
+    },
+    {
+      "term": "ankurbeln",
+      "translated_term": "to boost/stimulate",
+      "example_usage": "Die Regierung hofft, dass die höheren Löhne den privaten Konsum ankurbeln werden."
+    },
+    {
+      "term": "die Kaufkraft",
+      "translated_term": "purchasing power",
+      "example_usage": "Diese Änderungen sollen die Kaufkraft der deutschen Haushalte stärken."
+    },
+    {
+      "term": "der Haushalt",
+      "translated_term": "household",
+      "example_usage": "Diese Änderungen sollen die Kaufkraft der deutschen Haushalte stärken."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20251231/everything-that-changes-in-germany-in-january-2026"
+    },
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-01-15/german-economy-grows-for-first-year-since-2022-on-spending-boost"
+    }
+  ]
+}

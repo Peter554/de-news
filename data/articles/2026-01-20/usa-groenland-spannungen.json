@@ -1,0 +1,137 @@
+{
+  "title": "USA drohen Dänemark mit Zöllen wegen Grönland",
+  "translated_title": "USA Threatens Denmark with Tariffs over Greenland",
+  "text": [
+    {
+      "text": "Präsident Trump hat angekündigt, dass die USA ab dem 1. Februar einen Zoll von 10 Prozent auf dänische Waren erheben werden.",
+      "translated_text": "President Trump has announced that the USA will impose a 10 percent tariff on Danish goods starting February 1st."
+    },
+    {
+      "text": "Der Zoll wird auf 25 Prozent steigen, wenn Dänemark bis zum 1. Juni kein Abkommen über den Verkauf von Grönland erreicht.",
+      "translated_text": "The tariff will rise to 25 percent if Denmark does not reach an agreement on the sale of Greenland by June 1st."
+    },
+    {
+      "text": "Trump möchte, dass die Vereinigten Staaten die Kontrolle über Grönland übernehmen, eine autonome Region unter dänischer Souveränität.",
+      "translated_text": "Trump wants the United States to take control of Greenland, an autonomous region under Danish sovereignty."
+    },
+    {
+      "text": "Eine überparteiliche Delegation des US-Kongresses reiste nach Dänemark, um die Spannungen zu reduzieren.",
+      "translated_text": "A bipartisan congressional delegation traveled to Denmark to reduce tensions."
+    },
+    {
+      "text": "Die dänische Premierministerin Mette Frederiksen sagte: \"Europa wird sich nicht erpressen lassen.\"",
+      "translated_text": "Danish Prime Minister Mette Frederiksen said: \"Europe will not be blackmailed.\""
+    },
+    {
+      "text": "Acht europäische Länder haben ihre volle Solidarität mit Dänemark und Grönland erklärt.",
+      "translated_text": "Eight European countries have declared their full solidarity with Denmark and Greenland."
+    },
+    {
+      "text": "Die Situation hat zu diplomatischen Spannungen zwischen den USA und Europa geführt.",
+      "translated_text": "The situation has led to diplomatic tensions between the USA and Europe."
+    },
+    {
+      "text": "Grönland ist strategisch wichtig wegen seiner geografischen Lage und seiner natürlichen Ressourcen.",
+      "translated_text": "Greenland is strategically important because of its geographic location and natural resources."
+    },
+    {
+      "text": "Experten warnen, dass diese Krise die transatlantischen Beziehungen gefährden könnte.",
+      "translated_text": "Experts warn that this crisis could endanger transatlantic relations."
+    },
+    {
+      "text": "Die grönländische Regierung hat betont, dass die Insel nicht zum Verkauf steht.",
+      "translated_text": "The Greenlandic government has emphasized that the island is not for sale."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Zoll",
+      "translated_term": "tariff",
+      "example_usage": "Die USA ab dem 1. Februar einen Zoll von 10 Prozent auf dänische Waren erheben werden."
+    },
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Präsident Trump hat angekündigt, dass die USA ab dem 1. Februar einen Zoll von 10 Prozent auf dänische Waren erheben werden."
+    },
+    {
+      "term": "erheben",
+      "translated_term": "to impose/levy",
+      "example_usage": "Die USA ab dem 1. Februar einen Zoll von 10 Prozent auf dänische Waren erheben werden."
+    },
+    {
+      "term": "das Abkommen",
+      "translated_term": "agreement",
+      "example_usage": "Der Zoll wird auf 25 Prozent steigen, wenn Dänemark bis zum 1. Juni kein Abkommen über den Verkauf von Grönland erreicht."
+    },
+    {
+      "term": "die Souveränität",
+      "translated_term": "sovereignty",
+      "example_usage": "Grönland, eine autonome Region unter dänischer Souveränität."
+    },
+    {
+      "term": "überparteilich",
+      "translated_term": "bipartisan",
+      "example_usage": "Eine überparteiliche Delegation des US-Kongresses reiste nach Dänemark."
+    },
+    {
+      "term": "die Delegation",
+      "translated_term": "delegation",
+      "example_usage": "Eine überparteiliche Delegation des US-Kongresses reiste nach Dänemark."
+    },
+    {
+      "term": "erpressen",
+      "translated_term": "to blackmail",
+      "example_usage": "Europa wird sich nicht erpressen lassen."
+    },
+    {
+      "term": "die Solidarität",
+      "translated_term": "solidarity",
+      "example_usage": "Acht europäische Länder haben ihre volle Solidarität mit Dänemark und Grönland erklärt."
+    },
+    {
+      "term": "die Spannungen",
+      "translated_term": "tensions",
+      "example_usage": "Die Situation hat zu diplomatischen Spannungen zwischen den USA und Europa geführt."
+    },
+    {
+      "term": "die Ressourcen",
+      "translated_term": "resources",
+      "example_usage": "Grönland ist strategisch wichtig wegen seiner geografischen Lage und seiner natürlichen Ressourcen."
+    },
+    {
+      "term": "gefährden",
+      "translated_term": "to endanger",
+      "example_usage": "Diese Krise die transatlantischen Beziehungen gefährden könnte."
+    },
+    {
+      "term": "betonen",
+      "translated_term": "to emphasize",
+      "example_usage": "Die grönländische Regierung hat betont, dass die Insel nicht zum Verkauf steht."
+    }
+  ],
+  "tags": [
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Grönland",
+      "translated_name": "Greenland"
+    },
+    {
+      "name": "Handelspolitik",
+      "translated_name": "Trade Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR World News",
+      "link_url": "https://www.npr.org/sections/world/"
+    },
+    {
+      "name": "Democracy Now",
+      "link_url": "https://www.democracynow.org/2026/1/14/headlines"
+    }
+  ]
+}

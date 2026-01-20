@@ -1,0 +1,132 @@
+{
+  "title": "Massenschließungen im britischen Einzelhandel",
+  "translated_title": "Mass Closures in British Retail",
+  "text": [
+    {
+      "text": "Im Januar 2026 schließen Hunderte von Geschäften in ganz Großbritannien ihre Türen.",
+      "translated_text": "In January 2026, hundreds of shops across Great Britain are closing their doors."
+    },
+    {
+      "text": "Die britische Einzelhandelsbranche erlebt eine schwere Krise mit massiven Arbeitsplatzverlusten.",
+      "translated_text": "The British retail sector is experiencing a severe crisis with massive job losses."
+    },
+    {
+      "text": "Die Restaurantkette TGI Fridays schloss am 13. Januar 16 Filialen, nachdem das Unternehmen Insolvenz angemeldet hatte.",
+      "translated_text": "The restaurant chain TGI Fridays closed 16 branches on January 13 after the company filed for insolvency."
+    },
+    {
+      "text": "456 Menschen verloren dadurch ihre Arbeitsplätze, obwohl 33 Restaurants weiter geöffnet bleiben.",
+      "translated_text": "456 people lost their jobs as a result, although 33 restaurants remain open."
+    },
+    {
+      "text": "Die Modekette River Island schließt etwa 32 bis 33 Filialen im Rahmen eines Umstrukturierungsplans.",
+      "translated_text": "The fashion chain River Island is closing about 32 to 33 branches as part of a restructuring plan."
+    },
+    {
+      "text": "Dies entspricht mehr als zehn Prozent aller River Island Geschäfte in Großbritannien.",
+      "translated_text": "This corresponds to more than ten percent of all River Island stores in Great Britain."
+    },
+    {
+      "text": "Trotz der Krise im Einzelhandel gab es auch positive Nachrichten von der Börse.",
+      "translated_text": "Despite the crisis in retail, there was also positive news from the stock market."
+    },
+    {
+      "text": "Der FTSE 100 Index überschritt zum ersten Mal in seiner Geschichte die Marke von 10.000 Punkten.",
+      "translated_text": "The FTSE 100 index crossed the 10,000 point mark for the first time in its history."
+    },
+    {
+      "text": "Wirtschaftsexperten warnen jedoch, dass die Schließungen die wirtschaftliche Erholung gefährden könnten.",
+      "translated_text": "However, economic experts warn that the closures could endanger economic recovery."
+    },
+    {
+      "text": "Viele britische Innenstädte sind besonders von den Geschäftsschließungen betroffen.",
+      "translated_text": "Many British city centers are particularly affected by the shop closures."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Massenschließung",
+      "translated_term": "mass closure",
+      "example_usage": "Im Januar 2026 schließen Hunderte von Geschäften in ganz Großbritannien ihre Türen."
+    },
+    {
+      "term": "der Einzelhandel",
+      "translated_term": "retail",
+      "example_usage": "Die britische Einzelhandelsbranche erlebt eine schwere Krise."
+    },
+    {
+      "term": "der Arbeitsplatzverlust",
+      "translated_term": "job loss",
+      "example_usage": "Die britische Einzelhandelsbranche erlebt eine schwere Krise mit massiven Arbeitsplatzverlusten."
+    },
+    {
+      "term": "die Filiale",
+      "translated_term": "branch",
+      "example_usage": "Die Restaurantkette TGI Fridays schloss am 13. Januar 16 Filialen."
+    },
+    {
+      "term": "die Insolvenz",
+      "translated_term": "insolvency/bankruptcy",
+      "example_usage": "Nachdem das Unternehmen Insolvenz angemeldet hatte."
+    },
+    {
+      "term": "anmelden",
+      "translated_term": "to file/register",
+      "example_usage": "Nachdem das Unternehmen Insolvenz angemeldet hatte."
+    },
+    {
+      "term": "der Umstrukturierungsplan",
+      "translated_term": "restructuring plan",
+      "example_usage": "Die Modekette River Island schließt etwa 32 bis 33 Filialen im Rahmen eines Umstrukturierungsplans."
+    },
+    {
+      "term": "entsprechen",
+      "translated_term": "to correspond to",
+      "example_usage": "Dies entspricht mehr als zehn Prozent aller River Island Geschäfte."
+    },
+    {
+      "term": "die Börse",
+      "translated_term": "stock market",
+      "example_usage": "Trotz der Krise im Einzelhandel gab es auch positive Nachrichten von der Börse."
+    },
+    {
+      "term": "überschreiten",
+      "translated_term": "to cross/exceed",
+      "example_usage": "Der FTSE 100 Index überschritt zum ersten Mal in seiner Geschichte die Marke von 10.000 Punkten."
+    },
+    {
+      "term": "die Marke",
+      "translated_term": "mark/milestone",
+      "example_usage": "Der FTSE 100 Index überschritt zum ersten Mal in seiner Geschichte die Marke von 10.000 Punkten."
+    },
+    {
+      "term": "betroffen sein",
+      "translated_term": "to be affected",
+      "example_usage": "Viele britische Innenstädte sind besonders von den Geschäftsschließungen betroffen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "IBTimes UK",
+      "link_url": "https://www.ibtimes.co.uk/full-list-every-major-uk-store-closing-january-2026-how-many-jobs-will-lost-1771913"
+    },
+    {
+      "name": "Bloomberg UK Assets",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-01-16/uk-assets-strong-start-to-2026-is-already-drawing-skepticism"
+    }
+  ]
+}

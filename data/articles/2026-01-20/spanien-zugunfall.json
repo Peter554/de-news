@@ -1,0 +1,137 @@
+{
+  "title": "Schweres Zugunglück in Spanien: Mindestens 39 Tote",
+  "translated_title": "Serious Train Accident in Spain: At Least 39 Dead",
+  "text": [
+    {
+      "text": "Am Sonntag ereignete sich in Südspanien ein schweres Zugunglück.",
+      "translated_text": "A serious train accident occurred in southern Spain on Sunday."
+    },
+    {
+      "text": "Zwei Hochgeschwindigkeitszüge sind zusammengestoßen, wie die spanische Polizei am Montag mitteilte.",
+      "translated_text": "Two high-speed trains collided, as Spanish police announced on Monday."
+    },
+    {
+      "text": "Mindestens 39 Menschen sind bei dem Unglück ums Leben gekommen.",
+      "translated_text": "At least 39 people lost their lives in the accident."
+    },
+    {
+      "text": "Die Rettungsarbeiten dauern weiter an, da noch Menschen unter den Trümmern vermutet werden.",
+      "translated_text": "Rescue efforts continue as people are still suspected to be under the rubble."
+    },
+    {
+      "text": "Notärzte und Feuerwehrleute arbeiten rund um die Uhr, um Überlebende zu finden.",
+      "translated_text": "Emergency doctors and firefighters are working around the clock to find survivors."
+    },
+    {
+      "text": "Die genaue Ursache des Unfalls ist noch unklar und wird untersucht.",
+      "translated_text": "The exact cause of the accident is still unclear and is being investigated."
+    },
+    {
+      "text": "Der spanische Ministerpräsident hat den Unglücksort besucht und den Opfern sein Mitgefühl ausgedrückt.",
+      "translated_text": "The Spanish Prime Minister visited the accident site and expressed his condolences to the victims."
+    },
+    {
+      "text": "Es ist eine der schlimmsten Zugkatastrophen in der spanischen Geschichte.",
+      "translated_text": "It is one of the worst train disasters in Spanish history."
+    },
+    {
+      "text": "Viele Verletzte wurden in umliegende Krankenhäuser gebracht.",
+      "translated_text": "Many injured people were taken to surrounding hospitals."
+    },
+    {
+      "text": "Die spanische Regierung hat eine Untersuchungskommission eingesetzt, um die Umstände des Unfalls zu klären.",
+      "translated_text": "The Spanish government has set up an investigation commission to clarify the circumstances of the accident."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Zugunglück",
+      "translated_term": "train accident",
+      "example_usage": "Am Sonntag ereignete sich in Südspanien ein schweres Zugunglück."
+    },
+    {
+      "term": "sich ereignen",
+      "translated_term": "to occur",
+      "example_usage": "Am Sonntag ereignete sich in Südspanien ein schweres Zugunglück."
+    },
+    {
+      "term": "der Hochgeschwindigkeitszug",
+      "translated_term": "high-speed train",
+      "example_usage": "Zwei Hochgeschwindigkeitszüge sind zusammengestoßen."
+    },
+    {
+      "term": "zusammenstoßen",
+      "translated_term": "to collide",
+      "example_usage": "Zwei Hochgeschwindigkeitszüge sind zusammengestoßen."
+    },
+    {
+      "term": "mitteilen",
+      "translated_term": "to announce",
+      "example_usage": "Wie die spanische Polizei am Montag mitteilte."
+    },
+    {
+      "term": "ums Leben kommen",
+      "translated_term": "to lose one's life",
+      "example_usage": "Mindestens 39 Menschen sind bei dem Unglück ums Leben gekommen."
+    },
+    {
+      "term": "die Rettungsarbeiten",
+      "translated_term": "rescue efforts",
+      "example_usage": "Die Rettungsarbeiten dauern weiter an."
+    },
+    {
+      "term": "die Trümmer",
+      "translated_term": "rubble",
+      "example_usage": "Da noch Menschen unter den Trümmern vermutet werden."
+    },
+    {
+      "term": "der Notarzt",
+      "translated_term": "emergency doctor",
+      "example_usage": "Notärzte und Feuerwehrleute arbeiten rund um die Uhr."
+    },
+    {
+      "term": "rund um die Uhr",
+      "translated_term": "around the clock",
+      "example_usage": "Notärzte und Feuerwehrleute arbeiten rund um die Uhr."
+    },
+    {
+      "term": "die Ursache",
+      "translated_term": "cause",
+      "example_usage": "Die genaue Ursache des Unfalls ist noch unklar."
+    },
+    {
+      "term": "das Mitgefühl",
+      "translated_term": "condolences/sympathy",
+      "example_usage": "Der spanische Ministerpräsident hat den Opfern sein Mitgefühl ausgedrückt."
+    },
+    {
+      "term": "die Untersuchungskommission",
+      "translated_term": "investigation commission",
+      "example_usage": "Die spanische Regierung hat eine Untersuchungskommission eingesetzt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Spanien",
+      "translated_name": "Spain"
+    },
+    {
+      "name": "Katastrophe",
+      "translated_name": "Disaster"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR World News",
+      "link_url": "https://www.npr.org/sections/world/"
+    },
+    {
+      "name": "Democracy Now",
+      "link_url": "https://www.democracynow.org/2026/1/14/headlines"
+    }
+  ]
+}

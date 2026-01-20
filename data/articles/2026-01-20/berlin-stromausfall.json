@@ -1,0 +1,133 @@
+{
+  "title": "Untersuchung nach mehrtägigem Stromausfall in Berlin",
+  "translated_title": "Investigation After Multi-Day Power Outage in Berlin",
+  "text": [
+    {
+      "text": "Die Verantwortung für einen mehrtägigen Stromausfall in Berlin sorgt für große Verwirrung.",
+      "translated_text": "Responsibility for a multi-day power outage in Berlin is causing great confusion."
+    },
+    {
+      "text": "Am 3. Januar brach ein Feuer auf einer Kabelbrücke nahe dem Kraftwerk Lichterfelde aus.",
+      "translated_text": "On January 3, a fire broke out on a cable bridge near the Lichterfelde power plant."
+    },
+    {
+      "text": "Mehr als 45.000 Haushalte und 2.200 Unternehmen waren zunächst ohne Strom.",
+      "translated_text": "More than 45,000 households and 2,200 businesses were initially without electricity."
+    },
+    {
+      "text": "Auch Heizungen und Internetdienste waren erheblich beeinträchtigt.",
+      "translated_text": "Heating and internet services were also significantly affected."
+    },
+    {
+      "text": "Mehrere Bekennerschreiben sind von einer angeblichen \"Vulkangruppe\" aufgetaucht.",
+      "translated_text": "Several letters of confession have appeared from an alleged \"Volcano Group\"."
+    },
+    {
+      "text": "Eine Gruppe behauptet, die ursprüngliche \"Vulkan\"-Gruppe zu sein, und distanziert sich von der Aktion.",
+      "translated_text": "One group claims to be the original \"Volcano\" group and distances itself from the action."
+    },
+    {
+      "text": "Die Polizei untersucht alle Hinweise, kann aber bisher keine klare Verantwortung feststellen.",
+      "translated_text": "The police are investigating all leads but cannot yet determine clear responsibility."
+    },
+    {
+      "text": "Der Stromausfall hat die Debatte über die Sicherheit kritischer Infrastruktur verstärkt.",
+      "translated_text": "The power outage has intensified the debate about the security of critical infrastructure."
+    },
+    {
+      "text": "Stadtwerke und Sicherheitsbehörden arbeiten zusammen, um solche Vorfälle in Zukunft zu verhindern.",
+      "translated_text": "Utilities and security authorities are working together to prevent such incidents in the future."
+    },
+    {
+      "text": "Viele Berliner fordern besseren Schutz für lebenswichtige Einrichtungen der Stadt.",
+      "translated_text": "Many Berliners are demanding better protection for vital city facilities."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Untersuchung",
+      "translated_term": "investigation",
+      "example_usage": "Die Verantwortung für einen mehrtägigen Stromausfall in Berlin sorgt für große Verwirrung."
+    },
+    {
+      "term": "der Stromausfall",
+      "translated_term": "power outage",
+      "example_usage": "Die Verantwortung für einen mehrtägigen Stromausfall in Berlin sorgt für große Verwirrung."
+    },
+    {
+      "term": "die Verantwortung",
+      "translated_term": "responsibility",
+      "example_usage": "Die Verantwortung für einen mehrtägigen Stromausfall in Berlin sorgt für große Verwirrung."
+    },
+    {
+      "term": "die Verwirrung",
+      "translated_term": "confusion",
+      "example_usage": "Die Verantwortung für einen mehrtägigen Stromausfall in Berlin sorgt für große Verwirrung."
+    },
+    {
+      "term": "ausbrechen",
+      "translated_term": "to break out",
+      "example_usage": "Am 3. Januar brach ein Feuer auf einer Kabelbrücke nahe dem Kraftwerk Lichterfelde aus."
+    },
+    {
+      "term": "das Kraftwerk",
+      "translated_term": "power plant",
+      "example_usage": "Ein Feuer auf einer Kabelbrücke nahe dem Kraftwerk Lichterfelde."
+    },
+    {
+      "term": "zunächst",
+      "translated_term": "initially/at first",
+      "example_usage": "Mehr als 45.000 Haushalte und 2.200 Unternehmen waren zunächst ohne Strom."
+    },
+    {
+      "term": "beeinträchtigen",
+      "translated_term": "to affect/impair",
+      "example_usage": "Auch Heizungen und Internetdienste waren erheblich beeinträchtigt."
+    },
+    {
+      "term": "das Bekennerschreiben",
+      "translated_term": "letter of confession",
+      "example_usage": "Mehrere Bekennerschreiben sind von einer angeblichen \"Vulkangruppe\" aufgetaucht."
+    },
+    {
+      "term": "sich distanzieren",
+      "translated_term": "to distance oneself",
+      "example_usage": "Eine Gruppe behauptet, die ursprüngliche \"Vulkan\"-Gruppe zu sein, und distanziert sich von der Aktion."
+    },
+    {
+      "term": "feststellen",
+      "translated_term": "to determine/establish",
+      "example_usage": "Die Polizei kann aber bisher keine klare Verantwortung feststellen."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "infrastructure",
+      "example_usage": "Der Stromausfall hat die Debatte über die Sicherheit kritischer Infrastruktur verstärkt."
+    },
+    {
+      "term": "der Vorfall",
+      "translated_term": "incident",
+      "example_usage": "Um solche Vorfälle in Zukunft zu verhindern."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Left Berlin",
+      "link_url": "https://theleftberlin.com/news-from-berlin-and-germany-14th-january-2026/"
+    }
+  ]
+}
