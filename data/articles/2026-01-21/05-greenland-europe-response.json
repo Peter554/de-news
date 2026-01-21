@@ -1,0 +1,118 @@
+{
+  "title": "Europäische Militärmission nach Grönland",
+  "translated_title": "European Military Mission to Greenland",
+  "text": [
+    {
+      "text": "Deutschland, Frankreich, Schweden und Norwegen senden Militärpersonal nach Grönland.",
+      "translated_text": "Germany, France, Sweden and Norway are sending military personnel to Greenland."
+    },
+    {
+      "text": "Die Mission ist eine Reaktion auf wachsende Sicherheitsbedenken in der Region.",
+      "translated_text": "The mission is a response to growing security concerns in the region."
+    },
+    {
+      "text": "Die Soldaten werden in Nuuk, der Hauptstadt Grönlands, stationiert.",
+      "translated_text": "The soldiers will be stationed in Nuuk, the capital of Greenland."
+    },
+    {
+      "text": "Es handelt sich um eine Aufklärungsmission.",
+      "translated_text": "It is a reconnaissance mission."
+    },
+    {
+      "text": "Die europäischen Länder wollen die strategische Lage in der Arktis besser verstehen.",
+      "translated_text": "The European countries want to better understand the strategic situation in the Arctic."
+    },
+    {
+      "text": "In letzter Zeit gibt es mehr internationale Spannungen wegen Grönland.",
+      "translated_text": "Recently there have been more international tensions over Greenland."
+    },
+    {
+      "text": "Die Arktis wird immer wichtiger für Rohstoffe und Handelsrouten.",
+      "translated_text": "The Arctic is becoming increasingly important for raw materials and trade routes."
+    },
+    {
+      "text": "Europa möchte zeigen, dass es die Souveränität seiner Partner schützt.",
+      "translated_text": "Europe wants to show that it protects the sovereignty of its partners."
+    },
+    {
+      "text": "Die Mission begann Mitte Januar 2026.",
+      "translated_text": "The mission began in mid-January 2026."
+    },
+    {
+      "text": "Experten sehen dies als wichtigen Schritt für die europäische Sicherheit.",
+      "translated_text": "Experts see this as an important step for European security."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Militärpersonal",
+      "translated_term": "military personnel",
+      "example_usage": "Deutschland, Frankreich, Schweden und Norwegen senden Militärpersonal nach Grönland."
+    },
+    {
+      "term": "senden",
+      "translated_term": "to send",
+      "example_usage": "Deutschland, Frankreich, Schweden und Norwegen senden Militärpersonal nach Grönland."
+    },
+    {
+      "term": "die Reaktion",
+      "translated_term": "response/reaction",
+      "example_usage": "Die Mission ist eine Reaktion auf wachsende Sicherheitsbedenken in der Region."
+    },
+    {
+      "term": "die Sicherheitsbedenken",
+      "translated_term": "security concerns",
+      "example_usage": "Die Mission ist eine Reaktion auf wachsende Sicherheitsbedenken in der Region."
+    },
+    {
+      "term": "stationieren",
+      "translated_term": "to station",
+      "example_usage": "Die Soldaten werden in Nuuk, der Hauptstadt Grönlands, stationiert."
+    },
+    {
+      "term": "die Aufklärungsmission",
+      "translated_term": "reconnaissance mission",
+      "example_usage": "Es handelt sich um eine Aufklärungsmission."
+    },
+    {
+      "term": "strategisch",
+      "translated_term": "strategic",
+      "example_usage": "Die europäischen Länder wollen die strategische Lage in der Arktis besser verstehen."
+    },
+    {
+      "term": "die Spannung",
+      "translated_term": "tension",
+      "example_usage": "In letzter Zeit gibt es mehr internationale Spannungen wegen Grönland."
+    },
+    {
+      "term": "die Souveränität",
+      "translated_term": "sovereignty",
+      "example_usage": "Europa möchte zeigen, dass es die Souveränität seiner Partner schützt."
+    },
+    {
+      "term": "der Schritt",
+      "translated_term": "step",
+      "example_usage": "Experten sehen dies als wichtigen Schritt für die europäische Sicherheit."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Europäische Union",
+      "translated_name": "European Union"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Grönland",
+      "translated_name": "Greenland"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local",
+      "link_url": "https://www.thelocal.de/20260115/today-in-germany-a-roundup-of-the-latest-news-on-thursday-102"
+    }
+  ]
+}

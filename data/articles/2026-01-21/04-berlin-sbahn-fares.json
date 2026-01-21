@@ -1,0 +1,118 @@
+{
+  "title": "Höhere Fahrpreise für Berliner S-Bahn",
+  "translated_title": "Higher Fares for Berlin S-Bahn",
+  "text": [
+    {
+      "text": "Ab Januar 2026 müssen Fahrgäste in Berlin mehr für die S-Bahn bezahlen.",
+      "translated_text": "From January 2026, passengers in Berlin have to pay more for the S-Bahn."
+    },
+    {
+      "text": "Eine einzelne Fahrt innerhalb des S-Bahn-Rings kostet jetzt 4,00 Euro.",
+      "translated_text": "A single journey within the S-Bahn ring now costs 4.00 euros."
+    },
+    {
+      "text": "Das sind 20 Cent mehr als im letzten Jahr.",
+      "translated_text": "That is 20 cents more than last year."
+    },
+    {
+      "text": "Dies ist das erste Mal, dass eine Fahrt in dieser Zone vier Euro kostet.",
+      "translated_text": "This is the first time that a journey in this zone costs four euros."
+    },
+    {
+      "text": "In Berlin und Brandenburg steigen die Ticketpreise durchschnittlich um sechs Prozent.",
+      "translated_text": "In Berlin and Brandenburg, ticket prices are rising by an average of six percent."
+    },
+    {
+      "text": "Die Verkehrsbetriebe begründen die Erhöhung mit gestiegenen Kosten.",
+      "translated_text": "The transport companies justify the increase with rising costs."
+    },
+    {
+      "text": "Besonders die Energie- und Personalkosten sind höher geworden.",
+      "translated_text": "Particularly energy and personnel costs have become higher."
+    },
+    {
+      "text": "Viele Pendler sind über die Preiserhöhung nicht glücklich.",
+      "translated_text": "Many commuters are not happy about the price increase."
+    },
+    {
+      "text": "Sie müssen nun mehr Geld für den täglichen Weg zur Arbeit ausgeben.",
+      "translated_text": "They now have to spend more money on their daily commute to work."
+    },
+    {
+      "text": "Trotzdem bleibt der öffentliche Nahverkehr günstiger als das Auto.",
+      "translated_text": "Nevertheless, public transport remains cheaper than the car."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Fahrpreis",
+      "translated_term": "fare",
+      "example_usage": "Höhere Fahrpreise für Berliner S-Bahn."
+    },
+    {
+      "term": "der Fahrgast",
+      "translated_term": "passenger",
+      "example_usage": "Ab Januar 2026 müssen Fahrgäste in Berlin mehr für die S-Bahn bezahlen."
+    },
+    {
+      "term": "die Fahrt",
+      "translated_term": "journey",
+      "example_usage": "Eine einzelne Fahrt innerhalb des S-Bahn-Rings kostet jetzt 4,00 Euro."
+    },
+    {
+      "term": "der Ring",
+      "translated_term": "ring",
+      "example_usage": "Eine einzelne Fahrt innerhalb des S-Bahn-Rings kostet jetzt 4,00 Euro."
+    },
+    {
+      "term": "durchschnittlich",
+      "translated_term": "on average",
+      "example_usage": "In Berlin und Brandenburg steigen die Ticketpreise durchschnittlich um sechs Prozent."
+    },
+    {
+      "term": "die Erhöhung",
+      "translated_term": "increase",
+      "example_usage": "Die Verkehrsbetriebe begründen die Erhöhung mit gestiegenen Kosten."
+    },
+    {
+      "term": "begründen",
+      "translated_term": "to justify/explain",
+      "example_usage": "Die Verkehrsbetriebe begründen die Erhöhung mit gestiegenen Kosten."
+    },
+    {
+      "term": "der Pendler",
+      "translated_term": "commuter",
+      "example_usage": "Viele Pendler sind über die Preiserhöhung nicht glücklich."
+    },
+    {
+      "term": "der Nahverkehr",
+      "translated_term": "local transport",
+      "example_usage": "Trotzdem bleibt der öffentliche Nahverkehr günstiger als das Auto."
+    },
+    {
+      "term": "ausgeben",
+      "translated_term": "to spend",
+      "example_usage": "Sie müssen nun mehr Geld für den täglichen Weg zur Arbeit ausgeben."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local",
+      "link_url": "https://www.thelocal.de/20251231/everything-that-changes-in-germany-in-january-2026"
+    }
+  ]
+}
