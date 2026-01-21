@@ -1,0 +1,118 @@
+{
+  "title": "Deutsch-französisches Kampfjet-Projekt verpasst Frist",
+  "translated_title": "German-French Fighter Jet Project Misses Deadline",
+  "text": [
+    {
+      "text": "Deutschland und Frankreich arbeiten seit Jahren an einem gemeinsamen Kampfflugzeug.",
+      "translated_text": "Germany and France have been working on a joint fighter aircraft for years."
+    },
+    {
+      "text": "Das Projekt heißt FCAS - Future Combat Air System.",
+      "translated_text": "The project is called FCAS - Future Combat Air System."
+    },
+    {
+      "text": "Die beiden Länder sollten bis Januar 2026 eine wichtige Vereinbarung treffen.",
+      "translated_text": "The two countries were supposed to reach an important agreement by January 2026."
+    },
+    {
+      "text": "Doch diese Frist haben sie nicht eingehalten.",
+      "translated_text": "But they did not meet this deadline."
+    },
+    {
+      "text": "Es gibt weiterhin Meinungsverschiedenheiten zwischen den beiden Regierungen.",
+      "translated_text": "There continue to be disagreements between the two governments."
+    },
+    {
+      "text": "Deshalb hat Deutschland begonnen, mit Schweden zu sprechen.",
+      "translated_text": "Therefore, Germany has started talking with Sweden."
+    },
+    {
+      "text": "Die schwedische Firma Saab könnte ein alternativer Partner werden.",
+      "translated_text": "The Swedish company Saab could become an alternative partner."
+    },
+    {
+      "text": "Auch Indien zeigt Interesse an einer Zusammenarbeit.",
+      "translated_text": "India is also showing interest in a collaboration."
+    },
+    {
+      "text": "Das FCAS-Projekt ist sehr wichtig für die europäische Verteidigung.",
+      "translated_text": "The FCAS project is very important for European defense."
+    },
+    {
+      "text": "Experten hoffen, dass die Länder bald eine Lösung finden werden.",
+      "translated_text": "Experts hope that the countries will soon find a solution."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Kampfflugzeug",
+      "translated_term": "fighter aircraft",
+      "example_usage": "Deutschland und Frankreich arbeiten seit Jahren an einem gemeinsamen Kampfflugzeug."
+    },
+    {
+      "term": "gemeinsam",
+      "translated_term": "joint/together",
+      "example_usage": "Deutschland und Frankreich arbeiten seit Jahren an einem gemeinsamen Kampfflugzeug."
+    },
+    {
+      "term": "die Vereinbarung",
+      "translated_term": "agreement",
+      "example_usage": "Die beiden Länder sollten bis Januar 2026 eine wichtige Vereinbarung treffen."
+    },
+    {
+      "term": "die Frist",
+      "translated_term": "deadline",
+      "example_usage": "Doch diese Frist haben sie nicht eingehalten."
+    },
+    {
+      "term": "einhalten",
+      "translated_term": "to meet/comply with",
+      "example_usage": "Doch diese Frist haben sie nicht eingehalten."
+    },
+    {
+      "term": "die Meinungsverschiedenheit",
+      "translated_term": "disagreement",
+      "example_usage": "Es gibt weiterhin Meinungsverschiedenheiten zwischen den beiden Regierungen."
+    },
+    {
+      "term": "alternativ",
+      "translated_term": "alternative",
+      "example_usage": "Die schwedische Firma Saab könnte ein alternativer Partner werden."
+    },
+    {
+      "term": "die Zusammenarbeit",
+      "translated_term": "collaboration",
+      "example_usage": "Auch Indien zeigt Interesse an einer Zusammenarbeit."
+    },
+    {
+      "term": "die Verteidigung",
+      "translated_term": "defense",
+      "example_usage": "Das FCAS-Projekt ist sehr wichtig für die europäische Verteidigung."
+    },
+    {
+      "term": "die Lösung",
+      "translated_term": "solution",
+      "example_usage": "Experten hoffen, dass die Länder bald eine Lösung finden werden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Frankreich",
+      "translated_name": "France"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Indian Defence Research Wing",
+      "link_url": "https://idrw.org/france-germany-fcas-talks-miss-january-2026-deadline-as-berlin-opens-door-to-saab-and-eyes-india-as-potential-partner/"
+    }
+  ]
+}
