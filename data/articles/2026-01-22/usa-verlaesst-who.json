@@ -1,0 +1,132 @@
+{
+  "title": "USA verlassen die Weltgesundheitsorganisation",
+  "translated_title": "USA leaves the World Health Organization",
+  "text": [
+    {
+      "text": "Am 22. Januar 2026 verlassen die USA offiziell die Weltgesundheitsorganisation (WHO).",
+      "translated_text": "On January 22, 2026, the USA officially leaves the World Health Organization (WHO)."
+    },
+    {
+      "text": "Diese Entscheidung wurde vor einem Jahr von Präsident Trump getroffen.",
+      "translated_text": "This decision was made one year ago by President Trump."
+    },
+    {
+      "text": "Trump kritisierte die WHO für ihre Handhabung der COVID-19-Pandemie und für politischen Druck aus China.",
+      "translated_text": "Trump criticized the WHO for its handling of the COVID-19 pandemic and for political pressure from China."
+    },
+    {
+      "text": "Die USA waren der größte finanzielle Unterstützer der WHO und zahlten mehr als 15 Prozent des gesamten Budgets.",
+      "translated_text": "The USA was the largest financial supporter of the WHO and paid more than 15 percent of the total budget."
+    },
+    {
+      "text": "Seit Trump wieder im Amt ist, haben die USA ihre ausstehenden Mitgliedsbeiträge für 2024 und 2025 nicht bezahlt.",
+      "translated_text": "Since Trump has been back in office, the USA has not paid its outstanding membership fees for 2024 and 2025."
+    },
+    {
+      "text": "Diese ausstehenden Zahlungen belaufen sich auf etwa 280 Millionen Dollar.",
+      "translated_text": "These outstanding payments amount to approximately 280 million dollars."
+    },
+    {
+      "text": "Der Austritt der USA ist ein schwerer Schlag für die internationale Gesundheitszusammenarbeit.",
+      "translated_text": "The USA's exit is a severe blow to international health cooperation."
+    },
+    {
+      "text": "Viele Experten befürchten, dass dies die Fähigkeit der WHO schwächt, auf zukünftige Gesundheitskrisen zu reagieren.",
+      "translated_text": "Many experts fear that this weakens the WHO's ability to respond to future health crises."
+    },
+    {
+      "text": "Auch Argentinien hat angekündigt, die WHO zu verlassen.",
+      "translated_text": "Argentina has also announced that it will leave the WHO."
+    },
+    {
+      "text": "Die Zukunft der globalen Gesundheitspolitik bleibt ungewiss.",
+      "translated_text": "The future of global health policy remains uncertain."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Weltgesundheitsorganisation",
+      "translated_term": "World Health Organization",
+      "example_usage": "Am 22. Januar 2026 verlassen die USA offiziell die Weltgesundheitsorganisation (WHO)."
+    },
+    {
+      "term": "verlassen",
+      "translated_term": "to leave",
+      "example_usage": "Am 22. Januar 2026 verlassen die USA offiziell die Weltgesundheitsorganisation."
+    },
+    {
+      "term": "die Handhabung",
+      "translated_term": "handling",
+      "example_usage": "Trump kritisierte die WHO für ihre Handhabung der COVID-19-Pandemie."
+    },
+    {
+      "term": "der Unterstützer",
+      "translated_term": "supporter",
+      "example_usage": "Die USA waren der größte finanzielle Unterstützer der WHO."
+    },
+    {
+      "term": "das Budget",
+      "translated_term": "budget",
+      "example_usage": "Die USA zahlten mehr als 15 Prozent des gesamten Budgets."
+    },
+    {
+      "term": "ausstehend",
+      "translated_term": "outstanding",
+      "example_usage": "Die USA haben ihre ausstehenden Mitgliedsbeiträge für 2024 und 2025 nicht bezahlt."
+    },
+    {
+      "term": "der Mitgliedsbeitrag",
+      "translated_term": "membership fee",
+      "example_usage": "Die ausstehenden Mitgliedsbeiträge belaufen sich auf etwa 280 Millionen Dollar."
+    },
+    {
+      "term": "sich belaufen auf",
+      "translated_term": "to amount to",
+      "example_usage": "Diese ausstehenden Zahlungen belaufen sich auf etwa 280 Millionen Dollar."
+    },
+    {
+      "term": "der Schlag",
+      "translated_term": "blow",
+      "example_usage": "Der Austritt der USA ist ein schwerer Schlag für die internationale Gesundheitszusammenarbeit."
+    },
+    {
+      "term": "befürchten",
+      "translated_term": "to fear",
+      "example_usage": "Viele Experten befürchten, dass dies die Fähigkeit der WHO schwächt."
+    },
+    {
+      "term": "schwächen",
+      "translated_term": "to weaken",
+      "example_usage": "Dies schwächt die Fähigkeit der WHO, auf zukünftige Gesundheitskrisen zu reagieren."
+    },
+    {
+      "term": "die Gesundheitskrise",
+      "translated_term": "health crisis",
+      "example_usage": "Viele Experten befürchten, dass dies die Fähigkeit der WHO schwächt, auf zukünftige Gesundheitskrisen zu reagieren."
+    }
+  ],
+  "tags": [
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2025/1/24/united-nations-confirms-us-will-leave-world-health-organization-in-2026"
+    },
+    {
+      "name": "Watson",
+      "link_url": "https://www.watson.ch/international/usa/958074949-who-usa-tretten-aus-weltgesundheitsorganisation-aus"
+    }
+  ]
+}
