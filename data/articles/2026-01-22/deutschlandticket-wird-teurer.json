@@ -1,0 +1,128 @@
+{
+  "title": "Deutschlandticket wird teurer: Preis steigt auf 63 Euro",
+  "translated_title": "Deutschlandticket becomes more expensive: Price rises to 63 euros",
+  "text": [
+    {
+      "text": "Das beliebte Deutschlandticket ist seit Januar 2026 teurer geworden.",
+      "translated_text": "The popular Deutschlandticket has become more expensive since January 2026."
+    },
+    {
+      "text": "Der monatliche Preis ist von 58 Euro auf 63 Euro gestiegen.",
+      "translated_text": "The monthly price has risen from 58 euros to 63 euros."
+    },
+    {
+      "text": "Das sind fünf Euro mehr pro Monat oder 60 Euro mehr pro Jahr.",
+      "translated_text": "That is five euros more per month or 60 euros more per year."
+    },
+    {
+      "text": "Das Deutschlandticket erlaubt unbegrenzte Fahrten mit Bus und Bahn im Nahverkehr in ganz Deutschland.",
+      "translated_text": "The Deutschlandticket allows unlimited travel by bus and train in local transport throughout Germany."
+    },
+    {
+      "text": "Auch in Berlin und Brandenburg sind die Fahrpreise im Januar gestiegen.",
+      "translated_text": "Fares have also risen in Berlin and Brandenburg in January."
+    },
+    {
+      "text": "Die Preise für den öffentlichen Nahverkehr sind dort durchschnittlich um sechs Prozent teurer geworden.",
+      "translated_text": "Prices for public local transport there have become six percent more expensive on average."
+    },
+    {
+      "text": "Die Preiserhöhung ist umstritten, da viele Menschen auf das Ticket angewiesen sind.",
+      "translated_text": "The price increase is controversial because many people depend on the ticket."
+    },
+    {
+      "text": "Verkehrsexperten sagen, dass höhere Kosten für Energie und Personal die Erhöhung notwendig machen.",
+      "translated_text": "Transport experts say that higher costs for energy and staff make the increase necessary."
+    },
+    {
+      "text": "Trotz des höheren Preises bleibt das Deutschlandticket ein günstiges Angebot für Pendler.",
+      "translated_text": "Despite the higher price, the Deutschlandticket remains an affordable offer for commuters."
+    },
+    {
+      "text": "Millionen Deutsche nutzen das Ticket täglich für ihre Fahrt zur Arbeit oder Schule.",
+      "translated_text": "Millions of Germans use the ticket daily for their journey to work or school."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Deutschlandticket",
+      "translated_term": "Germany ticket",
+      "example_usage": "Das beliebte Deutschlandticket ist seit Januar 2026 teurer geworden."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise",
+      "example_usage": "Der monatliche Preis ist von 58 Euro auf 63 Euro gestiegen."
+    },
+    {
+      "term": "unbegrenzt",
+      "translated_term": "unlimited",
+      "example_usage": "Das Deutschlandticket erlaubt unbegrenzte Fahrten mit Bus und Bahn im Nahverkehr."
+    },
+    {
+      "term": "der Nahverkehr",
+      "translated_term": "local transport",
+      "example_usage": "Das Deutschlandticket erlaubt unbegrenzte Fahrten mit Bus und Bahn im Nahverkehr in ganz Deutschland."
+    },
+    {
+      "term": "der Fahrpreis",
+      "translated_term": "fare",
+      "example_usage": "Auch in Berlin und Brandenburg sind die Fahrpreise im Januar gestiegen."
+    },
+    {
+      "term": "die Preiserhöhung",
+      "translated_term": "price increase",
+      "example_usage": "Die Preiserhöhung ist umstritten, da viele Menschen auf das Ticket angewiesen sind."
+    },
+    {
+      "term": "umstritten",
+      "translated_term": "controversial",
+      "example_usage": "Die Preiserhöhung ist umstritten, da viele Menschen auf das Ticket angewiesen sind."
+    },
+    {
+      "term": "auf etwas angewiesen sein",
+      "translated_term": "to depend on something",
+      "example_usage": "Die Preiserhöhung ist umstritten, da viele Menschen auf das Ticket angewiesen sind."
+    },
+    {
+      "term": "die Erhöhung",
+      "translated_term": "increase",
+      "example_usage": "Verkehrsexperten sagen, dass höhere Kosten für Energie und Personal die Erhöhung notwendig machen."
+    },
+    {
+      "term": "günstig",
+      "translated_term": "affordable",
+      "example_usage": "Trotz des höheren Preises bleibt das Deutschlandticket ein günstiges Angebot für Pendler."
+    },
+    {
+      "term": "der Pendler",
+      "translated_term": "commuter",
+      "example_usage": "Trotz des höheren Preises bleibt das Deutschlandticket ein günstiges Angebot für Pendler."
+    },
+    {
+      "term": "nutzen",
+      "translated_term": "to use",
+      "example_usage": "Millionen Deutsche nutzen das Ticket täglich für ihre Fahrt zur Arbeit oder Schule."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local",
+      "link_url": "https://www.thelocal.de/20251231/everything-that-changes-in-germany-in-january-2026"
+    }
+  ]
+}

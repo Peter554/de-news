@@ -1,0 +1,132 @@
+{
+  "title": "Deutsche Industrie verliert Arbeitsplätze durch China-Konkurrenz",
+  "translated_title": "German industry loses jobs due to China competition",
+  "text": [
+    {
+      "text": "Die deutsche Wirtschaft steht vor großen Herausforderungen im Jahr 2026.",
+      "translated_text": "The German economy faces major challenges in 2026."
+    },
+    {
+      "text": "36 Prozent der befragten Unternehmen planen, Stellen abzubauen, während nur 18 Prozent neue Mitarbeiter einstellen wollen.",
+      "translated_text": "36 percent of surveyed companies plan to cut jobs, while only 18 percent want to hire new employees."
+    },
+    {
+      "text": "Die Situation ist besonders schwierig in der Industrie, wo 41 Prozent der Unternehmen Personal reduzieren möchten.",
+      "translated_text": "The situation is particularly difficult in industry, where 41 percent of companies want to reduce staff."
+    },
+    {
+      "text": "Fast eine halbe Million Arbeitsplätze in Deutschland hängen von der Nachfrage aus China ab.",
+      "translated_text": "Almost half a million jobs in Germany depend on demand from China."
+    },
+    {
+      "text": "Die Konkurrenz aus China wird immer stärker und macht deutschen Firmen zu schaffen.",
+      "translated_text": "Competition from China is becoming increasingly strong and causing problems for German companies."
+    },
+    {
+      "text": "Viele deutsche Unternehmen bauen ihre Produktion in China aus, statt von Deutschland aus zu exportieren.",
+      "translated_text": "Many German companies are expanding their production in China instead of exporting from Germany."
+    },
+    {
+      "text": "Ein Beispiel ist Bosch, das eine Milliarde Euro in China investiert, aber gleichzeitig 6.000 Stellen in Deutschland abbaut.",
+      "translated_text": "One example is Bosch, which is investing one billion euros in China but simultaneously cutting 6,000 jobs in Germany."
+    },
+    {
+      "text": "68 Prozent der Unternehmen denken darüber nach, ihre Produktion ins Ausland zu verlagern.",
+      "translated_text": "68 percent of companies are considering relocating their production abroad."
+    },
+    {
+      "text": "Die Gründe sind hohe Energiekosten, teure Sozialversicherungen und zu viel Bürokratie in Deutschland.",
+      "translated_text": "The reasons are high energy costs, expensive social insurance, and too much bureaucracy in Germany."
+    },
+    {
+      "text": "Die Zukunft der deutschen Industrie bleibt unsicher.",
+      "translated_text": "The future of German industry remains uncertain."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Arbeitsplatz",
+      "translated_term": "job",
+      "example_usage": "Fast eine halbe Million Arbeitsplätze in Deutschland hängen von der Nachfrage aus China ab."
+    },
+    {
+      "term": "die Herausforderung",
+      "translated_term": "challenge",
+      "example_usage": "Die deutsche Wirtschaft steht vor großen Herausforderungen im Jahr 2026."
+    },
+    {
+      "term": "abbauen",
+      "translated_term": "to cut, to reduce",
+      "example_usage": "36 Prozent der befragten Unternehmen planen, Stellen abzubauen."
+    },
+    {
+      "term": "einstellen",
+      "translated_term": "to hire",
+      "example_usage": "Nur 18 Prozent wollen neue Mitarbeiter einstellen."
+    },
+    {
+      "term": "die Nachfrage",
+      "translated_term": "demand",
+      "example_usage": "Fast eine halbe Million Arbeitsplätze in Deutschland hängen von der Nachfrage aus China ab."
+    },
+    {
+      "term": "die Konkurrenz",
+      "translated_term": "competition",
+      "example_usage": "Die Konkurrenz aus China wird immer stärker."
+    },
+    {
+      "term": "jemandem zu schaffen machen",
+      "translated_term": "to cause problems for someone",
+      "example_usage": "Die Konkurrenz macht deutschen Firmen zu schaffen."
+    },
+    {
+      "term": "ausbauen",
+      "translated_term": "to expand",
+      "example_usage": "Viele deutsche Unternehmen bauen ihre Produktion in China aus."
+    },
+    {
+      "term": "verlagern",
+      "translated_term": "to relocate",
+      "example_usage": "68 Prozent der Unternehmen denken darüber nach, ihre Produktion ins Ausland zu verlagern."
+    },
+    {
+      "term": "die Energiekosten",
+      "translated_term": "energy costs",
+      "example_usage": "Die Gründe sind hohe Energiekosten, teure Sozialversicherungen und zu viel Bürokratie."
+    },
+    {
+      "term": "die Sozialversicherung",
+      "translated_term": "social insurance",
+      "example_usage": "Die Gründe sind hohe Energiekosten, teure Sozialversicherungen und zu viel Bürokratie."
+    },
+    {
+      "term": "die Bürokratie",
+      "translated_term": "bureaucracy",
+      "example_usage": "Die Gründe sind hohe Energiekosten, teure Sozialversicherungen und zu viel Bürokratie in Deutschland."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "China",
+      "translated_name": "China"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Leinetal24",
+      "link_url": "https://www.leinetal24.de/wirtschaft/stellenabbau-deutschland-2026-ein-drittel-der-unternehmen-planen-jobkuerzungen-zr-94017543.html"
+    },
+    {
+      "name": "Kettner Edelmetalle",
+      "link_url": "https://www.kettner-edelmetalle.de/news/chinas-wirtschaftsoffensive-wie-peking-die-deutsche-industrie-systematisch-verdrangt-20-10-2025"
+    }
+  ]
+}
