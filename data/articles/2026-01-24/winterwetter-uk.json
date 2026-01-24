@@ -1,0 +1,158 @@
+{
+  "title": "Winterwetter stört Großbritannien",
+  "translated_title": "Winter weather disrupts Great Britain",
+  "text": [
+    {
+      "text": "Großbritannien erlebt ein unruhiges Winterwochenende.",
+      "translated_text": "Great Britain is experiencing an unsettled winter weekend."
+    },
+    {
+      "text": "Das Wetter ist kalt und regnerisch in vielen Teilen des Landes.",
+      "translated_text": "The weather is cold and rainy in many parts of the country."
+    },
+    {
+      "text": "Besonders der Nordosten Schottlands hat mit eisigen Temperaturen zu kämpfen.",
+      "translated_text": "Especially the northeast of Scotland is struggling with icy temperatures."
+    },
+    {
+      "text": "Die Wetterbehörde hat mehrere gelbe Warnungen herausgegeben.",
+      "translated_text": "The weather service has issued several yellow warnings."
+    },
+    {
+      "text": "In London gibt es große Probleme im öffentlichen Verkehr.",
+      "translated_text": "In London there are major problems with public transport."
+    },
+    {
+      "text": "Die Circle Line und die Metropolitan Line sind teilweise geschlossen.",
+      "translated_text": "The Circle Line and the Metropolitan Line are partially closed."
+    },
+    {
+      "text": "Viele Menschen können am Wochenende nicht wie gewohnt reisen.",
+      "translated_text": "Many people cannot travel as usual at the weekend."
+    },
+    {
+      "text": "Die Schließungen dauern den ganzen Samstag und Sonntag.",
+      "translated_text": "The closures last all day Saturday and Sunday."
+    },
+    {
+      "text": "Das schlechte Wetter bringt auch starke Winde mit sich.",
+      "translated_text": "The bad weather also brings strong winds with it."
+    },
+    {
+      "text": "Experten raten den Menschen, zu Hause zu bleiben, wenn möglich.",
+      "translated_text": "Experts advise people to stay at home if possible."
+    },
+    {
+      "text": "Die grauen und nassen Bedingungen werden noch einige Tage anhalten.",
+      "translated_text": "The grey and wet conditions will continue for several more days."
+    },
+    {
+      "text": "Es ist das letzte volle Wochenende im Januar.",
+      "translated_text": "It is the last full weekend in January."
+    },
+    {
+      "text": "Viele Briten hoffen auf besseres Wetter im Februar.",
+      "translated_text": "Many Britons hope for better weather in February."
+    },
+    {
+      "text": "Die Verkehrsstörungen haben Tausende von Reisenden betroffen.",
+      "translated_text": "The transport disruptions have affected thousands of travelers."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "unruhig",
+      "translated_term": "unsettled",
+      "example_usage": "Großbritannien erlebt ein unruhiges Winterwochenende."
+    },
+    {
+      "term": "regnerisch",
+      "translated_term": "rainy",
+      "example_usage": "Das Wetter ist kalt und regnerisch in vielen Teilen des Landes."
+    },
+    {
+      "term": "eisig",
+      "translated_term": "icy",
+      "example_usage": "Besonders der Nordosten Schottlands hat mit eisigen Temperaturen zu kämpfen."
+    },
+    {
+      "term": "kämpfen",
+      "translated_term": "to struggle",
+      "example_usage": "Besonders der Nordosten Schottlands hat mit eisigen Temperaturen zu kämpfen."
+    },
+    {
+      "term": "die Wetterbehörde",
+      "translated_term": "weather service",
+      "example_usage": "Die Wetterbehörde hat mehrere gelbe Warnungen herausgegeben."
+    },
+    {
+      "term": "herausgeben",
+      "translated_term": "to issue",
+      "example_usage": "Die Wetterbehörde hat mehrere gelbe Warnungen herausgegeben."
+    },
+    {
+      "term": "der öffentliche Verkehr",
+      "translated_term": "public transport",
+      "example_usage": "In London gibt es große Probleme im öffentlichen Verkehr."
+    },
+    {
+      "term": "teilweise",
+      "translated_term": "partially",
+      "example_usage": "Die Circle Line und die Metropolitan Line sind teilweise geschlossen."
+    },
+    {
+      "term": "wie gewohnt",
+      "translated_term": "as usual",
+      "example_usage": "Viele Menschen können am Wochenende nicht wie gewohnt reisen."
+    },
+    {
+      "term": "die Schließung",
+      "translated_term": "closure",
+      "example_usage": "Die Schließungen dauern den ganzen Samstag und Sonntag."
+    },
+    {
+      "term": "der Wind",
+      "translated_term": "wind",
+      "example_usage": "Das schlechte Wetter bringt auch starke Winde mit sich."
+    },
+    {
+      "term": "raten",
+      "translated_term": "to advise",
+      "example_usage": "Experten raten den Menschen, zu Hause zu bleiben, wenn möglich."
+    },
+    {
+      "term": "anhalten",
+      "translated_term": "to continue",
+      "example_usage": "Die grauen und nassen Bedingungen werden noch einige Tage anhalten."
+    },
+    {
+      "term": "betreffen",
+      "translated_term": "to affect",
+      "example_usage": "Die Verkehrsstörungen haben Tausende von Reisenden betroffen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Met Office",
+      "link_url": "https://www.metoffice.gov.uk/blog/2026/met-office-weather-forecast-for-this-weekend-january-24"
+    },
+    {
+      "name": "Time Out London",
+      "link_url": "https://www.timeout.com/london/news/london-tube-and-train-service-closures-disruption-tfl-january-24-25-2026-012326"
+    }
+  ]
+}
