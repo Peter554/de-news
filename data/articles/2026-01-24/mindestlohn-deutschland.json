@@ -1,0 +1,158 @@
+{
+  "title": "Höherer Mindestlohn in Deutschland",
+  "translated_title": "Higher minimum wage in Germany",
+  "text": [
+    {
+      "text": "Seit dem 1. Januar 2026 gibt es einen höheren Mindestlohn in Deutschland.",
+      "translated_text": "Since January 1, 2026, there is a higher minimum wage in Germany."
+    },
+    {
+      "text": "Der Mindestlohn ist von 12,82 Euro auf 13,90 Euro pro Stunde gestiegen.",
+      "translated_text": "The minimum wage has risen from 12.82 euros to 13.90 euros per hour."
+    },
+    {
+      "text": "Das bedeutet mehr Geld für Millionen von Arbeitnehmern.",
+      "translated_text": "That means more money for millions of workers."
+    },
+    {
+      "text": "Die Erhöhung hilft besonders Menschen mit niedrigen Einkommen.",
+      "translated_text": "The increase helps especially people with low incomes."
+    },
+    {
+      "text": "Viele Arbeitnehmer arbeiten in Gastronomie, Einzelhandel oder als Reinigungskräfte.",
+      "translated_text": "Many workers work in hospitality, retail or as cleaners."
+    },
+    {
+      "text": "Sie profitieren direkt von dieser Änderung.",
+      "translated_text": "They benefit directly from this change."
+    },
+    {
+      "text": "Auch die Minijob-Regeln haben sich geändert.",
+      "translated_text": "The mini-job rules have also changed."
+    },
+    {
+      "text": "Menschen mit Minijobs können jetzt mehr verdienen, ohne Steuern zu zahlen.",
+      "translated_text": "People with mini-jobs can now earn more without paying taxes."
+    },
+    {
+      "text": "Für 2027 ist eine weitere Erhöhung geplant.",
+      "translated_text": "Another increase is planned for 2027."
+    },
+    {
+      "text": "Die Regierung will damit die Lebensqualität verbessern.",
+      "translated_text": "The government wants to improve the quality of life with this."
+    },
+    {
+      "text": "Einige Unternehmen sind jedoch besorgt über die höheren Kosten.",
+      "translated_text": "However, some companies are worried about the higher costs."
+    },
+    {
+      "text": "Sie sagen, dass es schwieriger wird, Mitarbeiter zu bezahlen.",
+      "translated_text": "They say it will be more difficult to pay employees."
+    },
+    {
+      "text": "Gewerkschaften begrüßen die Erhöhung als wichtigen Schritt.",
+      "translated_text": "Unions welcome the increase as an important step."
+    },
+    {
+      "text": "Sie fordern aber noch mehr Verbesserungen für Arbeitnehmer.",
+      "translated_text": "But they demand even more improvements for workers."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Mindestlohn",
+      "translated_term": "minimum wage",
+      "example_usage": "Seit dem 1. Januar 2026 gibt es einen höheren Mindestlohn in Deutschland."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise",
+      "example_usage": "Der Mindestlohn ist von 12,82 Euro auf 13,90 Euro pro Stunde gestiegen."
+    },
+    {
+      "term": "der Arbeitnehmer",
+      "translated_term": "worker/employee",
+      "example_usage": "Das bedeutet mehr Geld für Millionen von Arbeitnehmern."
+    },
+    {
+      "term": "die Erhöhung",
+      "translated_term": "increase",
+      "example_usage": "Die Erhöhung hilft besonders Menschen mit niedrigen Einkommen."
+    },
+    {
+      "term": "das Einkommen",
+      "translated_term": "income",
+      "example_usage": "Die Erhöhung hilft besonders Menschen mit niedrigen Einkommen."
+    },
+    {
+      "term": "die Gastronomie",
+      "translated_term": "hospitality industry",
+      "example_usage": "Viele Arbeitnehmer arbeiten in Gastronomie, Einzelhandel oder als Reinigungskräfte."
+    },
+    {
+      "term": "der Einzelhandel",
+      "translated_term": "retail",
+      "example_usage": "Viele Arbeitnehmer arbeiten in Gastronomie, Einzelhandel oder als Reinigungskräfte."
+    },
+    {
+      "term": "profitieren",
+      "translated_term": "to benefit",
+      "example_usage": "Sie profitieren direkt von dieser Änderung."
+    },
+    {
+      "term": "der Minijob",
+      "translated_term": "mini-job",
+      "example_usage": "Auch die Minijob-Regeln haben sich geändert."
+    },
+    {
+      "term": "verdienen",
+      "translated_term": "to earn",
+      "example_usage": "Menschen mit Minijobs können jetzt mehr verdienen, ohne Steuern zu zahlen."
+    },
+    {
+      "term": "die Lebensqualität",
+      "translated_term": "quality of life",
+      "example_usage": "Die Regierung will damit die Lebensqualität verbessern."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "union",
+      "example_usage": "Gewerkschaften begrüßen die Erhöhung als wichtigen Schritt."
+    },
+    {
+      "term": "begrüßen",
+      "translated_term": "to welcome",
+      "example_usage": "Gewerkschaften begrüßen die Erhöhung als wichtigen Schritt."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand",
+      "example_usage": "Sie fordern aber noch mehr Verbesserungen für Arbeitnehmer."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20251231/everything-that-changes-in-germany-in-january-2026"
+    },
+    {
+      "name": "Payroll.org",
+      "link_url": "https://payroll.org/news-resources/news/news-detail/2026/01/01/germany-s-minimum-wage-increases-have-implications-for-mini-jobs"
+    }
+  ]
+}

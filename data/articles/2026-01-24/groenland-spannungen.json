@@ -1,0 +1,154 @@
+{
+  "title": "Trump droht Europa wegen Grönland",
+  "translated_title": "Trump threatens Europe over Greenland",
+  "text": [
+    {
+      "text": "Die Spannungen zwischen den USA und Europa sind gestiegen.",
+      "translated_text": "Tensions between the USA and Europe have increased."
+    },
+    {
+      "text": "Präsident Trump hat acht europäischen Ländern mit Zöllen gedroht.",
+      "translated_text": "President Trump has threatened eight European countries with tariffs."
+    },
+    {
+      "text": "Der Grund ist, dass diese Länder seinen Plan ablehnen, Grönland zu übernehmen.",
+      "translated_text": "The reason is that these countries reject his plan to take over Greenland."
+    },
+    {
+      "text": "Grönland ist eine autonome Region von Dänemark.",
+      "translated_text": "Greenland is an autonomous region of Denmark."
+    },
+    {
+      "text": "Trump möchte die Insel für die USA kaufen oder kontrollieren.",
+      "translated_text": "Trump wants to buy or control the island for the USA."
+    },
+    {
+      "text": "Viele europäische Politiker sind gegen diese Idee.",
+      "translated_text": "Many European politicians are against this idea."
+    },
+    {
+      "text": "Sie sagen, dass man Länder nicht einfach kaufen kann.",
+      "translated_text": "They say that you cannot simply buy countries."
+    },
+    {
+      "text": "Die europäischen Verbündeten sind besorgt über die neue amerikanische Politik.",
+      "translated_text": "The European allies are worried about the new American policy."
+    },
+    {
+      "text": "Zölle könnten den Handel zwischen Europa und den USA schaden.",
+      "translated_text": "Tariffs could harm trade between Europe and the USA."
+    },
+    {
+      "text": "Die Situation wurde beim Weltwirtschaftsforum in Davos diskutiert.",
+      "translated_text": "The situation was discussed at the World Economic Forum in Davos."
+    },
+    {
+      "text": "Europäische Führer haben betont, dass sie zusammenhalten werden.",
+      "translated_text": "European leaders have emphasized that they will stick together."
+    },
+    {
+      "text": "Die dänische Regierung hat klar gesagt, dass Grönland nicht verkauft wird.",
+      "translated_text": "The Danish government has clearly stated that Greenland will not be sold."
+    },
+    {
+      "text": "Experten warnen vor einer möglichen Handelskrise.",
+      "translated_text": "Experts warn of a possible trade crisis."
+    },
+    {
+      "text": "Die transatlantischen Beziehungen sind in einer schwierigen Phase.",
+      "translated_text": "Transatlantic relations are in a difficult phase."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Spannung",
+      "translated_term": "tension",
+      "example_usage": "Die Spannungen zwischen den USA und Europa sind gestiegen."
+    },
+    {
+      "term": "drohen",
+      "translated_term": "to threaten",
+      "example_usage": "Präsident Trump hat acht europäischen Ländern mit Zöllen gedroht."
+    },
+    {
+      "term": "der Zoll",
+      "translated_term": "tariff",
+      "example_usage": "Zölle könnten den Handel zwischen Europa und den USA schaden."
+    },
+    {
+      "term": "ablehnen",
+      "translated_term": "to reject",
+      "example_usage": "Der Grund ist, dass diese Länder seinen Plan ablehnen, Grönland zu übernehmen."
+    },
+    {
+      "term": "übernehmen",
+      "translated_term": "to take over",
+      "example_usage": "Trump möchte die Insel für die USA kaufen oder kontrollieren."
+    },
+    {
+      "term": "autonom",
+      "translated_term": "autonomous",
+      "example_usage": "Grönland ist eine autonome Region von Dänemark."
+    },
+    {
+      "term": "der Verbündete",
+      "translated_term": "ally",
+      "example_usage": "Die europäischen Verbündeten sind besorgt über die neue amerikanische Politik."
+    },
+    {
+      "term": "besorgt",
+      "translated_term": "worried",
+      "example_usage": "Die europäischen Verbündeten sind besorgt über die neue amerikanische Politik."
+    },
+    {
+      "term": "schaden",
+      "translated_term": "to harm",
+      "example_usage": "Zölle könnten den Handel zwischen Europa und den USA schaden."
+    },
+    {
+      "term": "der Handel",
+      "translated_term": "trade",
+      "example_usage": "Zölle könnten den Handel zwischen Europa und den USA schaden."
+    },
+    {
+      "term": "betonen",
+      "translated_term": "to emphasize",
+      "example_usage": "Europäische Führer haben betont, dass sie zusammenhalten werden."
+    },
+    {
+      "term": "zusammenhalten",
+      "translated_term": "to stick together",
+      "example_usage": "Europäische Führer haben betont, dass sie zusammenhalten werden."
+    },
+    {
+      "term": "warnen",
+      "translated_term": "to warn",
+      "example_usage": "Experten warnen vor einer möglichen Handelskrise."
+    },
+    {
+      "term": "transatlantisch",
+      "translated_term": "transatlantic",
+      "example_usage": "Die transatlantischen Beziehungen sind in einer schwierigen Phase."
+    }
+  ],
+  "tags": [
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Grönland",
+      "translated_name": "Greenland"
+    },
+    {
+      "name": "Handelspolitik",
+      "translated_name": "Trade Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN Politics",
+      "link_url": "https://www.cnn.com/politics/live-news/trump-administration-news-01-20-26"
+    }
+  ]
+}
