@@ -1,0 +1,122 @@
+{
+  "title": "Deutschland plant stärkste Armee Europas",
+  "translated_title": "Germany Plans Europe's Strongest Army",
+  "text": [
+    {
+      "text": "Die deutsche Bundeswehr steht vor einem großen Wandel.",
+      "translated_text": "The German armed forces are facing a major transformation."
+    },
+    {
+      "text": "Deutschland will in diesem Jahr 108 Milliarden Euro für die Verteidigung ausgeben.",
+      "translated_text": "Germany wants to spend 108 billion euros on defense this year."
+    },
+    {
+      "text": "Das entspricht 2,5 Prozent des Bruttoinlandsprodukts.",
+      "translated_text": "That corresponds to 2.5 percent of gross domestic product."
+    },
+    {
+      "text": "Seit Anfang des Jahres erhalten alle 18-jährigen Männer einen Fragebogen.",
+      "translated_text": "Since the beginning of the year, all 18-year-old men have been receiving a questionnaire."
+    },
+    {
+      "text": "Der Fragebogen fragt nach ihrer Tauglichkeit für den Militärdienst.",
+      "translated_text": "The questionnaire asks about their fitness for military service."
+    },
+    {
+      "text": "Bisher ist der Dienst bei der Bundeswehr noch freiwillig.",
+      "translated_text": "So far, service in the armed forces is still voluntary."
+    },
+    {
+      "text": "Das neue Gesetz erlaubt es der Regierung jedoch, eine Wehrpflicht einzuführen.",
+      "translated_text": "However, the new law allows the government to introduce conscription."
+    },
+    {
+      "text": "Viele Deutsche machen sich Sorgen um die Sicherheit in Europa.",
+      "translated_text": "Many Germans are worried about security in Europe."
+    },
+    {
+      "text": "Acht von zehn Deutschen glauben, dass Russlands Präsident Putin keinen echten Frieden will.",
+      "translated_text": "Eight out of ten Germans believe that Russia's President Putin does not want real peace."
+    },
+    {
+      "text": "Deutschland möchte die stärkste konventionelle Armee Europas aufbauen.",
+      "translated_text": "Germany wants to build Europe's strongest conventional army."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bundeswehr",
+      "translated_term": "German armed forces",
+      "example_usage": "Die deutsche Bundeswehr steht vor einem großen Wandel."
+    },
+    {
+      "term": "die Verteidigung",
+      "translated_term": "defense",
+      "example_usage": "Deutschland will in diesem Jahr 108 Milliarden Euro für die Verteidigung ausgeben."
+    },
+    {
+      "term": "ausgeben",
+      "translated_term": "to spend",
+      "example_usage": "Deutschland will in diesem Jahr 108 Milliarden Euro für die Verteidigung ausgeben."
+    },
+    {
+      "term": "das Bruttoinlandsprodukt",
+      "translated_term": "gross domestic product (GDP)",
+      "example_usage": "Das entspricht 2,5 Prozent des Bruttoinlandsprodukts."
+    },
+    {
+      "term": "der Fragebogen",
+      "translated_term": "questionnaire",
+      "example_usage": "Seit Anfang des Jahres erhalten alle 18-jährigen Männer einen Fragebogen."
+    },
+    {
+      "term": "die Tauglichkeit",
+      "translated_term": "fitness, suitability",
+      "example_usage": "Der Fragebogen fragt nach ihrer Tauglichkeit für den Militärdienst."
+    },
+    {
+      "term": "freiwillig",
+      "translated_term": "voluntary",
+      "example_usage": "Bisher ist der Dienst bei der Bundeswehr noch freiwillig."
+    },
+    {
+      "term": "die Wehrpflicht",
+      "translated_term": "conscription, military draft",
+      "example_usage": "Das neue Gesetz erlaubt es der Regierung jedoch, eine Wehrpflicht einzuführen."
+    },
+    {
+      "term": "sich Sorgen machen",
+      "translated_term": "to worry, to be worried",
+      "example_usage": "Viele Deutsche machen sich Sorgen um die Sicherheit in Europa."
+    },
+    {
+      "term": "aufbauen",
+      "translated_term": "to build up, to establish",
+      "example_usage": "Deutschland möchte die stärkste konventionelle Armee Europas aufbauen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Bundeswehr",
+      "translated_name": "Federal Armed Forces"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2026/1/19/why-is-germany-trying-to-build-europes-strongest-conventional-army"
+    },
+    {
+      "name": "Deutschland.de",
+      "link_url": "https://www.deutschland.de/en/news/taxes-minimum-wage-military-service-what-will-change-for-german-citizens-in-2026"
+    }
+  ]
+}

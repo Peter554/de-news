@@ -1,0 +1,122 @@
+{
+  "title": "Grüne Woche in Berlin endet heute",
+  "translated_title": "Green Week in Berlin Ends Today",
+  "text": [
+    {
+      "text": "Die Internationale Grüne Woche in Berlin geht heute zu Ende.",
+      "translated_text": "The International Green Week in Berlin comes to an end today."
+    },
+    {
+      "text": "Die Messe fand vom 16. bis 25. Januar 2026 statt.",
+      "translated_text": "The fair took place from January 16 to 25, 2026."
+    },
+    {
+      "text": "Es ist die weltweit größte Publikumsmesse für Landwirtschaft, Ernährung und Gartenbau.",
+      "translated_text": "It is the world's largest public fair for agriculture, food, and horticulture."
+    },
+    {
+      "text": "Tausende Besucher aus der ganzen Welt kamen nach Berlin.",
+      "translated_text": "Thousands of visitors from all over the world came to Berlin."
+    },
+    {
+      "text": "Sie konnten regionale Produkte aus vielen Ländern probieren.",
+      "translated_text": "They were able to taste regional products from many countries."
+    },
+    {
+      "text": "Anlässlich der Messe durften viele Geschäfte in Berlin heute von 13 bis 18 Uhr öffnen.",
+      "translated_text": "On the occasion of the fair, many shops in Berlin were allowed to open today from 1 pm to 6 pm."
+    },
+    {
+      "text": "Normalerweise sind Geschäfte in Deutschland sonntags geschlossen.",
+      "translated_text": "Normally, shops in Germany are closed on Sundays."
+    },
+    {
+      "text": "Das ist der erste verkaufsoffene Sonntag des Jahres in Berlin.",
+      "translated_text": "This is the first shopping Sunday of the year in Berlin."
+    },
+    {
+      "text": "Die Grüne Woche ist auch eine wichtige Plattform für politische Diskussionen.",
+      "translated_text": "Green Week is also an important platform for political discussions."
+    },
+    {
+      "text": "Experten diskutierten über Klimawandel, nachhaltige Landwirtschaft und globale Ernährungssicherheit.",
+      "translated_text": "Experts discussed climate change, sustainable agriculture, and global food security."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Messe",
+      "translated_term": "fair, trade show",
+      "example_usage": "Die Messe fand vom 16. bis 25. Januar 2026 statt."
+    },
+    {
+      "term": "die Landwirtschaft",
+      "translated_term": "agriculture",
+      "example_usage": "Es ist die weltweit größte Publikumsmesse für Landwirtschaft, Ernährung und Gartenbau."
+    },
+    {
+      "term": "die Ernährung",
+      "translated_term": "food, nutrition",
+      "example_usage": "Es ist die weltweit größte Publikumsmesse für Landwirtschaft, Ernährung und Gartenbau."
+    },
+    {
+      "term": "der Gartenbau",
+      "translated_term": "horticulture, gardening",
+      "example_usage": "Es ist die weltweit größte Publikumsmesse für Landwirtschaft, Ernährung und Gartenbau."
+    },
+    {
+      "term": "probieren",
+      "translated_term": "to taste, to try",
+      "example_usage": "Sie konnten regionale Produkte aus vielen Ländern probieren."
+    },
+    {
+      "term": "anlässlich",
+      "translated_term": "on the occasion of",
+      "example_usage": "Anlässlich der Messe durften viele Geschäfte in Berlin heute von 13 bis 18 Uhr öffnen."
+    },
+    {
+      "term": "verkaufsoffen",
+      "translated_term": "open for shopping (on a day normally closed)",
+      "example_usage": "Das ist der erste verkaufsoffene Sonntag des Jahres in Berlin."
+    },
+    {
+      "term": "die Plattform",
+      "translated_term": "platform",
+      "example_usage": "Die Grüne Woche ist auch eine wichtige Plattform für politische Diskussionen."
+    },
+    {
+      "term": "nachhaltig",
+      "translated_term": "sustainable",
+      "example_usage": "Experten diskutierten über Klimawandel, nachhaltige Landwirtschaft und globale Ernährungssicherheit."
+    },
+    {
+      "term": "die Ernährungssicherheit",
+      "translated_term": "food security",
+      "example_usage": "Experten diskutierten über Klimawandel, nachhaltige Landwirtschaft und globale Ernährungssicherheit."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Veranstaltungen",
+      "translated_name": "Events"
+    },
+    {
+      "name": "Landwirtschaft",
+      "translated_name": "Agriculture"
+    }
+  ],
+  "sources": [
+    {
+      "name": "In Berlin Brandenburg",
+      "link_url": "https://www.in-berlin-brandenburg.com/news/25-01-2026-verkaufsoffener-sonntag-in-berlin-brandenburg/"
+    },
+    {
+      "name": "Visit Berlin",
+      "link_url": "https://www.visitberlin.de/en/berlin-2026-die-wichtigsten-events"
+    }
+  ]
+}

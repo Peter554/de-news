@@ -1,0 +1,122 @@
+{
+  "title": "Deutschlands Mindestlohn steigt auf 13,90 Euro",
+  "translated_title": "Germany's Minimum Wage Rises to 13.90 Euros",
+  "text": [
+    {
+      "text": "Am 1. Januar 2026 ist der gesetzliche Mindestlohn in Deutschland von 12,82 Euro auf 13,90 Euro pro Stunde gestiegen.",
+      "translated_text": "On January 1, 2026, the statutory minimum wage in Germany rose from 12.82 euros to 13.90 euros per hour."
+    },
+    {
+      "text": "Diese Erhöhung betrifft Millionen von Arbeitnehmern im ganzen Land.",
+      "translated_text": "This increase affects millions of workers across the country."
+    },
+    {
+      "text": "Die Regierung hat diese Änderung eingeführt, um die steigenden Lebenshaltungskosten auszugleichen.",
+      "translated_text": "The government introduced this change to offset rising living costs."
+    },
+    {
+      "text": "Besonders betroffen sind Menschen, die einen Minijob haben.",
+      "translated_text": "People with mini-jobs are particularly affected."
+    },
+    {
+      "text": "Bei einem Minijob darf man höchstens 556 Euro im Monat verdienen.",
+      "translated_text": "With a mini-job, you are allowed to earn a maximum of 556 euros per month."
+    },
+    {
+      "text": "Wegen des höheren Mindestlohns können Minijobber nun weniger Stunden arbeiten als zuvor.",
+      "translated_text": "Because of the higher minimum wage, mini-jobbers can now work fewer hours than before."
+    },
+    {
+      "text": "Viele Arbeitgeber müssen ihre Arbeitszeiten neu planen.",
+      "translated_text": "Many employers must now reorganize their work schedules."
+    },
+    {
+      "text": "Gewerkschaften begrüßen die Erhöhung und fordern weitere Verbesserungen für 2027.",
+      "translated_text": "Trade unions welcome the increase and demand further improvements for 2027."
+    },
+    {
+      "text": "Wirtschaftsverbände warnen jedoch vor zusätzlichen Kosten für kleine Unternehmen.",
+      "translated_text": "However, business associations warn of additional costs for small companies."
+    },
+    {
+      "text": "Für 2027 ist bereits eine weitere Anhebung des Mindestlohns geplant.",
+      "translated_text": "Another increase in the minimum wage is already planned for 2027."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Mindestlohn",
+      "translated_term": "minimum wage",
+      "example_usage": "Der gesetzliche Mindestlohn ist auf 13,90 Euro pro Stunde gestiegen."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise, to increase",
+      "example_usage": "Am 1. Januar 2026 ist der gesetzliche Mindestlohn in Deutschland von 12,82 Euro auf 13,90 Euro pro Stunde gestiegen."
+    },
+    {
+      "term": "der Arbeitnehmer / die Arbeitnehmerin",
+      "translated_term": "employee, worker",
+      "example_usage": "Diese Erhöhung betrifft Millionen von Arbeitnehmern im ganzen Land."
+    },
+    {
+      "term": "die Erhöhung",
+      "translated_term": "increase, raise",
+      "example_usage": "Gewerkschaften begrüßen die Erhöhung und fordern weitere Verbesserungen für 2027."
+    },
+    {
+      "term": "die Lebenshaltungskosten",
+      "translated_term": "living costs, cost of living",
+      "example_usage": "Die Regierung hat diese Änderung eingeführt, um die steigenden Lebenshaltungskosten auszugleichen."
+    },
+    {
+      "term": "ausgleichen",
+      "translated_term": "to offset, to compensate",
+      "example_usage": "Die Regierung hat diese Änderung eingeführt, um die steigenden Lebenshaltungskosten auszugleichen."
+    },
+    {
+      "term": "der Minijob",
+      "translated_term": "mini-job (part-time job with limited earnings)",
+      "example_usage": "Besonders betroffen sind Menschen, die einen Minijob haben."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "trade union, labor union",
+      "example_usage": "Gewerkschaften begrüßen die Erhöhung und fordern weitere Verbesserungen für 2027."
+    },
+    {
+      "term": "der Arbeitgeber / die Arbeitgeberin",
+      "translated_term": "employer",
+      "example_usage": "Viele Arbeitgeber müssen ihre Arbeitszeiten neu planen."
+    },
+    {
+      "term": "warnen",
+      "translated_term": "to warn",
+      "example_usage": "Wirtschaftsverbände warnen jedoch vor zusätzlichen Kosten für kleine Unternehmen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local DE",
+      "link_url": "https://www.thelocal.de/20251231/everything-that-changes-in-germany-in-january-2026"
+    },
+    {
+      "name": "Payroll.org",
+      "link_url": "https://payroll.org/news-resources/news/news-detail/2026/01/01/germany-s-minimum-wage-increases-have-implications-for-mini-jobs"
+    }
+  ]
+}
