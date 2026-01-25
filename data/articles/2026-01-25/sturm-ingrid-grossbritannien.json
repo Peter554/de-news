@@ -1,0 +1,118 @@
+{
+  "title": "Sturm Ingrid beschädigt britische Küste",
+  "translated_title": "Storm Ingrid Damages British Coast",
+  "text": [
+    {
+      "text": "Ein heftiger Sturm hat in Südwestengland große Schäden verursacht.",
+      "translated_text": "A severe storm has caused major damage in southwest England."
+    },
+    {
+      "text": "Sturm Ingrid traf in der Nacht die Grafschaften Devon und Cornwall besonders stark.",
+      "translated_text": "Storm Ingrid hit the counties of Devon and Cornwall particularly hard during the night."
+    },
+    {
+      "text": "In der Stadt Dawlish ist eine Schutzmauer teilweise eingestürzt.",
+      "translated_text": "In the town of Dawlish, a protective wall partially collapsed."
+    },
+    {
+      "text": "Diese Mauer schützt normalerweise die Eisenbahnlinie vor dem Meer.",
+      "translated_text": "This wall normally protects the railway line from the sea."
+    },
+    {
+      "text": "Auch der Pier in Teignmouth wurde durch den Sturm beschädigt.",
+      "translated_text": "The pier in Teignmouth was also damaged by the storm."
+    },
+    {
+      "text": "Die Behörden mussten mehrere Züge absagen.",
+      "translated_text": "The authorities had to cancel several trains."
+    },
+    {
+      "text": "Tausende Menschen in Kent und Sussex haben Probleme mit der Wasserversorgung.",
+      "translated_text": "Thousands of people in Kent and Sussex have problems with the water supply."
+    },
+    {
+      "text": "Das kalte Wetter der letzten Wochen hat die Wasserleitungen beschädigt.",
+      "translated_text": "The cold weather of recent weeks has damaged the water pipes."
+    },
+    {
+      "text": "Die lokalen Behörden haben einen Notstand ausgerufen.",
+      "translated_text": "The local authorities have declared a state of emergency."
+    },
+    {
+      "text": "Experten warnen, dass extreme Wetterereignisse in Großbritannien häufiger werden.",
+      "translated_text": "Experts warn that extreme weather events are becoming more frequent in Great Britain."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Sturm",
+      "translated_term": "storm",
+      "example_usage": "Ein heftiger Sturm hat in Südwestengland große Schäden verursacht."
+    },
+    {
+      "term": "beschädigen",
+      "translated_term": "to damage",
+      "example_usage": "Auch der Pier in Teignmouth wurde durch den Sturm beschädigt."
+    },
+    {
+      "term": "der Schaden",
+      "translated_term": "damage",
+      "example_usage": "Ein heftiger Sturm hat in Südwestengland große Schäden verursacht."
+    },
+    {
+      "term": "die Schutzmauer",
+      "translated_term": "protective wall, sea wall",
+      "example_usage": "In der Stadt Dawlish ist eine Schutzmauer teilweise eingestürzt."
+    },
+    {
+      "term": "einstürzen",
+      "translated_term": "to collapse",
+      "example_usage": "In der Stadt Dawlish ist eine Schutzmauer teilweise eingestürzt."
+    },
+    {
+      "term": "schützen",
+      "translated_term": "to protect",
+      "example_usage": "Diese Mauer schützt normalerweise die Eisenbahnlinie vor dem Meer."
+    },
+    {
+      "term": "die Eisenbahnlinie",
+      "translated_term": "railway line",
+      "example_usage": "Diese Mauer schützt normalerweise die Eisenbahnlinie vor dem Meer."
+    },
+    {
+      "term": "die Wasserversorgung",
+      "translated_term": "water supply",
+      "example_usage": "Tausende Menschen in Kent und Sussex haben Probleme mit der Wasserversorgung."
+    },
+    {
+      "term": "der Notstand",
+      "translated_term": "state of emergency",
+      "example_usage": "Die lokalen Behörden haben einen Notstand ausgerufen."
+    },
+    {
+      "term": "warnen",
+      "translated_term": "to warn",
+      "example_usage": "Experten warnen, dass extreme Wetterereignisse in Großbritannien häufiger werden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    },
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    }
+  ],
+  "sources": [
+    {
+      "name": "YouGov News Tracker",
+      "link_url": "https://yougov.co.uk/politics/articles/53822-yougov-news-tracker-4-5-january-2026"
+    }
+  ]
+}
