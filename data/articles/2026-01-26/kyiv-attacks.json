@@ -1,0 +1,118 @@
+{
+  "title": "Russische Angriffe lassen Kiew ohne Strom und Heizung",
+  "translated_title": "Russian Attacks Leave Kyiv Without Power and Heating",
+  "text": [
+    {
+      "text": "Am 24. Januar haben russische Angriffe große Teile der ukrainischen Hauptstadt Kiew getroffen.",
+      "translated_text": "On January 24th, Russian attacks hit large parts of the Ukrainian capital Kyiv."
+    },
+    {
+      "text": "Viele Bewohner der Stadt sind jetzt ohne Strom, Wasser und Heizung.",
+      "translated_text": "Many residents of the city are now without electricity, water, and heating."
+    },
+    {
+      "text": "Die Temperaturen in Kiew liegen derzeit unter dem Gefrierpunkt.",
+      "translated_text": "Temperatures in Kyiv are currently below freezing."
+    },
+    {
+      "text": "Die humanitäre Situation in der Stadt wird immer schwieriger.",
+      "translated_text": "The humanitarian situation in the city is becoming increasingly difficult."
+    },
+    {
+      "text": "Trotz der Angriffe finden gleichzeitig Friedensgespräche statt.",
+      "translated_text": "Despite the attacks, peace talks are taking place at the same time."
+    },
+    {
+      "text": "Die Ukraine, Russland und die USA verhandeln über ein mögliches Ende des Krieges.",
+      "translated_text": "Ukraine, Russia, and the USA are negotiating a possible end to the war."
+    },
+    {
+      "text": "Der Krieg zwischen Russland und der Ukraine dauert nun fast vier Jahre.",
+      "translated_text": "The war between Russia and Ukraine has now lasted almost four years."
+    },
+    {
+      "text": "Internationale Hilfsorganisationen versuchen, den Menschen in Kiew zu helfen.",
+      "translated_text": "International aid organizations are trying to help the people in Kyiv."
+    },
+    {
+      "text": "Experten befürchten, dass die Kälte zu weiteren Opfern führen könnte.",
+      "translated_text": "Experts fear that the cold could lead to further casualties."
+    },
+    {
+      "text": "Die Weltgemeinschaft fordert ein sofortiges Ende der Angriffe auf zivile Infrastruktur.",
+      "translated_text": "The international community is calling for an immediate end to attacks on civilian infrastructure."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Angriff",
+      "translated_term": "attack",
+      "example_usage": "Am 24. Januar haben russische Angriffe große Teile der ukrainischen Hauptstadt Kiew getroffen."
+    },
+    {
+      "term": "die Hauptstadt",
+      "translated_term": "capital",
+      "example_usage": "Am 24. Januar haben russische Angriffe große Teile der ukrainischen Hauptstadt Kiew getroffen."
+    },
+    {
+      "term": "der Bewohner",
+      "translated_term": "resident",
+      "example_usage": "Viele Bewohner der Stadt sind jetzt ohne Strom, Wasser und Heizung."
+    },
+    {
+      "term": "die Heizung",
+      "translated_term": "heating",
+      "example_usage": "Viele Bewohner der Stadt sind jetzt ohne Strom, Wasser und Heizung."
+    },
+    {
+      "term": "der Gefrierpunkt",
+      "translated_term": "freezing point",
+      "example_usage": "Die Temperaturen in Kiew liegen derzeit unter dem Gefrierpunkt."
+    },
+    {
+      "term": "das Friedensgespräch",
+      "translated_term": "peace talk",
+      "example_usage": "Trotz der Angriffe finden gleichzeitig Friedensgespräche statt."
+    },
+    {
+      "term": "verhandeln",
+      "translated_term": "to negotiate",
+      "example_usage": "Die Ukraine, Russland und die USA verhandeln über ein mögliches Ende des Krieges."
+    },
+    {
+      "term": "die Hilfsorganisation",
+      "translated_term": "aid organization",
+      "example_usage": "Internationale Hilfsorganisationen versuchen, den Menschen in Kiew zu helfen."
+    },
+    {
+      "term": "das Opfer",
+      "translated_term": "casualty/victim",
+      "example_usage": "Experten befürchten, dass die Kälte zu weiteren Opfern führen könnte."
+    },
+    {
+      "term": "die Weltgemeinschaft",
+      "translated_term": "international community",
+      "example_usage": "Die Weltgemeinschaft fordert ein sofortiges Ende der Angriffe auf zivile Infrastruktur."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    },
+    {
+      "name": "Humanitäre Krise",
+      "translated_name": "Humanitarian Crisis"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Democracy Now",
+      "link_url": "https://www.democracynow.org/2026/1/20/headlines"
+    }
+  ]
+}

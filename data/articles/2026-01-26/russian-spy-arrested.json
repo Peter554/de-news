@@ -1,0 +1,118 @@
+{
+  "title": "Deutsch-ukrainischer Staatsbürger wegen Spionage für Russland festgenommen",
+  "translated_title": "German-Ukrainian Citizen Arrested for Spying for Russia",
+  "text": [
+    {
+      "text": "Am 21. Januar wurde in Berlin ein Mann mit deutscher und ukrainischer Staatsbürgerschaft verhaftet.",
+      "translated_text": "On January 21st, a man with German and Ukrainian citizenship was arrested in Berlin."
+    },
+    {
+      "text": "Die deutschen Behörden vermuten, dass er für den russischen Geheimdienst spioniert hat.",
+      "translated_text": "German authorities suspect that he spied for the Russian intelligence service."
+    },
+    {
+      "text": "Der Fall hat zu diplomatischen Spannungen zwischen Deutschland und Russland geführt.",
+      "translated_text": "The case has led to diplomatic tensions between Germany and Russia."
+    },
+    {
+      "text": "Einen Tag nach der Festnahme hat Deutschland einen russischen Diplomaten des Landes verwiesen.",
+      "translated_text": "One day after the arrest, Germany expelled a Russian diplomat from the country."
+    },
+    {
+      "text": "Die Ausweisung ist eine starke diplomatische Reaktion auf den Spionageverdacht.",
+      "translated_text": "The expulsion is a strong diplomatic response to the espionage suspicion."
+    },
+    {
+      "text": "Experten sagen, dass Spionage in Deutschland ein wachsendes Problem ist.",
+      "translated_text": "Experts say that espionage in Germany is a growing problem."
+    },
+    {
+      "text": "Besonders russische und chinesische Geheimdienste sind in Deutschland sehr aktiv.",
+      "translated_text": "Russian and Chinese intelligence services in particular are very active in Germany."
+    },
+    {
+      "text": "Die deutschen Sicherheitsbehörden arbeiten hart daran, solche Aktivitäten zu verhindern.",
+      "translated_text": "German security authorities are working hard to prevent such activities."
+    },
+    {
+      "text": "Der verhaftete Mann könnte wichtige Informationen an Russland weitergegeben haben.",
+      "translated_text": "The arrested man may have passed important information to Russia."
+    },
+    {
+      "text": "Die Ermittlungen in diesem Fall dauern noch an.",
+      "translated_text": "The investigations in this case are still ongoing."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Staatsbürger",
+      "translated_term": "citizen",
+      "example_usage": "Am 21. Januar wurde in Berlin ein Mann mit deutscher und ukrainischer Staatsbürgerschaft verhaftet."
+    },
+    {
+      "term": "verhaften",
+      "translated_term": "to arrest",
+      "example_usage": "Am 21. Januar wurde in Berlin ein Mann mit deutscher und ukrainischer Staatsbürgerschaft verhaftet."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "authority",
+      "example_usage": "Die deutschen Behörden vermuten, dass er für den russischen Geheimdienst spioniert hat."
+    },
+    {
+      "term": "der Geheimdienst",
+      "translated_term": "intelligence service",
+      "example_usage": "Die deutschen Behörden vermuten, dass er für den russischen Geheimdienst spioniert hat."
+    },
+    {
+      "term": "spionieren",
+      "translated_term": "to spy",
+      "example_usage": "Die deutschen Behörden vermuten, dass er für den russischen Geheimdienst spioniert hat."
+    },
+    {
+      "term": "die Festnahme",
+      "translated_term": "arrest",
+      "example_usage": "Einen Tag nach der Festnahme hat Deutschland einen russischen Diplomaten des Landes verwiesen."
+    },
+    {
+      "term": "verweisen",
+      "translated_term": "to expel",
+      "example_usage": "Einen Tag nach der Festnahme hat Deutschland einen russischen Diplomaten des Landes verwiesen."
+    },
+    {
+      "term": "die Ausweisung",
+      "translated_term": "expulsion",
+      "example_usage": "Die Ausweisung ist eine starke diplomatische Reaktion auf den Spionageverdacht."
+    },
+    {
+      "term": "weitergeben",
+      "translated_term": "to pass on",
+      "example_usage": "Der verhaftete Mann könnte wichtige Informationen an Russland weitergegeben haben."
+    },
+    {
+      "term": "die Ermittlung",
+      "translated_term": "investigation",
+      "example_usage": "Die Ermittlungen in diesem Fall dauern noch an."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    },
+    {
+      "name": "Nationale Sicherheit",
+      "translated_name": "National Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Left Berlin",
+      "link_url": "https://theleftberlin.com/news-from-berlin-and-germany-21st-january-2026/"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "title": "Brandanschlag in Berlin verursacht großflächigen Stromausfall",
+  "translated_title": "Arson Attack in Berlin Causes Widespread Blackout",
+  "text": [
+    {
+      "text": "Am 3. Januar ereignete sich in Berlin ein schwerer Brandanschlag auf Stromkabel.",
+      "translated_text": "On January 3rd, a serious arson attack on power cables occurred in Berlin."
+    },
+    {
+      "text": "Der Angriff führte zu einem großen Stromausfall, der etwa 40.000 Haushalte betraf.",
+      "translated_text": "The attack led to a major power outage that affected approximately 40,000 households."
+    },
+    {
+      "text": "Eine linksextreme Gruppe namens Vulkangruppe hat sich zu dem Anschlag bekannt.",
+      "translated_text": "A left-wing extremist group called Volcano Group claimed responsibility for the attack."
+    },
+    {
+      "text": "Die Gruppe protestiert gegen die Nutzung fossiler Brennstoffe und den Betrieb von Rechenzentren für künstliche Intelligenz.",
+      "translated_text": "The group is protesting against the use of fossil fuels and the operation of data centers for artificial intelligence."
+    },
+    {
+      "text": "Viele Berliner saßen stundenlang ohne Strom im Dunkeln.",
+      "translated_text": "Many Berliners sat in the dark for hours without electricity."
+    },
+    {
+      "text": "Die Polizei untersucht den Fall und sucht nach den Tätern.",
+      "translated_text": "The police are investigating the case and searching for the perpetrators."
+    },
+    {
+      "text": "Experten warnen vor den Gefahren solcher Anschläge auf die kritische Infrastruktur.",
+      "translated_text": "Experts warn of the dangers of such attacks on critical infrastructure."
+    },
+    {
+      "text": "Die Reparatur der beschädigten Kabel dauerte mehrere Stunden.",
+      "translated_text": "The repair of the damaged cables took several hours."
+    },
+    {
+      "text": "Politiker fordern besseren Schutz für wichtige Versorgungseinrichtungen.",
+      "translated_text": "Politicians are calling for better protection of important supply facilities."
+    },
+    {
+      "text": "Der Vorfall zeigt die Verwundbarkeit moderner Städte gegenüber gezielten Angriffen.",
+      "translated_text": "The incident shows the vulnerability of modern cities to targeted attacks."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Brandanschlag",
+      "translated_term": "arson attack",
+      "example_usage": "Am 3. Januar ereignete sich in Berlin ein schwerer Brandanschlag auf Stromkabel."
+    },
+    {
+      "term": "der Stromausfall",
+      "translated_term": "power outage",
+      "example_usage": "Der Angriff führte zu einem großen Stromausfall, der etwa 40.000 Haushalte betraf."
+    },
+    {
+      "term": "der Haushalt",
+      "translated_term": "household",
+      "example_usage": "Der Angriff führte zu einem großen Stromausfall, der etwa 40.000 Haushalte betraf."
+    },
+    {
+      "term": "sich bekennen zu",
+      "translated_term": "to claim responsibility for",
+      "example_usage": "Eine linksextreme Gruppe namens Vulkangruppe hat sich zu dem Anschlag bekannt."
+    },
+    {
+      "term": "der Brennstoff",
+      "translated_term": "fuel",
+      "example_usage": "Die Gruppe protestiert gegen die Nutzung fossiler Brennstoffe."
+    },
+    {
+      "term": "das Rechenzentrum",
+      "translated_term": "data center",
+      "example_usage": "Die Gruppe protestiert gegen den Betrieb von Rechenzentren für künstliche Intelligenz."
+    },
+    {
+      "term": "der Täter",
+      "translated_term": "perpetrator",
+      "example_usage": "Die Polizei untersucht den Fall und sucht nach den Tätern."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "infrastructure",
+      "example_usage": "Experten warnen vor den Gefahren solcher Anschläge auf die kritische Infrastruktur."
+    },
+    {
+      "term": "die Reparatur",
+      "translated_term": "repair",
+      "example_usage": "Die Reparatur der beschädigten Kabel dauerte mehrere Stunden."
+    },
+    {
+      "term": "die Verwundbarkeit",
+      "translated_term": "vulnerability",
+      "example_usage": "Der Vorfall zeigt die Verwundbarkeit moderner Städte gegenüber gezielten Angriffen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Extremismus",
+      "translated_name": "Extremism"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Left Berlin",
+      "link_url": "https://theleftberlin.com/news-from-berlin-and-germany-21st-january-2026/"
+    }
+  ]
+}
