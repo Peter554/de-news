@@ -1,0 +1,118 @@
+{
+  "title": "Tausende demonstrieren in Deutschland für kurdische Kämpfer in Syrien",
+  "translated_title": "Thousands Demonstrate in Germany for Kurdish Fighters in Syria",
+  "text": [
+    {
+      "text": "Am 20. Januar gingen tausende Menschen in deutschen Städten auf die Straße.",
+      "translated_text": "On January 20th, thousands of people took to the streets in German cities."
+    },
+    {
+      "text": "In Dortmund, Frankfurt und Bremen fanden große Demonstrationen statt.",
+      "translated_text": "Large demonstrations took place in Dortmund, Frankfurt, and Bremen."
+    },
+    {
+      "text": "Die Demonstranten unterstützten kurdische Streitkräfte in Syrien.",
+      "translated_text": "The demonstrators supported Kurdish forces in Syria."
+    },
+    {
+      "text": "In Nordostsyrien gibt es derzeit Kämpfe zwischen kurdischen Einheiten und den syrischen Streitkräften.",
+      "translated_text": "In northeastern Syria, there are currently battles between Kurdish units and the Syrian armed forces."
+    },
+    {
+      "text": "Viele kurdische Menschen leben in Deutschland und verfolgen die Situation in ihrer Heimat mit großer Sorge.",
+      "translated_text": "Many Kurdish people live in Germany and follow the situation in their homeland with great concern."
+    },
+    {
+      "text": "Die Demonstranten forderten die internationale Gemeinschaft auf, die Kurden zu schützen.",
+      "translated_text": "The demonstrators called on the international community to protect the Kurds."
+    },
+    {
+      "text": "Die Proteste verliefen friedlich.",
+      "translated_text": "The protests were peaceful."
+    },
+    {
+      "text": "Die kurdische Frage ist ein komplexes politisches Thema im Nahen Osten.",
+      "translated_text": "The Kurdish question is a complex political issue in the Middle East."
+    },
+    {
+      "text": "Deutschland hat eine große kurdische Gemeinschaft mit mehreren hunderttausend Mitgliedern.",
+      "translated_text": "Germany has a large Kurdish community with several hundred thousand members."
+    },
+    {
+      "text": "Die Bundesregierung ruft zu einer friedlichen Lösung des Konflikts auf.",
+      "translated_text": "The federal government is calling for a peaceful solution to the conflict."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Demonstration",
+      "translated_term": "demonstration",
+      "example_usage": "In Dortmund, Frankfurt und Bremen fanden große Demonstrationen statt."
+    },
+    {
+      "term": "unterstützen",
+      "translated_term": "to support",
+      "example_usage": "Die Demonstranten unterstützten kurdische Streitkräfte in Syrien."
+    },
+    {
+      "term": "die Streitkraft",
+      "translated_term": "armed force",
+      "example_usage": "Die Demonstranten unterstützten kurdische Streitkräfte in Syrien."
+    },
+    {
+      "term": "der Kampf",
+      "translated_term": "battle/fight",
+      "example_usage": "In Nordostsyrien gibt es derzeit Kämpfe zwischen kurdischen Einheiten und den syrischen Streitkräften."
+    },
+    {
+      "term": "die Einheit",
+      "translated_term": "unit",
+      "example_usage": "In Nordostsyrien gibt es derzeit Kämpfe zwischen kurdischen Einheiten und den syrischen Streitkräften."
+    },
+    {
+      "term": "verfolgen",
+      "translated_term": "to follow/track",
+      "example_usage": "Viele kurdische Menschen leben in Deutschland und verfolgen die Situation in ihrer Heimat mit großer Sorge."
+    },
+    {
+      "term": "die Sorge",
+      "translated_term": "concern/worry",
+      "example_usage": "Viele kurdische Menschen leben in Deutschland und verfolgen die Situation in ihrer Heimat mit großer Sorge."
+    },
+    {
+      "term": "aufrufen zu",
+      "translated_term": "to call on/for",
+      "example_usage": "Die Demonstranten forderten die internationale Gemeinschaft auf, die Kurden zu schützen."
+    },
+    {
+      "term": "friedlich",
+      "translated_term": "peaceful",
+      "example_usage": "Die Proteste verliefen friedlich."
+    },
+    {
+      "term": "die Gemeinschaft",
+      "translated_term": "community",
+      "example_usage": "Deutschland hat eine große kurdische Gemeinschaft mit mehreren hunderttausend Mitgliedern."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Proteste",
+      "translated_name": "Protests"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Left Berlin",
+      "link_url": "https://theleftberlin.com/news-from-berlin-and-germany-21st-january-2026/"
+    }
+  ]
+}
