@@ -1,0 +1,140 @@
+{
+  "title": "Winterwetter sorgt für Chaos in Berlin",
+  "translated_title": "Winter Weather Causes Chaos in Berlin",
+  "text": [
+    {
+      "text": "Das Winterwetter macht Berlin und Brandenburg zu schaffen.",
+      "translated_text": "The winter weather is causing problems for Berlin and Brandenburg."
+    },
+    {
+      "text": "Seit dem Wochenende gibt es Schneefall und Glatteis.",
+      "translated_text": "Since the weekend there has been snowfall and black ice."
+    },
+    {
+      "text": "Die Straßen in der Hauptstadt sind extrem glatt.",
+      "translated_text": "The streets in the capital are extremely slippery."
+    },
+    {
+      "text": "Das führt zu großen Problemen im Verkehr.",
+      "translated_text": "This is causing major problems in traffic."
+    },
+    {
+      "text": "Viele Busse und Straßenbahnen haben Verspätung.",
+      "translated_text": "Many buses and trams are delayed."
+    },
+    {
+      "text": "Auch der Regional- und S-Bahn-Verkehr ist betroffen.",
+      "translated_text": "Regional and S-Bahn traffic is also affected."
+    },
+    {
+      "text": "Die Wetterdienste warnen vor gefährlichen Straßenverhältnissen.",
+      "translated_text": "The weather services warn of dangerous road conditions."
+    },
+    {
+      "text": "Autofahrer und Fußgänger sollen besonders vorsichtig sein.",
+      "translated_text": "Drivers and pedestrians should be especially careful."
+    },
+    {
+      "text": "Seit Montag wird das Wetter etwas milder.",
+      "translated_text": "Since Monday the weather is becoming somewhat milder."
+    },
+    {
+      "text": "Aber die Warnung gilt noch bis Dienstagmorgen.",
+      "translated_text": "But the warning is still valid until Tuesday morning."
+    },
+    {
+      "text": "Nächste Woche beginnen die Winterferien für Berliner Schüler.",
+      "translated_text": "Next week the winter holidays begin for Berlin pupils."
+    },
+    {
+      "text": "Vorher bekommen sie noch ihre Halbjahreszeugnisse.",
+      "translated_text": "Before that they will receive their half-yearly reports."
+    },
+    {
+      "text": "Viele Familien hoffen auf besseres Wetter für die Ferien.",
+      "translated_text": "Many families hope for better weather for the holidays."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Winterwetter",
+      "translated_term": "winter weather",
+      "example_usage": "Das Winterwetter macht Berlin und Brandenburg zu schaffen."
+    },
+    {
+      "term": "zu schaffen machen",
+      "translated_term": "to cause problems",
+      "example_usage": "Das Winterwetter macht Berlin und Brandenburg zu schaffen."
+    },
+    {
+      "term": "der Schneefall",
+      "translated_term": "snowfall",
+      "example_usage": "Seit dem Wochenende gibt es Schneefall und Glatteis."
+    },
+    {
+      "term": "das Glatteis",
+      "translated_term": "black ice",
+      "example_usage": "Seit dem Wochenende gibt es Schneefall und Glatteis."
+    },
+    {
+      "term": "glatt",
+      "translated_term": "slippery",
+      "example_usage": "Die Straßen in der Hauptstadt sind extrem glatt."
+    },
+    {
+      "term": "die Verspätung",
+      "translated_term": "delay",
+      "example_usage": "Viele Busse und Straßenbahnen haben Verspätung."
+    },
+    {
+      "term": "betroffen",
+      "translated_term": "affected",
+      "example_usage": "Auch der Regional- und S-Bahn-Verkehr ist betroffen."
+    },
+    {
+      "term": "warnen",
+      "translated_term": "to warn",
+      "example_usage": "Die Wetterdienste warnen vor gefährlichen Straßenverhältnissen."
+    },
+    {
+      "term": "die Straßenverhältnisse",
+      "translated_term": "road conditions",
+      "example_usage": "Die Wetterdienste warnen vor gefährlichen Straßenverhältnissen."
+    },
+    {
+      "term": "vorsichtig",
+      "translated_term": "careful",
+      "example_usage": "Autofahrer und Fußgänger sollen besonders vorsichtig sein."
+    },
+    {
+      "term": "die Winterferien",
+      "translated_term": "winter holidays",
+      "example_usage": "Nächste Woche beginnen die Winterferien für Berliner Schüler."
+    },
+    {
+      "term": "das Halbjahreszeugnis",
+      "translated_term": "half-yearly report",
+      "example_usage": "Vorher bekommen sie noch ihre Halbjahreszeugnisse."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de",
+      "link_url": "https://www.berlin.de/en/news/10125484-5559700-winter-storm-on-friday-german-weather-se.en.html"
+    }
+  ]
+}

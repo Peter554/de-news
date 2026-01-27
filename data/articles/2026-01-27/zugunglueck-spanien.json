@@ -1,0 +1,140 @@
+{
+  "title": "Schweres Zugunglück in Spanien",
+  "translated_title": "Serious Train Accident in Spain",
+  "text": [
+    {
+      "text": "Am Montag ereignete sich in der spanischen Provinz Córdoba ein schweres Zugunglück.",
+      "translated_text": "On Monday, a serious train accident occurred in the Spanish province of Córdoba."
+    },
+    {
+      "text": "Zwei Hochgeschwindigkeitszüge entgleisten in der Nähe der Stadt Adamuz.",
+      "translated_text": "Two high-speed trains derailed near the city of Adamuz."
+    },
+    {
+      "text": "Bei dem Unglück starben mindestens 39 Menschen.",
+      "translated_text": "At least 39 people died in the accident."
+    },
+    {
+      "text": "Außerdem wurden 245 Personen verletzt.",
+      "translated_text": "In addition, 245 people were injured."
+    },
+    {
+      "text": "Die Rettungskräfte waren schnell vor Ort und begannen mit den Bergungsarbeiten.",
+      "translated_text": "The rescue workers were quickly on site and began the recovery work."
+    },
+    {
+      "text": "Die Ursache des Unfalls ist noch unklar.",
+      "translated_text": "The cause of the accident is still unclear."
+    },
+    {
+      "text": "Die spanische Regierung hat eine Untersuchung eingeleitet.",
+      "translated_text": "The Spanish government has initiated an investigation."
+    },
+    {
+      "text": "Experten prüfen jetzt die Zugstrecke und die technischen Systeme.",
+      "translated_text": "Experts are now examining the train route and the technical systems."
+    },
+    {
+      "text": "Der Premierminister reiste sofort zum Unglücksort.",
+      "translated_text": "The Prime Minister immediately traveled to the accident site."
+    },
+    {
+      "text": "Er sprach den Angehörigen der Opfer sein Beileid aus.",
+      "translated_text": "He expressed his condolences to the relatives of the victims."
+    },
+    {
+      "text": "Viele Verletzte befinden sich in einem kritischen Zustand.",
+      "translated_text": "Many injured people are in a critical condition."
+    },
+    {
+      "text": "Die Krankenhäuser in der Region arbeiten mit voller Kapazität.",
+      "translated_text": "The hospitals in the region are working at full capacity."
+    },
+    {
+      "text": "Es ist eines der schwersten Zugunglücke in der spanischen Geschichte.",
+      "translated_text": "It is one of the most serious train accidents in Spanish history."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Zugunglück",
+      "translated_term": "train accident",
+      "example_usage": "Am Montag ereignete sich in der spanischen Provinz Córdoba ein schweres Zugunglück."
+    },
+    {
+      "term": "entgleisen",
+      "translated_term": "to derail",
+      "example_usage": "Zwei Hochgeschwindigkeitszüge entgleisten in der Nähe der Stadt Adamuz."
+    },
+    {
+      "term": "der Hochgeschwindigkeitszug",
+      "translated_term": "high-speed train",
+      "example_usage": "Zwei Hochgeschwindigkeitszüge entgleisten in der Nähe der Stadt Adamuz."
+    },
+    {
+      "term": "verletzen",
+      "translated_term": "to injure",
+      "example_usage": "Außerdem wurden 245 Personen verletzt."
+    },
+    {
+      "term": "die Rettungskräfte",
+      "translated_term": "rescue workers",
+      "example_usage": "Die Rettungskräfte waren schnell vor Ort und begannen mit den Bergungsarbeiten."
+    },
+    {
+      "term": "die Bergungsarbeiten",
+      "translated_term": "recovery work",
+      "example_usage": "Die Rettungskräfte waren schnell vor Ort und begannen mit den Bergungsarbeiten."
+    },
+    {
+      "term": "die Ursache",
+      "translated_term": "cause",
+      "example_usage": "Die Ursache des Unfalls ist noch unklar."
+    },
+    {
+      "term": "einleiten",
+      "translated_term": "to initiate",
+      "example_usage": "Die spanische Regierung hat eine Untersuchung eingeleitet."
+    },
+    {
+      "term": "prüfen",
+      "translated_term": "to examine",
+      "example_usage": "Experten prüfen jetzt die Zugstrecke und die technischen Systeme."
+    },
+    {
+      "term": "das Beileid aussprechen",
+      "translated_term": "to express condolences",
+      "example_usage": "Er sprach den Angehörigen der Opfer sein Beileid aus."
+    },
+    {
+      "term": "der Verletzte",
+      "translated_term": "injured person",
+      "example_usage": "Viele Verletzte befinden sich in einem kritischen Zustand."
+    },
+    {
+      "term": "die Kapazität",
+      "translated_term": "capacity",
+      "example_usage": "Die Krankenhäuser in der Region arbeiten mit voller Kapazität."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Spanien",
+      "translated_name": "Spain"
+    },
+    {
+      "name": "Katastrophe",
+      "translated_name": "Disaster"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "link_url": "https://en.wikipedia.org/wiki/Portal:Current_events/January_2026"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "title": "Deutsche Wirtschaft bleibt schwach",
+  "translated_title": "German Economy Remains Weak",
+  "text": [
+    {
+      "text": "Die deutsche Wirtschaft kämpft weiterhin mit Problemen.",
+      "translated_text": "The German economy continues to struggle with problems."
+    },
+    {
+      "text": "Der Geschäftsausblick deutscher Unternehmen verschlechterte sich zu Jahresbeginn.",
+      "translated_text": "The business outlook of German companies deteriorated at the beginning of the year."
+    },
+    {
+      "text": "Diese Entwicklung kam für viele Experten unerwartet.",
+      "translated_text": "This development came as a surprise to many experts."
+    },
+    {
+      "text": "Die Wirtschaft wächst nur sehr langsam.",
+      "translated_text": "The economy is growing very slowly."
+    },
+    {
+      "text": "Viele Unternehmen sind pessimistisch für die nächsten Monate.",
+      "translated_text": "Many companies are pessimistic about the coming months."
+    },
+    {
+      "text": "Die Regierung hat zwar große Investitionen versprochen.",
+      "translated_text": "The government has indeed promised major investments."
+    },
+    {
+      "text": "Aber diese Investitionen zeigen noch keine Wirkung.",
+      "translated_text": "But these investments are not yet showing any effect."
+    },
+    {
+      "text": "Die Stimmung in der Industrie ist besonders schlecht.",
+      "translated_text": "The mood in industry is particularly bad."
+    },
+    {
+      "text": "Auch der Dienstleistungssektor hat Schwierigkeiten.",
+      "translated_text": "The service sector is also having difficulties."
+    },
+    {
+      "text": "Wirtschaftsexperten fordern schnelle Reformen.",
+      "translated_text": "Economic experts are calling for rapid reforms."
+    },
+    {
+      "text": "Deutschland braucht mehr Innovation und Flexibilität.",
+      "translated_text": "Germany needs more innovation and flexibility."
+    },
+    {
+      "text": "Die internationale Konkurrenz wird immer stärker.",
+      "translated_text": "International competition is becoming ever stronger."
+    },
+    {
+      "text": "Viele hoffen auf eine Verbesserung im Laufe des Jahres.",
+      "translated_text": "Many hope for an improvement during the course of the year."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "kämpfen",
+      "translated_term": "to struggle",
+      "example_usage": "Die deutsche Wirtschaft kämpft weiterhin mit Problemen."
+    },
+    {
+      "term": "der Geschäftsausblick",
+      "translated_term": "business outlook",
+      "example_usage": "Der Geschäftsausblick deutscher Unternehmen verschlechterte sich zu Jahresbeginn."
+    },
+    {
+      "term": "sich verschlechtern",
+      "translated_term": "to deteriorate",
+      "example_usage": "Der Geschäftsausblick deutscher Unternehmen verschlechterte sich zu Jahresbeginn."
+    },
+    {
+      "term": "unerwartet",
+      "translated_term": "unexpected",
+      "example_usage": "Diese Entwicklung kam für viele Experten unerwartet."
+    },
+    {
+      "term": "pessimistisch",
+      "translated_term": "pessimistic",
+      "example_usage": "Viele Unternehmen sind pessimistisch für die nächsten Monate."
+    },
+    {
+      "term": "die Investition",
+      "translated_term": "investment",
+      "example_usage": "Die Regierung hat zwar große Investitionen versprochen."
+    },
+    {
+      "term": "die Wirkung",
+      "translated_term": "effect",
+      "example_usage": "Aber diese Investitionen zeigen noch keine Wirkung."
+    },
+    {
+      "term": "die Stimmung",
+      "translated_term": "mood",
+      "example_usage": "Die Stimmung in der Industrie ist besonders schlecht."
+    },
+    {
+      "term": "der Dienstleistungssektor",
+      "translated_term": "service sector",
+      "example_usage": "Auch der Dienstleistungssektor hat Schwierigkeiten."
+    },
+    {
+      "term": "die Reform",
+      "translated_term": "reform",
+      "example_usage": "Wirtschaftsexperten fordern schnelle Reformen."
+    },
+    {
+      "term": "die Konkurrenz",
+      "translated_term": "competition",
+      "example_usage": "Die internationale Konkurrenz wird immer stärker."
+    },
+    {
+      "term": "die Verbesserung",
+      "translated_term": "improvement",
+      "example_usage": "Viele hoffen auf eine Verbesserung im Laufe des Jahres."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-01-26/german-business-outlook-unexpectedly-drops-with-growth-subdued"
+    }
+  ]
+}
