@@ -1,0 +1,144 @@
+{
+  "title": "Neuer Mindestlohn in Deutschland",
+  "translated_title": "New Minimum Wage in Germany",
+  "text": [
+    {
+      "text": "Seit dem 1. Januar 2026 gilt in Deutschland ein neuer Mindestlohn.",
+      "translated_text": "Since January 1, 2026, a new minimum wage applies in Germany."
+    },
+    {
+      "text": "Der gesetzliche Mindestlohn stieg von 12,82 Euro auf 13,90 Euro pro Stunde.",
+      "translated_text": "The statutory minimum wage rose from 12.82 euros to 13.90 euros per hour."
+    },
+    {
+      "text": "Das ist eine Erhöhung von mehr als einem Euro.",
+      "translated_text": "That is an increase of more than one euro."
+    },
+    {
+      "text": "Millionen Arbeitnehmer profitieren von dieser Änderung.",
+      "translated_text": "Millions of workers benefit from this change."
+    },
+    {
+      "text": "Besonders Menschen mit Minijobs sind betroffen.",
+      "translated_text": "People with mini-jobs are particularly affected."
+    },
+    {
+      "text": "Die Verdienstgrenze für Minijobs liegt jetzt bei 556 Euro pro Monat.",
+      "translated_text": "The earnings limit for mini-jobs is now 556 euros per month."
+    },
+    {
+      "text": "Diese Grenze ergibt sich aus dem neuen Mindestlohn.",
+      "translated_text": "This limit results from the new minimum wage."
+    },
+    {
+      "text": "Arbeitgeber müssen die neuen Regelungen beachten.",
+      "translated_text": "Employers must observe the new regulations."
+    },
+    {
+      "text": "Gewerkschaften begrüßen die Erhöhung des Mindestlohns.",
+      "translated_text": "Trade unions welcome the increase in the minimum wage."
+    },
+    {
+      "text": "Sie sagen, der alte Mindestlohn war zu niedrig.",
+      "translated_text": "They say the old minimum wage was too low."
+    },
+    {
+      "text": "Viele Menschen konnten nicht von ihrer Arbeit leben.",
+      "translated_text": "Many people could not live from their work."
+    },
+    {
+      "text": "Arbeitgeberverbände sehen die Erhöhung kritischer.",
+      "translated_text": "Employer associations view the increase more critically."
+    },
+    {
+      "text": "Sie befürchten höhere Kosten für kleine Unternehmen.",
+      "translated_text": "They fear higher costs for small businesses."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Mindestlohn",
+      "translated_term": "minimum wage",
+      "example_usage": "Seit dem 1. Januar 2026 gilt in Deutschland ein neuer Mindestlohn."
+    },
+    {
+      "term": "gesetzlich",
+      "translated_term": "statutory",
+      "example_usage": "Der gesetzliche Mindestlohn stieg von 12,82 Euro auf 13,90 Euro pro Stunde."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise",
+      "example_usage": "Der gesetzliche Mindestlohn stieg von 12,82 Euro auf 13,90 Euro pro Stunde."
+    },
+    {
+      "term": "die Erhöhung",
+      "translated_term": "increase",
+      "example_usage": "Das ist eine Erhöhung von mehr als einem Euro."
+    },
+    {
+      "term": "der Arbeitnehmer",
+      "translated_term": "worker",
+      "example_usage": "Millionen Arbeitnehmer profitieren von dieser Änderung."
+    },
+    {
+      "term": "profitieren",
+      "translated_term": "to benefit",
+      "example_usage": "Millionen Arbeitnehmer profitieren von dieser Änderung."
+    },
+    {
+      "term": "der Minijob",
+      "translated_term": "mini-job",
+      "example_usage": "Besonders Menschen mit Minijobs sind betroffen."
+    },
+    {
+      "term": "die Verdienstgrenze",
+      "translated_term": "earnings limit",
+      "example_usage": "Die Verdienstgrenze für Minijobs liegt jetzt bei 556 Euro pro Monat."
+    },
+    {
+      "term": "der Arbeitgeber",
+      "translated_term": "employer",
+      "example_usage": "Arbeitgeber müssen die neuen Regelungen beachten."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "trade union",
+      "example_usage": "Gewerkschaften begrüßen die Erhöhung des Mindestlohns."
+    },
+    {
+      "term": "begrüßen",
+      "translated_term": "to welcome",
+      "example_usage": "Gewerkschaften begrüßen die Erhöhung des Mindestlohns."
+    },
+    {
+      "term": "befürchten",
+      "translated_term": "to fear",
+      "example_usage": "Sie befürchten höhere Kosten für kleine Unternehmen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Sozialpolitik",
+      "translated_name": "Social Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Payroll.org",
+      "link_url": "https://payroll.org/news-resources/news/news-detail/2026/01/01/germany-s-minimum-wage-increases-have-implications-for-mini-jobs"
+    },
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20251231/everything-that-changes-in-germany-in-january-2026"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "title": "Holocaust-Gedenktag in Deutschland",
+  "translated_title": "Holocaust Memorial Day in Germany",
+  "text": [
+    {
+      "text": "Am 27. Januar gedenkt Deutschland der Opfer des Holocaust.",
+      "translated_text": "On January 27, Germany commemorates the victims of the Holocaust."
+    },
+    {
+      "text": "Dieser Tag erinnert an die Befreiung des Konzentrationslagers Auschwitz im Jahr 1945.",
+      "translated_text": "This day commemorates the liberation of the Auschwitz concentration camp in 1945."
+    },
+    {
+      "text": "In ganz Deutschland finden Gedenkveranstaltungen statt.",
+      "translated_text": "Memorial events take place throughout Germany."
+    },
+    {
+      "text": "Politiker und Bürger nehmen an diesen Veranstaltungen teil.",
+      "translated_text": "Politicians and citizens participate in these events."
+    },
+    {
+      "text": "Leider gibt es auch besorgniserregende Entwicklungen.",
+      "translated_text": "Unfortunately, there are also worrying developments."
+    },
+    {
+      "text": "Gedenkstätten berichten von zunehmenden antisemitischen Vorfällen.",
+      "translated_text": "Memorial sites report increasing antisemitic incidents."
+    },
+    {
+      "text": "In Flossenbürg gab es extreme Einträge im Gästebuch.",
+      "translated_text": "In Flossenbürg there were extreme entries in the guestbook."
+    },
+    {
+      "text": "Diese Einträge verbinden Antisemitismus mit Anti-Israel-Rhetorik.",
+      "translated_text": "These entries combine antisemitism with anti-Israel rhetoric."
+    },
+    {
+      "text": "Auch in Ravensbrück bemerkt man eine atmosphärische Veränderung.",
+      "translated_text": "In Ravensbrück too, an atmospheric change is noticed."
+    },
+    {
+      "text": "Jugendgruppen äußern dort manchmal rechtsradikale Parolen.",
+      "translated_text": "Youth groups sometimes voice far-right slogans there."
+    },
+    {
+      "text": "Experten sind über diese Entwicklung sehr beunruhigt.",
+      "translated_text": "Experts are very concerned about this development."
+    },
+    {
+      "text": "Sie betonen die Wichtigkeit der Erinnerungskultur.",
+      "translated_text": "They emphasize the importance of the culture of remembrance."
+    },
+    {
+      "text": "Der Kampf gegen Antisemitismus muss weitergehen.",
+      "translated_text": "The fight against antisemitism must continue."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Holocaust-Gedenktag",
+      "translated_term": "Holocaust Memorial Day",
+      "example_usage": "Am 27. Januar gedenkt Deutschland der Opfer des Holocaust."
+    },
+    {
+      "term": "gedenken",
+      "translated_term": "to commemorate",
+      "example_usage": "Am 27. Januar gedenkt Deutschland der Opfer des Holocaust."
+    },
+    {
+      "term": "das Konzentrationslager",
+      "translated_term": "concentration camp",
+      "example_usage": "Dieser Tag erinnert an die Befreiung des Konzentrationslagers Auschwitz im Jahr 1945."
+    },
+    {
+      "term": "die Befreiung",
+      "translated_term": "liberation",
+      "example_usage": "Dieser Tag erinnert an die Befreiung des Konzentrationslagers Auschwitz im Jahr 1945."
+    },
+    {
+      "term": "die Gedenkveranstaltung",
+      "translated_term": "memorial event",
+      "example_usage": "In ganz Deutschland finden Gedenkveranstaltungen statt."
+    },
+    {
+      "term": "besorgniserregend",
+      "translated_term": "worrying",
+      "example_usage": "Leider gibt es auch besorgniserregende Entwicklungen."
+    },
+    {
+      "term": "die Gedenkstätte",
+      "translated_term": "memorial site",
+      "example_usage": "Gedenkstätten berichten von zunehmenden antisemitischen Vorfällen."
+    },
+    {
+      "term": "antisemitisch",
+      "translated_term": "antisemitic",
+      "example_usage": "Gedenkstätten berichten von zunehmenden antisemitischen Vorfällen."
+    },
+    {
+      "term": "der Vorfall",
+      "translated_term": "incident",
+      "example_usage": "Gedenkstätten berichten von zunehmenden antisemitischen Vorfällen."
+    },
+    {
+      "term": "die Parole",
+      "translated_term": "slogan",
+      "example_usage": "Jugendgruppen äußern dort manchmal rechtsradikale Parolen."
+    },
+    {
+      "term": "beunruhigt",
+      "translated_term": "concerned",
+      "example_usage": "Experten sind über diese Entwicklung sehr beunruhigt."
+    },
+    {
+      "term": "die Erinnerungskultur",
+      "translated_term": "culture of remembrance",
+      "example_usage": "Sie betonen die Wichtigkeit der Erinnerungskultur."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Geschichte",
+      "translated_name": "History"
+    },
+    {
+      "name": "Antisemitismus",
+      "translated_name": "Antisemitism"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20260126/today-in-germany-a-roundup-of-the-latest-news-on-monday-108"
+    }
+  ]
+}
