@@ -1,0 +1,126 @@
+{
+  "title": "Deutsche Wirtschaftsaussichten verschlechtern sich",
+  "translated_title": "German Economic Outlook Worsens",
+  "text": [
+    {
+      "text": "Die deutsche Wirtschaft hat Probleme.",
+      "translated_text": "The German economy is having problems."
+    },
+    {
+      "text": "Ein wichtiger Index des Ifo-Instituts zeigt, dass die Unternehmen pessimistischer geworden sind.",
+      "translated_text": "An important index from the Ifo Institute shows that companies have become more pessimistic."
+    },
+    {
+      "text": "Der Erwartungsindex ist im Januar auf 89,5 Punkte gefallen.",
+      "translated_text": "The expectations index fell to 89.5 points in January."
+    },
+    {
+      "text": "Im Dezember lag er noch bei 89,7 Punkten.",
+      "translated_text": "In December it was still at 89.7 points."
+    },
+    {
+      "text": "Diese Entwicklung war unerwartet, denn viele Experten hatten eine Verbesserung vorhergesagt.",
+      "translated_text": "This development was unexpected, as many experts had predicted an improvement."
+    },
+    {
+      "text": "Die Regierung hat große Investitionen versprochen, aber die Wirtschaft bleibt schwach.",
+      "translated_text": "The government has promised large investments, but the economy remains weak."
+    },
+    {
+      "text": "Viele Unternehmen sind besorgt über die Zukunft.",
+      "translated_text": "Many companies are worried about the future."
+    },
+    {
+      "text": "Die Wirtschaft wächst nur langsam, trotz der geplanten staatlichen Investitionen.",
+      "translated_text": "The economy is growing only slowly, despite the planned government investments."
+    },
+    {
+      "text": "Experten sagen, dass 2026 ein wichtiges Jahr für die deutsche Wirtschaft sein wird.",
+      "translated_text": "Experts say that 2026 will be an important year for the German economy."
+    },
+    {
+      "text": "Deutschland hofft auf eine bescheidene Erholung in diesem Jahr.",
+      "translated_text": "Germany is hoping for a modest recovery this year."
+    },
+    {
+      "text": "Aber die aktuellen Zahlen zeigen, dass der Start ins Jahr schwierig ist.",
+      "translated_text": "But the current numbers show that the start to the year is difficult."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Wirtschaft",
+      "translated_term": "economy",
+      "example_usage": "Die deutsche Wirtschaft hat Probleme."
+    },
+    {
+      "term": "die Aussichten",
+      "translated_term": "outlook",
+      "example_usage": "Deutsche Wirtschaftsaussichten verschlechtern sich."
+    },
+    {
+      "term": "der Index",
+      "translated_term": "index",
+      "example_usage": "Ein wichtiger Index des Ifo-Instituts zeigt, dass die Unternehmen pessimistischer geworden sind."
+    },
+    {
+      "term": "pessimistisch",
+      "translated_term": "pessimistic",
+      "example_usage": "Ein wichtiger Index des Ifo-Instituts zeigt, dass die Unternehmen pessimistischer geworden sind."
+    },
+    {
+      "term": "die Investition",
+      "translated_term": "investment",
+      "example_usage": "Die Regierung hat große Investitionen versprochen, aber die Wirtschaft bleibt schwach."
+    },
+    {
+      "term": "wachsen",
+      "translated_term": "to grow",
+      "example_usage": "Die Wirtschaft wächst nur langsam, trotz der geplanten staatlichen Investitionen."
+    },
+    {
+      "term": "die Erholung",
+      "translated_term": "recovery",
+      "example_usage": "Deutschland hofft auf eine bescheidene Erholung in diesem Jahr."
+    },
+    {
+      "term": "besorgt",
+      "translated_term": "worried",
+      "example_usage": "Viele Unternehmen sind besorgt über die Zukunft."
+    },
+    {
+      "term": "unerwartet",
+      "translated_term": "unexpected",
+      "example_usage": "Diese Entwicklung war unerwartet, denn viele Experten hatten eine Verbesserung vorhergesagt."
+    },
+    {
+      "term": "die Entwicklung",
+      "translated_term": "development",
+      "example_usage": "Diese Entwicklung war unerwartet, denn viele Experten hatten eine Verbesserung vorhergesagt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Finanzmärkte",
+      "translated_name": "Financial Markets"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-01-26/german-business-outlook-unexpectedly-drops-with-growth-subdued"
+    },
+    {
+      "name": "Investing.com",
+      "link_url": "https://uk.investing.com/news/economy-news/germanys-economy-set-for-modest-rebound-in-2026-says-dsgv-93CH-4469517"
+    }
+  ]
+}

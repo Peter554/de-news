@@ -1,0 +1,122 @@
+{
+  "title": "Winterwetter bringt Chaos nach Berlin und Brandenburg",
+  "translated_title": "Winter Weather Brings Chaos to Berlin and Brandenburg",
+  "text": [
+    {
+      "text": "Starker Schneefall und Eisregen haben in der Nacht für viele Probleme in Berlin und Brandenburg gesorgt.",
+      "translated_text": "Heavy snowfall and freezing rain caused many problems overnight in Berlin and Brandenburg."
+    },
+    {
+      "text": "Der Deutsche Wetterdienst hatte vor eisigen Bedingungen am Montag gewarnt.",
+      "translated_text": "The German Weather Service had warned of icy conditions on Monday."
+    },
+    {
+      "text": "Auch in Mecklenburg-Vorpommern gab es Wetterwarnungen.",
+      "translated_text": "There were also weather warnings in Mecklenburg-Western Pomerania."
+    },
+    {
+      "text": "In Berlin mussten die Straßenbahnen den Betrieb einstellen.",
+      "translated_text": "In Berlin, the trams had to stop operating."
+    },
+    {
+      "text": "Die Oberleitungen waren gefroren und konnten nicht mehr funktionieren.",
+      "translated_text": "The overhead lines were frozen and could no longer function."
+    },
+    {
+      "text": "Das hat zu großen Problemen im öffentlichen Verkehr geführt.",
+      "translated_text": "This led to major problems in public transport."
+    },
+    {
+      "text": "Viele Pendler konnten nicht zur Arbeit fahren.",
+      "translated_text": "Many commuters could not get to work."
+    },
+    {
+      "text": "Auch der Zugverkehr in ganz Deutschland hatte Verspätungen und Ausfälle.",
+      "translated_text": "Train services throughout Germany also experienced delays and cancellations."
+    },
+    {
+      "text": "Reisende mussten lange auf ihre Züge warten.",
+      "translated_text": "Travelers had to wait a long time for their trains."
+    },
+    {
+      "text": "Die Verkehrsbetriebe arbeiten daran, den normalen Betrieb wiederherzustellen.",
+      "translated_text": "The transport authorities are working to restore normal operations."
+    },
+    {
+      "text": "Experten erwarten, dass das Winterwetter noch einige Tage anhält.",
+      "translated_text": "Experts expect the winter weather to continue for several more days."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Schneefall",
+      "translated_term": "snowfall",
+      "example_usage": "Starker Schneefall und Eisregen haben in der Nacht für viele Probleme in Berlin und Brandenburg gesorgt."
+    },
+    {
+      "term": "der Eisregen",
+      "translated_term": "freezing rain",
+      "example_usage": "Starker Schneefall und Eisregen haben in der Nacht für viele Probleme in Berlin und Brandenburg gesorgt."
+    },
+    {
+      "term": "warnen",
+      "translated_term": "to warn",
+      "example_usage": "Der Deutsche Wetterdienst hatte vor eisigen Bedingungen am Montag gewarnt."
+    },
+    {
+      "term": "die Straßenbahn",
+      "translated_term": "tram",
+      "example_usage": "In Berlin mussten die Straßenbahnen den Betrieb einstellen."
+    },
+    {
+      "term": "die Oberleitung",
+      "translated_term": "overhead line",
+      "example_usage": "Die Oberleitungen waren gefroren und konnten nicht mehr funktionieren."
+    },
+    {
+      "term": "gefroren",
+      "translated_term": "frozen",
+      "example_usage": "Die Oberleitungen waren gefroren und konnten nicht mehr funktionieren."
+    },
+    {
+      "term": "der Pendler",
+      "translated_term": "commuter",
+      "example_usage": "Viele Pendler konnten nicht zur Arbeit fahren."
+    },
+    {
+      "term": "die Verspätung",
+      "translated_term": "delay",
+      "example_usage": "Auch der Zugverkehr in ganz Deutschland hatte Verspätungen und Ausfälle."
+    },
+    {
+      "term": "der Ausfall",
+      "translated_term": "cancellation",
+      "example_usage": "Auch der Zugverkehr in ganz Deutschland hatte Verspätungen und Ausfälle."
+    },
+    {
+      "term": "wiederherstellen",
+      "translated_term": "to restore",
+      "example_usage": "Die Verkehrsbetriebe arbeiten daran, den normalen Betrieb wiederherzustellen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20260126/today-in-germany-a-roundup-of-the-latest-news-on-monday-108"
+    }
+  ]
+}
