@@ -1,0 +1,122 @@
+{
+  "title": "Universitätsstreik in ganz Deutschland",
+  "translated_title": "University Strike Across Germany",
+  "text": [
+    {
+      "text": "Am Mittwoch, dem 28. Januar, streiken Universitäten in ganz Deutschland.",
+      "translated_text": "On Wednesday, January 28th, universities across Germany are striking."
+    },
+    {
+      "text": "Die Gewerkschaft Erziehung und Wissenschaft (GEW) hat zu einem Warnstreik aufgerufen.",
+      "translated_text": "The Education and Science Union (GEW) has called for a warning strike."
+    },
+    {
+      "text": "Mehr als 60 Standorte sind betroffen, darunter Leipzig, Dresden, Chemnitz, Jena und Potsdam.",
+      "translated_text": "More than 60 locations are affected, including Leipzig, Dresden, Chemnitz, Jena and Potsdam."
+    },
+    {
+      "text": "Die Mitarbeiter von Universitäten, Studentenwerken, Forschungsinstituten und Bibliotheken nehmen am Streik teil.",
+      "translated_text": "Staff from universities, student services, research institutes and libraries are taking part in the strike."
+    },
+    {
+      "text": "Die Gewerkschaft fordert sieben Prozent mehr Gehalt oder mindestens 300 Euro pro Monat.",
+      "translated_text": "The union is demanding a seven percent pay increase or at least 300 euros per month."
+    },
+    {
+      "text": "Außerdem sollen Auszubildende 200 Euro mehr bekommen.",
+      "translated_text": "In addition, trainees should receive 200 euros more."
+    },
+    {
+      "text": "Die GEW will auch Überstundenzuschläge und einen eigenen Tarifvertrag für etwa 300.000 studentische Arbeitskräfte.",
+      "translated_text": "The GEW also wants overtime premiums and a dedicated wage agreement for around 300,000 student workers."
+    },
+    {
+      "text": "Der Streik ist Teil eines größeren Konflikts im öffentlichen Dienst.",
+      "translated_text": "The strike is part of a larger conflict in the public service sector."
+    },
+    {
+      "text": "Die Verhandlungen zwischen Gewerkschaften und Arbeitgebern sind schwierig.",
+      "translated_text": "Negotiations between unions and employers are difficult."
+    },
+    {
+      "text": "Viele Beschäftigte sind unzufrieden mit ihren Arbeitsbedingungen.",
+      "translated_text": "Many employees are dissatisfied with their working conditions."
+    },
+    {
+      "text": "Der Bildungssektor hat seit Jahren mit Personalmangel und schlechter Bezahlung zu kämpfen.",
+      "translated_text": "The education sector has been struggling with staff shortages and poor pay for years."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Streik",
+      "translated_term": "strike",
+      "example_usage": "Am Mittwoch, dem 28. Januar, streiken Universitäten in ganz Deutschland."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "union",
+      "example_usage": "Die Gewerkschaft Erziehung und Wissenschaft (GEW) hat zu einem Warnstreik aufgerufen."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand",
+      "example_usage": "Die Gewerkschaft fordert sieben Prozent mehr Gehalt oder mindestens 300 Euro pro Monat."
+    },
+    {
+      "term": "das Gehalt",
+      "translated_term": "salary",
+      "example_usage": "Die Gewerkschaft fordert sieben Prozent mehr Gehalt oder mindestens 300 Euro pro Monat."
+    },
+    {
+      "term": "der Auszubildende",
+      "translated_term": "trainee",
+      "example_usage": "Außerdem sollen Auszubildende 200 Euro mehr bekommen."
+    },
+    {
+      "term": "der Überstundenzuschlag",
+      "translated_term": "overtime premium",
+      "example_usage": "Die GEW will auch Überstundenzuschläge und einen eigenen Tarifvertrag für etwa 300.000 studentische Arbeitskräfte."
+    },
+    {
+      "term": "der Tarifvertrag",
+      "translated_term": "wage agreement",
+      "example_usage": "Die GEW will auch Überstundenzuschläge und einen eigenen Tarifvertrag für etwa 300.000 studentische Arbeitskräfte."
+    },
+    {
+      "term": "der öffentliche Dienst",
+      "translated_term": "public service",
+      "example_usage": "Der Streik ist Teil eines größeren Konflikts im öffentlichen Dienst."
+    },
+    {
+      "term": "die Verhandlung",
+      "translated_term": "negotiation",
+      "example_usage": "Die Verhandlungen zwischen Gewerkschaften und Arbeitgebern sind schwierig."
+    },
+    {
+      "term": "der Personalmangel",
+      "translated_term": "staff shortage",
+      "example_usage": "Der Bildungssektor hat seit Jahren mit Personalmangel und schlechter Bezahlung zu kämpfen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Bildung",
+      "translated_name": "Education"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20260126/today-in-germany-a-roundup-of-the-latest-news-on-monday-108"
+    }
+  ]
+}
