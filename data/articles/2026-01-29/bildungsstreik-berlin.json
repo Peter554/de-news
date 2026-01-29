@@ -1,0 +1,122 @@
+{
+  "title": "Bildungsstreik in Berlin",
+  "translated_title": "Education Strike in Berlin",
+  "text": [
+    {
+      "text": "Am 29. Januar 2026 streikten tausende Beschäftigte im Bildungsbereich in Berlin.",
+      "translated_text": "On January 29, 2026, thousands of employees in the education sector went on strike in Berlin."
+    },
+    {
+      "text": "Die Gewerkschaft Erziehung und Wissenschaft (GEW) hatte zum Warnstreik aufgerufen.",
+      "translated_text": "The Education and Science Union (GEW) had called for a warning strike."
+    },
+    {
+      "text": "Betroffen waren Schulen, Kitas, Bezirksämter und Universitäten in ganz Berlin.",
+      "translated_text": "Schools, daycare centers, district offices, and universities throughout Berlin were affected."
+    },
+    {
+      "text": "Die Gewerkschaften fordern 7 Prozent mehr Gehalt, mindestens aber 300 Euro pro Monat.",
+      "translated_text": "The unions are demanding a 7 percent salary increase, or at least 300 euros per month."
+    },
+    {
+      "text": "Für Auszubildende und Praktikanten soll es 200 Euro mehr pro Monat geben.",
+      "translated_text": "Trainees and interns should receive 200 euros more per month."
+    },
+    {
+      "text": "Die Tarifverhandlungen betreffen rund 2,6 Millionen Beschäftigte in deutschen Bundesländern.",
+      "translated_text": "The collective bargaining negotiations affect around 2.6 million employees in German federal states."
+    },
+    {
+      "text": "Um 11 Uhr begann die zentrale Demonstration am Hermannplatz in Berlin.",
+      "translated_text": "At 11 a.m., the central demonstration began at Hermannplatz in Berlin."
+    },
+    {
+      "text": "Neben Berlin gab es auch in Hamburg, Köln, Leipzig und Mannheim zentrale Streikaktionen.",
+      "translated_text": "In addition to Berlin, there were also central strike actions in Hamburg, Cologne, Leipzig, and Mannheim."
+    },
+    {
+      "text": "Die GEW betonte, dass faire Löhne wichtig für gute Bildung sind.",
+      "translated_text": "The GEW emphasized that fair wages are important for good education."
+    },
+    {
+      "text": "Viele Eltern mussten ihre Kinder zu Hause betreuen, weil Schulen und Kitas geschlossen waren.",
+      "translated_text": "Many parents had to take care of their children at home because schools and daycare centers were closed."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Streik",
+      "translated_term": "strike",
+      "example_usage": "Am 29. Januar 2026 streikten tausende Beschäftigte im Bildungsbereich in Berlin."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "union",
+      "example_usage": "Die Gewerkschaft Erziehung und Wissenschaft (GEW) hatte zum Warnstreik aufgerufen."
+    },
+    {
+      "term": "der/die Beschäftigte",
+      "translated_term": "employee",
+      "example_usage": "Die Tarifverhandlungen betreffen rund 2,6 Millionen Beschäftigte in deutschen Bundesländern."
+    },
+    {
+      "term": "das Gehalt",
+      "translated_term": "salary",
+      "example_usage": "Die Gewerkschaften fordern 7 Prozent mehr Gehalt, mindestens aber 300 Euro pro Monat."
+    },
+    {
+      "term": "die Kita",
+      "translated_term": "daycare center",
+      "example_usage": "Betroffen waren Schulen, Kitas, Bezirksämter und Universitäten in ganz Berlin."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand",
+      "example_usage": "Die Gewerkschaften fordern 7 Prozent mehr Gehalt, mindestens aber 300 Euro pro Monat."
+    },
+    {
+      "term": "der/die Auszubildende",
+      "translated_term": "trainee",
+      "example_usage": "Für Auszubildende und Praktikanten soll es 200 Euro mehr pro Monat geben."
+    },
+    {
+      "term": "die Tarifverhandlung",
+      "translated_term": "collective bargaining negotiation",
+      "example_usage": "Die Tarifverhandlungen betreffen rund 2,6 Millionen Beschäftigte in deutschen Bundesländern."
+    },
+    {
+      "term": "die Demonstration",
+      "translated_term": "demonstration",
+      "example_usage": "Um 11 Uhr begann die zentrale Demonstration am Hermannplatz in Berlin."
+    },
+    {
+      "term": "betreuen",
+      "translated_term": "to take care of",
+      "example_usage": "Viele Eltern mussten ihre Kinder zu Hause betreuen, weil Schulen und Kitas geschlossen waren."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Bildung",
+      "translated_name": "Education"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Left Berlin",
+      "link_url": "https://theleftberlin.com/news-from-berlin-and-germany-28th-january-2026/"
+    },
+    {
+      "name": "GEW Berlin",
+      "link_url": "https://gewerkschaftliche-linke-berlin.de/bildungsstreiktag-am-29-januar-2026/"
+    }
+  ]
+}
