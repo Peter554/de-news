@@ -1,0 +1,126 @@
+{
+  "title": "USA: Regierung steht vor möglichem Stillstand",
+  "translated_title": "USA: Government Faces Possible Shutdown",
+  "text": [
+    {
+      "text": "Die US-Regierung steht am 30. Januar vor einem möglichen Stillstand, wenn der Kongress keine Einigung erzielt.",
+      "translated_text": "The US government faces a possible shutdown on January 30 if Congress does not reach an agreement."
+    },
+    {
+      "text": "Der Streit dreht sich um die Finanzierung der Einwanderungsbehörde ICE und anderer Bundesbehörden.",
+      "translated_text": "The dispute centers on funding for the immigration agency ICE and other federal agencies."
+    },
+    {
+      "text": "Demokratische Senatoren haben gedroht, ein Finanzierungspaket zu blockieren, das keine strengeren Kontrollen enthält.",
+      "translated_text": "Democratic senators have threatened to block a funding package that does not contain stricter controls."
+    },
+    {
+      "text": "Sie fordern mehr Aufsicht über die Einwanderungsbehörde und Einschränkungen für bestimmte Aktivitäten.",
+      "translated_text": "They are demanding more oversight of the immigration agency and restrictions on certain activities."
+    },
+    {
+      "text": "Ein Stillstand würde bedeuten, dass viele Regierungsangestellte unbezahlten Urlaub nehmen müssen.",
+      "translated_text": "A shutdown would mean that many government employees would have to take unpaid leave."
+    },
+    {
+      "text": "Auch wichtige öffentliche Dienstleistungen könnten eingeschränkt oder gestoppt werden.",
+      "translated_text": "Important public services could also be restricted or stopped."
+    },
+    {
+      "text": "Die ICE würde jedoch weiterhin operieren, da sie als wesentlicher Dienst gilt.",
+      "translated_text": "However, ICE would continue to operate as it is considered an essential service."
+    },
+    {
+      "text": "Aktivisten haben für Freitag, den 30. Januar, zu einem landesweiten Protesttag aufgerufen.",
+      "translated_text": "Activists have called for a nationwide day of protest on Friday, January 30."
+    },
+    {
+      "text": "Sie fordern einen Tag ohne Schule, Arbeit und Einkaufen als Zeichen gegen die Einwanderungspolitik.",
+      "translated_text": "They are calling for a day without school, work and shopping as a sign against immigration policy."
+    },
+    {
+      "text": "Die politische Situation zeigt die tiefen Spaltungen in der amerikanischen Gesellschaft.",
+      "translated_text": "The political situation shows the deep divisions in American society."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Stillstand",
+      "translated_term": "shutdown, standstill",
+      "example_usage": "Die US-Regierung steht vor einem möglichen Stillstand."
+    },
+    {
+      "term": "der Kongress",
+      "translated_term": "Congress",
+      "example_usage": "Der Kongress muss eine Einigung erzielen."
+    },
+    {
+      "term": "die Einigung",
+      "translated_term": "agreement",
+      "example_usage": "Wenn der Kongress keine Einigung erzielt, droht ein Stillstand."
+    },
+    {
+      "term": "die Einwanderungsbehörde",
+      "translated_term": "immigration agency",
+      "example_usage": "Der Streit dreht sich um die Finanzierung der Einwanderungsbehörde ICE."
+    },
+    {
+      "term": "drohen",
+      "translated_term": "to threaten",
+      "example_usage": "Demokratische Senatoren haben gedroht, ein Finanzierungspaket zu blockieren."
+    },
+    {
+      "term": "die Aufsicht",
+      "translated_term": "oversight, supervision",
+      "example_usage": "Sie fordern mehr Aufsicht über die Einwanderungsbehörde."
+    },
+    {
+      "term": "der unbezahlte Urlaub",
+      "translated_term": "unpaid leave",
+      "example_usage": "Viele Regierungsangestellte müssten unbezahlten Urlaub nehmen."
+    },
+    {
+      "term": "einschränken",
+      "translated_term": "to restrict, to limit",
+      "example_usage": "Wichtige öffentliche Dienstleistungen könnten eingeschränkt werden."
+    },
+    {
+      "term": "aufrufen (zu)",
+      "translated_term": "to call for",
+      "example_usage": "Aktivisten haben zu einem landesweiten Protesttag aufgerufen."
+    },
+    {
+      "term": "die Spaltung",
+      "translated_name": "division, split",
+      "example_usage": "Die Situation zeigt die tiefen Spaltungen in der amerikanischen Gesellschaft."
+    }
+  ],
+  "tags": [
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Regierungskrise",
+      "translated_name": "Government Crisis"
+    },
+    {
+      "name": "Einwanderungspolitik",
+      "translated_name": "Immigration Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Military.com",
+      "link_url": "https://www.military.com/daily-news/investigations-and-features/2026/01/28/government-shutdown-risk-grows-funding-deadline-nears-what-we-know.html"
+    },
+    {
+      "name": "The Hill",
+      "link_url": "https://thehill.com/homenews/state-watch/5712766-national-shutdown-set-for-friday-what-to-know/"
+    },
+    {
+      "name": "NBC News",
+      "link_url": "https://www.nbcnews.com/politics/congress/government-shut-weekend-ice-operations-carry-rcna255971"
+    }
+  ]
+}

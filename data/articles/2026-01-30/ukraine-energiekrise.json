@@ -1,0 +1,122 @@
+{
+  "title": "Ukraine: Stromausfälle im kalten Winter",
+  "translated_title": "Ukraine: Power Outages in Cold Winter",
+  "text": [
+    {
+      "text": "Die Ukraine kämpft mit schweren Stromausfällen während des kalten Winters.",
+      "translated_text": "Ukraine is struggling with severe power outages during the cold winter."
+    },
+    {
+      "text": "Russische Angriffe auf das Energienetz haben die Stromversorgung des Landes schwer beschädigt.",
+      "translated_text": "Russian attacks on the energy grid have severely damaged the country's electricity supply."
+    },
+    {
+      "text": "Millionen von Menschen müssen stundenlang ohne Strom und Heizung auskommen.",
+      "translated_text": "Millions of people have to go without electricity and heating for hours."
+    },
+    {
+      "text": "In den sozialen Medien teilen Ukrainer Tipps, wie man sich zu Hause warm halten kann.",
+      "translated_text": "On social media, Ukrainians share tips on how to keep warm at home."
+    },
+    {
+      "text": "Viele Menschen nutzen warme Kleidung, Decken und improvisierte Heizmethoden, um die kalten Nächte zu überstehen.",
+      "translated_text": "Many people use warm clothing, blankets and improvised heating methods to survive the cold nights."
+    },
+    {
+      "text": "Die Regierung arbeitet daran, die beschädigten Kraftwerke und Stromleitungen zu reparieren.",
+      "translated_text": "The government is working to repair the damaged power plants and power lines."
+    },
+    {
+      "text": "Westliche Länder haben der Ukraine technische Hilfe und Ausrüstung zur Verfügung gestellt.",
+      "translated_text": "Western countries have provided Ukraine with technical assistance and equipment."
+    },
+    {
+      "text": "Experten warnen, dass die Angriffe auf die Energieinfrastruktur die humanitäre Lage verschlechtern.",
+      "translated_text": "Experts warn that the attacks on energy infrastructure are worsening the humanitarian situation."
+    },
+    {
+      "text": "Besonders gefährdet sind ältere Menschen und Kinder, die der Kälte ausgesetzt sind.",
+      "translated_text": "Particularly at risk are elderly people and children who are exposed to the cold."
+    },
+    {
+      "text": "Die internationale Gemeinschaft fordert ein Ende der Angriffe auf zivile Infrastruktur.",
+      "translated_text": "The international community is calling for an end to attacks on civilian infrastructure."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Stromausfall",
+      "translated_term": "power outage",
+      "example_usage": "Die Ukraine kämpft mit schweren Stromausfällen während des kalten Winters."
+    },
+    {
+      "term": "das Energienetz",
+      "translated_term": "energy grid, power grid",
+      "example_usage": "Russische Angriffe auf das Energienetz haben die Stromversorgung schwer beschädigt."
+    },
+    {
+      "term": "die Stromversorgung",
+      "translated_term": "electricity supply, power supply",
+      "example_usage": "Die Stromversorgung des Landes wurde schwer beschädigt."
+    },
+    {
+      "term": "auskommen (ohne)",
+      "translated_term": "to do without, to manage without",
+      "example_usage": "Millionen von Menschen müssen stundenlang ohne Strom auskommen."
+    },
+    {
+      "term": "teilen",
+      "translated_term": "to share",
+      "example_usage": "In den sozialen Medien teilen Ukrainer Tipps."
+    },
+    {
+      "term": "überstehen",
+      "translated_term": "to survive, to get through",
+      "example_usage": "Viele Menschen nutzen Decken, um die kalten Nächte zu überstehen."
+    },
+    {
+      "term": "das Kraftwerk",
+      "translated_term": "power plant",
+      "example_usage": "Die Regierung arbeitet daran, die beschädigten Kraftwerke zu reparieren."
+    },
+    {
+      "term": "verschlechtern",
+      "translated_term": "to worsen, to deteriorate",
+      "example_usage": "Die Angriffe auf die Energieinfrastruktur verschlechtern die humanitäre Lage."
+    },
+    {
+      "term": "gefährdet",
+      "translated_term": "at risk, endangered",
+      "example_usage": "Besonders gefährdet sind ältere Menschen und Kinder."
+    },
+    {
+      "term": "ausgesetzt sein",
+      "translated_term": "to be exposed to",
+      "example_usage": "Ältere Menschen und Kinder sind der Kälte ausgesetzt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Energiepolitik",
+      "translated_name": "Energy Policy"
+    },
+    {
+      "name": "Humanitäre Krise",
+      "translated_name": "Humanitarian Crisis"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR World News",
+      "link_url": "https://www.npr.org/sections/world/"
+    },
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/video/2026/01/30/latest-news-bulletin-january-30th-2026-morning"
+    }
+  ]
+}

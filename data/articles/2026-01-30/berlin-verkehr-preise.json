@@ -1,0 +1,122 @@
+{
+  "title": "Berlin: Öffentliche Verkehrsmittel werden teurer",
+  "translated_title": "Berlin: Public Transport Becomes More Expensive",
+  "text": [
+    {
+      "text": "Seit Januar 2026 sind die Preise für öffentliche Verkehrsmittel in Berlin und Brandenburg gestiegen.",
+      "translated_text": "Since January 2026, prices for public transport in Berlin and Brandenburg have increased."
+    },
+    {
+      "text": "Das deutschlandweite Deutschlandticket kostet jetzt 63 Euro pro Monat statt 58 Euro.",
+      "translated_text": "The nationwide Germany ticket now costs 63 euros per month instead of 58 euros."
+    },
+    {
+      "text": "In Berlin und Brandenburg sind die Fahrpreise durchschnittlich um sechs Prozent gestiegen.",
+      "translated_text": "In Berlin and Brandenburg, fares have increased by an average of six percent."
+    },
+    {
+      "text": "Eine einzelne Fahrt innerhalb des Berliner S-Bahn-Rings kostet zum ersten Mal 4,00 Euro.",
+      "translated_text": "A single journey within Berlin's S-Bahn ring costs 4.00 euros for the first time."
+    },
+    {
+      "text": "Viele Pendler sind von den Preiserhöhungen betroffen und müssen ihr Budget anpassen.",
+      "translated_text": "Many commuters are affected by the price increases and have to adjust their budget."
+    },
+    {
+      "text": "Die Verkehrsbetriebe begründen die Erhöhung mit steigenden Betriebskosten und Investitionen in die Infrastruktur.",
+      "translated_text": "The transport companies justify the increase with rising operating costs and investments in infrastructure."
+    },
+    {
+      "text": "Gleichzeitig sollen mehr Busse und Bahnen eingesetzt werden, um den Service zu verbessern.",
+      "translated_text": "At the same time, more buses and trains are to be deployed to improve the service."
+    },
+    {
+      "text": "Fahrgastvertreter kritisieren die hohen Preiserhöhungen und fordern mehr staatliche Unterstützung.",
+      "translated_text": "Passenger representatives criticize the high price increases and demand more government support."
+    },
+    {
+      "text": "Trotz der Proteste bleibt das Deutschlandticket im europäischen Vergleich relativ günstig.",
+      "translated_text": "Despite the protests, the Germany ticket remains relatively cheap in European comparison."
+    },
+    {
+      "text": "Die Regierung hofft, dass das Ticket weiterhin viele Menschen dazu bringt, auf öffentliche Verkehrsmittel umzusteigen.",
+      "translated_text": "The government hopes that the ticket will continue to encourage many people to switch to public transport."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das öffentliche Verkehrsmittel",
+      "translated_term": "public transport",
+      "example_usage": "Die Preise für öffentliche Verkehrsmittel sind gestiegen."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise, to increase",
+      "example_usage": "Seit Januar 2026 sind die Preise gestiegen."
+    },
+    {
+      "term": "der Fahrpreis",
+      "translated_term": "fare, ticket price",
+      "example_usage": "Die Fahrpreise sind durchschnittlich um sechs Prozent gestiegen."
+    },
+    {
+      "term": "die Fahrt",
+      "translated_term": "journey, trip",
+      "example_usage": "Eine einzelne Fahrt innerhalb des Berliner S-Bahn-Rings kostet 4,00 Euro."
+    },
+    {
+      "term": "der Pendler",
+      "translated_term": "commuter",
+      "example_usage": "Viele Pendler sind von den Preiserhöhungen betroffen."
+    },
+    {
+      "term": "begründen",
+      "translated_term": "to justify, to give reasons for",
+      "example_usage": "Die Verkehrsbetriebe begründen die Erhöhung mit steigenden Betriebskosten."
+    },
+    {
+      "term": "die Betriebskosten (plural)",
+      "translated_term": "operating costs",
+      "example_usage": "Die Verkehrsbetriebe verweisen auf steigende Betriebskosten."
+    },
+    {
+      "term": "einsetzen",
+      "translated_term": "to deploy, to use",
+      "example_usage": "Mehr Busse und Bahnen sollen eingesetzt werden."
+    },
+    {
+      "term": "der Fahrgastvertreter",
+      "translated_term": "passenger representative",
+      "example_usage": "Fahrgastvertreter kritisieren die hohen Preiserhöhungen."
+    },
+    {
+      "term": "umsteigen (auf)",
+      "translated_term": "to switch (to)",
+      "example_usage": "Das Ticket soll Menschen dazu bringen, auf öffentliche Verkehrsmittel umzusteigen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20251231/everything-that-changes-in-germany-in-january-2026"
+    },
+    {
+      "name": "All About Berlin",
+      "link_url": "https://allaboutberlin.com/newsletter/january-2026"
+    }
+  ]
+}
