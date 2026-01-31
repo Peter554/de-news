@@ -1,0 +1,143 @@
+{
+  "title": "Britischer Premierminister besucht China",
+  "translated_title": "British Prime Minister Visits China",
+  "text": [
+    {
+      "text": "Der britische Premierminister Keir Starmer ist in China.",
+      "translated_text": "British Prime Minister Keir Starmer is in China."
+    },
+    {
+      "text": "Es ist der erste Besuch eines britischen Regierungschefs in China seit acht Jahren.",
+      "translated_text": "It is the first visit by a British head of government to China in eight years."
+    },
+    {
+      "text": "Starmer bleibt vier Tage im Land.",
+      "translated_text": "Starmer is staying in the country for four days."
+    },
+    {
+      "text": "Großbritannien und China wollen ihre Beziehungen verbessern.",
+      "translated_text": "Great Britain and China want to improve their relations."
+    },
+    {
+      "text": "In den letzten Jahren gab es viel Misstrauen zwischen den beiden Ländern.",
+      "translated_text": "In recent years there has been a lot of mistrust between the two countries."
+    },
+    {
+      "text": "Jetzt wollen beide Seiten einen Neuanfang machen.",
+      "translated_text": "Now both sides want to make a fresh start."
+    },
+    {
+      "text": "Aber es gibt auch Kritik an dieser Reise.",
+      "translated_text": "But there is also criticism of this trip."
+    },
+    {
+      "text": "Der amerikanische Präsident Donald Trump hat Großbritannien gewarnt.",
+      "translated_text": "American President Donald Trump has warned Great Britain."
+    },
+    {
+      "text": "Er sagte, es sei \"sehr gefährlich\" für das Land, Geschäfte mit China zu machen.",
+      "translated_text": "He said it would be 'very dangerous' for the country to do business with China."
+    },
+    {
+      "text": "Trotzdem will Starmer die wirtschaftlichen Beziehungen zu China stärken.",
+      "translated_text": "Nevertheless, Starmer wants to strengthen economic relations with China."
+    },
+    {
+      "text": "Die britische Wirtschaft hat Probleme.",
+      "translated_text": "The British economy has problems."
+    },
+    {
+      "text": "Im Oktober ist die Wirtschaft um 0,1 Prozent geschrumpft.",
+      "translated_text": "In October, the economy shrank by 0.1 percent."
+    },
+    {
+      "text": "Die Arbeitslosenquote liegt bei 5,1 Prozent - das ist die höchste seit März 2021.",
+      "translated_text": "The unemployment rate is 5.1 percent - that is the highest since March 2021."
+    },
+    {
+      "text": "Viele britische Unternehmen hoffen auf bessere Handelsbeziehungen mit China.",
+      "translated_text": "Many British companies hope for better trade relations with China."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Premierminister",
+      "translated_term": "prime minister",
+      "example_usage": "Der britische Premierminister Keir Starmer ist in China."
+    },
+    {
+      "term": "der Regierungschef",
+      "translated_term": "head of government",
+      "example_usage": "Es ist der erste Besuch eines britischen Regierungschefs in China seit acht Jahren."
+    },
+    {
+      "term": "die Beziehungen",
+      "translated_term": "relations/relationships",
+      "example_usage": "Großbritannien und China wollen ihre Beziehungen verbessern."
+    },
+    {
+      "term": "das Misstrauen",
+      "translated_term": "mistrust/distrust",
+      "example_usage": "In den letzten Jahren gab es viel Misstrauen zwischen den beiden Ländern."
+    },
+    {
+      "term": "der Neuanfang",
+      "translated_term": "fresh start/new beginning",
+      "example_usage": "Jetzt wollen beide Seiten einen Neuanfang machen."
+    },
+    {
+      "term": "warnen",
+      "translated_term": "to warn",
+      "example_usage": "Der amerikanische Präsident Donald Trump hat Großbritannien gewarnt."
+    },
+    {
+      "term": "gefährlich",
+      "translated_term": "dangerous",
+      "example_usage": "Er sagte, es sei 'sehr gefährlich' für das Land, Geschäfte mit China zu machen."
+    },
+    {
+      "term": "stärken",
+      "translated_term": "to strengthen",
+      "example_usage": "Trotzdem will Starmer die wirtschaftlichen Beziehungen zu China stärken."
+    },
+    {
+      "term": "schrumpfen",
+      "translated_term": "to shrink",
+      "example_usage": "Im Oktober ist die Wirtschaft um 0,1 Prozent geschrumpft."
+    },
+    {
+      "term": "die Arbeitslosenquote",
+      "translated_term": "unemployment rate",
+      "example_usage": "Die Arbeitslosenquote liegt bei 5,1 Prozent."
+    },
+    {
+      "term": "die Handelsbeziehungen",
+      "translated_term": "trade relations",
+      "example_usage": "Viele britische Unternehmen hoffen auf bessere Handelsbeziehungen mit China."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "China",
+      "translated_name": "China"
+    },
+    {
+      "name": "Handelspolitik",
+      "translated_name": "Trade Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC",
+      "link_url": "https://www.cnbc.com/2026/01/29/china-uk-starmer-xi-relations-visit-businesses-.html"
+    },
+    {
+      "name": "CNBC",
+      "link_url": "https://www.cnbc.com/2026/01/30/trump-china-uk-starmer-visit-xi-canada-carney.html"
+    }
+  ]
+}
