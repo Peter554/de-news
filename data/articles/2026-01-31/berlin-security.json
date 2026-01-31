@@ -1,0 +1,144 @@
+{
+  "title": "Terrorverdächtiger am Berliner Flughafen verhaftet",
+  "translated_title": "Terror Suspect Arrested at Berlin Airport",
+  "text": [
+    {
+      "text": "Die Polizei hat am Flughafen Berlin-Brandenburg einen Mann verhaftet.",
+      "translated_text": "Police arrested a man at Berlin-Brandenburg Airport."
+    },
+    {
+      "text": "Das war am 23. Januar.",
+      "translated_text": "That was on January 23."
+    },
+    {
+      "text": "Der Mann kommt aus dem Libanon.",
+      "translated_text": "The man is from Lebanon."
+    },
+    {
+      "text": "Er steht unter Verdacht, ein Mitglied der Hamas zu sein.",
+      "translated_text": "He is suspected of being a member of Hamas."
+    },
+    {
+      "text": "Hamas ist eine palästinensische Organisation, die von vielen Ländern als Terrororganisation eingestuft wird.",
+      "translated_text": "Hamas is a Palestinian organization that is classified as a terrorist organization by many countries."
+    },
+    {
+      "text": "Die deutschen Behörden glauben, dass der Mann einen Terroranschlag in Europa geplant haben könnte.",
+      "translated_text": "German authorities believe that the man may have planned a terrorist attack in Europe."
+    },
+    {
+      "text": "Das ist sehr ernst.",
+      "translated_text": "This is very serious."
+    },
+    {
+      "text": "Die Sicherheitskräfte in Deutschland sind sehr wachsam.",
+      "translated_text": "Security forces in Germany are very vigilant."
+    },
+    {
+      "text": "Sie arbeiten daran, Terroranschläge zu verhindern.",
+      "translated_text": "They work to prevent terrorist attacks."
+    },
+    {
+      "text": "Der Flughafen Berlin-Brandenburg ist ein wichtiger internationaler Flughafen.",
+      "translated_text": "Berlin-Brandenburg Airport is an important international airport."
+    },
+    {
+      "text": "Millionen Menschen reisen jedes Jahr durch diesen Flughafen.",
+      "translated_text": "Millions of people travel through this airport every year."
+    },
+    {
+      "text": "Die Verhaftung zeigt, dass die Sicherheitsbehörden gut arbeiten.",
+      "translated_text": "The arrest shows that the security authorities are working well."
+    },
+    {
+      "text": "Der Fall wird jetzt von der Justiz untersucht.",
+      "translated_text": "The case is now being investigated by the judiciary."
+    },
+    {
+      "text": "Die Behörden wollen herausfinden, ob es weitere Verdächtige gibt.",
+      "translated_text": "The authorities want to find out if there are more suspects."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "verhaften",
+      "translated_term": "to arrest",
+      "example_usage": "Die Polizei hat am Flughafen Berlin-Brandenburg einen Mann verhaftet."
+    },
+    {
+      "term": "der Verdacht",
+      "translated_term": "suspicion",
+      "example_usage": "Er steht unter Verdacht, ein Mitglied der Hamas zu sein."
+    },
+    {
+      "term": "das Mitglied",
+      "translated_term": "member",
+      "example_usage": "Er steht unter Verdacht, ein Mitglied der Hamas zu sein."
+    },
+    {
+      "term": "einstufen",
+      "translated_term": "to classify",
+      "example_usage": "Hamas ist eine palästinensische Organisation, die von vielen Ländern als Terrororganisation eingestuft wird."
+    },
+    {
+      "term": "die Behörden",
+      "translated_term": "authorities",
+      "example_usage": "Die deutschen Behörden glauben, dass der Mann einen Terroranschlag in Europa geplant haben könnte."
+    },
+    {
+      "term": "der Terroranschlag",
+      "translated_term": "terrorist attack",
+      "example_usage": "Die deutschen Behörden glauben, dass der Mann einen Terroranschlag in Europa geplant haben könnte."
+    },
+    {
+      "term": "planen",
+      "translated_term": "to plan",
+      "example_usage": "Die deutschen Behörden glauben, dass der Mann einen Terroranschlag in Europa geplant haben könnte."
+    },
+    {
+      "term": "wachsam",
+      "translated_term": "vigilant/alert",
+      "example_usage": "Die Sicherheitskräfte in Deutschland sind sehr wachsam."
+    },
+    {
+      "term": "verhindern",
+      "translated_term": "to prevent",
+      "example_usage": "Sie arbeiten daran, Terroranschläge zu verhindern."
+    },
+    {
+      "term": "die Verhaftung",
+      "translated_term": "arrest",
+      "example_usage": "Die Verhaftung zeigt, dass die Sicherheitsbehörden gut arbeiten."
+    },
+    {
+      "term": "untersuchen",
+      "translated_term": "to investigate",
+      "example_usage": "Der Fall wird jetzt von der Justiz untersucht."
+    },
+    {
+      "term": "der Verdächtige",
+      "translated_term": "suspect",
+      "example_usage": "Die Behörden wollen herausfinden, ob es weitere Verdächtige gibt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Terrorismus",
+      "translated_name": "Terrorism"
+    },
+    {
+      "name": "Nationale Sicherheit",
+      "translated_name": "National Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Left Berlin",
+      "link_url": "https://theleftberlin.com/news-from-berlin-and-germany-21st-january-2026/"
+    }
+  ]
+}

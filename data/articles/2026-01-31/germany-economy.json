@@ -1,0 +1,147 @@
+{
+  "title": "Deutsche Wirtschaft wächst langsam",
+  "translated_title": "German Economy Grows Slowly",
+  "text": [
+    {
+      "text": "Die deutsche Wirtschaft hat Probleme.",
+      "translated_text": "The German economy has problems."
+    },
+    {
+      "text": "Die Regierung hat ihre Prognose für das Wirtschaftswachstum geändert.",
+      "translated_text": "The government has changed its forecast for economic growth."
+    },
+    {
+      "text": "Sie erwartet jetzt nur noch ein Wachstum von 1 Prozent für 2026.",
+      "translated_text": "It now expects only 1 percent growth for 2026."
+    },
+    {
+      "text": "Für 2027 wird ein Wachstum von 1,3 Prozent erwartet.",
+      "translated_text": "For 2027, growth of 1.3 percent is expected."
+    },
+    {
+      "text": "Das ist weniger als die Regierung früher gedacht hatte.",
+      "translated_text": "That is less than the government had previously thought."
+    },
+    {
+      "text": "Es gibt aber auch gute Nachrichten.",
+      "translated_text": "But there is also good news."
+    },
+    {
+      "text": "Der ZEW-Index für die Wirtschaftsstimmung ist im Januar stark gestiegen.",
+      "translated_text": "The ZEW index for economic sentiment rose sharply in January."
+    },
+    {
+      "text": "Er erreichte 59,6 Punkte - das ist der höchste Wert seit Juli 2021.",
+      "translated_text": "It reached 59.6 points - that is the highest value since July 2021."
+    },
+    {
+      "text": "Das bedeutet, dass viele Unternehmen optimistischer sind.",
+      "translated_text": "This means that many companies are more optimistic."
+    },
+    {
+      "text": "Die Deutsche Bank hat auch gute Ergebnisse gemeldet.",
+      "translated_text": "Deutsche Bank has also reported good results."
+    },
+    {
+      "text": "Sie hat 2025 einen Rekordgewinn von 9,7 Milliarden Euro gemacht.",
+      "translated_text": "In 2025 it made a record profit of 9.7 billion euros."
+    },
+    {
+      "text": "Das ist 84 Prozent mehr als 2024.",
+      "translated_text": "That is 84 percent more than in 2024."
+    },
+    {
+      "text": "Trotzdem gibt es Herausforderungen.",
+      "translated_text": "Nevertheless, there are challenges."
+    },
+    {
+      "text": "Deutschland verliert jeden Monat 10.000 Jobs in der Industrie.",
+      "translated_text": "Germany loses 10,000 jobs in industry every month."
+    },
+    {
+      "text": "Der Wettbewerb mit China wird immer härter.",
+      "translated_text": "Competition with China is getting tougher and tougher."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Wirtschaft",
+      "translated_term": "economy",
+      "example_usage": "Die deutsche Wirtschaft hat Probleme."
+    },
+    {
+      "term": "die Prognose",
+      "translated_term": "forecast/prediction",
+      "example_usage": "Die Regierung hat ihre Prognose für das Wirtschaftswachstum geändert."
+    },
+    {
+      "term": "das Wachstum",
+      "translated_term": "growth",
+      "example_usage": "Sie erwartet jetzt nur noch ein Wachstum von 1 Prozent für 2026."
+    },
+    {
+      "term": "erwarten",
+      "translated_term": "to expect",
+      "example_usage": "Sie erwartet jetzt nur noch ein Wachstum von 1 Prozent für 2026."
+    },
+    {
+      "term": "die Wirtschaftsstimmung",
+      "translated_term": "economic sentiment/mood",
+      "example_usage": "Der ZEW-Index für die Wirtschaftsstimmung ist im Januar stark gestiegen."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise/to increase",
+      "example_usage": "Der ZEW-Index für die Wirtschaftsstimmung ist im Januar stark gestiegen."
+    },
+    {
+      "term": "optimistisch",
+      "translated_term": "optimistic",
+      "example_usage": "Das bedeutet, dass viele Unternehmen optimistischer sind."
+    },
+    {
+      "term": "der Gewinn",
+      "translated_term": "profit",
+      "example_usage": "Sie hat 2025 einen Rekordgewinn von 9,7 Milliarden Euro gemacht."
+    },
+    {
+      "term": "die Herausforderung",
+      "translated_term": "challenge",
+      "example_usage": "Trotzdem gibt es Herausforderungen."
+    },
+    {
+      "term": "verlieren",
+      "translated_term": "to lose",
+      "example_usage": "Deutschland verliert jeden Monat 10.000 Jobs in der Industrie."
+    },
+    {
+      "term": "der Wettbewerb",
+      "translated_term": "competition",
+      "example_usage": "Der Wettbewerb mit China wird immer härter."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ABC News",
+      "link_url": "https://abcnews.go.com/Business/wireStory/germany-trims-years-growth-forecast-1-economy-slow-129633098"
+    },
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/business/2026/01/20/german-economic-sentiment-climbs-to-4-year-high-defying-trumps-tariffs"
+    }
+  ]
+}

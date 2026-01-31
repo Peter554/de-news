@@ -1,0 +1,148 @@
+{
+  "title": "Holocaust-Überlebende spricht im Bundestag",
+  "translated_title": "Holocaust Survivor Speaks in the Bundestag",
+  "text": [
+    {
+      "text": "Tova Friedman ist eine Überlebende des Holocaust.",
+      "translated_text": "Tova Friedman is a survivor of the Holocaust."
+    },
+    {
+      "text": "Sie hat im Deutschen Bundestag eine wichtige Rede gehalten.",
+      "translated_text": "She gave an important speech in the German Bundestag."
+    },
+    {
+      "text": "Ihr Besuch fand kurz vor dem Holocaust-Gedenktag statt.",
+      "translated_text": "Her visit took place shortly before Holocaust Remembrance Day."
+    },
+    {
+      "text": "Der Gedenktag erinnert an die Befreiung des Konzentrationslagers Auschwitz.",
+      "translated_text": "The remembrance day commemorates the liberation of the Auschwitz concentration camp."
+    },
+    {
+      "text": "Das war vor 81 Jahren.",
+      "translated_text": "That was 81 years ago."
+    },
+    {
+      "text": "Tova Friedman war selbst in Auschwitz.",
+      "translated_text": "Tova Friedman was in Auschwitz herself."
+    },
+    {
+      "text": "Sie war damals ein kleines Kind.",
+      "translated_text": "She was a small child at the time."
+    },
+    {
+      "text": "Heute ist sie eine alte Frau, aber sie erinnert sich an alles.",
+      "translated_text": "Today she is an old woman, but she remembers everything."
+    },
+    {
+      "text": "Im Bundestag erzählte sie ihre Geschichte.",
+      "translated_text": "In the Bundestag she told her story."
+    },
+    {
+      "text": "Sie sprach über die schrecklichen Dinge, die im Konzentrationslager passierten.",
+      "translated_text": "She spoke about the terrible things that happened in the concentration camp."
+    },
+    {
+      "text": "Aber sie sprach auch über Hoffnung und die Wichtigkeit des Erinnerns.",
+      "translated_text": "But she also spoke about hope and the importance of remembering."
+    },
+    {
+      "text": "Viele Politiker waren bei der Veranstaltung.",
+      "translated_text": "Many politicians were at the event."
+    },
+    {
+      "text": "Sie hörten aufmerksam zu.",
+      "translated_text": "They listened attentively."
+    },
+    {
+      "text": "Der Holocaust-Gedenktag ist in Deutschland sehr wichtig.",
+      "translated_text": "Holocaust Remembrance Day is very important in Germany."
+    },
+    {
+      "text": "Das Land will sicherstellen, dass die Menschen nie vergessen, was passiert ist.",
+      "translated_text": "The country wants to ensure that people never forget what happened."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Überlebende",
+      "translated_term": "survivor (female)",
+      "example_usage": "Tova Friedman ist eine Überlebende des Holocaust."
+    },
+    {
+      "term": "der Holocaust",
+      "translated_term": "the Holocaust",
+      "example_usage": "Tova Friedman ist eine Überlebende des Holocaust."
+    },
+    {
+      "term": "der Bundestag",
+      "translated_term": "German Parliament",
+      "example_usage": "Sie hat im Deutschen Bundestag eine wichtige Rede gehalten."
+    },
+    {
+      "term": "der Gedenktag",
+      "translated_term": "remembrance day/memorial day",
+      "example_usage": "Ihr Besuch fand kurz vor dem Holocaust-Gedenktag statt."
+    },
+    {
+      "term": "die Befreiung",
+      "translated_term": "liberation",
+      "example_usage": "Der Gedenktag erinnert an die Befreiung des Konzentrationslagers Auschwitz."
+    },
+    {
+      "term": "das Konzentrationslager",
+      "translated_term": "concentration camp",
+      "example_usage": "Der Gedenktag erinnert an die Befreiung des Konzentrationslagers Auschwitz."
+    },
+    {
+      "term": "sich erinnern",
+      "translated_term": "to remember",
+      "example_usage": "Heute ist sie eine alte Frau, aber sie erinnert sich an alles."
+    },
+    {
+      "term": "schrecklich",
+      "translated_term": "terrible/horrible",
+      "example_usage": "Sie sprach über die schrecklichen Dinge, die im Konzentrationslager passierten."
+    },
+    {
+      "term": "die Hoffnung",
+      "translated_term": "hope",
+      "example_usage": "Sie sprach auch über Hoffnung und die Wichtigkeit des Erinnerns."
+    },
+    {
+      "term": "aufmerksam",
+      "translated_term": "attentively/attentive",
+      "example_usage": "Sie hörten aufmerksam zu."
+    },
+    {
+      "term": "sicherstellen",
+      "translated_term": "to ensure/to make sure",
+      "example_usage": "Das Land will sicherstellen, dass die Menschen nie vergessen, was passiert ist."
+    },
+    {
+      "term": "vergessen",
+      "translated_term": "to forget",
+      "example_usage": "Das Land will sicherstellen, dass die Menschen nie vergessen, was passiert ist."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Geschichte",
+      "translated_name": "History"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Antisemitismus",
+      "translated_name": "Antisemitism"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local",
+      "link_url": "https://www.thelocal.de/20260130/today-in-germany-a-roundup-of-the-latest-news-on-friday-110"
+    }
+  ]
+}
