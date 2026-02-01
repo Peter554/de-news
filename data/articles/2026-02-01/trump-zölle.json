@@ -1,0 +1,136 @@
+{
+  "title": "Trump kündigt neue Zölle für Europa an",
+  "translated_title": "Trump announces new tariffs for Europe",
+  "text": [
+    {
+      "text": "Der amerikanische Präsident Donald Trump hat am 1. Februar neue Zölle für europäische Länder angekündigt.",
+      "translated_text": "American President Donald Trump announced new tariffs for European countries on February 1st."
+    },
+    {
+      "text": "Das Vereinigte Königreich und Deutschland werden ab sofort mit einem Zoll von 10 Prozent auf alle Waren belegt, die in die USA exportiert werden.",
+      "translated_text": "The United Kingdom and Germany will immediately be hit with a 10 percent tariff on all goods exported to the USA."
+    },
+    {
+      "text": "Die neuen Handelsbeschränkungen kommen inmitten eines Streits über Grönland.",
+      "translated_text": "The new trade restrictions come amid a dispute over Greenland."
+    },
+    {
+      "text": "Trump fordert, dass Dänemark die Insel an die USA verkauft, was die dänische Regierung strikt ablehnt.",
+      "translated_text": "Trump demands that Denmark sell the island to the USA, which the Danish government strictly rejects."
+    },
+    {
+      "text": "Der britische Premierminister Keir Starmer bezeichnete die Drohung als 'völlig falsch'.",
+      "translated_text": "British Prime Minister Keir Starmer described the threat as 'completely wrong'."
+    },
+    {
+      "text": "Die europäischen Länder sind besorgt über die wirtschaftlichen Folgen dieser Entscheidung.",
+      "translated_text": "The European countries are worried about the economic consequences of this decision."
+    },
+    {
+      "text": "Besonders die Automobilindustrie und der Maschinenbau in Deutschland könnten stark betroffen sein.",
+      "translated_text": "Especially the automotive industry and mechanical engineering in Germany could be heavily affected."
+    },
+    {
+      "text": "Die Europäische Union erwägt Gegenmaßnahmen, um ihre Mitgliedsstaaten zu schützen.",
+      "translated_text": "The European Union is considering countermeasures to protect its member states."
+    },
+    {
+      "text": "Wirtschaftsexperten warnen vor einem möglichen Handelskrieg zwischen den USA und Europa.",
+      "translated_text": "Economic experts warn of a possible trade war between the USA and Europe."
+    },
+    {
+      "text": "Die Situation bleibt angespannt, und Verhandlungen zwischen den Parteien sind derzeit nicht geplant.",
+      "translated_text": "The situation remains tense, and negotiations between the parties are currently not planned."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Zoll",
+      "translated_term": "tariff",
+      "example_usage": "Das Vereinigte Königreich und Deutschland werden ab sofort mit einem Zoll von 10 Prozent auf alle Waren belegt."
+    },
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Der amerikanische Präsident Donald Trump hat am 1. Februar neue Zölle für europäische Länder angekündigt."
+    },
+    {
+      "term": "die Handelsbeschränkung",
+      "translated_term": "trade restriction",
+      "example_usage": "Die neuen Handelsbeschränkungen kommen inmitten eines Streits über Grönland."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand",
+      "example_usage": "Trump fordert, dass Dänemark die Insel an die USA verkauft."
+    },
+    {
+      "term": "ablehnen",
+      "translated_term": "to reject",
+      "example_usage": "Die dänische Regierung lehnt den Verkauf strikt ab."
+    },
+    {
+      "term": "bezeichnen",
+      "translated_term": "to describe, to call",
+      "example_usage": "Der britische Premierminister Keir Starmer bezeichnete die Drohung als 'völlig falsch'."
+    },
+    {
+      "term": "die Folge",
+      "translated_term": "consequence",
+      "example_usage": "Die europäischen Länder sind besorgt über die wirtschaftlichen Folgen dieser Entscheidung."
+    },
+    {
+      "term": "betroffen sein",
+      "translated_term": "to be affected",
+      "example_usage": "Besonders die Automobilindustrie und der Maschinenbau in Deutschland könnten stark betroffen sein."
+    },
+    {
+      "term": "erwägen",
+      "translated_term": "to consider",
+      "example_usage": "Die Europäische Union erwägt Gegenmaßnahmen, um ihre Mitgliedsstaaten zu schützen."
+    },
+    {
+      "term": "die Gegenmaßnahme",
+      "translated_term": "countermeasure",
+      "example_usage": "Die Europäische Union erwägt Gegenmaßnahmen, um ihre Mitgliedsstaaten zu schützen."
+    },
+    {
+      "term": "warnen",
+      "translated_term": "to warn",
+      "example_usage": "Wirtschaftsexperten warnen vor einem möglichen Handelskrieg zwischen den USA und Europa."
+    },
+    {
+      "term": "angespannt",
+      "translated_term": "tense",
+      "example_usage": "Die Situation bleibt angespannt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Handelspolitik",
+      "translated_name": "Trade Policy"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC - UK Exchange",
+      "link_url": "https://www.cnbc.com/2026/01/07/cnbcs-uk-exchange-newsletter-is-britain-back-five-things-to-watch-for-the-uk-in-2026.html"
+    },
+    {
+      "name": "The Local - Germany Changes",
+      "link_url": "https://www.thelocal.de/20260121/everything-that-changes-in-germany-in-february-2026"
+    },
+    {
+      "name": "Euro Weekly News - UK Border Rules",
+      "link_url": "https://euroweeklynews.com/2026/01/31/what-to-know-about-the-new-uk-border-rules-1-2m-dual-citizens-affected/"
+    }
+  ]
+}

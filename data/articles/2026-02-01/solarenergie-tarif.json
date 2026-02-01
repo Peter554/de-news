@@ -1,0 +1,132 @@
+{
+  "title": "Solarstrom-Vergütung sinkt ab Februar",
+  "translated_title": "Solar power compensation decreases from February",
+  "text": [
+    {
+      "text": "Ab dem 1. Februar 2026 sinkt die Einspeisevergütung für Solarstrom in Deutschland.",
+      "translated_text": "From February 1, 2026, the feed-in tariff for solar power in Germany decreases."
+    },
+    {
+      "text": "Die Einspeisevergütung ist der Geldbetrag, den Hausbesitzer für Strom erhalten, den sie ins öffentliche Netz einspeisen.",
+      "translated_text": "The feed-in tariff is the amount of money that homeowners receive for electricity they feed into the public grid."
+    },
+    {
+      "text": "Wer seine Photovoltaikanlage nach diesem Datum registriert, erhält eine um ein Prozent niedrigere Vergütung als bei älteren Anlagen.",
+      "translated_text": "Anyone who registers their photovoltaic system after this date receives a one percent lower compensation than for older systems."
+    },
+    {
+      "text": "Diese Änderung ist Teil der deutschen Energiepolitik zur Förderung erneuerbarer Energien.",
+      "translated_text": "This change is part of German energy policy to promote renewable energies."
+    },
+    {
+      "text": "Trotz der Senkung bleibt die Installation von Solaranlagen weiterhin wirtschaftlich attraktiv.",
+      "translated_text": "Despite the reduction, the installation of solar systems remains economically attractive."
+    },
+    {
+      "text": "Experten erwarten, dass die Nachfrage nach Photovoltaikanlagen in den kommenden Monaten hoch bleiben wird.",
+      "translated_text": "Experts expect that demand for photovoltaic systems will remain high in the coming months."
+    },
+    {
+      "text": "Die Bundesregierung hat das Ziel, den Anteil erneuerbarer Energien am Gesamtenergieverbrauch deutlich zu erhöhen.",
+      "translated_text": "The federal government has the goal of significantly increasing the share of renewable energies in total energy consumption."
+    },
+    {
+      "text": "Viele Hausbesitzer nutzen die Gelegenheit, vor der Tarifsenkung noch schnell eine Anlage zu installieren.",
+      "translated_text": "Many homeowners are taking the opportunity to quickly install a system before the tariff reduction."
+    },
+    {
+      "text": "Umweltorganisationen begrüßen grundsätzlich die Förderung von Solarenergie, kritisieren aber die regelmäßigen Kürzungen.",
+      "translated_text": "Environmental organizations generally welcome the promotion of solar energy, but criticize the regular cuts."
+    },
+    {
+      "text": "Die Solarindustrie hofft, dass trotz der niedrigeren Vergütung das Interesse an grüner Energie nicht nachlässt.",
+      "translated_text": "The solar industry hopes that despite the lower compensation, interest in green energy will not wane."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Einspeisevergütung",
+      "translated_term": "feed-in tariff",
+      "example_usage": "Ab dem 1. Februar 2026 sinkt die Einspeisevergütung für Solarstrom in Deutschland."
+    },
+    {
+      "term": "sinken",
+      "translated_term": "to decrease, to sink",
+      "example_usage": "Ab dem 1. Februar 2026 sinkt die Einspeisevergütung für Solarstrom."
+    },
+    {
+      "term": "einspeisen",
+      "translated_term": "to feed in",
+      "example_usage": "Die Einspeisevergütung ist der Geldbetrag, den Hausbesitzer für Strom erhalten, den sie ins öffentliche Netz einspeisen."
+    },
+    {
+      "term": "die Photovoltaikanlage",
+      "translated_term": "photovoltaic system",
+      "example_usage": "Wer seine Photovoltaikanlage nach diesem Datum registriert, erhält eine niedrigere Vergütung."
+    },
+    {
+      "term": "registrieren",
+      "translated_term": "to register",
+      "example_usage": "Wer seine Photovoltaikanlage nach diesem Datum registriert, erhält eine niedrigere Vergütung."
+    },
+    {
+      "term": "die Förderung",
+      "translated_term": "promotion, support",
+      "example_usage": "Diese Änderung ist Teil der deutschen Energiepolitik zur Förderung erneuerbarer Energien."
+    },
+    {
+      "term": "erneuerbar",
+      "translated_term": "renewable",
+      "example_usage": "Diese Änderung ist Teil der deutschen Energiepolitik zur Förderung erneuerbarer Energien."
+    },
+    {
+      "term": "die Senkung",
+      "translated_term": "reduction, cut",
+      "example_usage": "Trotz der Senkung bleibt die Installation von Solaranlagen weiterhin wirtschaftlich attraktiv."
+    },
+    {
+      "term": "wirtschaftlich",
+      "translated_term": "economic, economically",
+      "example_usage": "Trotz der Senkung bleibt die Installation von Solaranlagen weiterhin wirtschaftlich attraktiv."
+    },
+    {
+      "term": "erwarten",
+      "translated_term": "to expect",
+      "example_usage": "Experten erwarten, dass die Nachfrage nach Photovoltaikanlagen in den kommenden Monaten hoch bleiben wird."
+    },
+    {
+      "term": "erhöhen",
+      "translated_term": "to increase",
+      "example_usage": "Die Bundesregierung hat das Ziel, den Anteil erneuerbarer Energien am Gesamtenergieverbrauch deutlich zu erhöhen."
+    },
+    {
+      "term": "nachlassen",
+      "translated_term": "to wane, to decrease",
+      "example_usage": "Die Solarindustrie hofft, dass trotz der niedrigeren Vergütung das Interesse an grüner Energie nicht nachlässt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Erneuerbare Energien",
+      "translated_name": "Renewable Energy"
+    },
+    {
+      "name": "Energiepolitik",
+      "translated_name": "Energy Policy"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local - Everything that changes in Germany",
+      "link_url": "https://www.thelocal.de/20260121/everything-that-changes-in-germany-in-february-2026"
+    },
+    {
+      "name": "Deutschland.de - Changes for German citizens",
+      "link_url": "https://www.deutschland.de/en/news/taxes-minimum-wage-military-service-what-will-change-for-german-citizens-in-2026"
+    }
+  ]
+}

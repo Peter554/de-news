@@ -1,0 +1,132 @@
+{
+  "title": "Warnstreik legt Berliner Nahverkehr lahm",
+  "translated_title": "Warning strike paralyzes Berlin local transport",
+  "text": [
+    {
+      "text": "Am Montag müssen sich Fahrgäste in Berlin und Brandenburg auf erhebliche Einschränkungen im Nahverkehr einstellen.",
+      "translated_text": "On Monday, passengers in Berlin and Brandenburg must prepare for significant restrictions in local transport."
+    },
+    {
+      "text": "Die Gewerkschaft Verdi hat zu einem ganztägigen Warnstreik aufgerufen.",
+      "translated_text": "The Verdi union has called for a full-day warning strike."
+    },
+    {
+      "text": "Betroffen sind Straßenbahnen, Busse und U-Bahnen in der gesamten Hauptstadt.",
+      "translated_text": "Trams, buses and underground trains in the entire capital are affected."
+    },
+    {
+      "text": "Die Berliner S-Bahn fährt weiterhin, da sie von der Deutschen Bahn betrieben wird.",
+      "translated_text": "The Berlin S-Bahn continues to operate as it is run by Deutsche Bahn."
+    },
+    {
+      "text": "Auch zahlreiche Verkehrsbetriebe in Brandenburg nehmen an dem Streik teil.",
+      "translated_text": "Numerous transport companies in Brandenburg are also participating in the strike."
+    },
+    {
+      "text": "Die Gewerkschaft fordert bessere Arbeitsbedingungen und höhere Löhne für die Beschäftigten.",
+      "translated_text": "The union demands better working conditions and higher wages for employees."
+    },
+    {
+      "text": "Ein besonderer Streitpunkt ist die Lohnerhöhung von nur 1,5 Prozent, die unter der Inflationsrate liegt.",
+      "translated_text": "A particular point of contention is the wage increase of only 1.5 percent, which is below the inflation rate."
+    },
+    {
+      "text": "Die Verkehrsbetriebe empfehlen den Fahrgästen, auf alternative Verkehrsmittel umzusteigen oder im Homeoffice zu arbeiten.",
+      "translated_text": "The transport companies recommend that passengers switch to alternative means of transport or work from home."
+    },
+    {
+      "text": "Viele Pendler sind verärgert über die Situation, verstehen aber auch die Forderungen der Mitarbeiter.",
+      "translated_text": "Many commuters are annoyed about the situation, but also understand the demands of the employees."
+    },
+    {
+      "text": "Weitere Streiktage sind möglich, falls keine Einigung zwischen Gewerkschaft und Arbeitgebern erzielt wird.",
+      "translated_text": "Further strike days are possible if no agreement is reached between the union and employers."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Warnstreik",
+      "translated_term": "warning strike",
+      "example_usage": "Die Gewerkschaft Verdi hat zu einem ganztägigen Warnstreik aufgerufen."
+    },
+    {
+      "term": "lahmlegen",
+      "translated_term": "to paralyze, to bring to a standstill",
+      "example_usage": "Der Warnstreik legt den Berliner Nahverkehr lahm."
+    },
+    {
+      "term": "der Nahverkehr",
+      "translated_term": "local transport",
+      "example_usage": "Am Montag müssen sich Fahrgäste in Berlin und Brandenburg auf erhebliche Einschränkungen im Nahverkehr einstellen."
+    },
+    {
+      "term": "die Einschränkung",
+      "translated_term": "restriction",
+      "example_usage": "Am Montag müssen sich Fahrgäste auf erhebliche Einschränkungen einstellen."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "trade union",
+      "example_usage": "Die Gewerkschaft Verdi hat zu einem ganztägigen Warnstreik aufgerufen."
+    },
+    {
+      "term": "betroffen sein",
+      "translated_term": "to be affected",
+      "example_usage": "Betroffen sind Straßenbahnen, Busse und U-Bahnen in der gesamten Hauptstadt."
+    },
+    {
+      "term": "betreiben",
+      "translated_term": "to operate, to run",
+      "example_usage": "Die Berliner S-Bahn wird von der Deutschen Bahn betrieben."
+    },
+    {
+      "term": "teilnehmen",
+      "translated_term": "to participate",
+      "example_usage": "Auch zahlreiche Verkehrsbetriebe in Brandenburg nehmen an dem Streik teil."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand",
+      "example_usage": "Die Gewerkschaft fordert bessere Arbeitsbedingungen und höhere Löhne für die Beschäftigten."
+    },
+    {
+      "term": "der Streitpunkt",
+      "translated_term": "point of contention",
+      "example_usage": "Ein besonderer Streitpunkt ist die Lohnerhöhung von nur 1,5 Prozent."
+    },
+    {
+      "term": "umsteigen",
+      "translated_term": "to switch, to change (transport)",
+      "example_usage": "Die Verkehrsbetriebe empfehlen den Fahrgästen, auf alternative Verkehrsmittel umzusteigen."
+    },
+    {
+      "term": "die Einigung",
+      "translated_term": "agreement",
+      "example_usage": "Weitere Streiktage sind möglich, falls keine Einigung zwischen Gewerkschaft und Arbeitgebern erzielt wird."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de - Warning Strike",
+      "link_url": "https://www.berlin.de/en/news/10172467-5559700-warning-strike-in-local-transport-on-mon.en.html"
+    },
+    {
+      "name": "Timeout London - Train Strikes",
+      "link_url": "https://www.timeout.com/london/news/london-tube-and-train-strikes-february-2026-full-list-of-dates-and-lines-impacted-how-to-travel-everything-you-need-to-know-013026"
+    }
+  ]
+}
