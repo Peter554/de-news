@@ -1,0 +1,132 @@
+{
+  "title": "Neue Grenzregeln für Doppelstaatsbürger im Vereinigten Königreich",
+  "translated_title": "New border rules for dual citizens in the United Kingdom",
+  "text": [
+    {
+      "text": "Ab Ende Februar 2026 gelten neue Einreisebestimmungen für Doppelstaatsbürger im Vereinigten Königreich.",
+      "translated_text": "From the end of February 2026, new entry regulations apply for dual citizens in the United Kingdom."
+    },
+    {
+      "text": "Personen mit doppelter Staatsbürgerschaft müssen ab diesem Zeitpunkt entweder einen gültigen britischen Pass oder ein digitales Berechtigungszertifikat vorlegen.",
+      "translated_text": "People with dual citizenship must from this time present either a valid British passport or a digital Certificate of Entitlement."
+    },
+    {
+      "text": "Die neuen Regeln betreffen etwa 1,2 Millionen Menschen weltweit.",
+      "translated_text": "The new rules affect approximately 1.2 million people worldwide."
+    },
+    {
+      "text": "Das digitale Berechtigungszertifikat, auch COE genannt, bestätigt das Recht, als britischer Staatsbürger einzureisen.",
+      "translated_text": "The digital Certificate of Entitlement, also called COE, confirms the right to enter as a British citizen."
+    },
+    {
+      "text": "Die britische Regierung führt diese Änderungen ein, um die Grenzsicherheit zu verbessern und den Einreiseprozess zu modernisieren.",
+      "translated_text": "The British government is introducing these changes to improve border security and modernize the entry process."
+    },
+    {
+      "text": "Reisende ohne die erforderlichen Dokumente werden an der Grenze zurückgewiesen.",
+      "translated_text": "Travelers without the required documents will be turned back at the border."
+    },
+    {
+      "text": "Viele Betroffene kritisieren die kurze Vorbereitungszeit und die zusätzlichen bürokratischen Hürden.",
+      "translated_text": "Many affected people criticize the short preparation time and the additional bureaucratic hurdles."
+    },
+    {
+      "text": "Die Beantragung des COE kann online erfolgen, dauert aber mehrere Wochen.",
+      "translated_text": "The COE can be applied for online, but takes several weeks."
+    },
+    {
+      "text": "Experten empfehlen Doppelstaatsbürgern, sich rechtzeitig um die notwendigen Unterlagen zu kümmern.",
+      "translated_text": "Experts recommend that dual citizens take care of the necessary documents in good time."
+    },
+    {
+      "text": "Die neuen Bestimmungen sind Teil eines umfassenderen Systems zur elektronischen Reisegenehmigung nach dem Brexit.",
+      "translated_text": "The new regulations are part of a more comprehensive electronic travel authorization system after Brexit."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Grenzregel",
+      "translated_term": "border rule",
+      "example_usage": "Ab Ende Februar 2026 gelten neue Grenzregeln für Doppelstaatsbürger."
+    },
+    {
+      "term": "der Doppelstaatsbürger",
+      "translated_term": "dual citizen",
+      "example_usage": "Ab Ende Februar 2026 gelten neue Einreisebestimmungen für Doppelstaatsbürger im Vereinigten Königreich."
+    },
+    {
+      "term": "die Einreisebestimmung",
+      "translated_term": "entry regulation",
+      "example_usage": "Ab Ende Februar 2026 gelten neue Einreisebestimmungen für Doppelstaatsbürger."
+    },
+    {
+      "term": "vorlegen",
+      "translated_term": "to present, to submit",
+      "example_usage": "Personen mit doppelter Staatsbürgerschaft müssen einen gültigen britischen Pass oder ein digitales Berechtigungszertifikat vorlegen."
+    },
+    {
+      "term": "das Berechtigungszertifikat",
+      "translated_term": "Certificate of Entitlement",
+      "example_usage": "Das digitale Berechtigungszertifikat, auch COE genannt, bestätigt das Recht, als britischer Staatsbürger einzureisen."
+    },
+    {
+      "term": "betreffen",
+      "translated_term": "to affect, to concern",
+      "example_usage": "Die neuen Regeln betreffen etwa 1,2 Millionen Menschen weltweit."
+    },
+    {
+      "term": "bestätigen",
+      "translated_term": "to confirm",
+      "example_usage": "Das digitale Berechtigungszertifikat bestätigt das Recht, als britischer Staatsbürger einzureisen."
+    },
+    {
+      "term": "einführen",
+      "translated_term": "to introduce",
+      "example_usage": "Die britische Regierung führt diese Änderungen ein, um die Grenzsicherheit zu verbessern."
+    },
+    {
+      "term": "zurückweisen",
+      "translated_term": "to turn back, to reject",
+      "example_usage": "Reisende ohne die erforderlichen Dokumente werden an der Grenze zurückgewiesen."
+    },
+    {
+      "term": "die Hürde",
+      "translated_term": "hurdle, obstacle",
+      "example_usage": "Viele Betroffene kritisieren die kurze Vorbereitungszeit und die zusätzlichen bürokratischen Hürden."
+    },
+    {
+      "term": "beantragen",
+      "translated_term": "to apply for",
+      "example_usage": "Die Beantragung des COE kann online erfolgen."
+    },
+    {
+      "term": "sich kümmern um",
+      "translated_term": "to take care of",
+      "example_usage": "Experten empfehlen Doppelstaatsbürgern, sich rechtzeitig um die notwendigen Unterlagen zu kümmern."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Einwanderungspolitik",
+      "translated_name": "Immigration Policy"
+    },
+    {
+      "name": "Reisen",
+      "translated_name": "Travel"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euro Weekly News - UK Border Rules",
+      "link_url": "https://euroweeklynews.com/2026/01/31/what-to-know-about-the-new-uk-border-rules-1-2m-dual-citizens-affected/"
+    },
+    {
+      "name": "CNBC - UK Exchange Newsletter",
+      "link_url": "https://www.cnbc.com/2026/01/07/cnbcs-uk-exchange-newsletter-is-britain-back-five-things-to-watch-for-the-uk-in-2026.html"
+    }
+  ]
+}
