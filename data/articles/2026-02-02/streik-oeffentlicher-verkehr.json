@@ -1,0 +1,122 @@
+{
+  "title": "Große Streiks im öffentlichen Nahverkehr in Deutschland",
+  "translated_title": "Major Strikes in Public Transport in Germany",
+  "text": [
+    {
+      "text": "Am Montag, den 2. Februar 2026, haben Verkehrsarbeiter in vielen deutschen Städten gestreikt.",
+      "translated_text": "On Monday, February 2, 2026, transport workers in many German cities went on strike."
+    },
+    {
+      "text": "Die Gewerkschaft Verdi hat die Streiks organisiert.",
+      "translated_text": "The Verdi trade union organized the strikes."
+    },
+    {
+      "text": "In Berlin fahren keine U-Bahnen, Straßenbahnen und die meisten Busse.",
+      "translated_text": "In Berlin, no subways, trams, and most buses are running."
+    },
+    {
+      "text": "Nur die S-Bahn fährt normal, weil sie von der Deutschen Bahn betrieben wird.",
+      "translated_text": "Only the S-Bahn runs normally because it is operated by Deutsche Bahn."
+    },
+    {
+      "text": "In Nordrhein-Westfalen streiken 40 Verkehrsunternehmen in Städten wie Köln, Düsseldorf und Dortmund.",
+      "translated_text": "In North Rhine-Westphalia, 40 transport companies in cities like Cologne, Düsseldorf, and Dortmund are on strike."
+    },
+    {
+      "text": "Auch in Bayern und Baden-Württemberg gibt es Streiks in großen Städten.",
+      "translated_text": "There are also strikes in major cities in Bavaria and Baden-Württemberg."
+    },
+    {
+      "text": "In Brandenburg streiken viele kommunale Verkehrsbetriebe.",
+      "translated_text": "In Brandenburg, many municipal transport companies are on strike."
+    },
+    {
+      "text": "Die Gewerkschaft kämpft für bessere Löhne für etwa 2,2 Millionen Menschen im öffentlichen Dienst.",
+      "translated_text": "The union is fighting for better wages for about 2.2 million people in the public sector."
+    },
+    {
+      "text": "Zu den betroffenen Arbeitern gehören Lehrer, Krankenpfleger und Verkehrsangestellte.",
+      "translated_text": "The affected workers include teachers, nurses, and transport employees."
+    },
+    {
+      "text": "Viele Pendler müssen heute mit dem Auto oder dem Fahrrad zur Arbeit fahren.",
+      "translated_text": "Many commuters have to go to work by car or bicycle today."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Streik",
+      "translated_term": "strike",
+      "example_usage": "Am Montag, den 2. Februar 2026, haben Verkehrsarbeiter in vielen deutschen Städten gestreikt."
+    },
+    {
+      "term": "der öffentliche Nahverkehr",
+      "translated_term": "public transport",
+      "example_usage": "Große Streiks im öffentlichen Nahverkehr in Deutschland"
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "trade union",
+      "example_usage": "Die Gewerkschaft Verdi hat die Streiks organisiert."
+    },
+    {
+      "term": "streiken",
+      "translated_term": "to go on strike",
+      "example_usage": "In Nordrhein-Westfalen streiken 40 Verkehrsunternehmen in Städten wie Köln, Düsseldorf und Dortmund."
+    },
+    {
+      "term": "die U-Bahn",
+      "translated_term": "subway/underground",
+      "example_usage": "In Berlin fahren keine U-Bahnen, Straßenbahnen und die meisten Busse."
+    },
+    {
+      "term": "die Straßenbahn",
+      "translated_term": "tram",
+      "example_usage": "In Berlin fahren keine U-Bahnen, Straßenbahnen und die meisten Busse."
+    },
+    {
+      "term": "betreiben",
+      "translated_term": "to operate",
+      "example_usage": "Nur die S-Bahn fährt normal, weil sie von der Deutschen Bahn betrieben wird."
+    },
+    {
+      "term": "der Lohn",
+      "translated_term": "wage",
+      "example_usage": "Die Gewerkschaft kämpft für bessere Löhne für etwa 2,2 Millionen Menschen im öffentlichen Dienst."
+    },
+    {
+      "term": "der öffentliche Dienst",
+      "translated_term": "public sector/public service",
+      "example_usage": "Die Gewerkschaft kämpft für bessere Löhne für etwa 2,2 Millionen Menschen im öffentlichen Dienst."
+    },
+    {
+      "term": "der Pendler",
+      "translated_term": "commuter",
+      "example_usage": "Viele Pendler müssen heute mit dem Auto oder dem Fahrrad zur Arbeit fahren."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local",
+      "link_url": "https://www.thelocal.de/20260130/where-are-public-transport-strikes-expected-in-germany-on-monday"
+    },
+    {
+      "name": "Berlin.de",
+      "link_url": "https://www.berlin.de/en/news/10172467-5559700-warning-strike-in-local-transport-on-mon.en.html"
+    }
+  ]
+}
