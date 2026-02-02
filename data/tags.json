@@ -260,6 +260,10 @@
     "translated_name": "Public Transport"
   },
   {
+    "name": "Pakistan",
+    "translated_name": "Pakistan"
+  },
+  {
     "name": "Polen",
     "translated_name": "Poland"
   },
@@ -320,6 +324,10 @@
     "translated_name": "State Visit"
   },
   {
+    "name": "Tennis",
+    "translated_name": "Tennis"
+  },
+  {
     "name": "Streik",
     "translated_name": "Strike"
   },
@@ -362,6 +370,10 @@
   {
     "name": "Venezuela",
     "translated_name": "Venezuela"
+  },
+  {
+    "name": "Verbraucherschutz",
+    "translated_name": "Consumer Protection"
   },
   {
     "name": "Vereinte Nationen",

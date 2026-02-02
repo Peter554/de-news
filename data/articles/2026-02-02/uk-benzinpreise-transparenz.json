@@ -1,0 +1,118 @@
+{
+  "title": "Neue Regeln für Benzinpreise in Großbritannien",
+  "translated_title": "New Rules for Fuel Prices in Great Britain",
+  "text": [
+    {
+      "text": "Ab dem 2. Februar müssen Tankstellen in Großbritannien ihre Preise schneller melden.",
+      "translated_text": "From February 2, petrol stations in Great Britain must report their prices faster."
+    },
+    {
+      "text": "Wenn eine Tankstelle den Preis ändert, muss sie es innerhalb von 30 Minuten mitteilen.",
+      "translated_text": "If a petrol station changes the price, it must report it within 30 minutes."
+    },
+    {
+      "text": "Die neue Regel soll den Autofahrern helfen, günstigere Tankstellen zu finden.",
+      "translated_text": "The new rule should help drivers find cheaper petrol stations."
+    },
+    {
+      "text": "Alle Preisdaten werden auf einer Webseite namens 'Fuel Finder' veröffentlicht.",
+      "translated_text": "All price data will be published on a website called 'Fuel Finder'."
+    },
+    {
+      "text": "Die Informationen werden auch in Navigations-Apps und Preis-Vergleichs-Apps integriert.",
+      "translated_text": "The information will also be integrated into navigation apps and price comparison apps."
+    },
+    {
+      "text": "Die Wettbewerbsbehörde sagt, dass Autofahrer bis zu 4,50 Pfund pro Tankfüllung sparen können.",
+      "translated_text": "The Competition and Markets Authority says that drivers can save up to £4.50 per tank."
+    },
+    {
+      "text": "Das gilt für Fahrten innerhalb von fünf Minuten von ihrem aktuellen Standort.",
+      "translated_text": "This applies to trips within five minutes of their current location."
+    },
+    {
+      "text": "Die Regierung will so mehr Wettbewerb zwischen den Tankstellen schaffen.",
+      "translated_text": "The government wants to create more competition between petrol stations in this way."
+    },
+    {
+      "text": "Mit besserer Transparenz können Kunden leichter die besten Angebote finden.",
+      "translated_text": "With better transparency, customers can more easily find the best offers."
+    },
+    {
+      "text": "Experten hoffen, dass diese Maßnahme die Benzinpreise insgesamt senken wird.",
+      "translated_text": "Experts hope that this measure will lower fuel prices overall."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Tankstelle",
+      "translated_term": "petrol station",
+      "example_usage": "Ab dem 2. Februar müssen Tankstellen in Großbritannien ihre Preise schneller melden."
+    },
+    {
+      "term": "der Benzinpreis",
+      "translated_term": "fuel price",
+      "example_usage": "Neue Regeln für Benzinpreise in Großbritannien"
+    },
+    {
+      "term": "melden",
+      "translated_term": "to report",
+      "example_usage": "Ab dem 2. Februar müssen Tankstellen in Großbritannien ihre Preise schneller melden."
+    },
+    {
+      "term": "der Autofahrer",
+      "translated_term": "driver",
+      "example_usage": "Die neue Regel soll den Autofahrern helfen, günstigere Tankstellen zu finden."
+    },
+    {
+      "term": "veröffentlichen",
+      "translated_term": "to publish",
+      "example_usage": "Alle Preisdaten werden auf einer Webseite namens 'Fuel Finder' veröffentlicht."
+    },
+    {
+      "term": "die Wettbewerbsbehörde",
+      "translated_term": "Competition and Markets Authority",
+      "example_usage": "Die Wettbewerbsbehörde sagt, dass Autofahrer bis zu 4,50 Pfund pro Tankfüllung sparen können."
+    },
+    {
+      "term": "sparen",
+      "translated_term": "to save",
+      "example_usage": "Die Wettbewerbsbehörde sagt, dass Autofahrer bis zu 4,50 Pfund pro Tankfüllung sparen können."
+    },
+    {
+      "term": "der Wettbewerb",
+      "translated_term": "competition",
+      "example_usage": "Die Regierung will so mehr Wettbewerb zwischen den Tankstellen schaffen."
+    },
+    {
+      "term": "die Transparenz",
+      "translated_term": "transparency",
+      "example_usage": "Mit besserer Transparenz können Kunden leichter die besten Angebote finden."
+    },
+    {
+      "term": "senken",
+      "translated_term": "to lower",
+      "example_usage": "Experten hoffen, dass diese Maßnahme die Benzinpreise insgesamt senken wird."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Verbraucherschutz",
+      "translated_name": "Consumer Protection"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Grimsby Live",
+      "link_url": "https://www.grimsbytelegraph.co.uk/news/uk-world-news/new-rule-uk-petrol-stations-10789434"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "title": "Russischer Drohnenangriff tötet Bergarbeiter in der Ukraine",
+  "translated_title": "Russian Drone Attack Kills Miners in Ukraine",
+  "text": [
+    {
+      "text": "In der ukrainischen Stadt Dnipro hat eine russische Drohne einen Kleinbus angegriffen.",
+      "translated_text": "In the Ukrainian city of Dnipro, a Russian drone attacked a minibus."
+    },
+    {
+      "text": "In dem Bus waren Bergarbeiter, die zur Arbeit fuhren.",
+      "translated_text": "In the bus were miners who were traveling to work."
+    },
+    {
+      "text": "Bei dem Angriff starben mindestens 15 Menschen.",
+      "translated_text": "At least 15 people died in the attack."
+    },
+    {
+      "text": "Sieben weitere Personen wurden verletzt.",
+      "translated_text": "Seven other people were injured."
+    },
+    {
+      "text": "Der Angriff fand am Morgen statt, als die Arbeiter zur Mine unterwegs waren.",
+      "translated_text": "The attack took place in the morning when the workers were on their way to the mine."
+    },
+    {
+      "text": "Dnipro ist eine große Stadt im Osten der Ukraine.",
+      "translated_text": "Dnipro is a large city in eastern Ukraine."
+    },
+    {
+      "text": "Die Stadt liegt etwa 400 Kilometer südöstlich von Kiew.",
+      "translated_text": "The city is located about 400 kilometers southeast of Kyiv."
+    },
+    {
+      "text": "Russland führt seit Februar 2022 Krieg gegen die Ukraine.",
+      "translated_text": "Russia has been waging war against Ukraine since February 2022."
+    },
+    {
+      "text": "Drohnenangriffe auf zivile Ziele sind leider häufig geworden.",
+      "translated_text": "Drone attacks on civilian targets have unfortunately become common."
+    },
+    {
+      "text": "Die internationale Gemeinschaft verurteilt diese Angriffe auf Zivilisten.",
+      "translated_text": "The international community condemns these attacks on civilians."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "In der ukrainischen Stadt Dnipro hat eine russische Drohne einen Kleinbus angegriffen."
+    },
+    {
+      "term": "der Angriff",
+      "translated_term": "attack",
+      "example_usage": "Bei dem Angriff starben mindestens 15 Menschen."
+    },
+    {
+      "term": "angreifen",
+      "translated_term": "to attack",
+      "example_usage": "In der ukrainischen Stadt Dnipro hat eine russische Drohne einen Kleinbus angegriffen."
+    },
+    {
+      "term": "der Bergarbeiter",
+      "translated_term": "miner",
+      "example_usage": "In dem Bus waren Bergarbeiter, die zur Arbeit fuhren."
+    },
+    {
+      "term": "der Kleinbus",
+      "translated_term": "minibus",
+      "example_usage": "In der ukrainischen Stadt Dnipro hat eine russische Drohne einen Kleinbus angegriffen."
+    },
+    {
+      "term": "verletzen",
+      "translated_term": "to injure",
+      "example_usage": "Sieben weitere Personen wurden verletzt."
+    },
+    {
+      "term": "unterwegs sein",
+      "translated_term": "to be on the way",
+      "example_usage": "Der Angriff fand am Morgen statt, als die Arbeiter zur Mine unterwegs waren."
+    },
+    {
+      "term": "der Krieg",
+      "translated_term": "war",
+      "example_usage": "Russland führt seit Februar 2022 Krieg gegen die Ukraine."
+    },
+    {
+      "term": "zivil",
+      "translated_term": "civilian",
+      "example_usage": "Drohnenangriffe auf zivile Ziele sind leider häufig geworden."
+    },
+    {
+      "term": "verurteilen",
+      "translated_term": "to condemn",
+      "example_usage": "Die internationale Gemeinschaft verurteilt diese Angriffe auf Zivilisten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia - Current Events",
+      "link_url": "https://en.wikipedia.org/wiki/Portal:Current_events/February_2026"
+    }
+  ]
+}
