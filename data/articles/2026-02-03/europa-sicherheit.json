@@ -1,0 +1,158 @@
+{
+  "title": "Europa steht vor großen Sicherheitsherausforderungen",
+  "translated_title": "Europe Faces Major Security Challenges",
+  "text": [
+    {
+      "text": "Europa befindet sich in einer schwierigen politischen Situation.",
+      "translated_text": "Europe finds itself in a difficult political situation."
+    },
+    {
+      "text": "Viele europäische Länder haben derzeit schwache Regierungen.",
+      "translated_text": "Many European countries currently have weak governments."
+    },
+    {
+      "text": "Frankreich, Deutschland und Großbritannien kämpfen mit innenpolitischen Problemen.",
+      "translated_text": "France, Germany, and Great Britain are struggling with domestic political problems."
+    },
+    {
+      "text": "In allen drei Ländern sind die Regierungen unpopulär.",
+      "translated_text": "In all three countries, the governments are unpopular."
+    },
+    {
+      "text": "Rechtspopulistische und linkspopulistische Parteien gewinnen an Einfluss.",
+      "translated_text": "Right-wing populist and left-wing populist parties are gaining influence."
+    },
+    {
+      "text": "Deutschland plant eine zweigleisige EU-Verteidigungsstrategie.",
+      "translated_text": "Germany is planning a two-track EU defense strategy."
+    },
+    {
+      "text": "Einige Länder sollen schneller bei der Verteidigung zusammenarbeiten können.",
+      "translated_text": "Some countries should be able to cooperate more quickly on defense."
+    },
+    {
+      "text": "Andere Länder können später folgen.",
+      "translated_text": "Other countries can follow later."
+    },
+    {
+      "text": "Experten warnen vor einer möglichen Lähmung Europas.",
+      "translated_text": "Experts warn of a possible paralysis of Europe."
+    },
+    {
+      "text": "Die globale Sicherheitslage hat sich stark verschlechtert.",
+      "translated_text": "The global security situation has deteriorated significantly."
+    },
+    {
+      "text": "Internationale Medien sprechen zunehmend von einem möglichen dritten Weltkrieg.",
+      "translated_text": "International media increasingly speak of a possible Third World War."
+    },
+    {
+      "text": "Diese Worte sind nicht mehr nur eine Metapher, sagen Beobachter.",
+      "translated_text": "These words are no longer just a metaphor, observers say."
+    },
+    {
+      "text": "Europa braucht dringend eine Überlebensstrategie, meinen Analysten.",
+      "translated_text": "Europe urgently needs a survival strategy, analysts say."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Sicherheitsherausforderung",
+      "translated_term": "security challenge",
+      "example_usage": "Europa steht vor großen Sicherheitsherausforderungen."
+    },
+    {
+      "term": "sich befinden",
+      "translated_term": "to be located, to find oneself",
+      "example_usage": "Europa befindet sich in einer schwierigen politischen Situation."
+    },
+    {
+      "term": "kämpfen mit",
+      "translated_term": "to struggle with",
+      "example_usage": "Frankreich, Deutschland und Großbritannien kämpfen mit innenpolitischen Problemen."
+    },
+    {
+      "term": "innenpolitisch",
+      "translated_term": "domestic political",
+      "example_usage": "Frankreich, Deutschland und Großbritannien kämpfen mit innenpolitischen Problemen."
+    },
+    {
+      "term": "unpopulär",
+      "translated_term": "unpopular",
+      "example_usage": "In allen drei Ländern sind die Regierungen unpopulär."
+    },
+    {
+      "term": "rechtspopulistisch",
+      "translated_term": "right-wing populist",
+      "example_usage": "Rechtspopulistische und linkspopulistische Parteien gewinnen an Einfluss."
+    },
+    {
+      "term": "der Einfluss",
+      "translated_term": "influence",
+      "example_usage": "Rechtspopulistische und linkspopulistische Parteien gewinnen an Einfluss."
+    },
+    {
+      "term": "zweigleisig",
+      "translated_term": "two-track, dual-track",
+      "example_usage": "Deutschland plant eine zweigleisige EU-Verteidigungsstrategie."
+    },
+    {
+      "term": "zusammenarbeiten",
+      "translated_term": "to cooperate",
+      "example_usage": "Einige Länder sollen schneller bei der Verteidigung zusammenarbeiten können."
+    },
+    {
+      "term": "folgen",
+      "translated_term": "to follow",
+      "example_usage": "Andere Länder können später folgen."
+    },
+    {
+      "term": "warnen vor",
+      "translated_term": "to warn of",
+      "example_usage": "Experten warnen vor einer möglichen Lähmung Europas."
+    },
+    {
+      "term": "die Lähmung",
+      "translated_term": "paralysis",
+      "example_usage": "Experten warnen vor einer möglichen Lähmung Europas."
+    },
+    {
+      "term": "sich verschlechtern",
+      "translated_term": "to deteriorate, to worsen",
+      "example_usage": "Die globale Sicherheitslage hat sich stark verschlechtert."
+    },
+    {
+      "term": "die Überlebensstrategie",
+      "translated_term": "survival strategy",
+      "example_usage": "Europa braucht dringend eine Überlebensstrategie, meinen Analysten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Europäische Union",
+      "translated_name": "European Union"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/2026/01/01/europe-doesnt-need-wishes-it-needs-a-survival-strategy"
+    },
+    {
+      "name": "Defense News",
+      "link_url": "https://www.defensenews.com/global/europe/2026/01/29/germany-proposes-two-speed-eu-to-hasten-defense-buildup/"
+    },
+    {
+      "name": "TIME",
+      "link_url": "https://time.com/7343169/top-10-global-risks-2026/"
+    }
+  ]
+}

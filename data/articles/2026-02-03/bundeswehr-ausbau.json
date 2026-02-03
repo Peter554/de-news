@@ -1,0 +1,146 @@
+{
+  "title": "Deutschland baut stärkste Armee Europas auf",
+  "translated_title": "Germany Builds Europe's Strongest Army",
+  "text": [
+    {
+      "text": "Deutschland plant einen massiven Ausbau seiner Streitkräfte.",
+      "translated_text": "Germany is planning a massive expansion of its armed forces."
+    },
+    {
+      "text": "Bundeskanzler Friedrich Merz möchte die stärkste konventionelle Armee in Europa aufbauen.",
+      "translated_text": "Chancellor Friedrich Merz wants to build the strongest conventional army in Europe."
+    },
+    {
+      "text": "Der Verteidigungshaushalt für 2026 beträgt über 82 Milliarden Euro.",
+      "translated_text": "The defense budget for 2026 amounts to over 82 billion euros."
+    },
+    {
+      "text": "Zusätzlich kommen 25,5 Milliarden Euro aus einem speziellen Verteidigungsfonds.",
+      "translated_text": "Additionally, 25.5 billion euros come from a special defense fund."
+    },
+    {
+      "text": "Merz kündigte an, die Verteidigungsausgaben auf 5 Prozent des Bruttoinlandsprodukts zu erhöhen.",
+      "translated_text": "Merz announced that defense spending would be increased to 5 percent of gross domestic product."
+    },
+    {
+      "text": "Dies ist ein historischer Wandel in der deutschen Militärpolitik.",
+      "translated_text": "This is a historic shift in German military policy."
+    },
+    {
+      "text": "Die Bundeswehr soll bis 2035 auf 260.000 aktive Soldaten wachsen.",
+      "translated_text": "The Bundeswehr is to grow to 260,000 active soldiers by 2035."
+    },
+    {
+      "text": "Auch die Zahl der Reservisten soll auf 200.000 verdoppelt werden.",
+      "translated_text": "The number of reservists is also to be doubled to 200,000."
+    },
+    {
+      "text": "Damit würde Deutschland fast die Armeegröße vom Ende des Kalten Krieges erreichen.",
+      "translated_text": "This would bring Germany close to its army size from the end of the Cold War."
+    },
+    {
+      "text": "Die NATO-Verpflichtungen Deutschlands spielen dabei eine wichtige Rolle.",
+      "translated_text": "Germany's NATO commitments play an important role in this."
+    },
+    {
+      "text": "Experten sehen diese Entwicklung als Reaktion auf die veränderte Sicherheitslage in Europa.",
+      "translated_text": "Experts see this development as a response to the changed security situation in Europe."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Streitkräfte",
+      "translated_term": "armed forces",
+      "example_usage": "Deutschland plant einen massiven Ausbau seiner Streitkräfte."
+    },
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "Chancellor",
+      "example_usage": "Bundeskanzler Friedrich Merz möchte die stärkste konventionelle Armee in Europa aufbauen."
+    },
+    {
+      "term": "aufbauen",
+      "translated_term": "to build",
+      "example_usage": "Bundeskanzler Friedrich Merz möchte die stärkste konventionelle Armee in Europa aufbauen."
+    },
+    {
+      "term": "der Verteidigungshaushalt",
+      "translated_term": "defense budget",
+      "example_usage": "Der Verteidigungshaushalt für 2026 beträgt über 82 Milliarden Euro."
+    },
+    {
+      "term": "betragen",
+      "translated_term": "to amount to",
+      "example_usage": "Der Verteidigungshaushalt für 2026 beträgt über 82 Milliarden Euro."
+    },
+    {
+      "term": "der Verteidigungsfonds",
+      "translated_term": "defense fund",
+      "example_usage": "Zusätzlich kommen 25,5 Milliarden Euro aus einem speziellen Verteidigungsfonds."
+    },
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Merz kündigte an, die Verteidigungsausgaben auf 5 Prozent des Bruttoinlandsprodukts zu erhöhen."
+    },
+    {
+      "term": "das Bruttoinlandsprodukt",
+      "translated_term": "gross domestic product (GDP)",
+      "example_usage": "Merz kündigte an, die Verteidigungsausgaben auf 5 Prozent des Bruttoinlandsprodukts zu erhöhen."
+    },
+    {
+      "term": "der Wandel",
+      "translated_term": "shift, change",
+      "example_usage": "Dies ist ein historischer Wandel in der deutschen Militärpolitik."
+    },
+    {
+      "term": "die Bundeswehr",
+      "translated_term": "German Armed Forces",
+      "example_usage": "Die Bundeswehr soll bis 2035 auf 260.000 aktive Soldaten wachsen."
+    },
+    {
+      "term": "der Reservist",
+      "translated_term": "reservist",
+      "example_usage": "Auch die Zahl der Reservisten soll auf 200.000 verdoppelt werden."
+    },
+    {
+      "term": "verdoppeln",
+      "translated_term": "to double",
+      "example_usage": "Auch die Zahl der Reservisten soll auf 200.000 verdoppelt werden."
+    },
+    {
+      "term": "die Verpflichtung",
+      "translated_term": "commitment, obligation",
+      "example_usage": "Die NATO-Verpflichtungen Deutschlands spielen dabei eine wichtige Rolle."
+    },
+    {
+      "term": "die Sicherheitslage",
+      "translated_term": "security situation",
+      "example_usage": "Experten sehen diese Entwicklung als Reaktion auf die veränderte Sicherheitslage in Europa."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Bundeswehr",
+      "translated_name": "Federal Armed Forces"
+    },
+    {
+      "name": "NATO",
+      "translated_name": "NATO"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2026/1/19/why-is-germany-trying-to-build-europes-strongest-conventional-army"
+    },
+    {
+      "name": "Defense News",
+      "link_url": "https://www.defensenews.com/global/europe/2026/01/29/germany-proposes-two-speed-eu-to-hasten-defense-buildup/"
+    }
+  ]
+}

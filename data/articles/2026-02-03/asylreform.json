@@ -1,0 +1,147 @@
+{
+  "title": "Neue Asylreform in Deutschland beschlossen",
+  "translated_title": "New Asylum Reform Decided in Germany",
+  "text": [
+    {
+      "text": "Deutschland hat eine wichtige Asylreform beschlossen.",
+      "translated_text": "Germany has decided on an important asylum reform."
+    },
+    {
+      "text": "Die Regierungskoalition aus Union und SPD hat sich auf neue Regeln geeinigt.",
+      "translated_text": "The government coalition of Union and SPD has agreed on new rules."
+    },
+    {
+      "text": "Das Gesetz setzt die neuen EU-Asylvorschriften in deutsches Recht um.",
+      "translated_text": "The law implements the new EU asylum regulations into German law."
+    },
+    {
+      "text": "Es werden sogenannte Sekundärmigrationszentren eingerichtet.",
+      "translated_text": "So-called secondary migration centers will be established."
+    },
+    {
+      "text": "Asylbewerber, die aus einem anderen EU-Land nach Deutschland kommen, sollen dort untergebracht werden.",
+      "translated_text": "Asylum seekers who come to Germany from another EU country are to be accommodated there."
+    },
+    {
+      "text": "Die Reform erlaubt auch eine kurzfristige Inhaftierung in bestimmten Fällen.",
+      "translated_text": "The reform also allows short-term detention in certain cases."
+    },
+    {
+      "text": "Gleichzeitig wird das Arbeitsverbot für Asylbewerber auf drei Monate verkürzt.",
+      "translated_text": "At the same time, the work ban for asylum seekers is reduced to three months."
+    },
+    {
+      "text": "Bisher durften viele Asylbewerber länger nicht arbeiten.",
+      "translated_text": "Previously, many asylum seekers were not allowed to work for longer."
+    },
+    {
+      "text": "Das Ziel ist es, die sogenannte Sekundärmigration zu begrenzen.",
+      "translated_text": "The goal is to limit so-called secondary migration."
+    },
+    {
+      "text": "Damit sind Asylbewerber gemeint, die das Land ihrer Erstankunft verlassen.",
+      "translated_text": "This refers to asylum seekers who leave the country of their first arrival."
+    },
+    {
+      "text": "Der Gesetzentwurf wurde am 29. Januar 2026 genehmigt.",
+      "translated_text": "The draft law was approved on January 29, 2026."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Asylreform",
+      "translated_term": "asylum reform",
+      "example_usage": "Deutschland hat eine wichtige Asylreform beschlossen."
+    },
+    {
+      "term": "beschließen",
+      "translated_term": "to decide, to pass",
+      "example_usage": "Deutschland hat eine wichtige Asylreform beschlossen."
+    },
+    {
+      "term": "die Regierungskoalition",
+      "translated_term": "government coalition",
+      "example_usage": "Die Regierungskoalition aus Union und SPD hat sich auf neue Regeln geeinigt."
+    },
+    {
+      "term": "sich einigen",
+      "translated_term": "to agree",
+      "example_usage": "Die Regierungskoalition aus Union und SPD hat sich auf neue Regeln geeinigt."
+    },
+    {
+      "term": "umsetzen",
+      "translated_term": "to implement",
+      "example_usage": "Das Gesetz setzt die neuen EU-Asylvorschriften in deutsches Recht um."
+    },
+    {
+      "term": "die Asylvorschrift",
+      "translated_term": "asylum regulation",
+      "example_usage": "Das Gesetz setzt die neuen EU-Asylvorschriften in deutsches Recht um."
+    },
+    {
+      "term": "einrichten",
+      "translated_term": "to establish, to set up",
+      "example_usage": "Es werden sogenannte Sekundärmigrationszentren eingerichtet."
+    },
+    {
+      "term": "der Asylbewerber",
+      "translated_term": "asylum seeker",
+      "example_usage": "Asylbewerber, die aus einem anderen EU-Land nach Deutschland kommen, sollen dort untergebracht werden."
+    },
+    {
+      "term": "unterbringen",
+      "translated_term": "to accommodate, to house",
+      "example_usage": "Asylbewerber, die aus einem anderen EU-Land nach Deutschland kommen, sollen dort untergebracht werden."
+    },
+    {
+      "term": "die Inhaftierung",
+      "translated_term": "detention, imprisonment",
+      "example_usage": "Die Reform erlaubt auch eine kurzfristige Inhaftierung in bestimmten Fällen."
+    },
+    {
+      "term": "das Arbeitsverbot",
+      "translated_term": "work ban",
+      "example_usage": "Gleichzeitig wird das Arbeitsverbot für Asylbewerber auf drei Monate verkürzt."
+    },
+    {
+      "term": "verkürzen",
+      "translated_term": "to reduce, to shorten",
+      "example_usage": "Gleichzeitig wird das Arbeitsverbot für Asylbewerber auf drei Monate verkürzt."
+    },
+    {
+      "term": "die Sekundärmigration",
+      "translated_term": "secondary migration",
+      "example_usage": "Das Ziel ist es, die sogenannte Sekundärmigration zu begrenzen."
+    },
+    {
+      "term": "begrenzen",
+      "translated_term": "to limit",
+      "example_usage": "Das Ziel ist es, die sogenannte Sekundärmigration zu begrenzen."
+    },
+    {
+      "term": "genehmigen",
+      "translated_term": "to approve",
+      "example_usage": "Der Gesetzentwurf wurde am 29. Januar 2026 genehmigt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Asylpolitik",
+      "translated_name": "Asylum Policy"
+    },
+    {
+      "name": "Europäische Union",
+      "translated_name": "European Union"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "VisaHQ",
+      "link_url": "https://www.visahq.com/news/2026-01-29/de/german-coalition-reaches-compromise-on-implementing-eu-asylum-reform/"
+    }
+  ]
+}
