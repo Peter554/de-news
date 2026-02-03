@@ -1,0 +1,154 @@
+{
+  "title": "Deutschlands Wirtschaftspolitik: Große Investitionen geplant",
+  "translated_title": "Germany's Economic Policy: Major Investments Planned",
+  "text": [
+    {
+      "text": "Bundeskanzler Friedrich Merz hat ein großes Investitionsprogramm gestartet.",
+      "translated_text": "Chancellor Friedrich Merz has launched a major investment program."
+    },
+    {
+      "text": "Das Programm umfasst 500 Milliarden Euro für die nächsten Jahre.",
+      "translated_text": "The program comprises 500 billion euros for the coming years."
+    },
+    {
+      "text": "Das Geld soll in Infrastruktur, Digitalisierung und Klimaschutz fließen.",
+      "translated_text": "The money is to flow into infrastructure, digitization, and climate protection."
+    },
+    {
+      "text": "Bereits zu Beginn des Jahres wurden 24 Milliarden Euro ausgezahlt.",
+      "translated_text": "24 billion euros were already disbursed at the beginning of the year."
+    },
+    {
+      "text": "Die deutsche Regierung hofft, damit die Wirtschaft anzukurbeln.",
+      "translated_text": "The German government hopes to stimulate the economy with this."
+    },
+    {
+      "text": "Die Wirtschaftsprognose für Deutschland wurde jedoch nach unten korrigiert.",
+      "translated_text": "However, the economic forecast for Germany has been revised downward."
+    },
+    {
+      "text": "Die Regierung erwartet nun ein Wachstum von nur 1 Prozent im Jahr 2026.",
+      "translated_text": "The government now expects growth of only 1 percent in 2026."
+    },
+    {
+      "text": "Früher hatte man mit 1,3 Prozent Wachstum gerechnet.",
+      "translated_text": "Previously, 1.3 percent growth had been expected."
+    },
+    {
+      "text": "Für 2027 wird ein Wachstum von 1,3 Prozent vorhergesagt.",
+      "translated_text": "For 2027, growth of 1.3 percent is predicted."
+    },
+    {
+      "text": "Die Geschäftsaussichten deutscher Unternehmen sind gemischt.",
+      "translated_text": "The business outlook for German companies is mixed."
+    },
+    {
+      "text": "Ein Index des Ifo-Instituts fiel unerwartet von 89,7 auf 89,5 Punkte.",
+      "translated_text": "An index by the Ifo Institute unexpectedly fell from 89.7 to 89.5 points."
+    },
+    {
+      "text": "Trotz der großen geplanten Investitionen bleibt die Wirtschaft also schwach.",
+      "translated_text": "Despite the major planned investments, the economy therefore remains weak."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Investitionsprogramm",
+      "translated_term": "investment program",
+      "example_usage": "Bundeskanzler Friedrich Merz hat ein großes Investitionsprogramm gestartet."
+    },
+    {
+      "term": "starten",
+      "translated_term": "to launch, to start",
+      "example_usage": "Bundeskanzler Friedrich Merz hat ein großes Investitionsprogramm gestartet."
+    },
+    {
+      "term": "umfassen",
+      "translated_term": "to comprise, to include",
+      "example_usage": "Das Programm umfasst 500 Milliarden Euro für die nächsten Jahre."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "infrastructure",
+      "example_usage": "Das Geld soll in Infrastruktur, Digitalisierung und Klimaschutz fließen."
+    },
+    {
+      "term": "die Digitalisierung",
+      "translated_term": "digitization",
+      "example_usage": "Das Geld soll in Infrastruktur, Digitalisierung und Klimaschutz fließen."
+    },
+    {
+      "term": "auszahlen",
+      "translated_term": "to disburse, to pay out",
+      "example_usage": "Bereits zu Beginn des Jahres wurden 24 Milliarden Euro ausgezahlt."
+    },
+    {
+      "term": "ankurbeln",
+      "translated_term": "to stimulate, to boost",
+      "example_usage": "Die deutsche Regierung hofft, damit die Wirtschaft anzukurbeln."
+    },
+    {
+      "term": "die Wirtschaftsprognose",
+      "translated_term": "economic forecast",
+      "example_usage": "Die Wirtschaftsprognose für Deutschland wurde jedoch nach unten korrigiert."
+    },
+    {
+      "term": "korrigieren",
+      "translated_term": "to revise, to correct",
+      "example_usage": "Die Wirtschaftsprognose für Deutschland wurde jedoch nach unten korrigiert."
+    },
+    {
+      "term": "das Wachstum",
+      "translated_term": "growth",
+      "example_usage": "Die Regierung erwartet nun ein Wachstum von nur 1 Prozent im Jahr 2026."
+    },
+    {
+      "term": "rechnen mit",
+      "translated_term": "to expect, to count on",
+      "example_usage": "Früher hatte man mit 1,3 Prozent Wachstum gerechnet."
+    },
+    {
+      "term": "vorhersagen",
+      "translated_term": "to predict, to forecast",
+      "example_usage": "Für 2027 wird ein Wachstum von 1,3 Prozent vorhergesagt."
+    },
+    {
+      "term": "die Geschäftsaussichten",
+      "translated_term": "business outlook",
+      "example_usage": "Die Geschäftsaussichten deutscher Unternehmen sind gemischt."
+    },
+    {
+      "term": "unerwartet",
+      "translated_term": "unexpected, unexpectedly",
+      "example_usage": "Ein Index des Ifo-Instituts fiel unerwartet von 89,7 auf 89,5 Punkte."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-01-31/merz-has-activated-his-plan-to-fix-germany-now-we-ll-find-out-if-it-works"
+    },
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-01-26/german-business-outlook-unexpectedly-drops-with-growth-subdued"
+    },
+    {
+      "name": "ABC News",
+      "link_url": "https://abcnews.go.com/Business/wireStory/germany-trims-years-growth-forecast-1-economy-slow-129633098"
+    }
+  ]
+}
