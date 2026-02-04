@@ -1,0 +1,126 @@
+{
+  "title": "Deutsche Wirtschaft zeigt Zeichen der Erholung",
+  "translated_title": "German economy shows signs of recovery",
+  "text": [
+    {
+      "text": "Nach mehreren schwierigen Jahren zeigt die deutsche Wirtschaft wieder Zeichen der Erholung.",
+      "translated_text": "After several difficult years, the German economy is showing signs of recovery again."
+    },
+    {
+      "text": "Experten erwarten für 2026 ein Wirtschaftswachstum von etwa 1,4 Prozent.",
+      "translated_text": "Experts expect economic growth of about 1.4 percent for 2026."
+    },
+    {
+      "text": "Dies wäre das erste positive Wachstum seit vier Jahren.",
+      "translated_text": "This would be the first positive growth in four years."
+    },
+    {
+      "text": "Besonders die Industrieproduktion zeigt sich stärker als erwartet.",
+      "translated_text": "Industrial production in particular is showing stronger performance than expected."
+    },
+    {
+      "text": "Auch die öffentlichen Ausgaben steigen wieder an.",
+      "translated_text": "Public spending is also increasing again."
+    },
+    {
+      "text": "Die Unternehmen investieren mehr in neue Maschinen und Technologien.",
+      "translated_text": "Companies are investing more in new machinery and technologies."
+    },
+    {
+      "text": "Allerdings gibt es auch weiterhin Herausforderungen für die deutsche Wirtschaft.",
+      "translated_text": "However, there are also continuing challenges for the German economy."
+    },
+    {
+      "text": "Die Energiepreise bleiben hoch und belasten viele Betriebe.",
+      "translated_text": "Energy prices remain high and burden many businesses."
+    },
+    {
+      "text": "Deutschland arbeitet an einer engeren Zusammenarbeit mit anderen Ländern.",
+      "translated_text": "Germany is working on closer cooperation with other countries."
+    },
+    {
+      "text": "Der Wirtschaftsminister besuchte kürzlich Saudi-Arabien, um über Energiepartnerschaften zu sprechen.",
+      "translated_text": "The economics minister recently visited Saudi Arabia to discuss energy partnerships."
+    },
+    {
+      "text": "Viele Menschen hoffen, dass die wirtschaftliche Erholung auch zu mehr Arbeitsplätzen führt.",
+      "translated_text": "Many people hope that the economic recovery will also lead to more jobs."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Wirtschaft",
+      "translated_term": "economy",
+      "example_usage": "Nach mehreren schwierigen Jahren zeigt die deutsche Wirtschaft wieder Zeichen der Erholung."
+    },
+    {
+      "term": "die Erholung",
+      "translated_term": "recovery",
+      "example_usage": "Die deutsche Wirtschaft zeigt wieder Zeichen der Erholung."
+    },
+    {
+      "term": "das Wachstum",
+      "translated_term": "growth",
+      "example_usage": "Experten erwarten für 2026 ein Wirtschaftswachstum von etwa 1,4 Prozent."
+    },
+    {
+      "term": "die Industrieproduktion",
+      "translated_term": "industrial production",
+      "example_usage": "Besonders die Industrieproduktion zeigt sich stärker als erwartet."
+    },
+    {
+      "term": "die Ausgaben",
+      "translated_term": "spending, expenses",
+      "example_usage": "Auch die öffentlichen Ausgaben steigen wieder an."
+    },
+    {
+      "term": "investieren",
+      "translated_term": "to invest",
+      "example_usage": "Die Unternehmen investieren mehr in neue Maschinen und Technologien."
+    },
+    {
+      "term": "die Herausforderung",
+      "translated_term": "challenge",
+      "example_usage": "Allerdings gibt es auch weiterhin Herausforderungen für die deutsche Wirtschaft."
+    },
+    {
+      "term": "belasten",
+      "translated_term": "to burden",
+      "example_usage": "Die Energiepreise bleiben hoch und belasten viele Betriebe."
+    },
+    {
+      "term": "die Zusammenarbeit",
+      "translated_term": "cooperation",
+      "example_usage": "Deutschland arbeitet an einer engeren Zusammenarbeit mit anderen Ländern."
+    },
+    {
+      "term": "der Arbeitsplatz",
+      "translated_term": "job, workplace",
+      "example_usage": "Viele Menschen hoffen, dass die wirtschaftliche Erholung auch zu mehr Arbeitsplätzen führt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Energiepolitik",
+      "translated_name": "Energy Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local - Everything that changes in Germany in February 2026",
+      "link_url": "https://www.thelocal.de/20260121/everything-that-changes-in-germany-in-february-2026"
+    },
+    {
+      "name": "FXStreet - Germany: Growth recovery expected in 2026",
+      "link_url": "https://www.fxstreet.com/news/germany-growth-recovery-expected-in-2026-bnp-paribas-202602031637"
+    }
+  ]
+}
