@@ -1,0 +1,126 @@
+{
+  "title": "Berlin im Winter: Glatte Straßen und Berlinale-Vorbereitungen",
+  "translated_title": "Berlin in winter: Slippery streets and Berlinale preparations",
+  "text": [
+    {
+      "text": "Berlin erlebt derzeit einen kalten Winter mit glatten Straßen und Eis.",
+      "translated_text": "Berlin is currently experiencing a cold winter with slippery streets and ice."
+    },
+    {
+      "text": "Viele Menschen werden in den Berliner Krankenhäusern wegen Verletzungen behandelt.",
+      "translated_text": "Many people are being treated in Berlin hospitals for injuries."
+    },
+    {
+      "text": "Die Unfallkliniken berichten von zahlreichen Patienten, die auf Eis ausgerutscht sind.",
+      "translated_text": "The trauma clinics report numerous patients who slipped on ice."
+    },
+    {
+      "text": "Auch der öffentliche Verkehr ist von den Wetterbedingungen betroffen.",
+      "translated_text": "Public transport is also affected by the weather conditions."
+    },
+    {
+      "text": "Trotz des kalten Wetters freuen sich die Berliner auf die kommende Berlinale.",
+      "translated_text": "Despite the cold weather, Berliners are looking forward to the upcoming Berlinale."
+    },
+    {
+      "text": "Das internationale Filmfestival findet vom 12. bis 22. Februar statt.",
+      "translated_text": "The international film festival takes place from February 12 to 22."
+    },
+    {
+      "text": "Mehr als 200 Filme werden während der elf Tage gezeigt.",
+      "translated_text": "More than 200 films will be shown during the eleven days."
+    },
+    {
+      "text": "Die Berlinale ist eines der wichtigsten Filmfestivals der Welt.",
+      "translated_text": "The Berlinale is one of the most important film festivals in the world."
+    },
+    {
+      "text": "In dieser Woche beginnen die Schulferien in Berlin.",
+      "translated_text": "School holidays begin in Berlin this week."
+    },
+    {
+      "text": "Am Freitag erhalten die Schüler ihre Halbjahreszeugnisse.",
+      "translated_text": "On Friday, students receive their mid-year report cards."
+    },
+    {
+      "text": "Außerdem wird das Brandenburger Tor am Holocaust-Gedenktag besonders beleuchtet.",
+      "translated_text": "In addition, the Brandenburg Gate will be specially illuminated on Holocaust Memorial Day."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "glatt",
+      "translated_term": "slippery",
+      "example_usage": "Berlin erlebt derzeit einen kalten Winter mit glatten Straßen und Eis."
+    },
+    {
+      "term": "die Verletzung",
+      "translated_term": "injury",
+      "example_usage": "Viele Menschen werden in den Berliner Krankenhäusern wegen Verletzungen behandelt."
+    },
+    {
+      "term": "ausrutschen",
+      "translated_term": "to slip",
+      "example_usage": "Die Unfallkliniken berichten von zahlreichen Patienten, die auf Eis ausgerutscht sind."
+    },
+    {
+      "term": "betroffen sein",
+      "translated_term": "to be affected",
+      "example_usage": "Auch der öffentliche Verkehr ist von den Wetterbedingungen betroffen."
+    },
+    {
+      "term": "sich freuen auf",
+      "translated_term": "to look forward to",
+      "example_usage": "Trotz des kalten Wetters freuen sich die Berliner auf die kommende Berlinale."
+    },
+    {
+      "term": "das Filmfestival",
+      "translated_term": "film festival",
+      "example_usage": "Das internationale Filmfestival findet vom 12. bis 22. Februar statt."
+    },
+    {
+      "term": "stattfinden",
+      "translated_term": "to take place",
+      "example_usage": "Das internationale Filmfestival findet vom 12. bis 22. Februar statt."
+    },
+    {
+      "term": "die Schulferien",
+      "translated_term": "school holidays",
+      "example_usage": "In dieser Woche beginnen die Schulferien in Berlin."
+    },
+    {
+      "term": "das Zeugnis",
+      "translated_term": "report card",
+      "example_usage": "Am Freitag erhalten die Schüler ihre Halbjahreszeugnisse."
+    },
+    {
+      "term": "beleuchten",
+      "translated_term": "to illuminate",
+      "example_usage": "Das Brandenburger Tor wird am Holocaust-Gedenktag besonders beleuchtet."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    },
+    {
+      "name": "Kultur",
+      "translated_name": "Culture"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local - Today in Germany: A roundup of the latest news on Tuesday",
+      "link_url": "https://www.thelocal.de/20260203/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-109"
+    },
+    {
+      "name": "Visit Berlin - February 2026 in Berlin",
+      "link_url": "https://www.visitberlin.de/en/blog/february-berlin"
+    }
+  ]
+}
