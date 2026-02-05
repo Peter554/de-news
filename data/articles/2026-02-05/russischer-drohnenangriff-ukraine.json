@@ -1,0 +1,131 @@
+{
+  "title": "Russischer Drohnenangriff tötet 15 Menschen in der Ukraine",
+  "translated_title": "Russian Drone Strike Kills 15 People in Ukraine",
+  "text": [
+    {
+      "text": "Ein russischer Drohnenangriff hat in der ukrainischen Stadt Dnipro ein tragisches Unglück verursacht.",
+      "translated_text": "A Russian drone attack has caused a tragic accident in the Ukrainian city of Dnipro."
+    },
+    {
+      "text": "Eine Drohne traf einen Minibus, der Bergarbeiter transportierte.",
+      "translated_text": "A drone hit a minibus that was transporting miners."
+    },
+    {
+      "text": "Bei dem Angriff wurden mindestens 15 Menschen getötet und sieben weitere verletzt.",
+      "translated_text": "At least 15 people were killed and seven others injured in the attack."
+    },
+    {
+      "text": "Die Opfer waren auf dem Weg zu ihrer Arbeit in einem Bergwerk.",
+      "translated_text": "The victims were on their way to work at a mine."
+    },
+    {
+      "text": "Der Angriff ereignete sich am frühen Morgen in der Industriestadt Dnipro.",
+      "translated_text": "The attack occurred in the early morning in the industrial city of Dnipro."
+    },
+    {
+      "text": "Dnipro liegt im Osten der Ukraine und ist eine wichtige Industriestadt.",
+      "translated_text": "Dnipro is located in eastern Ukraine and is an important industrial city."
+    },
+    {
+      "text": "Die Stadt wurde während des Krieges bereits mehrfach von russischen Angriffen getroffen.",
+      "translated_text": "The city has already been hit by Russian attacks several times during the war."
+    },
+    {
+      "text": "Rettungskräfte waren schnell am Unfallort und versuchten, Verletzte zu retten.",
+      "translated_text": "Rescue workers were quickly at the scene and tried to save the injured."
+    },
+    {
+      "text": "Der Vorfall zeigt die anhaltende Gefahr für Zivilisten im Ukraine-Krieg.",
+      "translated_text": "The incident shows the ongoing danger for civilians in the Ukraine war."
+    },
+    {
+      "text": "Internationale Organisationen haben den Angriff auf zivile Ziele scharf kritisiert.",
+      "translated_text": "International organizations have sharply criticized the attack on civilian targets."
+    },
+    {
+      "text": "Die ukrainische Regierung fordert verstärkte internationale Unterstützung zur Luftabwehr.",
+      "translated_text": "The Ukrainian government is calling for increased international support for air defense."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Drohnenangriff",
+      "translated_term": "drone attack",
+      "example_usage": "Ein russischer Drohnenangriff hat ein tragisches Unglück verursacht."
+    },
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "Eine Drohne traf einen Minibus."
+    },
+    {
+      "term": "der Bergarbeiter",
+      "translated_term": "miner",
+      "example_usage": "Der Minibus transportierte Bergarbeiter."
+    },
+    {
+      "term": "treffen",
+      "translated_term": "to hit",
+      "example_usage": "Eine Drohne traf einen Minibus."
+    },
+    {
+      "term": "töten",
+      "translated_term": "to kill",
+      "example_usage": "Bei dem Angriff wurden mindestens 15 Menschen getötet."
+    },
+    {
+      "term": "verletzen",
+      "translated_term": "to injure",
+      "example_usage": "Sieben weitere Menschen wurden verletzt."
+    },
+    {
+      "term": "das Opfer",
+      "translated_term": "victim",
+      "example_usage": "Die Opfer waren auf dem Weg zu ihrer Arbeit."
+    },
+    {
+      "term": "sich ereignen",
+      "translated_term": "to occur",
+      "example_usage": "Der Angriff ereignete sich am frühen Morgen."
+    },
+    {
+      "term": "die Rettungskraft",
+      "translated_term": "rescue worker",
+      "example_usage": "Rettungskräfte waren schnell am Unfallort."
+    },
+    {
+      "term": "anhaltend",
+      "translated_term": "ongoing",
+      "example_usage": "Der Vorfall zeigt die anhaltende Gefahr für Zivilisten."
+    },
+    {
+      "term": "die Luftabwehr",
+      "translated_term": "air defense",
+      "example_usage": "Die Regierung fordert verstärkte Unterstützung zur Luftabwehr."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia Current Events",
+      "link_url": "https://en.wikipedia.org/wiki/Portal:Current_events/February_2026"
+    },
+    {
+      "name": "Sunday Guardian Live",
+      "link_url": "https://sundayguardianlive.com/news/school-assembly-news-headlines-today-february-05-top-national-business-news-sports-news-world-news-with-weather-updates-thought-of-the-day-168427/"
+    }
+  ]
+}

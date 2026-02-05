@@ -1,0 +1,126 @@
+{
+  "title": "Deutsche Arbeitslosigkeit steigt auf 12-Jahres-Hoch",
+  "translated_title": "German Unemployment Rises to 12-Year High",
+  "text": [
+    {
+      "text": "Die Arbeitslosigkeit in Deutschland hat einen alarmierenden Höchststand erreicht.",
+      "translated_text": "Unemployment in Germany has reached an alarming high."
+    },
+    {
+      "text": "Ende Januar 2026 waren 3,08 Millionen Menschen ohne Arbeit.",
+      "translated_text": "At the end of January 2026, 3.08 million people were out of work."
+    },
+    {
+      "text": "Dies ist der höchste Stand seit 12 Jahren.",
+      "translated_text": "This is the highest level in 12 years."
+    },
+    {
+      "text": "Die Arbeitslosenquote ist um 0,4 Prozent auf 6,6 Prozent gestiegen.",
+      "translated_text": "The unemployment rate has risen by 0.4 percent to 6.6 percent."
+    },
+    {
+      "text": "Diese Zahlen wurden am 30. Januar vom Arbeitsamt veröffentlicht.",
+      "translated_text": "These figures were published by the Labour Office on January 30."
+    },
+    {
+      "text": "Bundeskanzler Friedrich Merz von der CDU hat auf die Situation reagiert.",
+      "translated_text": "Federal Chancellor Friedrich Merz of the CDU has responded to the situation."
+    },
+    {
+      "text": "Er erklärte, dass die Stärkung der Wirtschaft sein Hauptfokus im Jahr 2026 sein würde.",
+      "translated_text": "He stated that strengthening the economy would be his main focus in 2026."
+    },
+    {
+      "text": "Die steigenden Arbeitslosenzahlen zeigen die wirtschaftlichen Schwierigkeiten Deutschlands.",
+      "translated_text": "The rising unemployment figures show Germany's economic difficulties."
+    },
+    {
+      "text": "Viele Unternehmen kämpfen mit hohen Energiekosten und internationaler Konkurrenz.",
+      "translated_text": "Many companies are struggling with high energy costs and international competition."
+    },
+    {
+      "text": "Experten fordern schnelle Maßnahmen, um die Wirtschaft wieder anzukurbeln.",
+      "translated_text": "Experts are calling for quick measures to stimulate the economy again."
+    },
+    {
+      "text": "Die Regierung plant verschiedene Programme zur Schaffung neuer Arbeitsplätze.",
+      "translated_text": "The government is planning various programs to create new jobs."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Arbeitslosigkeit",
+      "translated_term": "unemployment",
+      "example_usage": "Die Arbeitslosigkeit in Deutschland hat einen alarmierenden Höchststand erreicht."
+    },
+    {
+      "term": "der Höchststand",
+      "translated_term": "high/peak",
+      "example_usage": "Die Arbeitslosigkeit hat einen alarmierenden Höchststand erreicht."
+    },
+    {
+      "term": "die Arbeitslosenquote",
+      "translated_term": "unemployment rate",
+      "example_usage": "Die Arbeitslosenquote ist um 0,4 Prozent gestiegen."
+    },
+    {
+      "term": "veröffentlichen",
+      "translated_term": "to publish",
+      "example_usage": "Diese Zahlen wurden vom Arbeitsamt veröffentlicht."
+    },
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "Federal Chancellor",
+      "example_usage": "Bundeskanzler Friedrich Merz hat auf die Situation reagiert."
+    },
+    {
+      "term": "die Stärkung",
+      "translated_term": "strengthening",
+      "example_usage": "Die Stärkung der Wirtschaft ist sein Hauptfokus."
+    },
+    {
+      "term": "kämpfen",
+      "translated_term": "to struggle/fight",
+      "example_usage": "Viele Unternehmen kämpfen mit hohen Energiekosten."
+    },
+    {
+      "term": "die Konkurrenz",
+      "translated_term": "competition",
+      "example_usage": "Unternehmen kämpfen mit internationaler Konkurrenz."
+    },
+    {
+      "term": "die Maßnahme",
+      "translated_term": "measure",
+      "example_usage": "Experten fordern schnelle Maßnahmen."
+    },
+    {
+      "term": "ankurbeln",
+      "translated_term": "to stimulate/boost",
+      "example_usage": "Experten fordern Maßnahmen, um die Wirtschaft wieder anzukurbeln."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-01-31/merz-has-activated-his-plan-to-fix-germany-now-we-ll-find-out-if-it-works"
+    },
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20260121/everything-that-changes-in-germany-in-february-2026"
+    }
+  ]
+}
