@@ -1,0 +1,126 @@
+{
+  "title": "Verdi-Streiks legen öffentlichen Verkehr in Deutschland lahm",
+  "translated_title": "Verdi Strikes Paralyze Public Transport in Germany",
+  "text": [
+    {
+      "text": "Massive Streiks der Gewerkschaft Verdi haben den öffentlichen Nahverkehr in vielen deutschen Städten zum Erliegen gebracht.",
+      "translated_text": "Massive strikes by the Verdi trade union have brought public transport in many German cities to a standstill."
+    },
+    {
+      "text": "Die Arbeitsniederlegungen betreffen Großstädte im ganzen Land und verursachen erhebliche wirtschaftliche Verluste.",
+      "translated_text": "The work stoppages affect major cities across the country and cause significant economic losses."
+    },
+    {
+      "text": "In Deutschland gibt es Anzeichen für einen Generalstreik, der durch das Land weht.",
+      "translated_text": "In Germany there are signs of a general strike blowing through the country."
+    },
+    {
+      "text": "Neben dem öffentlichen Verkehr gibt es auch vorübergehende Arbeitsniederlegungen in Schulen und Kindergärten.",
+      "translated_text": "In addition to public transport, there are also temporary work stoppages at schools and daycare centers."
+    },
+    {
+      "text": "Auch Universitätskliniken, kommunale Behörden und der Schienenverkehr sind von den Streiks betroffen.",
+      "translated_text": "University hospitals, municipal authorities and rail transport are also affected by the strikes."
+    },
+    {
+      "text": "U-Bahnen, Straßenbahnen und Busse stehen in vielen Städten still.",
+      "translated_text": "Subways, trams and buses are at a standstill in many cities."
+    },
+    {
+      "text": "Die Gewerkschaft Verdi kämpft für bessere Arbeitsbedingungen und höhere Löhne im öffentlichen Dienst.",
+      "translated_text": "The Verdi trade union is fighting for better working conditions and higher wages in the public service."
+    },
+    {
+      "text": "Pendler müssen alternative Wege zur Arbeit finden oder von zu Hause arbeiten.",
+      "translated_text": "Commuters have to find alternative ways to get to work or work from home."
+    },
+    {
+      "text": "Die Streiks zeigen die wachsende Unzufriedenheit der Beschäftigten im öffentlichen Sektor.",
+      "translated_text": "The strikes show the growing dissatisfaction of employees in the public sector."
+    },
+    {
+      "text": "Experten warnen vor den langfristigen Auswirkungen auf die deutsche Wirtschaft.",
+      "translated_text": "Experts warn about the long-term effects on the German economy."
+    },
+    {
+      "text": "Es ist noch nicht klar, wie lange die Streiks andauern werden und wann eine Einigung erzielt werden kann.",
+      "translated_text": "It is not yet clear how long the strikes will last and when an agreement can be reached."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Streik",
+      "translated_term": "strike",
+      "example_usage": "Verdi-Streiks haben den öffentlichen Verkehr lahmgelegt."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "trade union",
+      "example_usage": "Die Gewerkschaft Verdi kämpft für bessere Arbeitsbedingungen."
+    },
+    {
+      "term": "lahmlegen",
+      "translated_term": "to paralyze",
+      "example_usage": "Die Streiks legen den öffentlichen Verkehr lahm."
+    },
+    {
+      "term": "die Arbeitsniederlegung",
+      "translated_term": "work stoppage",
+      "example_usage": "Die Arbeitsniederlegungen betreffen Großstädte im ganzen Land."
+    },
+    {
+      "term": "zum Erliegen bringen",
+      "translated_term": "to bring to a standstill",
+      "example_usage": "Die Streiks haben den Nahverkehr zum Erliegen gebracht."
+    },
+    {
+      "term": "erheblich",
+      "translated_term": "significant/considerable",
+      "example_usage": "Die Streiks verursachen erhebliche wirtschaftliche Verluste."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "authority",
+      "example_usage": "Kommunale Behörden sind von den Streiks betroffen."
+    },
+    {
+      "term": "der Pendler",
+      "translated_term": "commuter",
+      "example_usage": "Pendler müssen alternative Wege zur Arbeit finden."
+    },
+    {
+      "term": "die Unzufriedenheit",
+      "translated_term": "dissatisfaction",
+      "example_usage": "Die Streiks zeigen die wachsende Unzufriedenheit der Beschäftigten."
+    },
+    {
+      "term": "die Einigung",
+      "translated_term": "agreement",
+      "example_usage": "Es ist noch nicht klar, wann eine Einigung erzielt werden kann."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20260121/everything-that-changes-in-germany-in-february-2026"
+    },
+    {
+      "name": "The Left Berlin",
+      "link_url": "https://theleftberlin.com/news-from-berlin-and-germany-4th-february-2026/"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "title": "Glatteis-Warnung für Berlin und Brandenburg",
+  "translated_title": "Black Ice Warning for Berlin and Brandenburg",
+  "text": [
+    {
+      "text": "Der Deutsche Wetterdienst hat am 5. Februar 2026 eine Warnung vor Glatteis für Berlin und Brandenburg herausgegeben.",
+      "translated_text": "The German Weather Service issued a warning for black ice for Berlin and Brandenburg on February 5, 2026."
+    },
+    {
+      "text": "Die Warnung gilt von 2 Uhr bis 10 Uhr morgens.",
+      "translated_text": "The warning is valid from 2 a.m. to 10 a.m. in the morning."
+    },
+    {
+      "text": "Zunächst fällt Schnee, der am Morgen in Regen übergeht.",
+      "translated_text": "Initially snow falls, which transitions to rain in the morning."
+    },
+    {
+      "text": "Der Regen kann auf den gefrorenen Oberflächen sofort gefrieren und gefährliches Glatteis bilden.",
+      "translated_text": "The rain can freeze immediately on the frozen surfaces and form dangerous black ice."
+    },
+    {
+      "text": "Die Wettersituation wurde auf Stufe 3 von 4 eingestuft, was bedeutet, dass schwere Wetterereignisse möglich sind.",
+      "translated_text": "The weather situation was classified at level 3 of 4, which means that severe weather events are possible."
+    },
+    {
+      "text": "Die Berliner Verkehrsgesellschaft (BVG) hat sich auf die schwierigen Bedingungen vorbereitet.",
+      "translated_text": "The Berlin Transport Company (BVG) has prepared for the difficult conditions."
+    },
+    {
+      "text": "Besonders für die Straßenbahnen wurden zusätzliche Fahrzeuge und Fahrer bereitgestellt.",
+      "translated_text": "Additional vehicles and drivers were provided especially for the trams."
+    },
+    {
+      "text": "Über Nacht fahren extra Bahnen, um zu verhindern, dass die Oberleitungen wieder einfrieren.",
+      "translated_text": "Extra trams run overnight to prevent the overhead lines from freezing again."
+    },
+    {
+      "text": "Die Straßen in Berlin waren extrem glatt, was zu Einschränkungen im Nahverkehr führte.",
+      "translated_text": "The roads in Berlin were extremely slippery, which led to restrictions in local transport."
+    },
+    {
+      "text": "Autofahrer, Radfahrer und Fußgänger wurden aufgefordert, äußerste Vorsicht walten zu lassen.",
+      "translated_text": "Motorists, cyclists and pedestrians were urged to exercise extreme caution."
+    },
+    {
+      "text": "Die Gefahr durch gefrierenden Regen ist besonders hoch, weil das Glatteis oft schwer zu erkennen ist.",
+      "translated_text": "The danger from freezing rain is particularly high because the black ice is often difficult to see."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Glatteis",
+      "translated_term": "black ice",
+      "example_usage": "Der Deutsche Wetterdienst hat eine Warnung vor Glatteis herausgegeben."
+    },
+    {
+      "term": "die Warnung",
+      "translated_term": "warning",
+      "example_usage": "Die Warnung gilt von 2 Uhr bis 10 Uhr morgens."
+    },
+    {
+      "term": "übergehen",
+      "translated_term": "to transition",
+      "example_usage": "Der Schnee geht am Morgen in Regen über."
+    },
+    {
+      "term": "gefrieren",
+      "translated_term": "to freeze",
+      "example_usage": "Der Regen kann auf den gefrorenen Oberflächen sofort gefrieren."
+    },
+    {
+      "term": "die Oberfläche",
+      "translated_term": "surface",
+      "example_usage": "Der Regen kann auf den gefrorenen Oberflächen sofort gefrieren."
+    },
+    {
+      "term": "einstufen",
+      "translated_term": "to classify",
+      "example_usage": "Die Wettersituation wurde auf Stufe 3 von 4 eingestuft."
+    },
+    {
+      "term": "die Straßenbahn",
+      "translated_term": "tram",
+      "example_usage": "Besonders für die Straßenbahnen wurden zusätzliche Fahrzeuge bereitgestellt."
+    },
+    {
+      "term": "die Oberleitung",
+      "translated_term": "overhead line",
+      "example_usage": "Über Nacht fahren extra Bahnen, um zu verhindern, dass die Oberleitungen wieder einfrieren."
+    },
+    {
+      "term": "die Einschränkung",
+      "translated_term": "restriction",
+      "example_usage": "Die glatten Straßen führten zu Einschränkungen im Nahverkehr."
+    },
+    {
+      "term": "die Vorsicht",
+      "translated_term": "caution",
+      "example_usage": "Autofahrer wurden aufgefordert, äußerste Vorsicht walten zu lassen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Verkehrsinformationszentrale",
+      "link_url": "https://viz.berlin.de/aktuelle-meldungen/glatteis-warnung-fur-berlin-und-brandenburg-am-05.02.2026/"
+    },
+    {
+      "name": "The Left Berlin",
+      "link_url": "https://theleftberlin.com/news-from-berlin-and-germany-4th-february-2026/"
+    }
+  ]
+}
