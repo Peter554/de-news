@@ -1,0 +1,135 @@
+{
+  "title": "Neue Ausstellung in Berlin über menschliche Siedlungen",
+  "translated_title": "New exhibition in Berlin about human settlements",
+  "text": [
+    {
+      "text": "Heute öffnet eine spannende neue Ausstellung in Berlin ihre Türen.",
+      "translated_text": "Today an exciting new exhibition opens its doors in Berlin."
+    },
+    {
+      "text": "Die Ausstellung heißt \"Gebaute Gemeinschaft\" und findet in der James-Simon-Galerie statt.",
+      "translated_text": "The exhibition is called 'Built Community' and takes place at the James Simon Gallery."
+    },
+    {
+      "text": "Sie zeigt die Geschichte der menschlichen Siedlungen über einen sehr langen Zeitraum.",
+      "translated_text": "It shows the history of human settlements over a very long period."
+    },
+    {
+      "text": "Die Ausstellung geht bis zu 12.000 Jahre in die Vergangenheit zurück.",
+      "translated_text": "The exhibition goes back 12,000 years into the past."
+    },
+    {
+      "text": "Besucher können sehen, wie Menschen früher zusammenlebten und ihre Dörfer bauten.",
+      "translated_text": "Visitors can see how people used to live together and built their villages."
+    },
+    {
+      "text": "Die Ausstellung erklärt auch, warum Menschen sesshaft wurden.",
+      "translated_text": "The exhibition also explains why people became settled."
+    },
+    {
+      "text": "Vor Tausenden von Jahren waren die meisten Menschen noch Nomaden.",
+      "translated_text": "Thousands of years ago, most people were still nomads."
+    },
+    {
+      "text": "Sie zogen von Ort zu Ort und suchten nach Nahrung.",
+      "translated_text": "They moved from place to place and searched for food."
+    },
+    {
+      "text": "Dann begannen sie, Landwirtschaft zu betreiben und dauerhaft an einem Ort zu leben.",
+      "translated_text": "Then they started to practice agriculture and live permanently in one place."
+    },
+    {
+      "text": "Diese Entwicklung veränderte die Menschheit für immer.",
+      "translated_text": "This development changed humanity forever."
+    },
+    {
+      "text": "Die James-Simon-Galerie ist ein Teil der berühmten Museumsinsel in Berlin.",
+      "translated_text": "The James Simon Gallery is part of the famous Museum Island in Berlin."
+    },
+    {
+      "text": "Die Ausstellung ist perfekt für alle, die sich für Geschichte und Archäologie interessieren.",
+      "translated_text": "The exhibition is perfect for anyone interested in history and archaeology."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Ausstellung",
+      "translated_term": "exhibition",
+      "example_usage": "Heute öffnet eine spannende neue Ausstellung in Berlin ihre Türen."
+    },
+    {
+      "term": "die Siedlung",
+      "translated_term": "settlement",
+      "example_usage": "Sie zeigt die Geschichte der menschlichen Siedlungen über einen sehr langen Zeitraum."
+    },
+    {
+      "term": "die Vergangenheit",
+      "translated_term": "past",
+      "example_usage": "Die Ausstellung geht bis zu 12.000 Jahre in die Vergangenheit zurück."
+    },
+    {
+      "term": "zusammenleben",
+      "translated_term": "to live together",
+      "example_usage": "Besucher können sehen, wie Menschen früher zusammenlebten und ihre Dörfer bauten."
+    },
+    {
+      "term": "sesshaft werden",
+      "translated_term": "to become settled",
+      "example_usage": "Die Ausstellung erklärt auch, warum Menschen sesshaft wurden."
+    },
+    {
+      "term": "der Nomade",
+      "translated_term": "nomad",
+      "example_usage": "Vor Tausenden von Jahren waren die meisten Menschen noch Nomaden."
+    },
+    {
+      "term": "die Nahrung",
+      "translated_term": "food",
+      "example_usage": "Sie zogen von Ort zu Ort und suchten nach Nahrung."
+    },
+    {
+      "term": "die Landwirtschaft",
+      "translated_term": "agriculture",
+      "example_usage": "Dann begannen sie, Landwirtschaft zu betreiben und dauerhaft an einem Ort zu leben."
+    },
+    {
+      "term": "betreiben",
+      "translated_term": "to practice, to operate",
+      "example_usage": "Dann begannen sie, Landwirtschaft zu betreiben und dauerhaft an einem Ort zu leben."
+    },
+    {
+      "term": "die Entwicklung",
+      "translated_term": "development",
+      "example_usage": "Diese Entwicklung veränderte die Menschheit für immer."
+    },
+    {
+      "term": "die Archäologie",
+      "translated_term": "archaeology",
+      "example_usage": "Die Ausstellung ist perfekt für alle, die sich für Geschichte und Archäologie interessieren."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Kultur",
+      "translated_name": "Culture"
+    },
+    {
+      "name": "Geschichte",
+      "translated_name": "History"
+    }
+  ],
+  "sources": [
+    {
+      "name": "All About Berlin",
+      "link_url": "https://allaboutberlin.com/newsletter/february-2026"
+    },
+    {
+      "name": "The Left Berlin",
+      "link_url": "https://theleftberlin.com/news-from-berlin-and-germany-4th-february-2026/"
+    }
+  ]
+}

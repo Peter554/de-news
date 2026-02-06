@@ -1,0 +1,131 @@
+{
+  "title": "Arbeitslosigkeit in Deutschland erreicht 12-Jahres-Hoch",
+  "translated_title": "Unemployment in Germany reaches 12-year high",
+  "text": [
+    {
+      "text": "Deutschland hat ein großes wirtschaftliches Problem: Die Arbeitslosigkeit ist so hoch wie seit zwölf Jahren nicht mehr.",
+      "translated_text": "Germany has a major economic problem: unemployment is as high as it hasn't been for twelve years."
+    },
+    {
+      "text": "Mehr als drei Millionen Menschen haben keinen Job.",
+      "translated_text": "More than three million people don't have a job."
+    },
+    {
+      "text": "Die genaue Zahl liegt bei 3,08 Millionen arbeitslosen Personen.",
+      "translated_text": "The exact number is 3.08 million unemployed people."
+    },
+    {
+      "text": "Bundeskanzler Friedrich Merz von der CDU hat auf diese Situation reagiert.",
+      "translated_text": "Federal Chancellor Friedrich Merz from the CDU has reacted to this situation."
+    },
+    {
+      "text": "Er sagt, dass die Verbesserung der Wirtschaft sein wichtigstes Ziel für 2026 ist.",
+      "translated_text": "He says that improving the economy is his most important goal for 2026."
+    },
+    {
+      "text": "Die hohe Arbeitslosigkeit zeigt, dass die deutsche Wirtschaft Schwierigkeiten hat.",
+      "translated_text": "The high unemployment shows that the German economy is having difficulties."
+    },
+    {
+      "text": "Viele Unternehmen kämpfen mit verschiedenen Problemen.",
+      "translated_text": "Many companies are struggling with various problems."
+    },
+    {
+      "text": "Die Energiekosten sind hoch und die internationale Konkurrenz ist stark.",
+      "translated_text": "Energy costs are high and international competition is strong."
+    },
+    {
+      "text": "Auch die politische Unsicherheit in Europa spielt eine Rolle.",
+      "translated_text": "Political uncertainty in Europe also plays a role."
+    },
+    {
+      "text": "Experten sind besorgt über diese Entwicklung.",
+      "translated_text": "Experts are worried about this development."
+    },
+    {
+      "text": "Sie fordern schnelle Maßnahmen, um die Wirtschaft wieder anzukurbeln.",
+      "translated_text": "They are calling for quick measures to stimulate the economy again."
+    },
+    {
+      "text": "Es geht nicht nur um neue Arbeitsplätze, sondern auch um die Zukunft des Landes.",
+      "translated_text": "It's not just about new jobs, but also about the future of the country."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Arbeitslosigkeit",
+      "translated_term": "unemployment",
+      "example_usage": "Die Arbeitslosigkeit ist so hoch wie seit zwölf Jahren nicht mehr."
+    },
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "federal chancellor",
+      "example_usage": "Bundeskanzler Friedrich Merz von der CDU hat auf diese Situation reagiert."
+    },
+    {
+      "term": "die Wirtschaft",
+      "translated_term": "economy",
+      "example_usage": "Er sagt, dass die Verbesserung der Wirtschaft sein wichtigstes Ziel für 2026 ist."
+    },
+    {
+      "term": "die Verbesserung",
+      "translated_term": "improvement",
+      "example_usage": "Er sagt, dass die Verbesserung der Wirtschaft sein wichtigstes Ziel für 2026 ist."
+    },
+    {
+      "term": "kämpfen",
+      "translated_term": "to struggle, to fight",
+      "example_usage": "Viele Unternehmen kämpfen mit verschiedenen Problemen."
+    },
+    {
+      "term": "die Energiekosten",
+      "translated_term": "energy costs",
+      "example_usage": "Die Energiekosten sind hoch und die internationale Konkurrenz ist stark."
+    },
+    {
+      "term": "die Konkurrenz",
+      "translated_term": "competition",
+      "example_usage": "Die Energiekosten sind hoch und die internationale Konkurrenz ist stark."
+    },
+    {
+      "term": "die Unsicherheit",
+      "translated_term": "uncertainty",
+      "example_usage": "Auch die politische Unsicherheit in Europa spielt eine Rolle."
+    },
+    {
+      "term": "besorgt sein",
+      "translated_term": "to be worried",
+      "example_usage": "Experten sind besorgt über diese Entwicklung."
+    },
+    {
+      "term": "die Maßnahme",
+      "translated_term": "measure",
+      "example_usage": "Sie fordern schnelle Maßnahmen, um die Wirtschaft wieder anzukurbeln."
+    },
+    {
+      "term": "ankurbeln",
+      "translated_term": "to stimulate, to boost",
+      "example_usage": "Sie fordern schnelle Maßnahmen, um die Wirtschaft wieder anzukurbeln."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "TASS",
+      "link_url": "https://tass.com/world/2067369"
+    }
+  ]
+}
