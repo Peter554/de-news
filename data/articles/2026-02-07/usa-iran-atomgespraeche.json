@@ -1,0 +1,146 @@
+{
+  "title": "USA und Iran beginnen Atomgespräche",
+  "translated_title": "USA and Iran begin nuclear talks",
+  "text": [
+    {
+      "text": "Am 6. Februar 2026 haben die USA und der Iran wichtige Gespräche über das iranische Atomprogramm begonnen.",
+      "translated_text": "On February 6, 2026, the USA and Iran began important talks about the Iranian nuclear program."
+    },
+    {
+      "text": "Die Verhandlungen gelten als sehr heikel und bedeutsam.",
+      "translated_text": "The negotiations are considered very delicate and significant."
+    },
+    {
+      "text": "Washington schließt militärische Aktionen gegen die Islamische Republik nicht aus.",
+      "translated_text": "Washington does not rule out military action against the Islamic Republic."
+    },
+    {
+      "text": "Der deutsche Bundeskanzler Friedrich Merz warnte vor einer möglichen Eskalation im Nahen Osten.",
+      "translated_text": "German Chancellor Friedrich Merz warned of a possible escalation in the Middle East."
+    },
+    {
+      "text": "Merz äußerte während seiner Reise in den Golfstaaten große Sorge über die Spannungen mit dem Iran.",
+      "translated_text": "Merz expressed great concern about tensions with Iran during his trip to the Gulf states."
+    },
+    {
+      "text": "Bei einer Pressekonferenz in Doha am 5. Februar sprach er über die Gefahr einer weiteren Eskalation.",
+      "translated_text": "At a press conference in Doha on February 5, he spoke about the danger of further escalation."
+    },
+    {
+      "text": "Die internationale Gemeinschaft beobachtet die Gespräche sehr genau.",
+      "translated_text": "The international community is watching the talks very closely."
+    },
+    {
+      "text": "Viele Länder hoffen auf eine diplomatische Lösung des Konflikts.",
+      "translated_text": "Many countries hope for a diplomatic solution to the conflict."
+    },
+    {
+      "text": "Das iranische Atomprogramm ist seit Jahren ein Streitthema in der internationalen Politik.",
+      "translated_text": "The Iranian nuclear program has been a contentious issue in international politics for years."
+    },
+    {
+      "text": "Die kommenden Tage werden zeigen, ob die Verhandlungen erfolgreich sein können.",
+      "translated_text": "The coming days will show whether the negotiations can be successful."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Atomgespräch",
+      "translated_term": "nuclear talk",
+      "example_usage": "Die USA und Iran haben Atomgespräche begonnen."
+    },
+    {
+      "term": "das Atomprogramm",
+      "translated_term": "nuclear program",
+      "example_usage": "Die USA und Iran sprechen über das iranische Atomprogramm."
+    },
+    {
+      "term": "die Verhandlung",
+      "translated_term": "negotiation",
+      "example_usage": "Die Verhandlungen gelten als sehr heikel und bedeutsam."
+    },
+    {
+      "term": "heikel",
+      "translated_term": "delicate, tricky",
+      "example_usage": "Die Verhandlungen gelten als sehr heikel."
+    },
+    {
+      "term": "ausschließen",
+      "translated_term": "to rule out, to exclude",
+      "example_usage": "Washington schließt militärische Aktionen nicht aus."
+    },
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "Federal Chancellor",
+      "example_usage": "Der deutsche Bundeskanzler Friedrich Merz warnte vor einer Eskalation."
+    },
+    {
+      "term": "warnen vor",
+      "translated_term": "to warn of",
+      "example_usage": "Merz warnte vor einer möglichen Eskalation."
+    },
+    {
+      "term": "die Eskalation",
+      "translated_term": "escalation",
+      "example_usage": "Merz warnte vor einer möglichen Eskalation im Nahen Osten."
+    },
+    {
+      "term": "äußern",
+      "translated_term": "to express",
+      "example_usage": "Merz äußerte große Sorge über die Spannungen."
+    },
+    {
+      "term": "die Spannung",
+      "translated_term": "tension",
+      "example_usage": "Merz äußerte große Sorge über die Spannungen mit dem Iran."
+    },
+    {
+      "term": "die Pressekonferenz",
+      "translated_term": "press conference",
+      "example_usage": "Bei einer Pressekonferenz in Doha sprach er über die Gefahr."
+    },
+    {
+      "term": "beobachten",
+      "translated_term": "to observe, to watch",
+      "example_usage": "Die internationale Gemeinschaft beobachtet die Gespräche sehr genau."
+    },
+    {
+      "term": "die Lösung",
+      "translated_term": "solution",
+      "example_usage": "Viele Länder hoffen auf eine diplomatische Lösung des Konflikts."
+    },
+    {
+      "term": "das Streitthema",
+      "translated_term": "contentious issue",
+      "example_usage": "Das iranische Atomprogramm ist seit Jahren ein Streitthema."
+    }
+  ],
+  "tags": [
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR - U.S. News and National Top Stories",
+      "link_url": "https://www.npr.org/sections/national/"
+    },
+    {
+      "name": "Al Jazeera - Germany's Merz warns of potential escalation",
+      "link_url": "https://www.aljazeera.com/news/2026/2/5/germanys-merz-warns-of-potential-escalation-as-us-iran-prepare-for-talks"
+    }
+  ]
+}
