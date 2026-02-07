@@ -1,0 +1,150 @@
+{
+  "title": "Flughafen Berlin-Brandenburg wegen Glatteis geschlossen",
+  "translated_title": "Berlin-Brandenburg Airport closed due to black ice",
+  "text": [
+    {
+      "text": "Der Flughafen Berlin-Brandenburg hat am Freitag, den 6. Februar, alle Flugoperationen wegen gefährlichem Glatteis eingestellt.",
+      "translated_text": "Berlin-Brandenburg Airport suspended all flight operations on Friday, February 6, due to dangerous black ice."
+    },
+    {
+      "text": "Über 150 Flüge wurden gestrichen, nachdem eisiger Regen die Landebahnen extrem rutschig gemacht hatte.",
+      "translated_text": "Over 150 flights were canceled after freezing rain made the runways extremely slippery."
+    },
+    {
+      "text": "Dies war bereits der zweite Tag in Folge, an dem der Flughafen geschlossen bleiben musste.",
+      "translated_text": "This was already the second day in a row that the airport had to remain closed."
+    },
+    {
+      "text": "Die Meteorologen warnten vor gefährlichen Straßenverhältnissen in Berlin und Brandenburg.",
+      "translated_text": "Meteorologists warned of dangerous road conditions in Berlin and Brandenburg."
+    },
+    {
+      "text": "Viele Bereiche in Berlin sind noch immer mit Glatteis bedeckt.",
+      "translated_text": "Many areas in Berlin are still covered with black ice."
+    },
+    {
+      "text": "Die Stadtreinigung bietet kostenloses Streugut für Menschen an, die es selbst abholen.",
+      "translated_text": "The city cleaning service offers free grit for people who collect it themselves."
+    },
+    {
+      "text": "Auch für Samstagnacht, den 7. Februar, werden Nebel und Eis erwartet.",
+      "translated_text": "Fog and ice are also expected for Saturday night, February 7."
+    },
+    {
+      "text": "Dies könnte die Situation am Flughafen erneut komplizieren.",
+      "translated_text": "This could complicate the situation at the airport again."
+    },
+    {
+      "text": "Die Passagiere werden gebeten, ihre Fluggesellschaften zu kontaktieren, bevor sie zum Flughafen fahren.",
+      "translated_text": "Passengers are asked to contact their airlines before traveling to the airport."
+    },
+    {
+      "text": "Die Sicherheit der Fluggäste und des Personals hat oberste Priorität.",
+      "translated_text": "The safety of passengers and staff has top priority."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Flughafen",
+      "translated_term": "airport",
+      "example_usage": "Der Flughafen Berlin-Brandenburg hat am Freitag alle Flugoperationen eingestellt."
+    },
+    {
+      "term": "das Glatteis",
+      "translated_term": "black ice",
+      "example_usage": "Der Flughafen hat alle Flugoperationen wegen gefährlichem Glatteis eingestellt."
+    },
+    {
+      "term": "einstellen",
+      "translated_term": "to suspend, to stop",
+      "example_usage": "Der Flughafen hat alle Flugoperationen eingestellt."
+    },
+    {
+      "term": "die Landebahn",
+      "translated_term": "runway",
+      "example_usage": "Eisiger Regen hatte die Landebahnen extrem rutschig gemacht."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel",
+      "example_usage": "Über 150 Flüge wurden gestrichen."
+    },
+    {
+      "term": "rutschig",
+      "translated_term": "slippery",
+      "example_usage": "Die Landebahnen waren extrem rutschig."
+    },
+    {
+      "term": "der Meteorologe",
+      "translated_term": "meteorologist",
+      "example_usage": "Die Meteorologen warnten vor gefährlichen Straßenverhältnissen."
+    },
+    {
+      "term": "warnen vor",
+      "translated_term": "to warn of",
+      "example_usage": "Die Meteorologen warnten vor gefährlichen Straßenverhältnissen."
+    },
+    {
+      "term": "die Stadtreinigung",
+      "translated_term": "city cleaning service",
+      "example_usage": "Die Stadtreinigung bietet kostenloses Streugut an."
+    },
+    {
+      "term": "das Streugut",
+      "translated_term": "grit (for icy roads)",
+      "example_usage": "Die Stadtreinigung bietet kostenloses Streugut für Menschen an, die es selbst abholen."
+    },
+    {
+      "term": "der Nebel",
+      "translated_term": "fog",
+      "example_usage": "Für Samstagnacht werden Nebel und Eis erwartet."
+    },
+    {
+      "term": "komplizieren",
+      "translated_term": "to complicate",
+      "example_usage": "Dies könnte die Situation am Flughafen erneut komplizieren."
+    },
+    {
+      "term": "die Sicherheit",
+      "translated_term": "safety",
+      "example_usage": "Die Sicherheit der Fluggäste und des Personals hat oberste Priorität."
+    },
+    {
+      "term": "oberste Priorität",
+      "translated_term": "top priority",
+      "example_usage": "Die Sicherheit hat oberste Priorität."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    }
+  ],
+  "sources": [
+    {
+      "name": "UNN - Collapse in Germany: Berlin airport closed",
+      "link_url": "https://unn.ua/en/news/collapse-in-germany-berlin-airport-closed-due-to-freezing-rain-and-black-ice-railway-connections-disrupted"
+    },
+    {
+      "name": "Izvestia - Ice and freezing rain paralyzed Berlin airport",
+      "link_url": "https://en.iz.ru/en/2038107/2026-02-06/ice-and-freezing-rain-paralyzed-operation-berlin-airport"
+    },
+    {
+      "name": "Azat TV - Berlin Brandenburg Airport Suspends Flights",
+      "link_url": "https://azat.tv/en/berlin-brandenburg-airport-flights-suspended-second-day/"
+    }
+  ]
+}

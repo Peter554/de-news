@@ -1,0 +1,143 @@
+{
+  "title": "Deutsche Fabrikaufträge steigen unerwartet stark",
+  "translated_title": "German factory orders rise unexpectedly strong",
+  "text": [
+    {
+      "text": "Die deutsche Wirtschaft hat im Dezember eine positive Überraschung erlebt.",
+      "translated_text": "The German economy experienced a positive surprise in December."
+    },
+    {
+      "text": "Die Aufträge an deutsche Fabriken stiegen um 7,8 Prozent, das schnellste Wachstum seit zwei Jahren.",
+      "translated_text": "Orders to German factories increased by 7.8 percent, the fastest growth in two years."
+    },
+    {
+      "text": "Die Experten hatten nur einen Rückgang von 2,2 Prozent erwartet.",
+      "translated_text": "Experts had only expected a decline of 2.2 percent."
+    },
+    {
+      "text": "Dies war bereits der fünfte monatliche Anstieg in Folge.",
+      "translated_text": "This was already the fifth monthly increase in a row."
+    },
+    {
+      "text": "Die guten Zahlen zeigen, dass die deutsche Industrie möglicherweise eine Erholung beginnt.",
+      "translated_text": "The good numbers show that German industry may be beginning a recovery."
+    },
+    {
+      "text": "Besonders stark war die Nachfrage nach Investitionsgütern wie Maschinen und Anlagen.",
+      "translated_text": "Demand for capital goods such as machinery and equipment was particularly strong."
+    },
+    {
+      "text": "Auch die Auslandsaufträge trugen zum Wachstum bei.",
+      "translated_text": "Foreign orders also contributed to the growth."
+    },
+    {
+      "text": "Die Daten wurden am 5. Februar veröffentlicht und haben die Märkte positiv überrascht.",
+      "translated_text": "The data was published on February 5 and positively surprised the markets."
+    },
+    {
+      "text": "Viele Ökonomen sehen dies als hoffnungsvolles Zeichen für die deutsche Wirtschaft.",
+      "translated_text": "Many economists see this as a hopeful sign for the German economy."
+    },
+    {
+      "text": "Deutschland kämpft seit Monaten mit wirtschaftlichen Herausforderungen, aber diese Zahlen geben Grund zur Hoffnung.",
+      "translated_text": "Germany has been struggling with economic challenges for months, but these numbers give reason for hope."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Fabrik",
+      "translated_term": "factory",
+      "example_usage": "Die Aufträge an deutsche Fabriken stiegen um 7,8 Prozent."
+    },
+    {
+      "term": "der Auftrag",
+      "translated_term": "order",
+      "example_usage": "Die Aufträge an deutsche Fabriken stiegen um 7,8 Prozent."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise, to increase",
+      "example_usage": "Die Aufträge stiegen um 7,8 Prozent."
+    },
+    {
+      "term": "unerwartet",
+      "translated_term": "unexpected, unexpectedly",
+      "example_usage": "Die Fabrikaufträge steigen unerwartet stark."
+    },
+    {
+      "term": "die Wirtschaft",
+      "translated_term": "economy",
+      "example_usage": "Die deutsche Wirtschaft hat im Dezember eine positive Überraschung erlebt."
+    },
+    {
+      "term": "das Wachstum",
+      "translated_term": "growth",
+      "example_usage": "Dies war das schnellste Wachstum seit zwei Jahren."
+    },
+    {
+      "term": "der Rückgang",
+      "translated_term": "decline, decrease",
+      "example_usage": "Die Experten hatten einen Rückgang von 2,2 Prozent erwartet."
+    },
+    {
+      "term": "in Folge",
+      "translated_term": "in a row, consecutive",
+      "example_usage": "Dies war der fünfte monatliche Anstieg in Folge."
+    },
+    {
+      "term": "die Erholung",
+      "translated_term": "recovery",
+      "example_usage": "Die deutsche Industrie beginnt möglicherweise eine Erholung."
+    },
+    {
+      "term": "das Investitionsgut",
+      "translated_term": "capital good",
+      "example_usage": "Besonders stark war die Nachfrage nach Investitionsgütern."
+    },
+    {
+      "term": "die Nachfrage",
+      "translated_term": "demand",
+      "example_usage": "Die Nachfrage nach Investitionsgütern war besonders stark."
+    },
+    {
+      "term": "beitragen zu",
+      "translated_term": "to contribute to",
+      "example_usage": "Auch die Auslandsaufträge trugen zum Wachstum bei."
+    },
+    {
+      "term": "veröffentlichen",
+      "translated_term": "to publish",
+      "example_usage": "Die Daten wurden am 5. Februar veröffentlicht."
+    },
+    {
+      "term": "hoffnungsvoll",
+      "translated_term": "hopeful",
+      "example_usage": "Viele Ökonomen sehen dies als hoffnungsvolles Zeichen."
+    },
+    {
+      "term": "kämpfen mit",
+      "translated_term": "to struggle with",
+      "example_usage": "Deutschland kämpft seit Monaten mit wirtschaftlichen Herausforderungen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg - German Factory Orders Unexpectedly Rise",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-02-05/german-factory-orders-unexpectedly-rise-most-in-two-years"
+    }
+  ]
+}
