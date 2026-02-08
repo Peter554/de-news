@@ -1,0 +1,140 @@
+{
+  "title": "Großbritannien investiert 800 Millionen in lokale Gemeinden",
+  "translated_title": "Great Britain invests 800 million in local communities",
+  "text": [
+    {
+      "text": "Die britische Regierung hat ein neues Programm angekündigt.",
+      "translated_text": "The British government has announced a new program."
+    },
+    {
+      "text": "Es heißt 'Pride in Place' und soll lokale Gemeinden unterstützen.",
+      "translated_text": "It is called 'Pride in Place' and aims to support local communities."
+    },
+    {
+      "text": "Das Programm hat ein Budget von 800 Millionen Pfund.",
+      "translated_text": "The program has a budget of 800 million pounds."
+    },
+    {
+      "text": "40 neue Gebiete in England können daran teilnehmen.",
+      "translated_text": "40 new areas in England can participate in it."
+    },
+    {
+      "text": "Jedes Gebiet bekommt 20 Millionen Pfund.",
+      "translated_text": "Each area receives 20 million pounds."
+    },
+    {
+      "text": "Die Menschen vor Ort können selbst entscheiden, wie das Geld verwendet wird.",
+      "translated_text": "The people on site can decide for themselves how the money is used."
+    },
+    {
+      "text": "Sie können ihre Einkaufsstraßen renovieren oder Gemeinschaftsräume wiederherstellen.",
+      "translated_text": "They can renovate their high streets or restore community spaces."
+    },
+    {
+      "text": "Auch lokale Veranstaltungen können organisiert werden.",
+      "translated_text": "Local events can also be organized."
+    },
+    {
+      "text": "Das Programm wurde am 6. Februar 2026 bekannt gegeben.",
+      "translated_text": "The program was announced on February 6, 2026."
+    },
+    {
+      "text": "Die Regierung will damit das Leben in den Gemeinden verbessern.",
+      "translated_text": "The government wants to improve life in communities with this."
+    },
+    {
+      "text": "Viele kleine Städte und Dörfer haben wirtschaftliche Probleme.",
+      "translated_text": "Many small towns and villages have economic problems."
+    },
+    {
+      "text": "Das Geld soll helfen, diese Probleme zu lösen.",
+      "translated_text": "The money is intended to help solve these problems."
+    },
+    {
+      "text": "Die Initiative zeigt, dass die Regierung auf lokale Bedürfnisse hört.",
+      "translated_text": "The initiative shows that the government is listening to local needs."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Die britische Regierung hat ein neues Programm angekündigt."
+    },
+    {
+      "term": "unterstützen",
+      "translated_term": "to support",
+      "example_usage": "Es heißt 'Pride in Place' und soll lokale Gemeinden unterstützen."
+    },
+    {
+      "term": "die Gemeinde",
+      "translated_term": "community, municipality",
+      "example_usage": "Es heißt 'Pride in Place' und soll lokale Gemeinden unterstützen."
+    },
+    {
+      "term": "das Budget",
+      "translated_term": "budget",
+      "example_usage": "Das Programm hat ein Budget von 800 Millionen Pfund."
+    },
+    {
+      "term": "das Gebiet",
+      "translated_term": "area, region",
+      "example_usage": "40 neue Gebiete in England können daran teilnehmen."
+    },
+    {
+      "term": "teilnehmen",
+      "translated_term": "to participate",
+      "example_usage": "40 neue Gebiete in England können daran teilnehmen."
+    },
+    {
+      "term": "entscheiden",
+      "translated_term": "to decide",
+      "example_usage": "Die Menschen vor Ort können selbst entscheiden, wie das Geld verwendet wird."
+    },
+    {
+      "term": "die Einkaufsstraße",
+      "translated_term": "high street, shopping street",
+      "example_usage": "Sie können ihre Einkaufsstraßen renovieren oder Gemeinschaftsräume wiederherstellen."
+    },
+    {
+      "term": "renovieren",
+      "translated_term": "to renovate",
+      "example_usage": "Sie können ihre Einkaufsstraßen renovieren oder Gemeinschaftsräume wiederherstellen."
+    },
+    {
+      "term": "der Gemeinschaftsraum",
+      "translated_term": "community space",
+      "example_usage": "Sie können ihre Einkaufsstraßen renovieren oder Gemeinschaftsräume wiederherstellen."
+    },
+    {
+      "term": "verbessern",
+      "translated_term": "to improve",
+      "example_usage": "Die Regierung will damit das Leben in den Gemeinden verbessern."
+    },
+    {
+      "term": "das Bedürfnis",
+      "translated_term": "need",
+      "example_usage": "Die Initiative zeigt, dass die Regierung auf lokale Bedürfnisse hört."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Sozialpolitik",
+      "translated_name": "Social Policy"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "MHCLG",
+      "link_url": "https://mhclgmedia.blog.gov.uk/2026/02/06/coverage-of-pride-in-place-expansion-announcement/"
+    }
+  ]
+}

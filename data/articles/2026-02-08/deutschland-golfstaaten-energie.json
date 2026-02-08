@@ -1,0 +1,153 @@
+{
+  "title": "Deutschland sucht Energiepartner am Golf",
+  "translated_title": "Germany seeks energy partners in the Gulf",
+  "text": [
+    {
+      "text": "Bundeskanzler Friedrich Merz besucht die Golfstaaten.",
+      "translated_text": "Chancellor Friedrich Merz is visiting the Gulf states."
+    },
+    {
+      "text": "Er will neue Partnerschaften im Energiebereich aufbauen.",
+      "translated_text": "He wants to build new partnerships in the energy sector."
+    },
+    {
+      "text": "Deutschland möchte unabhängiger von China und den USA werden.",
+      "translated_text": "Germany wants to become more independent from China and the USA."
+    },
+    {
+      "text": "Merz traf sich in Katar mit dem Emir des Landes.",
+      "translated_text": "Merz met with the country's Emir in Qatar."
+    },
+    {
+      "text": "Er besuchte auch Saudi-Arabien und die Vereinigten Arabischen Emirate.",
+      "translated_text": "He also visited Saudi Arabia and the United Arab Emirates."
+    },
+    {
+      "text": "Die Golfstaaten sind wichtige Energielieferanten.",
+      "translated_text": "The Gulf states are important energy suppliers."
+    },
+    {
+      "text": "Sie haben viel Öl und Gas.",
+      "translated_text": "They have a lot of oil and gas."
+    },
+    {
+      "text": "Deutschland braucht diese Energie für seine Wirtschaft.",
+      "translated_text": "Germany needs this energy for its economy."
+    },
+    {
+      "text": "Früher hat Deutschland viel Energie aus Russland bekommen.",
+      "translated_text": "Previously, Germany received a lot of energy from Russia."
+    },
+    {
+      "text": "Jetzt sucht das Land neue Quellen.",
+      "translated_text": "Now the country is looking for new sources."
+    },
+    {
+      "text": "Die Golfregion kann Deutschland helfen, seine Energieprobleme zu lösen.",
+      "translated_text": "The Gulf region can help Germany solve its energy problems."
+    },
+    {
+      "text": "Beide Seiten hoffen auf eine langfristige Zusammenarbeit.",
+      "translated_text": "Both sides hope for long-term cooperation."
+    },
+    {
+      "text": "Deutschland bietet den Golfstaaten auch Geschäftsmöglichkeiten an.",
+      "translated_text": "Germany also offers the Gulf states business opportunities."
+    },
+    {
+      "text": "Die Gespräche sind Teil von Deutschlands neuer Außenpolitik.",
+      "translated_text": "The talks are part of Germany's new foreign policy."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Golfstaaten",
+      "translated_term": "Gulf states",
+      "example_usage": "Bundeskanzler Friedrich Merz besucht die Golfstaaten."
+    },
+    {
+      "term": "die Partnerschaft",
+      "translated_term": "partnership",
+      "example_usage": "Er will neue Partnerschaften im Energiebereich aufbauen."
+    },
+    {
+      "term": "aufbauen",
+      "translated_term": "to build, to establish",
+      "example_usage": "Er will neue Partnerschaften im Energiebereich aufbauen."
+    },
+    {
+      "term": "unabhängig",
+      "translated_term": "independent",
+      "example_usage": "Deutschland möchte unabhängiger von China und den USA werden."
+    },
+    {
+      "term": "der Energielieferant",
+      "translated_term": "energy supplier",
+      "example_usage": "Die Golfstaaten sind wichtige Energielieferanten."
+    },
+    {
+      "term": "das Öl",
+      "translated_term": "oil",
+      "example_usage": "Sie haben viel Öl und Gas."
+    },
+    {
+      "term": "das Gas",
+      "translated_term": "gas",
+      "example_usage": "Sie haben viel Öl und Gas."
+    },
+    {
+      "term": "die Quelle",
+      "translated_term": "source",
+      "example_usage": "Jetzt sucht das Land neue Quellen."
+    },
+    {
+      "term": "lösen",
+      "translated_term": "to solve",
+      "example_usage": "Die Golfregion kann Deutschland helfen, seine Energieprobleme zu lösen."
+    },
+    {
+      "term": "langfristig",
+      "translated_term": "long-term",
+      "example_usage": "Beide Seiten hoffen auf eine langfristige Zusammenarbeit."
+    },
+    {
+      "term": "die Zusammenarbeit",
+      "translated_term": "cooperation",
+      "example_usage": "Beide Seiten hoffen auf eine langfristige Zusammenarbeit."
+    },
+    {
+      "term": "die Geschäftsmöglichkeit",
+      "translated_term": "business opportunity",
+      "example_usage": "Deutschland bietet den Golfstaaten auch Geschäftsmöglichkeiten an."
+    },
+    {
+      "term": "die Außenpolitik",
+      "translated_term": "foreign policy",
+      "example_usage": "Die Gespräche sind Teil von Deutschlands neuer Außenpolitik."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Energiepolitik",
+      "translated_name": "Energy Policy"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al-Monitor",
+      "link_url": "https://www.al-monitor.com/originals/2026/02/merz-courts-gulf-germany-seeks-energy-alternatives-us-china"
+    },
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2026/2/5/germanys-merz-warns-of-potential-escalation-as-us-iran-prepare-for-talks"
+    }
+  ]
+}
