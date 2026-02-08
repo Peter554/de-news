@@ -1,0 +1,140 @@
+{
+  "title": "Arbeitslosigkeit in Deutschland steigt auf über 3 Millionen",
+  "translated_title": "Unemployment in Germany rises to over 3 million",
+  "text": [
+    {
+      "text": "Die Arbeitslosigkeit in Deutschland hat einen neuen Höchststand erreicht.",
+      "translated_text": "Unemployment in Germany has reached a new high."
+    },
+    {
+      "text": "Im Januar 2026 waren mehr als 3 Millionen Menschen ohne Arbeit.",
+      "translated_text": "In January 2026, more than 3 million people were unemployed."
+    },
+    {
+      "text": "Das sind 177.000 Menschen mehr als im Dezember.",
+      "translated_text": "That is 177,000 more people than in December."
+    },
+    {
+      "text": "Die Arbeitslosenquote stieg auf 6,6 Prozent.",
+      "translated_text": "The unemployment rate rose to 6.6 percent."
+    },
+    {
+      "text": "Das ist der höchste Stand seit 12 Jahren.",
+      "translated_text": "This is the highest level in 12 years."
+    },
+    {
+      "text": "Bundeskanzler Friedrich Merz von der CDU hat gesagt, dass die Wirtschaft sein Hauptthema im Jahr 2026 sein wird.",
+      "translated_text": "Chancellor Friedrich Merz of the CDU has said that the economy will be his main priority in 2026."
+    },
+    {
+      "text": "Die Zahlen vom Arbeitsamt zeigen die Probleme der deutschen Wirtschaft.",
+      "translated_text": "The figures from the employment office show the problems of the German economy."
+    },
+    {
+      "text": "Deutschland hatte in den letzten Jahren eine wirtschaftliche Stagnation.",
+      "translated_text": "Germany has experienced economic stagnation in recent years."
+    },
+    {
+      "text": "Experten sagen, dass die Arbeitslosigkeit noch weiter steigen könnte.",
+      "translated_text": "Experts say that unemployment could rise even further."
+    },
+    {
+      "text": "Die Regierung plant ein großes Investitionsprogramm von 500 Milliarden Euro.",
+      "translated_text": "The government is planning a major investment program of 500 billion euros."
+    },
+    {
+      "text": "Das Geld soll in Verkehr, Digitalisierung, Klimaschutz und Sicherheit investiert werden.",
+      "translated_text": "The money is to be invested in transport, digitization, climate protection and security."
+    },
+    {
+      "text": "Wirtschaftsexperten erwarten für 2026 ein Wachstum von 1,2 bis 1,4 Prozent.",
+      "translated_text": "Economic experts expect growth of 1.2 to 1.4 percent for 2026."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Arbeitslosigkeit",
+      "translated_term": "unemployment",
+      "example_usage": "Die Arbeitslosigkeit in Deutschland hat einen neuen Höchststand erreicht."
+    },
+    {
+      "term": "der Höchststand",
+      "translated_term": "peak, highest level",
+      "example_usage": "Die Arbeitslosigkeit in Deutschland hat einen neuen Höchststand erreicht."
+    },
+    {
+      "term": "die Arbeitslosenquote",
+      "translated_term": "unemployment rate",
+      "example_usage": "Die Arbeitslosenquote stieg auf 6,6 Prozent."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise, to increase",
+      "example_usage": "Die Arbeitslosenquote stieg auf 6,6 Prozent."
+    },
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "Federal Chancellor",
+      "example_usage": "Bundeskanzler Friedrich Merz von der CDU hat gesagt, dass die Wirtschaft sein Hauptthema im Jahr 2026 sein wird."
+    },
+    {
+      "term": "die Wirtschaft",
+      "translated_term": "economy",
+      "example_usage": "Bundeskanzler Friedrich Merz von der CDU hat gesagt, dass die Wirtschaft sein Hauptthema im Jahr 2026 sein wird."
+    },
+    {
+      "term": "das Arbeitsamt",
+      "translated_term": "employment office, job center",
+      "example_usage": "Die Zahlen vom Arbeitsamt zeigen die Probleme der deutschen Wirtschaft."
+    },
+    {
+      "term": "die Stagnation",
+      "translated_term": "stagnation",
+      "example_usage": "Deutschland hatte in den letzten Jahren eine wirtschaftliche Stagnation."
+    },
+    {
+      "term": "das Investitionsprogramm",
+      "translated_term": "investment program",
+      "example_usage": "Die Regierung plant ein großes Investitionsprogramm von 500 Milliarden Euro."
+    },
+    {
+      "term": "die Digitalisierung",
+      "translated_term": "digitization",
+      "example_usage": "Das Geld soll in Verkehr, Digitalisierung, Klimaschutz und Sicherheit investiert werden."
+    },
+    {
+      "term": "der Klimaschutz",
+      "translated_term": "climate protection",
+      "example_usage": "Das Geld soll in Verkehr, Digitalisierung, Klimaschutz und Sicherheit investiert werden."
+    },
+    {
+      "term": "das Wachstum",
+      "translated_term": "growth",
+      "example_usage": "Wirtschaftsexperten erwarten für 2026 ein Wachstum von 1,2 bis 1,4 Prozent."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "TASS",
+      "link_url": "https://tass.com/world/2067369"
+    },
+    {
+      "name": "The Local",
+      "link_url": "https://www.thelocal.de/20260203/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-109"
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "title": "Deutsche Bahn hat große Pünktlichkeitsprobleme",
+  "translated_title": "Deutsche Bahn has major punctuality problems",
+  "text": [
+    {
+      "text": "Die Deutsche Bahn hat im Januar 2026 sehr schlecht abgeschnitten.",
+      "translated_text": "Deutsche Bahn performed very poorly in January 2026."
+    },
+    {
+      "text": "Nur 52 Prozent der Fernzüge kamen pünktlich an.",
+      "translated_text": "Only 52 percent of long-distance trains arrived on time."
+    },
+    {
+      "text": "Das bedeutet, dass fast die Hälfte aller Züge Verspätung hatte.",
+      "translated_text": "This means that almost half of all trains were delayed."
+    },
+    {
+      "text": "Die Zahlen kommen direkt vom Unternehmen.",
+      "translated_text": "The figures come directly from the company."
+    },
+    {
+      "text": "Viele Reisende sind sehr unzufrieden mit dem Service.",
+      "translated_text": "Many travelers are very dissatisfied with the service."
+    },
+    {
+      "text": "Die Probleme betreffen vor allem die Intercity-Züge.",
+      "translated_text": "The problems mainly affect intercity trains."
+    },
+    {
+      "text": "Das sind die wichtigsten Verbindungen zwischen großen Städten.",
+      "translated_text": "These are the most important connections between major cities."
+    },
+    {
+      "text": "Pendler und Geschäftsreisende leiden besonders unter den Verspätungen.",
+      "translated_text": "Commuters and business travelers suffer particularly from the delays."
+    },
+    {
+      "text": "Die Deutsche Bahn ist das staatliche Eisenbahnunternehmen Deutschlands.",
+      "translated_text": "Deutsche Bahn is Germany's state-owned railway company."
+    },
+    {
+      "text": "Es gibt viele Gründe für die Verspätungen.",
+      "translated_text": "There are many reasons for the delays."
+    },
+    {
+      "text": "Alte Infrastruktur und zu wenig Personal sind die Hauptprobleme.",
+      "translated_text": "Old infrastructure and too few staff are the main problems."
+    },
+    {
+      "text": "Die Regierung muss mehr in das Bahnnetz investieren.",
+      "translated_text": "The government must invest more in the railway network."
+    },
+    {
+      "text": "Experten fordern schnelle Verbesserungen.",
+      "translated_text": "Experts are calling for rapid improvements."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Pünktlichkeit",
+      "translated_term": "punctuality",
+      "example_usage": "Die Deutsche Bahn hat große Pünktlichkeitsprobleme."
+    },
+    {
+      "term": "abschneiden",
+      "translated_term": "to perform, to do",
+      "example_usage": "Die Deutsche Bahn hat im Januar 2026 sehr schlecht abgeschnitten."
+    },
+    {
+      "term": "der Fernzug",
+      "translated_term": "long-distance train",
+      "example_usage": "Nur 52 Prozent der Fernzüge kamen pünktlich an."
+    },
+    {
+      "term": "pünktlich",
+      "translated_term": "on time, punctual",
+      "example_usage": "Nur 52 Prozent der Fernzüge kamen pünktlich an."
+    },
+    {
+      "term": "die Verspätung",
+      "translated_term": "delay",
+      "example_usage": "Das bedeutet, dass fast die Hälfte aller Züge Verspätung hatte."
+    },
+    {
+      "term": "der Reisende",
+      "translated_term": "traveler",
+      "example_usage": "Viele Reisende sind sehr unzufrieden mit dem Service."
+    },
+    {
+      "term": "unzufrieden",
+      "translated_term": "dissatisfied, unhappy",
+      "example_usage": "Viele Reisende sind sehr unzufrieden mit dem Service."
+    },
+    {
+      "term": "die Verbindung",
+      "translated_term": "connection",
+      "example_usage": "Das sind die wichtigsten Verbindungen zwischen großen Städten."
+    },
+    {
+      "term": "der Pendler",
+      "translated_term": "commuter",
+      "example_usage": "Pendler und Geschäftsreisende leiden besonders unter den Verspätungen."
+    },
+    {
+      "term": "leiden",
+      "translated_term": "to suffer",
+      "example_usage": "Pendler und Geschäftsreisende leiden besonders unter den Verspätungen."
+    },
+    {
+      "term": "das Eisenbahnunternehmen",
+      "translated_term": "railway company",
+      "example_usage": "Die Deutsche Bahn ist das staatliche Eisenbahnunternehmen Deutschlands."
+    },
+    {
+      "term": "das Personal",
+      "translated_term": "staff, personnel",
+      "example_usage": "Alte Infrastruktur und zu wenig Personal sind die Hauptprobleme."
+    },
+    {
+      "term": "das Bahnnetz",
+      "translated_term": "railway network",
+      "example_usage": "Die Regierung muss mehr in das Bahnnetz investieren."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local",
+      "link_url": "https://www.thelocal.de/20260203/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-109"
+    }
+  ]
+}
