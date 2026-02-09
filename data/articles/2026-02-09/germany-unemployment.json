@@ -1,0 +1,164 @@
+{
+  "title": "Deutsche Arbeitslosigkeit erreicht Zwölf-Jahres-Hoch",
+  "translated_title": "German Unemployment Reaches Twelve-Year High",
+  "text": [
+    {
+      "text": "Deutschland steht vor wirtschaftlichen Herausforderungen.",
+      "translated_text": "Germany faces economic challenges."
+    },
+    {
+      "text": "Die Arbeitslosenzahl ist auf über drei Millionen Menschen gestiegen.",
+      "translated_text": "The unemployment figure has risen to over three million people."
+    },
+    {
+      "text": "Das ist der höchste Stand seit zwölf Jahren.",
+      "translated_text": "This is the highest level in twelve years."
+    },
+    {
+      "text": "Bundeskanzler Friedrich Merz reagierte auf diese beunruhigenden Zahlen.",
+      "translated_text": "Federal Chancellor Friedrich Merz responded to these worrying figures."
+    },
+    {
+      "text": "Er kündigte an, dass die Stärkung der Wirtschaft seine Priorität für 2026 sei.",
+      "translated_text": "He announced that strengthening the economy would be his priority for 2026."
+    },
+    {
+      "text": "Die deutsche Wirtschaft wächst nur langsam.",
+      "translated_text": "The German economy is growing only slowly."
+    },
+    {
+      "text": "Die Regierung musste ihre Wachstumsprognose für dieses Jahr senken.",
+      "translated_text": "The government had to lower its growth forecast for this year."
+    },
+    {
+      "text": "Experten erwarten jetzt nur noch ein Wachstum von einem Prozent.",
+      "translated_text": "Experts now expect growth of only one percent."
+    },
+    {
+      "text": "Das ist weniger als zuvor gedacht.",
+      "translated_text": "This is less than previously thought."
+    },
+    {
+      "text": "Um die Wirtschaft anzukurbeln, plant die Regierung große Investitionen.",
+      "translated_text": "To stimulate the economy, the government is planning major investments."
+    },
+    {
+      "text": "Ein Investitionsprogramm über 500 Milliarden Euro wurde angekündigt.",
+      "translated_text": "An investment program of 500 billion euros was announced."
+    },
+    {
+      "text": "Das Geld soll in verschiedene Bereiche fließen.",
+      "translated_text": "The money should flow into various areas."
+    },
+    {
+      "text": "Wichtig sind Investitionen in Verkehrsnetze und Digitalisierung.",
+      "translated_text": "Investments in transport networks and digitalization are important."
+    },
+    {
+      "text": "Auch Klimaschutz und Sicherheit sollen gefördert werden.",
+      "translated_text": "Climate protection and security should also be promoted."
+    },
+    {
+      "text": "Die Regierung hofft, dass diese Maßnahmen neue Arbeitsplätze schaffen.",
+      "translated_text": "The government hopes that these measures will create new jobs."
+    },
+    {
+      "text": "Viele Deutsche sind besorgt über ihre finanzielle Zukunft.",
+      "translated_text": "Many Germans are worried about their financial future."
+    },
+    {
+      "text": "Die hohe Arbeitslosigkeit belastet Familien und die Sozialsysteme.",
+      "translated_text": "The high unemployment burdens families and social systems."
+    },
+    {
+      "text": "Es wird einige Zeit dauern, bis die Wirtschaft wieder Fahrt aufnimmt.",
+      "translated_text": "It will take some time before the economy picks up speed again."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Arbeitslosigkeit",
+      "translated_term": "unemployment",
+      "example_usage": "Deutsche Arbeitslosigkeit erreicht Zwölf-Jahres-Hoch."
+    },
+    {
+      "term": "die Herausforderung",
+      "translated_term": "challenge",
+      "example_usage": "Deutschland steht vor wirtschaftlichen Herausforderungen."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise / to increase",
+      "example_usage": "Die Arbeitslosenzahl ist auf über drei Millionen Menschen gestiegen."
+    },
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "Federal Chancellor",
+      "example_usage": "Bundeskanzler Friedrich Merz reagierte auf diese beunruhigenden Zahlen."
+    },
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Er kündigte an, dass die Stärkung der Wirtschaft seine Priorität für 2026 sei."
+    },
+    {
+      "term": "die Wachstumsprognose",
+      "translated_term": "growth forecast",
+      "example_usage": "Die Regierung musste ihre Wachstumsprognose für dieses Jahr senken."
+    },
+    {
+      "term": "senken",
+      "translated_term": "to lower / to reduce",
+      "example_usage": "Die Regierung musste ihre Wachstumsprognose für dieses Jahr senken."
+    },
+    {
+      "term": "ankurbeln",
+      "translated_term": "to stimulate / to boost",
+      "example_usage": "Um die Wirtschaft anzukurbeln, plant die Regierung große Investitionen."
+    },
+    {
+      "term": "die Digitalisierung",
+      "translated_term": "digitalization",
+      "example_usage": "Wichtig sind Investitionen in Verkehrsnetze und Digitalisierung."
+    },
+    {
+      "term": "fördern",
+      "translated_term": "to promote / to support",
+      "example_usage": "Auch Klimaschutz und Sicherheit sollen gefördert werden."
+    },
+    {
+      "term": "belasten",
+      "translated_term": "to burden / to strain",
+      "example_usage": "Die hohe Arbeitslosigkeit belastet Familien und die Sozialsysteme."
+    },
+    {
+      "term": "Fahrt aufnehmen",
+      "translated_term": "to pick up speed / to gain momentum",
+      "example_usage": "Es wird einige Zeit dauern, bis die Wirtschaft wieder Fahrt aufnimmt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ABC News - Germany Trims Growth Forecast",
+      "link_url": "https://abcnews.go.com/Business/wireStory/germany-trims-years-growth-forecast-1-economy-slow-129633098"
+    },
+    {
+      "name": "The Left Berlin - News from Berlin and Germany",
+      "link_url": "https://theleftberlin.com/news-from-berlin-and-germany-4th-february-2026/"
+    }
+  ]
+}

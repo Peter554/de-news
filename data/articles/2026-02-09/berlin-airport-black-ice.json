@@ -1,0 +1,164 @@
+{
+  "title": "Eisregen legt Berliner Flughafen lahm",
+  "translated_title": "Freezing Rain Paralyzes Berlin Airport",
+  "text": [
+    {
+      "text": "Der Berliner Flughafen BER hatte Anfang Februar große Probleme.",
+      "translated_text": "Berlin's BER Airport had major problems at the beginning of February."
+    },
+    {
+      "text": "Eisregen und Glätte zwangen die Betreiber, den Flugverkehr einzustellen.",
+      "translated_text": "Freezing rain and black ice forced the operators to halt air traffic."
+    },
+    {
+      "text": "An zwei Tagen hintereinander mussten alle Flüge gestrichen werden.",
+      "translated_text": "For two days in a row, all flights had to be cancelled."
+    },
+    {
+      "text": "Mehr als 190 Flüge fielen innerhalb von 24 Stunden aus.",
+      "translated_text": "More than 190 flights were cancelled within 24 hours."
+    },
+    {
+      "text": "Das Flugfeld war durch das Glatteis zu gefährlich für Starts und Landungen.",
+      "translated_text": "The airfield was too dangerous for takeoffs and landings due to the black ice."
+    },
+    {
+      "text": "Der Deutsche Wetterdienst hatte vor extremen Wetterbedingungen gewarnt.",
+      "translated_text": "The German Weather Service had warned of extreme weather conditions."
+    },
+    {
+      "text": "Die Behörden sprachen sogar von Lebensgefahr durch die glatten Straßen.",
+      "translated_text": "The authorities even spoke of danger to life from the slippery roads."
+    },
+    {
+      "text": "Viele Berliner rutschten aus und mussten ins Krankenhaus gebracht werden.",
+      "translated_text": "Many Berliners slipped and had to be taken to hospital."
+    },
+    {
+      "text": "Die Unfallklinik in Berlin verzeichnete einen starken Anstieg der Patienten.",
+      "translated_text": "The accident hospital in Berlin recorded a sharp increase in patients."
+    },
+    {
+      "text": "Nicht nur der Flughafen war betroffen.",
+      "translated_text": "Not only the airport was affected."
+    },
+    {
+      "text": "Auch auf den Straßen in Berlin und Brandenburg kam es zu vielen Unfällen.",
+      "translated_text": "There were also many accidents on the roads in Berlin and Brandenburg."
+    },
+    {
+      "text": "Die Verkehrsinformationszentrale riet den Menschen, zu Hause zu bleiben.",
+      "translated_text": "The traffic information center advised people to stay at home."
+    },
+    {
+      "text": "Für Reisende war die Situation besonders schwierig.",
+      "translated_text": "The situation was particularly difficult for travelers."
+    },
+    {
+      "text": "Viele Passagiere strandeten am Flughafen und mussten auf ihre Flüge warten.",
+      "translated_text": "Many passengers were stranded at the airport and had to wait for their flights."
+    },
+    {
+      "text": "Die Fluggesellschaften versuchten, Alternativflüge anzubieten.",
+      "translated_text": "The airlines tried to offer alternative flights."
+    },
+    {
+      "text": "Nach einigen Tagen verbesserte sich das Wetter wieder.",
+      "translated_text": "After a few days, the weather improved again."
+    },
+    {
+      "text": "Der Flughafen BER konnte seinen normalen Betrieb wieder aufnehmen.",
+      "translated_text": "BER Airport was able to resume normal operations."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Eisregen",
+      "translated_term": "freezing rain",
+      "example_usage": "Eisregen und Glätte zwangen die Betreiber, den Flugverkehr einzustellen."
+    },
+    {
+      "term": "die Glätte",
+      "translated_term": "black ice / slippery conditions",
+      "example_usage": "Eisregen und Glätte zwangen die Betreiber, den Flugverkehr einzustellen."
+    },
+    {
+      "term": "lahmlegen",
+      "translated_term": "to paralyze / to bring to a halt",
+      "example_usage": "Eisregen legt Berliner Flughafen lahm."
+    },
+    {
+      "term": "der Betreiber",
+      "translated_term": "operator",
+      "example_usage": "Eisregen und Glätte zwangen die Betreiber, den Flugverkehr einzustellen."
+    },
+    {
+      "term": "einstellen",
+      "translated_term": "to halt / to stop",
+      "example_usage": "Eisregen und Glätte zwangen die Betreiber, den Flugverkehr einzustellen."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel",
+      "example_usage": "An zwei Tagen hintereinander mussten alle Flüge gestrichen werden."
+    },
+    {
+      "term": "das Glatteis",
+      "translated_term": "black ice",
+      "example_usage": "Das Flugfeld war durch das Glatteis zu gefährlich für Starts und Landungen."
+    },
+    {
+      "term": "warnen",
+      "translated_term": "to warn",
+      "example_usage": "Der Deutsche Wetterdienst hatte vor extremen Wetterbedingungen gewarnt."
+    },
+    {
+      "term": "ausrutschen",
+      "translated_term": "to slip",
+      "example_usage": "Viele Berliner rutschten aus und mussten ins Krankenhaus gebracht werden."
+    },
+    {
+      "term": "verzeichnen",
+      "translated_term": "to record / to register",
+      "example_usage": "Die Unfallklinik in Berlin verzeichnete einen starken Anstieg der Patienten."
+    },
+    {
+      "term": "stranden",
+      "translated_term": "to be stranded",
+      "example_usage": "Viele Passagiere strandeten am Flughafen und mussten auf ihre Flüge warten."
+    },
+    {
+      "term": "aufnehmen",
+      "translated_term": "to resume / to take up",
+      "example_usage": "Der Flughafen BER konnte seinen normalen Betrieb wieder aufnehmen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg - Berlin Airport Reopens After Black Ice",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-02-06/berlin-airport-closes-as-slick-ice-disrupts-transport-in-germany"
+    },
+    {
+      "name": "VisaHQ - Berlin's BER Airport Shuts Down",
+      "link_url": "https://www.visahq.com/news/2026-02-07/de/berlins-ber-airport-shuts-down-after-ice-storm-hundreds-of-flights-cancelled/"
+    },
+    {
+      "name": "VIZ Berlin - Glätte-Warnung",
+      "link_url": "https://viz.berlin.de/aktuelle-meldungen/glatteis-warnung-fur-berlin-und-brandenburg-am-05.02.2026/"
+    }
+  ]
+}

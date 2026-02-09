@@ -1,0 +1,160 @@
+{
+  "title": "Britisches Parlament fordert bessere Sozialwohnungen",
+  "translated_title": "British Parliament Demands Better Social Housing",
+  "text": [
+    {
+      "text": "Das britische Parlament hat am Montag einen wichtigen Bericht veröffentlicht.",
+      "translated_text": "The British Parliament published an important report on Monday."
+    },
+    {
+      "text": "Ein Ausschuss aus verschiedenen Parteien untersuchte den Zustand von Sozialwohnungen in England.",
+      "translated_text": "A cross-party committee examined the condition of social housing in England."
+    },
+    {
+      "text": "Die Ergebnisse sind besorgniserregend.",
+      "translated_text": "The results are alarming."
+    },
+    {
+      "text": "Viele Sozialwohnungen in England befinden sich in schlechtem Zustand.",
+      "translated_text": "Many social housing units in England are in poor condition."
+    },
+    {
+      "text": "Der Ausschuss stellte fest, dass die Verbesserungen fast zum Stillstand gekommen sind.",
+      "translated_text": "The committee found that improvements have almost ground to a halt."
+    },
+    {
+      "text": "Es gibt Mindeststandards für Wohnungen, die erfüllt werden müssen.",
+      "translated_text": "There are minimum standards for housing that must be met."
+    },
+    {
+      "text": "Doch viele Häuser erreichen diese Standards nicht.",
+      "translated_text": "However, many homes do not meet these standards."
+    },
+    {
+      "text": "Die Situation betrifft Millionen von Menschen in Großbritannien.",
+      "translated_text": "The situation affects millions of people in Great Britain."
+    },
+    {
+      "text": "Sozialwohnungen sind für einkommensschwache Familien sehr wichtig.",
+      "translated_text": "Social housing is very important for low-income families."
+    },
+    {
+      "text": "Diese Familien haben oft keine andere Möglichkeit, eine bezahlbare Unterkunft zu finden.",
+      "translated_text": "These families often have no other option to find affordable accommodation."
+    },
+    {
+      "text": "Der Bericht fordert die Regierung zum Handeln auf.",
+      "translated_text": "The report calls on the government to take action."
+    },
+    {
+      "text": "Es ist unbedingt notwendig, den Standard dieser Wohnungen zu erhöhen.",
+      "translated_text": "It is absolutely necessary to raise the standard of these homes."
+    },
+    {
+      "text": "Die Parlamentarier schlagen verschiedene Maßnahmen vor.",
+      "translated_text": "The parliamentarians propose various measures."
+    },
+    {
+      "text": "Mehr Geld soll in die Renovierung und Instandhaltung investiert werden.",
+      "translated_text": "More money should be invested in renovation and maintenance."
+    },
+    {
+      "text": "Am Montag debattierten die Abgeordneten auch über andere soziale Themen.",
+      "translated_text": "On Monday, the MPs also debated other social issues."
+    },
+    {
+      "text": "Sie diskutierten über Rentenerhöhungen und Sozialleistungen.",
+      "translated_text": "They discussed pension increases and social benefits."
+    },
+    {
+      "text": "Die britische Regierung muss nun auf diese Empfehlungen reagieren.",
+      "translated_text": "The British government must now respond to these recommendations."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Parlament",
+      "translated_term": "parliament",
+      "example_usage": "Das britische Parlament hat am Montag einen wichtigen Bericht veröffentlicht."
+    },
+    {
+      "term": "veröffentlichen",
+      "translated_term": "to publish",
+      "example_usage": "Das britische Parlament hat am Montag einen wichtigen Bericht veröffentlicht."
+    },
+    {
+      "term": "der Ausschuss",
+      "translated_term": "committee",
+      "example_usage": "Ein Ausschuss aus verschiedenen Parteien untersuchte den Zustand von Sozialwohnungen in England."
+    },
+    {
+      "term": "die Sozialwohnung",
+      "translated_term": "social housing",
+      "example_usage": "Ein Ausschuss aus verschiedenen Parteien untersuchte den Zustand von Sozialwohnungen in England."
+    },
+    {
+      "term": "besorgniserregend",
+      "translated_term": "alarming / concerning",
+      "example_usage": "Die Ergebnisse sind besorgniserregend."
+    },
+    {
+      "term": "der Stillstand",
+      "translated_term": "standstill / halt",
+      "example_usage": "Der Ausschuss stellte fest, dass die Verbesserungen fast zum Stillstand gekommen sind."
+    },
+    {
+      "term": "der Mindeststandard",
+      "translated_term": "minimum standard",
+      "example_usage": "Es gibt Mindeststandards für Wohnungen, die erfüllt werden müssen."
+    },
+    {
+      "term": "einkommensschwach",
+      "translated_term": "low-income",
+      "example_usage": "Sozialwohnungen sind für einkommensschwache Familien sehr wichtig."
+    },
+    {
+      "term": "die Unterkunft",
+      "translated_term": "accommodation",
+      "example_usage": "Diese Familien haben oft keine andere Möglichkeit, eine bezahlbare Unterkunft zu finden."
+    },
+    {
+      "term": "auffordern",
+      "translated_term": "to call on / to urge",
+      "example_usage": "Der Bericht fordert die Regierung zum Handeln auf."
+    },
+    {
+      "term": "die Instandhaltung",
+      "translated_term": "maintenance",
+      "example_usage": "Mehr Geld soll in die Renovierung und Instandhaltung investiert werden."
+    },
+    {
+      "term": "die Empfehlung",
+      "translated_term": "recommendation",
+      "example_usage": "Die britische Regierung muss nun auf diese Empfehlungen reagieren."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Sozialpolitik",
+      "translated_name": "Social Policy"
+    },
+    {
+      "name": "Wohnungskrise",
+      "translated_name": "Housing Crisis"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Hansard Society - Parliament Matters Bulletin",
+      "link_url": "https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-9-february-2026"
+    },
+    {
+      "name": "LabourList - Good News Stories",
+      "link_url": "https://labourlist.org/2026/02/good-news-9-february-2026/"
+    }
+  ]
+}
