@@ -1,0 +1,116 @@
+{
+  "title": "Berliner Flughafen nach Glatteis wieder geöffnet",
+  "translated_title": "Berlin Airport reopens after black ice",
+  "text": [
+    {
+      "text": "Der Flughafen Berlin Brandenburg musste am 6. Februar alle Flüge wegen Glatteis stoppen.",
+      "translated_text": "Berlin Brandenburg Airport had to stop all flights on February 6 due to black ice."
+    },
+    {
+      "text": "Starker Eisregen machte die Start- und Landebahnen sehr gefährlich.",
+      "translated_text": "Heavy freezing rain made the runways very dangerous."
+    },
+    {
+      "text": "Hunderte von Flügen wurden gestrichen oder verschoben.",
+      "translated_text": "Hundreds of flights were canceled or delayed."
+    },
+    {
+      "text": "Viele Passagiere mussten in Hotels übernachten oder nach Hause zurückkehren.",
+      "translated_text": "Many passengers had to stay in hotels or return home."
+    },
+    {
+      "text": "Der Flughafen öffnete am Freitag wieder, aber es gab noch viele Verspätungen.",
+      "translated_text": "The airport reopened on Friday, but there were still many delays."
+    },
+    {
+      "text": "Das Wetter in Berlin und Brandenburg bleibt kalt mit Temperaturen unter null Grad.",
+      "translated_text": "The weather in Berlin and Brandenburg remains cold with temperatures below zero degrees."
+    },
+    {
+      "text": "Die Polizei warnt vor glatten Straßen in der ganzen Region.",
+      "translated_text": "The police warn of slippery roads throughout the region."
+    },
+    {
+      "text": "Autofahrer sollten vorsichtig fahren und mehr Zeit einplanen.",
+      "translated_text": "Drivers should drive carefully and plan more time."
+    },
+    {
+      "text": "Der Wintereinbruch kam plötzlich und überraschte viele Menschen.",
+      "translated_text": "The winter onset came suddenly and surprised many people."
+    },
+    {
+      "text": "Experten sagen, dass das kalte Wetter noch einige Tage bleiben wird.",
+      "translated_text": "Experts say the cold weather will remain for several more days."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Glatteis",
+      "translated_term": "black ice",
+      "example_usage": "Der Flughafen Berlin Brandenburg musste am 6. Februar alle Flüge wegen Glatteis stoppen."
+    },
+    {
+      "term": "die Start- und Landebahn",
+      "translated_term": "runway",
+      "example_usage": "Starker Eisregen machte die Start- und Landebahnen sehr gefährlich."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel",
+      "example_usage": "Hunderte von Flügen wurden gestrichen oder verschoben."
+    },
+    {
+      "term": "die Verspätung",
+      "translated_term": "delay",
+      "example_usage": "Der Flughafen öffnete am Freitag wieder, aber es gab noch viele Verspätungen."
+    },
+    {
+      "term": "warnen vor",
+      "translated_term": "to warn of/about",
+      "example_usage": "Die Polizei warnt vor glatten Straßen in der ganzen Region."
+    },
+    {
+      "term": "vorsichtig",
+      "translated_term": "careful/cautious",
+      "example_usage": "Autofahrer sollten vorsichtig fahren und mehr Zeit einplanen."
+    },
+    {
+      "term": "der Wintereinbruch",
+      "translated_term": "onset of winter/winter breakthrough",
+      "example_usage": "Der Wintereinbruch kam plötzlich und überraschte viele Menschen."
+    },
+    {
+      "term": "plötzlich",
+      "translated_term": "sudden/suddenly",
+      "example_usage": "Der Wintereinbruch kam plötzlich und überraschte viele Menschen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-02-06/berlin-airport-closes-as-slick-ice-disrupts-transport-in-germany"
+    },
+    {
+      "name": "Berlin.de",
+      "link_url": "https://www.berlin.de/en/news/10125484-5559700-winter-storm-on-friday-german-weather-se.en.html"
+    }
+  ]
+}

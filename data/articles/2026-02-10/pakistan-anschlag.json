@@ -1,0 +1,123 @@
+{
+  "title": "Terroranschlag in Pakistan fordert viele Opfer",
+  "translated_title": "Terrorist attack in Pakistan claims many victims",
+  "text": [
+    {
+      "text": "Ein schwerer Terroranschlag erschütterte Pakistan am Wochenende.",
+      "translated_text": "A serious terrorist attack shook Pakistan over the weekend."
+    },
+    {
+      "text": "Ein Selbstmordattentäter griff eine Moschee in der Hauptstadt Islamabad an.",
+      "translated_text": "A suicide bomber attacked a mosque in the capital Islamabad."
+    },
+    {
+      "text": "Bei dem Anschlag starben 32 Menschen und 170 weitere wurden verletzt.",
+      "translated_text": "In the attack, 32 people died and 170 others were injured."
+    },
+    {
+      "text": "Die Moschee war eine schiitische Gebetsstätte, die von vielen Menschen besucht wurde.",
+      "translated_text": "The mosque was a Shia place of worship that was visited by many people."
+    },
+    {
+      "text": "Der Islamische Staat Pakistan bekannte sich zu dem Anschlag.",
+      "translated_text": "The Islamic State Pakistan claimed responsibility for the attack."
+    },
+    {
+      "text": "Die Terrormiliz greift oft religiöse Minderheiten im Land an.",
+      "translated_text": "The terrorist militia often attacks religious minorities in the country."
+    },
+    {
+      "text": "Die pakistanische Regierung verurteilte den Anschlag scharf.",
+      "translated_text": "The Pakistani government strongly condemned the attack."
+    },
+    {
+      "text": "Sicherheitskräfte verstärkten den Schutz von religiösen Einrichtungen im ganzen Land.",
+      "translated_text": "Security forces increased the protection of religious facilities throughout the country."
+    },
+    {
+      "text": "Viele Länder und internationale Organisationen drückten ihr Beileid aus.",
+      "translated_text": "Many countries and international organizations expressed their condolences."
+    },
+    {
+      "text": "Die Gewalt zwischen verschiedenen religiösen Gruppen bleibt ein großes Problem in Pakistan.",
+      "translated_text": "Violence between different religious groups remains a major problem in Pakistan."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Terroranschlag",
+      "translated_term": "terrorist attack",
+      "example_usage": "Ein schwerer Terroranschlag erschütterte Pakistan am Wochenende."
+    },
+    {
+      "term": "erschüttern",
+      "translated_term": "to shake/shock",
+      "example_usage": "Ein schwerer Terroranschlag erschütterte Pakistan am Wochenende."
+    },
+    {
+      "term": "der Selbstmordattentäter",
+      "translated_term": "suicide bomber",
+      "example_usage": "Ein Selbstmordattentäter griff eine Moschee in der Hauptstadt Islamabad an."
+    },
+    {
+      "term": "die Moschee",
+      "translated_term": "mosque",
+      "example_usage": "Ein Selbstmordattentäter griff eine Moschee in der Hauptstadt Islamabad an."
+    },
+    {
+      "term": "verletzen",
+      "translated_term": "to injure",
+      "example_usage": "Bei dem Anschlag starben 32 Menschen und 170 weitere wurden verletzt."
+    },
+    {
+      "term": "die Gebetsstätte",
+      "translated_term": "place of worship",
+      "example_usage": "Die Moschee war eine schiitische Gebetsstätte, die von vielen Menschen besucht wurde."
+    },
+    {
+      "term": "sich bekennen zu",
+      "translated_term": "to claim responsibility for",
+      "example_usage": "Der Islamische Staat Pakistan bekannte sich zu dem Anschlag."
+    },
+    {
+      "term": "die Terrormiliz",
+      "translated_term": "terrorist militia",
+      "example_usage": "Die Terrormiliz greift oft religiöse Minderheiten im Land an."
+    },
+    {
+      "term": "verurteilen",
+      "translated_term": "to condemn",
+      "example_usage": "Die pakistanische Regierung verurteilte den Anschlag scharf."
+    },
+    {
+      "term": "verstärken",
+      "translated_term": "to strengthen/increase",
+      "example_usage": "Sicherheitskräfte verstärkten den Schutz von religiösen Einrichtungen im ganzen Land."
+    },
+    {
+      "term": "das Beileid ausdrücken",
+      "translated_term": "to express condolences",
+      "example_usage": "Viele Länder und internationale Organisationen drückten ihr Beileid aus."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Pakistan",
+      "translated_name": "Pakistan"
+    },
+    {
+      "name": "Terrorismus",
+      "translated_name": "Terrorism"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Deloitte Global Economic Update",
+      "link_url": "https://www.deloitte.com/us/en/insights/topics/economy/global-economic-outlook/weekly-update.html"
+    }
+  ]
+}
