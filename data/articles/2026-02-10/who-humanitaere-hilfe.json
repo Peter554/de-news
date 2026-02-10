@@ -1,0 +1,127 @@
+{
+  "title": "WHO startet Hilfsappell für globale Notlagen",
+  "translated_title": "WHO launches aid appeal for global emergencies",
+  "text": [
+    {
+      "text": "Die Weltgesundheitsorganisation WHO hat einen wichtigen Hilfsappell gestartet.",
+      "translated_text": "The World Health Organization WHO has launched an important aid appeal."
+    },
+    {
+      "text": "Die Organisation braucht fast eine Milliarde US-Dollar für das Jahr 2026.",
+      "translated_text": "The organization needs almost one billion US dollars for the year 2026."
+    },
+    {
+      "text": "Das Geld soll Menschen in 36 Notlagen weltweit helfen.",
+      "translated_text": "The money is intended to help people in 36 emergencies worldwide."
+    },
+    {
+      "text": "Darunter sind 14 sehr schwere Krisen, die besondere Aufmerksamkeit brauchen.",
+      "translated_text": "Among them are 14 very severe crises that need special attention."
+    },
+    {
+      "text": "Viele Menschen leiden unter Kriegen, Naturkatastrophen und Krankheiten.",
+      "translated_text": "Many people are suffering from wars, natural disasters and diseases."
+    },
+    {
+      "text": "Die WHO möchte medizinische Versorgung und Medikamente in diese Gebiete bringen.",
+      "translated_text": "The WHO wants to bring medical care and medicines to these areas."
+    },
+    {
+      "text": "Besonders wichtig ist die Hilfe für Flüchtlinge und vertriebene Menschen.",
+      "translated_text": "Help for refugees and displaced people is particularly important."
+    },
+    {
+      "text": "Die Organisation arbeitet mit Regierungen und anderen Hilfsorganisationen zusammen.",
+      "translated_text": "The organization works together with governments and other aid organizations."
+    },
+    {
+      "text": "Experten warnen, dass die humanitären Bedürfnisse weltweit steigen.",
+      "translated_text": "Experts warn that humanitarian needs are increasing worldwide."
+    },
+    {
+      "text": "Ohne genug Geld können viele Menschen nicht die Hilfe bekommen, die sie dringend brauchen.",
+      "translated_text": "Without enough money, many people cannot get the help they urgently need."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Weltgesundheitsorganisation",
+      "translated_term": "World Health Organization",
+      "example_usage": "Die Weltgesundheitsorganisation WHO hat einen wichtigen Hilfsappell gestartet."
+    },
+    {
+      "term": "der Hilfsappell",
+      "translated_term": "aid appeal",
+      "example_usage": "Die Weltgesundheitsorganisation WHO hat einen wichtigen Hilfsappell gestartet."
+    },
+    {
+      "term": "die Notlage",
+      "translated_term": "emergency/crisis",
+      "example_usage": "Das Geld soll Menschen in 36 Notlagen weltweit helfen."
+    },
+    {
+      "term": "die Krise",
+      "translated_term": "crisis",
+      "example_usage": "Darunter sind 14 sehr schwere Krisen, die besondere Aufmerksamkeit brauchen."
+    },
+    {
+      "term": "leiden unter",
+      "translated_term": "to suffer from",
+      "example_usage": "Viele Menschen leiden unter Kriegen, Naturkatastrophen und Krankheiten."
+    },
+    {
+      "term": "die Naturkatastrophe",
+      "translated_term": "natural disaster",
+      "example_usage": "Viele Menschen leiden unter Kriegen, Naturkatastrophen und Krankheiten."
+    },
+    {
+      "term": "die medizinische Versorgung",
+      "translated_term": "medical care",
+      "example_usage": "Die WHO möchte medizinische Versorgung und Medikamente in diese Gebiete bringen."
+    },
+    {
+      "term": "der Flüchtling",
+      "translated_term": "refugee",
+      "example_usage": "Besonders wichtig ist die Hilfe für Flüchtlinge und vertriebene Menschen."
+    },
+    {
+      "term": "vertrieben",
+      "translated_term": "displaced",
+      "example_usage": "Besonders wichtig ist die Hilfe für Flüchtlinge und vertriebene Menschen."
+    },
+    {
+      "term": "zusammenarbeiten mit",
+      "translated_term": "to work together with/cooperate with",
+      "example_usage": "Die Organisation arbeitet mit Regierungen und anderen Hilfsorganisationen zusammen."
+    },
+    {
+      "term": "das Bedürfnis",
+      "translated_term": "need",
+      "example_usage": "Experten warnen, dass die humanitären Bedürfnisse weltweit steigen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Humanitäre Krise",
+      "translated_name": "Humanitarian Crisis"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    },
+    {
+      "name": "Vereinte Nationen",
+      "translated_name": "United Nations"
+    }
+  ],
+  "sources": [
+    {
+      "name": "WHO",
+      "link_url": "https://www.who.int/news/item/03-02-2026-who-launches-2026-appeal-to-help-millions-of-people-in-health-emergencies-and-crisis-settings"
+    }
+  ]
+}
