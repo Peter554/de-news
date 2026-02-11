@@ -1,0 +1,154 @@
+{
+  "title": "Reform UK: Dramatischer Wandel in der britischen Politik",
+  "translated_title": "Reform UK: Dramatic Change in British Politics",
+  "text": [
+    {
+      "text": "Die britische Politiklandschaft erlebt einen dramatischen Wandel.",
+      "translated_text": "The British political landscape is experiencing a dramatic change."
+    },
+    {
+      "text": "Eine neue Umfrage zeigt, dass Reform UK 381 Sitze im Parlament gewinnen könnte.",
+      "translated_text": "A new poll shows that Reform UK could win 381 seats in parliament."
+    },
+    {
+      "text": "Das würde der Partei eine Mehrheit von 112 Sitzen geben.",
+      "translated_text": "That would give the party a majority of 112 seats."
+    },
+    {
+      "text": "Die Labour-Regierung steht vor großen Herausforderungen.",
+      "translated_text": "The Labour government faces major challenges."
+    },
+    {
+      "text": "Fast drei Viertel der Wähler denken, dass die Dinge schlechter werden.",
+      "translated_text": "Almost three-quarters of voters think things are getting worse."
+    },
+    {
+      "text": "Nur 8 Prozent glauben, dass es besser wird.",
+      "translated_text": "Only 8 percent believe things are getting better."
+    },
+    {
+      "text": "In dieser Woche debattiert das Parlament über wichtige Themen.",
+      "translated_text": "This week, parliament is debating important issues."
+    },
+    {
+      "text": "Die Abgeordneten diskutieren über Erhöhungen der Renten und Sozialleistungen.",
+      "translated_text": "Members of parliament are discussing increases to pensions and social benefits."
+    },
+    {
+      "text": "Auch das Freihandelsabkommen zwischen Großbritannien und Indien steht auf der Agenda.",
+      "translated_text": "The free trade agreement between Great Britain and India is also on the agenda."
+    },
+    {
+      "text": "Ein weiteres wichtiges Thema ist der russische Einfluss auf die britische Politik.",
+      "translated_text": "Another important topic is Russian influence on British politics."
+    },
+    {
+      "text": "Die Abgeordneten werden über eine Petition debattieren, die eine öffentliche Untersuchung fordert.",
+      "translated_text": "Members of parliament will debate a petition calling for a public inquiry."
+    },
+    {
+      "text": "Die politische Situation in Großbritannien bleibt angespannt.",
+      "translated_text": "The political situation in Great Britain remains tense."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Politiklandschaft",
+      "translated_term": "political landscape",
+      "example_usage": "Die britische Politiklandschaft erlebt einen dramatischen Wandel."
+    },
+    {
+      "term": "die Umfrage",
+      "translated_term": "poll, survey",
+      "example_usage": "Eine neue Umfrage zeigt, dass Reform UK 381 Sitze im Parlament gewinnen könnte."
+    },
+    {
+      "term": "der Sitz",
+      "translated_term": "seat",
+      "example_usage": "Eine neue Umfrage zeigt, dass Reform UK 381 Sitze im Parlament gewinnen könnte."
+    },
+    {
+      "term": "die Mehrheit",
+      "translated_term": "majority",
+      "example_usage": "Das würde der Partei eine Mehrheit von 112 Sitzen geben."
+    },
+    {
+      "term": "die Herausforderung",
+      "translated_term": "challenge",
+      "example_usage": "Die Labour-Regierung steht vor großen Herausforderungen."
+    },
+    {
+      "term": "der Wähler",
+      "translated_term": "voter",
+      "example_usage": "Fast drei Viertel der Wähler denken, dass die Dinge schlechter werden."
+    },
+    {
+      "term": "debattieren",
+      "translated_term": "to debate",
+      "example_usage": "In dieser Woche debattiert das Parlament über wichtige Themen."
+    },
+    {
+      "term": "der Abgeordnete",
+      "translated_term": "member of parliament, MP",
+      "example_usage": "Die Abgeordneten diskutieren über Erhöhungen der Renten und Sozialleistungen."
+    },
+    {
+      "term": "die Rente",
+      "translated_term": "pension",
+      "example_usage": "Die Abgeordneten diskutieren über Erhöhungen der Renten und Sozialleistungen."
+    },
+    {
+      "term": "die Sozialleistung",
+      "translated_term": "social benefit, welfare benefit",
+      "example_usage": "Die Abgeordneten diskutieren über Erhöhungen der Renten und Sozialleistungen."
+    },
+    {
+      "term": "das Freihandelsabkommen",
+      "translated_term": "free trade agreement",
+      "example_usage": "Auch das Freihandelsabkommen zwischen Großbritannien und Indien steht auf der Agenda."
+    },
+    {
+      "term": "der Einfluss",
+      "translated_term": "influence",
+      "example_usage": "Ein weiteres wichtiges Thema ist der russische Einfluss auf die britische Politik."
+    },
+    {
+      "term": "die Untersuchung",
+      "translated_term": "inquiry, investigation",
+      "example_usage": "Die Abgeordneten werden über eine Petition debattieren, die eine öffentliche Untersuchung fordert."
+    },
+    {
+      "term": "angespannt",
+      "translated_term": "tense",
+      "example_usage": "Die politische Situation in Großbritannien bleibt angespannt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Demokratie",
+      "translated_name": "Democracy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "YouGov",
+      "link_url": "https://yougov.co.uk/politics/articles/54071-yougov-news-tracker-8-9-february-2026"
+    },
+    {
+      "name": "Hansard Society",
+      "link_url": "https://www.hansardsociety.org.uk/news/parliament-matters-bulletin-9-february-2026"
+    },
+    {
+      "name": "Brookings",
+      "link_url": "https://www.brookings.edu/articles/back-to-the-future-british-politics-in-2026/"
+    }
+  ]
+}
