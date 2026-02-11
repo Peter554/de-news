@@ -1,0 +1,154 @@
+{
+  "title": "Berliner Flughafen durch Glatteis geschlossen",
+  "translated_title": "Berlin Airport Closed Due to Black Ice",
+  "text": [
+    {
+      "text": "Der Flughafen Berlin Brandenburg war am 5. und 6. Februar 2026 komplett geschlossen.",
+      "translated_text": "Berlin Brandenburg Airport was completely closed on February 5 and 6, 2026."
+    },
+    {
+      "text": "Glatteis hatte die Landebahnen so glatt wie Glas gemacht.",
+      "translated_text": "Black ice had made the runways as smooth as glass."
+    },
+    {
+      "text": "Mehr als 190 Flüge mussten gestrichen werden.",
+      "translated_text": "More than 190 flights had to be cancelled."
+    },
+    {
+      "text": "Etwa 18.000 Passagiere waren von der Sperrung betroffen.",
+      "translated_text": "About 18,000 passengers were affected by the closure."
+    },
+    {
+      "text": "Der Deutsche Wetterdienst hatte eine schwere Wetterwarnung für die Region herausgegeben.",
+      "translated_text": "The German Weather Service had issued a severe weather warning for the region."
+    },
+    {
+      "text": "Es bestand Lebensgefahr wegen der glatten Verhältnisse.",
+      "translated_text": "There was a danger to life due to the slippery conditions."
+    },
+    {
+      "text": "Der Flugbetrieb wurde kurz nach 18:00 Uhr eingestellt.",
+      "translated_text": "Flight operations were suspended shortly after 6:00 PM."
+    },
+    {
+      "text": "Die Enteisungsteams meldeten, dass das Enteisungsspray gefror, bevor es wirken konnte.",
+      "translated_text": "The de-icing teams reported that the de-icing spray was freezing before it could take effect."
+    },
+    {
+      "text": "Das machte die Flugzeuge unsicher für den Start.",
+      "translated_text": "This made the aircraft unsafe for takeoff."
+    },
+    {
+      "text": "Am Freitagnachmittag, dem 6. Februar, begann der Flughafen schrittweise wieder zu öffnen.",
+      "translated_text": "On Friday afternoon, February 6, the airport began to gradually reopen."
+    },
+    {
+      "text": "Die Temperaturen stiegen leicht an.",
+      "translated_text": "The temperatures rose slightly."
+    },
+    {
+      "text": "Die Enteisungsteams konnten endlich das Eis erfolgreich entfernen.",
+      "translated_text": "The de-icing teams were finally able to successfully remove the ice."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Flughafen",
+      "translated_term": "airport",
+      "example_usage": "Der Flughafen Berlin Brandenburg war am 5. und 6. Februar 2026 komplett geschlossen."
+    },
+    {
+      "term": "das Glatteis",
+      "translated_term": "black ice, glaze ice",
+      "example_usage": "Glatteis hatte die Landebahnen so glatt wie Glas gemacht."
+    },
+    {
+      "term": "die Landebahn",
+      "translated_term": "runway",
+      "example_usage": "Glatteis hatte die Landebahnen so glatt wie Glas gemacht."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel, to delete",
+      "example_usage": "Mehr als 190 Flüge mussten gestrichen werden."
+    },
+    {
+      "term": "der Passagier",
+      "translated_term": "passenger",
+      "example_usage": "Etwa 18.000 Passagiere waren von der Sperrung betroffen."
+    },
+    {
+      "term": "die Sperrung",
+      "translated_term": "closure, blockage",
+      "example_usage": "Etwa 18.000 Passagiere waren von der Sperrung betroffen."
+    },
+    {
+      "term": "betroffen sein",
+      "translated_term": "to be affected",
+      "example_usage": "Etwa 18.000 Passagiere waren von der Sperrung betroffen."
+    },
+    {
+      "term": "die Wetterwarnung",
+      "translated_term": "weather warning",
+      "example_usage": "Der Deutsche Wetterdienst hatte eine schwere Wetterwarnung für die Region herausgegeben."
+    },
+    {
+      "term": "die Lebensgefahr",
+      "translated_term": "danger to life",
+      "example_usage": "Es bestand Lebensgefahr wegen der glatten Verhältnisse."
+    },
+    {
+      "term": "der Flugbetrieb",
+      "translated_term": "flight operations",
+      "example_usage": "Der Flugbetrieb wurde kurz nach 18:00 Uhr eingestellt."
+    },
+    {
+      "term": "einstellen",
+      "translated_term": "to suspend, to stop",
+      "example_usage": "Der Flugbetrieb wurde kurz nach 18:00 Uhr eingestellt."
+    },
+    {
+      "term": "die Enteisung",
+      "translated_term": "de-icing",
+      "example_usage": "Die Enteisungsteams meldeten, dass das Enteisungsspray gefror, bevor es wirken konnte."
+    },
+    {
+      "term": "gefrieren",
+      "translated_term": "to freeze",
+      "example_usage": "Die Enteisungsteams meldeten, dass das Enteisungsspray gefror, bevor es wirken konnte."
+    },
+    {
+      "term": "schrittweise",
+      "translated_term": "gradually, step by step",
+      "example_usage": "Am Freitagnachmittag, dem 6. Februar, begann der Flughafen schrittweise wieder zu öffnen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Travel Tourister",
+      "link_url": "https://www.traveltourister.com/news/berlin-airport-black-ice-shutdown-february-5-6-2026-190-flights-cancelled-freezing-rain-germany-travel-chaos-ber-complete-guide/"
+    },
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-02-06/berlin-airport-closes-as-slick-ice-disrupts-transport-in-germany"
+    },
+    {
+      "name": "Paddle Your Own Kanoo",
+      "link_url": "https://www.paddleyourownkanoo.com/2026/02/06/berlin-airport-grounds-flights-for-second-day-in-a-row-as-freezing-rain-and-black-ice-cause-havoc/"
+    }
+  ]
+}
