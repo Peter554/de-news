@@ -1,0 +1,131 @@
+{
+  "title": "UN warnt vor Einschränkung der Meinungsfreiheit in Deutschland",
+  "translated_title": "UN Warns of Restriction of Freedom of Expression in Germany",
+  "text": [
+    {
+      "text": "Die UN-Sonderberichterstatterin Irene Khan hat Deutschland vom 26. Januar bis 6. Februar 2026 besucht.",
+      "translated_text": "UN Special Rapporteur Irene Khan visited Germany from January 26 to February 6, 2026."
+    },
+    {
+      "text": "Es war der erste offizielle Besuch einer UN-Sonderberichterstatterin für Meinungsfreiheit in Deutschland.",
+      "translated_text": "It was the first official visit by a UN Special Rapporteur for freedom of expression to Germany."
+    },
+    {
+      "text": "Khan besuchte Berlin, Leipzig, Dresden, Köln, Düsseldorf und Karlsruhe.",
+      "translated_text": "Khan visited Berlin, Leipzig, Dresden, Cologne, Düsseldorf and Karlsruhe."
+    },
+    {
+      "text": "Am 6. Februar hielt sie eine Pressekonferenz im UN-Büro in Berlin.",
+      "translated_text": "On February 6, she held a press conference at the UN office in Berlin."
+    },
+    {
+      "text": "Khan warnte, dass der Raum für die Meinungsfreiheit in Deutschland kleiner wird.",
+      "translated_text": "Khan warned that the space for freedom of expression in Germany is shrinking."
+    },
+    {
+      "text": "Sie sagte, dass Antisemitismus, Islamophobie und Hass gegen Migranten stark zugenommen haben.",
+      "translated_text": "She said that antisemitism, Islamophobia and hatred against migrants have increased significantly."
+    },
+    {
+      "text": "Khan kritisierte auch die Nutzung von Anti-Terror-Gesetzen gegen Menschen, die für palästinensische Rechte eintreten.",
+      "translated_text": "Khan also criticized the use of anti-terrorism laws against people who advocate for Palestinian rights."
+    },
+    {
+      "text": "Diese Maßnahmen würden manchmal nicht den internationalen Menschenrechtsstandards entsprechen.",
+      "translated_text": "These measures would sometimes not comply with international human rights standards."
+    },
+    {
+      "text": "Die Expertin sagte, dass die Unsicherheit über erlaubte und verbotene Meinungsäußerungen zur Selbstzensur führt.",
+      "translated_text": "The expert said that uncertainty about permitted and prohibited expressions leads to self-censorship."
+    },
+    {
+      "text": "Khan wird im Juni 2026 einen vollständigen Bericht über ihren Besuch dem UN-Menschenrechtsrat vorlegen.",
+      "translated_text": "Khan will present a complete report on her visit to the UN Human Rights Council in June 2026."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Meinungsfreiheit",
+      "translated_term": "freedom of expression",
+      "example_usage": "Khan warnte, dass der Raum für die Meinungsfreiheit in Deutschland kleiner wird."
+    },
+    {
+      "term": "die Sonderberichterstatterin",
+      "translated_term": "special rapporteur (female)",
+      "example_usage": "Die UN-Sonderberichterstatterin Irene Khan hat Deutschland vom 26. Januar bis 6. Februar 2026 besucht."
+    },
+    {
+      "term": "warnen",
+      "translated_term": "to warn",
+      "example_usage": "Khan warnte, dass der Raum für die Meinungsfreiheit in Deutschland kleiner wird."
+    },
+    {
+      "term": "der Antisemitismus",
+      "translated_term": "antisemitism",
+      "example_usage": "Sie sagte, dass Antisemitismus, Islamophobie und Hass gegen Migranten stark zugenommen haben."
+    },
+    {
+      "term": "die Islamophobie",
+      "translated_term": "Islamophobia",
+      "example_usage": "Sie sagte, dass Antisemitismus, Islamophobie und Hass gegen Migranten stark zugenommen haben."
+    },
+    {
+      "term": "zunehmen",
+      "translated_term": "to increase",
+      "example_usage": "Sie sagte, dass Antisemitismus, Islamophobie und Hass gegen Migranten stark zugenommen haben."
+    },
+    {
+      "term": "kritisieren",
+      "translated_term": "to criticize",
+      "example_usage": "Khan kritisierte auch die Nutzung von Anti-Terror-Gesetzen gegen Menschen, die für palästinensische Rechte eintreten."
+    },
+    {
+      "term": "eintreten",
+      "translated_term": "to advocate, to stand up for",
+      "example_usage": "Khan kritisierte auch die Nutzung von Anti-Terror-Gesetzen gegen Menschen, die für palästinensische Rechte eintreten."
+    },
+    {
+      "term": "die Menschenrechte",
+      "translated_term": "human rights",
+      "example_usage": "Diese Maßnahmen würden manchmal nicht den internationalen Menschenrechtsstandards entsprechen."
+    },
+    {
+      "term": "die Selbstzensur",
+      "translated_term": "self-censorship",
+      "example_usage": "Die Expertin sagte, dass die Unsicherheit über erlaubte und verbotene Meinungsäußerungen zur Selbstzensur führt."
+    },
+    {
+      "term": "vorlegen",
+      "translated_term": "to present, to submit",
+      "example_usage": "Khan wird im Juni 2026 einen vollständigen Bericht über ihren Besuch dem UN-Menschenrechtsrat vorlegen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Menschenrechte",
+      "translated_name": "Human Rights"
+    },
+    {
+      "name": "Vereinte Nationen",
+      "translated_name": "United Nations"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "OHCHR - UN Expert Warns Space for Freedom of Expression is Shrinking",
+      "link_url": "https://www.ohchr.org/en/press-releases/2026/02/germany-un-expert-warns-space-freedom-expression-shrinking-amidst-growing"
+    },
+    {
+      "name": "The Local - UN Expert Warns of Shrinking Space for Free Speech",
+      "link_url": "https://www.thelocal.de/20260207/un-expert-warns-of-shrinking-space-for-free-speech-in-germany"
+    },
+    {
+      "name": "OHCHR - UN Expert on Freedom of Expression to Visit Germany",
+      "link_url": "https://www.ohchr.org/en/press-releases/2026/01/un-expert-freedom-expression-visit-germany"
+    }
+  ]
+}

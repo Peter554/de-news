@@ -1,0 +1,126 @@
+{
+  "title": "Warnstreiks im öffentlichen Dienst in Deutschland",
+  "translated_title": "Warning Strikes in the Public Sector in Germany",
+  "text": [
+    {
+      "text": "Die Gewerkschaft ver.di hat im Februar 2026 zu mehreren Streiks im öffentlichen Dienst aufgerufen.",
+      "translated_text": "The ver.di union called for several strikes in the public sector in February 2026."
+    },
+    {
+      "text": "Am 2. Februar fand ein landesweiter 24-Stunden-Streik im öffentlichen Nahverkehr statt.",
+      "translated_text": "On February 2, a nationwide 24-hour strike took place in public transport."
+    },
+    {
+      "text": "Etwa 100.000 Beschäftigte bei rund 150 kommunalen Verkehrsunternehmen beteiligten sich an dem Streik.",
+      "translated_text": "About 100,000 employees at around 150 municipal transport companies took part in the strike."
+    },
+    {
+      "text": "In allen Bundesländern außer Niedersachsen gab es starke Einschränkungen oder gar keinen Verkehr.",
+      "translated_text": "In all federal states except Lower Saxony, there were severe restrictions or no transport at all."
+    },
+    {
+      "text": "Ver.di fordert kürzere Schichten für die Beschäftigten im öffentlichen Verkehr.",
+      "translated_text": "Ver.di demands shorter shifts for employees in public transport."
+    },
+    {
+      "text": "Die Gewerkschaft will auch höhere Zuschläge für Abend- und Wochenendarbeit.",
+      "translated_text": "The union also wants higher bonuses for evening and weekend work."
+    },
+    {
+      "text": "Am 11. Februar gab es weitere Warnstreiks in Schulen und Universitäten in Berlin.",
+      "translated_text": "On February 11, there were further warning strikes in schools and universities in Berlin."
+    },
+    {
+      "text": "Die dritte Verhandlungsrunde zwischen ver.di und den Arbeitgebern der Länder findet am 11. und 12. Februar statt.",
+      "translated_text": "The third round of negotiations between ver.di and the employers of the federal states takes place on February 11 and 12."
+    },
+    {
+      "text": "Ver.di fordert eine Lohnerhöhung von 7 Prozent, mindestens aber 300 Euro pro Monat.",
+      "translated_text": "Ver.di demands a wage increase of 7 percent, but at least 300 euros per month."
+    },
+    {
+      "text": "Die Tarifverhandlungen sollen für einen Zeitraum von 12 Monaten gelten.",
+      "translated_text": "The collective bargaining should apply for a period of 12 months."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "union, trade union",
+      "example_usage": "Die Gewerkschaft ver.di hat im Februar 2026 zu mehreren Streiks im öffentlichen Dienst aufgerufen."
+    },
+    {
+      "term": "der Streik",
+      "translated_term": "strike",
+      "example_usage": "Am 2. Februar fand ein landesweiter 24-Stunden-Streik im öffentlichen Nahverkehr statt."
+    },
+    {
+      "term": "der öffentliche Dienst",
+      "translated_term": "public service/sector",
+      "example_usage": "Die Gewerkschaft ver.di hat im Februar 2026 zu mehreren Streiks im öffentlichen Dienst aufgerufen."
+    },
+    {
+      "term": "der Nahverkehr",
+      "translated_term": "local/public transport",
+      "example_usage": "Am 2. Februar fand ein landesweiter 24-Stunden-Streik im öffentlichen Nahverkehr statt."
+    },
+    {
+      "term": "der/die Beschäftigte",
+      "translated_term": "employee",
+      "example_usage": "Etwa 100.000 Beschäftigte bei rund 150 kommunalen Verkehrsunternehmen beteiligten sich an dem Streik."
+    },
+    {
+      "term": "die Einschränkung",
+      "translated_term": "restriction, limitation",
+      "example_usage": "In allen Bundesländern außer Niedersachsen gab es starke Einschränkungen oder gar keinen Verkehr."
+    },
+    {
+      "term": "die Schicht",
+      "translated_term": "shift (work period)",
+      "example_usage": "Ver.di fordert kürzere Schichten für die Beschäftigten im öffentlichen Verkehr."
+    },
+    {
+      "term": "der Zuschlag",
+      "translated_term": "bonus, surcharge",
+      "example_usage": "Die Gewerkschaft will auch höhere Zuschläge für Abend- und Wochenendarbeit."
+    },
+    {
+      "term": "die Lohnerhöhung",
+      "translated_term": "wage increase",
+      "example_usage": "Ver.di fordert eine Lohnerhöhung von 7 Prozent, mindestens aber 300 Euro pro Monat."
+    },
+    {
+      "term": "die Tarifverhandlung",
+      "translated_term": "collective bargaining",
+      "example_usage": "Die Tarifverhandlungen sollen für einen Zeitraum von 12 Monaten gelten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Öffentlicher Dienst",
+      "translated_name": "Public Service"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Strike Tracker - Current Strikes in Germany",
+      "link_url": "https://striketracker.app/strikes-in-germany"
+    },
+    {
+      "name": "iamexpat - Nationwide Strike to Shutdown German Public Transport",
+      "link_url": "https://www.iamexpat.de/expat-info/germany-news/nationwide-strike-shutdown-german-public-transport-monday"
+    },
+    {
+      "name": "The Left Berlin - News from Berlin and Germany, 4th February 2026",
+      "link_url": "https://theleftberlin.com/news-from-berlin-and-germany-4th-february-2026/"
+    }
+  ]
+}
