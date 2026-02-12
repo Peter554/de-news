@@ -1,0 +1,131 @@
+{
+  "title": "Weiberfastnacht: Der Karneval beginnt",
+  "translated_title": "Women's Carnival: The Carnival Begins",
+  "text": [
+    {
+      "text": "Am 12. Februar 2026 beginnt mit Weiberfastnacht die wichtigste Zeit des Karnevals in Deutschland.",
+      "translated_text": "On February 12, 2026, the most important time of Carnival in Germany begins with Weiberfastnacht."
+    },
+    {
+      "text": "Weiberfastnacht, auch Altweiberfastnacht genannt, ist ein traditioneller Feiertag im Rheinland.",
+      "translated_text": "Weiberfastnacht, also called Altweiberfastnacht, is a traditional holiday in the Rhineland."
+    },
+    {
+      "text": "An diesem Tag übernehmen die Frauen symbolisch die Macht und schneiden den Männern die Krawatten ab.",
+      "translated_text": "On this day, women symbolically take over power and cut off men's ties."
+    },
+    {
+      "text": "In Köln, Düsseldorf und Mainz feiern die Menschen auf den Straßen mit bunten Kostümen und Musik.",
+      "translated_text": "In Cologne, Düsseldorf and Mainz, people celebrate in the streets with colorful costumes and music."
+    },
+    {
+      "text": "Der erste Karnevalsumzug des Jahres marschiert durch die Kölner Altstadt.",
+      "translated_text": "The first carnival parade of the year marches through Cologne's old town."
+    },
+    {
+      "text": "Die Feierlichkeiten dauern bis zum Rosenmontag am 16. Februar, dem Höhepunkt des Karnevals.",
+      "translated_text": "The celebrations last until Rose Monday on February 16, the highlight of Carnival."
+    },
+    {
+      "text": "Am Rosenmontag besuchen mehr als eine Million Menschen die großen Umzüge.",
+      "translated_text": "On Rose Monday, more than one million people visit the large parades."
+    },
+    {
+      "text": "Von den Wagen werden etwa 300 Tonnen Süßigkeiten und 300.000 Blumen geworfen.",
+      "translated_text": "About 300 tonnes of sweets and 300,000 flowers are thrown from the floats."
+    },
+    {
+      "text": "Der Kölner Rosenmontagszug beginnt um 10 Uhr morgens und ist einer der größten Umzüge in Deutschland.",
+      "translated_text": "The Cologne Rose Monday parade starts at 10 o'clock in the morning and is one of the largest parades in Germany."
+    },
+    {
+      "text": "Nach dem Veilchendienstag am 17. Februar endet der Karneval mit dem Aschermittwoch am 18. Februar.",
+      "translated_text": "After Violet Tuesday on February 17, Carnival ends with Ash Wednesday on February 18."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Karneval",
+      "translated_term": "carnival",
+      "example_usage": "Am 12. Februar 2026 beginnt mit Weiberfastnacht die wichtigste Zeit des Karnevals in Deutschland."
+    },
+    {
+      "term": "die Weiberfastnacht",
+      "translated_term": "Women's Carnival (Thursday)",
+      "example_usage": "Weiberfastnacht, auch Altweiberfastnacht genannt, ist ein traditioneller Feiertag im Rheinland."
+    },
+    {
+      "term": "übernehmen",
+      "translated_term": "to take over",
+      "example_usage": "An diesem Tag übernehmen die Frauen symbolisch die Macht und schneiden den Männern die Krawatten ab."
+    },
+    {
+      "term": "die Krawatte",
+      "translated_term": "tie (neckwear)",
+      "example_usage": "An diesem Tag übernehmen die Frauen symbolisch die Macht und schneiden den Männern die Krawatten ab."
+    },
+    {
+      "term": "das Kostüm",
+      "translated_term": "costume",
+      "example_usage": "In Köln, Düsseldorf und Mainz feiern die Menschen auf den Straßen mit bunten Kostümen und Musik."
+    },
+    {
+      "term": "der Umzug",
+      "translated_term": "parade, procession",
+      "example_usage": "Der erste Karnevalsumzug des Jahres marschiert durch die Kölner Altstadt."
+    },
+    {
+      "term": "der Rosenmontag",
+      "translated_term": "Rose Monday",
+      "example_usage": "Die Feierlichkeiten dauern bis zum Rosenmontag am 16. Februar, dem Höhepunkt des Karnevals."
+    },
+    {
+      "term": "der Höhepunkt",
+      "translated_term": "highlight, climax",
+      "example_usage": "Die Feierlichkeiten dauern bis zum Rosenmontag am 16. Februar, dem Höhepunkt des Karnevals."
+    },
+    {
+      "term": "die Süßigkeiten",
+      "translated_term": "sweets, candy",
+      "example_usage": "Von den Wagen werden etwa 300 Tonnen Süßigkeiten und 300.000 Blumen geworfen."
+    },
+    {
+      "term": "werfen",
+      "translated_term": "to throw",
+      "example_usage": "Von den Wagen werden etwa 300 Tonnen Süßigkeiten und 300.000 Blumen geworfen."
+    },
+    {
+      "term": "der Aschermittwoch",
+      "translated_term": "Ash Wednesday",
+      "example_usage": "Nach dem Veilchendienstag am 17. Februar endet der Karneval mit dem Aschermittwoch am 18. Februar."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Kultur",
+      "translated_name": "Culture"
+    },
+    {
+      "name": "Veranstaltungen",
+      "translated_name": "Events"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Cologne Tourism - Carnival 2026",
+      "link_url": "https://www.cologne-tourism.com/experiences-lifestyle/carnival"
+    },
+    {
+      "name": "Time and Date - Rosenmontag 2026",
+      "link_url": "https://www.timeanddate.com/holidays/germany/rosenmontag"
+    },
+    {
+      "name": "NRW Tourism - Carnival Highlights 2026",
+      "link_url": "https://www.nrw-tourism.com/typical-nrw/carnival"
+    }
+  ]
+}
