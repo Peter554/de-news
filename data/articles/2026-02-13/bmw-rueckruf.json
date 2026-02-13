@@ -1,0 +1,156 @@
+{
+  "title": "BMW ruft weltweit Hunderttausende Autos zurück",
+  "translated_title": "BMW recalls hundreds of thousands of cars worldwide",
+  "text": [
+    {
+      "text": "BMW hat einen großen Rückruf angekündigt, der Hunderttausende von Fahrzeugen betrifft.",
+      "translated_text": "BMW has announced a major recall affecting hundreds of thousands of vehicles."
+    },
+    {
+      "text": "Weltweit müssen etwa 575.000 Autos in die Werkstatt, weil es ein Brandrisiko gibt.",
+      "translated_text": "Around 575,000 cars worldwide must go to the workshop because there is a fire risk."
+    },
+    {
+      "text": "Das Problem liegt beim Anlasser des Motors.",
+      "translated_text": "The problem lies with the engine starter."
+    },
+    {
+      "text": "Nach vielen Motorstarts kann der Magnetschalter im Anlasser verschleißen.",
+      "translated_text": "After many engine starts, the magnetic switch in the starter can wear out."
+    },
+    {
+      "text": "Im schlimmsten Fall kann dies während der Fahrt zu einem Fahrzeugbrand führen.",
+      "translated_text": "In the worst case, this can lead to a vehicle fire while driving."
+    },
+    {
+      "text": "In Deutschland sind 28.562 Fahrzeuge von diesem Rückruf betroffen.",
+      "translated_text": "In Germany, 28,562 vehicles are affected by this recall."
+    },
+    {
+      "text": "In den USA müssen 87.394 Autos aus den Baujahren 2021 bis 2024 zurückgerufen werden.",
+      "translated_text": "In the USA, 87,394 cars from model years 2021 to 2024 must be recalled."
+    },
+    {
+      "text": "Auch in den Niederlanden sind 5.500 Fahrzeuge betroffen.",
+      "translated_text": "In the Netherlands too, 5,500 vehicles are affected."
+    },
+    {
+      "text": "Der defekte Anlasser wurde zwischen Juli 2020 und Juli 2022 vom Zulieferer Valeo produziert.",
+      "translated_text": "The defective starter was produced by supplier Valeo between July 2020 and July 2022."
+    },
+    {
+      "text": "Insgesamt 16 verschiedene BMW-Modelle könnten betroffen sein.",
+      "translated_text": "A total of 16 different BMW models could be affected."
+    },
+    {
+      "text": "Dazu gehören der X3 und X4, die 2er-, 3er-, 4er- und 5er-Reihe sowie der Z4.",
+      "translated_text": "These include the X3 and X4, the 2 Series, 3 Series, 4 Series and 5 Series as well as the Z4."
+    },
+    {
+      "text": "Interessanterweise ist auch der Toyota Supra betroffen, da er viele Teile mit BMW teilt.",
+      "translated_text": "Interestingly, the Toyota Supra is also affected because it shares many parts with BMW."
+    },
+    {
+      "text": "Die Reparatur ist für die Besitzer kostenlos.",
+      "translated_text": "The repair is free of charge for the owners."
+    },
+    {
+      "text": "Die Händler werden den defekten Anlasser austauschen.",
+      "translated_text": "The dealers will replace the defective starter."
+    },
+    {
+      "text": "In einigen Fällen wird auch die 12-Volt-Batterie ersetzt.",
+      "translated_text": "In some cases, the 12-volt battery will also be replaced."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Rückruf",
+      "translated_term": "recall",
+      "example_usage": "BMW hat einen großen Rückruf angekündigt, der Hunderttausende von Fahrzeugen betrifft."
+    },
+    {
+      "term": "das Brandrisiko",
+      "translated_term": "fire risk",
+      "example_usage": "Weltweit müssen etwa 575.000 Autos in die Werkstatt, weil es ein Brandrisiko gibt."
+    },
+    {
+      "term": "der Anlasser",
+      "translated_term": "starter",
+      "example_usage": "Das Problem liegt beim Anlasser des Motors."
+    },
+    {
+      "term": "der Magnetschalter",
+      "translated_term": "magnetic switch",
+      "example_usage": "Nach vielen Motorstarts kann der Magnetschalter im Anlasser verschleißen."
+    },
+    {
+      "term": "verschleißen",
+      "translated_term": "to wear out",
+      "example_usage": "Nach vielen Motorstarts kann der Magnetschalter im Anlasser verschleißen."
+    },
+    {
+      "term": "der Fahrzeugbrand",
+      "translated_term": "vehicle fire",
+      "example_usage": "Im schlimmsten Fall kann dies während der Fahrt zu einem Fahrzeugbrand führen."
+    },
+    {
+      "term": "betroffen sein",
+      "translated_term": "to be affected",
+      "example_usage": "In Deutschland sind 28.562 Fahrzeuge von diesem Rückruf betroffen."
+    },
+    {
+      "term": "das Baujahr",
+      "translated_term": "model year, year of manufacture",
+      "example_usage": "In den USA müssen 87.394 Autos aus den Baujahren 2021 bis 2024 zurückgerufen werden."
+    },
+    {
+      "term": "der Zulieferer",
+      "translated_term": "supplier",
+      "example_usage": "Der defekte Anlasser wurde zwischen Juli 2020 und Juli 2022 vom Zulieferer Valeo produziert."
+    },
+    {
+      "term": "austauschen",
+      "translated_term": "to replace, to exchange",
+      "example_usage": "Die Händler werden den defekten Anlasser austauschen."
+    },
+    {
+      "term": "kostenlos",
+      "translated_term": "free of charge",
+      "example_usage": "Die Reparatur ist für die Besitzer kostenlos."
+    },
+    {
+      "term": "die Batterie",
+      "translated_term": "battery",
+      "example_usage": "In einigen Fällen wird auch die 12-Volt-Batterie ersetzt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    },
+    {
+      "name": "Verbraucherschutz",
+      "translated_name": "Consumer Protection"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "BMW Blog",
+      "link_url": "https://www.bmwblog.com/2026/02/11/bmw-recall-starter-fire-risk-575k/"
+    },
+    {
+      "name": "NL Times",
+      "link_url": "https://nltimes.nl/2026/02/12/bmw-recalls-hundreds-thousands-cars-5500-netherlands"
+    },
+    {
+      "name": "Insurance Journal",
+      "link_url": "https://www.insurancejournal.com/news/international/2026/02/12/857741.htm"
+    }
+  ]
+}

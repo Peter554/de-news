@@ -1,0 +1,165 @@
+{
+  "title": "Neue Reisegenehmigung für Großbritannien ab 25. Februar",
+  "translated_title": "New travel authorization for Great Britain from February 25",
+  "text": [
+    {
+      "text": "Deutsche Reisende müssen ab dem 25. Februar 2026 eine neue Regel beachten.",
+      "translated_text": "German travelers must observe a new rule from February 25, 2026."
+    },
+    {
+      "text": "Wer nach Großbritannien reisen möchte, braucht eine elektronische Reisegenehmigung.",
+      "translated_text": "Anyone who wants to travel to Great Britain needs an electronic travel authorization."
+    },
+    {
+      "text": "Diese Genehmigung heißt ETA, was für \"Electronic Travel Authorisation\" steht.",
+      "translated_text": "This authorization is called ETA, which stands for \"Electronic Travel Authorisation\"."
+    },
+    {
+      "text": "Ohne diese ETA kann man nicht ins Flugzeug nach Großbritannien einsteigen.",
+      "translated_text": "Without this ETA, you cannot board the plane to Great Britain."
+    },
+    {
+      "text": "Die Fluggesellschaften werden Passagiere ohne ETA beim Check-in zurückweisen.",
+      "translated_text": "Airlines will turn away passengers without an ETA at check-in."
+    },
+    {
+      "text": "Die ETA kostet 16 britische Pfund, das sind etwa 19 Euro.",
+      "translated_text": "The ETA costs 16 British pounds, which is about 19 euros."
+    },
+    {
+      "text": "Man sollte die ETA mindestens drei Werktage vor der Reise beantragen.",
+      "translated_text": "You should apply for the ETA at least three working days before travel."
+    },
+    {
+      "text": "Die meisten Antragsteller bekommen innerhalb von Minuten eine automatische Entscheidung.",
+      "translated_text": "Most applicants receive an automatic decision within minutes."
+    },
+    {
+      "text": "Die Beantragung erfolgt über die UK-ETA-App auf dem Smartphone.",
+      "translated_text": "The application is made via the UK ETA app on the smartphone."
+    },
+    {
+      "text": "Eine genehmigte ETA ist zwei Jahre lang gültig.",
+      "translated_text": "An approved ETA is valid for two years."
+    },
+    {
+      "text": "Sie verliert aber ihre Gültigkeit, wenn der Reisepass früher abläuft.",
+      "translated_text": "However, it loses its validity if the passport expires earlier."
+    },
+    {
+      "text": "Nicht alle Reisenden brauchen eine ETA.",
+      "translated_text": "Not all travelers need an ETA."
+    },
+    {
+      "text": "Menschen mit einem britischen oder irischen Pass benötigen keine ETA.",
+      "translated_text": "People with a British or Irish passport do not need an ETA."
+    },
+    {
+      "text": "Auch wer ein britisches Visum hat oder eine Aufenthaltserlaubnis besitzt, braucht keine ETA.",
+      "translated_text": "Anyone who has a British visa or has a residence permit also does not need an ETA."
+    },
+    {
+      "text": "Die neue Regelung gilt für alle EU-Bürger, also auch für Deutsche, Österreicher und Franzosen.",
+      "translated_text": "The new regulation applies to all EU citizens, including Germans, Austrians and French people."
+    },
+    {
+      "text": "Experten empfehlen, die ETA rechtzeitig zu beantragen, um Probleme am Reisetag zu vermeiden.",
+      "translated_text": "Experts recommend applying for the ETA in good time to avoid problems on the day of travel."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Reisegenehmigung",
+      "translated_term": "travel authorization",
+      "example_usage": "Wer nach Großbritannien reisen möchte, braucht eine elektronische Reisegenehmigung."
+    },
+    {
+      "term": "beantragen",
+      "translated_term": "to apply for",
+      "example_usage": "Man sollte die ETA mindestens drei Werktage vor der Reise beantragen."
+    },
+    {
+      "term": "zurückweisen",
+      "translated_term": "to turn away, to reject",
+      "example_usage": "Die Fluggesellschaften werden Passagiere ohne ETA beim Check-in zurückweisen."
+    },
+    {
+      "term": "der Werktag",
+      "translated_term": "working day, business day",
+      "example_usage": "Man sollte die ETA mindestens drei Werktage vor der Reise beantragen."
+    },
+    {
+      "term": "der Antragsteller",
+      "translated_term": "applicant",
+      "example_usage": "Die meisten Antragsteller bekommen innerhalb von Minuten eine automatische Entscheidung."
+    },
+    {
+      "term": "die Beantragung",
+      "translated_term": "application process",
+      "example_usage": "Die Beantragung erfolgt über die UK-ETA-App auf dem Smartphone."
+    },
+    {
+      "term": "genehmigen",
+      "translated_term": "to approve",
+      "example_usage": "Eine genehmigte ETA ist zwei Jahre lang gültig."
+    },
+    {
+      "term": "gültig",
+      "translated_term": "valid",
+      "example_usage": "Eine genehmigte ETA ist zwei Jahre lang gültig."
+    },
+    {
+      "term": "die Gültigkeit",
+      "translated_term": "validity",
+      "example_usage": "Sie verliert aber ihre Gültigkeit, wenn der Reisepass früher abläuft."
+    },
+    {
+      "term": "ablaufen",
+      "translated_term": "to expire",
+      "example_usage": "Sie verliert aber ihre Gültigkeit, wenn der Reisepass früher abläuft."
+    },
+    {
+      "term": "die Aufenthaltserlaubnis",
+      "translated_term": "residence permit",
+      "example_usage": "Auch wer ein britisches Visum hat oder eine Aufenthaltserlaubnis besitzt, braucht keine ETA."
+    },
+    {
+      "term": "die Regelung",
+      "translated_term": "regulation, rule",
+      "example_usage": "Die neue Regelung gilt für alle EU-Bürger, also auch für Deutsche, Österreicher und Franzosen."
+    },
+    {
+      "term": "rechtzeitig",
+      "translated_term": "in good time, on time",
+      "example_usage": "Experten empfehlen, die ETA rechtzeitig zu beantragen, um Probleme am Reisetag zu vermeiden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Reisen",
+      "translated_name": "Travel"
+    },
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Sherpa",
+      "link_url": "https://www.joinsherpa.com/post/uk-eta-enforcement-february-2026-what-travel-companies-need-to-know"
+    },
+    {
+      "name": "UK Government",
+      "link_url": "https://www.gov.uk/eta"
+    },
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/travel/2025/11/24/no-permission-no-travel-uk-to-enforce-new-digital-travel-permit-rules-from-february-2026"
+    }
+  ]
+}
