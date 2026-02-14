@@ -1,0 +1,118 @@
+{
+  "title": "BMW ruft weltweit Fahrzeuge wegen Brandgefahr zurück",
+  "translated_title": "BMW Recalls Vehicles Worldwide Due to Fire Risk",
+  "text": [
+    {
+      "text": "Der Automobilhersteller BMW hat einen großen Rückruf von Fahrzeugen angekündigt.",
+      "translated_text": "The automobile manufacturer BMW has announced a major recall of vehicles."
+    },
+    {
+      "text": "Weltweit sind mehrere hunderttausend Autos von diesem Rückruf betroffen.",
+      "translated_text": "Several hundred thousand cars worldwide are affected by this recall."
+    },
+    {
+      "text": "In Deutschland müssen 28.582 Fahrzeuge in die Werkstatt zurück.",
+      "translated_text": "In Germany, 28,582 vehicles must return to the workshop."
+    },
+    {
+      "text": "Der Grund für den Rückruf ist ein mögliches Brandrisiko.",
+      "translated_text": "The reason for the recall is a possible fire risk."
+    },
+    {
+      "text": "Ein technischer Defekt könnte unter bestimmten Umständen zu einem Brand führen.",
+      "translated_text": "A technical defect could lead to a fire under certain circumstances."
+    },
+    {
+      "text": "BMW hat betont, dass die Sicherheit der Kunden oberste Priorität hat.",
+      "translated_text": "BMW has emphasized that customer safety has top priority."
+    },
+    {
+      "text": "Die Reparatur wird kostenlos in autorisierten BMW-Werkstätten durchgeführt.",
+      "translated_text": "The repair will be carried out free of charge at authorized BMW workshops."
+    },
+    {
+      "text": "Betroffene Fahrzeugbesitzer werden per Brief über den Rückruf informiert.",
+      "translated_text": "Affected vehicle owners will be informed about the recall by letter."
+    },
+    {
+      "text": "Experten raten, das Auto nicht mehr zu benutzen, bis die Reparatur abgeschlossen ist.",
+      "translated_text": "Experts advise not to use the car anymore until the repair is completed."
+    },
+    {
+      "text": "Dies ist einer der größten Rückrufe in der Geschichte von BMW.",
+      "translated_text": "This is one of the largest recalls in BMW's history."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Rückruf",
+      "translated_term": "recall",
+      "example_usage": "Der Automobilhersteller BMW hat einen großen Rückruf von Fahrzeugen angekündigt."
+    },
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Der Automobilhersteller BMW hat einen großen Rückruf von Fahrzeugen angekündigt."
+    },
+    {
+      "term": "betroffen sein",
+      "translated_term": "to be affected",
+      "example_usage": "Weltweit sind mehrere hunderttausend Autos von diesem Rückruf betroffen."
+    },
+    {
+      "term": "die Werkstatt",
+      "translated_term": "workshop",
+      "example_usage": "In Deutschland müssen 28.582 Fahrzeuge in die Werkstatt zurück."
+    },
+    {
+      "term": "die Brandgefahr",
+      "translated_term": "fire risk",
+      "example_usage": "Der Grund für den Rückruf ist ein mögliches Brandrisiko."
+    },
+    {
+      "term": "der Defekt",
+      "translated_term": "defect",
+      "example_usage": "Ein technischer Defekt könnte unter bestimmten Umständen zu einem Brand führen."
+    },
+    {
+      "term": "betonen",
+      "translated_term": "to emphasize",
+      "example_usage": "BMW hat betont, dass die Sicherheit der Kunden oberste Priorität hat."
+    },
+    {
+      "term": "kostenlos",
+      "translated_term": "free of charge",
+      "example_usage": "Die Reparatur wird kostenlos in autorisierten BMW-Werkstätten durchgeführt."
+    },
+    {
+      "term": "informieren",
+      "translated_term": "to inform",
+      "example_usage": "Betroffene Fahrzeugbesitzer werden per Brief über den Rückruf informiert."
+    },
+    {
+      "term": "abschließen",
+      "translated_term": "to complete",
+      "example_usage": "Experten raten, das Auto nicht mehr zu benutzen, bis die Reparatur abgeschlossen ist."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    },
+    {
+      "name": "Verbraucherschutz",
+      "translated_name": "Consumer Protection"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20260212/today-in-germany-a-roundup-of-the-latest-news-on-thursday-106"
+    }
+  ]
+}
