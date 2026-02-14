@@ -1,0 +1,118 @@
+{
+  "title": "Siemens Energy meldet starkes Gewinnwachstum",
+  "translated_title": "Siemens Energy Reports Strong Profit Growth",
+  "text": [
+    {
+      "text": "Der deutsche Turbinenhersteller Siemens Energy hat beeindruckende Quartalsergebnisse vorgelegt.",
+      "translated_text": "The German turbine manufacturer Siemens Energy has presented impressive quarterly results."
+    },
+    {
+      "text": "Der Nettogewinn des Unternehmens hat sich fast verdreifacht.",
+      "translated_text": "The company's net profit has almost tripled."
+    },
+    {
+      "text": "Im aktuellen Quartal erreichte der Gewinn 746 Millionen Euro, verglichen mit 252 Millionen Euro im Vorjahr.",
+      "translated_text": "In the current quarter, the profit reached 746 million euros, compared to 252 million euros in the previous year."
+    },
+    {
+      "text": "Der Hauptgrund für diesen Erfolg ist die steigende Nachfrage nach Elektrizität für künstliche Intelligenz.",
+      "translated_text": "The main reason for this success is the increasing demand for electricity for artificial intelligence."
+    },
+    {
+      "text": "Rechenzentren für KI-Anwendungen benötigen enorme Mengen an Strom.",
+      "translated_text": "Data centers for AI applications require enormous amounts of electricity."
+    },
+    {
+      "text": "Siemens Energy liefert die Turbinen und Generatoren, die diesen Strom erzeugen.",
+      "translated_text": "Siemens Energy supplies the turbines and generators that produce this electricity."
+    },
+    {
+      "text": "Das Unternehmen beschäftigt weltweit etwa 100.000 Mitarbeiter.",
+      "translated_text": "The company employs around 100,000 employees worldwide."
+    },
+    {
+      "text": "Die Aktie von Siemens Energy ist in den letzten Monaten stark gestiegen.",
+      "translated_text": "Siemens Energy's stock has risen sharply in recent months."
+    },
+    {
+      "text": "Analysten erwarten, dass die Nachfrage nach Energieinfrastruktur weiter wachsen wird.",
+      "translated_text": "Analysts expect that demand for energy infrastructure will continue to grow."
+    },
+    {
+      "text": "Dies ist eine positive Nachricht für die deutsche Wirtschaft und den Technologiesektor.",
+      "translated_text": "This is positive news for the German economy and the technology sector."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Turbinenhersteller",
+      "translated_term": "turbine manufacturer",
+      "example_usage": "Der deutsche Turbinenhersteller Siemens Energy hat beeindruckende Quartalsergebnisse vorgelegt."
+    },
+    {
+      "term": "das Quartalsergebnis",
+      "translated_term": "quarterly result",
+      "example_usage": "Der deutsche Turbinenhersteller Siemens Energy hat beeindruckende Quartalsergebnisse vorgelegt."
+    },
+    {
+      "term": "verdreifachen",
+      "translated_term": "to triple",
+      "example_usage": "Der Nettogewinn des Unternehmens hat sich fast verdreifacht."
+    },
+    {
+      "term": "der Nettogewinn",
+      "translated_term": "net profit",
+      "example_usage": "Der Nettogewinn des Unternehmens hat sich fast verdreifacht."
+    },
+    {
+      "term": "die Nachfrage",
+      "translated_term": "demand",
+      "example_usage": "Der Hauptgrund für diesen Erfolg ist die steigende Nachfrage nach Elektrizität für künstliche Intelligenz."
+    },
+    {
+      "term": "das Rechenzentrum",
+      "translated_term": "data center",
+      "example_usage": "Rechenzentren für KI-Anwendungen benötigen enorme Mengen an Strom."
+    },
+    {
+      "term": "benötigen",
+      "translated_term": "to require",
+      "example_usage": "Rechenzentren für KI-Anwendungen benötigen enorme Mengen an Strom."
+    },
+    {
+      "term": "beschäftigen",
+      "translated_term": "to employ",
+      "example_usage": "Das Unternehmen beschäftigt weltweit etwa 100.000 Mitarbeiter."
+    },
+    {
+      "term": "die Aktie",
+      "translated_term": "stock",
+      "example_usage": "Die Aktie von Siemens Energy ist in den letzten Monaten stark gestiegen."
+    },
+    {
+      "term": "die Energieinfrastruktur",
+      "translated_term": "energy infrastructure",
+      "example_usage": "Analysten erwarten, dass die Nachfrage nach Energieinfrastruktur weiter wachsen wird."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    },
+    {
+      "name": "Künstliche Intelligenz",
+      "translated_name": "Artificial Intelligence"
+    },
+    {
+      "name": "Energiepolitik",
+      "translated_name": "Energy Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20260212/today-in-germany-a-roundup-of-the-latest-news-on-thursday-106"
+    }
+  ]
+}
