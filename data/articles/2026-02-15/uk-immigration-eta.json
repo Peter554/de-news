@@ -1,0 +1,128 @@
+{
+  "title": "Neue Reiseregeln für Großbritannien",
+  "translated_title": "New Travel Rules for Great Britain",
+  "text": [
+    {
+      "text": "Ab dem 25. Februar 2026 gibt es neue Einreisebestimmungen für Reisen nach Großbritannien.",
+      "translated_text": "From February 25, 2026, there are new entry requirements for travel to Great Britain."
+    },
+    {
+      "text": "Alle Reisenden müssen eine elektronische Reisegenehmigung (ETA) vorweisen.",
+      "translated_text": "All travelers must present an Electronic Travel Authorization (ETA)."
+    },
+    {
+      "text": "Diese Regelung gilt für alle Personen, die ein Besuchervisum für Großbritannien beantragen.",
+      "translated_text": "This regulation applies to all people who apply for a visitor visa for Great Britain."
+    },
+    {
+      "text": "Fluggesellschaften und Fährunternehmen dürfen keine Passagiere ohne gültige ETA befördern.",
+      "translated_text": "Airlines and ferry companies are not allowed to carry passengers without a valid ETA."
+    },
+    {
+      "text": "Die britische Regierung hat diese Anweisung an alle Transportunternehmen geschickt.",
+      "translated_text": "The British government has sent this instruction to all transport companies."
+    },
+    {
+      "text": "Menschen, die ab dem 25. Februar ein Visum bezahlen, erhalten möglicherweise keinen Visumsaufkleber mehr.",
+      "translated_text": "People who pay for a visa from February 25 may no longer receive a visa sticker."
+    },
+    {
+      "text": "Stattdessen bekommen sie ein elektronisches Visum, das sogenannte eVisa.",
+      "translated_text": "Instead, they receive an electronic visa, the so-called eVisa."
+    },
+    {
+      "text": "Diese Änderungen sind Teil der Modernisierung des britischen Einwanderungssystems.",
+      "translated_text": "These changes are part of the modernization of the British immigration system."
+    },
+    {
+      "text": "Reisende sollten sich rechtzeitig vor ihrer Reise um die ETA kümmern.",
+      "translated_text": "Travelers should take care of the ETA in good time before their trip."
+    },
+    {
+      "text": "Die neuen Regeln sollen die Grenzkontrolle effizienter und digitaler machen.",
+      "translated_text": "The new rules are intended to make border control more efficient and more digital."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Einreisebestimmung",
+      "translated_term": "entry requirement",
+      "example_usage": "Ab dem 25. Februar 2026 gibt es neue Einreisebestimmungen für Reisen nach Großbritannien."
+    },
+    {
+      "term": "vorweisen",
+      "translated_term": "to present / to show",
+      "example_usage": "Alle Reisenden müssen eine elektronische Reisegenehmigung (ETA) vorweisen."
+    },
+    {
+      "term": "die Genehmigung",
+      "translated_term": "authorization / permit",
+      "example_usage": "Alle Reisenden müssen eine elektronische Reisegenehmigung (ETA) vorweisen."
+    },
+    {
+      "term": "die Regelung",
+      "translated_term": "regulation / rule",
+      "example_usage": "Diese Regelung gilt für alle Personen, die ein Besuchervisum für Großbritannien beantragen."
+    },
+    {
+      "term": "beantragen",
+      "translated_term": "to apply for",
+      "example_usage": "Diese Regelung gilt für alle Personen, die ein Besuchervisum für Großbritannien beantragen."
+    },
+    {
+      "term": "befördern",
+      "translated_term": "to carry / to transport",
+      "example_usage": "Fluggesellschaften und Fährunternehmen dürfen keine Passagiere ohne gültige ETA befördern."
+    },
+    {
+      "term": "gültig",
+      "translated_term": "valid",
+      "example_usage": "Fluggesellschaften und Fährunternehmen dürfen keine Passagiere ohne gültige ETA befördern."
+    },
+    {
+      "term": "die Anweisung",
+      "translated_term": "instruction / directive",
+      "example_usage": "Die britische Regierung hat diese Anweisung an alle Transportunternehmen geschickt."
+    },
+    {
+      "term": "der Aufkleber",
+      "translated_term": "sticker",
+      "example_usage": "Menschen, die ab dem 25. Februar ein Visum bezahlen, erhalten möglicherweise keinen Visumsaufkleber mehr."
+    },
+    {
+      "term": "sich kümmern",
+      "translated_term": "to take care of / to look after",
+      "example_usage": "Reisende sollten sich rechtzeitig vor ihrer Reise um die ETA kümmern."
+    },
+    {
+      "term": "rechtzeitig",
+      "translated_term": "in good time / timely",
+      "example_usage": "Reisende sollten sich rechtzeitig vor ihrer Reise um die ETA kümmern."
+    },
+    {
+      "term": "die Grenzkontrolle",
+      "translated_term": "border control",
+      "example_usage": "Die neuen Regeln sollen die Grenzkontrolle effizienter und digitaler machen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Einwanderungspolitik",
+      "translated_name": "Immigration Policy"
+    },
+    {
+      "name": "Reisen",
+      "translated_name": "Travel"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Clyde & Co",
+      "link_url": "https://www.clydeco.com/en/insights/2026/02/uk-immigration-update-february-26"
+    }
+  ]
+}
