@@ -1,0 +1,132 @@
+{
+  "title": "Streiks und Sicherheitsprobleme bei der Deutschen Bahn",
+  "translated_title": "Strikes and Safety Problems at Deutsche Bahn",
+  "text": [
+    {
+      "text": "In Deutschland gab es in dieser Woche mehrere Streiks im Verkehrssektor.",
+      "translated_text": "In Germany, there were several strikes in the transport sector this week."
+    },
+    {
+      "text": "Piloten und Flugbegleiter von Lufthansa streikten am Donnerstag wegen eines Streits über Renten.",
+      "translated_text": "Lufthansa pilots and cabin crew went on strike on Thursday over a dispute about pensions."
+    },
+    {
+      "text": "Der Streik betraf Flüge, die von deutschen Flughäfen abflogen.",
+      "translated_text": "The strike affected flights departing from German airports."
+    },
+    {
+      "text": "Auch Mitarbeiter des öffentlichen Dienstes der Gewerkschaft Verdi streikten.",
+      "translated_text": "Public service employees from the Verdi union also went on strike."
+    },
+    {
+      "text": "In Hamburg, München und Nürnberg gab es Probleme mit Bussen, Straßenbahnen und U-Bahnen.",
+      "translated_text": "In Hamburg, Munich, and Nuremberg, there were problems with buses, trams, and subways."
+    },
+    {
+      "text": "Die Deutsche Bahn hielt am Freitag in Berlin einen Sicherheitsgipfel ab.",
+      "translated_text": "Deutsche Bahn held a safety summit in Berlin on Friday."
+    },
+    {
+      "text": "Im letzten Jahr wurden mehr als 3.000 Angriffe auf Bahnmitarbeiter registriert.",
+      "translated_text": "Last year, more than 3,000 attacks on railway staff were recorded."
+    },
+    {
+      "text": "Anfang Februar starb ein 36-jähriger Zugbegleiter an den Folgen eines Angriffs in Rheinland-Pfalz.",
+      "translated_text": "In early February, a 36-year-old train conductor died from the consequences of an attack in Rhineland-Palatinate."
+    },
+    {
+      "text": "Die Sicherheit der Bahnmitarbeiter ist ein großes Problem für das Unternehmen.",
+      "translated_text": "The safety of railway employees is a major problem for the company."
+    },
+    {
+      "text": "Die Deutsche Bahn muss bessere Maßnahmen zum Schutz ihrer Mitarbeiter entwickeln.",
+      "translated_text": "Deutsche Bahn must develop better measures to protect its employees."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Streik",
+      "translated_term": "strike",
+      "example_usage": "Piloten und Flugbegleiter von Lufthansa streikten am Donnerstag wegen eines Streits über Renten."
+    },
+    {
+      "term": "streiken",
+      "translated_term": "to strike / to go on strike",
+      "example_usage": "Piloten und Flugbegleiter von Lufthansa streikten am Donnerstag wegen eines Streits über Renten."
+    },
+    {
+      "term": "der Streit",
+      "translated_term": "dispute / conflict",
+      "example_usage": "Piloten und Flugbegleiter von Lufthansa streikten am Donnerstag wegen eines Streits über Renten."
+    },
+    {
+      "term": "die Rente",
+      "translated_term": "pension",
+      "example_usage": "Piloten und Flugbegleiter von Lufthansa streikten am Donnerstag wegen eines Streits über Renten."
+    },
+    {
+      "term": "betreffen",
+      "translated_term": "to affect / to concern",
+      "example_usage": "Der Streik betraf Flüge, die von deutschen Flughäfen abflogen."
+    },
+    {
+      "term": "abfliegen",
+      "translated_term": "to depart (by plane)",
+      "example_usage": "Der Streik betraf Flüge, die von deutschen Flughäfen abflogen."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "union / trade union",
+      "example_usage": "Auch Mitarbeiter des öffentlichen Dienstes der Gewerkschaft Verdi streikten."
+    },
+    {
+      "term": "abhalten",
+      "translated_term": "to hold (a meeting/event)",
+      "example_usage": "Die Deutsche Bahn hielt am Freitag in Berlin einen Sicherheitsgipfel ab."
+    },
+    {
+      "term": "der Angriff",
+      "translated_term": "attack",
+      "example_usage": "Im letzten Jahr wurden mehr als 3.000 Angriffe auf Bahnmitarbeiter registriert."
+    },
+    {
+      "term": "registrieren",
+      "translated_term": "to record / to register",
+      "example_usage": "Im letzten Jahr wurden mehr als 3.000 Angriffe auf Bahnmitarbeiter registriert."
+    },
+    {
+      "term": "die Folge",
+      "translated_term": "consequence / result",
+      "example_usage": "Anfang Februar starb ein 36-jähriger Zugbegleiter an den Folgen eines Angriffs in Rheinland-Pfalz."
+    },
+    {
+      "term": "der Schutz",
+      "translated_term": "protection",
+      "example_usage": "Die Deutsche Bahn muss bessere Maßnahmen zum Schutz ihrer Mitarbeiter entwickeln."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20260212/today-in-germany-a-roundup-of-the-latest-news-on-thursday-106"
+    },
+    {
+      "name": "The Local Germany",
+      "link_url": "https://www.thelocal.de/20260213/today-in-germany-a-roundup-of-the-latest-news-on-friday-112"
+    }
+  ]
+}
