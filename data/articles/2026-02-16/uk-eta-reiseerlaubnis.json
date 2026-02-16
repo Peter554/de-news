@@ -1,0 +1,157 @@
+{
+  "title": "Neue Reiseregeln für Großbritannien ab 25. Februar",
+  "translated_title": "New travel rules for Great Britain from February 25",
+  "text": [
+    {
+      "text": "Ab dem 25. Februar 2026 gelten neue Einreiseregeln für Großbritannien.",
+      "translated_text": "From February 25, 2026, new entry rules apply for Great Britain."
+    },
+    {
+      "text": "Reisende aus vielen Ländern brauchen dann eine elektronische Reiseerlaubnis, kurz ETA genannt.",
+      "translated_text": "Travelers from many countries will then need an electronic travel authorization, called ETA for short."
+    },
+    {
+      "text": "Eine ETA ist eine digitale Erlaubnis für die Einreise ins Vereinigte Königreich.",
+      "translated_text": "An ETA is a digital permission for entry into the United Kingdom."
+    },
+    {
+      "text": "Sie gilt für Besucher, die normalerweise kein Visum brauchen.",
+      "translated_text": "It applies to visitors who normally do not need a visa."
+    },
+    {
+      "text": "Betroffen sind Bürger aus 85 Ländern, darunter alle EU-Staaten, die USA und Kanada.",
+      "translated_text": "Citizens from 85 countries are affected, including all EU states, the USA and Canada."
+    },
+    {
+      "text": "Ohne genehmigte ETA darf man ab dem 25. Februar nicht mehr ins Flugzeug steigen.",
+      "translated_text": "Without an approved ETA, you will no longer be allowed to board the plane from February 25."
+    },
+    {
+      "text": "Die Fluggesellschaften werden die ETA vor dem Abflug kontrollieren.",
+      "translated_text": "The airlines will check the ETA before departure."
+    },
+    {
+      "text": "Eine ETA kostet 16 britische Pfund, das sind etwa 19 Euro.",
+      "translated_text": "An ETA costs 16 British pounds, which is about 19 euros."
+    },
+    {
+      "text": "Man kann die ETA über eine spezielle App beantragen.",
+      "translated_text": "You can apply for the ETA through a special app."
+    },
+    {
+      "text": "Die meisten Anträge werden innerhalb weniger Minuten automatisch genehmigt.",
+      "translated_text": "Most applications are automatically approved within a few minutes."
+    },
+    {
+      "text": "Manchmal kann es aber bis zu drei Arbeitstage dauern.",
+      "translated_text": "However, sometimes it can take up to three working days."
+    },
+    {
+      "text": "Die ETA ist zwei Jahre lang gültig und erlaubt mehrere Reisen.",
+      "translated_text": "The ETA is valid for two years and allows multiple trips."
+    },
+    {
+      "text": "Britische und irische Staatsbürger brauchen keine ETA.",
+      "translated_text": "British and Irish citizens do not need an ETA."
+    },
+    {
+      "text": "Diese neue Regelung ist ähnlich wie in den USA und Kanada, die schon länger solche Systeme haben.",
+      "translated_text": "This new regulation is similar to the USA and Canada, which have had such systems for longer."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Einreiseregel",
+      "translated_term": "entry rule",
+      "example_usage": "Ab dem 25. Februar 2026 gelten neue Einreiseregeln für Großbritannien."
+    },
+    {
+      "term": "die Reiseerlaubnis",
+      "translated_term": "travel authorization",
+      "example_usage": "Reisende aus vielen Ländern brauchen dann eine elektronische Reiseerlaubnis, kurz ETA genannt."
+    },
+    {
+      "term": "die Erlaubnis",
+      "translated_term": "permission, authorization",
+      "example_usage": "Eine ETA ist eine digitale Erlaubnis für die Einreise ins Vereinigte Königreich."
+    },
+    {
+      "term": "das Vereinigte Königreich",
+      "translated_term": "United Kingdom",
+      "example_usage": "Eine ETA ist eine digitale Erlaubnis für die Einreise ins Vereinigte Königreich."
+    },
+    {
+      "term": "das Visum",
+      "translated_term": "visa",
+      "example_usage": "Sie gilt für Besucher, die normalerweise kein Visum brauchen."
+    },
+    {
+      "term": "betroffen sein",
+      "translated_term": "to be affected",
+      "example_usage": "Betroffen sind Bürger aus 85 Ländern, darunter alle EU-Staaten, die USA und Kanada."
+    },
+    {
+      "term": "genehmigen",
+      "translated_term": "to approve",
+      "example_usage": "Die meisten Anträge werden innerhalb weniger Minuten automatisch genehmigt."
+    },
+    {
+      "term": "die Fluggesellschaft",
+      "translated_term": "airline",
+      "example_usage": "Die Fluggesellschaften werden die ETA vor dem Abflug kontrollieren."
+    },
+    {
+      "term": "beantragen",
+      "translated_term": "to apply for",
+      "example_usage": "Man kann die ETA über eine spezielle App beantragen."
+    },
+    {
+      "term": "der Antrag",
+      "translated_term": "application",
+      "example_usage": "Die meisten Anträge werden innerhalb weniger Minuten automatisch genehmigt."
+    },
+    {
+      "term": "gültig",
+      "translated_term": "valid",
+      "example_usage": "Die ETA ist zwei Jahre lang gültig und erlaubt mehrere Reisen."
+    },
+    {
+      "term": "der Staatsbürger",
+      "translated_term": "citizen",
+      "example_usage": "Britische und irische Staatsbürger brauchen keine ETA."
+    },
+    {
+      "term": "die Regelung",
+      "translated_term": "regulation, rule",
+      "example_usage": "Diese neue Regelung ist ähnlich wie in den USA und Kanada, die schon länger solche Systeme haben."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Reisen",
+      "translated_name": "Travel"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "GOV.UK - Get an electronic travel authorisation (ETA)",
+      "link_url": "https://www.gov.uk/eta"
+    },
+    {
+      "name": "Citizens Rights Project - What is an ETA?",
+      "link_url": "https://citizensrightsproject.org/what-is-an-eta-and-do-i-need-one-new-uk-travel-regulations-from-february-2026/"
+    },
+    {
+      "name": "Envoy Global - UK to Enforce ETA Scheme in February 2026",
+      "link_url": "https://www.envoyglobal.com/news-alert/united-kingdom-to-enforce-eta-scheme-in-february-2026/"
+    }
+  ]
+}
