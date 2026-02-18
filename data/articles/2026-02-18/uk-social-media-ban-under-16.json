@@ -1,0 +1,123 @@
+{
+  "title": "Großbritannien plant Verbot von sozialen Medien für Kinder unter 16 Jahren",
+  "translated_title": "United Kingdom plans ban on social media for children under 16",
+  "text": [
+    {
+      "text": "Die britische Regierung plant, Kindern unter 16 Jahren die Nutzung sozialer Medien zu verbieten.",
+      "translated_text": "The British government is planning to ban children under 16 from using social media."
+    },
+    {
+      "text": "Premierminister Sir Keir Starmer kündigte an, dass das Verbot noch in diesem Jahr kommen könnte.",
+      "translated_text": "Prime Minister Sir Keir Starmer announced that the ban could come into effect this year."
+    },
+    {
+      "text": "Die Regierung möchte Kinder besser vor den Gefahren im Internet schützen.",
+      "translated_text": "The government wants to better protect children from the dangers of the internet."
+    },
+    {
+      "text": "Im März 2026 soll eine öffentliche Konsultation zu dem Thema beginnen.",
+      "translated_text": "A public consultation on the topic is set to begin in March 2026."
+    },
+    {
+      "text": "Danach will die Regierung schnell neue Gesetze einführen, ohne lange auf neue Gesetzgebung warten zu müssen.",
+      "translated_text": "After that, the government wants to quickly introduce new regulations without having to wait long for new legislation."
+    },
+    {
+      "text": "Das geplante Verbot richtet sich vor allem gegen Plattformen wie TikTok, YouTube, Instagram, Facebook und X.",
+      "translated_text": "The planned ban targets platforms such as TikTok, YouTube, Instagram, Facebook, and X in particular."
+    },
+    {
+      "text": "Auch suchtmachende Funktionen wie endloses Scrollen und das automatische Abspielen von Videos sollen verboten werden.",
+      "translated_text": "Addictive features like infinite scrolling and auto-play videos would also be banned."
+    },
+    {
+      "text": "Als Vorbild gilt Australien, das seit Dezember 2025 ein ähnliches Verbot durchsetzt.",
+      "translated_text": "Australia, which has enforced a similar ban since December 2025, serves as a model."
+    },
+    {
+      "text": "Unternehmen, die sich nicht an das australische Gesetz halten, müssen Strafen von bis zu 49,5 Millionen Dollar zahlen.",
+      "translated_text": "Companies that do not comply with the Australian law must pay fines of up to 49.5 million dollars."
+    },
+    {
+      "text": "Auch Spanien, Griechenland und Slowenien prüfen ähnliche Gesetze.",
+      "translated_text": "Spain, Greece, and Slovenia are also considering similar laws."
+    },
+    {
+      "text": "Mehr als 60 Labour-Abgeordnete hatten bereits in einem offenen Brief an Starmer für ein Verbot plädiert.",
+      "translated_text": "More than 60 Labour MPs had already argued for a ban in an open letter to Starmer."
+    },
+    {
+      "text": "Kritiker warnen, dass ein vollständiges Verbot Kinder dazu bringen könnte, auf weniger sichere Plattformen auszuweichen.",
+      "translated_text": "Critics warn that a blanket ban could push children to switch to less secure platforms."
+    },
+    {
+      "text": "Auch die Frage, wie das Alter der Nutzer zuverlässig überprüft werden soll, ist noch nicht gelöst.",
+      "translated_text": "The question of how to reliably verify users' ages has also not yet been resolved."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Verbot",
+      "translated_term": "the ban",
+      "example_usage": "Die britische Regierung plant, Kindern unter 16 Jahren die Nutzung sozialer Medien zu verbieten."
+    },
+    {
+      "term": "die Konsultation",
+      "translated_term": "the consultation",
+      "example_usage": "Im März 2026 soll eine öffentliche Konsultation zu dem Thema beginnen."
+    },
+    {
+      "term": "schützen",
+      "translated_term": "to protect",
+      "example_usage": "Die Regierung möchte Kinder besser vor den Gefahren im Internet schützen."
+    },
+    {
+      "term": "suchtmachend",
+      "translated_term": "addictive",
+      "example_usage": "Auch suchtmachende Funktionen wie endloses Scrollen und das automatische Abspielen von Videos sollen verboten werden."
+    },
+    {
+      "term": "die Strafe",
+      "translated_term": "the fine / penalty",
+      "example_usage": "Unternehmen, die sich nicht an das australische Gesetz halten, müssen Strafen von bis zu 49,5 Millionen Dollar zahlen."
+    },
+    {
+      "term": "ausweichen",
+      "translated_term": "to switch to / to evade",
+      "example_usage": "Kritiker warnen, dass ein vollständiges Verbot Kinder dazu bringen könnte, auf weniger sichere Plattformen auszuweichen."
+    },
+    {
+      "term": "überprüfen",
+      "translated_term": "to verify / to check",
+      "example_usage": "Auch die Frage, wie das Alter der Nutzer zuverlässig überprüft werden soll, ist noch nicht gelöst."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Britische Politik",
+      "translated_name": "British Politics"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NBC News: U.K. eyes rapid ban on social media for under 16s",
+      "link_url": "https://www.nbcnews.com/world/united-kingdom/uks-starmer-seeks-greater-powers-regulate-online-access-rcna259203"
+    },
+    {
+      "name": "LBC: Social media ban for under 16s 'within months'",
+      "link_url": "https://www.lbc.co.uk/article/social-media-ban-for-under-16s-could-be-unveiled-in-months-starmer-5HjdSP6_2/"
+    },
+    {
+      "name": "City A.M.: UK under-16s social media ban could land before year end",
+      "link_url": "https://www.cityam.com/uk-under-16s-social-media-ban-could-land-before-year-end/"
+    }
+  ]
+}

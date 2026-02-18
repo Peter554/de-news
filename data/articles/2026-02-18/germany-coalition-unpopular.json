@@ -1,0 +1,119 @@
+{
+  "title": "Deutsche Bundesregierung verliert weiter an Zustimmung",
+  "translated_title": "German federal government continues to lose approval",
+  "text": [
+    {
+      "text": "Ein Jahr nach der Bundestagswahl ist die Zufriedenheit mit der deutschen Bundesregierung auf einem Tiefpunkt.",
+      "translated_text": "One year after the federal election, satisfaction with the German federal government has reached a low point."
+    },
+    {
+      "text": "Laut einer aktuellen Umfrage sind nur 22 Prozent der Deutschen mit der Arbeit der Regierung zufrieden.",
+      "translated_text": "According to a recent poll, only 22 percent of Germans are satisfied with the government's work."
+    },
+    {
+      "text": "Dagegen sind 75 Prozent unzufrieden – ein historisch schlechter Wert.",
+      "translated_text": "In contrast, 75 percent are dissatisfied – a historically poor figure."
+    },
+    {
+      "text": "Die schwarz-rote Koalition aus CDU/CSU und SPD regiert Deutschland seit dem Frühjahr 2025.",
+      "translated_text": "The black-red coalition of CDU/CSU and SPD has been governing Germany since spring 2025."
+    },
+    {
+      "text": "Kurz nach der Koalitionsbildung waren noch 38 Prozent mit der Regierung zufrieden.",
+      "translated_text": "Shortly after the coalition was formed, 38 percent were still satisfied with the government."
+    },
+    {
+      "text": "Bundeskanzler Friedrich Merz steht besonders in der Kritik: 67 Prozent der Befragten sind mit seiner Arbeit unzufrieden.",
+      "translated_text": "Federal Chancellor Friedrich Merz is particularly under criticism: 67 percent of respondents are dissatisfied with his work."
+    },
+    {
+      "text": "Nur 23 Prozent bewerten die Arbeit von Merz als gut.",
+      "translated_text": "Only 23 percent rate Merz's work as good."
+    },
+    {
+      "text": "In aktuellen Umfragen liegt die CDU/CSU mit 25 Prozent hinter der AfD, die 26 Prozent erreicht.",
+      "translated_text": "In current polls, the CDU/CSU stands at 25 percent, behind the AfD which reaches 26 percent."
+    },
+    {
+      "text": "Die SPD kommt auf 16 Prozent, die Grünen auf 11 Prozent und Die Linke auf 10 Prozent.",
+      "translated_text": "The SPD reaches 16 percent, the Greens 11 percent, and Die Linke 10 percent."
+    },
+    {
+      "text": "Zwischen den Koalitionspartnern gibt es Streit über Themen wie Migrationspolitik, Renten und den Haushalt.",
+      "translated_text": "There are disagreements between the coalition partners on topics such as migration policy, pensions, and the budget."
+    },
+    {
+      "text": "Im Frühling 2026 finden außerdem wichtige Landtagswahlen statt, unter anderem in Baden-Württemberg und Rheinland-Pfalz.",
+      "translated_text": "In spring 2026, important state elections will also take place, including in Baden-Württemberg and Rhineland-Palatinate."
+    },
+    {
+      "text": "Beobachter befürchten, dass die CDU/CSU bei diesen Wahlen Stimmen verlieren könnte.",
+      "translated_text": "Observers fear that the CDU/CSU could lose votes in these elections."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Zustimmung",
+      "translated_term": "the approval",
+      "example_usage": "Ein Jahr nach der Bundestagswahl ist die Zufriedenheit mit der deutschen Bundesregierung auf einem Tiefpunkt."
+    },
+    {
+      "term": "die Umfrage",
+      "translated_term": "the survey / poll",
+      "example_usage": "Laut einer aktuellen Umfrage sind nur 22 Prozent der Deutschen mit der Arbeit der Regierung zufrieden."
+    },
+    {
+      "term": "unzufrieden",
+      "translated_term": "dissatisfied",
+      "example_usage": "Dagegen sind 75 Prozent unzufrieden – ein historisch schlechter Wert."
+    },
+    {
+      "term": "die Koalition",
+      "translated_term": "the coalition",
+      "example_usage": "Die schwarz-rote Koalition aus CDU/CSU und SPD regiert Deutschland seit dem Frühjahr 2025."
+    },
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "the Federal Chancellor",
+      "example_usage": "Bundeskanzler Friedrich Merz steht besonders in der Kritik."
+    },
+    {
+      "term": "der Streit",
+      "translated_term": "the dispute / disagreement",
+      "example_usage": "Zwischen den Koalitionspartnern gibt es Streit über Themen wie Migrationspolitik, Renten und den Haushalt."
+    },
+    {
+      "term": "befürchten",
+      "translated_term": "to fear / to be concerned about",
+      "example_usage": "Beobachter befürchten, dass die CDU/CSU bei diesen Wahlen Stimmen verlieren könnte."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Bundestagswahl",
+      "translated_name": "Federal Election"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Anadolu Agency: Poll shows German Chancellor Merz's coalition government losing voter confidence",
+      "link_url": "https://www.aa.com.tr/en/europe/poll-shows-german-chancellor-merzs-coalition-government-losing-voter-confidence/3767413"
+    },
+    {
+      "name": "YouGov: Sonntagsfrage Februar 2026",
+      "link_url": "https://yougov.de/politics/articles/54069-yougov-sonntagsfrage-februar-2026-zustimmung-zur-union-bleibt-unter-bundestagswahl-ergebnis-zufriedenheit-mit-bundesregierung-auf-tiefstand"
+    },
+    {
+      "name": "Islam Times: Poll: Nearly 70% of Germans Disapprove of Chancellor Merz",
+      "link_url": "https://www.islamtimes.com/en/news/1262837/poll-nearly-70-of-germans-disapprove-chancellor-merz"
+    }
+  ]
+}
