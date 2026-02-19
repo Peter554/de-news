@@ -1,0 +1,127 @@
+{
+  "title": "Arbeitslosigkeit in Großbritannien steigt auf höchsten Stand seit fünf Jahren",
+  "translated_title": "Unemployment in Great Britain rises to highest level in five years",
+  "text": [
+    {
+      "text": "In Großbritannien ist die Arbeitslosenquote auf den höchsten Stand seit fast fünf Jahren gestiegen.",
+      "translated_text": "In Great Britain, the unemployment rate has risen to its highest level in nearly five years."
+    },
+    {
+      "text": "Das zeigen neue Daten des britischen Statistikamts ONS, die am 17. Februar 2026 veröffentlicht wurden.",
+      "translated_text": "This is shown by new data from the British statistics office ONS, published on February 17, 2026."
+    },
+    {
+      "text": "Die Arbeitslosenquote liegt nun bei 5,2 Prozent.",
+      "translated_text": "The unemployment rate is now 5.2 percent."
+    },
+    {
+      "text": "Das ist der höchste Wert seit Januar 2021, als die Pandemie die britische Wirtschaft stark belastet hatte.",
+      "translated_text": "That is the highest rate since January 2021, when the pandemic had put a heavy burden on the British economy."
+    },
+    {
+      "text": "Besonders stark betroffen sind junge Menschen zwischen 18 und 24 Jahren.",
+      "translated_text": "Young people between 18 and 24 years old are particularly affected."
+    },
+    {
+      "text": "Die Jugendarbeitslosigkeit beträgt 14 Prozent und ist damit auf dem höchsten Stand seit fünf Jahren.",
+      "translated_text": "Youth unemployment stands at 14 percent, the highest level in five years."
+    },
+    {
+      "text": "Gleichzeitig wächst die Lohnentwicklung langsamer als zuvor.",
+      "translated_text": "At the same time, wage growth is slower than before."
+    },
+    {
+      "text": "Die Löhne im Privatsektor stiegen nur um 3,4 Prozent – der niedrigste Wert seit fünf Jahren.",
+      "translated_text": "Private sector wages rose by only 3.4 percent – the lowest rate in five years."
+    },
+    {
+      "text": "Im öffentlichen Sektor dagegen stiegen die Löhne um 7,2 Prozent.",
+      "translated_text": "In the public sector, on the other hand, wages rose by 7.2 percent."
+    },
+    {
+      "text": "Im Vergleich zum Vorjahr gab es im Dezember 2025 rund 121.000 weniger Beschäftigte.",
+      "translated_text": "Compared to the previous year, there were around 121,000 fewer employees in December 2025."
+    },
+    {
+      "text": "Ökonomen sagen, dass diese Zahlen den Druck auf die Bank of England erhöhen, die Zinsen zu senken.",
+      "translated_text": "Economists say that these figures increase the pressure on the Bank of England to cut interest rates."
+    },
+    {
+      "text": "Die Bank of England prognostiziert, dass die Arbeitslosigkeit bis Mitte 2026 weiter auf 5,3 Prozent steigen könnte.",
+      "translated_text": "The Bank of England forecasts that unemployment could rise further to 5.3 percent by mid-2026."
+    },
+    {
+      "text": "London hat mit 7,6 Prozent die höchste regionale Arbeitslosenquote im ganzen Land.",
+      "translated_text": "London has the highest regional unemployment rate in the whole country at 7.6 percent."
+    },
+    {
+      "text": "Die britische Regierung steht nun unter Druck, Maßnahmen zur Stärkung der Wirtschaft zu ergreifen.",
+      "translated_text": "The British government is now under pressure to take measures to strengthen the economy."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Arbeitslosenquote",
+      "translated_term": "the unemployment rate",
+      "example_usage": "Die Arbeitslosenquote liegt nun bei 5,2 Prozent."
+    },
+    {
+      "term": "die Jugendarbeitslosigkeit",
+      "translated_term": "youth unemployment",
+      "example_usage": "Die Jugendarbeitslosigkeit beträgt 14 Prozent und ist damit auf dem höchsten Stand seit fünf Jahren."
+    },
+    {
+      "term": "die Lohnentwicklung",
+      "translated_term": "wage growth / wage development",
+      "example_usage": "Gleichzeitig wächst die Lohnentwicklung langsamer als zuvor."
+    },
+    {
+      "term": "der Privatsektor",
+      "translated_term": "the private sector",
+      "example_usage": "Die Löhne im Privatsektor stiegen nur um 3,4 Prozent."
+    },
+    {
+      "term": "prognostizieren",
+      "translated_term": "to forecast / to predict",
+      "example_usage": "Die Bank of England prognostiziert, dass die Arbeitslosigkeit bis Mitte 2026 auf 5,3 Prozent steigen könnte."
+    },
+    {
+      "term": "die Zinsen senken",
+      "translated_term": "to cut interest rates",
+      "example_usage": "Diese Zahlen erhöhen den Druck auf die Bank of England, die Zinsen zu senken."
+    },
+    {
+      "term": "der Druck",
+      "translated_term": "the pressure",
+      "example_usage": "Die britische Regierung steht nun unter Druck, Maßnahmen zur Stärkung der Wirtschaft zu ergreifen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Britische Politik",
+      "translated_name": "British Politics"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ONS: Labour market overview, UK: February 2026",
+      "link_url": "https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/february2026"
+    },
+    {
+      "name": "People Management: Unemployment reaches near five-year high, ONS data shows",
+      "link_url": "https://www.peoplemanagement.co.uk/article/1948650/unemployment-reaches-near-five-year-high-ons-data-shows"
+    },
+    {
+      "name": "Yahoo Finance UK: UK unemployment hits five-year high to ramp Bank of England cut pressure",
+      "link_url": "https://uk.finance.yahoo.com/news/uk-unemployment-hits-five-high-110100789.html"
+    }
+  ]
+}
