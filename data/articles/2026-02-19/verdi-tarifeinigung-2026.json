@@ -1,0 +1,127 @@
+{
+  "title": "Tarifeinigung im öffentlichen Dienst: Verdi einigt sich auf 5,8 Prozent Lohnerhöhung",
+  "translated_title": "Pay deal in the public sector: Verdi agrees on 5.8 percent wage increase",
+  "text": [
+    {
+      "text": "Im Februar 2026 hat die Gewerkschaft Verdi einen neuen Tarifvertrag für den öffentlichen Dienst abgeschlossen.",
+      "translated_text": "In February 2026, the Verdi trade union concluded a new collective agreement for the public sector."
+    },
+    {
+      "text": "Damit ist der wochenlange Streit um die Löhne von rund 2,2 Millionen Beschäftigten beendet.",
+      "translated_text": "This ends the weeks-long dispute over the wages of around 2.2 million employees."
+    },
+    {
+      "text": "Die Beschäftigten erhalten insgesamt eine Lohnerhöhung von 5,8 Prozent.",
+      "translated_text": "The employees will receive a total wage increase of 5.8 percent."
+    },
+    {
+      "text": "Die Erhöhung erfolgt in mehreren Schritten: Zuerst steigen die Löhne um 2,8 Prozent ab April 2026.",
+      "translated_text": "The increase will happen in several steps: first, wages will rise by 2.8 percent from April 2026."
+    },
+    {
+      "text": "Dann folgen weitere 2 Prozent ab März 2027 und noch einmal 1 Prozent ab Januar 2028.",
+      "translated_text": "Then a further 2 percent follows from March 2027 and another 1 percent from January 2028."
+    },
+    {
+      "text": "Verdi hatte ursprünglich 7 Prozent mehr Lohn und mindestens 300 Euro im Monat mehr gefordert.",
+      "translated_text": "Verdi had originally demanded 7 percent more wages and at least 300 euros more per month."
+    },
+    {
+      "text": "Der Abschluss liegt also deutlich unter den ursprünglichen Forderungen.",
+      "translated_text": "The settlement is therefore significantly below the original demands."
+    },
+    {
+      "text": "Für Geringverdiener gibt es jedoch eine Mindesterhöhung von 150 Euro pro Monat.",
+      "translated_text": "However, there is a minimum increase of 150 euros per month for lower earners."
+    },
+    {
+      "text": "Im Vorfeld der Einigung hatte es in ganz Deutschland zahlreiche Warnstreiks gegeben.",
+      "translated_text": "In the run-up to the agreement, there had been numerous warning strikes across Germany."
+    },
+    {
+      "text": "Am 2. Februar 2026 legten Mitarbeiter des öffentlichen Nahverkehrs in fast allen Bundesländern die Arbeit nieder.",
+      "translated_text": "On February 2, 2026, public transport workers in almost all German states went on strike."
+    },
+    {
+      "text": "In Berlin waren Kindergärten, Schulen und Behörden von den Streiks betroffen.",
+      "translated_text": "In Berlin, kindergartens, schools and government offices were affected by the strikes."
+    },
+    {
+      "text": "Das Ergebnis bringt auch eine historische Neuerung: Die letzten Unterschiede in den Tarifverträgen zwischen Ost- und Westdeutschland wurden abgeschafft.",
+      "translated_text": "The result also brings a historic change: the last differences in collective agreements between East and West Germany were abolished."
+    },
+    {
+      "text": "36 Jahre nach der Wiedervereinigung gilt nun endlich für alle Beschäftigten im öffentlichen Dienst dasselbe Recht.",
+      "translated_text": "36 years after reunification, the same law now finally applies to all public sector employees."
+    },
+    {
+      "text": "Der neue Tarifvertrag gilt bis Januar 2028.",
+      "translated_text": "The new collective agreement is valid until January 2028."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the trade union",
+      "example_usage": "Im Februar 2026 hat die Gewerkschaft Verdi einen neuen Tarifvertrag abgeschlossen."
+    },
+    {
+      "term": "der Tarifvertrag",
+      "translated_term": "the collective agreement / the pay deal",
+      "example_usage": "Der neue Tarifvertrag gilt bis Januar 2028."
+    },
+    {
+      "term": "die Lohnerhöhung",
+      "translated_term": "the wage increase",
+      "example_usage": "Die Beschäftigten erhalten insgesamt eine Lohnerhöhung von 5,8 Prozent."
+    },
+    {
+      "term": "der Warnstreik",
+      "translated_term": "the warning strike",
+      "example_usage": "Im Vorfeld der Einigung hatte es in ganz Deutschland zahlreiche Warnstreiks gegeben."
+    },
+    {
+      "term": "abschließen",
+      "translated_term": "to conclude / to sign (a contract)",
+      "example_usage": "Die Gewerkschaft Verdi hat einen neuen Tarifvertrag abgeschlossen."
+    },
+    {
+      "term": "die Wiedervereinigung",
+      "translated_term": "the reunification",
+      "example_usage": "36 Jahre nach der Wiedervereinigung gilt nun endlich für alle dasselbe Recht."
+    },
+    {
+      "term": "die Forderung",
+      "translated_term": "the demand",
+      "example_usage": "Der Abschluss liegt deutlich unter den ursprünglichen Forderungen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "VisaHQ: Verdi threatens 'last wave' of strikes across German states ahead of final pay talks",
+      "link_url": "https://www.visahq.com/news/2026-02-06/de/verdi-threatens-last-wave-of-strikes-across-german-states-ahead-of-final-pay-talks/"
+    },
+    {
+      "name": "Berlin.de: Warning strikes in daycare centers, schools and government offices",
+      "link_url": "https://www.berlin.de/en/news/10192930-5559700-warning-strikes-in-daycare-centers-schoo.en.html"
+    },
+    {
+      "name": "WSWS: Verdi union agrees contract for Germany's federal state workers",
+      "link_url": "https://www.wsws.org/en/articles/2026/02/16/lnwj-f16.html"
+    }
+  ]
+}
