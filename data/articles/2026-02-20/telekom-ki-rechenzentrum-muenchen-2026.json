@@ -1,0 +1,127 @@
+{
+  "title": "Deutsche Telekom eröffnet Deutschlands größte KI-Fabrik in München",
+  "translated_title": "Deutsche Telekom Opens Germany's Largest AI Factory in Munich",
+  "text": [
+    {
+      "text": "Die Deutsche Telekom hat am 4. Februar 2026 Deutschlands erste KI-Fabrik in München offiziell in Betrieb genommen.",
+      "translated_text": "On 4 February 2026, Deutsche Telekom officially put Germany's first AI factory into operation in Munich."
+    },
+    {
+      "text": "Das Rechenzentrum trägt den Namen \"Industrial AI Cloud\".",
+      "translated_text": "The data centre bears the name \"Industrial AI Cloud\"."
+    },
+    {
+      "text": "Es wurde zusammen mit dem Technologieunternehmen NVIDIA und dem Start-up Polarise gebaut.",
+      "translated_text": "It was built together with technology company NVIDIA and the start-up Polarise."
+    },
+    {
+      "text": "Das Zentrum befindet sich im Münchner Tucherpark, sechs Stockwerke unter der Erde.",
+      "translated_text": "The centre is located in Munich's Tucherpark, six floors underground."
+    },
+    {
+      "text": "Es erstreckt sich über rund 10.700 Quadratmeter und reicht bis zu 30 Meter tief.",
+      "translated_text": "It covers around 10,700 square metres and reaches up to 30 metres deep."
+    },
+    {
+      "text": "Die Anlage verfügt über fast 10.000 NVIDIA-Grafikprozessoren der neuesten Generation.",
+      "translated_text": "The facility has almost 10,000 latest-generation NVIDIA graphics processors."
+    },
+    {
+      "text": "Damit erhöht sich die KI-Rechenkapazität in Deutschland um rund 50 Prozent.",
+      "translated_text": "This increases Germany's AI computing capacity by around 50 per cent."
+    },
+    {
+      "text": "Das Gesamtprojekt kostet etwa eine Milliarde Euro.",
+      "translated_text": "The overall project costs around one billion euros."
+    },
+    {
+      "text": "Unternehmen, Forschungseinrichtungen und der öffentliche Sektor können die Rechenkapazitäten nutzen.",
+      "translated_text": "Businesses, research institutions and the public sector can use the computing capacities."
+    },
+    {
+      "text": "Zu den ersten Kunden zählen große Unternehmen wie Siemens, Airbus und BMW.",
+      "translated_text": "Among the first customers are large companies such as Siemens, Airbus and BMW."
+    },
+    {
+      "text": "Das Rechenzentrum ist Teil des sogenannten \"Deutschland Stack\", den die Telekom gemeinsam mit SAP bereitstellt.",
+      "translated_text": "The data centre is part of the so-called \"Deutschland Stack\", which Telekom provides together with SAP."
+    },
+    {
+      "text": "Die Abwärme des Rechenzentrums soll künftig den gesamten Tucherpark mit Wärme versorgen.",
+      "translated_text": "The waste heat from the data centre will in future supply the entire Tucherpark with heat."
+    },
+    {
+      "text": "Für die Kühlung wird Wasser aus dem nahegelegenen Eisbach genutzt.",
+      "translated_text": "Water from the nearby Eisbach stream is used for cooling."
+    },
+    {
+      "text": "Polarise hat die Immobilie für 20 Jahre angemietet und erhielt eine Finanzierung von bis zu 117 Millionen Euro.",
+      "translated_text": "Polarise has leased the property for 20 years and received financing of up to 117 million euros."
+    },
+    {
+      "text": "Die Inbetriebnahme gilt als wichtiger Schritt zur technologischen Souveränität Deutschlands im Bereich Künstliche Intelligenz.",
+      "translated_text": "The launch is considered an important step towards Germany's technological sovereignty in the field of artificial intelligence."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Rechenzentrum",
+      "translated_term": "the data centre",
+      "example_usage": "Das Rechenzentrum trägt den Namen \"Industrial AI Cloud\"."
+    },
+    {
+      "term": "in Betrieb nehmen",
+      "translated_term": "to put into operation / to launch",
+      "example_usage": "Die Deutsche Telekom hat Deutschlands erste KI-Fabrik offiziell in Betrieb genommen."
+    },
+    {
+      "term": "die Rechenkapazität",
+      "translated_term": "the computing capacity",
+      "example_usage": "Damit erhöht sich die KI-Rechenkapazität in Deutschland um rund 50 Prozent."
+    },
+    {
+      "term": "der Grafikprozessor",
+      "translated_term": "the graphics processor (GPU)",
+      "example_usage": "Die Anlage verfügt über fast 10.000 NVIDIA-Grafikprozessoren der neuesten Generation."
+    },
+    {
+      "term": "die Abwärme",
+      "translated_term": "the waste heat",
+      "example_usage": "Die Abwärme des Rechenzentrums soll den gesamten Tucherpark mit Wärme versorgen."
+    },
+    {
+      "term": "die Souveränität",
+      "translated_term": "the sovereignty",
+      "example_usage": "Die Inbetriebnahme gilt als wichtiger Schritt zur technologischen Souveränität Deutschlands."
+    },
+    {
+      "term": "die Forschungseinrichtung",
+      "translated_term": "the research institution",
+      "example_usage": "Unternehmen, Forschungseinrichtungen und der öffentliche Sektor können die Rechenkapazitäten nutzen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Künstliche Intelligenz",
+      "translated_name": "Artificial Intelligence"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Deutsche Telekom: Germany's first AI factory for industry officially goes into operation in Munich",
+      "link_url": "https://www.telekom.com/en/media/media-information/archive/germany-s-first-ai-factory-for-industry-1101670"
+    },
+    {
+      "name": "Heise: Telekom-Rechenzentrum soll deutsche KI-Leistung um die Hälfte steigern",
+      "link_url": "https://www.heise.de/en/news/Telekom-data-center-to-boost-German-AI-performance-by-half-11165327.html"
+    }
+  ]
+}
