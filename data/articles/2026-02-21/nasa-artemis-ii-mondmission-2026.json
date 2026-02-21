@@ -1,0 +1,131 @@
+{
+  "title": "NASA plant Start der Artemis-II-Mondmission für den 6. März",
+  "translated_title": "NASA Plans Launch of Artemis II Moon Mission for 6 March",
+  "text": [
+    {
+      "text": "Die NASA plant, ihre Artemis-II-Mission am 6. März 2026 zu starten.",
+      "translated_text": "NASA plans to launch its Artemis II mission on 6 March 2026."
+    },
+    {
+      "text": "Es ist das erste Mal seit 1972, dass Menschen zum Mond fliegen werden.",
+      "translated_text": "It is the first time since 1972 that people will fly to the Moon."
+    },
+    {
+      "text": "Vier Astronauten werden auf einer Reise rund um den Mond gehen.",
+      "translated_text": "Four astronauts will go on a journey around the Moon."
+    },
+    {
+      "text": "Sie werden insgesamt etwa 600.000 Meilen zurücklegen.",
+      "translated_text": "They will travel a total of around 600,000 miles."
+    },
+    {
+      "text": "Zur Crew gehören Kommandant Reid Wiseman und Pilot Victor Glover von der NASA.",
+      "translated_text": "The crew includes Commander Reid Wiseman and Pilot Victor Glover from NASA."
+    },
+    {
+      "text": "Auch die Missionsspezialistin Christina Koch von der NASA ist dabei.",
+      "translated_text": "Mission Specialist Christina Koch from NASA is also part of the crew."
+    },
+    {
+      "text": "Der vierte Astronaut ist Jeremy Hansen von der kanadischen Raumfahrtbehörde.",
+      "translated_text": "The fourth astronaut is Jeremy Hansen from the Canadian Space Agency."
+    },
+    {
+      "text": "Victor Glover wird der erste Mensch mit nicht-weißer Hautfarbe sein, der den Erdorbit verlässt.",
+      "translated_text": "Victor Glover will be the first person of colour to leave Earth's orbit."
+    },
+    {
+      "text": "Christina Koch wird die erste Frau sein, die zum Mond fliegt.",
+      "translated_text": "Christina Koch will be the first woman to fly to the Moon."
+    },
+    {
+      "text": "Jeremy Hansen wird der erste Nicht-Amerikaner sein, der den Mond umkreist.",
+      "translated_text": "Jeremy Hansen will be the first non-American to orbit the Moon."
+    },
+    {
+      "text": "Die Rakete startet vom Kennedy Space Center in Florida.",
+      "translated_text": "The rocket will launch from the Kennedy Space Center in Florida."
+    },
+    {
+      "text": "Der Start wurde zunächst verschoben, weil es beim Test ein Problem mit flüssigem Wasserstoff gab.",
+      "translated_text": "The launch was initially delayed because there was a problem with liquid hydrogen during the test."
+    },
+    {
+      "text": "Ein erfolgreicher Betankungstest hat nun den Weg für den März-Start freigemacht.",
+      "translated_text": "A successful fuelling test has now cleared the way for the March launch."
+    },
+    {
+      "text": "Die Crew befindet sich bereits in einer zweiwöchigen Quarantäne, um nicht krank zu werden.",
+      "translated_text": "The crew is already in a two-week quarantine to avoid getting ill."
+    },
+    {
+      "text": "Das Artemis-Programm ist ein großes Ziel der NASA: Menschen sollen wieder regelmäßig zum Mond fliegen.",
+      "translated_text": "The Artemis programme is a major goal of NASA: people should fly to the Moon again on a regular basis."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Start",
+      "translated_term": "the launch",
+      "example_usage": "Die NASA plant, ihre Artemis-II-Mission am 6. März 2026 zu starten."
+    },
+    {
+      "term": "die Raumfahrtbehörde",
+      "translated_term": "the space agency",
+      "example_usage": "Jeremy Hansen kommt von der kanadischen Raumfahrtbehörde."
+    },
+    {
+      "term": "die Quarantäne",
+      "translated_term": "the quarantine",
+      "example_usage": "Die Crew befindet sich bereits in einer zweiwöchigen Quarantäne."
+    },
+    {
+      "term": "verschieben",
+      "translated_term": "to postpone / to delay",
+      "example_usage": "Der Start wurde zunächst verschoben, weil es ein Problem mit flüssigem Wasserstoff gab."
+    },
+    {
+      "term": "zurücklegen",
+      "translated_term": "to cover (a distance)",
+      "example_usage": "Die Astronauten werden insgesamt etwa 600.000 Meilen zurücklegen."
+    },
+    {
+      "term": "der Erdorbit",
+      "translated_term": "Earth's orbit",
+      "example_usage": "Victor Glover wird der erste Mensch mit nicht-weißer Hautfarbe sein, der den Erdorbit verlässt."
+    },
+    {
+      "term": "umkreisen",
+      "translated_term": "to orbit",
+      "example_usage": "Jeremy Hansen wird der erste Nicht-Amerikaner sein, der den Mond umkreist."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Weltraumforschung",
+      "translated_name": "Space Exploration"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Wissenschaft",
+      "translated_name": "Science"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR: NASA eyes March 6 to launch 4 astronauts to the moon on Artemis II mission",
+      "link_url": "https://www.npr.org/2026/02/20/nx-s1-5720953/nasa-artemis-ii-moon-launch-date"
+    },
+    {
+      "name": "NASA: Artemis II – NASA's First Crewed Lunar Flyby in 50 Years",
+      "link_url": "https://www.nasa.gov/mission/artemis-ii/"
+    },
+    {
+      "name": "Houston Public Media: NASA eyes March 6 to launch 4 astronauts to the moon on Artemis II mission",
+      "link_url": "https://www.houstonpublicmedia.org/npr/2026/02/20/nx-s1-5720953/nasa-eyes-march-6-to-launch-4-astronauts-to-the-moon-on-artemis-ii-mission/"
+    }
+  ]
+}

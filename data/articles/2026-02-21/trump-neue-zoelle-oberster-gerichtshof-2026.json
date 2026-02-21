@@ -1,0 +1,135 @@
+{
+  "title": "Trump verhängt neue weltweite Zölle nach Niederlage vor dem Obersten Gericht",
+  "translated_title": "Trump Imposes New Global Tariffs After Defeat at Supreme Court",
+  "text": [
+    {
+      "text": "Der Oberste Gerichtshof der USA hat eine wichtige Entscheidung getroffen.",
+      "translated_text": "The US Supreme Court made an important decision."
+    },
+    {
+      "text": "Mit sechs zu drei Stimmen erklärten die Richter Trumps weltweite Zölle für illegal.",
+      "translated_text": "By six to three votes, the judges declared Trump's global tariffs illegal."
+    },
+    {
+      "text": "Das Gericht sagte, dass das Notstandsgesetz von 1977 dem Präsidenten nicht das Recht gibt, solche Zölle einzuführen.",
+      "translated_text": "The court said that the 1977 emergency law does not give the president the right to impose such tariffs."
+    },
+    {
+      "text": "Laut der Verfassung hat nur der Kongress das Recht, Steuern und Zölle festzulegen.",
+      "translated_text": "According to the constitution, only Congress has the right to set taxes and tariffs."
+    },
+    {
+      "text": "Trump reagierte sehr wütend auf das Urteil und kritisierte die Richter scharf.",
+      "translated_text": "Trump reacted very angrily to the ruling and sharply criticised the judges."
+    },
+    {
+      "text": "Er sagte, er schäme sich für die Richter, die gegen ihn gestimmt hatten.",
+      "translated_text": "He said he was ashamed of the judges who had voted against him."
+    },
+    {
+      "text": "Kurz danach unterzeichnete Trump eine neue Anordnung für einen weltweiten Zoll von zehn Prozent.",
+      "translated_text": "Shortly afterwards, Trump signed a new order for a global tariff of ten per cent."
+    },
+    {
+      "text": "Diesmal nutzte er ein anderes Gesetz aus dem Jahr 1974, das sogenannte Trade Act.",
+      "translated_text": "This time he used a different law from 1974, the so-called Trade Act."
+    },
+    {
+      "text": "Der neue Zoll soll ab dem 24. Februar gelten und alle Länder der Welt betreffen.",
+      "translated_text": "The new tariff is set to apply from 24 February and will affect all countries in the world."
+    },
+    {
+      "text": "Allerdings darf dieser Zoll nur für maximal 150 Tage gelten, ohne dass der Kongress zustimmt.",
+      "translated_text": "However, this tariff may only apply for a maximum of 150 days without Congress agreeing."
+    },
+    {
+      "text": "Viele Unternehmen hatten Zölle bezahlt und fragen sich nun, ob sie ihr Geld zurückbekommen.",
+      "translated_text": "Many companies had paid tariffs and are now wondering whether they will get their money back."
+    },
+    {
+      "text": "Das Gericht hat diese Frage noch nicht beantwortet.",
+      "translated_text": "The court has not yet answered this question."
+    },
+    {
+      "text": "Die Europäische Union sagte, sie prüfe das Urteil sorgfältig.",
+      "translated_text": "The European Union said it was carefully examining the ruling."
+    },
+    {
+      "text": "Auch Südkorea hielt sofort ein Treffen ab, um die neue Lage zu besprechen.",
+      "translated_text": "South Korea also immediately held a meeting to discuss the new situation."
+    },
+    {
+      "text": "Experten schätzen, dass die neuen Zölle in zehn Jahren etwa 800 Milliarden Dollar einbringen könnten.",
+      "translated_text": "Experts estimate that the new tariffs could bring in around 800 billion dollars over ten years."
+    },
+    {
+      "text": "Die Entscheidung des Gerichts zeigt, wie umstritten Trumps Handelspolitik in den USA ist.",
+      "translated_text": "The court's decision shows how controversial Trump's trade policy is in the USA."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Zoll",
+      "translated_term": "the tariff / customs duty",
+      "example_usage": "Trump verhängt neue weltweite Zölle nach seiner Niederlage vor dem Obersten Gericht."
+    },
+    {
+      "term": "der Oberste Gerichtshof",
+      "translated_term": "the Supreme Court",
+      "example_usage": "Der Oberste Gerichtshof der USA hat Trumps weltweite Zölle für illegal erklärt."
+    },
+    {
+      "term": "die Anordnung",
+      "translated_term": "the order / decree",
+      "example_usage": "Trump unterzeichnete eine neue Anordnung für einen weltweiten Zoll von zehn Prozent."
+    },
+    {
+      "term": "unterzeichnen",
+      "translated_term": "to sign",
+      "example_usage": "Kurz danach unterzeichnete Trump eine neue Anordnung."
+    },
+    {
+      "term": "die Handelspolitik",
+      "translated_term": "trade policy",
+      "example_usage": "Die Entscheidung zeigt, wie umstritten Trumps Handelspolitik in den USA ist."
+    },
+    {
+      "term": "das Urteil",
+      "translated_term": "the ruling / verdict",
+      "example_usage": "Trump reagierte sehr wütend auf das Urteil und kritisierte die Richter scharf."
+    },
+    {
+      "term": "der Kongress",
+      "translated_term": "Congress",
+      "example_usage": "Laut der Verfassung hat nur der Kongress das Recht, Steuern und Zölle festzulegen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Handelspolitik",
+      "translated_name": "Trade Policy"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC: Trump announces new 10% global tariff after raging over Supreme Court loss",
+      "link_url": "https://www.cnbc.com/2026/02/20/trump-global-trade-tariff-supreme-court.html"
+    },
+    {
+      "name": "NBC News: Trump says he signed a 10% global tariff after Supreme Court decision",
+      "link_url": "https://www.nbcnews.com/politics/supreme-court/live-blog/-trump-tariffs-ruling-supreme-court-live-updates-rcna252655"
+    },
+    {
+      "name": "Washington Post: Trump imposes new tariffs, denounces Supreme Court justices after ruling",
+      "link_url": "https://www.washingtonpost.com/national-security/2026/02/20/live-updates-supreme-court-tariffs-ruling-trump/"
+    }
+  ]
+}
