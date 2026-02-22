@@ -1,0 +1,135 @@
+{
+  "title": "Deutschland schützt kritische Infrastruktur nach Berliner Stromausfall",
+  "translated_title": "Germany Protects Critical Infrastructure After Berlin Blackout",
+  "text": [
+    {
+      "text": "Im Januar 2026 gab es in Berlin einen der schlimmsten Stromausfälle seit dem Ende des Zweiten Weltkriegs.",
+      "translated_text": "In January 2026, Berlin experienced one of the worst power outages since the end of the Second World War."
+    },
+    {
+      "text": "Ein Brandanschlag auf ein Kabelwerk im Stadtteil Lichterfelde legte den Strom für rund 45.000 Haushalte lahm.",
+      "translated_text": "An arson attack on a cable installation in the Lichterfelde district cut power to around 45,000 households."
+    },
+    {
+      "text": "Auch mehr als 2.200 Betriebe, mehrere Krankenhäuser und U-Bahn-Linien waren betroffen.",
+      "translated_text": "More than 2,200 businesses, several hospitals, and U-Bahn lines were also affected."
+    },
+    {
+      "text": "Der Stromausfall dauerte mehrere Tage, und es war sehr kalt.",
+      "translated_text": "The power outage lasted several days, and it was very cold."
+    },
+    {
+      "text": "Die linksextreme Gruppe Vulkangruppe bekannte sich zu dem Anschlag.",
+      "translated_text": "The far-left group Vulkangruppe (Volcano Group) claimed responsibility for the attack."
+    },
+    {
+      "text": "Sie sagten, ihr Ziel sei die Fossilindustrie gewesen - nicht die Menschen in Berlin.",
+      "translated_text": "They said their target had been the fossil fuel industry - not the people of Berlin."
+    },
+    {
+      "text": "Die Polizei sucht noch nach den Tätern und bietet eine Belohnung von einer Million Euro an.",
+      "translated_text": "The police are still searching for the perpetrators and are offering a reward of one million euros."
+    },
+    {
+      "text": "Wegen dieses Anschlags hat der Bundestag ein neues Gesetz verabschiedet: das sogenannte KRITIS-Dachgesetz.",
+      "translated_text": "In response to this attack, the Bundestag has passed a new law: the so-called KRITIS Umbrella Law."
+    },
+    {
+      "text": "Das Gesetz soll wichtige Infrastruktur besser vor Angriffen und Sabotage schützen.",
+      "translated_text": "The law is intended to better protect critical infrastructure against attacks and sabotage."
+    },
+    {
+      "text": "Dazu gehören Strom- und Wasserversorgung, Kommunikationsnetze und der Verkehr.",
+      "translated_text": "This includes electricity and water supply, communication networks, and transport."
+    },
+    {
+      "text": "Ab Mitte 2026 müssen Betreiber solcher Anlagen strenge Sicherheitsregeln einhalten.",
+      "translated_text": "From mid-2026, operators of such facilities must comply with strict security regulations."
+    },
+    {
+      "text": "Sie müssen Sicherheitsvorfälle sofort den Behörden melden.",
+      "translated_text": "They must report security incidents to the authorities immediately."
+    },
+    {
+      "text": "Karten mit Informationen über das Stromnetz werden nicht mehr frei im Internet zugänglich sein.",
+      "translated_text": "Maps containing information about the electricity grid will no longer be freely accessible on the internet."
+    },
+    {
+      "text": "Das Gesetz setzt auch eine EU-Richtlinie um, die nach dem Beginn des Ukraine-Krieges erarbeitet wurde.",
+      "translated_text": "The law also implements an EU directive that was drawn up following the start of the war in Ukraine."
+    },
+    {
+      "text": "Experten sagen, der Berliner Stromausfall hat gezeigt, wie verletzlich kritische Infrastruktur ist.",
+      "translated_text": "Experts say the Berlin blackout showed how vulnerable critical infrastructure is."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Stromausfall",
+      "translated_term": "the power outage / blackout",
+      "example_usage": "Im Januar 2026 gab es in Berlin einen der schlimmsten Stromausfälle seit dem Ende des Zweiten Weltkriegs."
+    },
+    {
+      "term": "der Brandanschlag",
+      "translated_term": "the arson attack",
+      "example_usage": "Ein Brandanschlag auf ein Kabelwerk im Stadtteil Lichterfelde legte den Strom für rund 45.000 Haushalte lahm."
+    },
+    {
+      "term": "lahmlegen",
+      "translated_term": "to paralyse / to knock out",
+      "example_usage": "Ein Brandanschlag legte den Strom für rund 45.000 Haushalte lahm."
+    },
+    {
+      "term": "verabschieden",
+      "translated_term": "to pass / to adopt (a law)",
+      "example_usage": "Der Bundestag hat ein neues Gesetz verabschiedet: das sogenannte KRITIS-Dachgesetz."
+    },
+    {
+      "term": "die Sabotage",
+      "translated_term": "the sabotage",
+      "example_usage": "Das Gesetz soll wichtige Infrastruktur besser vor Angriffen und Sabotage schützen."
+    },
+    {
+      "term": "melden",
+      "translated_term": "to report",
+      "example_usage": "Betreiber müssen Sicherheitsvorfälle sofort den Behörden melden."
+    },
+    {
+      "term": "verletzlich",
+      "translated_term": "vulnerable",
+      "example_usage": "Der Berliner Stromausfall hat gezeigt, wie verletzlich kritische Infrastruktur ist."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Energiepolitik",
+      "translated_name": "Energy Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia: 2026 arson attack on the Berlin power grid",
+      "link_url": "https://en.wikipedia.org/wiki/2026_arson_attack_on_the_Berlin_power_grid"
+    },
+    {
+      "name": "Ground News: Critical infrastructure - Bundestag adopts law on the protection of important plants",
+      "link_url": "https://ground.news/article/critical-infrastructure-bundestag-adopts-law-on-the-protection-of-important-plants"
+    },
+    {
+      "name": "Clean Energy Wire: Berlin arson attack power blackout triggers calls to put security over transparency",
+      "link_url": "https://www.cleanenergywire.org/news/berlin-arson-attack-power-blackout-triggers-calls-put-security-over-transparency"
+    }
+  ]
+}
