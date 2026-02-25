@@ -1,0 +1,123 @@
+{
+  "title": "Vier Jahre Krieg in der Ukraine: Kein Ende in Sicht",
+  "translated_title": "Four Years of War in Ukraine: No End in Sight",
+  "text": [
+    {
+      "text": "Am 24. Februar 2026 jährt sich der Beginn der russischen Invasion in der Ukraine zum vierten Mal.",
+      "translated_text": "On 24 February 2026, the start of the Russian invasion of Ukraine marks its fourth anniversary."
+    },
+    {
+      "text": "Was der Kreml als kurzen Feldzug geplant hatte, ist zu einem langen und blutigen Krieg geworden.",
+      "translated_text": "What the Kremlin had planned as a short campaign has become a long and bloody war."
+    },
+    {
+      "text": "Nach vier Jahren kontrolliert Russland etwa 20 Prozent des ukrainischen Territoriums.",
+      "translated_text": "After four years, Russia controls around 20 percent of Ukrainian territory."
+    },
+    {
+      "text": "Experten schätzen, dass Russland seit Beginn der Invasion mehr als eine Million Soldaten verloren hat, davon bis zu 325.000 Tote.",
+      "translated_text": "Experts estimate that Russia has lost more than one million soldiers since the start of the invasion, including up to 325,000 dead."
+    },
+    {
+      "text": "Insgesamt wurden auf beiden Seiten fast zwei Millionen Menschen getötet oder verletzt.",
+      "translated_text": "In total, nearly two million people have been killed or injured on both sides."
+    },
+    {
+      "text": "Der ukrainische Präsident Wolodymyr Selenskyj erklärte, Russland habe die Ukrainer nicht 'gebrochen'.",
+      "translated_text": "Ukrainian President Volodymyr Zelensky declared that Russia had not 'broken' the Ukrainians."
+    },
+    {
+      "text": "Die Vereinten Nationen verabschiedeten eine Resolution, die die territoriale Unversehrtheit der Ukraine bekräftigt.",
+      "translated_text": "The United Nations passed a resolution reaffirming the territorial integrity of Ukraine."
+    },
+    {
+      "text": "107 Länder stimmten dafür, 12 dagegen und 51 enthielten sich.",
+      "translated_text": "107 countries voted in favour, 12 against and 51 abstained."
+    },
+    {
+      "text": "Die USA versuchen, unter Präsident Donald Trump zwischen Russland und der Ukraine zu vermitteln.",
+      "translated_text": "The USA, under President Donald Trump, is trying to mediate between Russia and Ukraine."
+    },
+    {
+      "text": "Es gab erste direkte Gespräche in Abu Dhabi und Genf, aber ein Friedensabkommen ist noch weit entfernt.",
+      "translated_text": "There were initial direct talks in Abu Dhabi and Geneva, but a peace agreement is still a long way off."
+    },
+    {
+      "text": "Der britische Premierminister Keir Starmer kündigte das größte Sanktionspaket gegen Russland seit 2022 an.",
+      "translated_text": "British Prime Minister Keir Starmer announced the largest sanctions package against Russia since 2022."
+    },
+    {
+      "text": "Die Sanktionen richten sich gegen 300 russische Energieunternehmen.",
+      "translated_text": "The sanctions are directed against 300 Russian energy companies."
+    },
+    {
+      "text": "In der Ukraine gedenken die Menschen der Opfer und zeigen ihre Entschlossenheit, weiterzukämpfen.",
+      "translated_text": "In Ukraine, people are commemorating the victims and showing their determination to keep fighting."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Invasion",
+      "translated_term": "the invasion",
+      "example_usage": "Am 24. Februar 2026 jährt sich der Beginn der russischen Invasion in der Ukraine zum vierten Mal."
+    },
+    {
+      "term": "das Territorium",
+      "translated_term": "the territory",
+      "example_usage": "Russland kontrolliert etwa 20 Prozent des ukrainischen Territoriums."
+    },
+    {
+      "term": "die Unversehrtheit",
+      "translated_term": "the integrity",
+      "example_usage": "Eine Resolution bekräftigt die territoriale Unversehrtheit der Ukraine."
+    },
+    {
+      "term": "vermitteln",
+      "translated_term": "to mediate",
+      "example_usage": "Die USA versuchen, zwischen Russland und der Ukraine zu vermitteln."
+    },
+    {
+      "term": "sich enthalten",
+      "translated_term": "to abstain",
+      "example_usage": "51 Länder enthielten sich bei der Abstimmung."
+    },
+    {
+      "term": "die Sanktionen",
+      "translated_term": "the sanctions",
+      "example_usage": "Der britische Premierminister kündigte das größte Sanktionspaket gegen Russland seit 2022 an."
+    },
+    {
+      "term": "gedenken",
+      "translated_term": "to commemorate",
+      "example_usage": "In der Ukraine gedenken die Menschen der Opfer."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "PBS NewsHour - 4 years into Russia's invasion of Ukraine",
+      "link_url": "https://www.pbs.org/newshour/world/4-years-into-russias-invasion-of-ukraine-a-look-at-the-war-by-the-numbers"
+    },
+    {
+      "name": "Foreign Policy - Russia-Ukraine War Marks Fourth Anniversary",
+      "link_url": "https://foreignpolicy.com/2026/02/24/russia-ukraine-war-fourth-anniversary-peace-talks-zelensky-putin/"
+    },
+    {
+      "name": "UN News - LIVE: UN marks fourth anniversary of Russia's full-scale invasion",
+      "link_url": "https://news.un.org/en/story/2026/02/1167022"
+    }
+  ]
+}
