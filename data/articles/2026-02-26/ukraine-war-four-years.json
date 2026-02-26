@@ -1,0 +1,114 @@
+{
+  "title": "Vier Jahre Krieg in der Ukraine",
+  "translated_title": "Four Years of War in Ukraine",
+  "text": [
+    {
+      "text": "Vor genau vier Jahren, am 24. Februar 2022, begann Russland seinen groß angelegten Angriff auf die Ukraine.",
+      "translated_text": "Exactly four years ago, on 24 February 2022, Russia began its large-scale attack on Ukraine."
+    },
+    {
+      "text": "Seitdem dauert der Krieg an und hat fast zwei Millionen Menschen getötet oder verletzt.",
+      "translated_text": "Since then, the war has continued and has killed or injured almost two million people."
+    },
+    {
+      "text": "Russland besetzt heute etwa 20 Prozent des ukrainischen Territoriums.",
+      "translated_text": "Russia currently occupies about 20 percent of Ukrainian territory."
+    },
+    {
+      "text": "Die Vereinten Nationen gedachten am Jahrestag des Krieges und forderten einen sofortigen Waffenstillstand.",
+      "translated_text": "The United Nations commemorated the war's anniversary and called for an immediate ceasefire."
+    },
+    {
+      "text": "Die UN-Vollversammlung nahm eine Resolution mit 107 Stimmen für und 12 Stimmen gegen einen Waffenstillstand an.",
+      "translated_text": "The UN General Assembly adopted a resolution with 107 votes in favour and 12 against a ceasefire."
+    },
+    {
+      "text": "Die NATO feierte die Tapferkeit der Ukraine und versprach weitere Unterstützung.",
+      "translated_text": "NATO celebrated Ukraine's bravery and promised further support."
+    },
+    {
+      "text": "Die Europäische Kommission besuchte Kiew zum Gedenken und erklärte, die EU habe bisher fast 195 Milliarden Euro für die Ukraine bereitgestellt.",
+      "translated_text": "The European Commission visited Kyiv for the commemoration and stated that the EU had so far provided almost 195 billion euros for Ukraine."
+    },
+    {
+      "text": "Der britische Premierminister Keir Starmer erklärte, er stehe so lange an der Seite der Ukraine, wie es nötig sei.",
+      "translated_text": "British Prime Minister Keir Starmer stated that he would stand with Ukraine for as long as it takes."
+    },
+    {
+      "text": "Er kündigte auch ein großes Sanktionspaket gegen russische Energieunternehmen an.",
+      "translated_text": "He also announced a major sanctions package against Russian energy companies."
+    },
+    {
+      "text": "Die USA sind derzeit in Friedensgespräche involviert, aber ein Ende des Konflikts ist noch nicht in Sicht.",
+      "translated_text": "The USA is currently involved in peace talks, but an end to the conflict is not yet in sight."
+    },
+    {
+      "text": "Sondergesandte der Trump-Regierung haben Gespräche in Genf und Abu Dhabi geführt.",
+      "translated_text": "Special envoys from the Trump administration have held talks in Geneva and Abu Dhabi."
+    },
+    {
+      "text": "In Paris wurde der Eiffelturm in den ukrainischen Farben Blau und Gelb beleuchtet, um Solidarität zu zeigen.",
+      "translated_text": "In Paris, the Eiffel Tower was illuminated in the Ukrainian colours of blue and yellow to show solidarity."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Angriff",
+      "translated_term": "the attack",
+      "example_usage": "Vor vier Jahren begann Russland seinen groß angelegten Angriff auf die Ukraine."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Die UN-Vollversammlung forderte einen sofortigen Waffenstillstand."
+    },
+    {
+      "term": "das Territorium",
+      "translated_term": "the territory",
+      "example_usage": "Russland besetzt heute etwa 20 Prozent des ukrainischen Territoriums."
+    },
+    {
+      "term": "das Gedenken",
+      "translated_term": "the commemoration",
+      "example_usage": "Die Europäische Kommission besuchte Kiew zum Gedenken."
+    },
+    {
+      "term": "bereitstellen",
+      "translated_term": "to provide / to make available",
+      "example_usage": "Die EU habe bisher fast 195 Milliarden Euro für die Ukraine bereitgestellt."
+    },
+    {
+      "term": "die Solidarität",
+      "translated_term": "the solidarity",
+      "example_usage": "Der Eiffelturm wurde in den ukrainischen Farben beleuchtet, um Solidarität zu zeigen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Vereinte Nationen",
+      "translated_name": "United Nations"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Russia-Ukraine war updates",
+      "link_url": "https://www.aljazeera.com/news/liveblog/2026/2/24/live-russia-ukraine-war-enters-fifth-year-as-strikes-hit-zaporizhzhia"
+    },
+    {
+      "name": "NATO: Marking the fourth anniversary of Russia's war",
+      "link_url": "https://www.nato.int/en/news-and-events/articles/news/2026/02/24/nato-commemorates-the-fourth-anniversary-of-russias-full-scale-invasion-of-ukraine"
+    },
+    {
+      "name": "UN News: General Assembly marks fourth anniversary",
+      "link_url": "https://news.un.org/en/story/2026/02/1167022"
+    }
+  ]
+}
