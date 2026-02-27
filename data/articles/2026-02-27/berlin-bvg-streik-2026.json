@@ -1,0 +1,129 @@
+{
+  "title": "Warnstreik: Berlins öffentlicher Nahverkehr steht still",
+  "translated_title": "Warning Strike: Berlin's Public Transport Comes to a Standstill",
+  "text": [
+    {
+      "text": "Die Gewerkschaft ver.di hat einen 48-stündigen Warnstreik im öffentlichen Nahverkehr ausgerufen.",
+      "translated_text": "The trade union ver.di has called a 48-hour warning strike in public transport."
+    },
+    {
+      "text": "Der Streik beginnt am Freitag, den 27. Februar 2026, um 3 Uhr morgens.",
+      "translated_text": "The strike begins on Friday, 27 February 2026, at 3 o'clock in the morning."
+    },
+    {
+      "text": "Er soll bis Sonntag, den 1. März 2026, um 3 Uhr morgens dauern.",
+      "translated_text": "It is set to last until Sunday, 1 March 2026, at 3 o'clock in the morning."
+    },
+    {
+      "text": "Der Streik betrifft Berlin und Brandenburg sowie viele andere deutsche Städte.",
+      "translated_text": "The strike affects Berlin and Brandenburg as well as many other German cities."
+    },
+    {
+      "text": "In Berlin fahren während des Streiks keine U-Bahnen und Straßenbahnen.",
+      "translated_text": "During the strike, no U-Bahn trains or trams are running in Berlin."
+    },
+    {
+      "text": "Auch der Großteil der BVG-Busse fährt nicht.",
+      "translated_text": "The majority of BVG buses are also not running."
+    },
+    {
+      "text": "Die S-Bahn Berlin und die Regionalbahnen sind vom Streik nicht betroffen.",
+      "translated_text": "The S-Bahn Berlin and regional trains are not affected by the strike."
+    },
+    {
+      "text": "Die S-Bahn Berlin bietet zusätzliche Fahrten an, um mehr Fahrgäste zu transportieren.",
+      "translated_text": "The S-Bahn Berlin is offering additional services to transport more passengers."
+    },
+    {
+      "text": "Hintergrund des Streiks sind die laufenden Tarifverhandlungen im kommunalen Nahverkehr.",
+      "translated_text": "The background to the strike is the ongoing collective bargaining negotiations in municipal public transport."
+    },
+    {
+      "text": "Ver.di verhandelt für rund 100.000 Beschäftigte in 150 öffentlichen Verkehrsunternehmen in ganz Deutschland.",
+      "translated_text": "Ver.di is negotiating on behalf of around 100,000 employees at 150 public transport companies across Germany."
+    },
+    {
+      "text": "Die Gewerkschaft fordert eine Verkürzung der maximalen Schichtlänge auf zwölf Stunden.",
+      "translated_text": "The union is demanding a reduction in the maximum shift length to twelve hours."
+    },
+    {
+      "text": "Außerdem soll die Mindestruhezeit zwischen zwei Schichten auf elf Stunden erhöht werden.",
+      "translated_text": "In addition, the minimum rest period between two shifts should be increased to eleven hours."
+    },
+    {
+      "text": "Die BVG kritisiert den Streik als unverhältnismäßige Eskalation.",
+      "translated_text": "The BVG criticises the strike as a disproportionate escalation."
+    },
+    {
+      "text": "Die Verhandlungen in Berlin seien noch im Zeitplan, sagt das Unternehmen.",
+      "translated_text": "The negotiations in Berlin are still on schedule, says the company."
+    },
+    {
+      "text": "Die Berliner müssen sich auf schwierige Tage im Straßenverkehr einstellen.",
+      "translated_text": "Berliners must prepare for difficult days on the roads."
+    },
+    {
+      "text": "Viele Menschen fahren daher mit dem Fahrrad oder suchen nach anderen Alternativen.",
+      "translated_text": "Many people are therefore cycling or looking for other alternatives."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Warnstreik",
+      "translated_term": "the warning strike",
+      "example_usage": "Die Gewerkschaft ver.di hat einen 48-stündigen Warnstreik im öffentlichen Nahverkehr ausgerufen."
+    },
+    {
+      "term": "ausrufen",
+      "translated_term": "to call / to declare",
+      "example_usage": "Die Gewerkschaft ver.di hat einen Warnstreik ausgerufen."
+    },
+    {
+      "term": "die Tarifverhandlungen",
+      "translated_term": "the collective bargaining negotiations",
+      "example_usage": "Hintergrund des Streiks sind die laufenden Tarifverhandlungen im kommunalen Nahverkehr."
+    },
+    {
+      "term": "betreffen",
+      "translated_term": "to affect",
+      "example_usage": "Der Streik betrifft Berlin und Brandenburg sowie viele andere deutsche Städte."
+    },
+    {
+      "term": "die Schichtlänge",
+      "translated_term": "the shift length",
+      "example_usage": "Die Gewerkschaft fordert eine Verkürzung der maximalen Schichtlänge auf zwölf Stunden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "VBB: ÖPNV-Streik für 48 Stunden – Auswirkungen auf Berlin und Brandenburg",
+      "link_url": "https://www.vbb.de/news/oepnv-streik-fuer-48-stunden-auswirkungen-auf-berlin-und-brandenburg/"
+    },
+    {
+      "name": "BVG: Strike information",
+      "link_url": "https://www.bvg.de/en/strike"
+    },
+    {
+      "name": "Regional Update: Zweitägiger BVG-Warnstreik in Berlin am 27. und 28. Februar 2026",
+      "link_url": "https://regionalupdate.de/2026/02/24/berlin-bvg-warnstreik-nahverkehr/"
+    }
+  ]
+}
