@@ -1,0 +1,131 @@
+{
+  "title": "Iran greift Golfstaaten nach US-israelischen Angriffen an",
+  "translated_title": "Iran Attacks Gulf States After US-Israeli Strikes",
+  "text": [
+    {
+      "text": "In der Nacht zum 28. Februar 2026 begannen die USA und Israel massive Angriffe auf den Iran.",
+      "translated_text": "In the night of 28 February 2026, the USA and Israel began massive strikes on Iran."
+    },
+    {
+      "text": "US-Präsident Donald Trump bestätigte, dass amerikanische Streitkräfte den Iran aus der Luft und vom Meer aus angriffen.",
+      "translated_text": "US President Donald Trump confirmed that American forces attacked Iran from the air and sea."
+    },
+    {
+      "text": "Der Iran reagierte schnell und schoss Raketen auf mehrere Golfstaaten ab.",
+      "translated_text": "Iran reacted quickly and launched missiles at several Gulf states."
+    },
+    {
+      "text": "Betroffen waren Saudi-Arabien, die Vereinigten Arabischen Emirate, Katar, Bahrain und Kuwait.",
+      "translated_text": "Saudi Arabia, the United Arab Emirates, Qatar, Bahrain, and Kuwait were affected."
+    },
+    {
+      "text": "Der Iran behauptete, er habe 27 US-Militärbasen in der gesamten Region angegriffen.",
+      "translated_text": "Iran claimed it had attacked 27 US military bases across the region."
+    },
+    {
+      "text": "Mehrere Länder schlossen vorübergehend ihren Luftraum.",
+      "translated_text": "Several countries temporarily closed their airspace."
+    },
+    {
+      "text": "Saudi-Arabien konnte die iranischen Raketen auf Riad und die Ostprovinz abwehren.",
+      "translated_text": "Saudi Arabia was able to intercept the Iranian missiles aimed at Riyadh and the eastern province."
+    },
+    {
+      "text": "In Abu Dhabi gab es starke Explosionen, als der US-Luftwaffenstützpunkt Al Dhafra angegriffen wurde.",
+      "translated_text": "There were loud explosions in Abu Dhabi as the Al Dhafra US air force base was attacked."
+    },
+    {
+      "text": "Kuwait meldete, alle Raketen auf den Ali-al-Salem-Luftwaffenstützpunkt abgefangen zu haben.",
+      "translated_text": "Kuwait reported intercepting all missiles aimed at the Ali Al Salem Air Base."
+    },
+    {
+      "text": "Die Meerenge von Hormus, ein wichtiger Ölexportweg, wurde vorübergehend gesperrt.",
+      "translated_text": "The Strait of Hormuz, an important oil export route, was temporarily closed."
+    },
+    {
+      "text": "Frankreichs Präsident Macron forderte eine Dringlichkeitssitzung des UN-Sicherheitsrates.",
+      "translated_text": "French President Macron called for an emergency meeting of the UN Security Council."
+    },
+    {
+      "text": "UN-Generalsekretär Guterres erklärte, er sei tief beunruhigt über die Eskalation.",
+      "translated_text": "UN Secretary-General Guterres stated he was deeply alarmed by the escalation."
+    },
+    {
+      "text": "Der britische Premierminister Starmer sagte, britische Streitkräfte nähmen an Verteidigungsoperationen teil.",
+      "translated_text": "British Prime Minister Starmer said British forces were taking part in defensive operations."
+    },
+    {
+      "text": "Die Lage in der Region bleibt äußerst angespannt, da sich ein regionaler Krieg abzeichnet.",
+      "translated_text": "The situation in the region remains extremely tense as the threat of a regional war looms."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Angriff",
+      "translated_term": "the attack",
+      "example_usage": "Der Iran reagierte schnell und schoss Raketen auf mehrere Golfstaaten ab."
+    },
+    {
+      "term": "die Rakete",
+      "translated_term": "the missile / rocket",
+      "example_usage": "Saudi-Arabien konnte die iranischen Raketen auf Riad und die Ostprovinz abwehren."
+    },
+    {
+      "term": "abwehren",
+      "translated_term": "to intercept / to repel",
+      "example_usage": "Saudi-Arabien konnte die iranischen Raketen auf Riad abwehren."
+    },
+    {
+      "term": "der Luftraum",
+      "translated_term": "the airspace",
+      "example_usage": "Mehrere Länder schlossen vorübergehend ihren Luftraum."
+    },
+    {
+      "term": "die Eskalation",
+      "translated_term": "the escalation",
+      "example_usage": "UN-Generalsekretär Guterres erklärte, er sei tief beunruhigt über die Eskalation."
+    },
+    {
+      "term": "die Meerenge",
+      "translated_term": "the strait",
+      "example_usage": "Die Meerenge von Hormus, ein wichtiger Ölexportweg, wurde vorübergehend gesperrt."
+    },
+    {
+      "term": "behaupten",
+      "translated_term": "to claim",
+      "example_usage": "Der Iran behauptete, er habe 27 US-Militärbasen in der gesamten Region angegriffen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Multiple Arab states that host US assets targeted in Iran retaliation",
+      "link_url": "https://www.aljazeera.com/news/2026/2/28/multiple-gulf-arab-states-that-host-us-assets-targeted-in-iran-retaliation"
+    },
+    {
+      "name": "CNBC: Tehran strikes back at Gulf states after U.S.-Israel launch massive attack on Iran",
+      "link_url": "https://www.cnbc.com/2026/02/28/trump-us-military-iran-strikes-middle-east-oil.html"
+    },
+    {
+      "name": "CBS News: Live Updates: U.S.-Israel launch another round of strikes on Iran",
+      "link_url": "https://www.cbsnews.com/live-updates/israel-us-attack-iran-trump-says-major-combat-operations/"
+    }
+  ]
+}
