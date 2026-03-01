@@ -1,0 +1,127 @@
+{
+  "title": "Hohenzollerngruft im Berliner Dom nach Restaurierung wiedereröffnet",
+  "translated_title": "Hohenzollern Crypt in Berlin Cathedral Reopened After Restoration",
+  "text": [
+    {
+      "text": "Am 1. März 2026 wurde die Hohenzollerngruft im Berliner Dom für Besucher wieder geöffnet.",
+      "translated_text": "On 1 March 2026, the Hohenzollern Crypt in Berlin Cathedral was reopened to visitors."
+    },
+    {
+      "text": "Die Gruft war sechs Jahre lang wegen umfangreicher Restaurierungsarbeiten geschlossen.",
+      "translated_text": "The crypt had been closed for six years due to extensive restoration work."
+    },
+    {
+      "text": "Die Kosten der Restaurierung betrugen 18 Millionen Euro.",
+      "translated_text": "The costs of the restoration amounted to 18 million euros."
+    },
+    {
+      "text": "Es war das größte Bauprojekt am Berliner Dom seit dem Wiederaufbau nach dem Zweiten Weltkrieg.",
+      "translated_text": "It was the largest construction project at Berlin Cathedral since the post-war reconstruction."
+    },
+    {
+      "text": "Die Gruft enthält 91 Grabstätten aus dem 16. bis zum 20. Jahrhundert.",
+      "translated_text": "The crypt contains 91 burial sites from the 16th to the 20th century."
+    },
+    {
+      "text": "Dort ruhen Mitglieder der Hohenzollern-Dynastie, den Herrschern des Königreichs Preußen.",
+      "translated_text": "Members of the Hohenzollern dynasty, the rulers of the Kingdom of Prussia, rest there."
+    },
+    {
+      "text": "Die Hohenzollerngruft ist eines der bedeutendsten dynastischen Grabmäler in Europa.",
+      "translated_text": "The Hohenzollern Crypt is one of the most significant dynastic burial sites in Europe."
+    },
+    {
+      "text": "Vor der Restaurierung hatten Feuchtigkeit und Schimmel die wertvollen Särge beschädigt.",
+      "translated_text": "Before the restoration, moisture and mould had damaged the precious coffins."
+    },
+    {
+      "text": "Die Renovierung verbesserte das Raumklima und machte die Gruft für alle Besucher zugänglich.",
+      "translated_text": "The renovation improved the room climate and made the crypt accessible to all visitors."
+    },
+    {
+      "text": "Ein neuer Ausstellungsbereich erklärt die Geschichte der Bestattungskultur durch Texte und Filme.",
+      "translated_text": "A new exhibition area explains the history of burial culture through texts and films."
+    },
+    {
+      "text": "An der Feier zur Wiedereröffnung nahmen der Berliner Bürgermeister und der Kulturminister teil.",
+      "translated_text": "The Berlin mayor and the culture minister took part in the reopening celebration."
+    },
+    {
+      "text": "Der Eintritt kostet ab sofort 15 Euro, früher waren es 10 Euro.",
+      "translated_text": "Admission now costs 15 euros, previously it was 10 euros."
+    },
+    {
+      "text": "Im letzten Jahr vor der Schließung besuchten rund 765.000 Menschen den Berliner Dom.",
+      "translated_text": "In the last year before closure, around 765,000 people visited Berlin Cathedral."
+    },
+    {
+      "text": "Die Wiedereröffnung ist ein wichtiges kulturelles Ereignis für die Stadt Berlin.",
+      "translated_text": "The reopening is an important cultural event for the city of Berlin."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Gruft",
+      "translated_term": "the crypt / vault",
+      "example_usage": "Am 1. März 2026 wurde die Hohenzollerngruft im Berliner Dom für Besucher wieder geöffnet."
+    },
+    {
+      "term": "die Restaurierung",
+      "translated_term": "the restoration",
+      "example_usage": "Die Gruft war sechs Jahre lang wegen umfangreicher Restaurierungsarbeiten geschlossen."
+    },
+    {
+      "term": "der Sarg",
+      "translated_term": "the coffin",
+      "example_usage": "Vor der Restaurierung hatten Feuchtigkeit und Schimmel die wertvollen Särge beschädigt."
+    },
+    {
+      "term": "die Grabstätte",
+      "translated_term": "the burial site / grave",
+      "example_usage": "Die Gruft enthält 91 Grabstätten aus dem 16. bis zum 20. Jahrhundert."
+    },
+    {
+      "term": "die Dynastie",
+      "translated_term": "the dynasty",
+      "example_usage": "Dort ruhen Mitglieder der Hohenzollern-Dynastie, den Herrschern des Königreichs Preußen."
+    },
+    {
+      "term": "die Feuchtigkeit",
+      "translated_term": "the moisture / dampness",
+      "example_usage": "Vor der Restaurierung hatten Feuchtigkeit und Schimmel die wertvollen Särge beschädigt."
+    },
+    {
+      "term": "zugänglich",
+      "translated_term": "accessible",
+      "example_usage": "Die Renovierung machte die Gruft für alle Besucher zugänglich."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Kultur",
+      "translated_name": "Culture"
+    },
+    {
+      "name": "Geschichte",
+      "translated_name": "History"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Art Newspaper: Berlin cathedral opens newly renovated crypt",
+      "link_url": "https://www.theartnewspaper.com/2026/02/26/berlin-cathedral-opens-newly-renovated-crypt-to-house-coffins-of-prussias-ruling-dynasty"
+    },
+    {
+      "name": "Smithsonian Magazine: The Berlin Cathedral Is Reopening Its Massive Crypt",
+      "link_url": "https://www.smithsonianmag.com/smart-news/the-berlin-cathedral-is-reopening-its-massive-crypt-home-to-the-bones-of-one-of-europes-most-powerful-dynasties-180988274/"
+    },
+    {
+      "name": "ArtDependence: The Hohenzollern Crypt will reopen its Doors on 1 March 2026",
+      "link_url": "https://artdependence.com/articles/the-hohenzollern-crypt-will-reopen-its-doors-on-1-march-2026/"
+    }
+  ]
+}
