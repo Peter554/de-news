@@ -1,0 +1,139 @@
+{
+  "title": "Görlitzer Park in Berlin nachts geschlossen",
+  "translated_title": "Görlitzer Park in Berlin Closed at Night",
+  "text": [
+    {
+      "text": "Seit dem 1. März 2026 ist der Görlitzer Park in Berlin-Kreuzberg nachts geschlossen.",
+      "translated_text": "Since 1 March 2026, Görlitzer Park in Berlin-Kreuzberg has been closed at night."
+    },
+    {
+      "text": "Der Park ist damit der erste große Berliner Park, der nachts abgesperrt wird.",
+      "translated_text": "This makes it the first major Berlin park to be fenced off at night."
+    },
+    {
+      "text": "Die Maßnahme soll die Sicherheit im Park und in der Umgebung verbessern.",
+      "translated_text": "The measure is intended to improve safety in and around the park."
+    },
+    {
+      "text": "Private Sicherheitsfirmen schließen die Tore des Parks jeden Abend.",
+      "translated_text": "Private security companies lock the park's gates every evening."
+    },
+    {
+      "text": "Im Winter schließen sie um 22 Uhr, im Sommer erst um 23 Uhr.",
+      "translated_text": "In winter they close at 10 pm, in summer not until 11 pm."
+    },
+    {
+      "text": "Morgens öffnen sie die Tore wieder um 6 Uhr.",
+      "translated_text": "In the morning they reopen the gates at 6 am."
+    },
+    {
+      "text": "Die Kosten für diesen Wachdienst betragen rund 800.000 Euro pro Jahr.",
+      "translated_text": "The cost of this security service amounts to around 800,000 euros per year."
+    },
+    {
+      "text": "Der Görlitzer Park ist in Berlin bekannt als ein Ort, wo viel Drogenhandel stattfindet.",
+      "translated_text": "Görlitzer Park is known in Berlin as a place where a lot of drug dealing takes place."
+    },
+    {
+      "text": "Der Berliner Senat beschloss die Nachtschließung als Teil eines größeren Sicherheitsprogramms.",
+      "translated_text": "The Berlin Senate decided on the night closure as part of a larger security programme."
+    },
+    {
+      "text": "Am Abend vor der ersten Schließung versammelten sich etwa 300 Menschen zu einem Protestkonzert.",
+      "translated_text": "On the evening before the first closure, around 300 people gathered for a protest concert."
+    },
+    {
+      "text": "Unter dem Motto \"Rave against the Zaun\" (Rave gegen den Zaun) forderten sie, den Park offen zu lassen.",
+      "translated_text": "Under the slogan \"Rave against the Zaun\" (Rave against the Fence) they demanded that the park be kept open."
+    },
+    {
+      "text": "Sie wollten das Geld lieber für soziale Projekte verwenden.",
+      "translated_text": "They would have preferred the money to be used for social projects."
+    },
+    {
+      "text": "Rund 200 Polizisten waren im Einsatz, und es gab eine Festnahme.",
+      "translated_text": "Around 200 police officers were deployed, and there was one arrest."
+    },
+    {
+      "text": "Nach der Schließung sabotierten Unbekannte mehrere Tore mit Fahrradschlössern.",
+      "translated_text": "After the closure, unknown persons sabotaged several gates with bicycle locks."
+    },
+    {
+      "text": "Sie befestigten Schlösser so, dass die Tore nicht mehr geschlossen werden konnten.",
+      "translated_text": "They attached locks in such a way that the gates could no longer be closed."
+    },
+    {
+      "text": "Das Landeskriminalamt ermittelt nun wegen Sachbeschädigung.",
+      "translated_text": "The state criminal investigations office is now investigating the case as criminal damage."
+    },
+    {
+      "text": "Eine wissenschaftliche Evaluation soll die Wirksamkeit der Maßnahme bis Ende des Jahres prüfen.",
+      "translated_text": "A scientific evaluation is to assess the effectiveness of the measure by the end of the year."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Schließung",
+      "translated_term": "the closure",
+      "example_usage": "Seit dem 1. März 2026 ist der Görlitzer Park in Berlin-Kreuzberg nachts geschlossen."
+    },
+    {
+      "term": "absperren",
+      "translated_term": "to fence off / to block off",
+      "example_usage": "Der Park ist damit der erste große Berliner Park, der nachts abgesperrt wird."
+    },
+    {
+      "term": "die Maßnahme",
+      "translated_term": "the measure",
+      "example_usage": "Die Maßnahme soll die Sicherheit im Park und in der Umgebung verbessern."
+    },
+    {
+      "term": "der Drogenhandel",
+      "translated_term": "the drug trade / drug dealing",
+      "example_usage": "Der Görlitzer Park ist bekannt als ein Ort, wo viel Drogenhandel stattfindet."
+    },
+    {
+      "term": "sabotieren",
+      "translated_term": "to sabotage",
+      "example_usage": "Nach der Schließung sabotierten Unbekannte mehrere Tore mit Fahrradschlössern."
+    },
+    {
+      "term": "ermitteln",
+      "translated_term": "to investigate",
+      "example_usage": "Das Landeskriminalamt ermittelt nun wegen Sachbeschädigung."
+    },
+    {
+      "term": "die Wirksamkeit",
+      "translated_term": "the effectiveness",
+      "example_usage": "Eine wissenschaftliche Evaluation soll die Wirksamkeit der Maßnahme bis Ende des Jahres prüfen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de: Görlitzer Park closed at night from March 1",
+      "link_url": "https://www.berlin.de/en/news/10231030-5559700-goerlitzer-park-closed-at-night-from-mar.en.html"
+    },
+    {
+      "name": "Tagesspiegel: Nachtschließung des Görlitzer Parks",
+      "link_url": "https://www.tagesspiegel.de/berlin/bezirke/friedrichshain-kreuzberg/ab-sonntagabend-greift-der-sicherheitsdienst-durch-nachtschliessung-des-gorlitzer-parks-kommt--aber-was-geschieht-wenn-man-bleibt-15296597.html"
+    },
+    {
+      "name": "Berlin-live.de: Görlitzer Park erste Nacht dicht",
+      "link_url": "https://www.berlin-live.de/berlin/aktuelles/goerlitzer-park-schliessung-nachts-id594311.html"
+    }
+  ]
+}

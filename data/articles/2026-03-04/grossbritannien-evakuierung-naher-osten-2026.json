@@ -1,0 +1,130 @@
+{
+  "title": "Großbritannien evakuiert Bürger aus dem Nahen Osten",
+  "translated_title": "UK Evacuates Citizens from the Middle East",
+  "text": [
+    {
+      "text": "Seit dem Beginn des Krieges zwischen USA, Israel und dem Iran am 28. Februar 2026 befinden sich rund 300.000 britische Staatsbürger in den Golfstaaten.",
+      "translated_text": "Since the outbreak of the war between the USA, Israel and Iran on 28 February 2026, around 300,000 British citizens are in the Gulf states."
+    },
+    {
+      "text": "Viele von ihnen sind Touristen oder Berufstätige, die dort leben und arbeiten.",
+      "translated_text": "Many of them are tourists or professionals who live and work there."
+    },
+    {
+      "text": "Die britische Regierung plant nun ihre Evakuierung.",
+      "translated_text": "The British government is now planning their evacuation."
+    },
+    {
+      "text": "Außenministerin Yvette Cooper koordiniert die Hilfe.",
+      "translated_text": "Foreign Secretary Yvette Cooper is coordinating the assistance."
+    },
+    {
+      "text": "Sie arbeitet mit Fluggesellschaften zusammen, um mehr Evakuierungsflüge zu organisieren.",
+      "translated_text": "She is working with airlines to organise more evacuation flights."
+    },
+    {
+      "text": "Das britische Parlament diskutierte die Situation und fragte den Premierminister nach Maßnahmen zum Schutz der Bürger.",
+      "translated_text": "The British Parliament discussed the situation and asked the Prime Minister about measures to protect citizens."
+    },
+    {
+      "text": "Die Lage ist schwierig, weil viele Flughäfen in der Region geschlossen oder unsicher sind.",
+      "translated_text": "The situation is difficult because many airports in the region are closed or unsafe."
+    },
+    {
+      "text": "Der Iran hat Flughäfen und Hotels angegriffen, in denen sich britische Staatsbürger befanden.",
+      "translated_text": "Iran attacked airports and hotels where British citizens were staying."
+    },
+    {
+      "text": "Eine Militärbasis in Bahrain, auf der sich 300 britische Soldaten befanden, wurde ebenfalls angegriffen.",
+      "translated_text": "A military base in Bahrain, where 300 British soldiers were stationed, was also attacked."
+    },
+    {
+      "text": "Auch der britische Militärflughafen RAF Akrotiri in Zypern wurde von einer Drohne getroffen.",
+      "translated_text": "The British military airbase RAF Akrotiri in Cyprus was also hit by a drone."
+    },
+    {
+      "text": "Die Fluggesellschaften British Airways, Qatar Airways, Etihad und Emirates haben viele Flüge gestrichen.",
+      "translated_text": "Airlines British Airways, Qatar Airways, Etihad and Emirates have cancelled many flights."
+    },
+    {
+      "text": "Am Londoner Flughafen Heathrow wurden fast die Hälfte der geplanten Flüge in die Region annulliert.",
+      "translated_text": "At London's Heathrow Airport, almost half of the planned flights to the region were cancelled."
+    },
+    {
+      "text": "Insgesamt wurden seit Beginn des Krieges über 11.000 Flüge gestrichen.",
+      "translated_text": "In total, more than 11,000 flights have been cancelled since the start of the war."
+    },
+    {
+      "text": "Trotz der Schwierigkeiten kehrten die ersten britischen Staatsbürger mit Evakuierungsflügen nach Hause zurück.",
+      "translated_text": "Despite the difficulties, the first British citizens returned home on evacuation flights."
+    },
+    {
+      "text": "Viele andere warten noch auf ihre Ausreise.",
+      "translated_text": "Many others are still waiting to leave."
+    },
+    {
+      "text": "Die britische Regierung ist unter großem Druck, schnell und effektiv zu handeln.",
+      "translated_text": "The British government is under great pressure to act quickly and effectively."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Staatsbürger",
+      "translated_term": "the citizen",
+      "example_usage": "rund 300.000 britische Staatsbürger befinden sich in den Golfstaaten."
+    },
+    {
+      "term": "evakuieren",
+      "translated_term": "to evacuate",
+      "example_usage": "Die britische Regierung plant nun ihre Evakuierung."
+    },
+    {
+      "term": "die Außenministerin",
+      "translated_term": "the (female) foreign secretary / foreign minister",
+      "example_usage": "Außenministerin Yvette Cooper koordiniert die Hilfe."
+    },
+    {
+      "term": "annullieren",
+      "translated_term": "to cancel",
+      "example_usage": "Am Londoner Flughafen Heathrow wurden fast die Hälfte der geplanten Flüge in die Region annulliert."
+    },
+    {
+      "term": "der Druck",
+      "translated_term": "the pressure",
+      "example_usage": "Die britische Regierung ist unter großem Druck, schnell und effektiv zu handeln."
+    },
+    {
+      "term": "die Ausreise",
+      "translated_term": "the departure / exit from a country",
+      "example_usage": "Viele andere warten noch auf ihre Ausreise."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Humanitäre Krise",
+      "translated_name": "Humanitarian Crisis"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ITV News: First Britons return on Middle East evacuation flights as thousands remain stranded",
+      "link_url": "https://www.itv.com/news/2026-03-03/first-brits-return-on-gulf-evacuation-flights-as-thousands-remain-stranded"
+    },
+    {
+      "name": "ITV News: Stranded Brits, cancelled flights and closed airspace – how the Iran war has sparked travel chaos",
+      "link_url": "https://www.itv.com/news/2026-03-02/cancelled-flights-and-closed-airspace-how-iran-war-has-sparked-travel-chaos"
+    },
+    {
+      "name": "UK Parliament Hansard: Middle East debate, 2 March 2026",
+      "link_url": "https://hansard.parliament.uk/commons/2026-03-02/debates/C3BE6001-08B4-4DF8-8193-A4BFF0C57E9B/MiddleEast"
+    }
+  ]
+}
