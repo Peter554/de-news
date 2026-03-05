@@ -1,0 +1,122 @@
+{
+  "title": "Görlitzer Park in Berlin wird nachts geschlossen",
+  "translated_title": "Görlitzer Park in Berlin Closed at Night",
+  "text": [
+    {
+      "text": "Seit dem 1. März 2026 wird der Görlitzer Park in Berlin-Kreuzberg nachts geschlossen.",
+      "translated_text": "Since 1 March 2026, Görlitzer Park in Berlin-Kreuzberg has been closed at night."
+    },
+    {
+      "text": "Der Park war lange wegen Drogenhandels und Kriminalität bekannt.",
+      "translated_text": "The park was long known for drug dealing and crime."
+    },
+    {
+      "text": "Jetzt werden die 16 Eingänge des Parks mit neuen Toren geschlossen.",
+      "translated_text": "Now the 16 entrances to the park are closed with new gates."
+    },
+    {
+      "text": "Im Winter schließt der Park um 22:00 Uhr, im Sommer erst um 23:00 Uhr.",
+      "translated_text": "In winter the park closes at 10:00 pm, in summer not until 11:00 pm."
+    },
+    {
+      "text": "Man kann den Park durch Drehkreuze noch verlassen, aber nicht mehr betreten.",
+      "translated_text": "You can still leave the park through turnstiles, but can no longer enter."
+    },
+    {
+      "text": "Ein privater Wachdienst mit zehn Mitarbeitern ist für die Schließung und Überwachung zuständig.",
+      "translated_text": "A private security service with ten employees is responsible for closing and monitoring."
+    },
+    {
+      "text": "Der Berliner Senat hat etwa 27,84 Millionen Euro für die Maßnahme bereitgestellt.",
+      "translated_text": "The Berlin Senate has provided around 27.84 million euros for the measure."
+    },
+    {
+      "text": "Der Plan wurde vor zweieinhalb Jahren angekündigt und ist jetzt endlich umgesetzt worden.",
+      "translated_text": "The plan was announced two and a half years ago and has now finally been implemented."
+    },
+    {
+      "text": "Mehrere hundert Menschen haben gegen die Schließung demonstriert.",
+      "translated_text": "Several hundred people demonstrated against the closure."
+    },
+    {
+      "text": "Der von den Grünen geführte Bezirk Friedrichshain-Kreuzberg ist gegen die Schließung.",
+      "translated_text": "The district of Friedrichshain-Kreuzberg, led by the Greens, is against the closure."
+    },
+    {
+      "text": "Kritiker sagen, der Drogenhandel werde durch die Schließung nur in die Wohngebiete rund um den Park verdrängt.",
+      "translated_text": "Critics say the closure will only push drug dealing into the residential areas around the park."
+    },
+    {
+      "text": "Der Bezirk hat bereits Klage gegen die Schließung eingereicht.",
+      "translated_text": "The district has already filed a legal complaint against the closure."
+    },
+    {
+      "text": "Eine wissenschaftliche Studie soll bis Ende des Jahres prüfen, ob die Schließung wirkt.",
+      "translated_text": "A scientific study is to examine by the end of the year whether the closure is effective."
+    },
+    {
+      "text": "Der Görlitzer Park ist ein beliebter Treffpunkt für viele Berliner und Touristen.",
+      "translated_text": "Görlitzer Park is a popular meeting place for many Berliners and tourists."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Drogenhandel",
+      "translated_term": "drug dealing / drug trade",
+      "example_usage": "Der Park war lange wegen Drogenhandels und Kriminalität bekannt."
+    },
+    {
+      "term": "das Drehkreuz",
+      "translated_term": "the turnstile",
+      "example_usage": "Man kann den Park durch Drehkreuze noch verlassen."
+    },
+    {
+      "term": "der Wachdienst",
+      "translated_term": "the security service",
+      "example_usage": "Ein privater Wachdienst ist für die Schließung und Überwachung zuständig."
+    },
+    {
+      "term": "verdrängen",
+      "translated_term": "to displace / push out",
+      "example_usage": "Kritiker sagen, der Drogenhandel werde nur in die Wohngebiete verdrängt."
+    },
+    {
+      "term": "die Klage einreichen",
+      "translated_term": "to file a legal complaint",
+      "example_usage": "Der Bezirk hat Klage gegen die Schließung eingereicht."
+    },
+    {
+      "term": "der Treffpunkt",
+      "translated_term": "the meeting place",
+      "example_usage": "Der Görlitzer Park ist ein beliebter Treffpunkt für viele Berliner und Touristen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Kriminalität",
+      "translated_name": "Crime"
+    },
+    {
+      "name": "Proteste",
+      "translated_name": "Protests"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de: Görlitzer Park closed at night from March 1",
+      "link_url": "https://www.berlin.de/en/news/10231030-5559700-goerlitzer-park-closed-at-night-from-mar.en.html"
+    },
+    {
+      "name": "Berliner Abendblatt: Görlitzer Park nach langen Debatten nun nachts geschlossen",
+      "link_url": "https://berliner-abendblatt.de/berlin-news/goerlitzer-park-nach-langen-debatten-nun-nachts-geschlossen-id326049"
+    },
+    {
+      "name": "mein-berlin.net: Proteste gegen Schließung des Görlitzer Parks in Berlin-Kreuzberg",
+      "link_url": "https://mein-berlin.net/berlin/friedrichshain-kreuzberg/proteste-gegen-schliessung-des-goerlitzer-parks-in-berlin-kreuzberg/"
+    }
+  ]
+}
