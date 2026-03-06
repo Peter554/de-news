@@ -1,0 +1,119 @@
+{
+  "title": "Berlin erstattet Hotelkosten nach dem großen Stromausfall",
+  "translated_title": "Berlin Reimburses Hotel Costs After the Major Power Outage",
+  "text": [
+    {
+      "text": "Im Januar 2026 gab es in Berlin einen der schlimmsten Stromausfälle seit dem Zweiten Weltkrieg.",
+      "translated_text": "In January 2026, Berlin experienced one of the worst power outages since the Second World War."
+    },
+    {
+      "text": "Am 3. Januar griffen unbekannte Täter eine Kabelanlage am Heizkraftwerk Berlin-Lichterfelde an.",
+      "translated_text": "On 3 January, unknown perpetrators attacked a cable installation at the Berlin-Lichterfelde power plant."
+    },
+    {
+      "text": "Rund 45.000 Haushalte und 2.200 Betriebe im Südwesten Berlins hatten danach keinen Strom mehr.",
+      "translated_text": "Around 45,000 households and 2,200 businesses in the south-west of Berlin were then left without electricity."
+    },
+    {
+      "text": "Insgesamt waren etwa 100.000 Menschen betroffen.",
+      "translated_text": "Approximately 100,000 people were affected in total."
+    },
+    {
+      "text": "Bei Temperaturen um den Gefrierpunkt fielen auch die Heizungen aus.",
+      "translated_text": "With temperatures around freezing point, the heating systems also failed."
+    },
+    {
+      "text": "Der Blackout dauerte bis zum 7. Januar und war der längste Stromausfall Berlins seit 1945.",
+      "translated_text": "The blackout lasted until 7 January and was Berlin's longest power outage since 1945."
+    },
+    {
+      "text": "Viele Menschen mussten während des Stromausfalls in Hotels übernachten.",
+      "translated_text": "Many people had to stay in hotels during the power outage."
+    },
+    {
+      "text": "Zwei Monate später beginnt das Bezirksamt Steglitz-Zehlendorf nun damit, die Hotelrechnungen zu bezahlen.",
+      "translated_text": "Two months later, the district office of Steglitz-Zehlendorf is now beginning to pay the hotel bills."
+    },
+    {
+      "text": "Regierender Bürgermeister Kai Wegner und Wirtschaftssenatorin Franziska Giffey hatten die Erstattung versprochen.",
+      "translated_text": "Governing Mayor Kai Wegner and Economics Senator Franziska Giffey had promised the reimbursement."
+    },
+    {
+      "text": "Betroffene konnten unter dem Buchungscode \"Stromausfall\" in Partnerhotels günstig übernachten.",
+      "translated_text": "Those affected could stay cheaply in partner hotels using the booking code \"Stromausfall\" (power outage)."
+    },
+    {
+      "text": "Die Bearbeitung der Anträge ist komplizierter als erwartet und dauert mehrere Wochen.",
+      "translated_text": "Processing the applications is more complicated than expected and takes several weeks."
+    },
+    {
+      "text": "Die Ermittlungen zur Ursache des Anschlags dauern weiterhin an.",
+      "translated_text": "Investigations into the cause of the attack are still ongoing."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Stromausfall",
+      "translated_term": "the power outage / power cut",
+      "example_usage": "Im Januar 2026 gab es in Berlin einen der schlimmsten Stromausfälle seit dem Zweiten Weltkrieg."
+    },
+    {
+      "term": "der Blackout",
+      "translated_term": "the blackout",
+      "example_usage": "Der Blackout dauerte bis zum 7. Januar."
+    },
+    {
+      "term": "der Haushalt",
+      "translated_term": "the household",
+      "example_usage": "Rund 45.000 Haushalte im Südwesten Berlins hatten keinen Strom mehr."
+    },
+    {
+      "term": "erstatten",
+      "translated_term": "to reimburse / to refund",
+      "example_usage": "Das Bezirksamt beginnt damit, die Hotelrechnungen zu bezahlen."
+    },
+    {
+      "term": "das Bezirksamt",
+      "translated_term": "the district office",
+      "example_usage": "Das Bezirksamt Steglitz-Zehlendorf beginnt nun damit, die Hotelrechnungen zu bezahlen."
+    },
+    {
+      "term": "betroffen",
+      "translated_term": "affected",
+      "example_usage": "Insgesamt waren etwa 100.000 Menschen betroffen."
+    },
+    {
+      "term": "die Ermittlung",
+      "translated_term": "the investigation",
+      "example_usage": "Die Ermittlungen zur Ursache des Anschlags dauern weiterhin an."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de: Power supply fully restored and stable",
+      "link_url": "https://www.berlin.de/en/news/10113643-5559700-power-outage-in-the-southwest-50000-hous.en.html"
+    },
+    {
+      "name": "Tagesspiegel: Hotelflucht nach dem Stromausfall in Berlin – von einem Solidarpreis zur kompletten Erstattung",
+      "link_url": "https://www.tagesspiegel.de/berlin/berliner-wirtschaft/hotelflucht-nach-dem-stromausfall-in-berlin-von-einem-solidarpreis-zur-kompletten-erstattung-15107234.html"
+    },
+    {
+      "name": "Handelsblatt: Stromausfall – Berlin will Betroffenen die Hotelkosten erstatten",
+      "link_url": "https://www.handelsblatt.com/politik/deutschland/stromausfall-berlin-will-betroffenen-die-hotelkosten-erstatten/100188970.html"
+    }
+  ]
+}
