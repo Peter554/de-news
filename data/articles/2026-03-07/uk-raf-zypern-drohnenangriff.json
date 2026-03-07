@@ -1,0 +1,121 @@
+{
+  "title": "Großbritannien verteidigt RAF-Stützpunkt auf Zypern nach Drohnenangriff",
+  "translated_title": "Great Britain Defends RAF Base in Cyprus After Drone Attack",
+  "text": [
+    {
+      "text": "Am 1. März 2026 traf eine Drohne den britischen Luftwaffenstützpunkt RAF Akrotiri auf Zypern.",
+      "translated_text": "On 1 March 2026, a drone struck the British Royal Air Force base RAF Akrotiri in Cyprus."
+    },
+    {
+      "text": "Die Drohne beschädigte einen Hangar, aber es gab keine Verletzten.",
+      "translated_text": "The drone damaged a hangar, but there were no injuries."
+    },
+    {
+      "text": "Das britische Verteidigungsministerium erklärte, der Schaden sei gering.",
+      "translated_text": "The British Ministry of Defence stated that the damage was minor."
+    },
+    {
+      "text": "Man glaubt, dass die Drohne von einer pro-iranischen Miliz im Libanon oder im Irak abgefeuert wurde.",
+      "translated_text": "It is believed that the drone was fired by a pro-Iranian militia in Lebanon or Iraq."
+    },
+    {
+      "text": "Verteidigungsminister John Healey flog nach Zypern, um die Lage zu beurteilen.",
+      "translated_text": "Defence Secretary John Healey flew to Cyprus to assess the situation."
+    },
+    {
+      "text": "Als Reaktion auf den Angriff schickte Großbritannien das Kriegsschiff HMS Dragon und zwei Wildcat-Hubschrauber nach Zypern.",
+      "translated_text": "In response to the attack, Great Britain sent the warship HMS Dragon and two Wildcat helicopters to Cyprus."
+    },
+    {
+      "text": "Das Schiff und die Hubschrauber haben spezielle Drohnenabwehr-Fähigkeiten.",
+      "translated_text": "The ship and the helicopters have special counter-drone capabilities."
+    },
+    {
+      "text": "Britische F-35B-Kampfjets schossen außerdem Drohnen über Jordanien ab.",
+      "translated_text": "British F-35B fighter jets also shot down drones over Jordan."
+    },
+    {
+      "text": "Das war das erste Mal, dass ein britischer F-35 im Einsatz ein Ziel zerstörte.",
+      "translated_text": "This was the first time a British F-35 destroyed a target in active service."
+    },
+    {
+      "text": "Ein britisches Eurofighter-Kampfflugzeug schoss zudem eine iranische Drohne über Katar ab.",
+      "translated_text": "A British Eurofighter jet also shot down an Iranian drone over Qatar."
+    },
+    {
+      "text": "Zypern betonte, dass es sich nicht an Militäreinsätzen beteiligt.",
+      "translated_text": "Cyprus emphasised that it is not participating in any military operations."
+    },
+    {
+      "text": "NATO-Generalsekretär Mark Rutte versicherte, die NATO werde \"jeden Zentimeter des NATO-Territoriums verteidigen\".",
+      "translated_text": "NATO Secretary General Mark Rutte assured that NATO would \"defend every inch of NATO territory\"."
+    },
+    {
+      "text": "Auch Griechenland schickte Kampfjets nach Zypern, und mehrere andere NATO-Länder stellten Schiffe in der Region bereit.",
+      "translated_text": "Greece also sent fighter jets to Cyprus, and several other NATO countries deployed ships in the region."
+    },
+    {
+      "text": "Der Angriff auf RAF Akrotiri war das erste Mal, dass britisches Territorium im Iran-Krieg direkt getroffen wurde.",
+      "translated_text": "The attack on RAF Akrotiri was the first time British territory was directly hit in the Iran war."
+    },
+    {
+      "text": "Die britische Regierung unter Premierminister Keir Starmer reagierte mit verstärkter Verteidigung, vermied aber eine direkte Beteiligung an Angriffen.",
+      "translated_text": "The British government under Prime Minister Keir Starmer responded with enhanced defence but avoided direct participation in offensive strikes."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Stützpunkt",
+      "translated_term": "the base",
+      "example_usage": "Am 1. März 2026 traf eine Drohne den britischen Luftwaffenstützpunkt RAF Akrotiri auf Zypern."
+    },
+    {
+      "term": "abschießen",
+      "translated_term": "to shoot down",
+      "example_usage": "Britische F-35B-Kampfjets schossen Drohnen über Jordanien ab."
+    },
+    {
+      "term": "die Drohnenabwehr",
+      "translated_term": "counter-drone defence",
+      "example_usage": "Das Schiff und die Hubschrauber haben spezielle Drohnenabwehr-Fähigkeiten."
+    },
+    {
+      "term": "betonen",
+      "translated_term": "to emphasise / to stress",
+      "example_usage": "Zypern betonte, dass es sich nicht an Militäreinsätzen beteiligt."
+    },
+    {
+      "term": "versichern",
+      "translated_term": "to assure / to guarantee",
+      "example_usage": "NATO-Generalsekretär Rutte versicherte, die NATO werde \"jeden Zentimeter des NATO-Territoriums verteidigen\"."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: British military base in Cyprus targeted in suspected drone attack",
+      "link_url": "https://www.aljazeera.com/news/2026/3/2/british-military-base-in-cyprus-targeted-in-suspected-drone-attack"
+    },
+    {
+      "name": "Euronews: UK military base in Cyprus targeted by drones as Iran's retaliation widens",
+      "link_url": "https://www.euronews.com/2026/03/02/britain-says-drone-hit-its-military-base-in-cyprus-the-first-impact-of-mideast-conflict-in"
+    },
+    {
+      "name": "The Aviationist: UK Confirms F-35Bs Shot Down Drones as New Defences are Deployed for RAF Akrotiri",
+      "link_url": "https://theaviationist.com/2026/03/03/uk-f35s-shot-down-drones-akrotiri-reinforcements/"
+    }
+  ]
+}

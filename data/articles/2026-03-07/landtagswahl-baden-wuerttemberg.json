@@ -1,0 +1,121 @@
+{
+  "title": "Baden-Württemberg wählt morgen einen neuen Landtag",
+  "translated_title": "Baden-Württemberg Elects a New State Parliament Tomorrow",
+  "text": [
+    {
+      "text": "Am 8. März 2026 findet in Baden-Württemberg die Landtagswahl statt.",
+      "translated_text": "On 8 March 2026, the state parliament election takes place in Baden-Württemberg."
+    },
+    {
+      "text": "Rund 7,7 Millionen Menschen sind wahlberechtigt.",
+      "translated_text": "Around 7.7 million people are eligible to vote."
+    },
+    {
+      "text": "Zum ersten Mal dürfen auch 16- und 17-Jährige an dieser Wahl teilnehmen.",
+      "translated_text": "For the first time, 16- and 17-year-olds are also allowed to participate in this election."
+    },
+    {
+      "text": "Außerdem gilt bei dieser Wahl ein neues Wahlrecht: Die Wählerinnen und Wähler haben jetzt zwei Stimmen statt einer.",
+      "translated_text": "In addition, a new electoral law applies to this election: voters now have two votes instead of one."
+    },
+    {
+      "text": "Der langjährige Ministerpräsident Winfried Kretschmann von den Grünen tritt nicht mehr an.",
+      "translated_text": "The long-serving Prime Minister Winfried Kretschmann of the Greens is not standing again."
+    },
+    {
+      "text": "Die CDU schickt Manuel Hagel ins Rennen, die Grünen Cem Özdemir und die SPD Andreas Stoch.",
+      "translated_text": "The CDU is fielding Manuel Hagel, the Greens Cem Özdemir and the SPD Andreas Stoch."
+    },
+    {
+      "text": "Die aktuellen Umfragen zeigen ein sehr enges Rennen zwischen CDU und Grünen.",
+      "translated_text": "Current polls show a very tight race between the CDU and the Greens."
+    },
+    {
+      "text": "Laut einer Umfrage vom 4. März liegt die CDU bei 27 Prozent und die Grünen bei 24 Prozent.",
+      "translated_text": "According to a poll from 4 March, the CDU is at 27 per cent and the Greens at 24 per cent."
+    },
+    {
+      "text": "Die AfD liegt bei 20 Prozent und könnte drittstärkste Kraft werden.",
+      "translated_text": "The AfD is at 20 per cent and could become the third-largest party."
+    },
+    {
+      "text": "SPD, FDP und Linke liegen deutlich dahinter.",
+      "translated_text": "The SPD, FDP and the Left are clearly behind."
+    },
+    {
+      "text": "Baden-Württemberg ist das erste Bundesland, das 2026 einen neuen Landtag wählt.",
+      "translated_text": "Baden-Württemberg is the first federal state to elect a new state parliament in 2026."
+    },
+    {
+      "text": "Im Laufe des Jahres finden in weiteren Bundesländern Landtagswahlen statt.",
+      "translated_text": "During the year, state parliament elections will take place in other federal states."
+    },
+    {
+      "text": "Die Wahl in Baden-Württemberg gilt daher als wichtiger Stimmungstest für die Bundespolitik.",
+      "translated_text": "The election in Baden-Württemberg is therefore seen as an important mood test for federal politics."
+    },
+    {
+      "text": "Bundeskanzler Friedrich Merz und seine schwarz-rote Koalition sind erst seit Ende Februar im Amt.",
+      "translated_text": "Federal Chancellor Friedrich Merz and his black-red coalition have only been in office since late February."
+    },
+    {
+      "text": "Viele Beobachter sind gespannt, wie die neue Bundesregierung bei den Wählerinnen und Wählern ankommt.",
+      "translated_text": "Many observers are curious to see how the new federal government is received by voters."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "wahlberechtigt",
+      "translated_term": "eligible to vote",
+      "example_usage": "Rund 7,7 Millionen Menschen sind wahlberechtigt."
+    },
+    {
+      "term": "antreten",
+      "translated_term": "to stand / to run (for election)",
+      "example_usage": "Der langjährige Ministerpräsident Winfried Kretschmann tritt nicht mehr an."
+    },
+    {
+      "term": "die Umfrage",
+      "translated_term": "the poll / the survey",
+      "example_usage": "Die aktuellen Umfragen zeigen ein sehr enges Rennen zwischen CDU und Grünen."
+    },
+    {
+      "term": "der Stimmungstest",
+      "translated_term": "the mood test",
+      "example_usage": "Die Wahl gilt als wichtiger Stimmungstest für die Bundespolitik."
+    },
+    {
+      "term": "die Koalition",
+      "translated_term": "the coalition",
+      "example_usage": "Bundeskanzler Merz und seine schwarz-rote Koalition sind erst seit Ende Februar im Amt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wahlkampf",
+      "translated_name": "Election Campaign"
+    }
+  ],
+  "sources": [
+    {
+      "name": "BPB: Landtagswahl 2026 – Offenes Rennen in Baden-Württemberg",
+      "link_url": "https://www.bpb.de/kurz-knapp/hintergrund-aktuell/575886/landtagswahl-2026-offenes-rennen-in-baden-wuerttemberg/"
+    },
+    {
+      "name": "Wikipedia: Landtagswahl in Baden-Württemberg 2026",
+      "link_url": "https://de.wikipedia.org/wiki/Landtagswahl_in_Baden-W%C3%BCrttemberg_2026"
+    },
+    {
+      "name": "Staatsanzeiger BW: Umfragen und aktuelle Entwicklungen zur Landtagswahl 2026",
+      "link_url": "https://www.staatsanzeiger.de/nachrichten/politik-und-verwaltung/umfragen-und-aktuelle-entwicklungen-zur-landtagswahl-2026/"
+    }
+  ]
+}

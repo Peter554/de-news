@@ -1,0 +1,126 @@
+{
+  "title": "Der Krieg zwischen USA, Israel und Iran eskaliert",
+  "translated_title": "The War Between the USA, Israel and Iran Escalates",
+  "text": [
+    {
+      "text": "Seit dem 28. Februar 2026 führen die USA und Israel gemeinsam Krieg gegen Iran.",
+      "translated_text": "Since 28 February 2026, the USA and Israel have been waging war together against Iran."
+    },
+    {
+      "text": "Der Krieg begann, als amerikanische und israelische Streitkräfte den iranischen Obersten Führer Ali Chamenei töteten.",
+      "translated_text": "The war began when American and Israeli forces killed Iranian Supreme Leader Ali Khamenei."
+    },
+    {
+      "text": "Die gemeinsame Operation trägt den Namen \"Operation Epic Fury\".",
+      "translated_text": "The joint operation is named \"Operation Epic Fury\"."
+    },
+    {
+      "text": "In den ersten sieben Tagen haben USA und Israel mehr als 2.500 Angriffe mit über 6.000 Waffen durchgeführt.",
+      "translated_text": "In the first seven days, the USA and Israel carried out more than 2,500 strikes using over 6,000 weapons."
+    },
+    {
+      "text": "US-Verteidigungsminister Pete Hegseth sagte, die USA und Israel erwarten bald die \"vollständige Kontrolle über den iranischen Luftraum\".",
+      "translated_text": "US Secretary of Defense Pete Hegseth said the USA and Israel expect to soon have \"complete control of Iranian airspace\"."
+    },
+    {
+      "text": "Iran antwortet mit Raketen und Drohnen: Seit Kriegsbeginn hat Iran über 500 Raketen und fast 2.000 Drohnen abgefeuert.",
+      "translated_text": "Iran is responding with missiles and drones: since the start of the war, Iran has fired more than 500 missiles and almost 2,000 drones."
+    },
+    {
+      "text": "Zum ersten Mal in der Geschichte griff Iran alle sechs Golfstaaten gleichzeitig an.",
+      "translated_text": "For the first time in history, Iran attacked all six Gulf states simultaneously."
+    },
+    {
+      "text": "Die humanitäre Lage ist sehr ernst: Nach Angaben des Iranischen Roten Halbmonds sind über 1.300 Menschen gestorben.",
+      "translated_text": "The humanitarian situation is very serious: according to the Iranian Red Crescent, more than 1,300 people have died."
+    },
+    {
+      "text": "Israel bombardiert auch den Libanon stark, und über 95.000 Menschen wurden dort vertrieben.",
+      "translated_text": "Israel is also heavily bombing Lebanon, and more than 95,000 people have been displaced there."
+    },
+    {
+      "text": "Der Krieg hat außerdem schwere wirtschaftliche Folgen für die ganze Welt.",
+      "translated_text": "The war also has severe economic consequences for the entire world."
+    },
+    {
+      "text": "Die Schließung der Straße von Hormus hat die globale Ölversorgung stark gestört.",
+      "translated_text": "The closure of the Strait of Hormuz has severely disrupted the global oil supply."
+    },
+    {
+      "text": "Experten sagen, dies ist der größte Öllieferverlust in der Geschichte – dreimal schlimmer als das arabische Ölembargo von 1973.",
+      "translated_text": "Experts say this is the largest oil supply loss in history – three times worse than the Arab oil embargo of 1973."
+    },
+    {
+      "text": "US-Präsident Trump besteht darauf, dass es keinen Frieden geben kann außer einer \"bedingungslosen Kapitulation\" Irans.",
+      "translated_text": "US President Trump insists there can be no peace except an \"unconditional surrender\" by Iran."
+    },
+    {
+      "text": "Russland soll Iran mit Geheimdienstinformationen über die Standorte amerikanischer Truppen helfen.",
+      "translated_text": "Russia is reportedly helping Iran with intelligence information about the locations of American troops."
+    },
+    {
+      "text": "Die NATO-Verbündeten sind gespalten darüber, wie sie auf den Krieg reagieren sollen.",
+      "translated_text": "NATO allies are divided on how they should respond to the war."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "eskalieren",
+      "translated_term": "to escalate",
+      "example_usage": "Seit dem 28. Februar 2026 eskaliert der Konflikt täglich weiter."
+    },
+    {
+      "term": "die Kapitulation",
+      "translated_term": "the surrender",
+      "example_usage": "Trump besteht darauf, dass es keinen Frieden geben kann außer einer \"bedingungslosen Kapitulation\" Irans."
+    },
+    {
+      "term": "abfeuern",
+      "translated_term": "to fire / to launch",
+      "example_usage": "Iran hat über 500 Raketen und fast 2.000 Drohnen abgefeuert."
+    },
+    {
+      "term": "vertreiben",
+      "translated_term": "to displace / to drive out",
+      "example_usage": "Über 95.000 Menschen wurden im Libanon vertrieben."
+    },
+    {
+      "term": "die Straße von Hormus",
+      "translated_term": "the Strait of Hormuz",
+      "example_usage": "Die Schließung der Straße von Hormus hat die globale Ölversorgung stark gestört."
+    },
+    {
+      "term": "gespalten",
+      "translated_term": "divided / split",
+      "example_usage": "Die NATO-Verbündeten sind gespalten darüber, wie sie auf den Krieg reagieren sollen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Iran war: What is happening on day seven of US-Israel attacks?",
+      "link_url": "https://www.aljazeera.com/news/2026/3/6/iran-war-what-is-happening-on-day-seven-of-us-israel-attacks"
+    },
+    {
+      "name": "NPR: Israel strikes Beirut and Tehran as Trump demands Iran's 'unconditional surrender'",
+      "link_url": "https://www.npr.org/2026/03/06/nx-s1-5738448/iran-us-israel-war"
+    },
+    {
+      "name": "CNN: Everything we know on the seventh day of the US and Israel's war with Iran",
+      "link_url": "https://www.cnn.com/2026/03/05/middleeast/us-israel-iran-war-what-we-know-intl-hnk"
+    }
+  ]
+}
