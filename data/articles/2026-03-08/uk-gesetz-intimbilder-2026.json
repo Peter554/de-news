@@ -1,0 +1,122 @@
+{
+  "title": "Großbritannien: Neues Gesetz gegen nicht einvernehmlich geteilte Intimbilder",
+  "translated_title": "UK: New Law Against Non-Consensually Shared Intimate Images",
+  "text": [
+    {
+      "text": "Die britische Regierung hat ein neues Gesetz angekündigt, das Opfer von Online-Missbrauch besser schützt.",
+      "translated_text": "The British government has announced a new law that better protects victims of online abuse."
+    },
+    {
+      "text": "Das Gesetz betrifft Intimbilder, die ohne Zustimmung der betroffenen Person geteilt werden.",
+      "translated_text": "The law concerns intimate images that are shared without the consent of the person involved."
+    },
+    {
+      "text": "Dazu gehören auch sogenannte Deepfakes, also gefälschte Bilder, die mit Künstlicher Intelligenz erstellt werden.",
+      "translated_text": "This also includes so-called deepfakes, i.e. fake images created with artificial intelligence."
+    },
+    {
+      "text": "Nach dem neuen Gesetz müssen Technologieplattformen solche Bilder innerhalb von 48 Stunden löschen.",
+      "translated_text": "Under the new law, technology platforms must delete such images within 48 hours."
+    },
+    {
+      "text": "Bisher mussten Opfer jede Plattform einzeln kontaktieren, was sehr zeitaufwendig war.",
+      "translated_text": "Previously, victims had to contact each platform individually, which was very time-consuming."
+    },
+    {
+      "text": "Mit dem neuen Gesetz reicht eine einzige Meldung, und alle Plattformen müssen handeln.",
+      "translated_text": "With the new law, a single report is sufficient and all platforms must take action."
+    },
+    {
+      "text": "Wenn Plattformen das Gesetz nicht befolgen, drohen ihnen hohe Geldstrafen.",
+      "translated_text": "If platforms do not comply with the law, they face large fines."
+    },
+    {
+      "text": "Die Strafen können bis zu zehn Prozent des weltweiten Jahresumsatzes betragen.",
+      "translated_text": "The penalties can amount to up to ten percent of the global annual revenue."
+    },
+    {
+      "text": "Im schlimmsten Fall können Plattformen sogar in Großbritannien gesperrt werden.",
+      "translated_text": "In the worst case, platforms can even be blocked in the UK."
+    },
+    {
+      "text": "Premierminister Keir Starmer nannte das Gesetz eine starke Botschaft gegen Online-Missbrauch.",
+      "translated_text": "Prime Minister Keir Starmer called the law a strong message against online abuse."
+    },
+    {
+      "text": "Das Gesetz ist Teil des sogenannten Crime and Policing Bill.",
+      "translated_text": "The law is part of the so-called Crime and Policing Bill."
+    },
+    {
+      "text": "Frauenrechtsorganisationen begrüßten das Gesetz und bezeichneten es als wichtigen Schritt.",
+      "translated_text": "Women's rights organisations welcomed the law and described it as an important step."
+    },
+    {
+      "text": "Sie hatten lange für eine stärkere Regulierung in diesem Bereich gekämpft.",
+      "translated_text": "They had long campaigned for stronger regulation in this area."
+    },
+    {
+      "text": "Experten sagen, dass besonders viele Frauen und junge Menschen von solchen Bildern betroffen sind.",
+      "translated_text": "Experts say that particularly many women and young people are affected by such images."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Intimbild",
+      "translated_term": "the intimate image",
+      "example_usage": "Das Gesetz betrifft Intimbilder, die ohne Zustimmung der betroffenen Person geteilt werden."
+    },
+    {
+      "term": "die Zustimmung",
+      "translated_term": "the consent",
+      "example_usage": "Intimbilder werden ohne Zustimmung der betroffenen Person geteilt."
+    },
+    {
+      "term": "der Deepfake",
+      "translated_term": "the deepfake",
+      "example_usage": "Dazu gehören auch Deepfakes, die mit Künstlicher Intelligenz erstellt werden."
+    },
+    {
+      "term": "löschen",
+      "translated_term": "to delete / remove",
+      "example_usage": "Plattformen müssen solche Bilder innerhalb von 48 Stunden löschen."
+    },
+    {
+      "term": "die Geldstrafe",
+      "translated_term": "the fine",
+      "example_usage": "Wenn Plattformen das Gesetz nicht befolgen, drohen ihnen hohe Geldstrafen."
+    },
+    {
+      "term": "begrüßen",
+      "translated_term": "to welcome / to greet",
+      "example_usage": "Frauenrechtsorganisationen begrüßten das Gesetz und bezeichneten es als wichtigen Schritt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Britische Politik",
+      "translated_name": "British Politics"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Register: UK to force social media to remove abusive pics in 48 hours",
+      "link_url": "https://www.theregister.com/2026/02/19/uk_intimate_images_online"
+    },
+    {
+      "name": "IBTimes UK: New UK Law Requires Tech Platforms to Remove Revenge Porn, Nonconsensual Deepfake Images Within 48 Hours",
+      "link_url": "https://www.ibtimes.co.uk/uk-government-action-against-deepfake-images-1780250"
+    },
+    {
+      "name": "End Violence Against Women: Campaign win – tech platforms must remove abusive images within 48 hours",
+      "link_url": "https://www.endviolenceagainstwomen.org.uk/campaign-win-tech-platforms-must-remove-abusive-images-within-48-hours/"
+    }
+  ]
+}

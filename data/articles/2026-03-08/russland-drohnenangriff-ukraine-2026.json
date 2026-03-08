@@ -1,0 +1,122 @@
+{
+  "title": "Russland greift Ukraine mit fast 500 Drohnen und Raketen an",
+  "translated_title": "Russia Attacks Ukraine with Almost 500 Drones and Missiles",
+  "text": [
+    {
+      "text": "Russland hat einen der größten Angriffe des Krieges gegen die Ukraine gestartet.",
+      "translated_text": "Russia has launched one of the largest attacks of the war against Ukraine."
+    },
+    {
+      "text": "In einer einzigen Nacht schickte Russland fast 480 Drohnen und 29 Raketen.",
+      "translated_text": "In a single night, Russia sent almost 480 drones and 29 missiles."
+    },
+    {
+      "text": "Die Angriffe galten vor allem der Energieinfrastruktur und den Bahnhöfen der Ukraine.",
+      "translated_text": "The attacks were aimed primarily at Ukraine's energy infrastructure and railway stations."
+    },
+    {
+      "text": "Auch Hafeneinrichtungen wurden angegriffen.",
+      "translated_text": "Port facilities were also attacked."
+    },
+    {
+      "text": "Besonders schlimm war der Angriff in der Stadt Charkiw im Osten des Landes.",
+      "translated_text": "The attack on the city of Kharkiv in the east of the country was particularly severe."
+    },
+    {
+      "text": "Dort traf eine russische Rakete ein Wohnhaus und tötete mindestens sieben Menschen.",
+      "translated_text": "There, a Russian missile hit a residential building and killed at least seven people."
+    },
+    {
+      "text": "Insgesamt kamen bei dem Angriff mindestens zehn Menschen ums Leben.",
+      "translated_text": "In total, at least ten people lost their lives in the attack."
+    },
+    {
+      "text": "Die ukrainische Luftabwehr arbeitete die ganze Nacht und konnte 472 von 509 Flugobjekten abschießen.",
+      "translated_text": "Ukraine's air defence worked throughout the night and was able to shoot down 472 of 509 aerial objects."
+    },
+    {
+      "text": "Präsident Selenskyj berichtete persönlich über den Angriff und forderte mehr internationale Unterstützung.",
+      "translated_text": "President Zelenskyy personally reported on the attack and called for more international support."
+    },
+    {
+      "text": "Er sagte, Russland wolle die ukrainische Infrastruktur systematisch zerstören.",
+      "translated_text": "He said Russia wants to systematically destroy Ukrainian infrastructure."
+    },
+    {
+      "text": "Unter den eingesetzten Waffen war auch eine Zirkon-Hyperschallrakete.",
+      "translated_text": "Among the weapons used was also a Zircon hypersonic missile."
+    },
+    {
+      "text": "Diese Rakete ist sehr schwer abzufangen, weil sie extrem schnell fliegt.",
+      "translated_text": "This missile is very difficult to intercept because it flies extremely fast."
+    },
+    {
+      "text": "Der Angriff zeigt, dass Russland den Krieg trotz laufender Friedensgespräche fortsetzt.",
+      "translated_text": "The attack shows that Russia is continuing the war despite ongoing peace talks."
+    },
+    {
+      "text": "Viele Länder verurteilten den Angriff und erneuerten ihre Unterstützung für die Ukraine.",
+      "translated_text": "Many countries condemned the attack and renewed their support for Ukraine."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Drohne",
+      "translated_term": "the drone",
+      "example_usage": "Russland schickte fast 480 Drohnen in einer einzigen Nacht."
+    },
+    {
+      "term": "die Luftabwehr",
+      "translated_term": "the air defence",
+      "example_usage": "Die ukrainische Luftabwehr konnte 472 von 509 Flugobjekten abschießen."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "the infrastructure",
+      "example_usage": "Russland wolle die ukrainische Infrastruktur systematisch zerstören."
+    },
+    {
+      "term": "abschießen",
+      "translated_term": "to shoot down",
+      "example_usage": "Die Luftabwehr konnte 472 von 509 Flugobjekten abschießen."
+    },
+    {
+      "term": "verurteilen",
+      "translated_term": "to condemn",
+      "example_usage": "Viele Länder verurteilten den Angriff und erneuerten ihre Unterstützung für die Ukraine."
+    },
+    {
+      "term": "die Rakete",
+      "translated_term": "the missile / rocket",
+      "example_usage": "Dort traf eine russische Rakete ein Wohnhaus und tötete mindestens sieben Menschen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Ukrainska Pravda: Russia attacks Ukraine with 29 missiles and 480 drones, hits recorded at 22 locations",
+      "link_url": "https://www.pravda.com.ua/eng/news/2026/03/07/8024321/"
+    },
+    {
+      "name": "NBC News: Russia hits Ukraine with drones, missiles, kills at least 10 in Kharkiv",
+      "link_url": "https://www.nbcnews.com/world/ukraine/russia-hits-ukraine-drones-missiles-kills-least-seven-kharkiv-rcna262213"
+    },
+    {
+      "name": "PBS NewsHour: Russia targets Ukraine's energy infrastructure with large-scale missile and drone attack",
+      "link_url": "https://www.pbs.org/newshour/world/russia-targets-ukraines-energy-infrastructure-with-large-scale-missile-and-drone-attack"
+    }
+  ]
+}
