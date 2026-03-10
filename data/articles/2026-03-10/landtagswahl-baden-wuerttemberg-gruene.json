@@ -1,0 +1,111 @@
+{
+  "title": "Grüne gewinnen Landtagswahl in Baden-Württemberg",
+  "translated_title": "Greens Win State Election in Baden-Württemberg",
+  "text": [
+    {
+      "text": "Bei der Landtagswahl in Baden-Württemberg haben die Grünen knapp gewonnen.",
+      "translated_text": "In the state election in Baden-Württemberg, the Greens won narrowly."
+    },
+    {
+      "text": "Die Grünen erhielten 30,2 Prozent der Stimmen, die CDU von Bundeskanzler Friedrich Merz kam auf 29,7 Prozent.",
+      "translated_text": "The Greens received 30.2 per cent of the votes, with the CDU of Federal Chancellor Friedrich Merz reaching 29.7 per cent."
+    },
+    {
+      "text": "Das Ergebnis war eine Niederlage für Merz, der in diesem Jahr viele Landtagswahlen vor sich hat.",
+      "translated_text": "The result was a defeat for Merz, who has many state elections ahead of him this year."
+    },
+    {
+      "text": "Die rechtspopulistische AfD konnte ihre Unterstützung fast verdoppeln und kam auf 18,8 Prozent.",
+      "translated_text": "The right-wing populist AfD was almost able to double its support and reached 18.8 per cent."
+    },
+    {
+      "text": "Die SPD, Koalitionspartner von Merz im Bund, erzielte ein schlechtes Ergebnis von nur 5,5 Prozent.",
+      "translated_text": "The SPD, Merz's coalition partner at federal level, achieved a poor result of only 5.5 per cent."
+    },
+    {
+      "text": "Merz bezeichnete das Ergebnis als bitter, erklärte aber, dass es keine Auswirkungen auf seine Bundesregierung habe.",
+      "translated_text": "Merz described the result as 'bitter', but declared that it would have no impact on his federal government."
+    },
+    {
+      "text": "Er sagte, die Koalition werde ihre Arbeit fortsetzen und mehr Fortschritte bei den Wirtschaftsreformen erzielen.",
+      "translated_text": "He said: 'We will continue our work and make more progress on economic reforms.'"
+    },
+    {
+      "text": "Merz lehnte erneut jede Zusammenarbeit mit der AfD ab.",
+      "translated_text": "Merz once again rejected any cooperation with the AfD."
+    },
+    {
+      "text": "Kritiker sagen, dass Merz zu viel Zeit mit Auslandsreisen verbringt und zu wenig mit innenpolitischen Themen.",
+      "translated_text": "Critics say that Merz spends too much time on foreign trips and too little on domestic political issues."
+    },
+    {
+      "text": "Der nächste Test für Merz kommt am 22. März in Rheinland-Pfalz, wo die CDU gegen die SPD antreten wird.",
+      "translated_text": "The next test for Merz comes on 22 March in Rhineland-Palatinate, where the CDU will compete against the SPD."
+    },
+    {
+      "text": "Im Herbst stehen dann wichtige Wahlen in Ostdeutschland an, wo die AfD traditionell stark ist.",
+      "translated_text": "In autumn, there are then important elections in eastern Germany, where the AfD is traditionally strong."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Landtagswahl",
+      "translated_term": "the state parliament election",
+      "example_usage": "Bei der Landtagswahl in Baden-Württemberg haben die Grünen knapp gewonnen."
+    },
+    {
+      "term": "die Niederlage",
+      "translated_term": "the defeat",
+      "example_usage": "Das Ergebnis war eine Niederlage für Merz."
+    },
+    {
+      "term": "rechtspopulistisch",
+      "translated_term": "right-wing populist",
+      "example_usage": "Die rechtspopulistische AfD konnte ihre Unterstützung fast verdoppeln."
+    },
+    {
+      "term": "bezeichnen als",
+      "translated_term": "to describe as / to call",
+      "example_usage": "Merz bezeichnete das Ergebnis als bitter."
+    },
+    {
+      "term": "die Auswirkung",
+      "translated_term": "the impact / effect",
+      "example_usage": "Er erklärte, dass es keine Auswirkungen auf seine Bundesregierung habe."
+    },
+    {
+      "term": "ablehnen",
+      "translated_term": "to reject / to refuse",
+      "example_usage": "Merz lehnte erneut jede Zusammenarbeit mit der AfD ab."
+    },
+    {
+      "term": "die Innenpolitik",
+      "translated_term": "domestic politics",
+      "example_usage": "Kritiker sagen, dass Merz zu wenig Zeit mit innenpolitischen Themen verbringt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wahlkampf",
+      "translated_name": "Election Campaign"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Washington Times: Merz's party stumbles into a year of German state elections with a narrow defeat",
+      "link_url": "https://www.washingtontimes.com/news/2026/mar/9/friedrich-merzs-party-stumbles-year-german-state-elections-narrow/"
+    },
+    {
+      "name": "US News: Germany's Merz Rules Out Cooperation With Far-Right AfD After State Election",
+      "link_url": "https://www.usnews.com/news/world/articles/2026-03-09/germanys-merz-rules-out-cooperation-with-far-right-afd-after-state-election"
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "title": "Görlitzer Park in Berlin: Nachts geschlossen",
+  "translated_title": "Görlitzer Park in Berlin: Closed at Night",
+  "text": [
+    {
+      "text": "Der Görlitzer Park im Berliner Stadtteil Kreuzberg wird jetzt nachts geschlossen.",
+      "translated_text": "Görlitzer Park in the Berlin district of Kreuzberg is now closed at night."
+    },
+    {
+      "text": "Am 1. März wurde der Park zum ersten Mal in seiner Geschichte nachts gesperrt.",
+      "translated_text": "On 1 March, the park was closed at night for the first time in its history."
+    },
+    {
+      "text": "Die 16 Eingänge werden jeden Abend mit neu gebauten Toren verschlossen.",
+      "translated_text": "The 16 entrances are locked every evening with newly built gates."
+    },
+    {
+      "text": "Wer sich noch im Park befindet, kann diesen jedoch durch Drehtüren verlassen.",
+      "translated_text": "Those still in the park can, however, leave through revolving doors."
+    },
+    {
+      "text": "Der Park ist seit Jahren bekannt als Treffpunkt für den Drogenhandel.",
+      "translated_text": "The park has been known for years as a meeting point for drug dealing."
+    },
+    {
+      "text": "Die Berliner Koalition erhofft sich von der Schließung mehr Sicherheit und Ordnung.",
+      "translated_text": "The Berlin coalition hopes the closure will bring more safety and order."
+    },
+    {
+      "text": "Nicht alle Berliner sind mit dieser Entscheidung einverstanden.",
+      "translated_text": "Not all Berliners agree with this decision."
+    },
+    {
+      "text": "Rund 300 Menschen protestierten am ersten Abend gegen die Schließung mit einem Konzert namens Rave gegen den Zaun.",
+      "translated_text": "Around 300 people protested against the closure on the first evening with a concert called 'Rave against the Fence'."
+    },
+    {
+      "text": "Die Polizei war mit etwa 200 Beamten vor Ort, die Demo verlief aber größtenteils friedlich.",
+      "translated_text": "The police were on site with around 200 officers, but the demonstration was largely peaceful."
+    },
+    {
+      "text": "Eine Person wurde festgenommen.",
+      "translated_text": "One person was arrested."
+    },
+    {
+      "text": "Auch andere Sicherheitsmaßnahmen werden in Berlin diskutiert.",
+      "translated_text": "Other security measures are also being discussed in Berlin."
+    },
+    {
+      "text": "Der Berliner Senat plant, Künstliche Intelligenz einzusetzen, um verdächtiges Verhalten in der Nähe des Rathauses zu erkennen.",
+      "translated_text": "The Berlin Senate is planning to use artificial intelligence to detect suspicious behaviour near the City Hall."
+    },
+    {
+      "text": "Dieser Plan ist jedoch umstritten: Datenschützer warnen vor zu viel Überwachung.",
+      "translated_text": "This plan is controversial, however: data protection advocates warn against too much surveillance."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "sperren",
+      "translated_term": "to close / to block off / to lock",
+      "example_usage": "Am 1. März wurde der Park zum ersten Mal nachts gesperrt."
+    },
+    {
+      "term": "das Tor",
+      "translated_term": "the gate",
+      "example_usage": "Die 16 Eingänge werden jeden Abend mit neu gebauten Toren verschlossen."
+    },
+    {
+      "term": "der Drogenhandel",
+      "translated_term": "drug dealing / drug trafficking",
+      "example_usage": "Der Park ist seit Jahren bekannt als Treffpunkt für den Drogenhandel."
+    },
+    {
+      "term": "einverstanden sein",
+      "translated_term": "to agree / to be in agreement",
+      "example_usage": "Nicht alle Berliner sind mit dieser Entscheidung einverstanden."
+    },
+    {
+      "term": "festnehmen",
+      "translated_term": "to arrest",
+      "example_usage": "Eine Person wurde festgenommen."
+    },
+    {
+      "term": "der Datenschutz",
+      "translated_term": "data protection",
+      "example_usage": "Datenschützer warnen vor zu viel Überwachung."
+    },
+    {
+      "term": "die Überwachung",
+      "translated_term": "the surveillance / monitoring",
+      "example_usage": "Datenschützer warnen vor zu viel Überwachung."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Kriminalität",
+      "translated_name": "Crime"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Left Berlin: News from Berlin and Germany, 3rd March 2026",
+      "link_url": "https://theleftberlin.com/news-from-berlin-and-germany-4th-march-2026/"
+    }
+  ]
+}
