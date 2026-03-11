@@ -1,0 +1,114 @@
+{
+  "title": "Iran hat einen neuen Obersten Führer",
+  "translated_title": "Iran has a new Supreme Leader",
+  "text": [
+    {
+      "text": "Nach dem Tod von Ajatollah Ali Chamenei hat Iran einen neuen Obersten Führer.",
+      "translated_text": "After the death of Ayatollah Ali Khamenei, Iran has a new Supreme Leader."
+    },
+    {
+      "text": "Am 28. Februar 2026 wurden Ali Chamenei und mehrere Familienmitglieder bei einem US-israelischen Luftangriff getötet.",
+      "translated_text": "On 28 February 2026, Ali Khamenei and several family members were killed in a US-Israeli airstrike."
+    },
+    {
+      "text": "Am 8. März 2026 wählte die Expertenversammlung Mojtaba Chamenei, den Sohn des verstorbenen Führers, als neuen Obersten Führer.",
+      "translated_text": "On 8 March 2026, the Assembly of Experts elected Mojtaba Khamenei, the son of the deceased leader, as the new Supreme Leader."
+    },
+    {
+      "text": "Mojtaba Chamenei ist 57 Jahre alt und hat nie ein gewähltes Amt bekleidet.",
+      "translated_text": "Mojtaba Khamenei is 57 years old and has never held an elected office."
+    },
+    {
+      "text": "Er arbeitete jahrelang hinter den Kulissen im Büro seines Vaters.",
+      "translated_text": "He worked for years behind the scenes in his father's office."
+    },
+    {
+      "text": "Besonders enge Verbindungen hat er zur Iranischen Revolutionsgarde (IRGC).",
+      "translated_text": "He has particularly close ties to the Islamic Revolutionary Guard Corps (IRGC)."
+    },
+    {
+      "text": "Berichte besagen, dass die IRGC die Expertenversammlung unter Druck gesetzt hat, Mojtaba zu wählen.",
+      "translated_text": "Reports say that the IRGC put pressure on the Assembly of Experts to elect Mojtaba."
+    },
+    {
+      "text": "US-Präsident Donald Trump hatte zuvor gesagt, Mojtaba Chamenei sei nicht akzeptabel.",
+      "translated_text": "US President Donald Trump had previously said that Mojtaba Khamenei was unacceptable."
+    },
+    {
+      "text": "Israel bezeichnete ihn als Tyrannen, genau wie seinen Vater.",
+      "translated_text": "Israel called him a tyrant, just like his father."
+    },
+    {
+      "text": "Der russische Präsident Putin hingegen drückte seine unerschütterliche Unterstützung für Iran aus.",
+      "translated_text": "Russian President Putin, on the other hand, expressed his unwavering support for Iran."
+    },
+    {
+      "text": "Mojtaba hat den Rang eines Hojatoleslam, also eines mittleren Klerikers, und nicht den eines Ajatollahs.",
+      "translated_text": "Mojtaba holds the rank of Hojatoleslam, a mid-level cleric, and not that of an Ayatollah."
+    },
+    {
+      "text": "Analysten sagen, seine Ernennung bedeutet Kontinuität und zeigt, dass Iran im Moment wenig Interesse an Friedensverhandlungen hat.",
+      "translated_text": "Analysts say his appointment signals continuity and shows that Iran has little interest in peace negotiations at the moment."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Oberste Führer",
+      "translated_term": "the Supreme Leader",
+      "example_usage": "Iran hat einen neuen Obersten Führer."
+    },
+    {
+      "term": "die Expertenversammlung",
+      "translated_term": "the Assembly of Experts",
+      "example_usage": "Die Expertenversammlung wählte Mojtaba Chamenei als neuen Obersten Führer."
+    },
+    {
+      "term": "der Luftangriff",
+      "translated_term": "the airstrike",
+      "example_usage": "Ali Chamenei wurde bei einem US-israelischen Luftangriff getötet."
+    },
+    {
+      "term": "die Revolutionsgarde",
+      "translated_term": "the Revolutionary Guard",
+      "example_usage": "Er hat enge Verbindungen zur Iranischen Revolutionsgarde."
+    },
+    {
+      "term": "inakzeptabel",
+      "translated_term": "unacceptable",
+      "example_usage": "Trump hatte gesagt, Mojtaba Chamenei sei nicht akzeptabel."
+    },
+    {
+      "term": "die Kontinuität",
+      "translated_term": "the continuity",
+      "example_usage": "Analysten sagen, seine Ernennung bedeutet Kontinuität."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Iran names Mojtaba Khamenei as new supreme leader",
+      "link_url": "https://www.aljazeera.com/news/2026/3/8/iran-names-khameneis-son-as-new-supreme-leader-after-fathers-killing-2"
+    },
+    {
+      "name": "NPR: Iran names new supreme leader, Mojtaba Khamenei",
+      "link_url": "https://www.npr.org/2026/03/08/nx-s1-5741654/israel-iran-oil-ayatollah-successor"
+    },
+    {
+      "name": "NBC News: Mojtaba Khamenei named Iran's new supreme leader",
+      "link_url": "https://www.nbcnews.com/world/iran/iran-supreme-leader-mojtaba-khamenei-rcna261645"
+    }
+  ]
+}
