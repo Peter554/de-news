@@ -1,0 +1,122 @@
+{
+  "title": "Neuer Iran-Oberster-Führer schwört, die Straße von Hormus geschlossen zu halten",
+  "translated_title": "New Iranian Supreme Leader Vows to Keep the Strait of Hormuz Closed",
+  "text": [
+    {
+      "text": "Der Iran und die USA befinden sich seit Ende Februar 2026 im Krieg.",
+      "translated_text": "Iran and the USA have been at war since the end of February 2026."
+    },
+    {
+      "text": "Am 28. Februar griffen die USA und Israel den Iran mit koordinierten Luftangriffen an.",
+      "translated_text": "On 28 February, the USA and Israel attacked Iran with coordinated air strikes."
+    },
+    {
+      "text": "Bei diesen Angriffen, die als \"Operation Epic Fury\" bekannt wurden, wurde der iranische Oberste Führer Khamenei getötet.",
+      "translated_text": "In these attacks, known as 'Operation Epic Fury', Iranian Supreme Leader Khamenei was killed."
+    },
+    {
+      "text": "Als Reaktion darauf erklärte die iranische Revolutionsgarde die Straße von Hormus für alle Öltanker gesperrt.",
+      "translated_text": "In response, the Iranian Revolutionary Guard declared the Strait of Hormuz closed to all oil tankers."
+    },
+    {
+      "text": "Die Straße von Hormus ist eine sehr wichtige Meerenge zwischen dem Iran und Oman.",
+      "translated_text": "The Strait of Hormuz is a very important strait between Iran and Oman."
+    },
+    {
+      "text": "Etwa 20 Prozent des weltweiten Öls werden durch diese Meerenge transportiert.",
+      "translated_text": "About 20 percent of the world's oil is transported through this strait."
+    },
+    {
+      "text": "Nun hat Mojtaba Khamenei, der neue Oberste Führer des Iran, seine erste Rede gehalten.",
+      "translated_text": "Now Mojtaba Khamenei, the new Supreme Leader of Iran, has given his first speech."
+    },
+    {
+      "text": "Er sagte, der Iran werde die Blockade der Meerenge aufrechterhalten.",
+      "translated_text": "He said Iran would maintain the blockade of the strait."
+    },
+    {
+      "text": "Außerdem drohte er mit weiteren Angriffen auf amerikanische Militärbasen in der Region.",
+      "translated_text": "He also threatened further attacks on American military bases in the region."
+    },
+    {
+      "text": "Die Internationale Energieagentur (IEA) bezeichnete dies als die größte Ölversorgungskrise in der Geschichte.",
+      "translated_text": "The International Energy Agency (IEA) described this as the largest oil supply crisis in history."
+    },
+    {
+      "text": "Die IEA koordinierte die Freigabe von 400 Millionen Barrel aus den Notvorräten der Mitgliedsländer.",
+      "translated_text": "The IEA coordinated the release of 400 million barrels from member countries' emergency reserves."
+    },
+    {
+      "text": "Trotzdem stiegen die Ölpreise stark an – Experten sprechen von möglichen 200 Dollar pro Barrel.",
+      "translated_text": "Nevertheless, oil prices rose sharply – experts speak of possible $200 per barrel."
+    },
+    {
+      "text": "Ein amerikanisches Tankflugzeug wurde über dem Irak abgeschossen, die genauen Opferzahlen sind noch unklar.",
+      "translated_text": "An American refuelling aircraft was shot down over Iraq; the exact number of casualties is still unclear."
+    },
+    {
+      "text": "Die Lage in der Region bleibt sehr gefährlich und unvorhersehbar.",
+      "translated_text": "The situation in the region remains very dangerous and unpredictable."
+    },
+    {
+      "text": "Viele Länder rufen zu sofortigen Verhandlungen und einem Ende des Konflikts auf.",
+      "translated_text": "Many countries are calling for immediate negotiations and an end to the conflict."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Meerenge",
+      "translated_term": "the strait",
+      "example_usage": "Die Straße von Hormus ist eine sehr wichtige Meerenge zwischen dem Iran und Oman."
+    },
+    {
+      "term": "die Blockade",
+      "translated_term": "the blockade",
+      "example_usage": "Er sagte, der Iran werde die Blockade der Meerenge aufrechterhalten."
+    },
+    {
+      "term": "aufrechterhalten",
+      "translated_term": "to maintain / to uphold",
+      "example_usage": "Der neue Oberste Führer schwor, die Blockade aufrechtzuerhalten."
+    },
+    {
+      "term": "der Luftangriff",
+      "translated_term": "the air strike",
+      "example_usage": "Am 28. Februar griffen die USA und Israel den Iran mit koordinierten Luftangriffen an."
+    },
+    {
+      "term": "die Notvorräte (Pl.)",
+      "translated_term": "the emergency reserves",
+      "example_usage": "Die IEA koordinierte die Freigabe von 400 Millionen Barrel aus den Notvorräten."
+    },
+    {
+      "term": "die Revolutionsgarde",
+      "translated_term": "the Revolutionary Guard",
+      "example_usage": "Die iranische Revolutionsgarde erklärte die Straße von Hormus für alle Öltanker gesperrt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR: Iran says its new leader made his 1st address, vowing to keep Strait of Hormuz closed",
+      "link_url": "https://www.npr.org/2026/03/12/nx-s1-5745689/iran-war-israel-us"
+    },
+    {
+      "name": "Al Jazeera: How US-Israel attacks on Iran threaten the Strait of Hormuz",
+      "link_url": "https://www.aljazeera.com/news/2026/3/1/how-us-israel-attacks-on-iran-threaten-the-strait-of-hormuz-oil-markets"
+    }
+  ]
+}
