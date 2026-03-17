@@ -1,0 +1,106 @@
+{
+  "title": "Streik am Flughafen BER: 35.000 Passagiere betroffen",
+  "translated_title": "Strike at BER Airport: 35,000 Passengers Affected",
+  "text": [
+    {
+      "text": "Die Gewerkschaft Verdi hat für den 18. März einen ganztägigen Streik am Flughafen Berlin Brandenburg (BER) angekündigt.",
+      "translated_text": "The trade union Verdi has announced a full-day strike at Berlin Brandenburg Airport (BER) for 18 March."
+    },
+    {
+      "text": "Alle 300 geplanten Flüge an diesem Tag wurden gestrichen.",
+      "translated_text": "All 300 planned flights on that day have been cancelled."
+    },
+    {
+      "text": "Ungefähr 35.000 Passagiere sind von dem Streik betroffen.",
+      "translated_text": "Approximately 35,000 passengers are affected by the strike."
+    },
+    {
+      "text": "Die Mitarbeiter fordern eine Gehaltserhöhung von 12,5 Prozent.",
+      "translated_text": "The employees are demanding a pay rise of 12.5 percent."
+    },
+    {
+      "text": "Das Flughafenmanagement hat bisher nur eine Erhöhung von 6,1 Prozent angeboten.",
+      "translated_text": "The airport management has so far only offered an increase of 6.1 percent."
+    },
+    {
+      "text": "Der Streik betrifft das Bodenpersonal, die Passagierabfertigung und die Flugzeugwartung.",
+      "translated_text": "The strike affects ground staff, passenger handling, and aircraft maintenance."
+    },
+    {
+      "text": "Reisende werden gebeten, sich sofort mit ihrer Fluggesellschaft in Verbindung zu setzen.",
+      "translated_text": "Travellers are asked to contact their airline immediately."
+    },
+    {
+      "text": "Verdi erklärte, dass die Löhne mit der Inflation nicht Schritt gehalten haben.",
+      "translated_text": "Verdi stated that wages have not kept pace with inflation."
+    },
+    {
+      "text": "Es ist nicht der erste Streik am BER in den letzten Jahren.",
+      "translated_text": "It is not the first strike at BER in recent years."
+    },
+    {
+      "text": "Der Flughafen BER ist der wichtigste Flughafen in der Hauptstadtregion Berlin-Brandenburg.",
+      "translated_text": "BER airport is the most important airport in the capital region of Berlin-Brandenburg."
+    },
+    {
+      "text": "Viele Pendler und Touristen sind besorgt über die Auswirkungen des Streiks.",
+      "translated_text": "Many commuters and tourists are concerned about the effects of the strike."
+    },
+    {
+      "text": "Die Verhandlungen zwischen Verdi und dem Management gehen weiter.",
+      "translated_text": "Negotiations between Verdi and management are continuing."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Streik",
+      "translated_term": "the strike",
+      "example_usage": "Die Gewerkschaft Verdi hat für den 18. März einen ganztägigen Streik am Flughafen BER angekündigt."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the trade union",
+      "example_usage": "Die Gewerkschaft Verdi hat einen Streik angekündigt."
+    },
+    {
+      "term": "die Gehaltserhöhung",
+      "translated_term": "the pay rise",
+      "example_usage": "Die Mitarbeiter fordern eine Gehaltserhöhung von 12,5 Prozent."
+    },
+    {
+      "term": "das Bodenpersonal",
+      "translated_term": "the ground staff",
+      "example_usage": "Der Streik betrifft das Bodenpersonal, die Passagierabfertigung und die Flugzeugwartung."
+    },
+    {
+      "term": "die Auswirkungen",
+      "translated_term": "the effects / the impact",
+      "example_usage": "Viele Pendler und Touristen sind besorgt über die Auswirkungen des Streiks."
+    },
+    {
+      "term": "Schritt halten",
+      "translated_term": "to keep pace / to keep up",
+      "example_usage": "Verdi erklärte, dass die Löhne mit der Inflation nicht Schritt gehalten haben."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    }
+  ],
+  "sources": [
+    {
+      "name": "VisaVerge: Verdi Targets Berlin Brandenburg Airport Wednesday for Strike",
+      "link_url": "https://www.visaverge.com/news/verdi-targets-berlin-brandenburg-airport-wednesday-for-strike-demanding-12-5-pay-rise/"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "title": "Deutschland: Neue Regierung plant Abschaffung des Bürgergelds",
+  "translated_title": "Germany: New Government Plans to Abolish the Bürgergeld",
+  "text": [
+    {
+      "text": "Die neue deutsche Bundesregierung plant, das Bürgergeld abzuschaffen.",
+      "translated_text": "The new German federal government plans to abolish the Bürgergeld."
+    },
+    {
+      "text": "Das Bürgergeld ist das Grundeinkommen für Menschen ohne Arbeit.",
+      "translated_text": "The Bürgergeld is the basic income for people without work."
+    },
+    {
+      "text": "Stattdessen soll ein strengeres System eingeführt werden.",
+      "translated_text": "Instead, a stricter system is to be introduced."
+    },
+    {
+      "text": "Wer nicht an Maßnahmen zur Jobsuche teilnimmt, soll weniger Geld bekommen.",
+      "translated_text": "Those who do not participate in job-seeking measures are to receive less money."
+    },
+    {
+      "text": "Die Menschenrechtsorganisation Human Rights Watch hat diese Pläne scharf kritisiert.",
+      "translated_text": "The human rights organisation Human Rights Watch has sharply criticised these plans."
+    },
+    {
+      "text": "Human Rights Watch warnt, dass das neue System gegen die deutsche Verfassung verstoßen könnte.",
+      "translated_text": "Human Rights Watch warns that the new system could violate the German constitution."
+    },
+    {
+      "text": "Das Grundgesetz garantiert in Deutschland ein menschenwürdiges Leben für alle Menschen.",
+      "translated_text": "The Basic Law guarantees a dignified life for all people in Germany."
+    },
+    {
+      "text": "Kritiker sagen, sehr starke Kürzungen könnten dieses Recht verletzen.",
+      "translated_text": "Critics say very severe cuts could violate this right."
+    },
+    {
+      "text": "Die Bundesregierung argumentiert, das neue System solle Menschen motivieren, schneller Arbeit zu finden.",
+      "translated_text": "The federal government argues that the new system should motivate people to find work more quickly."
+    },
+    {
+      "text": "In Deutschland gibt es zurzeit etwa 5,6 Millionen Empfänger von Bürgergeld.",
+      "translated_text": "There are currently about 5.6 million recipients of Bürgergeld in Germany."
+    },
+    {
+      "text": "Die Debatte über Sozialleistungen ist ein wichtiges Thema in der deutschen Politik.",
+      "translated_text": "The debate about social benefits is an important topic in German politics."
+    },
+    {
+      "text": "Die Abstimmung im Bundestag steht noch aus.",
+      "translated_text": "The vote in the Bundestag is still pending."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Bürgergeld",
+      "translated_term": "the Bürgergeld (basic income for jobseekers)",
+      "example_usage": "Die neue deutsche Bundesregierung plant, das Bürgergeld abzuschaffen."
+    },
+    {
+      "term": "abschaffen",
+      "translated_term": "to abolish / to get rid of",
+      "example_usage": "Die neue deutsche Bundesregierung plant, das Bürgergeld abzuschaffen."
+    },
+    {
+      "term": "verstoßen gegen",
+      "translated_term": "to violate / to breach",
+      "example_usage": "Human Rights Watch warnt, dass das neue System gegen die deutsche Verfassung verstoßen könnte."
+    },
+    {
+      "term": "das Grundgesetz",
+      "translated_term": "the Basic Law (German constitution)",
+      "example_usage": "Das Grundgesetz garantiert in Deutschland ein menschenwürdiges Leben für alle Menschen."
+    },
+    {
+      "term": "menschenwürdig",
+      "translated_term": "dignified / humane",
+      "example_usage": "Das Grundgesetz garantiert in Deutschland ein menschenwürdiges Leben für alle Menschen."
+    },
+    {
+      "term": "die Sozialleistungen",
+      "translated_term": "the social benefits",
+      "example_usage": "Die Debatte über Sozialleistungen ist ein wichtiges Thema in der deutschen Politik."
+    },
+    {
+      "term": "ausstehen",
+      "translated_term": "to be pending / to be outstanding",
+      "example_usage": "Die Abstimmung im Bundestag steht noch aus."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Sozialpolitik",
+      "translated_name": "Social Policy"
+    },
+    {
+      "name": "Menschenrechte",
+      "translated_name": "Human Rights"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Human Rights Watch: Germany: Proposed Bill Would Weaken Right to Social Security",
+      "link_url": "https://www.hrw.org/news/2026/03/05/germany-proposed-bill-would-weaken-right-to-social-security"
+    }
+  ]
+}
