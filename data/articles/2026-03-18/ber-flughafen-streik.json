@@ -1,0 +1,127 @@
+{
+  "title": "Warnstreik lähmt den Flughafen Berlin Brandenburg",
+  "translated_title": "Warning Strike Paralyses Berlin Brandenburg Airport",
+  "text": [
+    {
+      "text": "Am 18. März 2026 steht der Flughafen Berlin Brandenburg (BER) komplett still.",
+      "translated_text": "On 18 March 2026, Berlin Brandenburg Airport (BER) is completely at a standstill."
+    },
+    {
+      "text": "Die Gewerkschaft ver.di hat einen Warnstreik ausgerufen, der von 4:00 bis 22:59 Uhr dauert.",
+      "translated_text": "The trade union ver.di has called a warning strike lasting from 4:00 to 22:59."
+    },
+    {
+      "text": "Alle rund 445 geplanten Flüge wurden gestrichen – das betrifft etwa 57.000 Passagiere.",
+      "translated_text": "All approximately 445 scheduled flights have been cancelled – this affects around 57,000 passengers."
+    },
+    {
+      "text": "Der Flughafen hat alle Reisenden gebeten, nicht zum Terminal zu kommen.",
+      "translated_text": "The airport has asked all travellers not to come to the terminal."
+    },
+    {
+      "text": "Die Passagiere sollen sich direkt an ihre Fluggesellschaft oder ihren Reiseveranstalter wenden.",
+      "translated_text": "Passengers should contact their airline or tour operator directly."
+    },
+    {
+      "text": "Der Streik ist der Folge von gescheiterten Tarifverhandlungen zwischen ver.di und der Flughafengesellschaft.",
+      "translated_text": "The strike is the result of failed wage negotiations between ver.di and the airport company."
+    },
+    {
+      "text": "Etwa 2.000 Beschäftigte sind betroffen, darunter die Feuerwehr, die Flugsicherung und das Terminalmanagement.",
+      "translated_text": "Around 2,000 employees are affected, including the fire service, air traffic control, and terminal management."
+    },
+    {
+      "text": "Die Gewerkschaft fordert eine Lohnerhöhung von 12,5 Prozent.",
+      "translated_text": "The trade union is demanding a pay rise of 12.5 percent."
+    },
+    {
+      "text": "Der ver.di-Verhandlungsführer Holger Roessler nannte das Angebot des Managements eine \"Provokation\".",
+      "translated_text": "Ver.di's lead negotiator Holger Roessler described management's offer as a 'provocation'."
+    },
+    {
+      "text": "Das Management hatte eine Erhöhung angeboten, die laut Gewerkschaft im Durchschnitt nur einem Prozent pro Jahr entspräche.",
+      "translated_text": "Management had offered an increase which, according to the union, would amount to only one percent per year on average."
+    },
+    {
+      "text": "Da der Streik als höhere Gewalt gilt, haben Passagiere keinen Anspruch auf Entschädigung nach EU-Recht.",
+      "translated_text": "Since the strike is classified as force majeure, passengers have no entitlement to compensation under EU law."
+    },
+    {
+      "text": "Die Fluggesellschaften sind aber trotzdem verpflichtet, die Reisenden umzubuchen.",
+      "translated_text": "However, the airlines are still obliged to rebook the travellers."
+    },
+    {
+      "text": "Am Donnerstag soll der Betrieb langsam wieder beginnen.",
+      "translated_text": "Operations are expected to slowly resume on Thursday."
+    },
+    {
+      "text": "Wenn es bei den nächsten Verhandlungen am 25. März keine Einigung gibt, droht ver.di mit weiteren Streiks zu Ostern.",
+      "translated_text": "If there is no agreement at the next negotiations on 25 March, ver.di is threatening further strikes at Easter."
+    },
+    {
+      "text": "Ostern ist einer der reisestärksten Zeiträume des Jahres und ein solcher Streik würde enorme Auswirkungen haben.",
+      "translated_text": "Easter is one of the busiest travel periods of the year and such a strike would have enormous consequences."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Warnstreik",
+      "translated_term": "the warning strike",
+      "example_usage": "Die Gewerkschaft ver.di hat einen Warnstreik ausgerufen."
+    },
+    {
+      "term": "lahmlegen",
+      "translated_term": "to paralyse / to bring to a standstill",
+      "example_usage": "Der Warnstreik lähmt den Flughafen Berlin Brandenburg."
+    },
+    {
+      "term": "die Tarifverhandlungen",
+      "translated_term": "the wage negotiations / collective bargaining",
+      "example_usage": "Der Streik ist die Folge von gescheiterten Tarifverhandlungen zwischen ver.di und der Flughafengesellschaft."
+    },
+    {
+      "term": "die Lohnerhöhung",
+      "translated_term": "the pay rise",
+      "example_usage": "Die Gewerkschaft fordert eine Lohnerhöhung von 12,5 Prozent."
+    },
+    {
+      "term": "höhere Gewalt",
+      "translated_term": "force majeure / act of God",
+      "example_usage": "Da der Streik als höhere Gewalt gilt, haben Passagiere keinen Anspruch auf Entschädigung."
+    },
+    {
+      "term": "umbuchen",
+      "translated_term": "to rebook / to change a booking",
+      "example_usage": "Die Fluggesellschaften sind verpflichtet, die Reisenden umzubuchen."
+    },
+    {
+      "term": "die Entschädigung",
+      "translated_term": "the compensation",
+      "example_usage": "Passagiere haben keinen Anspruch auf Entschädigung nach EU-Recht."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de: Warning strike: No operations at BER Airport on Wednesday",
+      "link_url": "https://www.berlin.de/en/news/10267426-5559700-warning-strike-no-operations-at-ber-airp.en.html"
+    },
+    {
+      "name": "LoyaltyLobby: Berlin-Brandenburg ver.di Airport Workers Strike, All Flights Cancelled",
+      "link_url": "https://loyaltylobby.com/2026/03/17/berlin-brandenburg-verdi-airport-workers-strike-on-wednesday-march-18-2026-all-flights-cancelled/"
+    }
+  ]
+}

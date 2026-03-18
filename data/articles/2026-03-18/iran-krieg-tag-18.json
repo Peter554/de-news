@@ -1,0 +1,127 @@
+{
+  "title": "US-israelischer Angriff auf Iran: Tag 18 des Konflikts",
+  "translated_title": "US-Israeli Attack on Iran: Day 18 of the Conflict",
+  "text": [
+    {
+      "text": "Seit dem 28. Februar führen die USA und Israel gemeinsam Angriffe auf den Iran durch.",
+      "translated_text": "Since February 28, the USA and Israel have been carrying out joint attacks on Iran."
+    },
+    {
+      "text": "Am 18. März ist der Konflikt bereits 18 Tage alt.",
+      "translated_text": "On March 18, the conflict is already 18 days old."
+    },
+    {
+      "text": "Präsident Trump hatte die Militäroperation am ersten Tag offiziell angekündigt.",
+      "translated_text": "President Trump officially announced the military operation on the first day."
+    },
+    {
+      "text": "Der Iran hat bestätigt, dass der Chef des Nationalen Sicherheitsrates, Ali Larijani, bei einem israelischen Luftangriff auf Teheran getötet wurde.",
+      "translated_text": "Iran has confirmed that the head of the National Security Council, Ali Larijani, was killed in an Israeli airstrike on Tehran."
+    },
+    {
+      "text": "Er ist der nächste in einer langen Reihe hochrangiger iranischer Politiker, die seit Beginn des Konflikts getötet wurden.",
+      "translated_text": "He is the latest in a long series of senior Iranian politicians who have been killed since the beginning of the conflict."
+    },
+    {
+      "text": "Laut Berichten wurden bislang mehr als 5.000 Ziele im Iran getroffen.",
+      "translated_text": "According to reports, more than 5,000 targets have been hit in Iran so far."
+    },
+    {
+      "text": "Die humanitären Folgen sind schwerwiegend: Mindestens 1.444 Menschen wurden getötet und über 18.000 verletzt.",
+      "translated_text": "The humanitarian consequences are severe: at least 1,444 people have been killed and over 18,000 injured."
+    },
+    {
+      "text": "Die Weltgesundheitsorganisation berichtet, dass mindestens 18 Krankenhäuser und Gesundheitseinrichtungen getroffen wurden.",
+      "translated_text": "The World Health Organization reports that at least 18 hospitals and health facilities have been hit."
+    },
+    {
+      "text": "Als Reaktion auf die Angriffe hat der Iran ballistische Raketen auf Israel abgefeuert.",
+      "translated_text": "In response to the attacks, Iran has fired ballistic missiles at Israel."
+    },
+    {
+      "text": "Dabei wurden in der Stadt Ramat Gan nahe Tel Aviv zwei Menschen getötet.",
+      "translated_text": "Two people were killed in the city of Ramat Gan near Tel Aviv."
+    },
+    {
+      "text": "Der Konflikt hat auch große wirtschaftliche Folgen.",
+      "translated_text": "The conflict has also had major economic consequences."
+    },
+    {
+      "text": "Iran hat die Straße von Hormus weitgehend blockiert, eine der wichtigsten Schiffsrouten der Welt.",
+      "translated_text": "Iran has largely blockaded the Strait of Hormuz, one of the most important shipping routes in the world."
+    },
+    {
+      "text": "Dadurch ist der Ölpreis stark gestiegen und liegt jetzt bei etwa 106 Dollar pro Barrel.",
+      "translated_text": "As a result, the oil price has risen sharply and now stands at around 106 dollars per barrel."
+    },
+    {
+      "text": "Trump fordert die Verbündeten auf, bei der Wiedereröffnung der Meerenge zu helfen.",
+      "translated_text": "Trump is urging allies to help reopen the strait."
+    },
+    {
+      "text": "Die internationale Gemeinschaft ist tief gespalten über den weiteren Umgang mit dieser Krise.",
+      "translated_text": "The international community is deeply divided over how to deal with this crisis going forward."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Luftangriff",
+      "translated_term": "the airstrike",
+      "example_usage": "Ali Larijani wurde bei einem israelischen Luftangriff auf Teheran getötet."
+    },
+    {
+      "term": "die Militäroperation",
+      "translated_term": "the military operation",
+      "example_usage": "Präsident Trump hatte die Militäroperation am ersten Tag offiziell angekündigt."
+    },
+    {
+      "term": "hochrangig",
+      "translated_term": "senior / high-ranking",
+      "example_usage": "Er ist der nächste in einer langen Reihe hochrangiger iranischer Politiker, die getötet wurden."
+    },
+    {
+      "term": "die Straße von Hormus",
+      "translated_term": "the Strait of Hormuz",
+      "example_usage": "Iran hat die Straße von Hormus weitgehend blockiert."
+    },
+    {
+      "term": "die ballistische Rakete",
+      "translated_term": "the ballistic missile",
+      "example_usage": "Der Iran hat ballistische Raketen auf Israel abgefeuert."
+    },
+    {
+      "term": "gespalten sein",
+      "translated_term": "to be divided",
+      "example_usage": "Die internationale Gemeinschaft ist tief gespalten über den weiteren Umgang mit dieser Krise."
+    },
+    {
+      "term": "die Schiffsroute",
+      "translated_term": "the shipping route",
+      "example_usage": "Die Straße von Hormus ist eine der wichtigsten Schiffsrouten der Welt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran-Krieg",
+      "translated_name": "Iran War"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Iran war: What is happening on day 18 of US-Israel attacks?",
+      "link_url": "https://www.aljazeera.com/news/2026/3/17/iran-war-what-is-happening-on-day-18-of-us-israel-attacks"
+    },
+    {
+      "name": "Al Jazeera Live: Iran war live updates: Iran confirms death of Larijani",
+      "link_url": "https://www.aljazeera.com/news/liveblog/2026/3/17/iran-war-live-trump-scolds-allies-for-not-joining-strait-of-hormuz-mission"
+    }
+  ]
+}
