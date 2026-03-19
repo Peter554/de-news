@@ -1,0 +1,128 @@
+{
+  "title": "Meningitis-Ausbruch in Kent: Zwei Tote an der Universität",
+  "translated_title": "Meningitis Outbreak in Kent: Two Dead at the University",
+  "text": [
+    {
+      "text": "An der Universität Kent im englischen Canterbury gibt es einen ernsten Ausbruch von Meningitis.",
+      "translated_text": "There is a serious meningitis outbreak at the University of Kent in Canterbury, England."
+    },
+    {
+      "text": "Zwei Menschen sind bereits gestorben, und mindestens 20 weitere wurden krank.",
+      "translated_text": "Two people have already died, and at least 20 others have fallen ill."
+    },
+    {
+      "text": "Die Krankheit heißt Meningokokken-Meningitis der Gruppe B.",
+      "translated_text": "The disease is called Group B meningococcal meningitis."
+    },
+    {
+      "text": "Meningitis ist eine Entzündung der Hirnhäute und kann sehr gefährlich sein.",
+      "translated_text": "Meningitis is an inflammation of the meninges and can be very dangerous."
+    },
+    {
+      "text": "Experten vermuten, dass ein Nachtclub namens Club Chemistry der Ausgangspunkt des Ausbruchs war.",
+      "translated_text": "Experts suspect that a nightclub called Club Chemistry was the starting point of the outbreak."
+    },
+    {
+      "text": "Viele Studierende waren dort Anfang März feiern.",
+      "translated_text": "Many students had been there celebrating at the beginning of March."
+    },
+    {
+      "text": "Der britische Gesundheitsminister Wes Streeting nannte das Tempo der neuen Fälle beispiellos.",
+      "translated_text": "UK Health Secretary Wes Streeting described the pace of new cases as unprecedented."
+    },
+    {
+      "text": "Die Behörden haben sofort gehandelt, um die Ausbreitung der Krankheit zu stoppen.",
+      "translated_text": "The authorities acted immediately to stop the spread of the disease."
+    },
+    {
+      "text": "Über 2.500 Antibiotika-Dosen wurden an gefährdete Personen verteilt.",
+      "translated_text": "Over 2,500 antibiotic doses were distributed to people at risk."
+    },
+    {
+      "text": "Außerdem wurde ein Impfprogramm für 5.000 Studierende der Universität Kent gestartet.",
+      "translated_text": "In addition, a vaccination programme was launched for 5,000 students at the University of Kent."
+    },
+    {
+      "text": "Meningitis hat eine Inkubationszeit von zwei bis vierzehn Tagen.",
+      "translated_text": "Meningitis has an incubation period of two to fourteen days."
+    },
+    {
+      "text": "Deshalb könnten in den nächsten Tagen weitere Fälle auftreten.",
+      "translated_text": "Therefore, more cases could emerge in the coming days."
+    },
+    {
+      "text": "Symptome der Krankheit sind starke Kopfschmerzen, hohes Fieber und Nackensteifigkeit.",
+      "translated_text": "Symptoms of the disease include severe headaches, high fever and neck stiffness."
+    },
+    {
+      "text": "Die Universität und das Gesundheitsministerium fordern alle Betroffenen auf, sofort einen Arzt aufzusuchen.",
+      "translated_text": "The university and the health ministry urge all those affected to see a doctor immediately."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Ausbruch",
+      "translated_term": "outbreak",
+      "example_usage": "An der Universität Kent gibt es einen ernsten Ausbruch von Meningitis."
+    },
+    {
+      "term": "die Hirnhautentzündung",
+      "translated_term": "meningitis (brain membrane inflammation)",
+      "example_usage": "Meningitis ist eine Entzündung der Hirnhäute und kann sehr gefährlich sein."
+    },
+    {
+      "term": "der Ausgangspunkt",
+      "translated_term": "starting point, origin",
+      "example_usage": "Ein Nachtclub namens Club Chemistry war der Ausgangspunkt des Ausbruchs."
+    },
+    {
+      "term": "beispiellos",
+      "translated_term": "unprecedented",
+      "example_usage": "Der Gesundheitsminister nannte das Tempo der neuen Fälle beispiellos."
+    },
+    {
+      "term": "die Ausbreitung",
+      "translated_term": "spread",
+      "example_usage": "Die Behörden haben sofort gehandelt, um die Ausbreitung der Krankheit zu stoppen."
+    },
+    {
+      "term": "verteilen",
+      "translated_term": "to distribute",
+      "example_usage": "Über 2.500 Antibiotika-Dosen wurden an gefährdete Personen verteilt."
+    },
+    {
+      "term": "die Inkubationszeit",
+      "translated_term": "incubation period",
+      "example_usage": "Meningitis hat eine Inkubationszeit von zwei bis vierzehn Tagen."
+    },
+    {
+      "term": "aufsuchen",
+      "translated_term": "to seek out, to see (a doctor)",
+      "example_usage": "Das Gesundheitsministerium fordert alle Betroffenen auf, sofort einen Arzt aufzusuchen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    },
+    {
+      "name": "Epidemie",
+      "translated_name": "Epidemic"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN",
+      "link_url": "https://www.cnn.com/2026/03/16/health/uk-meningitis-outbreak-deaths-scli-intl"
+    },
+    {
+      "name": "Bloomberg",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-03-18/what-to-know-about-the-kent-meningitis-outbreak-as-cases-rise"
+    }
+  ]
+}

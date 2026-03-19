@@ -1,0 +1,133 @@
+{
+  "title": "Streik am Flughafen BER legt Betrieb lahm",
+  "translated_title": "Strike at Berlin BER Airport Brings Operations to a Standstill",
+  "text": [
+    {
+      "text": "Am 18. März 2026 stand der Flughafen Berlin Brandenburg, kurz BER, komplett still.",
+      "translated_text": "On 18 March 2026, Berlin Brandenburg Airport, known as BER, came to a complete standstill."
+    },
+    {
+      "text": "Die Gewerkschaft ver.di hatte zu einem eintägigen Warnstreik aufgerufen.",
+      "translated_text": "The trade union ver.di had called for a one-day warning strike."
+    },
+    {
+      "text": "Etwa 500 Beschäftigte beteiligten sich am Streik.",
+      "translated_text": "Around 500 employees took part in the strike."
+    },
+    {
+      "text": "Darunter waren Feuerwehrleute, Sicherheitspersonal und Vorfeld-Controller.",
+      "translated_text": "Among them were firefighters, security staff and apron controllers."
+    },
+    {
+      "text": "Ohne diese Mitarbeiter dürfen in Deutschland keine Flugzeuge starten oder landen.",
+      "translated_text": "Without these employees, no aircraft are allowed to take off or land in Germany."
+    },
+    {
+      "text": "Insgesamt wurden 445 Flüge gestrichen.",
+      "translated_text": "A total of 445 flights were cancelled."
+    },
+    {
+      "text": "Über 57.000 Passagiere waren von den Streichungen betroffen.",
+      "translated_text": "More than 57,000 passengers were affected by the cancellations."
+    },
+    {
+      "text": "Viele bekannte Airlines wie Lufthansa, British Airways und Ryanair waren betroffen.",
+      "translated_text": "Many well-known airlines such as Lufthansa, British Airways and Ryanair were affected."
+    },
+    {
+      "text": "Ver.di fordert für die 2.000 Beschäftigten eine Lohnerhöhung von sechs Prozent.",
+      "translated_text": "Ver.di is demanding a six percent pay rise for the 2,000 employees."
+    },
+    {
+      "text": "Außerdem soll jeder Mitarbeiter mindestens 250 Euro mehr pro Monat erhalten.",
+      "translated_text": "In addition, every employee should receive at least 250 euros more per month."
+    },
+    {
+      "text": "Die Flughafenleitung nannte die Forderungen unrealistisch.",
+      "translated_text": "Airport management described the demands as unrealistic."
+    },
+    {
+      "text": "Am 19. März soll der normale Betrieb wieder aufgenommen werden.",
+      "translated_text": "Normal operations are due to resume on 19 March."
+    },
+    {
+      "text": "Passagiere können ihre Flüge bis zum 24. März kostenlos umbuchen.",
+      "translated_text": "Passengers can rebook their flights free of charge until 24 March."
+    },
+    {
+      "text": "Die nächste Tarifverhandlung zwischen ver.di und dem Flughafen ist für den 25. März geplant.",
+      "translated_text": "The next pay negotiation between ver.di and the airport is planned for 25 March."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Warnstreik",
+      "translated_term": "warning strike",
+      "example_usage": "Die Gewerkschaft ver.di hatte zu einem eintägigen Warnstreik aufgerufen."
+    },
+    {
+      "term": "lahmlegen",
+      "translated_term": "to bring to a standstill, to paralyse",
+      "example_usage": "Der Streik am Flughafen BER legte den Betrieb lahm."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "trade union",
+      "example_usage": "Die Gewerkschaft ver.di hatte zu einem eintägigen Warnstreik aufgerufen."
+    },
+    {
+      "term": "beteiligen",
+      "translated_term": "to participate, to take part",
+      "example_usage": "Etwa 500 Beschäftigte beteiligten sich am Streik."
+    },
+    {
+      "term": "der Vorfeld-Controller",
+      "translated_term": "apron controller",
+      "example_usage": "Darunter waren Feuerwehrleute, Sicherheitspersonal und Vorfeld-Controller."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel (a flight)",
+      "example_usage": "Insgesamt wurden 445 Flüge gestrichen."
+    },
+    {
+      "term": "die Lohnerhöhung",
+      "translated_term": "pay rise",
+      "example_usage": "Ver.di fordert für die 2.000 Beschäftigten eine Lohnerhöhung von sechs Prozent."
+    },
+    {
+      "term": "umbuchen",
+      "translated_term": "to rebook, to change a booking",
+      "example_usage": "Passagiere können ihre Flüge bis zum 24. März kostenlos umbuchen."
+    },
+    {
+      "term": "die Tarifverhandlung",
+      "translated_term": "pay negotiation, collective bargaining",
+      "example_usage": "Die nächste Tarifverhandlung ist für den 25. März geplant."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    }
+  ],
+  "sources": [
+    {
+      "name": "VisaHQ",
+      "link_url": "https://www.visahq.com/news/2026-03-18/de/strike-grounds-all-flights-at-berlin-brandenburg-airport-disrupting-57000-travellers/"
+    },
+    {
+      "name": "Adept Travel",
+      "link_url": "https://adept.travel/news/2026-03-18-berlin-airport-strike-stops-flights-march-18"
+    }
+  ]
+}

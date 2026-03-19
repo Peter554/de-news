@@ -1,0 +1,128 @@
+{
+  "title": "US-Israel-Krieg gegen Iran: Angriffe auf Energieanlagen in der Golfregion",
+  "translated_title": "US-Israel War Against Iran: Attacks on Energy Facilities in the Gulf Region",
+  "text": [
+    {
+      "text": "Der Krieg zwischen den USA, Israel und dem Iran dauert nun schon 19 Tage.",
+      "translated_text": "The war between the US, Israel and Iran has now lasted 19 days."
+    },
+    {
+      "text": "Der Konflikt begann am 28. Februar 2026 mit einem gemeinsamen Angriff der USA und Israels auf iranische Ziele.",
+      "translated_text": "The conflict began on February 28, 2026 with a joint US-Israeli attack on Iranian targets."
+    },
+    {
+      "text": "Am Mittwoch feuerte der Iran Raketen auf Israel ab.",
+      "translated_text": "On Wednesday, Iran fired missiles at Israel."
+    },
+    {
+      "text": "Dabei wurden zwei Menschen in der Nähe von Tel Aviv getötet.",
+      "translated_text": "Two people near Tel Aviv were killed in the process."
+    },
+    {
+      "text": "Der Iran bezeichnete den Angriff als Rache für israelische Schläge, bei denen mehrere hochrangige Sicherheitsbeamte getötet wurden.",
+      "translated_text": "Iran described the attack as revenge for Israeli strikes that killed several high-ranking security officials."
+    },
+    {
+      "text": "Der Konflikt hat sich auch auf andere Länder in der Region ausgeweitet.",
+      "translated_text": "The conflict has also spread to other countries in the region."
+    },
+    {
+      "text": "Iranische Raketen trafen eine große Gasanlage in Katar.",
+      "translated_text": "Iranian missiles struck a major gas facility in Qatar."
+    },
+    {
+      "text": "Daraufhin wies Katar die iranischen Militärattachés aus dem Land aus.",
+      "translated_text": "Qatar subsequently expelled the Iranian military attachés from the country."
+    },
+    {
+      "text": "US-Präsident Trump drohte, das südiranische Gasfeld anzugreifen, wenn Katar erneut bombardiert wird.",
+      "translated_text": "US President Trump threatened to attack Iran's southern gas field if Qatar is bombed again."
+    },
+    {
+      "text": "Bisher sind im Iran mindestens 1.444 Menschen getötet und über 18.000 verletzt worden.",
+      "translated_text": "So far, at least 1,444 people have been killed and over 18,000 injured in Iran."
+    },
+    {
+      "text": "In Israel wurden 17 Menschen getötet, 13 amerikanische Soldaten kamen ums Leben.",
+      "translated_text": "In Israel, 17 people were killed, and 13 American soldiers lost their lives."
+    },
+    {
+      "text": "Die Internationale Atomenergiebehörde berichtete, dass das iranische Atomprogramm stark beschädigt wurde.",
+      "translated_text": "The International Atomic Energy Agency reported that Iran's nuclear program has been heavily damaged."
+    },
+    {
+      "text": "Die Weltgemeinschaft ist sehr besorgt über die Eskalation im Nahen Osten.",
+      "translated_text": "The international community is very concerned about the escalation in the Middle East."
+    },
+    {
+      "text": "Viele Länder fordern sofortige Verhandlungen und einen Waffenstillstand.",
+      "translated_text": "Many countries are calling for immediate negotiations and a ceasefire."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "ceasefire",
+      "example_usage": "Viele Länder fordern sofortige Verhandlungen und einen Waffenstillstand."
+    },
+    {
+      "term": "die Rache",
+      "translated_term": "revenge",
+      "example_usage": "Der Iran bezeichnete den Angriff als Rache für israelische Schläge."
+    },
+    {
+      "term": "ausweiten",
+      "translated_term": "to expand, to spread",
+      "example_usage": "Der Konflikt hat sich auch auf andere Länder in der Region ausgeweitet."
+    },
+    {
+      "term": "die Gasanlage",
+      "translated_term": "gas facility",
+      "example_usage": "Iranische Raketen trafen eine große Gasanlage in Katar."
+    },
+    {
+      "term": "ausweisen",
+      "translated_term": "to expel",
+      "example_usage": "Katar wies die iranischen Militärattachés aus dem Land aus."
+    },
+    {
+      "term": "der Militärattaché",
+      "translated_term": "military attaché",
+      "example_usage": "Katar wies die iranischen Militärattachés aus dem Land aus."
+    },
+    {
+      "term": "hochrangig",
+      "translated_term": "high-ranking",
+      "example_usage": "Bei israelischen Schlägen wurden mehrere hochrangige Sicherheitsbeamte getötet."
+    },
+    {
+      "term": "die Eskalation",
+      "translated_term": "escalation",
+      "example_usage": "Die Weltgemeinschaft ist sehr besorgt über die Eskalation im Nahen Osten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/liveblog/2026/3/19/iran-war-live-qatar-saudi-energy-sites-attacked-riyadh-says-trust-gone"
+    },
+    {
+      "name": "Al Jazeera – Death toll tracker",
+      "link_url": "https://www.aljazeera.com/news/2026/3/1/us-israel-attacks-on-iran-death-toll-and-injuries-live-tracker"
+    }
+  ]
+}
