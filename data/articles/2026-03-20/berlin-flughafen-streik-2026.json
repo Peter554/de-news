@@ -1,0 +1,110 @@
+{
+  "title": "Streik am Berliner Flughafen BER: 57.000 Passagiere gestrandet",
+  "translated_title": "Strike at Berlin Airport BER: 57,000 Passengers Stranded",
+  "text": [
+    {
+      "text": "Am 18. März 2026 gab es einen großen Streik am Berliner Flughafen BER.",
+      "translated_text": "On 18 March 2026, there was a major strike at Berlin Airport BER."
+    },
+    {
+      "text": "Die Gewerkschaft Ver.di rief etwa 500 Beschäftigte zum Warnstreik auf.",
+      "translated_text": "The trade union Ver.di called around 500 employees to take part in a warning strike."
+    },
+    {
+      "text": "Zu den Streikenden gehörten Feuerwehrleute, Sicherheitspersonal und Vorfeldbetreuer.",
+      "translated_text": "The strikers included fire crews, security staff and apron controllers."
+    },
+    {
+      "text": "Der Streik dauerte 24 Stunden.",
+      "translated_text": "The strike lasted 24 hours."
+    },
+    {
+      "text": "Alle 445 geplanten Flüge wurden gestrichen.",
+      "translated_text": "All 445 scheduled flights were cancelled."
+    },
+    {
+      "text": "Dadurch waren rund 57.000 Passagiere betroffen.",
+      "translated_text": "As a result, around 57,000 passengers were affected."
+    },
+    {
+      "text": "Große Fluggesellschaften wie Lufthansa, Ryanair und British Airways mussten alle Flüge absagen.",
+      "translated_text": "Major airlines such as Lufthansa, Ryanair and British Airways had to cancel all flights."
+    },
+    {
+      "text": "Ver.di fordert eine Lohnerhöhung von 6 Prozent und mindestens 250 Euro mehr pro Monat.",
+      "translated_text": "Ver.di is demanding a pay rise of 6 percent and at least 250 euros more per month."
+    },
+    {
+      "text": "Der Arbeitgeber hat dieses Angebot bisher abgelehnt.",
+      "translated_text": "The employer has so far rejected this offer."
+    },
+    {
+      "text": "Die nächste Verhandlungsrunde ist für den 25. März geplant.",
+      "translated_text": "The next round of negotiations is planned for 25 March."
+    },
+    {
+      "text": "Ver.di droht mit weiteren Streiks, wenn keine Einigung erzielt wird.",
+      "translated_text": "Ver.di is threatening further strikes if no agreement is reached."
+    },
+    {
+      "text": "Reisende werden gebeten, ihre Flüge vor der Reise zu überprüfen.",
+      "translated_text": "Travellers are being asked to check their flights before travelling."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Warnstreik",
+      "translated_term": "the warning strike",
+      "example_usage": "Die Gewerkschaft Ver.di rief etwa 500 Beschäftigte zum Warnstreik auf."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the trade union",
+      "example_usage": "Die Gewerkschaft Ver.di rief die Beschäftigten zum Streik auf."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel (a flight)",
+      "example_usage": "Alle 445 geplanten Flüge wurden gestrichen."
+    },
+    {
+      "term": "die Lohnerhöhung",
+      "translated_term": "the pay rise",
+      "example_usage": "Ver.di fordert eine Lohnerhöhung von 6 Prozent."
+    },
+    {
+      "term": "die Verhandlungsrunde",
+      "translated_term": "the round of negotiations",
+      "example_usage": "Die nächste Verhandlungsrunde ist für den 25. März geplant."
+    },
+    {
+      "term": "drohen",
+      "translated_term": "to threaten",
+      "example_usage": "Ver.di droht mit weiteren Streiks, wenn keine Einigung erzielt wird."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CGTN: All flights halted at Berlin airport as strike grounds operations",
+      "link_url": "https://newseu.cgtn.com/news/2026-03-19/All-flights-halted-at-Berlin-airport-as-strike-grounds-operations-1LCx3gmmikM/p.html"
+    },
+    {
+      "name": "LoyaltyLobby: Berlin Brandenburg Verdi Airport Workers Strike",
+      "link_url": "https://loyaltylobby.com/2026/03/17/berlin-brandenburg-verdi-airport-workers-strike-on-wednesday-march-18-2026-all-flights-cancelled/"
+    }
+  ]
+}
