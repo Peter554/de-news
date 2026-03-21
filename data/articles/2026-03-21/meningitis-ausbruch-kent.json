@@ -1,0 +1,123 @@
+{
+  "title": "Meningitis-Ausbruch in Kent: Zwei Tote und Massenimpfung eingeleitet",
+  "translated_title": "Meningitis Outbreak in Kent: Two Dead and Mass Vaccination Launched",
+  "text": [
+    {
+      "text": "In der englischen Grafschaft Kent gibt es einen gefährlichen Meningitis-Ausbruch.",
+      "translated_text": "There is a dangerous meningitis outbreak in the English county of Kent."
+    },
+    {
+      "text": "Bis zum 20. März 2026 sind mindestens 29 Menschen erkrankt und zwei gestorben.",
+      "translated_text": "By 20 March 2026, at least 29 people have fallen ill and two have died."
+    },
+    {
+      "text": "Eines der Todesopfer ist ein Student der Universität Kent.",
+      "translated_text": "One of the victims is a student at the University of Kent."
+    },
+    {
+      "text": "Das andere Todesopfer ist ein Schüler aus einer Schule in der Stadt Faversham.",
+      "translated_text": "The other victim is a pupil from a school in the town of Faversham."
+    },
+    {
+      "text": "Der Ausbruch ist mit einem Nachtclub in der Stadt Canterbury verbunden.",
+      "translated_text": "The outbreak is linked to a nightclub in the city of Canterbury."
+    },
+    {
+      "text": "Der Club war zwischen dem 5. und 15. März geöffnet und hat danach freiwillig geschlossen.",
+      "translated_text": "The club was open between 5 and 15 March and then voluntarily closed."
+    },
+    {
+      "text": "Die britische Regierung reagierte schnell auf den Ausbruch.",
+      "translated_text": "The British government responded quickly to the outbreak."
+    },
+    {
+      "text": "Gesundheitsminister Wes Streeting nannte den Ausbruch 'beispiellos'.",
+      "translated_text": "Health Secretary Wes Streeting called the outbreak 'unprecedented'."
+    },
+    {
+      "text": "Die Behörden starteten ein Impfprogramm für etwa 5.000 Studenten der Universität Kent.",
+      "translated_text": "The authorities launched a vaccination programme for approximately 5,000 students at the University of Kent."
+    },
+    {
+      "text": "Bis zum 19. März wurden bereits 2.360 Impfungen durchgeführt.",
+      "translated_text": "By 19 March, 2,360 vaccinations had already been administered."
+    },
+    {
+      "text": "Außerdem wurden mehr als 9.000 Dosen Antibiotika verteilt.",
+      "translated_text": "In addition, more than 9,000 doses of antibiotics were distributed."
+    },
+    {
+      "text": "Die Universität sagte alle Prüfungen in Präsenz ab.",
+      "translated_text": "The university cancelled all in-person exams."
+    },
+    {
+      "text": "Mediziner warnen, dass man die Symptome kennen muss: starke Kopfschmerzen, hohes Fieber und ein Ausschlag.",
+      "translated_text": "Medical professionals warn that one must know the symptoms: severe headache, high fever, and a rash."
+    },
+    {
+      "text": "Das Europäische Zentrum für die Prävention und Kontrolle von Krankheiten schätzt das Risiko für andere EU-Länder als sehr gering ein.",
+      "translated_text": "The European Centre for Disease Prevention and Control assesses the risk for other EU countries as very low."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Ausbruch",
+      "translated_term": "the outbreak",
+      "example_usage": "In der englischen Grafschaft Kent gibt es einen gefährlichen Meningitis-Ausbruch."
+    },
+    {
+      "term": "das Todesopfer",
+      "translated_term": "the fatality / victim",
+      "example_usage": "Eines der Todesopfer ist ein Student der Universität Kent."
+    },
+    {
+      "term": "das Impfprogramm",
+      "translated_term": "the vaccination programme",
+      "example_usage": "Die Behörden starteten ein Impfprogramm für etwa 5.000 Studenten."
+    },
+    {
+      "term": "beispiellos",
+      "translated_term": "unprecedented",
+      "example_usage": "Gesundheitsminister Wes Streeting nannte den Ausbruch 'beispiellos'."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "the authority / agency",
+      "example_usage": "Die Behörden starteten ein Impfprogramm für etwa 5.000 Studenten."
+    },
+    {
+      "term": "der Ausschlag",
+      "translated_term": "the rash",
+      "example_usage": "Man muss die Symptome kennen: starke Kopfschmerzen, hohes Fieber und ein Ausschlag."
+    },
+    {
+      "term": "absagen",
+      "translated_term": "to cancel",
+      "example_usage": "Die Universität sagte alle Prüfungen in Präsenz ab."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "GOV.UK: Cases of invasive meningococcal disease notified in Kent",
+      "link_url": "https://www.gov.uk/government/news/cases-of-invasive-meningococcal-disease-confirmed-in-kent"
+    },
+    {
+      "name": "UK Health Security Agency: Meningitis B outbreak — what you need to know",
+      "link_url": "https://ukhsa.blog.gov.uk/2026/03/18/meningitis-b-outbreak-what-you-need-to-know/"
+    }
+  ]
+}
