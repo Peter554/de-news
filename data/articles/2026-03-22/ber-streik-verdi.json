@@ -1,0 +1,119 @@
+{
+  "title": "Verdi-Streik legt Flughafen Berlin Brandenburg komplett lahm",
+  "translated_title": "Verdi Strike Completely Shuts Down Berlin Brandenburg Airport",
+  "text": [
+    {
+      "text": "Am 18. März 2026 hat ein großer Streik den Flughafen Berlin Brandenburg (BER) vollständig lahmgelegt.",
+      "translated_text": "On March 18, 2026, a major strike completely paralyzed Berlin Brandenburg Airport (BER)."
+    },
+    {
+      "text": "Die Gewerkschaft Verdi rief die Beschäftigten zu einem ganztägigen Ausstand auf.",
+      "translated_text": "The trade union Verdi called on employees to take part in an all-day strike."
+    },
+    {
+      "text": "Betroffen waren alle wichtigen Bereiche des Flughafens: Bodenabfertigung, Gepäck, Betankung, Sicherheit und Passagierkontrolle.",
+      "translated_text": "All key areas of the airport were affected: ground handling, baggage, refuelling, security and passenger screening."
+    },
+    {
+      "text": "Wegen des Streiks wurden alle regulären Passagierflüge gestrichen.",
+      "translated_text": "Due to the strike, all regular passenger flights were cancelled."
+    },
+    {
+      "text": "Tausende von Reisenden waren vom Streik betroffen und mussten ihre Pläne kurzfristig ändern.",
+      "translated_text": "Thousands of travellers were affected by the strike and had to change their plans at short notice."
+    },
+    {
+      "text": "Verdi fordert deutlich höhere Löhne, um den gestiegenen Lebenshaltungskosten entgegenzuwirken.",
+      "translated_text": "Verdi is demanding significantly higher wages to counter the increased cost of living."
+    },
+    {
+      "text": "Die Arbeitgeber haben bisher kein ausreichendes Angebot gemacht, weshalb es zu dem Streik kam.",
+      "translated_text": "Employers have so far not made an adequate offer, which is why the strike occurred."
+    },
+    {
+      "text": "Es ist nicht der erste Streik am BER in diesem Jahr – die Auseinandersetzung zwischen Gewerkschaft und Arbeitgebern dauert schon länger an.",
+      "translated_text": "It is not the first strike at BER this year – the dispute between the union and employers has been ongoing for some time."
+    },
+    {
+      "text": "Viele Passagiere kritisierten den Streik, weil sie wichtige Reisen oder Verbindungsflüge verpassten.",
+      "translated_text": "Many passengers criticised the strike because they missed important trips or connecting flights."
+    },
+    {
+      "text": "Andere zeigten Verständnis für die Forderungen der Beschäftigten.",
+      "translated_text": "Others showed understanding for the demands of the employees."
+    },
+    {
+      "text": "Der Flughafen empfahl allen Passagieren, sich vor ihrer Abreise über den aktuellen Stand zu informieren.",
+      "translated_text": "The airport recommended that all passengers inform themselves about the current situation before their departure."
+    },
+    {
+      "text": "Die nächste Verhandlungsrunde zwischen Verdi und den Arbeitgebern ist noch nicht terminiert.",
+      "translated_text": "The next round of negotiations between Verdi and employers has not yet been scheduled."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Streik",
+      "translated_term": "the strike",
+      "example_usage": "Am 18. März 2026 hat ein großer Streik den Flughafen Berlin Brandenburg vollständig lahmgelegt."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the trade union",
+      "example_usage": "Die Gewerkschaft Verdi rief die Beschäftigten zu einem ganztägigen Ausstand auf."
+    },
+    {
+      "term": "lahmlegen",
+      "translated_term": "to paralyze / to bring to a standstill",
+      "example_usage": "Ein großer Streik hat den Flughafen Berlin Brandenburg vollständig lahmgelegt."
+    },
+    {
+      "term": "die Bodenabfertigung",
+      "translated_term": "the ground handling",
+      "example_usage": "Betroffen waren alle wichtigen Bereiche des Flughafens: Bodenabfertigung, Gepäck, Betankung, Sicherheit und Passagierkontrolle."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel",
+      "example_usage": "Wegen des Streiks wurden alle regulären Passagierflüge gestrichen."
+    },
+    {
+      "term": "die Lebenshaltungskosten",
+      "translated_term": "the cost of living",
+      "example_usage": "Verdi fordert deutlich höhere Löhne, um den gestiegenen Lebenshaltungskosten entgegenzuwirken."
+    },
+    {
+      "term": "die Auseinandersetzung",
+      "translated_term": "the dispute / confrontation",
+      "example_usage": "Die Auseinandersetzung zwischen Gewerkschaft und Arbeitgebern dauert schon länger an."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "AirLive",
+      "link_url": "https://airlive.net/news/2026/03/17/all-flight-operations-to-be-suspended-on-wednesday-at-berlin-brandenburg-airport/"
+    },
+    {
+      "name": "LoyaltyLobby",
+      "link_url": "https://loyaltylobby.com/2026/03/17/berlin-brandenburg-verdi-airport-workers-strike-on-wednesday-march-18-2026-all-flights-cancelled/"
+    }
+  ]
+}
