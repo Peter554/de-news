@@ -1,0 +1,111 @@
+{
+  "title": "Russland startet massiven Drohnenangriff auf die Ukraine",
+  "translated_title": "Russia launches massive drone attack on Ukraine",
+  "text": [
+    {
+      "text": "In der Nacht zum 25. März 2026 hat Russland fast 400 Drohnen auf die Ukraine abgefeuert.",
+      "translated_text": "In the night of 25 March 2026, Russia fired nearly 400 drones at Ukraine."
+    },
+    {
+      "text": "Das ist einer der größten Drohnenangriffe seit Beginn des Krieges.",
+      "translated_text": "This is one of the largest drone attacks since the beginning of the war."
+    },
+    {
+      "text": "Außerdem wurden 23 Marschflugkörper und 7 ballistische Raketen abgefeuert.",
+      "translated_text": "In addition, 23 cruise missiles and 7 ballistic missiles were fired."
+    },
+    {
+      "text": "Die Angriffe trafen mindestens zehn Orte in der Ukraine, darunter Kiew, Saporischschja und Charkiw.",
+      "translated_text": "The attacks hit at least ten locations in Ukraine, including Kyiv, Zaporizhzhia, and Kharkiv."
+    },
+    {
+      "text": "Mindestens vier Menschen wurden getötet und mehr als zwanzig verletzt.",
+      "translated_text": "At least four people were killed and more than twenty were injured."
+    },
+    {
+      "text": "Die ukrainische Luftabwehr konnte die meisten Drohnen abschießen.",
+      "translated_text": "The Ukrainian air defence was able to shoot down most of the drones."
+    },
+    {
+      "text": "Einige Drohnen kamen der Grenze zu Polen und Rumänien sehr nahe.",
+      "translated_text": "Some drones came very close to the border with Poland and Romania."
+    },
+    {
+      "text": "Daraufhin schickten Polen und Rumänien Kampfjets in die Luft.",
+      "translated_text": "As a result, Poland and Romania sent fighter jets into the air."
+    },
+    {
+      "text": "Militärexperten sagen, dass dieser Angriff den Beginn einer neuen Frühjahrsoffensive zeigt.",
+      "translated_text": "Military experts say that this attack shows the beginning of a new spring offensive."
+    },
+    {
+      "text": "Kurz vor dem Angriff hatte die Ukraine Russlands größten Ostseehafen Primorsk attackiert.",
+      "translated_text": "Shortly before the attack, Ukraine had attacked Russia's largest Baltic Sea port, Primorsk."
+    },
+    {
+      "text": "Die NATO beobachtet die Lage genau und ist in erhöhter Alarmbereitschaft.",
+      "translated_text": "NATO is monitoring the situation closely and is on heightened alert."
+    },
+    {
+      "text": "Die internationale Gemeinschaft fordert erneut ein Ende des Krieges.",
+      "translated_text": "The international community is again calling for an end to the war."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "Russland hat fast 400 Drohnen auf die Ukraine abgefeuert."
+    },
+    {
+      "term": "abfeuern",
+      "translated_term": "to fire / to launch",
+      "example_usage": "Außerdem wurden 23 Marschflugkörper und 7 ballistische Raketen abgefeuert."
+    },
+    {
+      "term": "der Marschflugkörper",
+      "translated_term": "cruise missile",
+      "example_usage": "Außerdem wurden 23 Marschflugkörper und 7 ballistische Raketen abgefeuert."
+    },
+    {
+      "term": "die Luftabwehr",
+      "translated_term": "air defence",
+      "example_usage": "Die ukrainische Luftabwehr konnte die meisten Drohnen abschießen."
+    },
+    {
+      "term": "abschießen",
+      "translated_term": "to shoot down",
+      "example_usage": "Die ukrainische Luftabwehr konnte die meisten Drohnen abschießen."
+    },
+    {
+      "term": "die Alarmbereitschaft",
+      "translated_term": "state of alert",
+      "example_usage": "Die NATO beobachtet die Lage genau und ist in erhöhter Alarmbereitschaft."
+    },
+    {
+      "term": "die Frühjahrsoffensive",
+      "translated_term": "spring offensive",
+      "example_usage": "Militärexperten sagen, dass dieser Angriff den Beginn einer neuen Frühjahrsoffensive zeigt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    },
+    {
+      "name": "NATO",
+      "translated_name": "NATO"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Fox News",
+      "link_url": "https://www.foxnews.com/world/nato-scrambles-jets-russia-fires-nearly-400-drones-toward-ukraine-signaling-new-spring-offensive"
+    }
+  ]
+}
