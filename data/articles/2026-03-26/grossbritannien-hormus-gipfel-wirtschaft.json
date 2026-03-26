@@ -1,0 +1,110 @@
+{
+  "title": "Großbritannien bietet Sicherheitsgipfel an – Wirtschaft leidet unter Hormus-Krise",
+  "translated_title": "UK Offers Security Summit – Economy Suffers from Hormuz Crisis",
+  "text": [
+    {
+      "text": "Die britische Regierung hat angeboten, einen internationalen Sicherheitsgipfel auszurichten.",
+      "translated_text": "The British government has offered to host an international security summit."
+    },
+    {
+      "text": "Das Ziel des Gipfels ist es, einen gemeinsamen Plan zur Wiedereröffnung der Straße von Hormus zu entwickeln.",
+      "translated_text": "The goal of the summit is to develop a joint plan to reopen the Strait of Hormuz."
+    },
+    {
+      "text": "Durch die Straße fließen normalerweise zwanzig Prozent der weltweiten Öllieferungen.",
+      "translated_text": "Normally twenty percent of global oil supplies flow through the strait."
+    },
+    {
+      "text": "Die Blockade hat schwere Auswirkungen auf die britische Wirtschaft.",
+      "translated_text": "The blockade is having serious effects on the British economy."
+    },
+    {
+      "text": "Neue Wirtschaftsdaten zeigen, dass das Wachstum in Großbritannien stagniert.",
+      "translated_text": "New economic data shows that growth in the UK is stagnating."
+    },
+    {
+      "text": "Sowohl Inlands- als auch Auslandsaufträge sind zurückgegangen.",
+      "translated_text": "Both domestic and foreign orders have declined."
+    },
+    {
+      "text": "Finanzministerin Rachel Reeves bestätigte, dass die Regierung Notfallpläne für Energiehilfen vorbereitet.",
+      "translated_text": "Finance Minister Rachel Reeves confirmed that the government is preparing emergency plans for energy support."
+    },
+    {
+      "text": "Sie sagte, die Hilfen würden aktiviert, wenn die Energiepreise weiter steigen.",
+      "translated_text": "She said the support would be activated if energy prices continue to rise."
+    },
+    {
+      "text": "Es gibt auch Sorgen um die innere Sicherheit in Großbritannien.",
+      "translated_text": "There are also concerns about domestic security in the UK."
+    },
+    {
+      "text": "In Nordlondon wurden vier Krankenwagen eines jüdischen Gemeindeservice in Brand gesetzt.",
+      "translated_text": "In north London, four ambulances belonging to a Jewish community service were set on fire."
+    },
+    {
+      "text": "Die Polizei hat Videoaufnahmen von drei verdächtigen Personen veröffentlicht.",
+      "translated_text": "The police have released CCTV footage of three suspects."
+    },
+    {
+      "text": "Eine neue Umfrage zeigt, dass vierzig Prozent der Briten glauben, ihr Land werde innerhalb von fünf Jahren Krieg führen.",
+      "translated_text": "A new poll shows that forty percent of Britons believe their country will be at war within five years."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "ausrichten",
+      "translated_term": "to host (an event)",
+      "example_usage": "Die britische Regierung hat angeboten, einen internationalen Sicherheitsgipfel auszurichten."
+    },
+    {
+      "term": "der Gipfel",
+      "translated_term": "the summit",
+      "example_usage": "Das Ziel des Gipfels ist es, einen gemeinsamen Plan zur Wiedereröffnung der Straße von Hormus zu entwickeln."
+    },
+    {
+      "term": "stagnieren",
+      "translated_term": "to stagnate",
+      "example_usage": "Neue Wirtschaftsdaten zeigen, dass das Wachstum in Großbritannien stagniert."
+    },
+    {
+      "term": "die Auswirkung",
+      "translated_term": "the effect / impact",
+      "example_usage": "Die Blockade hat schwere Auswirkungen auf die britische Wirtschaft."
+    },
+    {
+      "term": "der Notfallplan",
+      "translated_term": "the emergency plan / contingency plan",
+      "example_usage": "Die Regierung bereitet Notfallpläne für Energiehilfen vor."
+    },
+    {
+      "term": "aktivieren",
+      "translated_term": "to activate",
+      "example_usage": "Die Hilfen würden aktiviert, wenn die Energiepreise weiter steigen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Britische Politik",
+      "translated_name": "British Politics"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "UN News: MIDDLE EAST LIVE 25 March – All eyes on Strait of Hormuz",
+      "link_url": "https://news.un.org/en/story/2026/03/1167195"
+    },
+    {
+      "name": "NBC News: Live updates – Iran war, oil, ship attacks, Hormuz, Trump, Israel",
+      "link_url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-oil-ship-attacks-hormuz-trump-israel-lebanon-rcna263101"
+    }
+  ]
+}
