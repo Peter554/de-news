@@ -1,0 +1,98 @@
+{
+  "title": "Betriebsratswahl bei Tesla in Brandenburg vor Gericht",
+  "translated_title": "Works council election at Tesla in Brandenburg goes to court",
+  "text": [
+    {
+      "text": "Die Betriebsratswahl bei der Tesla-Fabrik in Grünheide, Brandenburg, wird juristisch angefochten.",
+      "translated_text": "The works council election at the Tesla factory in Grünheide, Brandenburg, is being legally challenged."
+    },
+    {
+      "text": "Mitarbeiter werfen dem Unternehmen vor, die Wahl beeinflusst zu haben.",
+      "translated_text": "Employees accuse the company of having influenced the election."
+    },
+    {
+      "text": "Es gibt Berichte über Drohungen gegen Mitarbeiter, die für den Betriebsrat kandidieren wollten.",
+      "translated_text": "There are reports of threats against employees who wanted to stand as candidates for the works council."
+    },
+    {
+      "text": "Ein Arbeitsrechtexperte beschrieb Teslas Vorgehen bei der Wahl als hochgradig konfrontativ.",
+      "translated_text": "A labour law expert described Tesla's approach to the election as \"highly confrontational\"."
+    },
+    {
+      "text": "In Deutschland haben Arbeitnehmer das Recht, einen Betriebsrat zu wählen.",
+      "translated_text": "In Germany, employees have the right to elect a works council."
+    },
+    {
+      "text": "Der Betriebsrat vertritt die Interessen der Beschäftigten gegenüber der Unternehmensleitung.",
+      "translated_text": "The works council represents the interests of employees vis-à-vis management."
+    },
+    {
+      "text": "Tesla hat in der Vergangenheit öfter Konflikte mit seinen Arbeitnehmern gehabt.",
+      "translated_text": "Tesla has had conflicts with its employees on a number of occasions in the past."
+    },
+    {
+      "text": "Das Arbeitsgericht muss nun entscheiden, ob die Wahl wiederholt werden muss.",
+      "translated_text": "The labour court must now decide whether the election has to be repeated."
+    },
+    {
+      "text": "Die Gigafactory in Grünheide ist Teslas einzige Produktionsstätte in Europa.",
+      "translated_text": "The Gigafactory in Grünheide is Tesla's only production facility in Europe."
+    },
+    {
+      "text": "Der Fall zeigt die Spannungen zwischen dem amerikanischen Unternehmensstil und dem deutschen Arbeitsrecht.",
+      "translated_text": "The case shows the tensions between the American corporate style and German labour law."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Betriebsrat",
+      "translated_term": "works council",
+      "example_usage": "In Deutschland haben Arbeitnehmer das Recht, einen Betriebsrat zu wählen."
+    },
+    {
+      "term": "anfechten",
+      "translated_term": "to contest / to challenge",
+      "example_usage": "Die Betriebsratswahl bei der Tesla-Fabrik in Grünheide wird juristisch angefochten."
+    },
+    {
+      "term": "das Arbeitsrecht",
+      "translated_term": "labour law",
+      "example_usage": "Der Fall zeigt die Spannungen zwischen dem amerikanischen Unternehmensstil und dem deutschen Arbeitsrecht."
+    },
+    {
+      "term": "die Unternehmensleitung",
+      "translated_term": "management / company leadership",
+      "example_usage": "Der Betriebsrat vertritt die Interessen der Beschäftigten gegenüber der Unternehmensleitung."
+    },
+    {
+      "term": "die Produktionsstätte",
+      "translated_term": "production facility",
+      "example_usage": "Die Gigafactory in Grünheide ist Teslas einzige Produktionsstätte in Europa."
+    },
+    {
+      "term": "konfrontativ",
+      "translated_term": "confrontational",
+      "example_usage": "Ein Arbeitsrechtexperte beschrieb Teslas Vorgehen bei der Wahl als hochgradig konfrontativ."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    },
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tagesspiegel",
+      "link_url": "https://www.tagesspiegel.de/berlin/tesla-gigafactory-betriebsratswahl-unter-verdacht-10578031.html"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "title": "OpenAI stellt seinen Video-Generator Sora ein",
+  "translated_title": "OpenAI shuts down its video generator Sora",
+  "text": [
+    {
+      "text": "Das Technologieunternehmen OpenAI hat angekündigt, seinen KI-Videogenerator Sora einzustellen.",
+      "translated_text": "Technology company OpenAI has announced that it is shutting down its AI video generator Sora."
+    },
+    {
+      "text": "Sora war ein Dienst, mit dem Nutzer kurze Videos aus Texteingaben erstellen konnten.",
+      "translated_text": "Sora was a service that allowed users to create short videos from text inputs."
+    },
+    {
+      "text": "OpenAI hatte Sora erst Ende 2024 für die Öffentlichkeit geöffnet.",
+      "translated_text": "OpenAI had only opened Sora to the public at the end of 2024."
+    },
+    {
+      "text": "Der Dienst war sehr beliebt, aber auch sehr teuer im Betrieb.",
+      "translated_text": "The service was very popular but also very expensive to operate."
+    },
+    {
+      "text": "Die Schließung kommt zu einer wichtigen Zeit für das Unternehmen.",
+      "translated_text": "The closure comes at an important time for the company."
+    },
+    {
+      "text": "OpenAI bereitet sich auf einen Börsengang vor, der noch in diesem Jahr stattfinden soll.",
+      "translated_text": "OpenAI is preparing for an IPO that is expected to take place later this year."
+    },
+    {
+      "text": "Experten glauben, dass das Unternehmen Kosten senken will, bevor es an die Börse geht.",
+      "translated_text": "Experts believe the company wants to cut costs before going public."
+    },
+    {
+      "text": "Viele Nutzer reagierten enttäuscht auf die Nachricht.",
+      "translated_text": "Many users reacted with disappointment to the news."
+    },
+    {
+      "text": "Die Konkurrenz im Bereich KI-Videogenerierung ist stark gestiegen.",
+      "translated_text": "Competition in the area of AI video generation has increased sharply."
+    },
+    {
+      "text": "Andere Unternehmen wie Google und Meta bieten ähnliche Dienste an.",
+      "translated_text": "Other companies such as Google and Meta offer similar services."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "einstellen",
+      "translated_term": "to shut down / to discontinue",
+      "example_usage": "OpenAI hat angekündigt, seinen KI-Videogenerator Sora einzustellen."
+    },
+    {
+      "term": "der Börsengang",
+      "translated_term": "IPO (initial public offering)",
+      "example_usage": "OpenAI bereitet sich auf einen Börsengang vor, der noch in diesem Jahr stattfinden soll."
+    },
+    {
+      "term": "die Texteingabe",
+      "translated_term": "text input",
+      "example_usage": "Sora war ein Dienst, mit dem Nutzer kurze Videos aus Texteingaben erstellen konnten."
+    },
+    {
+      "term": "der Betrieb",
+      "translated_term": "operation / running",
+      "example_usage": "Der Dienst war sehr beliebt, aber auch sehr teuer im Betrieb."
+    },
+    {
+      "term": "enttäuscht",
+      "translated_term": "disappointed",
+      "example_usage": "Viele Nutzer reagierten enttäuscht auf die Nachricht."
+    },
+    {
+      "term": "die Konkurrenz",
+      "translated_term": "competition / competitors",
+      "example_usage": "Die Konkurrenz im Bereich KI-Videogenerierung ist stark gestiegen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Künstliche Intelligenz",
+      "translated_name": "Artificial Intelligence"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    },
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NBC News",
+      "link_url": "https://www.nbcnews.com/tech/tech-news/openai-shuttering-sora-video-generating-service-rcna264989"
+    }
+  ]
+}
