@@ -1,0 +1,102 @@
+{
+  "title": "Berliner Halbmarathon: Expo eröffnet am Flughafen Tempelhof",
+  "translated_title": "Berlin Half Marathon: Expo opens at Tempelhof Airport",
+  "text": [
+    {
+      "text": "Am 28. März 2026 hat die Messe zum Generali Berliner Halbmarathon am Flughafen Tempelhof eröffnet.",
+      "translated_text": "On 28 March 2026, the expo for the Generali Berlin Half Marathon opened at Tempelhof Airport."
+    },
+    {
+      "text": "Die Messe ist von 9:00 bis 18:30 Uhr geöffnet und hat mehr als 100 Aussteller.",
+      "translated_text": "The expo is open from 9:00 to 18:30 and has more than 100 exhibitors."
+    },
+    {
+      "text": "Die Aussteller zeigen Produkte aus den Bereichen Gesundheit, Fitness und Lifestyle.",
+      "translated_text": "The exhibitors are showcasing products from the areas of health, fitness, and lifestyle."
+    },
+    {
+      "text": "Neu in diesem Jahr ist die \"Berliner Meile\" – ein Spaßlauf über 1,6 Kilometer.",
+      "translated_text": "New this year is the \"Berlin Mile\" – a fun run over 1.6 kilometres."
+    },
+    {
+      "text": "Die Berliner Meile führt über den letzten Abschnitt der Halbmarathonstrecke und ist für alle offen.",
+      "translated_text": "The Berlin Mile runs over the final section of the half marathon course and is open to everyone."
+    },
+    {
+      "text": "Der eigentliche Halbmarathon über 21 Kilometer findet am Sonntag, den 29. März statt.",
+      "translated_text": "The actual half marathon over 21 kilometres takes place on Sunday, 29 March."
+    },
+    {
+      "text": "Das Rennen startet am Brandenburger Tor in Berlin.",
+      "translated_text": "The race starts at the Brandenburg Gate in Berlin."
+    },
+    {
+      "text": "Es ist der 45. Berliner Halbmarathon und Teil der globalen SuperHalfs-Serie.",
+      "translated_text": "It is the 45th Berlin Half Marathon and part of the global SuperHalfs series."
+    },
+    {
+      "text": "Berlin ist eine der bedeutendsten Städte für den Halbmarathon-Weltrekord.",
+      "translated_text": "Berlin is one of the most significant cities for the half marathon world record."
+    },
+    {
+      "text": "In den letzten Jahren wurden hier sieben Weltrekorde im Halbmarathon aufgestellt.",
+      "translated_text": "In recent years, seven half marathon world records have been set here."
+    },
+    {
+      "text": "Tausende Läufer aus aller Welt nehmen an dem beliebten Laufevent teil.",
+      "translated_text": "Thousands of runners from all over the world take part in the popular running event."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Messe",
+      "translated_term": "expo/trade fair",
+      "example_usage": "Am 28. März hat die Messe zum Generali Berliner Halbmarathon am Flughafen Tempelhof eröffnet."
+    },
+    {
+      "term": "der Aussteller",
+      "translated_term": "exhibitor",
+      "example_usage": "Die Messe hat mehr als 100 Aussteller aus den Bereichen Gesundheit, Fitness und Lifestyle."
+    },
+    {
+      "term": "der Spaßlauf",
+      "translated_term": "fun run",
+      "example_usage": "Neu in diesem Jahr ist die Berliner Meile – ein Spaßlauf über 1,6 Kilometer."
+    },
+    {
+      "term": "der Weltrekord",
+      "translated_term": "world record",
+      "example_usage": "In den letzten Jahren wurden hier sieben Weltrekorde im Halbmarathon aufgestellt."
+    },
+    {
+      "term": "stattfinden",
+      "translated_term": "to take place",
+      "example_usage": "Der Halbmarathon über 21 Kilometer findet am Sonntag, den 29. März statt."
+    },
+    {
+      "term": "der Abschnitt",
+      "translated_term": "section/stretch",
+      "example_usage": "Die Berliner Meile führt über den letzten Abschnitt der Halbmarathonstrecke."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Sport",
+      "translated_name": "Sports"
+    },
+    {
+      "name": "Veranstaltungen",
+      "translated_name": "Events"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Generali Berlin Half Marathon Official Site",
+      "link_url": "https://www.generali-berliner-halbmarathon.de/en/"
+    }
+  ]
+}
