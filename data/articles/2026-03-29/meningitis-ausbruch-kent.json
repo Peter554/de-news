@@ -1,0 +1,122 @@
+{
+  "title": "Meningitis-B-Ausbruch in Kent: 34 Fälle, zwei Todesfälle",
+  "translated_title": "Meningitis B Outbreak in Kent: 34 Cases, Two Deaths",
+  "text": [
+    {
+      "text": "In der englischen Grafschaft Kent gibt es einen ungewöhnlichen Ausbruch von Meningitis B.",
+      "translated_text": "In the English county of Kent there is an unusual outbreak of meningitis B."
+    },
+    {
+      "text": "Bisher wurden 34 Fälle bestätigt und zwei Menschen sind gestorben.",
+      "translated_text": "So far 34 cases have been confirmed and two people have died."
+    },
+    {
+      "text": "Der Ausbruch begann wahrscheinlich Anfang März in einem Nachtclub in Canterbury.",
+      "translated_text": "The outbreak probably began in early March at a nightclub in Canterbury."
+    },
+    {
+      "text": "Die meisten Betroffenen sind Studierende der University of Kent.",
+      "translated_text": "Most of those affected are students at the University of Kent."
+    },
+    {
+      "text": "Das Durchschnittsalter der erkrankten Personen beträgt 19 Jahre.",
+      "translated_text": "The average age of the people who fell ill is 19 years."
+    },
+    {
+      "text": "Auf dem Höhepunkt des Ausbruchs lagen vier Personen auf der Intensivstation.",
+      "translated_text": "At the peak of the outbreak, four people were in intensive care."
+    },
+    {
+      "text": "Die Gesundheitsbehörden sagen jedoch, dass der Ausbruch seinen Höhepunkt überschritten hat.",
+      "translated_text": "Health authorities say, however, that the outbreak has passed its peak."
+    },
+    {
+      "text": "Mehr als 10.600 Menschen wurden inzwischen geimpft.",
+      "translated_text": "More than 10,600 people have now been vaccinated."
+    },
+    {
+      "text": "Außerdem wurden mehr als 13.300 Antibiotika-Dosen verteilt.",
+      "translated_text": "In addition, more than 13,300 doses of antibiotics have been distributed."
+    },
+    {
+      "text": "Das Impfprogramm wurde auch auf 15- und 16-jährige Schülerinnen und Schüler in Kent ausgeweitet.",
+      "translated_text": "The vaccination programme has also been extended to 15- and 16-year-old pupils in Kent."
+    },
+    {
+      "text": "Die Weltgesundheitsorganisation (WHO) veröffentlichte am 25. März eine offizielle Erklärung zum Ausbruch.",
+      "translated_text": "The World Health Organisation (WHO) published an official statement on the outbreak on 25 March."
+    },
+    {
+      "text": "Gesundheitsminister Wes Streeting nannte den Ausbruch im Parlament 'beispiellos'.",
+      "translated_text": "Health Secretary Wes Streeting described the outbreak in Parliament as \"unprecedented\"."
+    },
+    {
+      "text": "Der NHS wurde kritisiert, weil er nach dem ersten bestätigten Fall zwei Tage gewartet haben soll, bevor er Alarm schlug.",
+      "translated_text": "The NHS was criticised for allegedly waiting two days after the first confirmed case before raising the alarm."
+    },
+    {
+      "text": "Meningitis B ist eine ernste Bakterienerkrankung, die das Gehirn und das Rückenmark befallen kann.",
+      "translated_text": "Meningitis B is a serious bacterial disease that can affect the brain and spinal cord."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Ausbruch",
+      "translated_term": "the outbreak",
+      "example_usage": "In der englischen Grafschaft Kent gibt es einen ungewöhnlichen Ausbruch von Meningitis B."
+    },
+    {
+      "term": "die Intensivstation",
+      "translated_term": "the intensive care unit",
+      "example_usage": "Auf dem Höhepunkt des Ausbruchs lagen vier Personen auf der Intensivstation."
+    },
+    {
+      "term": "impfen",
+      "translated_term": "to vaccinate",
+      "example_usage": "Mehr als 10.600 Menschen wurden inzwischen geimpft."
+    },
+    {
+      "term": "ausweiten",
+      "translated_term": "to extend / to expand",
+      "example_usage": "Das Impfprogramm wurde auf 15- und 16-jährige Schülerinnen und Schüler ausgeweitet."
+    },
+    {
+      "term": "beispiellos",
+      "translated_term": "unprecedented",
+      "example_usage": "Gesundheitsminister Wes Streeting nannte den Ausbruch 'beispiellos'."
+    },
+    {
+      "term": "die Grafschaft",
+      "translated_term": "the county",
+      "example_usage": "In der englischen Grafschaft Kent gibt es einen ungewöhnlichen Ausbruch."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    },
+    {
+      "name": "Meningitis",
+      "translated_name": "Meningitis"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia: 2026 Kent meningitis outbreak",
+      "link_url": "https://en.wikipedia.org/wiki/2026_Kent_meningitis_outbreak"
+    },
+    {
+      "name": "WHO Europe: Meningitis B outbreak in the United Kingdom",
+      "link_url": "https://www.who.int/europe/news/item/25-03-2026-meningitis-b-outbreak-in-the-united-kingdom"
+    },
+    {
+      "name": "GOV.UK: Secretary of State update on meningitis outbreak",
+      "link_url": "https://www.gov.uk/government/speeches/secretary-of-state-update-to-the-house-on-meningitis-outbreak"
+    }
+  ]
+}

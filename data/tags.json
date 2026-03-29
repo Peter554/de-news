@@ -180,6 +180,10 @@
     "translated_name": "Iran"
   },
   {
+    "name": "Iran-Krieg",
+    "translated_name": "Iran War"
+  },
+  {
     "name": "Italien",
     "translated_name": "Italy"
   },
@@ -236,6 +240,10 @@
     "translated_name": "Air Traffic"
   },
   {
+    "name": "Meningitis",
+    "translated_name": "Meningitis"
+  },
+  {
     "name": "Medienkrise",
     "translated_name": "Media Crisis"
   },
@@ -290,6 +298,10 @@
   {
     "name": "Regierungskrise",
     "translated_name": "Government Crisis"
+  },
+  {
+    "name": "Rüstungsindustrie",
+    "translated_name": "Arms Industry"
   },
   {
     "name": "Russland",
