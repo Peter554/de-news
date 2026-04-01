@@ -1,0 +1,127 @@
+{
+  "title": "Wirtschaftsforscher senken Wachstumsprognose für Deutschland",
+  "translated_title": "Economic Researchers Lower Growth Forecast for Germany",
+  "text": [
+    {
+      "text": "Deutschlands führende Wirtschaftsforschungsinstitute haben ihre Prognose für das Jahr 2026 nach unten korrigiert.",
+      "translated_text": "Germany's leading economic research institutes have revised their forecast for 2026 downwards."
+    },
+    {
+      "text": "Einmal im Jahr veröffentlichen die Institute gemeinsam ein sogenanntes Frühjahrsgutachten.",
+      "translated_text": "Once a year, the institutes jointly publish what is known as a spring economic report."
+    },
+    {
+      "text": "Dieses Jahr zeigt das Gutachten ein schwächeres Wachstum als bisher erwartet.",
+      "translated_text": "This year, the report shows weaker growth than previously expected."
+    },
+    {
+      "text": "Zuvor hatte man für 2026 ein Wirtschaftswachstum von 1,3 Prozent prognostiziert.",
+      "translated_text": "Previously, economic growth of 1.3 per cent had been forecast for 2026."
+    },
+    {
+      "text": "Der wichtigste Grund für die schlechtere Prognose ist der Krieg zwischen den USA, Israel und dem Iran.",
+      "translated_text": "The main reason for the worse forecast is the war between the US, Israel and Iran."
+    },
+    {
+      "text": "Dieser Krieg hat die Energiepreise weltweit stark erhöht.",
+      "translated_text": "This war has significantly increased energy prices worldwide."
+    },
+    {
+      "text": "Im März stieg die Inflationsrate in Deutschland auf 2,8 Prozent.",
+      "translated_text": "In March, the inflation rate in Germany rose to 2.8 per cent."
+    },
+    {
+      "text": "Wegen der Inflation erwarten Experten jetzt keine Zinssenkungen der Europäischen Zentralbank mehr.",
+      "translated_text": "Due to inflation, experts no longer expect the European Central Bank to cut interest rates."
+    },
+    {
+      "text": "Im Gegenteil: Die Märkte rechnen jetzt sogar mit Zinserhöhungen.",
+      "translated_text": "On the contrary: markets are now even expecting interest rate rises."
+    },
+    {
+      "text": "Höhere Zinsen machen es für Unternehmen teurer, Geld zu leihen und zu investieren.",
+      "translated_text": "Higher interest rates make it more expensive for companies to borrow money and invest."
+    },
+    {
+      "text": "Bundeskanzler Friedrich Merz hat die Verbesserung der deutschen Wirtschaft zur obersten Priorität erklärt.",
+      "translated_text": "Federal Chancellor Friedrich Merz has declared improving the German economy to be the top priority."
+    },
+    {
+      "text": "Die Bundesregierung hat bereits 24 Milliarden Euro aus dem neuen Infrastrukturfonds ausgegeben.",
+      "translated_text": "The federal government has already spent €24 billion from the new infrastructure fund."
+    },
+    {
+      "text": "Insgesamt umfasst der Fonds 500 Milliarden Euro für Investitionen in Infrastruktur und Modernisierung.",
+      "translated_text": "In total, the fund comprises €500 billion for investments in infrastructure and modernisation."
+    },
+    {
+      "text": "Dennoch bleibt die wirtschaftliche Lage schwierig, besonders für die Industrie.",
+      "translated_text": "Nevertheless, the economic situation remains difficult, especially for industry."
+    },
+    {
+      "text": "Viele Bürger und Unternehmen hoffen auf eine Verbesserung der Lage in der zweiten Jahreshälfte.",
+      "translated_text": "Many citizens and businesses are hoping for an improvement in the situation in the second half of the year."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Prognose",
+      "translated_term": "the forecast",
+      "example_usage": "Die Wirtschaftsforschungsinstitute haben ihre Prognose für das Jahr 2026 nach unten korrigiert."
+    },
+    {
+      "term": "das Frühjahrsgutachten",
+      "translated_term": "the spring economic report",
+      "example_usage": "Einmal im Jahr veröffentlichen die Institute gemeinsam ein Frühjahrsgutachten."
+    },
+    {
+      "term": "die Inflationsrate",
+      "translated_term": "the inflation rate",
+      "example_usage": "Im März stieg die Inflationsrate in Deutschland auf 2,8 Prozent."
+    },
+    {
+      "term": "die Zinssenkung",
+      "translated_term": "the interest rate cut",
+      "example_usage": "Experten erwarten jetzt keine Zinssenkungen der Europäischen Zentralbank mehr."
+    },
+    {
+      "term": "investieren",
+      "translated_term": "to invest",
+      "example_usage": "Höhere Zinsen machen es für Unternehmen teurer, Geld zu leihen und zu investieren."
+    },
+    {
+      "term": "der Infrastrukturfonds",
+      "translated_term": "the infrastructure fund",
+      "example_usage": "Die Bundesregierung hat bereits 24 Milliarden Euro aus dem neuen Infrastrukturfonds ausgegeben."
+    },
+    {
+      "term": "korrigieren",
+      "translated_term": "to revise / correct",
+      "example_usage": "Die Institute haben ihre Prognose nach unten korrigiert."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Clean Energy Wire: Preview 2026: Merz government must deliver on key energy projects",
+      "link_url": "https://www.cleanenergywire.org/news/preview-2026-merz-government-must-deliver-key-energy-projects-patience-wears-thin"
+    },
+    {
+      "name": "news.de: News des Tages am 1. April 2026",
+      "link_url": "https://www.news.de/panorama/859483735/1-april-2026-news-themen-des-tages-was-passiert-heute-in-deutschland-und-der-welt-das-ist-heute-am-01-04-2026-wichtig-in-den-nachrichten-aus-politik-wirtschaft-sport-und-co/1/"
+    }
+  ]
+}

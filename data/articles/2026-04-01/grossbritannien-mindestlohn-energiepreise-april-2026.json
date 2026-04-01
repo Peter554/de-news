@@ -1,0 +1,127 @@
+{
+  "title": "Großbritannien: Mindestlohn steigt und Energiepreise sinken",
+  "translated_title": "Great Britain: Minimum Wage Rises and Energy Prices Fall",
+  "text": [
+    {
+      "text": "Am 1. April 2026 traten in Großbritannien wichtige Änderungen für Millionen von Menschen in Kraft.",
+      "translated_text": "On 1 April 2026, important changes came into force in Great Britain affecting millions of people."
+    },
+    {
+      "text": "Der nationale Mindestlohn stieg um 4,1 Prozent auf 12,71 Pfund pro Stunde.",
+      "translated_text": "The national minimum wage rose by 4.1 per cent to £12.71 per hour."
+    },
+    {
+      "text": "Diese Erhöhung betrifft alle Arbeitnehmer ab 21 Jahren.",
+      "translated_text": "This increase affects all workers aged 21 and over."
+    },
+    {
+      "text": "Rund 2,4 Millionen Geringverdiener sollen von der Lohnerhöhung profitieren.",
+      "translated_text": "Around 2.4 million low-paid workers are set to benefit from the wage increase."
+    },
+    {
+      "text": "Gleichzeitig sank die Energierechnung für britische Haushalte.",
+      "translated_text": "At the same time, energy bills for British households fell."
+    },
+    {
+      "text": "Die Energieaufsichtsbehörde Ofgem senkte die Preisobergrenze für Energie.",
+      "translated_text": "The energy regulator Ofgem lowered the price cap for energy."
+    },
+    {
+      "text": "Ein durchschnittlicher Haushalt spart damit etwa 117 Pfund pro Jahr.",
+      "translated_text": "An average household will save approximately £117 per year as a result."
+    },
+    {
+      "text": "Die Regierung übernahm einen Teil der Kosten für erneuerbare Energien, um die Preissenkung zu ermöglichen.",
+      "translated_text": "The government took on part of the costs for renewable energy to make the price reduction possible."
+    },
+    {
+      "text": "Trotz dieser guten Nachrichten bleiben die Energiepreise höher als vor der Energiekrise.",
+      "translated_text": "Despite this good news, energy prices remain higher than before the energy crisis."
+    },
+    {
+      "text": "Die britische Regierung unter Premierminister Keir Starmer steht unter Druck, die Lebenshaltungskosten zu senken.",
+      "translated_text": "The British government under Prime Minister Keir Starmer is under pressure to reduce the cost of living."
+    },
+    {
+      "text": "Viele Bürger leiden noch immer unter den hohen Preisen der letzten Jahre.",
+      "translated_text": "Many citizens are still suffering from the high prices of recent years."
+    },
+    {
+      "text": "Zusätzlich sind seit April neue Regeln für das Krankentagegeld in Kraft.",
+      "translated_text": "In addition, new rules for sick pay have been in force since April."
+    },
+    {
+      "text": "Arbeitnehmer haben jetzt ab dem ersten Krankheitstag Anspruch auf Krankengeld.",
+      "translated_text": "Workers are now entitled to sick pay from the first day of illness."
+    },
+    {
+      "text": "Diese Änderung soll verhindern, dass Arbeitnehmer krank zur Arbeit kommen.",
+      "translated_text": "This change is intended to prevent workers from coming to work while ill."
+    },
+    {
+      "text": "Insgesamt zeigen diese Reformen, dass die Regierung die Situation für Arbeitnehmer verbessern will.",
+      "translated_text": "Overall, these reforms show that the government wants to improve the situation for workers."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Mindestlohn",
+      "translated_term": "the minimum wage",
+      "example_usage": "Der nationale Mindestlohn stieg um 4,1 Prozent auf 12,71 Pfund pro Stunde."
+    },
+    {
+      "term": "die Preisobergrenze",
+      "translated_term": "the price cap",
+      "example_usage": "Ofgem senkte die Preisobergrenze für Energie."
+    },
+    {
+      "term": "der Geringverdiener",
+      "translated_term": "the low-paid worker",
+      "example_usage": "Rund 2,4 Millionen Geringverdiener sollen von der Lohnerhöhung profitieren."
+    },
+    {
+      "term": "die Energierechnung",
+      "translated_term": "the energy bill",
+      "example_usage": "Gleichzeitig sank die Energierechnung für britische Haushalte."
+    },
+    {
+      "term": "das Krankengeld",
+      "translated_term": "the sick pay",
+      "example_usage": "Arbeitnehmer haben jetzt ab dem ersten Krankheitstag Anspruch auf Krankengeld."
+    },
+    {
+      "term": "in Kraft treten",
+      "translated_term": "to come into force",
+      "example_usage": "Am 1. April 2026 traten wichtige Änderungen in Kraft."
+    },
+    {
+      "term": "die Lebenshaltungskosten",
+      "translated_term": "the cost of living",
+      "example_usage": "Die Regierung steht unter Druck, die Lebenshaltungskosten zu senken."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    },
+    {
+      "name": "Energiepolitik",
+      "translated_name": "Energy Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Times and Star: Minimum Wage to rise on April 1 2026 – what it means for your pay",
+      "link_url": "https://www.timesandstar.co.uk/news/25967191.minimum-wage-rise-april-1-2026---means-pay/"
+    },
+    {
+      "name": "Ecotricity: Good news – our bills are going down from 1 April 2026",
+      "link_url": "https://www.ecotricity.co.uk/our-news/2026/good-news-our-bills-are-going-down-from-1-april-2026"
+    }
+  ]
+}
