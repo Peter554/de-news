@@ -1,0 +1,123 @@
+{
+  "title": "Meningitis-B-Ausbruch in Großbritannien breitet sich aus",
+  "translated_title": "Meningitis B Outbreak in the UK Spreads",
+  "text": [
+    {
+      "text": "In Großbritannien breitet sich ein gefährlicher Meningitis-B-Ausbruch aus.",
+      "translated_text": "A dangerous meningitis B outbreak is spreading in the United Kingdom."
+    },
+    {
+      "text": "Die ersten Fälle wurden Mitte März 2026 in Canterbury in der Grafschaft Kent entdeckt.",
+      "translated_text": "The first cases were discovered in mid-March 2026 in Canterbury in the county of Kent."
+    },
+    {
+      "text": "Die Behörden gehen davon aus, dass ein Nachtclub der Ausgangspunkt der Infektion war.",
+      "translated_text": "Authorities believe that a nightclub was the starting point of the infection."
+    },
+    {
+      "text": "Bis zum 1. April 2026 wurden 21 bestätigte Fälle und zwei Todesfälle registriert.",
+      "translated_text": "By 1 April 2026, 21 confirmed cases and two deaths had been recorded."
+    },
+    {
+      "text": "Am 1. April gab es außerdem einen neuen Verdachtsfall an einer Schule außerhalb des ursprünglichen Ausbruchsgebietes.",
+      "translated_text": "On 1 April, there was also a new suspected case at a school outside the original outbreak area."
+    },
+    {
+      "text": "Das zeigt, dass sich die Krankheit über Kent hinaus ausbreitet.",
+      "translated_text": "This shows that the disease is spreading beyond Kent."
+    },
+    {
+      "text": "Die Gesundheitsbehörden haben mehr als 10.500 Antibiotika-Dosen verteilt.",
+      "translated_text": "Health authorities have distributed more than 10,500 doses of antibiotics."
+    },
+    {
+      "text": "Außerdem wurden rund 4.500 Impfungen gegen Meningitis B durchgeführt.",
+      "translated_text": "In addition, around 4,500 vaccinations against meningitis B were carried out."
+    },
+    {
+      "text": "Die Behörden warnen besonders junge Erwachsene, auf Symptome zu achten.",
+      "translated_text": "Authorities are warning especially young adults to watch out for symptoms."
+    },
+    {
+      "text": "Typische Symptome sind hohes Fieber, starke Kopfschmerzen, Nackensteifheit und Lichtempfindlichkeit.",
+      "translated_text": "Typical symptoms are high fever, severe headaches, stiff neck, and sensitivity to light."
+    },
+    {
+      "text": "Das Meningitis-B-Impfstoff ist kein Teil des britischen Standardimpfprogramms für Jugendliche.",
+      "translated_text": "The meningitis B vaccine is not part of the standard UK vaccination programme for teenagers."
+    },
+    {
+      "text": "Daher sind viele junge Menschen nicht gegen die Krankheit geschützt.",
+      "translated_text": "Therefore, many young people are not protected against the disease."
+    },
+    {
+      "text": "Die Weltgesundheitsorganisation (WHO) beobachtet die Lage in Großbritannien genau.",
+      "translated_text": "The World Health Organization (WHO) is monitoring the situation in the UK closely."
+    },
+    {
+      "text": "Jeder, der Symptome bemerkt, soll sofort einen Arzt aufsuchen.",
+      "translated_text": "Anyone who notices symptoms should immediately see a doctor."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Ausbruch",
+      "translated_term": "the outbreak",
+      "example_usage": "In Großbritannien breitet sich ein gefährlicher Meningitis-B-Ausbruch aus."
+    },
+    {
+      "term": "sich ausbreiten",
+      "translated_term": "to spread",
+      "example_usage": "Die Krankheit breitet sich über Kent hinaus aus."
+    },
+    {
+      "term": "der Verdachtsfall",
+      "translated_term": "the suspected case",
+      "example_usage": "Am 1. April gab es einen neuen Verdachtsfall an einer Schule."
+    },
+    {
+      "term": "die Impfung",
+      "translated_term": "the vaccination",
+      "example_usage": "Es wurden rund 4.500 Impfungen gegen Meningitis B durchgeführt."
+    },
+    {
+      "term": "die Nackensteifheit",
+      "translated_term": "the stiff neck",
+      "example_usage": "Typische Symptome sind hohes Fieber, starke Kopfschmerzen und Nackensteifheit."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "the authority",
+      "example_usage": "Die Gesundheitsbehörden haben mehr als 10.500 Antibiotika-Dosen verteilt."
+    },
+    {
+      "term": "aufsuchen",
+      "translated_term": "to seek out / to visit",
+      "example_usage": "Jeder, der Symptome bemerkt, soll sofort einen Arzt aufsuchen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    },
+    {
+      "name": "Infektionskrankheit",
+      "translated_name": "Infectious Disease"
+    }
+  ],
+  "sources": [
+    {
+      "name": "WHO: Meningitis B outbreak in the United Kingdom",
+      "link_url": "https://www.who.int/europe/news/item/25-03-2026-meningitis-b-outbreak-in-the-united-kingdom"
+    },
+    {
+      "name": "UKHSA Blog: Meningitis B outbreak – what you need to know",
+      "link_url": "https://ukhsa.blog.gov.uk/2026/03/18/meningitis-b-outbreak-what-you-need-to-know/"
+    }
+  ]
+}
