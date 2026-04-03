@@ -1,0 +1,131 @@
+{
+  "title": "Brandenburg plant Neutralitätsgesetz für Gerichte",
+  "translated_title": "Brandenburg Plans Neutrality Law for Courts",
+  "text": [
+    {
+      "text": "In Brandenburg gibt es eine neue politische Debatte über Neutralität in Gerichten.",
+      "translated_text": "In Brandenburg there is a new political debate about neutrality in courts."
+    },
+    {
+      "text": "Die Regierung in Brandenburg – eine Koalition aus SPD und CDU – möchte ein neues Gesetz einführen.",
+      "translated_text": "The government in Brandenburg – a coalition of SPD and CDU – wants to introduce a new law."
+    },
+    {
+      "text": "Das Gesetz heißt 'Neutralitätsgesetz für die Justiz'.",
+      "translated_text": "The law is called the \"Neutrality Law for the Judiciary\"."
+    },
+    {
+      "text": "Es soll Richterinnen, Richter und Staatsanwältinnen und Staatsanwälte verpflichten, keine religiösen oder politischen Symbole im Gerichtssaal zu tragen.",
+      "translated_text": "It is intended to require judges and prosecutors not to wear any religious or political symbols in the courtroom."
+    },
+    {
+      "text": "Konkret wären Kopftücher, Kippas und Kreuze verboten.",
+      "translated_text": "Specifically, headscarves, kippas, and crosses would be banned."
+    },
+    {
+      "text": "Der Präsident des Deutschen Richterbundes unterstützt diesen Plan.",
+      "translated_text": "The President of the German Judges' Association supports this plan."
+    },
+    {
+      "text": "Er meint, dass Richter im Gerichtssaal besonders neutral wirken sollten.",
+      "translated_text": "He believes that judges should appear particularly neutral in the courtroom."
+    },
+    {
+      "text": "Ähnliche Gesetze gibt es bereits in anderen Bundesländern, zum Beispiel in Bayern, Baden-Württemberg, Bremen und Berlin.",
+      "translated_text": "Similar laws already exist in other federal states, for example in Bavaria, Baden-Württemberg, Bremen, and Berlin."
+    },
+    {
+      "text": "Allerdings ist das Thema politisch umstritten.",
+      "translated_text": "However, the topic is politically controversial."
+    },
+    {
+      "text": "Kritiker sagen, das Gesetz sei eine Einschränkung der Religionsfreiheit.",
+      "translated_text": "Critics say the law is a restriction of religious freedom."
+    },
+    {
+      "text": "Sie argumentieren, dass ein Richter auch mit einem Kopftuch oder einer Kippa unparteiisch sein kann.",
+      "translated_text": "They argue that a judge can also be impartial wearing a headscarf or a kippa."
+    },
+    {
+      "text": "Befürworter des Gesetzes dagegen sagen, dass die Justiz nach außen komplett neutral wirken muss.",
+      "translated_text": "Supporters of the law, on the other hand, say that the judiciary must appear completely neutral to the outside."
+    },
+    {
+      "text": "Bislang gibt es noch keinen konkreten Zeitplan für die Einführung des Gesetzes.",
+      "translated_text": "So far, there is no concrete timetable for the introduction of the law."
+    },
+    {
+      "text": "Das Thema ist Teil des Koalitionsvertrages zwischen SPD und CDU in Brandenburg.",
+      "translated_text": "The topic is part of the coalition agreement between SPD and CDU in Brandenburg."
+    },
+    {
+      "text": "Die Diskussion über Neutralität in staatlichen Einrichtungen ist in Deutschland schon lange ein aktuelles Thema.",
+      "translated_text": "The discussion about neutrality in state institutions has been a relevant topic in Germany for a long time."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Gerichtssaal",
+      "translated_term": "the courtroom",
+      "example_usage": "Es soll Richter verpflichten, keine religiösen oder politischen Symbole im Gerichtssaal zu tragen."
+    },
+    {
+      "term": "die Richterin / der Richter",
+      "translated_term": "the judge (female/male)",
+      "example_usage": "Er meint, dass Richter im Gerichtssaal besonders neutral wirken sollten."
+    },
+    {
+      "term": "verbieten",
+      "translated_term": "to ban / to forbid",
+      "example_usage": "Konkret wären Kopftücher, Kippas und Kreuze verboten."
+    },
+    {
+      "term": "umstritten",
+      "translated_term": "controversial",
+      "example_usage": "Allerdings ist das Thema politisch umstritten."
+    },
+    {
+      "term": "die Religionsfreiheit",
+      "translated_term": "religious freedom",
+      "example_usage": "Kritiker sagen, das Gesetz sei eine Einschränkung der Religionsfreiheit."
+    },
+    {
+      "term": "unparteiisch",
+      "translated_term": "impartial",
+      "example_usage": "Sie argumentieren, dass ein Richter auch mit einem Kopftuch unparteiisch sein kann."
+    },
+    {
+      "term": "der Koalitionsvertrag",
+      "translated_term": "the coalition agreement",
+      "example_usage": "Das Thema ist Teil des Koalitionsvertrages zwischen SPD und CDU in Brandenburg."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Justiz",
+      "translated_name": "Justice"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Religionsfreiheit",
+      "translated_name": "Religious Freedom"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Radio Potsdam: Brandenburg plant Neutralitätsgesetz für die Justiz",
+      "link_url": "https://www.radio-potsdam.de/brandenburg-plant-neutralitaetsgesetz-fuer-die-justiz/"
+    },
+    {
+      "name": "Apollo News: In Brandenburg plant Schwarz-Rot Neutralitätsgesetz – Verbot für Kopftuch, Kippa und Kreuz im Gerichtssaal",
+      "link_url": "https://apollo-news.net/in-brandenburg-plant-schwarz-rot-neutralitaetsgesetz-verbot-fuer-kopftuch-kippa-und-kreuz-im-gerichtssaal/"
+    }
+  ]
+}
