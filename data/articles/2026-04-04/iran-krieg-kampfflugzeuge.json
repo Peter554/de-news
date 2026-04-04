@@ -1,0 +1,144 @@
+{
+  "title": "Iran-Krieg: Zwei US-Kampfflugzeuge abgeschossen",
+  "translated_title": "Iran War: Two US Fighter Jets Shot Down",
+  "text": [
+    {
+      "text": "Der Krieg zwischen den USA, Israel und dem Iran geht weiter.",
+      "translated_text": "The war between the USA, Israel and Iran continues."
+    },
+    {
+      "text": "Heute ist der 35. Tag des Konflikts.",
+      "translated_text": "Today is the 35th day of the conflict."
+    },
+    {
+      "text": "Der Iran hat zwei amerikanische Kampfflugzeuge abgeschossen.",
+      "translated_text": "Iran has shot down two American fighter jets."
+    },
+    {
+      "text": "Ein Flugzeug stürzte in der Provinz Kohgiluyeh und Boyer-Ahmad ab.",
+      "translated_text": "One plane crashed in the province of Kohgiluyeh and Boyer-Ahmad."
+    },
+    {
+      "text": "Das andere Flugzeug fiel nahe der Straße von Hormus ins Meer.",
+      "translated_text": "The other plane fell into the sea near the Strait of Hormuz."
+    },
+    {
+      "text": "Von einem Piloten gibt es noch keine Nachricht.",
+      "translated_text": "There is still no news of one of the pilots."
+    },
+    {
+      "text": "Der Iran hat außerdem Drohnenangriffe auf Ölraffinerien in Kuwait gestartet.",
+      "translated_text": "Iran also launched drone strikes on oil refineries in Kuwait."
+    },
+    {
+      "text": "Die Anlage in Mina Al-Ahmadi wurde schwer beschädigt.",
+      "translated_text": "The facility at Mina Al-Ahmadi was severely damaged."
+    },
+    {
+      "text": "Mehrere Gebäude stehen noch immer in Flammen.",
+      "translated_text": "Several buildings are still on fire."
+    },
+    {
+      "text": "Die Straße von Hormus ist derzeit gesperrt.",
+      "translated_text": "The Strait of Hormuz is currently closed."
+    },
+    {
+      "text": "Durch diese Meerenge fließen normalerweise etwa 20 Prozent des weltweiten Öls.",
+      "translated_text": "About 20 percent of the world's oil normally flows through this strait."
+    },
+    {
+      "text": "Die Sperrung hat die Kraftstoffpreise weltweit stark erhöht.",
+      "translated_text": "The closure has significantly raised fuel prices worldwide."
+    },
+    {
+      "text": "US-Präsident Trump sagte, der Krieg sei „fast beendet".",
+      "translated_text": "US President Trump said the war was \"almost over\"."
+    },
+    {
+      "text": "Er erwartet, dass die USA noch zwei bis drei Wochen kämpfen müssen.",
+      "translated_text": "He expects the USA will have to fight for another two to three weeks."
+    },
+    {
+      "text": "Der Krieg begann am 28. Februar 2026 mit einem Überraschungsangriff der USA und Israels.",
+      "translated_text": "The war began on 28 February 2026 with a surprise attack by the USA and Israel."
+    },
+    {
+      "text": "Bei den Angriffen wurde der iranische Oberste Führer Ali Chamenei getötet.",
+      "translated_text": "The Iranian Supreme Leader Ali Khamenei was killed in the attacks."
+    },
+    {
+      "text": "Die internationale Gemeinschaft fordert einen sofortigen Waffenstillstand.",
+      "translated_text": "The international community is calling for an immediate ceasefire."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Kampfflugzeug",
+      "translated_term": "fighter jet",
+      "example_usage": "Der Iran hat zwei amerikanische Kampfflugzeuge abgeschossen."
+    },
+    {
+      "term": "abschießen",
+      "translated_term": "to shoot down",
+      "example_usage": "Der Iran hat zwei amerikanische Kampfflugzeuge abgeschossen."
+    },
+    {
+      "term": "die Meerenge",
+      "translated_term": "strait",
+      "example_usage": "Durch diese Meerenge fließen normalerweise etwa 20 Prozent des weltweiten Öls."
+    },
+    {
+      "term": "die Raffinerie",
+      "translated_term": "refinery",
+      "example_usage": "Der Iran hat außerdem Drohnenangriffe auf Ölraffinerien in Kuwait gestartet."
+    },
+    {
+      "term": "die Sperrung",
+      "translated_term": "closure, blockade",
+      "example_usage": "Die Sperrung hat die Kraftstoffpreise weltweit stark erhöht."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "ceasefire",
+      "example_usage": "Die internationale Gemeinschaft fordert einen sofortigen Waffenstillstand."
+    },
+    {
+      "term": "der Überraschungsangriff",
+      "translated_term": "surprise attack",
+      "example_usage": "Der Krieg begann am 28. Februar 2026 mit einem Überraschungsangriff der USA und Israels."
+    },
+    {
+      "term": "die Gemeinschaft",
+      "translated_term": "community",
+      "example_usage": "Die internationale Gemeinschaft fordert einen sofortigen Waffenstillstand."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera – Iran war live blog",
+      "link_url": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges"
+    },
+    {
+      "name": "NPR – 2 U.S. planes are down and Iran hits Gulf refineries",
+      "link_url": "https://www.npr.org/2026/04/03/g-s1-116314/iran-hits-gulf-refineries-as-trump-warns-u-s-will-attack-iranian-bridges-power-plants"
+    }
+  ]
+}

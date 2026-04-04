@@ -1,0 +1,144 @@
+{
+  "title": "Osterfest in Berlin und Brandenburg: Ritterfest und Osterfeuer",
+  "translated_title": "Easter in Berlin and Brandenburg: Knights' Festival and Easter Fires",
+  "text": [
+    {
+      "text": "Es ist Ostersamstag in Berlin und Brandenburg.",
+      "translated_text": "It is Easter Saturday in Berlin and Brandenburg."
+    },
+    {
+      "text": "In der Zitadelle Spandau findet vom 4. bis 6. April ein Ritterfest statt.",
+      "translated_text": "A knights' festival is taking place at Spandau Citadel from 4 to 6 April."
+    },
+    {
+      "text": "Besucher können einen historischen Markt besuchen.",
+      "translated_text": "Visitors can visit a historical market."
+    },
+    {
+      "text": "Es gibt Turniere, bei denen Ritter gegeneinander kämpfen.",
+      "translated_text": "There are tournaments in which knights fight against each other."
+    },
+    {
+      "text": "Am Abend gibt es eine Feuershow zu Pferd.",
+      "translated_text": "In the evening there is a fire show on horseback."
+    },
+    {
+      "text": "Das ist ein besonderes Erlebnis für Familien mit Kindern.",
+      "translated_text": "This is a special experience for families with children."
+    },
+    {
+      "text": "Die Zitadelle Spandau ist eines der bekanntesten historischen Gebäude in Berlin.",
+      "translated_text": "Spandau Citadel is one of the most famous historical buildings in Berlin."
+    },
+    {
+      "text": "Sie wurde im 16. Jahrhundert gebaut.",
+      "translated_text": "It was built in the 16th century."
+    },
+    {
+      "text": "In Brandenburg gibt es eine alte Tradition: die Osterfeuer.",
+      "translated_text": "In Brandenburg there is an old tradition: Easter fires."
+    },
+    {
+      "text": "Viele Gemeinden zünden große Feuer an.",
+      "translated_text": "Many communities light large fires."
+    },
+    {
+      "text": "In Alexanderhof und Dedelow im Landkreis Uckermark können Besucher traditionelle Osterfeuer erleben.",
+      "translated_text": "In Alexanderhof and Dedelow in the Uckermark district, visitors can experience traditional Easter fires."
+    },
+    {
+      "text": "Die Osterfeuer symbolisieren den Beginn des Frühlings.",
+      "translated_text": "The Easter fires symbolise the beginning of spring."
+    },
+    {
+      "text": "Leider gab es am Ostersamstag auch eine Störung im Berliner S-Bahn-Netz.",
+      "translated_text": "Unfortunately, there was also a disruption to the Berlin S-Bahn network on Easter Saturday."
+    },
+    {
+      "text": "In Schöneweide gab es einen Signalfehler und einen Weichenfehler.",
+      "translated_text": "In Schöneweide there was a signal fault and a points failure."
+    },
+    {
+      "text": "Sieben S-Bahn-Linien waren davon betroffen.",
+      "translated_text": "Seven S-Bahn lines were affected."
+    },
+    {
+      "text": "Am Nachmittag wurde das Problem gelöst.",
+      "translated_text": "The problem was resolved in the afternoon."
+    },
+    {
+      "text": "Viele Berliner und Brandenburger nutzen die freien Tage für Ausflüge.",
+      "translated_text": "Many Berliners and Brandenburgers use the days off for excursions."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Ritterfest",
+      "translated_term": "knights' festival",
+      "example_usage": "In der Zitadelle Spandau findet vom 4. bis 6. April ein Ritterfest statt."
+    },
+    {
+      "term": "die Zitadelle",
+      "translated_term": "citadel",
+      "example_usage": "Die Zitadelle Spandau ist eines der bekanntesten historischen Gebäude in Berlin."
+    },
+    {
+      "term": "das Osterfeuer",
+      "translated_term": "Easter fire",
+      "example_usage": "In Alexanderhof und Dedelow im Landkreis Uckermark können Besucher traditionelle Osterfeuer erleben."
+    },
+    {
+      "term": "symbolisieren",
+      "translated_term": "to symbolise",
+      "example_usage": "Die Osterfeuer symbolisieren den Beginn des Frühlings."
+    },
+    {
+      "term": "die Störung",
+      "translated_term": "disruption, fault",
+      "example_usage": "Leider gab es am Ostersamstag auch eine Störung im Berliner S-Bahn-Netz."
+    },
+    {
+      "term": "der Landkreis",
+      "translated_term": "district, county",
+      "example_usage": "In Alexanderhof und Dedelow im Landkreis Uckermark können Besucher traditionelle Osterfeuer erleben."
+    },
+    {
+      "term": "der Ausflug",
+      "translated_term": "excursion, trip",
+      "example_usage": "Viele Berliner und Brandenburger nutzen die freien Tage für Ausflüge."
+    },
+    {
+      "term": "das Turnier",
+      "translated_term": "tournament",
+      "example_usage": "Es gibt Turniere, bei denen Ritter gegeneinander kämpfen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Osterfest",
+      "translated_name": "Easter"
+    },
+    {
+      "name": "Veranstaltungen",
+      "translated_name": "Events"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de – Event highlights April 2026",
+      "link_url": "https://www.berlin.de/en/events/april/"
+    },
+    {
+      "name": "BerlinMagazine.de – Osterfeuer 2026 in Berlin & Brandenburg",
+      "link_url": "https://berlinmagazine.de/berlin-leuchtet-die-schoensten-osterfeuer-2026-in-berlin-brandenburg"
+    }
+  ]
+}

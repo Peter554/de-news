@@ -1,0 +1,136 @@
+{
+  "title": "Großbritannien organisiert Gipfel zur Straße von Hormus",
+  "translated_title": "Great Britain Organises Summit on the Strait of Hormuz",
+  "text": [
+    {
+      "text": "Die britische Außenministerin Yvette Cooper hat einen wichtigen Gipfel organisiert.",
+      "translated_text": "British Foreign Secretary Yvette Cooper organised an important summit."
+    },
+    {
+      "text": "35 Länder haben sich in London getroffen.",
+      "translated_text": "35 countries met in London."
+    },
+    {
+      "text": "Das Ziel des Treffens war es, die Straße von Hormus wieder zu öffnen.",
+      "translated_text": "The goal of the meeting was to reopen the Strait of Hormuz."
+    },
+    {
+      "text": "Diese Meerenge ist wegen des Iran-Krieges seit Wochen geschlossen.",
+      "translated_text": "This strait has been closed for weeks because of the Iran war."
+    },
+    {
+      "text": "Durch die Sperrung sind die Energiepreise in Großbritannien stark gestiegen.",
+      "translated_text": "As a result of the closure, energy prices in Great Britain have risen sharply."
+    },
+    {
+      "text": "Der durchschnittliche Dieselpreis ist von 141,8 Pence auf 181 Pence pro Liter gestiegen.",
+      "translated_text": "The average diesel price has risen from 141.8 pence to 181 pence per litre."
+    },
+    {
+      "text": "Das ist eine Erhöhung von fast 40 Pence.",
+      "translated_text": "That is an increase of almost 40 pence."
+    },
+    {
+      "text": "Premierminister Keir Starmer nutzte die Krise auch für andere Ziele.",
+      "translated_text": "Prime Minister Keir Starmer also used the crisis for other goals."
+    },
+    {
+      "text": "Er sprach sich für engere Beziehungen zwischen Großbritannien und der Europäischen Union aus.",
+      "translated_text": "He spoke out in favour of closer relations between Great Britain and the European Union."
+    },
+    {
+      "text": "Starmer sagte, die Krise zeige, dass Großbritannien nicht allein handeln könne.",
+      "translated_text": "Starmer said the crisis showed that Great Britain could not act alone."
+    },
+    {
+      "text": "Das transatlantische Verhältnis zwischen den USA und Europa ist derzeit angespannt.",
+      "translated_text": "The transatlantic relationship between the USA and Europe is currently strained."
+    },
+    {
+      "text": "Gleichzeitig traten im April neue Gesetze in Großbritannien in Kraft.",
+      "translated_text": "At the same time, new laws came into force in Great Britain in April."
+    },
+    {
+      "text": "Der Mindestlohn stieg auf 12,71 Pfund pro Stunde.",
+      "translated_text": "The minimum wage rose to £12.71 per hour."
+    },
+    {
+      "text": "Die durchschnittlichen Energiekosten für Haushalte sanken um 117 Pfund pro Jahr.",
+      "translated_text": "Average household energy costs fell by £117 per year."
+    },
+    {
+      "text": "Die Regierung versucht, die Energieversorgung zu sichern und gleichzeitig diplomatisch zu handeln.",
+      "translated_text": "The government is trying to secure the energy supply while acting diplomatically."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Gipfel",
+      "translated_term": "summit",
+      "example_usage": "Die britische Außenministerin Yvette Cooper hat einen wichtigen Gipfel organisiert."
+    },
+    {
+      "term": "die Außenministerin",
+      "translated_term": "foreign minister (female)",
+      "example_usage": "Die britische Außenministerin Yvette Cooper hat einen wichtigen Gipfel organisiert."
+    },
+    {
+      "term": "die Meerenge",
+      "translated_term": "strait",
+      "example_usage": "Diese Meerenge ist wegen des Iran-Krieges seit Wochen geschlossen."
+    },
+    {
+      "term": "angespannt",
+      "translated_term": "strained, tense",
+      "example_usage": "Das transatlantische Verhältnis zwischen den USA und Europa ist derzeit angespannt."
+    },
+    {
+      "term": "der Mindestlohn",
+      "translated_term": "minimum wage",
+      "example_usage": "Der Mindestlohn stieg auf 12,71 Pfund pro Stunde."
+    },
+    {
+      "term": "in Kraft treten",
+      "translated_term": "to come into force",
+      "example_usage": "Gleichzeitig traten im April neue Gesetze in Großbritannien in Kraft."
+    },
+    {
+      "term": "die Erhöhung",
+      "translated_term": "increase, rise",
+      "example_usage": "Das ist eine Erhöhung von fast 40 Pence."
+    },
+    {
+      "term": "die Energieversorgung",
+      "translated_term": "energy supply",
+      "example_usage": "Die Regierung versucht, die Energieversorgung zu sichern und gleichzeitig diplomatisch zu handeln."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Britische Politik",
+      "translated_name": "British Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Gov.uk – PM remarks 1 April 2026",
+      "link_url": "https://www.gov.uk/government/speeches/pm-remarks-1-april-2026"
+    },
+    {
+      "name": "Bloomberg – Starmer Pledges Closer Ties With Europe",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-04-01/starmer-pledges-closer-ties-with-europe-after-trump-criticism"
+    }
+  ]
+}
