@@ -1,0 +1,126 @@
+{
+  "title": "USA und Iran im Krieg – Die sechste Woche des Konflikts",
+  "translated_title": "USA and Iran at War – The Sixth Week of the Conflict",
+  "text": [
+    {
+      "text": "Der Krieg zwischen den USA und dem Iran dauert nun schon sechs Wochen.",
+      "translated_text": "The war between the USA and Iran has now been going on for six weeks."
+    },
+    {
+      "text": "Der Konflikt begann am 28. Februar, als amerikanische und israelische Streitkräfte den Iran angriffen.",
+      "translated_text": "The conflict began on 28 February when American and Israeli forces attacked Iran."
+    },
+    {
+      "text": "Seitdem sind mindestens 2.076 Menschen gestorben und über 26.500 wurden verletzt.",
+      "translated_text": "Since then, at least 2,076 people have died and over 26,500 have been injured."
+    },
+    {
+      "text": "Präsident Trump bestätigte am Samstag eine wichtige Nachricht: Ein amerikanischer Pilot wurde gerettet.",
+      "translated_text": "President Trump confirmed an important piece of news on Saturday: an American pilot had been rescued."
+    },
+    {
+      "text": "Der Pilot war mit seinem F-15E-Kampfjet abgestürzt, nachdem iranische Kräfte das Flugzeug abgeschossen hatten.",
+      "translated_text": "The pilot had crashed in his F-15E fighter jet after Iranian forces shot down the aircraft."
+    },
+    {
+      "text": "Die amerikanischen und israelischen Streitkräfte haben ihre Angriffe ausgeweitet.",
+      "translated_text": "American and Israeli forces have expanded their strikes."
+    },
+    {
+      "text": "Sie bombardierten das Pasteur-Institut in Teheran – ein hundert Jahre altes medizinisches Forschungszentrum.",
+      "translated_text": "They bombed the Pasteur Institute in Tehran – a hundred-year-old medical research centre."
+    },
+    {
+      "text": "Außerdem wurden Stahlwerke und wichtige Infrastrukturbrücken angegriffen.",
+      "translated_text": "Steel plants and important infrastructure bridges were also attacked."
+    },
+    {
+      "text": "Der Iran reagierte mit ernsthaften Drohungen gegen amerikanische Technologieunternehmen.",
+      "translated_text": "Iran responded with serious threats against American technology companies."
+    },
+    {
+      "text": "Die Revolutionsgarde nannte 18 amerikanische Firmen als Ziele für mögliche Anschläge.",
+      "translated_text": "The Revolutionary Guard named 18 American companies as targets for possible attacks."
+    },
+    {
+      "text": "Darunter sind bekannte Unternehmen wie Palantir, Meta, Google und Microsoft.",
+      "translated_text": "Among them are well-known companies such as Palantir, Meta, Google and Microsoft."
+    },
+    {
+      "text": "Der Konflikt betrifft auch andere Länder in der Region.",
+      "translated_text": "The conflict also affects other countries in the region."
+    },
+    {
+      "text": "Im Libanon wurden mindestens 23 Menschen bei israelischen Luftangriffen auf die Hisbollah-Miliz getötet.",
+      "translated_text": "In Lebanon, at least 23 people were killed in Israeli airstrikes on the Hezbollah militia."
+    },
+    {
+      "text": "Die internationale Gemeinschaft ist tief besorgt über die Eskalation des Krieges.",
+      "translated_text": "The international community is deeply concerned about the escalation of the war."
+    },
+    {
+      "text": "Viele Länder und die Vereinten Nationen fordern sofortige Verhandlungen und ein Ende der Kämpfe.",
+      "translated_text": "Many countries and the United Nations are calling for immediate negotiations and an end to the fighting."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Streitkräfte",
+      "translated_term": "the armed forces",
+      "example_usage": "Amerikanische und israelische Streitkräfte griffen den Iran an."
+    },
+    {
+      "term": "abschießen",
+      "translated_term": "to shoot down",
+      "example_usage": "Iranische Kräfte haben das Flugzeug abgeschossen."
+    },
+    {
+      "term": "ausweiten",
+      "translated_term": "to expand / to widen",
+      "example_usage": "Die amerikanischen und israelischen Streitkräfte haben ihre Angriffe ausgeweitet."
+    },
+    {
+      "term": "die Drohung",
+      "translated_term": "the threat",
+      "example_usage": "Der Iran reagierte mit ernsthaften Drohungen gegen amerikanische Technologieunternehmen."
+    },
+    {
+      "term": "die Eskalation",
+      "translated_term": "the escalation",
+      "example_usage": "Die internationale Gemeinschaft ist tief besorgt über die Eskalation des Krieges."
+    },
+    {
+      "term": "die Revolutionsgarde",
+      "translated_term": "the Revolutionary Guard",
+      "example_usage": "Die Revolutionsgarde nannte 18 amerikanische Firmen als Ziele für mögliche Anschläge."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Iran war live – Tehran rejects Trump's ultimatum, fire at Kuwait oil complex",
+      "link_url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex"
+    },
+    {
+      "name": "NPR: Iran war updates – Week 6",
+      "link_url": "https://www.npr.org/2026/04/04/nx-s1-5773436/iran-war-updates"
+    }
+  ]
+}
