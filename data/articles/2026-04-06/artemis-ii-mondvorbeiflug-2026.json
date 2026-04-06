@@ -1,0 +1,131 @@
+{
+  "title": "Artemis II: Astronauten fliegen zum ersten Mal seit 50 Jahren um den Mond",
+  "translated_title": "Artemis II: Astronauts Fly Around the Moon for the First Time in 50 Years",
+  "text": [
+    {
+      "text": "Am 6. April 2026 flog die NASA-Mission Artemis II um den Mond.",
+      "translated_text": "On April 6, 2026, the NASA mission Artemis II flew around the Moon."
+    },
+    {
+      "text": "Es war das erste Mal seit mehr als 50 Jahren, dass Menschen den Mond so nah besucht haben.",
+      "translated_text": "It was the first time in more than 50 years that humans had visited the Moon so closely."
+    },
+    {
+      "text": "Die Mission startete am 1. April vom Kennedy Space Center in Florida.",
+      "translated_text": "The mission launched on April 1 from Kennedy Space Center in Florida."
+    },
+    {
+      "text": "An Bord des Raumschiffs Orion waren vier Astronauten.",
+      "translated_text": "On board the Orion spacecraft were four astronauts."
+    },
+    {
+      "text": "Die Astronauten hießen Reid Wiseman, Victor Glover, Christina Koch und Jeremy Hansen.",
+      "translated_text": "The astronauts were named Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen."
+    },
+    {
+      "text": "Jeremy Hansen ist Kanadier und flog als erster Kanadier in die Nähe des Mondes.",
+      "translated_text": "Jeremy Hansen is Canadian and flew as the first Canadian in the vicinity of the Moon."
+    },
+    {
+      "text": "Am 6. April kam das Raumschiff bis auf etwa 6.400 Kilometer an den Mond heran.",
+      "translated_text": "On April 6, the spacecraft came as close as about 6,400 kilometres to the Moon."
+    },
+    {
+      "text": "Der Mondvorbeiflug dauerte ungefähr sechs Stunden.",
+      "translated_text": "The lunar flyby lasted approximately six hours."
+    },
+    {
+      "text": "Während dieser Zeit fotografierten die Astronauten die Rückseite des Mondes.",
+      "translated_text": "During this time, the astronauts photographed the far side of the Moon."
+    },
+    {
+      "text": "Diese Seite kann man von der Erde aus nicht sehen.",
+      "translated_text": "This side cannot be seen from Earth."
+    },
+    {
+      "text": "Für 40 Minuten gab es keine Funkverbindung, weil das Raumschiff hinter dem Mond war.",
+      "translated_text": "For 40 minutes there was no radio contact because the spacecraft was behind the Moon."
+    },
+    {
+      "text": "Die Mission Artemis II ist eine Vorbereitung für spätere Mondlandungen.",
+      "translated_text": "The Artemis II mission is a preparation for later Moon landings."
+    },
+    {
+      "text": "In den nächsten Jahren will die NASA wieder Menschen auf dem Mond landen lassen.",
+      "translated_text": "In the coming years, NASA wants to land people on the Moon again."
+    },
+    {
+      "text": "Auch die europäische Raumfahrtagentur ESA ist an der Mission beteiligt.",
+      "translated_text": "The European Space Agency ESA is also involved in the mission."
+    },
+    {
+      "text": "Artemis II ist ein wichtiger Schritt für die weitere Erforschung des Weltraums.",
+      "translated_text": "Artemis II is an important step for the further exploration of space."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Mondvorbeiflug",
+      "translated_term": "the lunar flyby",
+      "example_usage": "Der Mondvorbeiflug dauerte ungefähr sechs Stunden."
+    },
+    {
+      "term": "das Raumschiff",
+      "translated_term": "the spacecraft",
+      "example_usage": "An Bord des Raumschiffs Orion waren vier Astronauten."
+    },
+    {
+      "term": "die Rückseite",
+      "translated_term": "the far side / back side",
+      "example_usage": "Die Astronauten fotografierten die Rückseite des Mondes."
+    },
+    {
+      "term": "die Funkverbindung",
+      "translated_term": "the radio contact / radio link",
+      "example_usage": "Für 40 Minuten gab es keine Funkverbindung, weil das Raumschiff hinter dem Mond war."
+    },
+    {
+      "term": "die Mondlandung",
+      "translated_term": "the Moon landing",
+      "example_usage": "Die Mission Artemis II ist eine Vorbereitung für spätere Mondlandungen."
+    },
+    {
+      "term": "beteiligen",
+      "translated_term": "to involve / to participate",
+      "example_usage": "Auch die europäische Raumfahrtagentur ESA ist an der Mission beteiligt."
+    },
+    {
+      "term": "die Erforschung",
+      "translated_term": "the exploration / research",
+      "example_usage": "Artemis II ist ein wichtiger Schritt für die weitere Erforschung des Weltraums."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Weltraumforschung",
+      "translated_name": "Space Exploration"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Wissenschaft",
+      "translated_name": "Science"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NASA: Artemis II Flight Day 4 – Deep-Space Flying, Lunar Flyby Prep",
+      "link_url": "https://www.nasa.gov/blogs/missions/2026/04/04/artemis-ii-flight-day-4-deep-space-flying-lunar-flyby-prep/"
+    },
+    {
+      "name": "Space.com: Artemis 2 LIVE – Astronauts ready for historic moon flyby",
+      "link_url": "https://www.space.com/news/live/artemis-2-nasa-moon-mission-updates-april-5-2026"
+    },
+    {
+      "name": "Al Jazeera: How long will Artemis II take to reach the moon?",
+      "link_url": "https://www.aljazeera.com/news/2026/4/2/how-long-will-artemis-ii-take-to-reach-the-moon-and-what-happens-next"
+    }
+  ]
+}

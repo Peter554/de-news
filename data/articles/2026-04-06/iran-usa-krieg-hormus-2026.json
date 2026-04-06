@@ -1,0 +1,127 @@
+{
+  "title": "USA und Iran im Krieg: Deadline für die Straße von Hormus abgelaufen",
+  "translated_title": "USA and Iran at War: Deadline for the Strait of Hormuz Expires",
+  "text": [
+    {
+      "text": "Seit Ende Februar 2026 führen die USA und Israel Krieg gegen den Iran.",
+      "translated_text": "Since late February 2026, the USA and Israel have been at war with Iran."
+    },
+    {
+      "text": "In den ersten 38 Kriegstagen sind bereits mehr als 2.000 Menschen gestorben.",
+      "translated_text": "In the first 38 days of war, more than 2,000 people have already died."
+    },
+    {
+      "text": "Der Iran hat die wichtige Schifffahrtsstraße, die Straße von Hormus, gesperrt.",
+      "translated_text": "Iran has blocked the important shipping lane, the Strait of Hormuz."
+    },
+    {
+      "text": "Diese Straße ist sehr wichtig für den Transport von Erdöl aus dem Nahen Osten.",
+      "translated_text": "This strait is very important for transporting oil from the Middle East."
+    },
+    {
+      "text": "US-Präsident Trump stellte dem Iran ein Ultimatum: Die Straße von Hormus muss bis zum 6. April wieder geöffnet werden.",
+      "translated_text": "US President Trump gave Iran an ultimatum: The Strait of Hormuz must be reopened by April 6."
+    },
+    {
+      "text": "Der Iran lehnte dieses Ultimatum ab.",
+      "translated_text": "Iran rejected this ultimatum."
+    },
+    {
+      "text": "Die iranische Regierung sagte, die Straße öffne erst wieder, wenn der Iran für alle Kriegsschäden entschädigt werde.",
+      "translated_text": "The Iranian government said the strait would not reopen until Iran is fully compensated for all war damages."
+    },
+    {
+      "text": "Am 3. April wurde ein amerikanisches Militärflugzeug, eine F-15E Strike Eagle, über dem Iran abgeschossen.",
+      "translated_text": "On April 3, an American military aircraft, an F-15E Strike Eagle, was shot down over Iran."
+    },
+    {
+      "text": "Es war das zweite abgeschossene US-Flugzeug in diesem Krieg.",
+      "translated_text": "It was the second US aircraft shot down in this war."
+    },
+    {
+      "text": "Am 5. April retteten amerikanische Spezialkräfte den Piloten aus dem Iran.",
+      "translated_text": "On April 5, American special forces rescued the pilot from Iran."
+    },
+    {
+      "text": "Der Konflikt hat sich auch auf den Libanon ausgeweitet.",
+      "translated_text": "The conflict has also expanded to Lebanon."
+    },
+    {
+      "text": "Im Libanon sind bisher mehr als 1.400 Menschen gestorben.",
+      "translated_text": "In Lebanon, more than 1,400 people have died so far."
+    },
+    {
+      "text": "Viele Länder weltweit sind besorgt über die steigenden Ölpreise.",
+      "translated_text": "Many countries worldwide are concerned about rising oil prices."
+    },
+    {
+      "text": "Wenn die Straße von Hormus geschlossen bleibt, wird Öl viel teurer.",
+      "translated_text": "If the Strait of Hormuz remains closed, oil will become much more expensive."
+    },
+    {
+      "text": "Die internationale Gemeinschaft hofft auf ein schnelles Ende der Kämpfe.",
+      "translated_text": "The international community hopes for a quick end to the fighting."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Schifffahrtsstraße",
+      "translated_term": "the shipping lane / strait",
+      "example_usage": "Der Iran hat die wichtige Schifffahrtsstraße, die Straße von Hormus, gesperrt."
+    },
+    {
+      "term": "das Ultimatum",
+      "translated_term": "the ultimatum",
+      "example_usage": "US-Präsident Trump stellte dem Iran ein Ultimatum."
+    },
+    {
+      "term": "ablehnen",
+      "translated_term": "to reject / to refuse",
+      "example_usage": "Der Iran lehnte dieses Ultimatum ab."
+    },
+    {
+      "term": "entschädigen",
+      "translated_term": "to compensate",
+      "example_usage": "Die Straße öffne erst wieder, wenn der Iran für alle Kriegsschäden entschädigt werde."
+    },
+    {
+      "term": "abschießen",
+      "translated_term": "to shoot down",
+      "example_usage": "Am 3. April wurde ein amerikanisches Militärflugzeug über dem Iran abgeschossen."
+    },
+    {
+      "term": "die Spezialkräfte",
+      "translated_term": "the special forces",
+      "example_usage": "Amerikanische Spezialkräfte retteten den Piloten aus dem Iran."
+    },
+    {
+      "term": "ausweiten",
+      "translated_term": "to expand / to widen",
+      "example_usage": "Der Konflikt hat sich auch auf den Libanon ausgeweitet."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN: Day 37 – US forces rescue crew member from F-15 jet shot down over Iran",
+      "link_url": "https://www.cnn.com/2026/04/05/world/live-news/iran-war-us-trump-oil"
+    },
+    {
+      "name": "GMA News Online: LIVE UPDATES – Conflict in the Middle East, April 6, 2026",
+      "link_url": "https://www.gmanetwork.com/news/topstories/nation/982705/live-updates-conflict-in-the-middle-east-april-6-2026/story/"
+    }
+  ]
+}
