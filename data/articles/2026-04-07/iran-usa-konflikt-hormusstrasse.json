@@ -1,0 +1,123 @@
+{
+  "title": "Iran lehnt Trumps Ultimatum zur Hormusstraße ab",
+  "translated_title": "Iran Rejects Trump's Ultimatum on the Strait of Hormuz",
+  "text": [
+    {
+      "text": "Der amerikanische Präsident Donald Trump hat dem Iran ein Ultimatum gestellt.",
+      "translated_text": "US President Donald Trump has issued an ultimatum to Iran."
+    },
+    {
+      "text": "Er forderte, dass der Iran die Hormusstraße bis Dienstagabend wieder öffnet.",
+      "translated_text": "He demanded that Iran reopen the Strait of Hormuz by Tuesday evening."
+    },
+    {
+      "text": "Die Hormusstraße ist eine sehr wichtige Schifffahrtsroute für Öltanker.",
+      "translated_text": "The Strait of Hormuz is a very important shipping route for oil tankers."
+    },
+    {
+      "text": "Trump drohte, iranische Kraftwerke, Brücken und Energieanlagen zu bombardieren, wenn der Iran nicht nachgibt.",
+      "translated_text": "Trump threatened to bomb Iranian power plants, bridges and energy facilities if Iran did not comply."
+    },
+    {
+      "text": "Der Iran lehnte das Ultimatum jedoch ab.",
+      "translated_text": "However, Iran rejected the ultimatum."
+    },
+    {
+      "text": "Iranische Politiker sagten, ein vorübergehender Waffenstillstand sei nicht akzeptabel.",
+      "translated_text": "Iranian politicians said a temporary ceasefire was not acceptable."
+    },
+    {
+      "text": "Sie forderten ein dauerhaftes Ende der Feindseligkeiten und die Aufhebung der Sanktionen.",
+      "translated_text": "They demanded a permanent end to hostilities and the lifting of sanctions."
+    },
+    {
+      "text": "Der Iran schickte Pakistan eine Liste mit zehn Bedingungen für eine mögliche Einigung.",
+      "translated_text": "Iran sent Pakistan a list of ten conditions for a possible agreement."
+    },
+    {
+      "text": "Trump nannte den iranischen Vorschlag „nicht gut genug".",
+      "translated_text": "Trump called the Iranian proposal \"not good enough\"."
+    },
+    {
+      "text": "Er erklärte, dass die USA bei einer Rettungsmission für einen abgestürzten amerikanischen Piloten bis zu 155 Kriegsflugzeuge eingesetzt hätten.",
+      "translated_text": "He stated that the US had deployed up to 155 warplanes in a rescue mission for a downed American pilot."
+    },
+    {
+      "text": "Bei amerikanisch-israelischen Angriffen auf den Iran wurden zuletzt mindestens 34 Menschen getötet, darunter sechs Kinder.",
+      "translated_text": "At least 34 people were killed in recent US-Israeli strikes on Iran, including six children."
+    },
+    {
+      "text": "Der Konflikt hat sich auch auf den Libanon ausgeweitet, wo israelische Angriffe mindestens 14 Menschen töteten.",
+      "translated_text": "The conflict has also spread to Lebanon, where Israeli strikes killed at least 14 people."
+    },
+    {
+      "text": "Die internationale Gemeinschaft ist sehr besorgt über eine weitere Eskalation im Nahen Osten.",
+      "translated_text": "The international community is very concerned about a further escalation in the Middle East."
+    },
+    {
+      "text": "Viele Länder fordern sofortige Verhandlungen, um den Konflikt zu beenden.",
+      "translated_text": "Many countries are calling for immediate negotiations to end the conflict."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Ultimatum",
+      "translated_term": "the ultimatum",
+      "example_usage": "Der amerikanische Präsident Donald Trump hat dem Iran ein Ultimatum gestellt."
+    },
+    {
+      "term": "die Schifffahrtsroute",
+      "translated_term": "the shipping route",
+      "example_usage": "Die Hormusstraße ist eine sehr wichtige Schifffahrtsroute für Öltanker."
+    },
+    {
+      "term": "drohen",
+      "translated_term": "to threaten",
+      "example_usage": "Trump drohte, iranische Kraftwerke, Brücken und Energieanlagen zu bombardieren."
+    },
+    {
+      "term": "ablehnen",
+      "translated_term": "to reject / to decline",
+      "example_usage": "Der Iran lehnte das Ultimatum jedoch ab."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Iranische Politiker sagten, ein vorübergehender Waffenstillstand sei nicht akzeptabel."
+    },
+    {
+      "term": "die Sanktionen",
+      "translated_term": "the sanctions",
+      "example_usage": "Sie forderten ein dauerhaftes Ende der Feindseligkeiten und die Aufhebung der Sanktionen."
+    },
+    {
+      "term": "die Eskalation",
+      "translated_term": "the escalation",
+      "example_usage": "Die internationale Gemeinschaft ist sehr besorgt über eine weitere Eskalation im Nahen Osten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Iran war updates — Tehran rejects Trump's Tuesday deadline on Strait of Hormuz",
+      "link_url": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz"
+    },
+    {
+      "name": "Bloomberg: Iran Rejects Ceasefire Before Trump Ultimatum Expires on Hormuz",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-04-06/iran-rejects-ceasefire-before-trump-ultimatum-expires-on-hormuz"
+    }
+  ]
+}

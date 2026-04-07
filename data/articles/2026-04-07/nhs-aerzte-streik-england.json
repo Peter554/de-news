@@ -1,0 +1,123 @@
+{
+  "title": "Ärzte im britischen NHS streiken für bessere Bezahlung",
+  "translated_title": "Doctors in the British NHS Strike for Better Pay",
+  "text": [
+    {
+      "text": "In England haben Assistenzärzte am 7. April 2026 einen neuen Streik begonnen.",
+      "translated_text": "In England, resident doctors began a new strike on 7 April 2026."
+    },
+    {
+      "text": "Der Streik dauert sechs Tage und endet am 13. April.",
+      "translated_text": "The strike lasts six days and ends on 13 April."
+    },
+    {
+      "text": "Es ist bereits der fünfzehnte Streik seit dem Beginn des Tarifstreits im März 2023.",
+      "translated_text": "It is already the fifteenth strike since the pay dispute began in March 2023."
+    },
+    {
+      "text": "Die British Medical Association (BMA) lehnte das letzte Angebot der Regierung ab.",
+      "translated_text": "The British Medical Association (BMA) rejected the government's latest offer."
+    },
+    {
+      "text": "Die Ärzte sagten, das Angebot bedeute in der Realität weniger Geld, weil es keinen Inflationsschutz gebe.",
+      "translated_text": "The doctors said the offer meant less money in reality because it offered no inflation protection."
+    },
+    {
+      "text": "Premierminister Keir Starmer drohte damit, tausend neue Ausbildungsplätze im NHS zu streichen, falls der Streik nicht abgesagt werde.",
+      "translated_text": "Prime Minister Keir Starmer threatened to cancel a thousand new NHS training posts if the strike was not called off."
+    },
+    {
+      "text": "Da die Gespräche scheiterten, machte die Regierung diese Drohung wahr.",
+      "translated_text": "As talks broke down, the government followed through on this threat."
+    },
+    {
+      "text": "Der NHS versucht, während des Streiks 95 Prozent des normalen Betriebs aufrechtzuerhalten.",
+      "translated_text": "The NHS is trying to maintain 95 per cent of normal operations during the strike."
+    },
+    {
+      "text": "Geplante Operationen, Sprechstunden und nicht dringende Termine fallen jedoch aus.",
+      "translated_text": "However, planned operations, consultations and non-urgent appointments are being cancelled."
+    },
+    {
+      "text": "Der Streik fällt in die Osterferienzeit, was die Situation für viele Patienten besonders schwierig macht.",
+      "translated_text": "The strike falls during the Easter holiday period, which makes the situation particularly difficult for many patients."
+    },
+    {
+      "text": "Die BMA fordert eine echte Gehaltserhöhung, die den Verlusten der letzten Jahre ausgleicht.",
+      "translated_text": "The BMA is demanding a real pay rise that compensates for the losses of recent years."
+    },
+    {
+      "text": "Die Regierung besteht darauf, dass ihr Angebot fair sei.",
+      "translated_text": "The government insists that its offer is fair."
+    },
+    {
+      "text": "Viele Patienten sind frustriert, weil der Streit seit Jahren andauert.",
+      "translated_text": "Many patients are frustrated because the dispute has been going on for years."
+    },
+    {
+      "text": "Experten warnen, dass der Ärztemangel im NHS langfristig zunehmen könnte, wenn keine Einigung gefunden wird.",
+      "translated_text": "Experts warn that the shortage of doctors in the NHS could increase in the long term if no agreement is reached."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Assistenzarzt / die Assistenzärztin",
+      "translated_term": "the resident doctor / junior doctor",
+      "example_usage": "In England haben Assistenzärzte am 7. April 2026 einen neuen Streik begonnen."
+    },
+    {
+      "term": "der Tarifstreit",
+      "translated_term": "the pay dispute / wage dispute",
+      "example_usage": "Es ist bereits der fünfzehnte Streik seit dem Beginn des Tarifstreits im März 2023."
+    },
+    {
+      "term": "ablehnen",
+      "translated_term": "to reject / to decline",
+      "example_usage": "Die British Medical Association (BMA) lehnte das letzte Angebot der Regierung ab."
+    },
+    {
+      "term": "der Inflationsschutz",
+      "translated_term": "the inflation protection",
+      "example_usage": "Das Angebot bedeute in der Realität weniger Geld, weil es keinen Inflationsschutz gebe."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel / to cut",
+      "example_usage": "Premierminister Starmer drohte damit, tausend neue Ausbildungsplätze im NHS zu streichen."
+    },
+    {
+      "term": "aufrechterhalten",
+      "translated_term": "to maintain / to keep up",
+      "example_usage": "Der NHS versucht, während des Streiks 95 Prozent des normalen Betriebs aufrechtzuerhalten."
+    },
+    {
+      "term": "der Ärztemangel",
+      "translated_term": "the doctor shortage",
+      "example_usage": "Experten warnen, dass der Ärztemangel im NHS langfristig zunehmen könnte."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NHS England: Industrial action by BMA resident doctors – 7 to 13 April 2026",
+      "link_url": "https://www.england.nhs.uk/long-read/industrial-action-bma-resident-doctors-april-2026-2/"
+    },
+    {
+      "name": "Open Access Government: Doctor strikes update — Keir Starmer gives doctors 48 hours to cancel strike or risk jobs",
+      "link_url": "https://www.openaccessgovernment.org/doctor-strikes-update-keir-starmer-gives-doctors-48-hours-to-cancel-strike-or-risk-jobs/207493/"
+    }
+  ]
+}
