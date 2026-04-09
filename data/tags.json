@@ -384,6 +384,10 @@
     "translated_name": "Venezuela"
   },
   {
+    "name": "Volksbegehren",
+    "translated_name": "Referendum"
+  },
+  {
     "name": "Verbraucherschutz",
     "translated_name": "Consumer Protection"
   },
@@ -394,6 +398,10 @@
   {
     "name": "Verteidigung",
     "translated_name": "Defense"
+  },
+  {
+    "name": "Waffenstillstand",
+    "translated_name": "Ceasefire"
   },
   {
     "name": "Wahlkampf",

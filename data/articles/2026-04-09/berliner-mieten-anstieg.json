@@ -1,0 +1,123 @@
+{
+  "title": "Berliner Mieten: 69 Prozent teurer als vor zehn Jahren",
+  "translated_title": "Berlin Rents: 69 Percent More Expensive Than Ten Years Ago",
+  "text": [
+    {
+      "text": "Wohnen in Berlin ist in den letzten zehn Jahren viel teurer geworden.",
+      "translated_text": "Living in Berlin has become much more expensive over the last ten years."
+    },
+    {
+      "text": "Die Berliner Mieten sind seit 2016 um 69 Prozent gestiegen.",
+      "translated_text": "Berlin rents have risen by 69 percent since 2016."
+    },
+    {
+      "text": "Im Jahr 2016 lag die durchschnittliche Kaltmiete in Berlin bei 9,02 Euro pro Quadratmeter.",
+      "translated_text": "In 2016, the average net rent in Berlin was €9.02 per square metre."
+    },
+    {
+      "text": "Heute beträgt sie im Durchschnitt 15,25 Euro pro Quadratmeter.",
+      "translated_text": "Today it averages €15.25 per square metre."
+    },
+    {
+      "text": "Das ist ein sehr großer Anstieg, besonders für Menschen mit geringem Einkommen.",
+      "translated_text": "This is a very large increase, especially for people on low incomes."
+    },
+    {
+      "text": "Im nationalen Vergleich ist der Anstieg in Berlin besonders stark.",
+      "translated_text": "In national comparison, the increase in Berlin is particularly sharp."
+    },
+    {
+      "text": "Deutschlandweit stiegen die Mieten im gleichen Zeitraum um 43 Prozent.",
+      "translated_text": "Across Germany, rents rose by 43 percent in the same period."
+    },
+    {
+      "text": "Die teuerste Stadt in Deutschland ist München, wo die durchschnittliche Miete bei 21,29 Euro pro Quadratmeter liegt.",
+      "translated_text": "The most expensive city in Germany is Munich, where the average rent is €21.29 per square metre."
+    },
+    {
+      "text": "Die steigenden Mieten sind trotz verschiedener politischer Maßnahmen zur Mietpreisregulierung passiert.",
+      "translated_text": "The rising rents have occurred despite various political measures to regulate rent prices."
+    },
+    {
+      "text": "Berlin hatte in der Vergangenheit sogar einen Mietendeckel eingeführt.",
+      "translated_text": "Berlin had even introduced a rent cap in the past."
+    },
+    {
+      "text": "Dieser Mietendeckel wurde jedoch vom Bundesverfassungsgericht für ungültig erklärt.",
+      "translated_text": "However, this rent cap was declared invalid by the Federal Constitutional Court."
+    },
+    {
+      "text": "Viele Berliner Mieter berichten, dass sie Schwierigkeiten haben, bezahlbaren Wohnraum zu finden.",
+      "translated_text": "Many Berlin tenants report that they struggle to find affordable housing."
+    },
+    {
+      "text": "Die Nachfrage nach Wohnungen in Berlin ist sehr hoch, das Angebot jedoch zu gering.",
+      "translated_text": "The demand for apartments in Berlin is very high, but the supply is too low."
+    },
+    {
+      "text": "Experten fordern mehr sozialen Wohnungsbau, um die Lage zu verbessern.",
+      "translated_text": "Experts are calling for more social housing construction to improve the situation."
+    },
+    {
+      "text": "Das Thema Mieten bleibt eines der wichtigsten politischen Themen in Berlin.",
+      "translated_text": "The topic of rents remains one of the most important political issues in Berlin."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Kaltmiete",
+      "translated_term": "net rent (without utilities)",
+      "example_usage": "Im Jahr 2016 lag die durchschnittliche Kaltmiete in Berlin bei 9,02 Euro pro Quadratmeter."
+    },
+    {
+      "term": "der Quadratmeter",
+      "translated_term": "square metre",
+      "example_usage": "Heute beträgt sie im Durchschnitt 15,25 Euro pro Quadratmeter."
+    },
+    {
+      "term": "der Anstieg",
+      "translated_term": "rise / increase",
+      "example_usage": "Im nationalen Vergleich ist der Anstieg in Berlin besonders stark."
+    },
+    {
+      "term": "der Mietendeckel",
+      "translated_term": "rent cap",
+      "example_usage": "Berlin hatte in der Vergangenheit sogar einen Mietendeckel eingeführt."
+    },
+    {
+      "term": "ungültig erklären",
+      "translated_term": "to declare invalid",
+      "example_usage": "Dieser Mietendeckel wurde jedoch vom Bundesverfassungsgericht für ungültig erklärt."
+    },
+    {
+      "term": "der Wohnungsbau",
+      "translated_term": "housing construction",
+      "example_usage": "Experten fordern mehr sozialen Wohnungsbau, um die Lage zu verbessern."
+    },
+    {
+      "term": "das Angebot",
+      "translated_term": "supply",
+      "example_usage": "Die Nachfrage nach Wohnungen in Berlin ist sehr hoch, das Angebot jedoch zu gering."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Soziale Probleme",
+      "translated_name": "Social Problems"
+    },
+    {
+      "name": "Wohnungskrise",
+      "translated_name": "Housing Crisis"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Left Berlin: News from Berlin and Germany, 8 April 2026",
+      "link_url": "https://theleftberlin.com/news-from-berlin-and-germany-8th-april-2026/"
+    }
+  ]
+}
