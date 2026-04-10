@@ -1,0 +1,126 @@
+{
+  "title": "Israelische Angriffe auf den Libanon: Mehr als 300 Menschen getötet",
+  "translated_title": "Israeli attacks on Lebanon: More than 300 people killed",
+  "text": [
+    {
+      "text": "Nach dem Waffenstillstand zwischen den USA und dem Iran hat Israel massive Angriffe auf den Libanon gestartet.",
+      "translated_text": "After the ceasefire between the USA and Iran, Israel launched massive attacks on Lebanon."
+    },
+    {
+      "text": "Israel sagt, der Waffenstillstand zwischen den USA und dem Iran gelte nicht für seinen Krieg gegen die Hisbollah im Libanon.",
+      "translated_text": "Israel says the ceasefire between the USA and Iran does not apply to its war against Hezbollah in Lebanon."
+    },
+    {
+      "text": "Die Hisbollah ist eine militante Gruppe im Libanon, die vom Iran unterstützt wird.",
+      "translated_text": "Hezbollah is a militant group in Lebanon that is supported by Iran."
+    },
+    {
+      "text": "Am 8. April 2026 startete Israel einen der größten Angriffe seit Beginn des Krieges.",
+      "translated_text": "On April 8, 2026, Israel launched one of the largest attacks since the beginning of the war."
+    },
+    {
+      "text": "Innerhalb von zehn Minuten griff Israel mehr als 100 Ziele im Libanon an.",
+      "translated_text": "Within ten minutes, Israel attacked more than 100 targets in Lebanon."
+    },
+    {
+      "text": "Die Angriffe trafen viele Regionen: Beirut, das Bekaa-Tal, den Süden und den Norden des Landes.",
+      "translated_text": "The attacks hit many regions: Beirut, the Bekaa Valley, the south and the north of the country."
+    },
+    {
+      "text": "Mehr als 300 Menschen wurden getötet, mehr als 1.000 wurden verletzt.",
+      "translated_text": "More than 300 people were killed, more than 1,000 were injured."
+    },
+    {
+      "text": "In Beirut allein starben über 90 Menschen.",
+      "translated_text": "In Beirut alone, more than 90 people died."
+    },
+    {
+      "text": "Das war der schlimmste Tag im Libanon seit dem Beginn der großen Angriffe im März 2026.",
+      "translated_text": "It was the worst day in Lebanon since the beginning of the large attacks in March 2026."
+    },
+    {
+      "text": "Viele Menschen fliehen aus den bombardierten Gebieten.",
+      "translated_text": "Many people are fleeing from the bombed areas."
+    },
+    {
+      "text": "Amnesty International fordert den Schutz der Zivilbevölkerung.",
+      "translated_text": "Amnesty International calls for the protection of the civilian population."
+    },
+    {
+      "text": "Die Angriffe bedrohen auch den Waffenstillstand zwischen den USA und dem Iran.",
+      "translated_text": "The attacks also threaten the ceasefire between the USA and Iran."
+    },
+    {
+      "text": "Pakistan hatte erklärt, der Waffenstillstand umfasse auch den Libanon.",
+      "translated_text": "Pakistan had declared that the ceasefire also includes Lebanon."
+    },
+    {
+      "text": "Aber Israel und die USA sehen das anders.",
+      "translated_text": "But Israel and the USA see it differently."
+    },
+    {
+      "text": "Die Vereinten Nationen und viele Länder sind tief besorgt über die humanitäre Lage im Libanon.",
+      "translated_text": "The United Nations and many countries are deeply concerned about the humanitarian situation in Lebanon."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "massiv",
+      "translated_term": "massive",
+      "example_usage": "Israel hat massive Angriffe auf den Libanon gestartet."
+    },
+    {
+      "term": "das Ziel",
+      "translated_term": "target, goal",
+      "example_usage": "Innerhalb von zehn Minuten griff Israel mehr als 100 Ziele im Libanon an."
+    },
+    {
+      "term": "fliehen",
+      "translated_term": "to flee",
+      "example_usage": "Viele Menschen fliehen aus den bombardierten Gebieten."
+    },
+    {
+      "term": "die Zivilbevölkerung",
+      "translated_term": "civilian population",
+      "example_usage": "Amnesty International fordert den Schutz der Zivilbevölkerung."
+    },
+    {
+      "term": "bedrohen",
+      "translated_term": "to threaten",
+      "example_usage": "Die Angriffe bedrohen auch den Waffenstillstand zwischen den USA und dem Iran."
+    },
+    {
+      "term": "umfassen",
+      "translated_term": "to include, to encompass",
+      "example_usage": "Pakistan hatte erklärt, der Waffenstillstand umfasse auch den Libanon."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Libanon",
+      "translated_name": "Lebanon"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Humanitäre Krise",
+      "translated_name": "Humanitarian Crisis"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera – Israeli attacks across Lebanon kill at least 254 after Iran-US ceasefire",
+      "link_url": "https://www.aljazeera.com/news/2026/4/8/hundreds-of-casualties-across-lebanon-after-israel-says-it-hit-100-sites"
+    },
+    {
+      "name": "The National – More than 250 killed in Beirut 'massacre'",
+      "link_url": "https://www.thenationalnews.com/news/mena/2026/04/08/dozens-killed-in-beirut-massacre-as-israel-drops-100-bombs-in-10-minutes/"
+    },
+    {
+      "name": "Amnesty International – Lebanon: Urgent call to protect civilians",
+      "link_url": "https://www.amnesty.org/en/latest/news/2026/04/lebanon-urgent-call-to-protect-civilians-as-death-toll-mounts-following-brutal-escalation-in-israeli-attacks/"
+    }
+  ]
+}
