@@ -1,0 +1,122 @@
+{
+  "title": "VELOBerlin 2026: Großes Fahrradfestival am Flughafen Tempelhof",
+  "translated_title": "VELOBerlin 2026: Major Bicycle Festival at Tempelhof Airport",
+  "text": [
+    {
+      "text": "Am Wochenende vom 11. und 12. April 2026 fand in Berlin das Fahrradfestival VELOBerlin statt.",
+      "translated_text": "On the weekend of April 11 and 12, 2026, the bicycle festival VELOBerlin took place in Berlin."
+    },
+    {
+      "text": "Der Veranstaltungsort war das historische Flughafengelände Tempelhof im Herzen der Stadt.",
+      "translated_text": "The venue was the historic Tempelhof airport grounds in the heart of the city."
+    },
+    {
+      "text": "Das Festival öffnete täglich von 10 bis 18 Uhr seine Tore.",
+      "translated_text": "The festival opened its gates daily from 10 to 18 o'clock."
+    },
+    {
+      "text": "Über 270 Aussteller aus aller Welt präsentierten ihre Fahrräder und Mobilitätsprodukte.",
+      "translated_text": "Over 270 exhibitors from around the world presented their bicycles and mobility products."
+    },
+    {
+      "text": "Das Angebot war sehr vielfältig: Es gab E-Bikes, Mountainbikes, Rennräder, Lastenräder und Kinderräder.",
+      "translated_text": "The range was very diverse: there were e-bikes, mountain bikes, racing bikes, cargo bikes, and children's bikes."
+    },
+    {
+      "text": "Besucher konnten die Fahrräder auf fünf verschiedenen Teststrecken ausprobieren.",
+      "translated_text": "Visitors could try out the bicycles on five different test tracks."
+    },
+    {
+      "text": "Auf dem großen Flughafenfeld fanden auch spannende Rennen statt, zum Beispiel das Airfield Race.",
+      "translated_text": "On the large airport field, exciting races also took place, for example the Airfield Race."
+    },
+    {
+      "text": "Auf drei Bühnen gab es Vorträge und Diskussionen über die Zukunft des Radverkehrs.",
+      "translated_text": "On three stages there were talks and discussions about the future of cycling."
+    },
+    {
+      "text": "Auch das Bundesland Brandenburg war mit einem Stand vertreten.",
+      "translated_text": "The state of Brandenburg was also represented with a stand."
+    },
+    {
+      "text": "Die brandenburgischen Touristiker zeigten, wie schön es ist, die Region mit dem Fahrrad zu entdecken.",
+      "translated_text": "The Brandenburg tourism professionals showed how beautiful it is to explore the region by bicycle."
+    },
+    {
+      "text": "Das VELOBerlin ist eine der größten Fahrradmessen in Deutschland.",
+      "translated_text": "VELOBerlin is one of the largest bicycle fairs in Germany."
+    },
+    {
+      "text": "Berlin möchte in den nächsten Jahren noch fahrradfreundlicher werden.",
+      "translated_text": "Berlin wants to become even more bicycle-friendly in the coming years."
+    },
+    {
+      "text": "Der Eintritt kostete 15 Euro, für Kinder bis 14 Jahre war der Eintritt frei.",
+      "translated_text": "Admission cost 15 euros; for children up to 14 years old, admission was free."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Fahrradfestival",
+      "translated_term": "the bicycle festival",
+      "example_usage": "Am Wochenende fand in Berlin das Fahrradfestival VELOBerlin statt."
+    },
+    {
+      "term": "der Aussteller",
+      "translated_term": "the exhibitor",
+      "example_usage": "Über 270 Aussteller aus aller Welt präsentierten ihre Fahrräder und Mobilitätsprodukte."
+    },
+    {
+      "term": "die Teststrecke",
+      "translated_term": "the test track",
+      "example_usage": "Besucher konnten die Fahrräder auf fünf verschiedenen Teststrecken ausprobieren."
+    },
+    {
+      "term": "ausprobieren",
+      "translated_term": "to try out",
+      "example_usage": "Besucher konnten die Fahrräder auf fünf verschiedenen Teststrecken ausprobieren."
+    },
+    {
+      "term": "das Lastenrad",
+      "translated_term": "the cargo bike",
+      "example_usage": "Es gab E-Bikes, Mountainbikes, Rennräder, Lastenräder und Kinderräder."
+    },
+    {
+      "term": "der Radverkehr",
+      "translated_term": "the cycling / cycle traffic",
+      "example_usage": "Auf drei Bühnen gab es Vorträge und Diskussionen über die Zukunft des Radverkehrs."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Veranstaltungen",
+      "translated_name": "Events"
+    },
+    {
+      "name": "Mobilität",
+      "translated_name": "Mobility"
+    }
+  ],
+  "sources": [
+    {
+      "name": "VELOBerlin: Das Fahrradfestival",
+      "link_url": "https://veloberlin.com/en/"
+    },
+    {
+      "name": "Brandenburg live: Touristiker auf der Fahrradmesse Velo in Berlin am 11. und 12. April 2026",
+      "link_url": "https://www.brandenburg-live.com/blog-post/touristiker-auf-der-fahrradmesse-velo-in-berlin-am-11-und-12-april-2026/"
+    },
+    {
+      "name": "ADFC Berlin: 11. & 12. April 2026 – VELOBerlin",
+      "link_url": "https://berlin.adfc.de/artikel/veloberlin-2026"
+    }
+  ]
+}
