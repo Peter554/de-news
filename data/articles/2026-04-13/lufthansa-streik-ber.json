@@ -1,0 +1,124 @@
+{
+  "title": "Lufthansa-Piloten streiken: Hunderte Flüge in Deutschland gestrichen",
+  "translated_title": "Lufthansa pilots strike: Hundreds of flights cancelled in Germany",
+  "text": [
+    {
+      "text": "Am Montag, dem 13. April 2026, streiken die Piloten von Lufthansa und Eurowings.",
+      "translated_text": "On Monday, 13 April 2026, pilots from Lufthansa and Eurowings are on strike."
+    },
+    {
+      "text": "Die Pilotengewerkschaft Vereinigung Cockpit (VC) hat den zweitägigen Streik ausgerufen.",
+      "translated_text": "The pilots' union Vereinigung Cockpit (VC) called the two-day strike."
+    },
+    {
+      "text": "Der Streik dauert Montag und Dienstag, also den 13. und 14. April.",
+      "translated_text": "The strike lasts Monday and Tuesday, that is 13 and 14 April."
+    },
+    {
+      "text": "Grund für den Streik ist ein langer Streit um Gehälter und Renten.",
+      "translated_text": "The reason for the strike is a long dispute about salaries and pensions."
+    },
+    {
+      "text": "Es ist bereits der dritte Streik bei Lufthansa in diesem Monat.",
+      "translated_text": "It is already the third strike at Lufthansa this month."
+    },
+    {
+      "text": "Insgesamt wurden 178 Flüge gestrichen und 413 Flüge hatten Verspätungen.",
+      "translated_text": "In total, 178 flights were cancelled and 413 flights had delays."
+    },
+    {
+      "text": "Betroffen sind die großen deutschen Flughäfen: Berlin, Düsseldorf, Frankfurt, München und Hamburg.",
+      "translated_text": "The major German airports are affected: Berlin, Düsseldorf, Frankfurt, Munich and Hamburg."
+    },
+    {
+      "text": "Am Flughafen BER in Berlin gab es sechs Streichungen und 67 Verspätungen.",
+      "translated_text": "At BER airport in Berlin there were six cancellations and 67 delays."
+    },
+    {
+      "text": "Passagiere können ihre Flüge kostenlos umbuchen.",
+      "translated_text": "Passengers can rebook their flights free of charge."
+    },
+    {
+      "text": "Umbuchungen sind auf Flüge zwischen dem 11. und 21. April möglich.",
+      "translated_text": "Rebookings are possible on flights between 11 and 21 April."
+    },
+    {
+      "text": "Wer möchte, kann auch eine vollständige Rückerstattung des Ticketpreises beantragen.",
+      "translated_text": "Those who wish can also request a full refund of the ticket price."
+    },
+    {
+      "text": "Lufthansa und die Pilotengewerkschaft müssen weiter verhandeln, um den Streit zu beenden.",
+      "translated_text": "Lufthansa and the pilots' union must continue to negotiate to end the dispute."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "streiken",
+      "translated_term": "to strike",
+      "example_usage": "Am Montag, dem 13. April 2026, streiken die Piloten von Lufthansa und Eurowings."
+    },
+    {
+      "term": "die Pilotengewerkschaft",
+      "translated_term": "pilots' union",
+      "example_usage": "Die Pilotengewerkschaft Vereinigung Cockpit hat den zweitägigen Streik ausgerufen."
+    },
+    {
+      "term": "ausrufen",
+      "translated_term": "to call/declare",
+      "example_usage": "Die Pilotengewerkschaft hat den zweitägigen Streik ausgerufen."
+    },
+    {
+      "term": "der Streit",
+      "translated_term": "dispute",
+      "example_usage": "Grund für den Streik ist ein langer Streit um Gehälter und Renten."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel (a flight)",
+      "example_usage": "Insgesamt wurden 178 Flüge gestrichen."
+    },
+    {
+      "term": "die Verspätung",
+      "translated_term": "delay",
+      "example_usage": "413 Flüge hatten Verspätungen."
+    },
+    {
+      "term": "umbuchen",
+      "translated_term": "to rebook",
+      "example_usage": "Passagiere können ihre Flüge kostenlos umbuchen."
+    },
+    {
+      "term": "die Rückerstattung",
+      "translated_term": "refund",
+      "example_usage": "Wer möchte, kann auch eine vollständige Rückerstattung des Ticketpreises beantragen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews: German pilots' union calls for two-day Lufthansa strike",
+      "link_url": "https://www.euronews.com/travel/2026/04/12/german-pilots-union-calls-for-two-day-lufthansa-strike-action-on-monday-and-tuesday"
+    },
+    {
+      "name": "Simple Flying: Third Strike In A Month – Lufthansa Pilots To Walk Out For 48 Hours",
+      "link_url": "https://simpleflying.com/lufthansa-pilot-strike-april-2026/"
+    },
+    {
+      "name": "The Local: Pilots at Germany's Lufthansa to stage two-day strike",
+      "link_url": "https://www.thelocal.de/20260412/pilots-at-germanys-lufthansa-to-stage-two-day-strike-2"
+    }
+  ]
+}
