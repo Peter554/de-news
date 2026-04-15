@@ -1,0 +1,102 @@
+{
+  "title": "USA blockieren iranische Häfen: Ölpreise steigen auf fast 100 Dollar",
+  "translated_title": "USA blockades Iranian ports: Oil prices rise to almost 100 dollars",
+  "text": [
+    {
+      "text": "Die USA haben eine Seeblockade gegen den Iran verhängt.",
+      "translated_text": "The USA has imposed a naval blockade against Iran."
+    },
+    {
+      "text": "Seit dem 14. April 2026 darf kein Schiff mehr in iranische Häfen einfahren oder diese verlassen.",
+      "translated_text": "Since April 14, 2026, no ship may enter or leave Iranian ports."
+    },
+    {
+      "text": "Die amerikanische Marine kontrolliert die Straße von Hormus, eine wichtige Wasserstraße im Persischen Golf.",
+      "translated_text": "The American navy is controlling the Strait of Hormuz, an important waterway in the Persian Gulf."
+    },
+    {
+      "text": "Laut dem US-Verteidigungsministerium kehrte kein einziges Schiff in der ersten Nacht der Blockade um.",
+      "translated_text": "According to the US Department of Defense, not a single ship turned around on the first night of the blockade."
+    },
+    {
+      "text": "Der Iran bezeichnet die Blockade als 'Piraterie' und fordert ein Ende der Maßnahme.",
+      "translated_text": "Iran calls the blockade 'piracy' and demands an end to the measure."
+    },
+    {
+      "text": "In Teheran gingen Tausende Menschen auf die Straße, um gegen die USA zu protestieren.",
+      "translated_text": "Thousands of people took to the streets in Tehran to protest against the USA."
+    },
+    {
+      "text": "China kritisierte die Blockade als 'gefährlich und unverantwortlich'.",
+      "translated_text": "China criticised the blockade as 'dangerous and irresponsible'."
+    },
+    {
+      "text": "Die Spannungen entstanden, weil Friedensgespräche zwischen den USA und dem Iran in Pakistan gescheitert waren.",
+      "translated_text": "The tensions arose because peace talks between the USA and Iran in Pakistan had failed."
+    },
+    {
+      "text": "Der Ölpreis ist seit Beginn des Konflikts um etwa 40 Prozent gestiegen und liegt jetzt bei fast 100 Dollar pro Barrel.",
+      "translated_text": "The oil price has risen by around 40 percent since the start of the conflict and is now close to 100 dollars per barrel."
+    },
+    {
+      "text": "Präsident Trump sagte, er sei offen für neue Gespräche, wenn der Iran seine Bedingungen akzeptiere.",
+      "translated_text": "President Trump said he was open to new talks if Iran accepted his conditions."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Seeblockade",
+      "translated_term": "naval blockade",
+      "example_usage": "Die USA haben eine Seeblockade gegen den Iran verhängt."
+    },
+    {
+      "term": "verhängen",
+      "translated_term": "to impose",
+      "example_usage": "Die USA haben eine Seeblockade gegen den Iran verhängt."
+    },
+    {
+      "term": "die Wasserstraße",
+      "translated_term": "waterway",
+      "example_usage": "Die amerikanische Marine kontrolliert die Straße von Hormus, eine wichtige Wasserstraße im Persischen Golf."
+    },
+    {
+      "term": "die Piraterie",
+      "translated_term": "piracy",
+      "example_usage": "Der Iran bezeichnet die Blockade als 'Piraterie'."
+    },
+    {
+      "term": "scheitern",
+      "translated_term": "to fail",
+      "example_usage": "Die Spannungen entstanden, weil Friedensgespräche zwischen den USA und dem Iran in Pakistan gescheitert waren."
+    },
+    {
+      "term": "das Barrel",
+      "translated_term": "barrel",
+      "example_usage": "Der Ölpreis liegt jetzt bei fast 100 Dollar pro Barrel."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR: U.S. military blockades Iranian ports",
+      "link_url": "https://www.npr.org/2026/04/12/nx-s1-5782538/u-s-iran-peace-talks-islamabad-collapse"
+    },
+    {
+      "name": "Al Jazeera: No ships make it past US blockade in Hormuz strait",
+      "link_url": "https://www.aljazeera.com/news/2026/4/14/no-ships-make-it-past-us-blockade-in-hormuz-strait-in-first-day-pentagon"
+    }
+  ]
+}
