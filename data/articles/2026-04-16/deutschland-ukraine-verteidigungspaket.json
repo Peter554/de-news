@@ -1,0 +1,118 @@
+{
+  "title": "Deutschland und Ukraine unterzeichnen Verteidigungspaket über vier Milliarden Euro",
+  "translated_title": "Germany and Ukraine Sign Defence Package Worth Four Billion Euros",
+  "text": [
+    {
+      "text": "Deutschland und die Ukraine haben am 14. April 2026 ein wichtiges Abkommen unterzeichnet.",
+      "translated_text": "Germany and Ukraine signed an important agreement on 14 April 2026."
+    },
+    {
+      "text": "Das Verteidigungspaket hat einen Wert von vier Milliarden Euro.",
+      "translated_text": "The defence package is worth four billion euros."
+    },
+    {
+      "text": "Es ist eines der größten Rüstungsabkommen, die Deutschland je mit der Ukraine geschlossen hat.",
+      "translated_text": "It is one of the largest arms agreements that Germany has ever concluded with Ukraine."
+    },
+    {
+      "text": "Ein großer Teil des Geldes, nämlich 3,2 Milliarden Euro, wird für Patriot-Raketen verwendet.",
+      "translated_text": "A large part of the money, namely 3.2 billion euros, will be used for Patriot missiles."
+    },
+    {
+      "text": "Die Patriot-Raketen sind ein wichtiges Luftabwehrsystem.",
+      "translated_text": "The Patriot missiles are an important air defence system."
+    },
+    {
+      "text": "Außerdem liefert Deutschland 36 Abschussrampen für das IRIS-T-Luftabwehrsystem.",
+      "translated_text": "In addition, Germany will deliver 36 launch units for the IRIS-T air defence system."
+    },
+    {
+      "text": "Die Kosten dafür betragen etwa 182 Millionen Euro.",
+      "translated_text": "The cost of this amounts to approximately 182 million euros."
+    },
+    {
+      "text": "300 Millionen Euro werden für die Entwicklung von Langstreckenwaffen ausgegeben.",
+      "translated_text": "300 million euros will be spent on the development of long-range weapons."
+    },
+    {
+      "text": "Beide Länder wollen auch gemeinsam Drohnen produzieren, die mit künstlicher Intelligenz ausgestattet sind.",
+      "translated_text": "Both countries also want to jointly produce drones equipped with artificial intelligence."
+    },
+    {
+      "text": "Das Abkommen zeigt, dass Deutschland die Ukraine weiterhin stark unterstützt.",
+      "translated_text": "The agreement shows that Germany continues to strongly support Ukraine."
+    },
+    {
+      "text": "Bundeskanzler Friedrich Merz betonte, dass Deutschland für den Frieden in Europa arbeite.",
+      "translated_text": "Federal Chancellor Friedrich Merz emphasised that Germany was working for peace in Europe."
+    },
+    {
+      "text": "Gleichzeitig wurde auch ein Abkommen über den Wiederaufbau der Ukraine unterzeichnet.",
+      "translated_text": "At the same time, an agreement on the reconstruction of Ukraine was also signed."
+    },
+    {
+      "text": "Der Ukraine-Krieg dauert seit dem russischen Einmarsch im Februar 2022 an.",
+      "translated_text": "The Ukraine war has been ongoing since the Russian invasion in February 2022."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Abkommen",
+      "translated_term": "the agreement",
+      "example_usage": "Deutschland und die Ukraine haben am 14. April 2026 ein wichtiges Abkommen unterzeichnet."
+    },
+    {
+      "term": "das Verteidigungspaket",
+      "translated_term": "the defence package",
+      "example_usage": "Das Verteidigungspaket hat einen Wert von vier Milliarden Euro."
+    },
+    {
+      "term": "die Luftabwehr",
+      "translated_term": "the air defence",
+      "example_usage": "Die Patriot-Raketen sind ein wichtiges Luftabwehrsystem."
+    },
+    {
+      "term": "die Abschussrampe",
+      "translated_term": "the launch unit / the launcher",
+      "example_usage": "Deutschland liefert 36 Abschussrampen für das IRIS-T-Luftabwehrsystem."
+    },
+    {
+      "term": "unterzeichnen",
+      "translated_term": "to sign",
+      "example_usage": "Deutschland und die Ukraine haben am 14. April 2026 ein wichtiges Abkommen unterzeichnet."
+    },
+    {
+      "term": "der Wiederaufbau",
+      "translated_term": "the reconstruction / the rebuilding",
+      "example_usage": "Gleichzeitig wurde auch ein Abkommen über den Wiederaufbau der Ukraine unterzeichnet."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Kyiv Post: Ukraine, Germany Agree €4B Defense Package Including Patriot Missiles, Drone Production",
+      "link_url": "https://www.kyivpost.com/post/73930"
+    },
+    {
+      "name": "Ukrainian Cabinet of Ministers: Hundreds of Patriot missiles, EUR 300 million for deep strike capabilities",
+      "link_url": "https://www.kmu.gov.ua/en/news/sotni-raket-dlia-patriot-300-mln-na-deep-strike-ta-tysiachi-mid-strike-droniv-ukraina-i-nimechchyna-uklaly-paket-oboronnykh-uhod"
+    }
+  ]
+}

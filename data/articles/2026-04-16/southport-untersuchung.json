@@ -1,0 +1,126 @@
+{
+  "title": "Southport-Untersuchung: Der Messerangriff hätte verhindert werden können",
+  "translated_title": "Southport Inquiry: The Knife Attack Could Have Been Prevented",
+  "text": [
+    {
+      "text": "Im Juli 2024 griff ein Mann in der englischen Stadt Southport Kinder an, die an einem Tanzkurs teilnahmen.",
+      "translated_text": "In July 2024, a man attacked children who were attending a dance class in the English town of Southport."
+    },
+    {
+      "text": "Drei Mädchen wurden getötet und viele weitere Kinder wurden verletzt.",
+      "translated_text": "Three girls were killed and many other children were injured."
+    },
+    {
+      "text": "Der Angreifer hieß Axel Rudakubana.",
+      "translated_text": "The attacker was called Axel Rudakubana."
+    },
+    {
+      "text": "Am 13. April 2026 veröffentlichte eine offizielle Untersuchungskommission ihren Bericht.",
+      "translated_text": "On 13 April 2026, an official inquiry commission published its report."
+    },
+    {
+      "text": "Der Vorsitzende der Kommission, Sir Adrian Fulford, sagte, der Angriff sei vorhersehbar und vermeidbar gewesen.",
+      "translated_text": "The chairman of the commission, Sir Adrian Fulford, said the attack was foreseeable and avoidable."
+    },
+    {
+      "text": "Die Kommission fand fünf große Fehler, die zum Angriff geführt haben.",
+      "translated_text": "The commission found five major failures that led to the attack."
+    },
+    {
+      "text": "Erstens hat keine Behörde die Verantwortung für den gefährlichen Mann übernommen.",
+      "translated_text": "Firstly, no authority took responsibility for the dangerous man."
+    },
+    {
+      "text": "Zweitens wurden wichtige Informationen zwischen verschiedenen Behörden nicht weitergegeben.",
+      "translated_text": "Secondly, important information was not passed on between the various authorities."
+    },
+    {
+      "text": "Drittens deuteten Behörden sein gefährliches Verhalten falsch – sie schrieben es seiner Autismus-Diagnose zu.",
+      "translated_text": "Thirdly, authorities misinterpreted his dangerous behaviour – they attributed it to his autism diagnosis."
+    },
+    {
+      "text": "Viertens hat niemand seine Aktivitäten im Internet untersucht, obwohl er dort extreme Inhalte ansah.",
+      "translated_text": "Fourthly, nobody investigated his internet activities, even though he was viewing extreme content there."
+    },
+    {
+      "text": "Fünftens haben seine Eltern nicht eingegriffen, obwohl sie Warnsignale gesehen haben.",
+      "translated_text": "Fifthly, his parents did not intervene, even though they had seen warning signs."
+    },
+    {
+      "text": "Der Bericht enthält 67 Empfehlungen, um solche Angriffe in der Zukunft zu verhindern.",
+      "translated_text": "The report contains 67 recommendations to prevent such attacks in the future."
+    },
+    {
+      "text": "Die Familien der Opfer fordern jetzt Reformen im Gesundheits- und Sozialsystem.",
+      "translated_text": "The families of the victims are now calling for reforms in the health and social care system."
+    },
+    {
+      "text": "Die britische Regierung versprach, die Empfehlungen der Kommission ernst zu nehmen.",
+      "translated_text": "The British government promised to take the commission's recommendations seriously."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Messerangriff",
+      "translated_term": "the knife attack",
+      "example_usage": "Im Juli 2024 griff ein Mann in der englischen Stadt Southport Kinder an."
+    },
+    {
+      "term": "vermeidbar",
+      "translated_term": "avoidable / preventable",
+      "example_usage": "Sir Adrian Fulford sagte, der Angriff sei vorhersehbar und vermeidbar gewesen."
+    },
+    {
+      "term": "die Untersuchungskommission",
+      "translated_term": "the inquiry commission",
+      "example_usage": "Am 13. April 2026 veröffentlichte eine offizielle Untersuchungskommission ihren Bericht."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "the authority / the agency",
+      "example_usage": "Keine Behörde hat die Verantwortung für den gefährlichen Mann übernommen."
+    },
+    {
+      "term": "weitergeben",
+      "translated_term": "to pass on / to share",
+      "example_usage": "Wichtige Informationen wurden zwischen verschiedenen Behörden nicht weitergegeben."
+    },
+    {
+      "term": "die Empfehlung",
+      "translated_term": "the recommendation",
+      "example_usage": "Der Bericht enthält 67 Empfehlungen, um solche Angriffe in der Zukunft zu verhindern."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Kriminalität",
+      "translated_name": "Crime"
+    },
+    {
+      "name": "Justiz",
+      "translated_name": "Justice"
+    },
+    {
+      "name": "Britische Politik",
+      "translated_name": "British Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "GOV.UK: The Southport Inquiry – Phase 1 report",
+      "link_url": "https://www.gov.uk/government/speeches/the-southport-inquiry-phase-1-report"
+    },
+    {
+      "name": "Southport Public Inquiry: Report",
+      "link_url": "https://www.southport.public-inquiry.uk/report/"
+    },
+    {
+      "name": "Radio NewsHub: Southport families urge reform as inquiry finds attack could have been prevented",
+      "link_url": "https://www.radionewshub.com/articles/news-updates/Southport-families-urge-reform-as-inquiry-finds-attack-could-have-been-prevented"
+    }
+  ]
+}

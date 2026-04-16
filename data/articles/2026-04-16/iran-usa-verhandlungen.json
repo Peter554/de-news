@@ -1,0 +1,130 @@
+{
+  "title": "USA und Iran suchen nach Einigung: Waffenstillstand läuft bald ab",
+  "translated_title": "USA and Iran Seek Agreement: Ceasefire Expiring Soon",
+  "text": [
+    {
+      "text": "Die USA und der Iran befinden sich in schwierigen Verhandlungen über einen Frieden.",
+      "translated_text": "The USA and Iran are in difficult negotiations about a peace deal."
+    },
+    {
+      "text": "Seit fast sechs Wochen kämpfen die USA zusammen mit Israel gegen den Iran.",
+      "translated_text": "For nearly six weeks, the USA together with Israel has been fighting against Iran."
+    },
+    {
+      "text": "Bei den Kämpfen sind mehr als 4.000 Menschen gestorben.",
+      "translated_text": "More than 4,000 people have been killed in the fighting."
+    },
+    {
+      "text": "Anfang April wurde ein zweiwöchiger Waffenstillstand vereinbart.",
+      "translated_text": "At the beginning of April, a two-week ceasefire was agreed."
+    },
+    {
+      "text": "Dieser Waffenstillstand läuft am 22. April ab.",
+      "translated_text": "This ceasefire expires on 22 April."
+    },
+    {
+      "text": "Am 11. und 12. April fanden die ersten offiziellen Gespräche in der pakistanischen Hauptstadt Islamabad statt.",
+      "translated_text": "On 11 and 12 April, the first official talks took place in the Pakistani capital Islamabad."
+    },
+    {
+      "text": "Die Gespräche dauerten mehr als 20 Stunden, aber es gab keine Einigung.",
+      "translated_text": "The talks lasted more than 20 hours, but there was no agreement."
+    },
+    {
+      "text": "Pakistan spielt eine wichtige Rolle als Vermittler zwischen den USA und dem Iran.",
+      "translated_text": "Pakistan plays an important role as a mediator between the USA and Iran."
+    },
+    {
+      "text": "Pakistans Armeechef Asim Munir reiste nach Teheran, um neue Gespräche vorzubereiten.",
+      "translated_text": "Pakistan's army chief Asim Munir travelled to Tehran to prepare for new talks."
+    },
+    {
+      "text": "Die USA werden von Vizepräsident JD Vance vertreten.",
+      "translated_text": "The USA is represented by Vice President JD Vance."
+    },
+    {
+      "text": "Der Hauptstreitpunkt ist das iranische Atomprogramm.",
+      "translated_text": "The main point of contention is Iran's nuclear programme."
+    },
+    {
+      "text": "Die USA fordern, dass der Iran sein Uran nicht mehr anreichert.",
+      "translated_text": "The USA demands that Iran stop enriching uranium."
+    },
+    {
+      "text": "Der Iran sagt, sein Atomprogramm diene friedlichen Zwecken.",
+      "translated_text": "Iran says its nuclear programme serves peaceful purposes."
+    },
+    {
+      "text": "Ein weiteres wichtiges Thema ist die Kontrolle über die Straße von Hormus, durch die viel Öl transportiert wird.",
+      "translated_text": "Another important topic is control over the Strait of Hormuz, through which a lot of oil is transported."
+    },
+    {
+      "text": "Das Weiße Haus zeigte sich vorsichtig optimistisch und sagte, man sehe gute Chancen für eine Einigung.",
+      "translated_text": "The White House was cautiously optimistic and said it saw good prospects for an agreement."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Anfang April wurde ein zweiwöchiger Waffenstillstand vereinbart."
+    },
+    {
+      "term": "die Verhandlungen",
+      "translated_term": "the negotiations",
+      "example_usage": "Die USA und der Iran befinden sich in schwierigen Verhandlungen über einen Frieden."
+    },
+    {
+      "term": "der Vermittler",
+      "translated_term": "the mediator",
+      "example_usage": "Pakistan spielt eine wichtige Rolle als Vermittler zwischen den USA und dem Iran."
+    },
+    {
+      "term": "der Streitpunkt",
+      "translated_term": "the point of contention / the sticking point",
+      "example_usage": "Der Hauptstreitpunkt ist das iranische Atomprogramm."
+    },
+    {
+      "term": "anreichern",
+      "translated_term": "to enrich",
+      "example_usage": "Die USA fordern, dass der Iran sein Uran nicht mehr anreichert."
+    },
+    {
+      "term": "vereinbaren",
+      "translated_term": "to agree / to arrange",
+      "example_usage": "Anfang April wurde ein zweiwöchiger Waffenstillstand vereinbart."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: US-Iran talks – what's the latest on mediation efforts?",
+      "link_url": "https://www.aljazeera.com/news/2026/4/15/us-iran-talks-whats-the-latest-on-mediation-efforts"
+    },
+    {
+      "name": "CNN: White House optimistic about Iran deal as key Pakistani negotiator visits Tehran",
+      "link_url": "https://www.cnn.com/2026/04/15/world/live-news/iran-war-blockade-us-trump"
+    },
+    {
+      "name": "Axios: Mediators rush to revive U.S.-Iran nuclear talks before ceasefire expires",
+      "link_url": "https://www.axios.com/2026/04/13/us-iran-nuclear-talks-ceasefire-deal"
+    }
+  ]
+}
