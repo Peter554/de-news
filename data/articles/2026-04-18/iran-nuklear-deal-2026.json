@@ -1,0 +1,131 @@
+{
+  "title": "Hoffnung auf Frieden: USA und Iran nähern sich einem Atomabkommen",
+  "translated_title": "Hope for Peace: USA and Iran Draw Closer to a Nuclear Deal",
+  "text": [
+    {
+      "text": "Zwischen den USA und dem Iran gibt es neue Hoffnung auf Frieden.",
+      "translated_text": "There is new hope for peace between the USA and Iran."
+    },
+    {
+      "text": "US-Präsident Donald Trump sagte, der Iran habe zugestimmt, sein Atomprogramm auf unbestimmte Zeit auszusetzen.",
+      "translated_text": "US President Donald Trump said Iran had agreed to suspend its nuclear programme indefinitely."
+    },
+    {
+      "text": "Dies ist ein wichtiger Schritt in Richtung eines dauerhaften Friedensabkommens.",
+      "translated_text": "This is an important step towards a lasting peace agreement."
+    },
+    {
+      "text": "Seit Anfang April gibt es eine zweiwöchige Waffenruhe zwischen den USA und dem Iran.",
+      "translated_text": "Since the beginning of April there has been a two-week ceasefire between the USA and Iran."
+    },
+    {
+      "text": "Die Waffenruhe galt als Bedingung dafür, dass der Iran die Straße von Hormus wieder öffnet.",
+      "translated_text": "The ceasefire was a condition for Iran to reopen the Strait of Hormuz."
+    },
+    {
+      "text": "Die Straße von Hormus ist sehr wichtig für den weltweiten Öltransport.",
+      "translated_text": "The Strait of Hormuz is very important for global oil transport."
+    },
+    {
+      "text": "Der Iran erklärte am Freitag, dass die Meerenge wieder vollständig geöffnet sei.",
+      "translated_text": "Iran announced on Friday that the strait was fully open again."
+    },
+    {
+      "text": "Trump sagte jedoch, die US-Blockade bleibe bestehen, bis ein endgültiges Abkommen unterzeichnet sei.",
+      "translated_text": "Trump said, however, that the US blockade would remain in place until a final agreement was signed."
+    },
+    {
+      "text": "Pakistan vermittelt in den Verhandlungen zwischen den beiden Ländern.",
+      "translated_text": "Pakistan is mediating in the negotiations between the two countries."
+    },
+    {
+      "text": "Es gibt aber noch einige wichtige Streitpunkte.",
+      "translated_text": "There are still some important points of dispute."
+    },
+    {
+      "text": "Der Iran lehnt es ab, sein angereichertes Uran an die USA zu übergeben.",
+      "translated_text": "Iran refuses to hand over its enriched uranium to the USA."
+    },
+    {
+      "text": "Ein iranischer Regierungssprecher sagte, das Uran werde unter keinen Umständen transferiert.",
+      "translated_text": "An Iranian government spokesperson said the uranium would not be transferred under any circumstances."
+    },
+    {
+      "text": "Trump räumte ein, dass es noch einige Unterschiede geben könnte.",
+      "translated_text": "Trump admitted that there might still be some differences."
+    },
+    {
+      "text": "Er zeigte sich aber grundsätzlich optimistisch und sagte: \"Ich glaube nicht, dass es noch viele bedeutende Unterschiede gibt.\"",
+      "translated_text": "But he was broadly optimistic, saying: \"I don't think there are many significant differences left.\""
+    },
+    {
+      "text": "Die ganze Welt beobachtet die Verhandlungen genau, da ein Scheitern schwere Folgen für die Weltwirtschaft hätte.",
+      "translated_text": "The whole world is watching the negotiations closely, as a failure would have severe consequences for the global economy."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Atomprogramm",
+      "translated_term": "the nuclear programme",
+      "example_usage": "Der Iran habe zugestimmt, sein Atomprogramm auf unbestimmte Zeit auszusetzen."
+    },
+    {
+      "term": "die Waffenruhe",
+      "translated_term": "the ceasefire",
+      "example_usage": "Seit Anfang April gibt es eine zweiwöchige Waffenruhe zwischen den USA und dem Iran."
+    },
+    {
+      "term": "die Straße von Hormus",
+      "translated_term": "the Strait of Hormuz",
+      "example_usage": "Die Straße von Hormus ist sehr wichtig für den weltweiten Öltransport."
+    },
+    {
+      "term": "aussetzen",
+      "translated_term": "to suspend / to pause",
+      "example_usage": "Der Iran habe zugestimmt, sein Atomprogramm auf unbestimmte Zeit auszusetzen."
+    },
+    {
+      "term": "vermitteln",
+      "translated_term": "to mediate",
+      "example_usage": "Pakistan vermittelt in den Verhandlungen zwischen den beiden Ländern."
+    },
+    {
+      "term": "das Abkommen",
+      "translated_term": "the agreement / deal",
+      "example_usage": "Die US-Blockade bleibe bestehen, bis ein endgültiges Abkommen unterzeichnet sei."
+    },
+    {
+      "term": "angereichert",
+      "translated_term": "enriched",
+      "example_usage": "Der Iran lehnt es ab, sein angereichertes Uran an die USA zu übergeben."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg: Trump Says Iran Will Suspend Nuclear Program as Hormuz Opens",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-04-17/trump-says-iran-to-suspend-nuclear-program-won-t-get-funds"
+    },
+    {
+      "name": "Al Jazeera: Can Pakistan secure Iran-US nuclear compromise, as Trump says deal 'close'?",
+      "link_url": "https://www.aljazeera.com/news/2026/4/17/can-pakistan-secure-iran-us-nuclear-compromise-as-trump-says-deal"
+    },
+    {
+      "name": "Axios: U.S. considers $20 billion cash-for-uranium deal with Iran",
+      "link_url": "https://www.axios.com/2026/04/17/iran-us-deal-20-billion-frozen-funds-uranium"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Deutschland und Ukraine unterzeichnen großes Verteidigungsabkommen",
+  "translated_title": "Germany and Ukraine Sign Major Defence Agreement",
+  "text": [
+    {
+      "text": "Deutschland und die Ukraine haben ein bedeutendes Verteidigungsabkommen unterzeichnet.",
+      "translated_text": "Germany and Ukraine have signed a significant defence agreement."
+    },
+    {
+      "text": "Der ukrainische Präsident Wolodymyr Selenskyj besuchte dafür Mitte April Berlin.",
+      "translated_text": "Ukrainian President Volodymyr Zelenskyy visited Berlin for this purpose in mid-April."
+    },
+    {
+      "text": "Bei dem Treffen mit Bundeskanzler Friedrich Merz wurden beide Länder zu strategischen Partnern.",
+      "translated_text": "At the meeting with Federal Chancellor Friedrich Merz, the two countries became strategic partners."
+    },
+    {
+      "text": "Das neue Hilfspaket hat einen Wert von vier Milliarden Euro.",
+      "translated_text": "The new aid package has a value of four billion euros."
+    },
+    {
+      "text": "Deutschland finanziert damit den Kauf von mehreren Hundert Patriot-Raketen für die Ukraine.",
+      "translated_text": "Germany is thereby financing the purchase of several hundred Patriot missiles for Ukraine."
+    },
+    {
+      "text": "Die Patriot-Raketen sind ein wichtiges Luftverteidigungssystem.",
+      "translated_text": "The Patriot missiles are an important air defence system."
+    },
+    {
+      "text": "Außerdem finanziert Deutschland 36 neue Startrampen für das IRIS-T-Luftabwehrsystem.",
+      "translated_text": "In addition, Germany is financing 36 new launchers for the IRIS-T air defence system."
+    },
+    {
+      "text": "Deutschland bekommt dafür besondere Rechte: Es darf Kampfdaten seiner eigenen Waffen aus der Ukraine analysieren.",
+      "translated_text": "Germany receives special rights in return: it may analyse combat data from its own weapons used in Ukraine."
+    },
+    {
+      "text": "Diese Daten helfen der deutschen Rüstungsindustrie, ihre Produkte zu verbessern.",
+      "translated_text": "This data helps the German defence industry to improve its products."
+    },
+    {
+      "text": "Merz betonte, dass Deutschland der wichtigste Partner der Ukraine im Jahr 2026 sei.",
+      "translated_text": "Merz emphasised that Germany was Ukraine's most important partner in 2026."
+    },
+    {
+      "text": "Er lobte die beispiellose Unterstützung, die Deutschland der Ukraine bisher gegeben hat.",
+      "translated_text": "He praised the unprecedented support that Germany had given Ukraine so far."
+    },
+    {
+      "text": "Beim Thema Taurus-Marschflugkörper hielt Merz jedoch seine bisherige Meinung aufrecht.",
+      "translated_text": "On the topic of Taurus cruise missiles, however, Merz maintained his previous position."
+    },
+    {
+      "text": "Er sieht keinen Bedarf mehr, diese Langstreckenwaffen an die Ukraine zu liefern.",
+      "translated_text": "He no longer sees a need to supply these long-range weapons to Ukraine."
+    },
+    {
+      "text": "Die Ukraine hat inzwischen eigene Drohnentechnologie entwickelt, die ähnliche Aufgaben erfüllen kann.",
+      "translated_text": "Ukraine has since developed its own drone technology that can fulfil similar tasks."
+    },
+    {
+      "text": "Das Abkommen zeigt, dass Deutschland weiterhin fest an der Seite der Ukraine steht.",
+      "translated_text": "The agreement shows that Germany continues to stand firmly by Ukraine's side."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Verteidigungsabkommen",
+      "translated_term": "the defence agreement",
+      "example_usage": "Deutschland und die Ukraine haben ein bedeutendes Verteidigungsabkommen unterzeichnet."
+    },
+    {
+      "term": "die Luftverteidigung",
+      "translated_term": "the air defence",
+      "example_usage": "Die Patriot-Raketen sind ein wichtiges Luftverteidigungssystem."
+    },
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "the Federal Chancellor",
+      "example_usage": "Bei dem Treffen mit Bundeskanzler Friedrich Merz wurden beide Länder zu strategischen Partnern."
+    },
+    {
+      "term": "finanzieren",
+      "translated_term": "to finance",
+      "example_usage": "Deutschland finanziert damit den Kauf von mehreren Hundert Patriot-Raketen für die Ukraine."
+    },
+    {
+      "term": "der Marschflugkörper",
+      "translated_term": "the cruise missile",
+      "example_usage": "Beim Thema Taurus-Marschflugkörper hielt Merz jedoch seine bisherige Meinung aufrecht."
+    },
+    {
+      "term": "betonen",
+      "translated_term": "to emphasise",
+      "example_usage": "Merz betonte, dass Deutschland der wichtigste Partner der Ukraine im Jahr 2026 sei."
+    },
+    {
+      "term": "die Rüstungsindustrie",
+      "translated_term": "the defence industry",
+      "example_usage": "Diese Daten helfen der deutschen Rüstungsindustrie, ihre Produkte zu verbessern."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Kyiv Independent: Germany, Ukraine elevate ties to strategic partnership with new defense deal",
+      "link_url": "https://kyivindependent.com/germany-ukraine-elevate-ties-to-strategic-partnership/"
+    },
+    {
+      "name": "Euromaidan Press: Zelenskyy in Berlin: Germany pledges air defense, long-range weapons and ammunition",
+      "link_url": "https://euromaidanpress.com/2026/04/14/401439/"
+    },
+    {
+      "name": "Defense News: Berlin gets a front-row seat to German weapons' performance in Ukraine",
+      "link_url": "https://www.defensenews.com/global/europe/2026/04/15/berlin-gets-a-front-row-seat-to-german-weapons-performance-in-ukraine/"
+    }
+  ]
+}
