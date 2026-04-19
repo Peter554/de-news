@@ -1,0 +1,134 @@
+{
+  "title": "Der rbb plant den größten Umbau in seiner Geschichte",
+  "translated_title": "rbb plans the biggest restructuring in its history",
+  "text": [
+    {
+      "text": "Der Rundfunk Berlin-Brandenburg, bekannt als rbb, plant große Veränderungen.",
+      "translated_text": "The Rundfunk Berlin-Brandenburg, known as rbb, is planning major changes."
+    },
+    {
+      "text": "Es ist die umfangreichste Reform seit der Gründung des Senders.",
+      "translated_text": "It is the most comprehensive reform since the broadcaster was founded."
+    },
+    {
+      "text": "Die neue Intendantin Ulrike Demmer führt diesen Umbau an.",
+      "translated_text": "The new Director General Ulrike Demmer is leading this restructuring."
+    },
+    {
+      "text": "Der rbb hatte in den letzten Jahren viele Probleme.",
+      "translated_text": "The rbb has had many problems in recent years."
+    },
+    {
+      "text": "Es gab einen großen Skandal und danach finanzielle Schwierigkeiten.",
+      "translated_text": "There was a major scandal and then financial difficulties."
+    },
+    {
+      "text": "Jetzt soll der Sender schlanker, schneller und besser werden.",
+      "translated_text": "Now the broadcaster is supposed to become leaner, faster and better."
+    },
+    {
+      "text": "Eine wichtige Änderung betrifft die Führungsstruktur.",
+      "translated_text": "An important change concerns the management structure."
+    },
+    {
+      "text": "Die zweite Leitungsebene wird von zwölf auf sieben Bereiche reduziert.",
+      "translated_text": "The second management level is being reduced from twelve to seven areas."
+    },
+    {
+      "text": "Das soll Entscheidungen schneller und einfacher machen.",
+      "translated_text": "This is intended to make decisions faster and easier."
+    },
+    {
+      "text": "Es gibt auch neue Menschen in wichtigen Positionen.",
+      "translated_text": "There are also new people in important positions."
+    },
+    {
+      "text": "Georg Heil wird der neue Chefredakteur des rbb.",
+      "translated_text": "Georg Heil becomes the new Editor-in-Chief of rbb."
+    },
+    {
+      "text": "Er kommt vom ARD-Politikmagazin Kontraste.",
+      "translated_text": "He comes from the ARD political magazine Kontraste."
+    },
+    {
+      "text": "Jana Cebulla übernimmt die Programmleitung.",
+      "translated_text": "Jana Cebulla takes over programme management."
+    },
+    {
+      "text": "Sie kommt vom Mitteldeutschen Rundfunk, kurz MDR.",
+      "translated_text": "She comes from Mitteldeutscher Rundfunk, or MDR for short."
+    },
+    {
+      "text": "Das Ziel der Reform ist ein besseres Programm für die Menschen in Berlin und Brandenburg.",
+      "translated_text": "The aim of the reform is better programming for the people in Berlin and Brandenburg."
+    },
+    {
+      "text": "Außerdem soll die Reform mittelfristig Geld sparen.",
+      "translated_text": "In addition, the reform is intended to save money in the medium term."
+    },
+    {
+      "text": "Die Mitarbeiterinnen und Mitarbeiter sowie die Zuschauerinnen und Zuschauer beobachten die Veränderungen mit Interesse.",
+      "translated_text": "Employees and viewers alike are following the changes with interest."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Intendantin",
+      "translated_term": "the director general (female)",
+      "example_usage": "Die neue Intendantin Ulrike Demmer führt diesen Umbau an."
+    },
+    {
+      "term": "der Umbau",
+      "translated_term": "the restructuring / reorganisation",
+      "example_usage": "Es ist die umfangreichste Reform seit der Gründung des Senders."
+    },
+    {
+      "term": "die Leitungsebene",
+      "translated_term": "the management level",
+      "example_usage": "Die zweite Leitungsebene wird von zwölf auf sieben Bereiche reduziert."
+    },
+    {
+      "term": "der Chefredakteur",
+      "translated_term": "the editor-in-chief",
+      "example_usage": "Georg Heil wird der neue Chefredakteur des rbb."
+    },
+    {
+      "term": "übernehmen",
+      "translated_term": "to take over",
+      "example_usage": "Jana Cebulla übernimmt die Programmleitung."
+    },
+    {
+      "term": "mittelfristig",
+      "translated_term": "in the medium term",
+      "example_usage": "Außerdem soll die Reform mittelfristig Geld sparen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Medienkrise",
+      "translated_name": "Media Crisis"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Digital Fernsehen: rbb Umbau – Sender besetzt zentrale Führungsposten für radikalen Neustart",
+      "link_url": "https://www.digitalfernsehen.de/news/medien-news/maerkte/rbb-umbau-sender-besetzt-zentrale-fuehrungsposten-fuer-radikalen-neustart-und-intensive-schlankkur-1177892/"
+    },
+    {
+      "name": "kress: Größter Umbau in der rbb-Geschichte: Heil wird Chefredakteur, sechs weitere Führungspositionen neu besetzt",
+      "link_url": "https://kress.de/news/beitrag/152485-groesster-umbau-in-der-rbb-geschichte-heil-wird-chefredakteur-sechs-weitere-fuehrungspositionen-neu-besetzt.html"
+    },
+    {
+      "name": "DWDL: Neue Führungsteams: So geht der RBB in die Zukunft",
+      "link_url": "https://www.dwdl.de/nachrichten/105217/neue_fhrungsteams_so_geht_der_rbb_in_die_zukunft/"
+    }
+  ]
+}
