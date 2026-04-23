@@ -1,0 +1,126 @@
+{
+  "title": "Großbritannien: Staatsdefizit im März bei 12,6 Milliarden Pfund",
+  "translated_title": "Great Britain: Government Deficit at £12.6 Billion in March",
+  "text": [
+    {
+      "text": "Das britische Amt für Statistik (ONS) hat am 23. April neue Zahlen zu den Staatsfinanzen veröffentlicht.",
+      "translated_text": "The UK Office for National Statistics (ONS) published new figures on public finances on 23 April."
+    },
+    {
+      "text": "Im März 2026 hat der britische Staat 12,6 Milliarden Pfund mehr ausgegeben als eingenommen.",
+      "translated_text": "In March 2026, the British government spent £12.6 billion more than it received in revenue."
+    },
+    {
+      "text": "Das entspricht einem Defizit, das höher liegt als von Experten erwartet.",
+      "translated_text": "This corresponds to a deficit that is higher than experts had expected."
+    },
+    {
+      "text": "Wirtschaftsexperten hatten im Durchschnitt ein Defizit von 10,3 Milliarden Pfund vorhergesagt.",
+      "translated_text": "Economic experts had predicted an average deficit of £10.3 billion."
+    },
+    {
+      "text": "Die Gesamtschulden des britischen Staates liegen jetzt bei fast 94 Prozent des Bruttoinlandsprodukts.",
+      "translated_text": "The total debt of the British state now stands at almost 94 per cent of gross domestic product."
+    },
+    {
+      "text": "Das sind 0,6 Prozentpunkte mehr als im März des Vorjahres.",
+      "translated_text": "That is 0.6 percentage points more than in March of the previous year."
+    },
+    {
+      "text": "Das gesamte Haushaltsjahr 2025/2026 zeigt jedoch auch einige positive Entwicklungen.",
+      "translated_text": "However, the entire financial year 2025/2026 also shows some positive developments."
+    },
+    {
+      "text": "Das aktuelle Haushaltsdefizit lag im gesamten Jahr bei nur 1,7 Prozent des Bruttoinlandsprodukts.",
+      "translated_text": "The current budget deficit for the whole year was only 1.7 per cent of gross domestic product."
+    },
+    {
+      "text": "Das sind 0,9 Prozentpunkte weniger als im Jahr davor.",
+      "translated_text": "That is 0.9 percentage points less than the previous year."
+    },
+    {
+      "text": "Die britische Regierung steht unter großem Druck, die Finanzen zu verbessern.",
+      "translated_text": "The British government is under great pressure to improve public finances."
+    },
+    {
+      "text": "Premierminister Keir Starmer hat versprochen, die Staatsverschuldung langfristig zu senken.",
+      "translated_text": "Prime Minister Keir Starmer has promised to reduce government debt in the long term."
+    },
+    {
+      "text": "Die hohen Schulden sind ein Erbe aus der Zeit der COVID-19-Pandemie und der Energiekrise.",
+      "translated_text": "The high debts are a legacy from the time of the COVID-19 pandemic and the energy crisis."
+    },
+    {
+      "text": "Steigende Zinsen machen es für den Staat teurer, neue Schulden aufzunehmen.",
+      "translated_text": "Rising interest rates make it more expensive for the government to take on new debt."
+    },
+    {
+      "text": "Oppositionsparteien kritisieren die Ausgabenpolitik der Regierung scharf.",
+      "translated_text": "Opposition parties sharply criticise the government's spending policy."
+    },
+    {
+      "text": "Sie fordern mehr Sparmaßnahmen und eine strengere Haushaltsdisziplin.",
+      "translated_text": "They are calling for more austerity measures and stricter budgetary discipline."
+    },
+    {
+      "text": "Das ONS betonte, dass die vorläufigen Zahlen noch korrigiert werden könnten.",
+      "translated_text": "The ONS emphasised that the preliminary figures could still be revised."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Defizit",
+      "translated_term": "the deficit",
+      "example_usage": "Im März 2026 betrug das Staatsdefizit 12,6 Milliarden Pfund."
+    },
+    {
+      "term": "die Staatsfinanzen",
+      "translated_term": "the public finances",
+      "example_usage": "Das ONS hat neue Zahlen zu den Staatsfinanzen veröffentlicht."
+    },
+    {
+      "term": "die Staatsverschuldung",
+      "translated_term": "the national debt",
+      "example_usage": "Premierminister Starmer hat versprochen, die Staatsverschuldung langfristig zu senken."
+    },
+    {
+      "term": "das Bruttoinlandsprodukt",
+      "translated_term": "gross domestic product",
+      "example_usage": "Die Gesamtschulden des britischen Staates liegen bei fast 94 Prozent des Bruttoinlandsprodukts."
+    },
+    {
+      "term": "die Sparmaßnahmen",
+      "translated_term": "austerity measures",
+      "example_usage": "Oppositionsparteien fordern mehr Sparmaßnahmen und eine strengere Haushaltsdisziplin."
+    },
+    {
+      "term": "vorläufig",
+      "translated_term": "preliminary / provisional",
+      "example_usage": "Das ONS betonte, dass die vorläufigen Zahlen noch korrigiert werden könnten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Britische Politik",
+      "translated_name": "British Politics"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ONS: Public sector finances, UK: March 2026",
+      "link_url": "https://backup.ons.gov.uk/2026/04/23/public-sector-finances-uk-march-2026/"
+    },
+    {
+      "name": "MarketScreener: UK public finances show 12.6 billion-pound deficit in March",
+      "link_url": "https://www.marketscreener.com/news/uk-public-finances-show-12-6-billion-pound-deficit-in-march-ce7f59d9dd89f220"
+    }
+  ]
+}

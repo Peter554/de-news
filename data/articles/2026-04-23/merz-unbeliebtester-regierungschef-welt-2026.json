@@ -1,0 +1,130 @@
+{
+  "title": "Umfrage: Merz ist der unbeliebteste Regierungschef der Welt",
+  "translated_title": "Survey: Merz is the World's Most Unpopular Head of Government",
+  "text": [
+    {
+      "text": "Eine neue internationale Umfrage zeigt ein schwieriges Ergebnis für Bundeskanzler Friedrich Merz.",
+      "translated_text": "A new international survey shows a difficult result for Federal Chancellor Friedrich Merz."
+    },
+    {
+      "text": "Das amerikanische Meinungsforschungsinstitut Morning Consult hat 24 demokratisch gewählte Regierungschefs verglichen.",
+      "translated_text": "The American polling institute Morning Consult has compared 24 democratically elected heads of government."
+    },
+    {
+      "text": "Das Ergebnis: Friedrich Merz hat die niedrigste Zustimmungsrate von allen.",
+      "translated_text": "The result: Friedrich Merz has the lowest approval rating of all."
+    },
+    {
+      "text": "Nur 19 Prozent der Deutschen sind mit seiner Arbeit zufrieden.",
+      "translated_text": "Only 19 per cent of Germans are satisfied with his work."
+    },
+    {
+      "text": "Gleichzeitig lehnen 76 Prozent der Bevölkerung seine Politik ab.",
+      "translated_text": "At the same time, 76 per cent of the population rejects his policies."
+    },
+    {
+      "text": "Damit liegt er noch vor dem französischen Präsidenten Emmanuel Macron, der ebenfalls sehr unpopulär ist.",
+      "translated_text": "This puts him even below French President Emmanuel Macron, who is also very unpopular."
+    },
+    {
+      "text": "Experten nennen mehrere Gründe für die schlechten Umfragewerte.",
+      "translated_text": "Experts cite several reasons for the poor poll results."
+    },
+    {
+      "text": "Merz hat nach Meinung vieler Deutschen wichtige Wahlversprechen nicht gehalten.",
+      "translated_text": "In the opinion of many Germans, Merz has failed to keep important election promises."
+    },
+    {
+      "text": "Außerdem geht es der deutschen Wirtschaft weiterhin nicht gut.",
+      "translated_text": "In addition, the German economy continues to perform poorly."
+    },
+    {
+      "text": "Viele Menschen fühlen, dass ihr Land sich in einer Abwärtsspirale befindet.",
+      "translated_text": "Many people feel that their country is in a downward spiral."
+    },
+    {
+      "text": "Hermann Binkert vom Institut Insa erklärte, dass die Unzufriedenheit klar auf die Person Merz zurückzuführen sei.",
+      "translated_text": "Hermann Binkert from the Institut Insa explained that the dissatisfaction could clearly be attributed to the person of Merz."
+    },
+    {
+      "text": "Forsa-Chef Manfred Güllner bestätigte diese Einschätzung.",
+      "translated_text": "Forsa director Manfred Güllner confirmed this assessment."
+    },
+    {
+      "text": "Merz ist seit Mai 2025 Bundeskanzler und führt eine Koalition aus CDU/CSU und SPD.",
+      "translated_text": "Merz has been Federal Chancellor since May 2025 and leads a coalition of CDU/CSU and SPD."
+    },
+    {
+      "text": "Die Koalition hat in den letzten Monaten wichtige Reformen beschlossen.",
+      "translated_text": "The coalition has passed important reforms in recent months."
+    },
+    {
+      "text": "Dazu gehören ein großes Investitionsprogramm und ein massiver Ausbau der Bundeswehr.",
+      "translated_text": "These include a large investment programme and a massive expansion of the Bundeswehr."
+    },
+    {
+      "text": "Trotzdem bleibt die Stimmung in Deutschland gedrückt.",
+      "translated_text": "Nevertheless, the mood in Germany remains subdued."
+    },
+    {
+      "text": "Wie lange Merz mit solch niedrigen Umfragewerten regieren kann, bleibt abzuwarten.",
+      "translated_text": "How long Merz can govern with such low poll ratings remains to be seen."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Umfrage",
+      "translated_term": "the survey / poll",
+      "example_usage": "Eine neue internationale Umfrage zeigt ein schwieriges Ergebnis für Bundeskanzler Friedrich Merz."
+    },
+    {
+      "term": "die Zustimmungsrate",
+      "translated_term": "the approval rating",
+      "example_usage": "Friedrich Merz hat die niedrigste Zustimmungsrate von allen 24 Regierungschefs."
+    },
+    {
+      "term": "ablehnen",
+      "translated_term": "to reject / to disapprove",
+      "example_usage": "76 Prozent der Bevölkerung lehnen seine Politik ab."
+    },
+    {
+      "term": "das Wahlversprechen",
+      "translated_term": "the election promise",
+      "example_usage": "Merz hat nach Meinung vieler Deutschen wichtige Wahlversprechen nicht gehalten."
+    },
+    {
+      "term": "die Abwärtsspirale",
+      "translated_term": "the downward spiral",
+      "example_usage": "Viele Menschen fühlen, dass ihr Land sich in einer Abwärtsspirale befindet."
+    },
+    {
+      "term": "bestätigen",
+      "translated_term": "to confirm",
+      "example_usage": "Forsa-Chef Manfred Güllner bestätigte diese Einschätzung."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews: German Chancellor Merz the most unpopular head of government in the world, survey shows",
+      "link_url": "https://www.euronews.com/2026/04/13/german-chancellor-merz-the-most-unpopular-head-of-government-in-the-world-survey-shows"
+    },
+    {
+      "name": "Berliner Zeitung: Bundeskanzler Friedrich Merz unbeliebtester Regierungschef weltweit – Umfrage",
+      "link_url": "https://www.berliner-zeitung.de/article/umfrage-friedrich-merz-unbeliebtester-regierungschef-weltweit-10030948"
+    }
+  ]
+}
