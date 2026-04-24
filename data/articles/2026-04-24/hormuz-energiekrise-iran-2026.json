@@ -1,0 +1,151 @@
+{
+  "title": "Hormus-Krise: Weltweite Energieversorgung in Gefahr",
+  "translated_title": "Hormuz Crisis: Global Energy Supply at Risk",
+  "text": [
+    {
+      "text": "Eine schwere Energiekrise trifft die ganze Welt.",
+      "translated_text": "A severe energy crisis is hitting the entire world."
+    },
+    {
+      "text": "Auslöser ist der Krieg zwischen dem Iran und den USA sowie Israel.",
+      "translated_text": "The trigger is the war between Iran and the USA as well as Israel."
+    },
+    {
+      "text": "Der Iran hat die Straße von Hormus blockiert.",
+      "translated_text": "Iran has blockaded the Strait of Hormuz."
+    },
+    {
+      "text": "Diese Meerenge verbindet den Persischen Golf mit dem Arabischen Meer.",
+      "translated_text": "This strait connects the Persian Gulf with the Arabian Sea."
+    },
+    {
+      "text": "Durch sie fließen etwa 20 Prozent des weltweiten Ölhandels.",
+      "translated_text": "Around 20 percent of the world's oil trade passes through it."
+    },
+    {
+      "text": "Im März 2026 erklärte der Iran, die Meerenge für Schiffe aus bestimmten Ländern zu sperren.",
+      "translated_text": "In March 2026, Iran declared that it would close the strait to ships from certain countries."
+    },
+    {
+      "text": "Betroffen sind Schiffe, die zu den USA, zu Israel und ihren Verbündeten fahren.",
+      "translated_text": "Ships travelling to the USA, Israel and their allies are affected."
+    },
+    {
+      "text": "Das hatte sofortige Folgen für den Ölmarkt.",
+      "translated_text": "This had immediate consequences for the oil market."
+    },
+    {
+      "text": "Der Ölpreis stieg schnell und stark an.",
+      "translated_text": "The oil price rose quickly and sharply."
+    },
+    {
+      "text": "Erstmals seit vier Jahren überstieg der Preis für ein Barrel Rohöl 100 Dollar.",
+      "translated_text": "For the first time in four years, the price of a barrel of crude oil exceeded 100 dollars."
+    },
+    {
+      "text": "Auf dem Höhepunkt der Krise kostete ein Barrel sogar 126 Dollar.",
+      "translated_text": "At the peak of the crisis, a barrel cost as much as 126 dollars."
+    },
+    {
+      "text": "Die Internationale Energieagentur nannte dies die \"größte Energieversorgungsstörung in der Geschichte des Weltölmarkts\".",
+      "translated_text": "The International Energy Agency called this the \"largest supply disruption in the history of the global oil market\"."
+    },
+    {
+      "text": "In Europa sind die Folgen deutlich spürbar.",
+      "translated_text": "The consequences are clearly felt in Europe."
+    },
+    {
+      "text": "Europäische Fluggesellschaften haben Zehntausende Flüge gestrichen, weil Kerosin zu teuer und zu knapp geworden ist.",
+      "translated_text": "European airlines have cancelled tens of thousands of flights because jet fuel has become too expensive and too scarce."
+    },
+    {
+      "text": "An den Tankstellen sind die Preise stark gestiegen.",
+      "translated_text": "Prices at petrol stations have risen sharply."
+    },
+    {
+      "text": "Viele Länder haben Maßnahmen zur Energieeinsparung eingeführt.",
+      "translated_text": "Many countries have introduced energy-saving measures."
+    },
+    {
+      "text": "Am 8. April 2026 wurde ein Waffenstillstand zwischen dem Iran und den USA vereinbart.",
+      "translated_text": "On 8 April 2026, a ceasefire was agreed between Iran and the USA."
+    },
+    {
+      "text": "Aber der Schiffsverkehr durch die Straße von Hormus blieb weit unter dem normalen Niveau.",
+      "translated_text": "However, shipping traffic through the Strait of Hormuz remained far below normal levels."
+    },
+    {
+      "text": "Weitere Zwischenfälle machen eine schnelle Normalisierung schwierig.",
+      "translated_text": "Further incidents make a swift return to normality difficult."
+    },
+    {
+      "text": "Die Situation bleibt angespannt, und die Energiepreise sind weiterhin sehr hoch.",
+      "translated_text": "The situation remains tense, and energy prices remain very high."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Meerenge",
+      "translated_term": "the strait",
+      "example_usage": "Die Straße von Hormus ist eine wichtige Meerenge zwischen dem Persischen Golf und dem Arabischen Meer."
+    },
+    {
+      "term": "blockieren",
+      "translated_term": "to blockade",
+      "example_usage": "Der Iran hat die Straße von Hormus blockiert."
+    },
+    {
+      "term": "das Barrel",
+      "translated_term": "the barrel (unit of oil)",
+      "example_usage": "Auf dem Höhepunkt der Krise kostete ein Barrel Rohöl 126 Dollar."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Am 8. April 2026 wurde ein Waffenstillstand zwischen dem Iran und den USA vereinbart."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel",
+      "example_usage": "Europäische Fluggesellschaften haben Zehntausende Flüge gestrichen."
+    },
+    {
+      "term": "das Kerosin",
+      "translated_term": "the jet fuel / kerosene",
+      "example_usage": "Fluggesellschaften strichen Flüge, weil Kerosin zu teuer und zu knapp geworden ist."
+    },
+    {
+      "term": "der Verbündete",
+      "translated_term": "the ally",
+      "example_usage": "Betroffen sind Schiffe, die zu den USA, zu Israel und ihren Verbündeten fahren."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Energiepolitik",
+      "translated_name": "Energy Policy"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia: 2026 Strait of Hormuz crisis",
+      "link_url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
+    },
+    {
+      "name": "CNBC: A timeline of how the Iran war shook oil prices — and what comes next",
+      "link_url": "https://www.cnbc.com/2026/04/21/oil-price-iran-war-middle-east.html"
+    },
+    {
+      "name": "Time: The Strait of Hormuz Crisis Is Driving a Wave of Global Energy Rationing",
+      "link_url": "https://time.com/article/2026/04/05/strait-of-hormuz-fuel-rationing-oil/"
+    }
+  ]
+}
