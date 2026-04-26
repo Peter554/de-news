@@ -8,12 +8,12 @@
     "translated_name": "Antisemitism"
   },
   {
-    "name": "Arbeitspolitik",
-    "translated_name": "Labor Policy"
-  },
-  {
     "name": "Apple",
     "translated_name": "Apple"
+  },
+  {
+    "name": "Arbeitspolitik",
+    "translated_name": "Labor Policy"
   },
   {
     "name": "Asien",
@@ -44,14 +44,6 @@
     "translated_name": "British Politics"
   },
   {
-    "name": "Bürgerkrieg",
-    "translated_name": "Civil War"
-  },
-  {
-    "name": "China",
-    "translated_name": "China"
-  },
-  {
     "name": "Bulgarien",
     "translated_name": "Bulgaria"
   },
@@ -66,6 +58,14 @@
   {
     "name": "Bundeswehr",
     "translated_name": "Federal Armed Forces"
+  },
+  {
+    "name": "Bürgerkrieg",
+    "translated_name": "Civil War"
+  },
+  {
+    "name": "China",
+    "translated_name": "China"
   },
   {
     "name": "Cybersicherheit",
@@ -132,12 +132,12 @@
     "translated_name": "Gaza Conflict"
   },
   {
-    "name": "Gesundheitspolitik",
-    "translated_name": "Health Policy"
-  },
-  {
     "name": "Geschichte",
     "translated_name": "History"
+  },
+  {
+    "name": "Gesundheitspolitik",
+    "translated_name": "Health Policy"
   },
   {
     "name": "Griechenland",
@@ -160,20 +160,20 @@
     "translated_name": "Humanitarian Crisis"
   },
   {
-    "name": "Internationale Nachrichten",
-    "translated_name": "International News"
-  },
-  {
-    "name": "Internationale Politik",
-    "translated_name": "International Politics"
-  },
-  {
     "name": "Infrastruktur",
     "translated_name": "Infrastructure"
   },
   {
     "name": "Innovation",
     "translated_name": "Innovation"
+  },
+  {
+    "name": "Internationale Nachrichten",
+    "translated_name": "International News"
+  },
+  {
+    "name": "Internationale Politik",
+    "translated_name": "International Politics"
   },
   {
     "name": "Iran",
@@ -212,12 +212,12 @@
     "translated_name": "Croatia"
   },
   {
-    "name": "Künstliche Intelligenz",
-    "translated_name": "Artificial Intelligence"
-  },
-  {
     "name": "Kultur",
     "translated_name": "Culture"
+  },
+  {
+    "name": "Künstliche Intelligenz",
+    "translated_name": "Artificial Intelligence"
   },
   {
     "name": "Landwirtschaft",
@@ -252,12 +252,12 @@
     "translated_name": "Middle East"
   },
   {
-    "name": "NATO",
-    "translated_name": "NATO"
-  },
-  {
     "name": "Nationale Sicherheit",
     "translated_name": "National Security"
+  },
+  {
+    "name": "NATO",
+    "translated_name": "NATO"
   },
   {
     "name": "Naturkatastrophen",
@@ -292,32 +292,28 @@
     "translated_name": "Government Crisis"
   },
   {
-    "name": "Russland",
-    "translated_name": "Russia"
-  },
-  {
     "name": "Reisen",
     "translated_name": "Travel"
+  },
+  {
+    "name": "Russland",
+    "translated_name": "Russia"
   },
   {
     "name": "Schweiz",
     "translated_name": "Switzerland"
   },
   {
-    "name": "Skandal",
-    "translated_name": "Scandal"
-  },
-  {
     "name": "Sicherheit",
     "translated_name": "Security"
   },
   {
-    "name": "Smartphone",
-    "translated_name": "Smartphone"
+    "name": "Skandal",
+    "translated_name": "Scandal"
   },
   {
-    "name": "Spanien",
-    "translated_name": "Spain"
+    "name": "Smartphone",
+    "translated_name": "Smartphone"
   },
   {
     "name": "Soziale Probleme",
@@ -328,6 +324,10 @@
     "translated_name": "Social Policy"
   },
   {
+    "name": "Spanien",
+    "translated_name": "Spain"
+  },
+  {
     "name": "Sport",
     "translated_name": "Sports"
   },
@@ -336,16 +336,16 @@
     "translated_name": "State Visit"
   },
   {
-    "name": "Tennis",
-    "translated_name": "Tennis"
-  },
-  {
     "name": "Streik",
     "translated_name": "Strike"
   },
   {
     "name": "Technologie",
     "translated_name": "Technology"
+  },
+  {
+    "name": "Tennis",
+    "translated_name": "Tennis"
   },
   {
     "name": "Terrorismus",
@@ -362,6 +362,10 @@
   {
     "name": "Umweltschutz",
     "translated_name": "Environmental Protection"
+  },
+  {
+    "name": "Ungarn",
+    "translated_name": "Hungary"
   },
   {
     "name": "Unternehmen",
