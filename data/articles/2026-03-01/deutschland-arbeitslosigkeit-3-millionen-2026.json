@@ -1,0 +1,123 @@
+{
+  "title": "Deutschlands Arbeitslosigkeit bleibt über drei Millionen",
+  "translated_title": "Germany's Unemployment Remains Above Three Million",
+  "text": [
+    {
+      "text": "Im Februar 2026 blieb die Zahl der Arbeitslosen in Deutschland über drei Millionen.",
+      "translated_text": "In February 2026, the number of unemployed people in Germany remained above three million."
+    },
+    {
+      "text": "Laut der Bundesagentur für Arbeit waren genau 3,07 Millionen Menschen ohne Beschäftigung.",
+      "translated_text": "According to the Federal Employment Agency, exactly 3.07 million people were without employment."
+    },
+    {
+      "text": "Das sind 81.000 mehr als im gleichen Monat des Vorjahres.",
+      "translated_text": "That is 81,000 more than in the same month of the previous year."
+    },
+    {
+      "text": "Die Arbeitslosenquote lag bei 6,3 Prozent.",
+      "translated_text": "The unemployment rate was 6.3 percent."
+    },
+    {
+      "text": "Die Leiterin der Bundesagentur für Arbeit, Andrea Nahles, sagte, der Arbeitsmarkt gewinne nicht an Schwung.",
+      "translated_text": "The head of the Federal Employment Agency, Andrea Nahles, said the labour market was not gaining momentum."
+    },
+    {
+      "text": "Der Deutsche Gewerkschaftsbund sprach von einer Arbeitsmarktkrise.",
+      "translated_text": "The German Trade Union Confederation spoke of a \"labour market crisis\"."
+    },
+    {
+      "text": "Die Gewerkschaft forderte Bundeskanzler Friedrich Merz auf, die Arbeitsmarktprobleme sofort anzugehen.",
+      "translated_text": "The trade union called on Federal Chancellor Friedrich Merz to address the labour market problems immediately."
+    },
+    {
+      "text": "Die deutsche Wirtschaft stagniert seit mehr als fünf Jahren.",
+      "translated_text": "The German economy has been stagnating for more than five years."
+    },
+    {
+      "text": "Viele Industrieunternehmen kämpfen mit strukturellen Veränderungen und dem Aufstieg der künstlichen Intelligenz.",
+      "translated_text": "Many industrial companies are struggling with structural changes and the rise of artificial intelligence."
+    },
+    {
+      "text": "Außerdem schrumpft die Bevölkerung im erwerbsfähigen Alter aufgrund des demografischen Wandels.",
+      "translated_text": "In addition, the working-age population is shrinking due to demographic change."
+    },
+    {
+      "text": "Kanzler Merz hat versprochen, das Wirtschaftswachstum zu seinem Hauptziel zu machen.",
+      "translated_text": "Chancellor Merz has promised to make economic growth his main goal."
+    },
+    {
+      "text": "Er plant Investitionen in die Infrastruktur und in die Verteidigung, um die Wirtschaft anzukurbeln.",
+      "translated_text": "He plans investments in infrastructure and defence to stimulate the economy."
+    },
+    {
+      "text": "Ökonomen warnen jedoch, dass diese Maßnahmen Zeit brauchen, um Wirkung zu zeigen.",
+      "translated_text": "However, economists warn that these measures will take time to have an effect."
+    },
+    {
+      "text": "Die hohe Arbeitslosigkeit stellt eine große Herausforderung für die neue Bundesregierung dar.",
+      "translated_text": "High unemployment represents a major challenge for the new federal government."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Arbeitslosigkeit",
+      "translated_term": "unemployment",
+      "example_usage": "Im Februar 2026 blieb die Zahl der Arbeitslosen in Deutschland über drei Millionen."
+    },
+    {
+      "term": "die Bundesagentur für Arbeit",
+      "translated_term": "the Federal Employment Agency",
+      "example_usage": "Laut der Bundesagentur für Arbeit waren genau 3,07 Millionen Menschen ohne Beschäftigung."
+    },
+    {
+      "term": "die Arbeitslosenquote",
+      "translated_term": "the unemployment rate",
+      "example_usage": "Die Arbeitslosenquote lag bei 6,3 Prozent."
+    },
+    {
+      "term": "stagnieren",
+      "translated_term": "to stagnate",
+      "example_usage": "Die deutsche Wirtschaft stagniert seit mehr als fünf Jahren."
+    },
+    {
+      "term": "der demografische Wandel",
+      "translated_term": "the demographic change",
+      "example_usage": "Die Bevölkerung im erwerbsfähigen Alter schrumpft aufgrund des demografischen Wandels."
+    },
+    {
+      "term": "ankurbeln",
+      "translated_term": "to stimulate / to boost",
+      "example_usage": "Er plant Investitionen in die Infrastruktur und in die Verteidigung, um die Wirtschaft anzukurbeln."
+    },
+    {
+      "term": "die Herausforderung",
+      "translated_term": "the challenge",
+      "example_usage": "Die hohe Arbeitslosigkeit stellt eine große Herausforderung für die neue Bundesregierung dar."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Reuters / Investing.com: German unemployment stays above 3 million as weak economy takes toll",
+      "link_url": "https://www.investing.com/news/economy-news/german-unemployment-stays-above-3-million-as-weak-economy-takes-toll-4531077"
+    },
+    {
+      "name": "Newsworm: Germany's Labour Market Remains Stuck With Three Million Unemployed in February",
+      "link_url": "https://www.newsworm.de/news/germanys-labour-market-remains-stuck-with-three-million-unemployed-in-february"
+    }
+  ]
+}
