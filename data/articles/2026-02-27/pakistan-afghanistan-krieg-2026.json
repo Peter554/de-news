@@ -1,0 +1,129 @@
+{
+  "title": "Pakistan erklärt Afghanistan den Krieg",
+  "translated_title": "Pakistan Declares War on Afghanistan",
+  "text": [
+    {
+      "text": "Pakistan und Afghanistan befinden sich seit Ende Februar 2026 im offenen Krieg.",
+      "translated_text": "Pakistan and Afghanistan have been in open war since the end of February 2026."
+    },
+    {
+      "text": "Pakistans Verteidigungsminister Khawaja Asif erklärte, sein Land habe nun Krieg mit Afghanistan.",
+      "translated_text": "Pakistan's Defence Minister Khawaja Asif declared that his country was now at war with Afghanistan."
+    },
+    {
+      "text": "Schon seit Jahren gibt es Konflikte zwischen den beiden Ländern.",
+      "translated_text": "There have been conflicts between the two countries for years."
+    },
+    {
+      "text": "Pakistan wirft Afghanistan vor, Terroristen zu unterstützen, die Anschläge in Pakistan durchführen.",
+      "translated_text": "Pakistan accuses Afghanistan of supporting terrorists who carry out attacks in Pakistan."
+    },
+    {
+      "text": "Seit 2021 regiert die Taliban-Bewegung das Land Afghanistan.",
+      "translated_text": "Since 2021, the Taliban movement has ruled the country of Afghanistan."
+    },
+    {
+      "text": "Pakistan führte am 21. Februar 2026 Luftangriffe auf mehrere Provinzen in Afghanistan durch.",
+      "translated_text": "Pakistan carried out air strikes on several provinces in Afghanistan on 21 February 2026."
+    },
+    {
+      "text": "Pakistan sagte, es habe nur Terroristenlager angegriffen und 80 Militante getötet.",
+      "translated_text": "Pakistan said it had only attacked terrorist camps and killed 80 militants."
+    },
+    {
+      "text": "Die Taliban behaupteten jedoch, Pakistan habe dabei auch Zivilisten getötet.",
+      "translated_text": "However, the Taliban claimed that Pakistan had also killed civilians in the process."
+    },
+    {
+      "text": "Als Reaktion griffen die Taliban pakistanische Militärposten an der Grenze an.",
+      "translated_text": "In response, the Taliban attacked Pakistani military posts at the border."
+    },
+    {
+      "text": "Die Taliban behaupteten, 55 pakistanische Soldaten getötet und 19 Militärposten eingenommen zu haben.",
+      "translated_text": "The Taliban claimed to have killed 55 Pakistani soldiers and captured 19 military posts."
+    },
+    {
+      "text": "Am 27. Februar 2026 bombardierte Pakistan sogar die afghanische Hauptstadt Kabul.",
+      "translated_text": "On 27 February 2026, Pakistan even bombed the Afghan capital Kabul."
+    },
+    {
+      "text": "Journalisten in Kabul berichteten von lauten Explosionen und Schüssen über mehr als zwei Stunden.",
+      "translated_text": "Journalists in Kabul reported loud explosions and gunfire for more than two hours."
+    },
+    {
+      "text": "Pakistan sagte, seine Streitkräfte hätten 133 Taliban-Kämpfer getötet.",
+      "translated_text": "Pakistan said its forces had killed 133 Taliban fighters."
+    },
+    {
+      "text": "Die Vereinten Nationen riefen beide Länder auf, die Feindseligkeiten zu beenden.",
+      "translated_text": "The United Nations called on both countries to end hostilities."
+    },
+    {
+      "text": "UN-Generalsekretär António Guterres forderte beide Seiten auf, Zivilisten zu schützen.",
+      "translated_text": "UN Secretary-General António Guterres called on both sides to protect civilians."
+    },
+    {
+      "text": "Er bat die beiden Länder auch, ihre Probleme auf diplomatischem Weg zu lösen.",
+      "translated_text": "He also asked the two countries to resolve their problems through diplomatic means."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Luftangriff",
+      "translated_term": "the air strike",
+      "example_usage": "Pakistan führte am 21. Februar 2026 Luftangriffe auf mehrere Provinzen in Afghanistan durch."
+    },
+    {
+      "term": "vorwerfen",
+      "translated_term": "to accuse of",
+      "example_usage": "Pakistan wirft Afghanistan vor, Terroristen zu unterstützen."
+    },
+    {
+      "term": "der Militärposten",
+      "translated_term": "the military post",
+      "example_usage": "Die Taliban behaupteten, 19 Militärposten eingenommen zu haben."
+    },
+    {
+      "term": "die Feindseligkeiten",
+      "translated_term": "the hostilities",
+      "example_usage": "Die Vereinten Nationen riefen beide Länder auf, die Feindseligkeiten zu beenden."
+    },
+    {
+      "term": "bombardieren",
+      "translated_term": "to bomb",
+      "example_usage": "Am 27. Februar 2026 bombardierte Pakistan sogar die afghanische Hauptstadt Kabul."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Afghanistan",
+      "translated_name": "Afghanistan"
+    },
+    {
+      "name": "Pakistan",
+      "translated_name": "Pakistan"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: 'Open war' – Pakistan says 'patience has run out' as it bombs Afghanistan",
+      "link_url": "https://www.aljazeera.com/news/2026/2/27/pakistan-warplanes-bomb-kabul-as-clashes-with-afghanistan-intensify"
+    },
+    {
+      "name": "NPR: Pakistan's defense minister says that there is now 'open war' with Afghanistan",
+      "link_url": "https://www.npr.org/2026/02/26/g-s1-111783/airstrikes-afghanistan-pakistan-war"
+    },
+    {
+      "name": "CNN: Afghanistan and Pakistan exchange cross-border strikes in escalating retaliatory attacks",
+      "link_url": "https://edition.cnn.com/2026/02/26/asia/afghanistan-pakistan-border-attack-intl-latam"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "title": "Jersey stimmt für die Legalisierung der Sterbehilfe",
+  "translated_title": "Jersey Votes to Legalise Assisted Dying",
+  "text": [
+    {
+      "text": "Jersey, eine britische Kronabhängigkeit, hat für die Legalisierung der Sterbehilfe gestimmt.",
+      "translated_text": "Jersey, a British Crown dependency, has voted to legalise assisted dying."
+    },
+    {
+      "text": "Das Parlament, die States Assembly, stimmte mit 32 zu 16 Stimmen für das neue Gesetz.",
+      "translated_text": "The parliament, the States Assembly, voted 32 to 16 in favour of the new law."
+    },
+    {
+      "text": "Das Gesetz erlaubt unheilbar kranken Menschen, ihr Leben frühzeitig zu beenden.",
+      "translated_text": "The law allows terminally ill people to end their lives early."
+    },
+    {
+      "text": "Die Patienten müssen seit mindestens einem Jahr auf Jersey wohnen.",
+      "translated_text": "Patients must have lived in Jersey for at least one year."
+    },
+    {
+      "text": "Außerdem müssen sie voraussichtlich innerhalb von sechs Monaten sterben.",
+      "translated_text": "In addition, they must be expected to die within six months."
+    },
+    {
+      "text": "Bei Menschen mit neurodegenerativen Erkrankungen wie Parkinson gilt eine Frist von zwölf Monaten.",
+      "translated_text": "For people with neurodegenerative diseases such as Parkinson's, a twelve-month timeframe applies."
+    },
+    {
+      "text": "Zwei Ärzte müssen den Antrag des Patienten genehmigen.",
+      "translated_text": "Two doctors must approve the patient's request."
+    },
+    {
+      "text": "Ein Arzt oder eine Krankenschwester darf dann dem Patienten die tödlichen Medikamente verabreichen.",
+      "translated_text": "A doctor or nurse may then administer the lethal medication to the patient."
+    },
+    {
+      "text": "Jersey ist nach der Isle of Man die zweite britische Insel, die Sterbehilfe legalisiert hat.",
+      "translated_text": "Jersey is the second British island, after the Isle of Man, to have legalised assisted dying."
+    },
+    {
+      "text": "In England und Wales diskutiert das Parlament gerade ein ähnliches Gesetz.",
+      "translated_text": "In England and Wales, parliament is currently discussing a similar law."
+    },
+    {
+      "text": "Dieses Gesetz steckt jedoch noch im Oberhaus, dem House of Lords, fest.",
+      "translated_text": "However, this law is still stuck in the upper house, the House of Lords."
+    },
+    {
+      "text": "Kritiker befürchten, dass kranke oder ältere Menschen unter Druck gesetzt werden könnten.",
+      "translated_text": "Critics fear that sick or elderly people could be put under pressure."
+    },
+    {
+      "text": "Sie sorgen sich, dass Menschen ihr Leben beenden, nur um keine Last für andere zu sein.",
+      "translated_text": "They are worried that people will end their lives simply to avoid being a burden on others."
+    },
+    {
+      "text": "Das neue Gesetz braucht noch die Zustimmung des britischen Justizministers David Lammy.",
+      "translated_text": "The new law still needs the approval of British Justice Secretary David Lammy."
+    },
+    {
+      "text": "Wenn alles gut geht, könnte das Gesetz im Sommer 2027 in Kraft treten.",
+      "translated_text": "If all goes well, the law could come into force in summer 2027."
+    },
+    {
+      "text": "Schottland will im März über ein ähnliches Gesetz abstimmen.",
+      "translated_text": "Scotland plans to vote on a similar law in March."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Sterbehilfe",
+      "translated_term": "assisted dying",
+      "example_usage": "Jersey hat für die Legalisierung der Sterbehilfe gestimmt."
+    },
+    {
+      "term": "unheilbar krank",
+      "translated_term": "terminally ill",
+      "example_usage": "Das Gesetz erlaubt unheilbar kranken Menschen, ihr Leben frühzeitig zu beenden."
+    },
+    {
+      "term": "genehmigen",
+      "translated_term": "to approve",
+      "example_usage": "Zwei Ärzte müssen den Antrag des Patienten genehmigen."
+    },
+    {
+      "term": "die Kronabhängigkeit",
+      "translated_term": "the Crown dependency",
+      "example_usage": "Jersey ist eine britische Kronabhängigkeit."
+    },
+    {
+      "term": "in Kraft treten",
+      "translated_term": "to come into force",
+      "example_usage": "Wenn alles gut geht, könnte das Gesetz im Sommer 2027 in Kraft treten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    },
+    {
+      "name": "Britische Politik",
+      "translated_name": "British Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Washington Post: Jersey votes to approve assisted dying, as a similar UK bill stalls in House of Lords",
+      "link_url": "https://www.washingtonpost.com/world/2026/02/26/assisted-dying-britain-suicide-jersey-isle-man-parliament-king/d4678c90-131e-11f1-8e8d-fe91db44677b_story.html"
+    },
+    {
+      "name": "ABC News: Jersey votes to approve assisted dying, as a similar UK bill stalls in House of Lords",
+      "link_url": "https://abcnews.com/International/wireStory/jersey-votes-approve-assisted-dying-similar-uk-bill-130526284"
+    },
+    {
+      "name": "ITV News: Jersey politicians vote to legalise assisted dying for some terminally ill residents",
+      "link_url": "https://www.itv.com/news/channel/2026-02-26/jersey-votes-to-legalise-assisted-dying"
+    }
+  ]
+}

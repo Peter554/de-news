@@ -1,0 +1,121 @@
+{
+  "title": "Gericht stoppt Rechtsextrem-Einstufung der AfD",
+  "translated_title": "Court Blocks Right-Wing Extremist Classification of AfD",
+  "text": [
+    {
+      "text": "Das Verwaltungsgericht Köln hat eine wichtige Entscheidung über die AfD getroffen.",
+      "translated_text": "The Administrative Court in Cologne has made an important decision about the AfD."
+    },
+    {
+      "text": "Das Gericht hat entschieden, dass der Verfassungsschutz die AfD nicht als 'gesichert rechtsextremistisch' bezeichnen darf.",
+      "translated_text": "The court decided that the Office for the Protection of the Constitution may not call the AfD 'confirmed right-wing extremist'."
+    },
+    {
+      "text": "Das Bundesamt für Verfassungsschutz hatte die AfD im Mai 2025 als gesichert rechtsextremistisch eingestuft.",
+      "translated_text": "The Federal Office for the Protection of the Constitution had classified the AfD as confirmed right-wing extremist in May 2025."
+    },
+    {
+      "text": "Der Verfassungsschutz beobachtet Organisationen, die gegen die demokratische Grundordnung in Deutschland arbeiten.",
+      "translated_text": "The Office for the Protection of the Constitution monitors organisations that work against the democratic order in Germany."
+    },
+    {
+      "text": "Die AfD klagte gegen diese Einstufung vor dem Verwaltungsgericht Köln.",
+      "translated_text": "The AfD filed a lawsuit against this classification at the Administrative Court in Cologne."
+    },
+    {
+      "text": "Das Gericht gab der AfD am 26. Februar 2026 vorläufig Recht.",
+      "translated_text": "The court provisionally ruled in favour of the AfD on 26 February 2026."
+    },
+    {
+      "text": "Die Richter sagten, es gebe zwar problematische Bestrebungen innerhalb der AfD.",
+      "translated_text": "The judges said there were indeed problematic tendencies within the AfD."
+    },
+    {
+      "text": "Aber die gesamte Partei könne man nicht als rechtsextrem bezeichnen.",
+      "translated_text": "But the entire party could not be called right-wing extremist."
+    },
+    {
+      "text": "Diese Entscheidung gilt nur vorläufig und nicht endgültig.",
+      "translated_text": "This decision is only provisional and not final."
+    },
+    {
+      "text": "Das eigentliche Hauptsacheverfahren vor dem Verwaltungsgericht Köln dauert noch an.",
+      "translated_text": "The actual main proceedings before the Administrative Court in Cologne are still ongoing."
+    },
+    {
+      "text": "AfD-Parteichefin Alice Weidel nannte die Entscheidung einen großen Erfolg für die Demokratie.",
+      "translated_text": "AfD party leader Alice Weidel called the decision a great success for democracy."
+    },
+    {
+      "text": "Einige Landesverbände der AfD gelten weiterhin als rechtsextrem.",
+      "translated_text": "Some regional associations of the AfD are still classified as right-wing extremist."
+    },
+    {
+      "text": "Dazu gehören die Verbände in Sachsen, Thüringen, Brandenburg und anderen Bundesländern.",
+      "translated_text": "These include the associations in Saxony, Thuringia, Brandenburg and other federal states."
+    },
+    {
+      "text": "Der Verfassungsschutz kann die Entscheidung noch anfechten.",
+      "translated_text": "The Office for the Protection of the Constitution can still challenge the decision."
+    },
+    {
+      "text": "In Deutschland darf nur das Bundesverfassungsgericht eine Partei verbieten.",
+      "translated_text": "In Germany, only the Federal Constitutional Court may ban a party."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Verwaltungsgericht",
+      "translated_term": "the Administrative Court",
+      "example_usage": "Das Verwaltungsgericht Köln hat eine wichtige Entscheidung über die AfD getroffen."
+    },
+    {
+      "term": "der Verfassungsschutz",
+      "translated_term": "the Office for the Protection of the Constitution",
+      "example_usage": "Das Bundesamt für Verfassungsschutz hatte die AfD als gesichert rechtsextremistisch eingestuft."
+    },
+    {
+      "term": "einstufen",
+      "translated_term": "to classify",
+      "example_usage": "Der Verfassungsschutz darf die AfD nicht als rechtsextrem einstufen."
+    },
+    {
+      "term": "vorläufig",
+      "translated_term": "provisional / temporary",
+      "example_usage": "Diese Entscheidung gilt nur vorläufig und nicht endgültig."
+    },
+    {
+      "term": "anfechten",
+      "translated_term": "to challenge / to appeal",
+      "example_usage": "Der Verfassungsschutz kann die Entscheidung noch anfechten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Extremismus",
+      "translated_name": "Extremism"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews: Verwaltungsgericht stoppt AfD-Einstufung als rechtsextrem vorerst",
+      "link_url": "https://de.euronews.com/2026/02/26/afd-sieg-verwaltungsgericht-koln-vorerst-nicht-gesichert-rechtsextrem"
+    },
+    {
+      "name": "T-Online: AfD darf vorerst nicht als gesichert extremistisch eingestuft werden",
+      "link_url": "https://www.t-online.de/nachrichten/deutschland/id_101146306/afd-darf-vorerst-nicht-als-gesichert-extremistisch-eingestuft-werden.html"
+    },
+    {
+      "name": "Evangelisch.de: Verfassungsschutz darf AfD vorerst nicht als rechtsextrem einstufen",
+      "link_url": "https://www.evangelisch.de/inhalte/253176/26-02-2026/verfassungsschutz-darf-afd-vorerst-nicht-als-rechtsextrem-einstufen"
+    }
+  ]
+}
