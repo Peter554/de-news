@@ -1,0 +1,110 @@
+{
+  "title": "Oberster Gerichtshof der USA kippt Trumps Zölle",
+  "translated_title": "US Supreme Court Strikes Down Trump's Tariffs",
+  "text": [
+    {
+      "text": "Der Oberste Gerichtshof der USA hat am 20. Februar entschieden, dass Trumps weitreichende Zölle gegen das Gesetz verstoßen.",
+      "translated_text": "The US Supreme Court decided on 20 February that Trump's far-reaching tariffs violate the law."
+    },
+    {
+      "text": "Mit sechs zu drei Stimmen urteilten die Richter, dass der Präsident seine Befugnisse überschritten hatte.",
+      "translated_text": "By six votes to three, the judges ruled that the president had exceeded his powers."
+    },
+    {
+      "text": "Trump hatte Zölle auf Importe aus fast allen Ländern der Welt eingeführt – darunter China, Kanada und Mexiko.",
+      "translated_text": "Trump had introduced tariffs on imports from almost all countries in the world – including China, Canada and Mexico."
+    },
+    {
+      "text": "Das Gericht erklärte, dass das zugrunde liegende Gesetz aus dem Jahr 1977 dem Präsidenten keine Befugnis zur Erhebung von Zöllen gibt.",
+      "translated_text": "The court stated that the underlying law from 1977 does not give the president the authority to impose tariffs."
+    },
+    {
+      "text": "Laut der US-Verfassung liegt die Zollhoheit beim Kongress und nicht beim Präsidenten.",
+      "translated_text": "According to the US Constitution, tariff authority lies with Congress and not with the president."
+    },
+    {
+      "text": "Kurz nach dem Urteil erließ Trump eine neue Verfügung und setzte einen Zoll von zehn Prozent auf alle Importe für 150 Tage fest.",
+      "translated_text": "Shortly after the ruling, Trump issued a new executive order and set a tariff of ten percent on all imports for 150 days."
+    },
+    {
+      "text": "Außerdem kündigte er an, den globalen Zollsatz bald auf 15 Prozent zu erhöhen.",
+      "translated_text": "He also announced plans to raise the global tariff rate to 15 percent soon."
+    },
+    {
+      "text": "Die Europäische Union begrüßte das Urteil und nannte es ein positives Signal für die Rechtsstaatlichkeit.",
+      "translated_text": "The European Union welcomed the ruling, calling it a positive signal for the rule of law."
+    },
+    {
+      "text": "Viele Unternehmen und demokratische Gesetzgeber fordern jetzt Rückerstattungen für bereits bezahlte Zölle.",
+      "translated_text": "Many companies and Democratic legislators are now demanding refunds for tariffs already paid."
+    },
+    {
+      "text": "Ökonomen warnen, dass trotz des Urteils die Verbraucherpreise vorerst nicht sinken werden.",
+      "translated_text": "Economists warn that despite the ruling, consumer prices will not fall in the near future."
+    },
+    {
+      "text": "Das Urteil gilt als einer der bedeutendsten Einschnitte in die Handelspolitik des Präsidenten in der modernen US-Geschichte.",
+      "translated_text": "The ruling is considered one of the most significant checks on presidential trade policy in modern US history."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Zoll",
+      "translated_term": "the tariff / customs duty",
+      "example_usage": "Trump hatte Zölle auf Importe aus fast allen Ländern der Welt eingeführt."
+    },
+    {
+      "term": "die Befugnis",
+      "translated_term": "the authority / power",
+      "example_usage": "Die Richter urteilten, dass der Präsident seine Befugnisse überschritten hatte."
+    },
+    {
+      "term": "die Verfügung",
+      "translated_term": "the executive order / decree",
+      "example_usage": "Kurz nach dem Urteil erließ Trump eine neue Verfügung."
+    },
+    {
+      "term": "die Rechtsstaatlichkeit",
+      "translated_term": "the rule of law",
+      "example_usage": "Die EU nannte das Urteil ein positives Signal für die Rechtsstaatlichkeit."
+    },
+    {
+      "term": "die Rückerstattung",
+      "translated_term": "the refund",
+      "example_usage": "Viele Unternehmen fordern Rückerstattungen für bereits bezahlte Zölle."
+    },
+    {
+      "term": "der Einschnitt",
+      "translated_term": "the check / the cut / the incision",
+      "example_usage": "Das Urteil gilt als einer der bedeutendsten Einschnitte in die Handelspolitik des Präsidenten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Handelspolitik",
+      "translated_name": "Trade Policy"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "SCOTUSblog: A breakdown of the court's tariff decision",
+      "link_url": "https://www.scotusblog.com/2026/02/a-breakdown-of-the-courts-tariff-decision/"
+    },
+    {
+      "name": "CNBC: What Supreme Court tariff ruling means for global trade, US economy",
+      "link_url": "https://www.cnbc.com/2026/02/23/what-supreme-court-tariff-ruling-means-for-global-trade-us-economy.html"
+    },
+    {
+      "name": "TIME: What's Next for Trump's Tariffs After SCOTUS Ruling",
+      "link_url": "https://time.com/7380732/trump-tariffs-supreme-court-ruling-ieepa-refunds-trade-deals-explainer/"
+    }
+  ]
+}
