@@ -1,0 +1,122 @@
+{
+  "title": "Berlin: Gericht verurteilt Syrer zu 13 Jahren Haft für antisemitischen Messerangriff",
+  "translated_title": "Berlin: Court Sentences Syrian Man to 13 Years in Prison for Antisemitic Knife Attack",
+  "text": [
+    {
+      "text": "Ein Berliner Gericht hat einen 20-jährigen Syrer zu 13 Jahren Haft verurteilt.",
+      "translated_text": "A Berlin court has sentenced a 20-year-old Syrian man to 13 years in prison."
+    },
+    {
+      "text": "Der Mann hatte im Februar 2025 einen Touristen am Holocaust-Mahnmal in Berlin angegriffen.",
+      "translated_text": "The man had attacked a tourist at the Holocaust Memorial in Berlin in February 2025."
+    },
+    {
+      "text": "Das Holocaust-Mahnmal erinnert an die Millionen jüdischen Menschen, die im Zweiten Weltkrieg ermordet wurden.",
+      "translated_text": "The Holocaust Memorial commemorates the millions of Jewish people who were murdered in the Second World War."
+    },
+    {
+      "text": "Das Opfer war ein spanischer Tourist, der das Mahnmal besucht hatte.",
+      "translated_text": "The victim was a Spanish tourist who had been visiting the memorial."
+    },
+    {
+      "text": "Der Täter stach dem Mann mit einem Messer in den Hals.",
+      "translated_text": "The attacker stabbed the man in the throat with a knife."
+    },
+    {
+      "text": "Das Opfer überlebte, musste aber sofort operiert werden und lag danach im künstlichen Koma.",
+      "translated_text": "The victim survived, but had to be operated on immediately and was afterwards placed in an induced coma."
+    },
+    {
+      "text": "Das Gericht stellte fest, dass der Angriff aus antisemitischen und islamistischen Motiven geschah.",
+      "translated_text": "The court found that the attack was motivated by antisemitism and Islamism."
+    },
+    {
+      "text": "Der Täter war 2022 als Flüchtling nach Deutschland gekommen.",
+      "translated_text": "The attacker had come to Germany as a refugee in 2022."
+    },
+    {
+      "text": "Das Urteil wurde von vielen als wichtiges Signal gegen Antisemitismus bewertet.",
+      "translated_text": "The verdict was assessed by many as an important signal against antisemitism."
+    },
+    {
+      "text": "In Deutschland gibt es seit Jahren Diskussionen über die Zunahme antisemitischer Straftaten.",
+      "translated_text": "There have been discussions in Germany for years about the increase in antisemitic crimes."
+    },
+    {
+      "text": "Besonders nach dem Hamas-Angriff auf Israel im Oktober 2023 stiegen die Zahlen stark an.",
+      "translated_text": "The numbers rose sharply especially after the Hamas attack on Israel in October 2023."
+    },
+    {
+      "text": "Die Staatsanwaltschaft hatte ebenfalls 13 Jahre Haft gefordert.",
+      "translated_text": "The public prosecution had also called for 13 years in prison."
+    },
+    {
+      "text": "Nach Verbüßung der Strafe soll der Mann in sein Heimatland abgeschoben werden.",
+      "translated_text": "After serving the sentence, the man is to be deported to his home country."
+    },
+    {
+      "text": "Der Fall zeigt, wie wichtig es ist, Gedenkstätten vor Anschlägen zu schützen.",
+      "translated_text": "The case shows how important it is to protect memorial sites from attacks."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Mahnmal",
+      "translated_term": "the memorial",
+      "example_usage": "Der Mann hatte einen Touristen am Holocaust-Mahnmal in Berlin angegriffen."
+    },
+    {
+      "term": "verurteilen",
+      "translated_term": "to sentence / to convict",
+      "example_usage": "Ein Berliner Gericht hat einen Syrer zu 13 Jahren Haft verurteilt."
+    },
+    {
+      "term": "die Haft",
+      "translated_term": "the imprisonment / custody",
+      "example_usage": "Das Gericht verurteilte den Mann zu 13 Jahren Haft."
+    },
+    {
+      "term": "der Täter",
+      "translated_term": "the perpetrator / attacker",
+      "example_usage": "Der Täter stach dem Mann mit einem Messer in den Hals."
+    },
+    {
+      "term": "abschieben",
+      "translated_term": "to deport",
+      "example_usage": "Nach Verbüßung der Strafe soll der Mann in sein Heimatland abgeschoben werden."
+    },
+    {
+      "term": "die Staatsanwaltschaft",
+      "translated_term": "the public prosecution / prosecutor's office",
+      "example_usage": "Die Staatsanwaltschaft hatte ebenfalls 13 Jahre Haft gefordert."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Antisemitismus",
+      "translated_name": "Antisemitism"
+    },
+    {
+      "name": "Justiz",
+      "translated_name": "Justice"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Washington Post: A Syrian man is convicted of stabbing a Spanish tourist at Berlin's Holocaust Memorial",
+      "link_url": "https://www.washingtonpost.com/world/2026/03/05/germany-holocaust-memorial-stabbing-trial-verdict-berlin/7c61eed0-187f-11f1-aef0-0aac8e8e94db_story.html"
+    },
+    {
+      "name": "US News & World Report: Syrian Man Handed 13-Year Sentence for Berlin Holocaust Memorial Stabbing",
+      "link_url": "https://www.usnews.com/news/world/articles/2026-03-05/syrian-man-handed-13-year-sentence-for-berlin-holocaust-memorial-stabbing"
+    },
+    {
+      "name": "Jewish Telegraphic Agency: Man who stabbed Spanish tourist at Berlin Holocaust memorial sentenced to 13 years",
+      "link_url": "https://www.jta.org/2026/03/05/global/man-who-stabbed-spanish-tourist-at-berlin-holocaust-memorial-sentenced-to-13-years-in-prison"
+    }
+  ]
+}
