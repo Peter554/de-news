@@ -1,0 +1,110 @@
+{
+  "title": "Russische Drohnen töten Bergarbeiter in der Ukraine",
+  "translated_title": "Russian drones kill miners in Ukraine",
+  "text": [
+    {
+      "text": "In der Ukraine hat eine russische Drohne einen Bus mit Bergarbeitern getroffen.",
+      "translated_text": "In Ukraine, a Russian drone struck a bus carrying miners."
+    },
+    {
+      "text": "Bei dem Angriff in der Region Dnipro kamen mindestens zwölf Menschen ums Leben.",
+      "translated_text": "In the attack in the Dnipro region, at least twelve people were killed."
+    },
+    {
+      "text": "Acht weitere Personen wurden dabei verletzt.",
+      "translated_text": "Eight more people were injured in the attack."
+    },
+    {
+      "text": "Die Opfer waren Mitarbeiter einer Kohlemine, die nach ihrer Schicht nach Hause fahren wollten.",
+      "translated_text": "The victims were employees of a coal mine who wanted to go home after their shift."
+    },
+    {
+      "text": "Das ukrainische Energieunternehmen DTEK nannte den Angriff einen gezielten Anschlag auf Arbeiter des Energiesektors.",
+      "translated_text": "The Ukrainian energy company DTEK called the attack a targeted strike on energy sector workers."
+    },
+    {
+      "text": "Russland führt regelmäßig Drohnenangriffe auf Ziele in der Ukraine durch.",
+      "translated_text": "Russia regularly carries out drone attacks on targets in Ukraine."
+    },
+    {
+      "text": "Besonders die Energieversorgung und andere zivile Infrastruktur werden dabei oft getroffen.",
+      "translated_text": "The energy supply and other civilian infrastructure are often hit in particular."
+    },
+    {
+      "text": "Die Vereinten Nationen kritisierten den Angriff und forderten den Schutz von Zivilisten.",
+      "translated_text": "The United Nations criticised the attack and called for the protection of civilians."
+    },
+    {
+      "text": "Gleichzeitig finden Gespräche über einen möglichen Frieden zwischen Russland und der Ukraine statt.",
+      "translated_text": "At the same time, talks about a possible peace between Russia and Ukraine are taking place."
+    },
+    {
+      "text": "Der ukrainische Präsident Selenskyj kündigte weitere Verhandlungsrunden an.",
+      "translated_text": "Ukrainian President Zelensky announced further rounds of negotiations."
+    },
+    {
+      "text": "Viele Länder, darunter die USA und EU-Staaten, unterstützen die Ukraine in dem Konflikt.",
+      "translated_text": "Many countries, including the USA and EU states, are supporting Ukraine in the conflict."
+    },
+    {
+      "text": "Seit dem russischen Einmarsch im Februar 2022 hat der Krieg in der Ukraine Tausende von Menschenleben gekostet.",
+      "translated_text": "Since Russia's invasion in February 2022, the war in Ukraine has cost thousands of lives."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Drohnenangriff",
+      "translated_term": "drone attack",
+      "example_usage": "Eine russische Drohne hat bei einem Drohnenangriff einen Bus mit Bergarbeitern getroffen."
+    },
+    {
+      "term": "der Bergarbeiter",
+      "translated_term": "miner",
+      "example_usage": "Die Opfer waren Mitarbeiter einer Kohlemine – also Bergarbeiter."
+    },
+    {
+      "term": "ums Leben kommen",
+      "translated_term": "to lose one's life, to be killed",
+      "example_usage": "Bei dem Angriff in der Region Dnipro kamen mindestens zwölf Menschen ums Leben."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "infrastructure",
+      "example_usage": "Besonders die Energieversorgung und andere zivile Infrastruktur werden oft getroffen."
+    },
+    {
+      "term": "die Verhandlungsrunde",
+      "translated_term": "round of negotiations",
+      "example_usage": "Der ukrainische Präsident Selenskyj kündigte weitere Verhandlungsrunden an."
+    },
+    {
+      "term": "der Einmarsch",
+      "translated_term": "invasion",
+      "example_usage": "Seit dem russischen Einmarsch im Februar 2022 hat der Krieg Tausende von Menschenleben gekostet."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Russian drone attack on bus in Ukraine kills at least 12",
+      "link_url": "https://www.aljazeera.com/news/2026/2/1/russian-drone-attack-on-bus-in-ukraine-kills-at-least-12"
+    },
+    {
+      "name": "CNN: Russian drone strike on bus in Ukraine kills 12 miners",
+      "link_url": "https://www.cnn.com/2026/02/01/europe/ukraine-russia-strike-dnipropetrovsk-bus-intl"
+    }
+  ]
+}

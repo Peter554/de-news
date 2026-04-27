@@ -1,0 +1,110 @@
+{
+  "title": "Großer Streik legt öffentlichen Nahverkehr lahm",
+  "translated_title": "Major strike paralyzes public transport",
+  "text": [
+    {
+      "text": "Vom 27. bis zum 28. Februar 2026 hat die Gewerkschaft ver.di einen bundesweiten Warnstreik im öffentlichen Nahverkehr ausgerufen.",
+      "translated_text": "From February 27 to 28, 2026, the trade union ver.di called a nationwide warning strike in public transport."
+    },
+    {
+      "text": "In mehr als 80 deutschen Städten standen Busse, Straßenbahnen und U-Bahnen fast vollständig still.",
+      "translated_text": "In more than 80 German cities, buses, trams, and underground trains came almost completely to a standstill."
+    },
+    {
+      "text": "Betroffen waren unter anderem Berlin, Hamburg, München, Frankfurt und Köln.",
+      "translated_text": "Affected cities included Berlin, Hamburg, Munich, Frankfurt, and Cologne."
+    },
+    {
+      "text": "In Berlin fuhr die BVG – also Busse, Trams und U-Bahn – für 48 Stunden nicht.",
+      "translated_text": "In Berlin, the BVG – meaning buses, trams, and underground trains – did not run for 48 hours."
+    },
+    {
+      "text": "Millionen von Menschen konnten nicht wie gewohnt zur Arbeit oder in die Schule fahren.",
+      "translated_text": "Millions of people could not travel to work or school as usual."
+    },
+    {
+      "text": "Viele Berliner nutzten deshalb das Fahrrad, gingen zu Fuß oder fuhren mit dem Taxi.",
+      "translated_text": "Many Berliners therefore used bicycles, walked, or took taxis."
+    },
+    {
+      "text": "Die S-Bahn, Regionalzüge und Fernzüge der Deutschen Bahn fuhren hingegen weiter normal.",
+      "translated_text": "The S-Bahn, regional trains, and long-distance trains of Deutsche Bahn, however, continued to run normally."
+    },
+    {
+      "text": "Ver.di fordert für die rund 100.000 betroffenen Mitarbeiter bei 150 Verkehrsbetrieben bessere Arbeitsbedingungen.",
+      "translated_text": "Ver.di is demanding better working conditions for around 100,000 affected employees at 150 transport operators."
+    },
+    {
+      "text": "Konkret möchte die Gewerkschaft kürzere Arbeitszeiten, längere Ruhepausen und höhere Zuschläge für Nacht- und Wochenendarbeit.",
+      "translated_text": "Specifically, the union wants shorter working hours, longer rest breaks, and higher bonuses for night and weekend work."
+    },
+    {
+      "text": "Die Arbeitgeber lehnen diese Forderungen ab, weil viele Verkehrsbetriebe nach zwei Jahren hoher Inflation in finanziellen Schwierigkeiten stecken.",
+      "translated_text": "The employers are rejecting these demands because many transport companies are in financial difficulties after two years of high inflation."
+    },
+    {
+      "text": "Wenn es keine Einigung gibt, hat ver.di weitere Streiks im März angedroht.",
+      "translated_text": "If no agreement is reached, ver.di has threatened further strikes in March."
+    },
+    {
+      "text": "Die nächsten Verhandlungen zwischen Gewerkschaft und Arbeitgebern sind für den 4. März geplant.",
+      "translated_text": "The next negotiations between the union and employers are planned for March 4."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Streik",
+      "translated_term": "strike",
+      "example_usage": "Ver.di hat einen bundesweiten Warnstreik im öffentlichen Nahverkehr ausgerufen."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "trade union",
+      "example_usage": "Die Gewerkschaft möchte kürzere Arbeitszeiten und höhere Zuschläge für Nacht- und Wochenendarbeit."
+    },
+    {
+      "term": "stillstehen",
+      "translated_term": "to stand still, to come to a standstill",
+      "example_usage": "In mehr als 80 deutschen Städten standen Busse, Straßenbahnen und U-Bahnen fast vollständig still."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand",
+      "example_usage": "Ver.di fordert für die rund 100.000 betroffenen Mitarbeiter bessere Arbeitsbedingungen."
+    },
+    {
+      "term": "der Zuschlag",
+      "translated_term": "bonus, supplement",
+      "example_usage": "Die Gewerkschaft möchte höhere Zuschläge für Nacht- und Wochenendarbeit."
+    },
+    {
+      "term": "die Verhandlungen",
+      "translated_term": "negotiations",
+      "example_usage": "Die nächsten Verhandlungen zwischen Gewerkschaft und Arbeitgebern sind für den 4. März geplant."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews: 48-hour strikes begin on Friday",
+      "link_url": "https://www.euronews.com/travel/2026/02/25/trains-trams-and-buses-face-disruption-across-germany-as-48-hour-strikes-begin-on-friday"
+    },
+    {
+      "name": "IamExpat: Nationwide strike to shut down German public transport",
+      "link_url": "https://www.iamexpat.de/expat-info/germany-news/nationwide-strike-shut-down-german-public-transport-friday-and-saturday"
+    }
+  ]
+}
