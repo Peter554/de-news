@@ -93,7 +93,15 @@ def main():
         f"## PRs included\n{pr_list_body}"
     )
     subprocess.run(
-        ["gh", "pr", "create", "--title", "Merge articles from conflicting PRs", "--body", body],
+        [
+            "gh",
+            "pr",
+            "create",
+            "--title",
+            "Merge articles from conflicting PRs",
+            "--body",
+            body,
+        ],
         check=True,
     )
 
@@ -103,10 +111,6 @@ def main():
         run(f"gh pr close {pr}")
 
     print("\n=== Done ===")
-
-
-if __name__ == "__main__":
-    main()
 
 
 def run(cmd: str, **kwargs) -> subprocess.CompletedProcess:
@@ -151,3 +155,7 @@ def merge_tags(base: list[dict], new: list[dict]) -> list[dict]:
 
 def sort_tags(tags: list[dict]) -> list[dict]:
     return sorted(tags, key=lambda t: t["name"])
+
+
+if __name__ == "__main__":
+    main()
