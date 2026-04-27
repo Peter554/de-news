@@ -1,0 +1,121 @@
+{
+  "title": "Verdi-Streik legt den Nahverkehr in NRW und Saarland lahm",
+  "translated_title": "Verdi Strike Brings Public Transport in NRW and Saarland to a Standstill",
+  "text": [
+    {
+      "text": "Die Gewerkschaft Verdi hat im März 2026 erneut zum Streik im öffentlichen Nahverkehr aufgerufen.",
+      "translated_text": "The trade union Verdi has again called for a strike in public transport in March 2026."
+    },
+    {
+      "text": "Besonders betroffen sind Nordrhein-Westfalen (NRW) und das Saarland.",
+      "translated_text": "North Rhine-Westphalia (NRW) and Saarland are particularly affected."
+    },
+    {
+      "text": "In NRW rief Verdi die Beschäftigten der Kölner Verkehrsbetriebe, der Stadtwerke Bonn und der Bahnen in Monheim zu einem ganztägigen Streik auf.",
+      "translated_text": "In NRW, Verdi called on employees of Cologne's transport company, Bonn's city utilities and the railways in Monheim to strike for a full day."
+    },
+    {
+      "text": "Pendlerinnen und Pendler in Köln, Bonn, Düsseldorf und Dortmund mussten sich auf erhebliche Einschränkungen einstellen.",
+      "translated_text": "Commuters in Cologne, Bonn, Düsseldorf and Dortmund had to prepare for considerable disruptions."
+    },
+    {
+      "text": "Im Saarland gab es einen dreitägigen Warnstreik vom 4. bis 6. März.",
+      "translated_text": "In Saarland, there was a three-day warning strike from 4 to 6 March."
+    },
+    {
+      "text": "Dabei fielen alle Busse auf 40 Saarbahn-Linien aus.",
+      "translated_text": "As a result, all buses on 40 Saarbahn lines stopped running."
+    },
+    {
+      "text": "Der Tarifkonflikt betrifft über 30 kommunale Verkehrsunternehmen in NRW mit rund 30.000 Beschäftigten.",
+      "translated_text": "The wage dispute affects more than 30 municipal transport companies in NRW with around 30,000 employees."
+    },
+    {
+      "text": "Verdi fordert eine Verkürzung der Wochenarbeitszeit von 39 auf 37 Stunden bei vollem Lohnausgleich.",
+      "translated_text": "Verdi is demanding a reduction in weekly working hours from 39 to 37 hours with full pay compensation."
+    },
+    {
+      "text": "Außerdem verlangt die Gewerkschaft höhere Zuschläge für Sonntags- und Schichtarbeit.",
+      "translated_text": "In addition, the union is demanding higher bonuses for Sunday and shift work."
+    },
+    {
+      "text": "Die Arbeitgeber und Verdi konnten sich bisher nicht einigen.",
+      "translated_text": "The employers and Verdi have so far been unable to reach an agreement."
+    },
+    {
+      "text": "Die nächste Verhandlungsrunde ist für den 24. März 2026 geplant.",
+      "translated_text": "The next round of negotiations is planned for 24 March 2026."
+    },
+    {
+      "text": "Fahrgäste haben bei einem Streik keinen Anspruch auf Erstattung ihrer Fahrkosten.",
+      "translated_text": "Passengers have no right to reimbursement of their travel costs during a strike."
+    },
+    {
+      "text": "Ein positives Zeichen kommt aus Schleswig-Holstein: Dort haben sich Verdi und Arbeitgeber am 1. März auf einen neuen Tarifvertrag geeinigt.",
+      "translated_text": "A positive sign comes from Schleswig-Holstein: there, Verdi and employers agreed on a new collective agreement on 1 March."
+    },
+    {
+      "text": "Der Abschluss in Schleswig-Holstein bringt spürbare Verbesserungen für alle Beschäftigtengruppen.",
+      "translated_text": "The agreement in Schleswig-Holstein brings noticeable improvements for all employee groups."
+    },
+    {
+      "text": "Ob der Erfolg in Schleswig-Holstein auch für NRW und das Saarland als Vorbild dienen kann, bleibt abzuwarten.",
+      "translated_text": "Whether the success in Schleswig-Holstein can also serve as a model for NRW and Saarland remains to be seen."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Warnstreik",
+      "translated_term": "the warning strike",
+      "example_usage": "Im Saarland gab es einen dreitägigen Warnstreik vom 4. bis 6. März."
+    },
+    {
+      "term": "der Tarifkonflikt",
+      "translated_term": "the wage dispute",
+      "example_usage": "Der Tarifkonflikt betrifft über 30 kommunale Verkehrsunternehmen in NRW."
+    },
+    {
+      "term": "der Lohnausgleich",
+      "translated_term": "the pay compensation",
+      "example_usage": "Verdi fordert eine Verkürzung der Wochenarbeitszeit bei vollem Lohnausgleich."
+    },
+    {
+      "term": "der Tarifvertrag",
+      "translated_term": "the collective agreement",
+      "example_usage": "Verdi und Arbeitgeber haben sich auf einen neuen Tarifvertrag geeinigt."
+    },
+    {
+      "term": "verlangen",
+      "translated_term": "to demand / to require",
+      "example_usage": "Außerdem verlangt die Gewerkschaft höhere Zuschläge für Sonntags- und Schichtarbeit."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ADAC: Streik im Nahverkehr: Jetzt sind NRW und das Saarland betroffen",
+      "link_url": "https://www.adac.de/news/verkehr-streik-nahverkehr-deutschland/"
+    },
+    {
+      "name": "Verdi NRW: ÖPNV-Streik in NRW: 12.000 streiken im kommunalen Nahverkehr",
+      "link_url": "https://www.verdi.de/nrw/presse/pressemitteilungen/oepnv-streik-nrw-12000-streiken-im-kommunalen-nahverkehr"
+    },
+    {
+      "name": "VRR: ver.di ruft erneut zu Streiks im Nahverkehr auf",
+      "link_url": "https://www.vrr.de/aktuelles/meldungen/verdi-warnstreik-bus-bahn/"
+    }
+  ]
+}
