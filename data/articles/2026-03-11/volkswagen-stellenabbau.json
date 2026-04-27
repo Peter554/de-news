@@ -1,0 +1,114 @@
+{
+  "title": "Volkswagen baut 50.000 Stellen ab",
+  "translated_title": "Volkswagen cuts 50,000 jobs",
+  "text": [
+    {
+      "text": "Der deutsche Automobilkonzern Volkswagen hat angekündigt, bis 2030 rund 50.000 Stellen in Deutschland abzubauen.",
+      "translated_text": "The German automobile group Volkswagen has announced it will cut around 50,000 jobs in Germany by 2030."
+    },
+    {
+      "text": "Der Grund dafür ist ein starker Rückgang der Gewinne.",
+      "translated_text": "The reason for this is a sharp decline in profits."
+    },
+    {
+      "text": "Im Jahr 2025 fiel der Nettogewinn des Konzerns um etwa 44 Prozent auf 6,9 Milliarden Euro.",
+      "translated_text": "In 2025, the group's net profit fell by around 44 percent to 6.9 billion euros."
+    },
+    {
+      "text": "Das ist der niedrigste Gewinn seit dem Dieselskandal im Jahr 2016.",
+      "translated_text": "That is the lowest profit since the diesel scandal in 2016."
+    },
+    {
+      "text": "VW-Konzernchef Oliver Blume schrieb in einem Brief an die Aktionäre, dass der Stellenabbau notwendig sei.",
+      "translated_text": "VW Group CEO Oliver Blume wrote in a letter to shareholders that the job cuts were necessary."
+    },
+    {
+      "text": "Der Stellenabbau betrifft alle Marken des Konzerns in Deutschland, zum Beispiel Audi, Porsche und die Softwaretochter Cariad.",
+      "translated_text": "The job cuts affect all of the group's brands in Germany, for example Audi, Porsche, and the software subsidiary Cariad."
+    },
+    {
+      "text": "Aktuell beschäftigt der Volkswagen-Konzern rund 293.000 Menschen in Deutschland.",
+      "translated_text": "Currently, the Volkswagen Group employs around 293,000 people in Germany."
+    },
+    {
+      "text": "Mit dem Stellenabbau soll die Mitarbeiterzahl auf etwa 250.000 sinken.",
+      "translated_text": "With the job cuts, the number of employees is expected to fall to around 250,000."
+    },
+    {
+      "text": "Volkswagen kämpft mit mehreren Problemen gleichzeitig: In Europa ist die Nachfrage nach Autos gering.",
+      "translated_text": "Volkswagen is struggling with several problems at the same time: demand for cars in Europe is low."
+    },
+    {
+      "text": "In China verliert VW viele Kunden an lokale Konkurrenten wie BYD und Geely.",
+      "translated_text": "In China, VW is losing many customers to local competitors such as BYD and Geely."
+    },
+    {
+      "text": "Außerdem treffen die US-Importzölle von 25 Prozent den Konzern hart.",
+      "translated_text": "In addition, the 25 percent US import tariffs are hitting the group hard."
+    },
+    {
+      "text": "Mit dem Stellenabbau will VW jährlich rund 15 Milliarden Euro einsparen.",
+      "translated_text": "With the job cuts, VW wants to save around 15 billion euros annually."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Stellenabbau",
+      "translated_term": "the job cuts / reduction in workforce",
+      "example_usage": "Volkswagen hat angekündigt, bis 2030 rund 50.000 Stellen abzubauen."
+    },
+    {
+      "term": "der Nettogewinn",
+      "translated_term": "the net profit",
+      "example_usage": "Der Nettogewinn des Konzerns fiel um etwa 44 Prozent."
+    },
+    {
+      "term": "der Aktionär",
+      "translated_term": "the shareholder",
+      "example_usage": "Blume schrieb in einem Brief an die Aktionäre."
+    },
+    {
+      "term": "der Importzoll",
+      "translated_term": "the import tariff",
+      "example_usage": "Die US-Importzölle von 25 Prozent treffen den Konzern hart."
+    },
+    {
+      "term": "einsparen",
+      "translated_term": "to save (money)",
+      "example_usage": "Mit dem Stellenabbau will VW jährlich rund 15 Milliarden Euro einsparen."
+    },
+    {
+      "term": "die Nachfrage",
+      "translated_term": "the demand",
+      "example_usage": "In Europa ist die Nachfrage nach Autos gering."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "electrive.com: VW Group to cut around 50,000 jobs in Germany",
+      "link_url": "https://www.electrive.com/2026/03/10/vw-group-to-cut-around-50000-jobs-in-germany/"
+    },
+    {
+      "name": "UPI: Volkswagen plans to cut 50,000 jobs, cites sink in profits",
+      "link_url": "https://www.upi.com/Top_News/World-News/2026/03/10/germany-volkswagen-cut-50000-jobs-profit/9191773165237/"
+    },
+    {
+      "name": "Daily Sabah: Volkswagen to slash 50,000 jobs in Germany by 2030 as profit slumps",
+      "link_url": "https://www.dailysabah.com/business/automotive/volkswagen-to-slash-50000-jobs-in-germany-by-2030-as-profit-slumps"
+    }
+  ]
+}

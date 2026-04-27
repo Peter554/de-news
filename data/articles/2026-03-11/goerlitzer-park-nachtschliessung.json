@@ -1,0 +1,114 @@
+{
+  "title": "Görlitzer Park in Berlin wird nachts geschlossen",
+  "translated_title": "Görlitzer Park in Berlin is closed at night",
+  "text": [
+    {
+      "text": "Seit dem 1. März 2026 wird der Görlitzer Park in Berlin-Kreuzberg in der Nacht geschlossen.",
+      "translated_text": "Since 1 March 2026, the Görlitzer Park in Berlin-Kreuzberg has been closed at night."
+    },
+    {
+      "text": "Der Park ist von 22:00 Uhr bis 6:00 Uhr abgesperrt.",
+      "translated_text": "The park is locked from 10pm to 6am."
+    },
+    {
+      "text": "Der Görlitzer Park ist seit vielen Jahren bekannt für Drogenhandel und Kriminalität.",
+      "translated_text": "The Görlitzer Park has been known for drug dealing and crime for many years."
+    },
+    {
+      "text": "Der Berliner Senat will mit dieser Maßnahme die Sicherheit im Park verbessern.",
+      "translated_text": "The Berlin Senate wants to use this measure to improve security in the park."
+    },
+    {
+      "text": "Für den Bau eines neuen Zauns gibt das Land Berlin rund zwei Millionen Euro aus.",
+      "translated_text": "The state of Berlin is spending around two million euros on the construction of a new fence."
+    },
+    {
+      "text": "Dazu kommen noch etwa 800.000 Euro pro Jahr für private Sicherheitsdienste.",
+      "translated_text": "In addition, there are around 800,000 euros per year for private security services."
+    },
+    {
+      "text": "In der ersten Nacht der Schließung fand im Park ein Protest-Konzert statt.",
+      "translated_text": "On the first night of the closure, a protest concert took place in the park."
+    },
+    {
+      "text": "Rund 300 Menschen demonstrierten gegen die Schließung.",
+      "translated_text": "Around 300 people demonstrated against the closure."
+    },
+    {
+      "text": "Das Bezirksamt Friedrichshain-Kreuzberg ist gegen die Maßnahme und nennt sie teure Symbolpolitik.",
+      "translated_text": "The Friedrichshain-Kreuzberg district office is against the measure and calls it expensive symbolic politics."
+    },
+    {
+      "text": "Das Bezirksamt befürchtet, dass sich die Kriminalität nur in benachbarte Wohngebiete verlagert.",
+      "translated_text": "The district office fears that crime will simply move to neighbouring residential areas."
+    },
+    {
+      "text": "Das Bündnis Görli Zaunfrei will juristisch gegen die Schließung vorgehen.",
+      "translated_text": "The alliance Görli Zaunfrei wants to take legal action against the closure."
+    },
+    {
+      "text": "Der Berliner Senat sieht die Nachtschließung als wichtigen Schritt für mehr Sicherheit in der Stadt.",
+      "translated_text": "The Berlin Senate sees the night closure as an important step towards greater security in the city."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Drogenhandel",
+      "translated_term": "the drug dealing / drug trade",
+      "example_usage": "Der Görlitzer Park ist seit vielen Jahren bekannt für Drogenhandel."
+    },
+    {
+      "term": "absperren",
+      "translated_term": "to close off / to lock",
+      "example_usage": "Der Park ist von 22:00 Uhr bis 6:00 Uhr abgesperrt."
+    },
+    {
+      "term": "die Symbolpolitik",
+      "translated_term": "symbolic politics",
+      "example_usage": "Das Bezirksamt nennt die Maßnahme teure Symbolpolitik."
+    },
+    {
+      "term": "verlagern",
+      "translated_term": "to shift / to move",
+      "example_usage": "Das Bezirksamt befürchtet, dass sich die Kriminalität nur in benachbarte Wohngebiete verlagert."
+    },
+    {
+      "term": "der Sicherheitsdienst",
+      "translated_term": "the security service",
+      "example_usage": "Das Land gibt 800.000 Euro pro Jahr für private Sicherheitsdienste aus."
+    },
+    {
+      "term": "juristisch vorgehen",
+      "translated_term": "to take legal action",
+      "example_usage": "Das Bündnis 'Görli Zaunfrei' will juristisch gegen die Schließung vorgehen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Kriminalität",
+      "translated_name": "Crime"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de: Görlitzer Park closed at night from March 1",
+      "link_url": "https://www.berlin.de/en/news/10231030-5559700-goerlitzer-park-closed-at-night-from-mar.en.html"
+    },
+    {
+      "name": "Tagesspiegel: Görlitzer Park wird erstmals nachts geschlossen",
+      "link_url": "https://www.tagesspiegel.de/berlin/bezirke/friedrichshain-kreuzberg/ab-sonntagabend-greift-der-sicherheitsdienst-durch-nachtschliessung-des-gorlitzer-parks-kommt--aber-was-geschieht-wenn-man-bleibt-15296597.html"
+    },
+    {
+      "name": "taz: Schließung des Görlitzer Parks in Berlin",
+      "link_url": "https://taz.de/Schliessung-des-Goerlitzer-Parks-in-Berlin/!6159043/"
+    }
+  ]
+}
