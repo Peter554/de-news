@@ -1,0 +1,119 @@
+{
+  "title": "US-Israel-Angriff auf Iran: Tag 17 des Konflikts",
+  "translated_title": "US-Israel Attack on Iran: Day 17 of the Conflict",
+  "text": [
+    {
+      "text": "Seit 17 Tagen führen die USA und Israel gemeinsame Angriffe auf den Iran durch.",
+      "translated_text": "For 17 days, the USA and Israel have been carrying out joint attacks on Iran."
+    },
+    {
+      "text": "Mehr als 1.400 Menschen sind im Iran getötet worden, und über 18.500 wurden verletzt.",
+      "translated_text": "More than 1,400 people have been killed in Iran, and over 18,500 have been injured."
+    },
+    {
+      "text": "Der Iran hat darauf mit eigenen Angriffen auf die Infrastruktur am Persischen Golf reagiert.",
+      "translated_text": "Iran has responded with its own attacks on infrastructure in the Persian Gulf."
+    },
+    {
+      "text": "Eine Drohne traf den Flughafen Dubai und verursachte einen Brand.",
+      "translated_text": "A drone struck Dubai airport and caused a fire."
+    },
+    {
+      "text": "Viele Flüge wurden gestrichen, und die Fluggesellschaft Emirates stellte den Betrieb kurzzeitig ein.",
+      "translated_text": "Many flights were cancelled, and the airline Emirates briefly halted operations."
+    },
+    {
+      "text": "Saudi-Arabien fing an einem einzigen Tag 37 iranische Drohnen ab.",
+      "translated_text": "Saudi Arabia intercepted 37 Iranian drones in a single day."
+    },
+    {
+      "text": "Die USA haben begonnen, Öl aus ihrer strategischen Reserve zu nutzen, weil die Ölpreise stark gestiegen sind.",
+      "translated_text": "The USA has started using oil from its strategic reserve because oil prices have risen sharply."
+    },
+    {
+      "text": "US-Präsident Trump forderte seine Verbündeten auf, bei der Sicherung der Straße von Hormus zu helfen.",
+      "translated_text": "US President Trump called on his allies to help secure the Strait of Hormuz."
+    },
+    {
+      "text": "Doch die meisten Verbündeten lehnten eine direkte Beteiligung ab.",
+      "translated_text": "However, most allies declined direct involvement."
+    },
+    {
+      "text": "Die Ukraine ist besorgt, weil die Aufmerksamkeit der USA jetzt auf den Nahen Osten gerichtet ist.",
+      "translated_text": "Ukraine is concerned because US attention is now focused on the Middle East."
+    },
+    {
+      "text": "Die Friedensverhandlungen zwischen Russland und der Ukraine wurden von Washington pausiert.",
+      "translated_text": "Peace negotiations between Russia and Ukraine have been paused by Washington."
+    },
+    {
+      "text": "Viele Länder fordern ein sofortiges Ende der Kampfhandlungen.",
+      "translated_text": "Many countries are calling for an immediate end to the fighting."
+    },
+    {
+      "text": "Die humanitäre Lage im Iran verschlechtert sich täglich.",
+      "translated_text": "The humanitarian situation in Iran deteriorates daily."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Angriff",
+      "translated_term": "the attack",
+      "example_usage": "Seit 17 Tagen führen die USA und Israel gemeinsame Angriffe auf den Iran durch."
+    },
+    {
+      "term": "die Drohne",
+      "translated_term": "the drone",
+      "example_usage": "Eine Drohne traf den Flughafen Dubai und verursachte einen Brand."
+    },
+    {
+      "term": "abfangen",
+      "translated_term": "to intercept",
+      "example_usage": "Saudi-Arabien fing an einem einzigen Tag 37 iranische Drohnen ab."
+    },
+    {
+      "term": "die strategische Reserve",
+      "translated_term": "the strategic reserve",
+      "example_usage": "Die USA haben begonnen, Öl aus ihrer strategischen Reserve zu nutzen."
+    },
+    {
+      "term": "die Straße von Hormus",
+      "translated_term": "the Strait of Hormuz",
+      "example_usage": "Trump forderte seine Verbündeten auf, bei der Sicherung der Straße von Hormus zu helfen."
+    },
+    {
+      "term": "ablehnen",
+      "translated_term": "to decline / to reject",
+      "example_usage": "Die meisten Verbündeten lehnten eine direkte Beteiligung ab."
+    },
+    {
+      "term": "die Kampfhandlungen",
+      "translated_term": "the fighting / combat operations",
+      "example_usage": "Viele Länder fordern ein sofortiges Ende der Kampfhandlungen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Iran war: What is happening on day 17 of US-Israel attacks?",
+      "link_url": "https://www.aljazeera.com/news/2026/3/16/iran-war-what-is-happening-on-day-17-of-us-israel-attacks"
+    },
+    {
+      "name": "The Washington Post: Dubai airport, major global hub, targeted by Iran drone strike",
+      "link_url": "https://www.washingtonpost.com/world/2026/03/16/dubai-airport-drone-strike-iran/"
+    }
+  ]
+}
