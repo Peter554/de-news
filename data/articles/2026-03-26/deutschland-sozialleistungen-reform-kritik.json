@@ -1,0 +1,102 @@
+{
+  "title": "Kritik an deutschem Sozialreformgesetz – Human Rights Watch warnt vor Armut",
+  "translated_title": "Criticism of German Social Reform Law – Human Rights Watch Warns of Poverty",
+  "text": [
+    {
+      "text": "Die neue deutsche Bundesregierung plant eine wichtige Änderung im Sozialsystem.",
+      "translated_text": "The new German federal government is planning an important change to the social security system."
+    },
+    {
+      "text": "Das bisherige Bürgergeld soll durch ein neues, strengeres System ersetzt werden.",
+      "translated_text": "The existing basic income programme is to be replaced by a new, stricter system."
+    },
+    {
+      "text": "Human Rights Watch, eine internationale Menschenrechtsorganisation, hat diesen Plan scharf kritisiert.",
+      "translated_text": "Human Rights Watch, an international human rights organisation, has sharply criticised this plan."
+    },
+    {
+      "text": "Die Organisation warnt, dass das neue Gesetz gegen das Grundgesetz verstoßen könnte.",
+      "translated_text": "The organisation warns that the new law could violate the Basic Law."
+    },
+    {
+      "text": "Das Grundgesetz garantiert allen Menschen in Deutschland ein würdevolles Leben.",
+      "translated_text": "The Basic Law guarantees all people in Germany a dignified life."
+    },
+    {
+      "text": "Besonders Kinder und alleinerziehende Mütter seien von Armut bedroht, so die Kritiker.",
+      "translated_text": "Children and single mothers in particular are threatened by poverty, according to critics."
+    },
+    {
+      "text": "Auch politisch gibt es in Deutschland wichtige Entwicklungen.",
+      "translated_text": "There are also important political developments in Germany."
+    },
+    {
+      "text": "Bei den letzten Landtagswahlen in Rheinland-Pfalz hat die AfD 19,5 Prozent der Stimmen erhalten.",
+      "translated_text": "In the last state elections in Rhineland-Palatinate, the AfD received 19.5 percent of the votes."
+    },
+    {
+      "text": "Viele junge Wählerinnen und Wähler haben diesmal für die AfD gestimmt.",
+      "translated_text": "Many young voters voted for the AfD this time."
+    },
+    {
+      "text": "Im Bereich Sicherheit hat die Bundesregierung die Waffenexporte an die Ukraine und Golfstaaten vereinfacht.",
+      "translated_text": "In the area of security, the federal government has simplified weapons exports to Ukraine and Gulf states."
+    },
+    {
+      "text": "Außerdem wurden die Grenzkontrollen, die eigentlich im März enden sollten, bis September 2026 verlängert.",
+      "translated_text": "In addition, the border controls, which were originally due to end in March, have been extended until September 2026."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Bürgergeld",
+      "translated_term": "the basic income / citizen's benefit",
+      "example_usage": "Das bisherige Bürgergeld soll durch ein neues, strengeres System ersetzt werden."
+    },
+    {
+      "term": "ersetzen",
+      "translated_term": "to replace",
+      "example_usage": "Das Bürgergeld soll durch ein neues System ersetzt werden."
+    },
+    {
+      "term": "verstoßen gegen",
+      "translated_term": "to violate / to contravene",
+      "example_usage": "Das neue Gesetz könnte gegen das Grundgesetz verstoßen."
+    },
+    {
+      "term": "das Grundgesetz",
+      "translated_term": "the Basic Law (German constitution)",
+      "example_usage": "Das Grundgesetz garantiert allen Menschen in Deutschland ein würdevolles Leben."
+    },
+    {
+      "term": "würdevoll",
+      "translated_term": "dignified",
+      "example_usage": "Das Grundgesetz garantiert allen Menschen in Deutschland ein würdevolles Leben."
+    },
+    {
+      "term": "verlängern",
+      "translated_term": "to extend / to prolong",
+      "example_usage": "Die Grenzkontrollen wurden bis September 2026 verlängert."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Sozialpolitik",
+      "translated_name": "Social Policy"
+    },
+    {
+      "name": "Menschenrechte",
+      "translated_name": "Human Rights"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Human Rights Watch: Germany – Proposed Bill Would Weaken Right to Social Security",
+      "link_url": "https://www.hrw.org/news/2026/03/05/germany-proposed-bill-would-weaken-right-to-social-security"
+    }
+  ]
+}

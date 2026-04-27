@@ -1,0 +1,123 @@
+{
+  "title": "Iran lehnt US-Waffenstillstandsvorschlag ab – Straße von Hormus bleibt blockiert",
+  "translated_title": "Iran Rejects US Ceasefire Proposal – Strait of Hormuz Remains Blocked",
+  "text": [
+    {
+      "text": "Seit mehr als vier Wochen dauert der Krieg zwischen den USA, Israel und dem Iran.",
+      "translated_text": "The war between the USA, Israel and Iran has been going on for more than four weeks."
+    },
+    {
+      "text": "US-Präsident Trump hat einen Waffenstillstand vorgeschlagen, aber der Iran hat diesen Vorschlag abgelehnt.",
+      "translated_text": "US President Trump proposed a ceasefire, but Iran has rejected this proposal."
+    },
+    {
+      "text": "Der Iran hat fünf Bedingungen für Verhandlungen gestellt.",
+      "translated_text": "Iran has set five conditions for negotiations."
+    },
+    {
+      "text": "Dazu gehören Kriegsentschädigungen und die Anerkennung der iranischen Kontrolle über die Straße von Hormus.",
+      "translated_text": "These include war reparations and recognition of Iranian control over the Strait of Hormuz."
+    },
+    {
+      "text": "Der iranische Außenminister sagte, dass geheime Gespräche über Pakistan keine echten Verhandlungen seien.",
+      "translated_text": "The Iranian Foreign Minister said that secret talks via Pakistan are not real negotiations."
+    },
+    {
+      "text": "Die Straße von Hormus ist ein sehr wichtiger Seeweg für die weltweite Ölversorgung.",
+      "translated_text": "The Strait of Hormuz is a very important sea route for the global oil supply."
+    },
+    {
+      "text": "Durch sie fließen normalerweise etwa zwanzig Prozent des weltweiten Öls.",
+      "translated_text": "Normally about twenty percent of the world's oil flows through it."
+    },
+    {
+      "text": "Der Ölpreis ist deshalb stark gestiegen und liegt jetzt bei etwa 126 Dollar pro Fass.",
+      "translated_text": "The oil price has therefore risen sharply and is now at around 126 dollars per barrel."
+    },
+    {
+      "text": "Der UN-Generalsekretär hat gewarnt, dass der Konflikt \u201evollständig außer Kontrolle\u201c sei.",
+      "translated_text": "The UN Secretary-General has warned that the conflict is 'completely out of control'."
+    },
+    {
+      "text": "Nach dem Tod des alten Religionsführers hat der Iran einen neuen Obersten Führer: Mojtaba Chamenei.",
+      "translated_text": "After the death of the old religious leader, Iran has a new Supreme Leader: Mojtaba Khamenei."
+    },
+    {
+      "text": "Er hat geschworen, die Blockade der Straße von Hormus fortzusetzen.",
+      "translated_text": "He has vowed to continue the blockade of the Strait of Hormuz."
+    },
+    {
+      "text": "Die internationale Gemeinschaft sucht dringend nach einer diplomatischen Lösung.",
+      "translated_text": "The international community is urgently seeking a diplomatic solution."
+    },
+    {
+      "text": "Viele Länder sind besorgt über steigende Energiepreise und eine mögliche globale Wirtschaftskrise.",
+      "translated_text": "Many countries are worried about rising energy prices and a possible global economic crisis."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "US-Präsident Trump hat einen Waffenstillstand vorgeschlagen, aber der Iran hat diesen Vorschlag abgelehnt."
+    },
+    {
+      "term": "ablehnen",
+      "translated_term": "to reject / to decline",
+      "example_usage": "Der Iran hat den Waffenstillstandsvorschlag abgelehnt."
+    },
+    {
+      "term": "die Kriegsentschädigung",
+      "translated_term": "the war reparation",
+      "example_usage": "Dazu gehören Kriegsentschädigungen und die Anerkennung der iranischen Kontrolle über die Straße von Hormus."
+    },
+    {
+      "term": "die Blockade",
+      "translated_term": "the blockade",
+      "example_usage": "Er hat geschworen, die Blockade der Straße von Hormus fortzusetzen."
+    },
+    {
+      "term": "die Bedingung",
+      "translated_term": "the condition",
+      "example_usage": "Der Iran hat fünf Bedingungen für Verhandlungen gestellt."
+    },
+    {
+      "term": "schwören",
+      "translated_term": "to vow / to swear",
+      "example_usage": "Er hat geschworen, die Blockade der Straße von Hormus fortzusetzen."
+    },
+    {
+      "term": "außer Kontrolle",
+      "translated_term": "out of control",
+      "example_usage": "Der UN-Generalsekretär hat gewarnt, dass der Konflikt vollständig außer Kontrolle sei."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR: Iran rejects Trump's proposal to end the war and lays out 5 conditions",
+      "link_url": "https://www.npr.org/2026/03/25/nx-s1-5760675/iran-war-military-deployment"
+    },
+    {
+      "name": "CNBC: Iran rejects U.S. ceasefire, demands Strait of Hormuz sovereignty",
+      "link_url": "https://www.cnbc.com/2026/03/25/iran-war-us-trump.html"
+    },
+    {
+      "name": "CNN: Day 26 of Middle East conflict live updates",
+      "link_url": "https://www.cnn.com/2026/03/25/world/live-news/iran-war-us-israel-trump-03-25-26"
+    }
+  ]
+}
