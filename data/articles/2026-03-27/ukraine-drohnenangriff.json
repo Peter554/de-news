@@ -1,0 +1,98 @@
+{
+  "title": "Russland schickt fast 400 Drohnen auf die Ukraine",
+  "translated_title": "Russia sends almost 400 drones at Ukraine",
+  "text": [
+    {
+      "text": "In der Nacht zum Freitag hat Russland fast 400 Drohnen und Dutzende Raketen auf die Ukraine abgefeuert.",
+      "translated_text": "In the night of Friday, Russia fired almost 400 drones and dozens of missiles at Ukraine."
+    },
+    {
+      "text": "Es war einer der größten Angriffe seit Beginn des Krieges.",
+      "translated_text": "It was one of the largest attacks since the start of the war."
+    },
+    {
+      "text": "Einige Drohnen flogen in die Nähe des NATO-Luftraums über Polen und Rumänien.",
+      "translated_text": "Some drones flew close to NATO airspace over Poland and Romania."
+    },
+    {
+      "text": "Beide Länder schickten Kampfjets, um die Situation zu beobachten.",
+      "translated_text": "Both countries scrambled fighter jets to monitor the situation."
+    },
+    {
+      "text": "Die NATO erklärte, dass kein Drohne das Bündnisgebiet getroffen hat.",
+      "translated_text": "NATO stated that no drone struck alliance territory."
+    },
+    {
+      "text": "In der Ukraine wurden durch die Angriffe mehrere Menschen getötet und viele verletzt.",
+      "translated_text": "In Ukraine, several people were killed and many injured by the attacks."
+    },
+    {
+      "text": "Gebäude in mehreren Städten wurden beschädigt oder zerstört.",
+      "translated_text": "Buildings in several cities were damaged or destroyed."
+    },
+    {
+      "text": "Militärexperten glauben, dass Russland mit diesem Angriff eine neue Frühjahrsoffensive signalisiert.",
+      "translated_text": "Military experts believe that Russia is signalling a new spring offensive with this attack."
+    },
+    {
+      "text": "Der ukrainische Präsident Selenskyj forderte mehr Luftverteidigungssysteme von den westlichen Verbündeten.",
+      "translated_text": "Ukrainian President Zelensky demanded more air defence systems from Western allies."
+    },
+    {
+      "text": "Die westlichen Länder verurteilten den Angriff und versprachen weitere Unterstützung für die Ukraine.",
+      "translated_text": "Western countries condemned the attack and promised further support for Ukraine."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Drohne",
+      "translated_term": "drone",
+      "example_usage": "Russland hat fast 400 Drohnen und Dutzende Raketen auf die Ukraine abgefeuert."
+    },
+    {
+      "term": "abfeuern",
+      "translated_term": "to fire / to launch",
+      "example_usage": "Russland hat fast 400 Drohnen auf die Ukraine abgefeuert."
+    },
+    {
+      "term": "der Luftraum",
+      "translated_term": "airspace",
+      "example_usage": "Einige Drohnen flogen in die Nähe des NATO-Luftraums über Polen und Rumänien."
+    },
+    {
+      "term": "die Luftverteidigung",
+      "translated_term": "air defence",
+      "example_usage": "Der ukrainische Präsident forderte mehr Luftverteidigungssysteme von den westlichen Verbündeten."
+    },
+    {
+      "term": "die Frühjahrsoffensive",
+      "translated_term": "spring offensive",
+      "example_usage": "Militärexperten glauben, dass Russland mit diesem Angriff eine neue Frühjahrsoffensive signalisiert."
+    },
+    {
+      "term": "verurteilen",
+      "translated_term": "to condemn",
+      "example_usage": "Die westlichen Länder verurteilten den Angriff und versprachen weitere Unterstützung für die Ukraine."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    },
+    {
+      "name": "NATO",
+      "translated_name": "NATO"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Fox News",
+      "link_url": "https://www.foxnews.com/world/nato-scrambles-jets-russia-fires-nearly-400-drones-toward-ukraine-signaling-new-spring-offensive"
+    }
+  ]
+}
