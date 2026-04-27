@@ -1,0 +1,131 @@
+{
+  "title": "Untersuchung: Anschlag in Southport hätte verhindert werden können",
+  "translated_title": "Inquiry: Attack in Southport could have been prevented",
+  "text": [
+    {
+      "text": "Im Sommer 2024 griff ein 17-jähriger Mann in Southport, England, Kinder mit einem Messer an.",
+      "translated_text": "In the summer of 2024, a 17-year-old man attacked children with a knife in Southport, England."
+    },
+    {
+      "text": "Bei dem Anschlag starben drei Mädchen: Bebe King (6 Jahre), Elsie Dot Stancombe (7 Jahre) und Alice da Silva Aguiar (9 Jahre).",
+      "translated_text": "Three girls died in the attack: Bebe King (6 years), Elsie Dot Stancombe (7 years), and Alice da Silva Aguiar (9 years)."
+    },
+    {
+      "text": "Zehn weitere Personen wurden bei dem Angriff verletzt.",
+      "translated_text": "Ten more people were injured in the attack."
+    },
+    {
+      "text": "Jetzt hat eine offizielle Untersuchung ihre Ergebnisse veröffentlicht.",
+      "translated_text": "Now an official inquiry has published its findings."
+    },
+    {
+      "text": "Der Leiter der Untersuchung, Sir Adrian Fulford, kommt zu einem klaren Schluss.",
+      "translated_text": "The head of the inquiry, Sir Adrian Fulford, comes to a clear conclusion."
+    },
+    {
+      "text": "Er sagt, der Anschlag hätte verhindert werden können.",
+      "translated_text": "He says the attack could have been prevented."
+    },
+    {
+      "text": "Der Angreifer war seit Jahren bei verschiedenen Behörden bekannt.",
+      "translated_text": "The attacker had been known to various authorities for years."
+    },
+    {
+      "text": "Er war fünf Jahre lang in Behandlung bei einer Kinder- und Jugendpsychiatrie.",
+      "translated_text": "He had been in treatment at a child and adolescent psychiatry unit for five years."
+    },
+    {
+      "text": "Nur sechs Tage vor dem Anschlag hatten Fachleute gesagt, er sei keine Gefahr für andere.",
+      "translated_text": "Only six days before the attack, experts had said he posed no threat to others."
+    },
+    {
+      "text": "Die Untersuchung kritisiert, dass die verschiedenen Behörden nicht gut zusammengearbeitet haben.",
+      "translated_text": "The inquiry criticises that the various authorities did not work together well."
+    },
+    {
+      "text": "Die Verantwortung wurde immer wieder an andere weitergegeben.",
+      "translated_text": "The responsibility was repeatedly passed on to others."
+    },
+    {
+      "text": "Premierminister Keir Starmer nannte die Ergebnisse tief beunruhigend.",
+      "translated_text": "Prime Minister Keir Starmer called the findings deeply distressing."
+    },
+    {
+      "text": "Er versprach wichtige Reformen, damit so etwas nicht wieder passiert.",
+      "translated_text": "He promised important reforms so that something like this does not happen again."
+    },
+    {
+      "text": "Die Familien der Opfer fordern strengere Maßnahmen zum Schutz der Öffentlichkeit.",
+      "translated_text": "The families of the victims are demanding stricter measures to protect the public."
+    },
+    {
+      "text": "Sie wollen, dass alle Behörden besser zusammenarbeiten, um gefährliche Situationen frühzeitig zu erkennen.",
+      "translated_text": "They want all authorities to work better together to identify dangerous situations early."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Anschlag",
+      "translated_term": "the attack",
+      "example_usage": "Bei dem Anschlag starben drei Mädchen."
+    },
+    {
+      "term": "verhindern",
+      "translated_term": "to prevent",
+      "example_usage": "Er sagt, der Anschlag hätte verhindert werden können."
+    },
+    {
+      "term": "die Untersuchung",
+      "translated_term": "the inquiry / investigation",
+      "example_usage": "Eine offizielle Untersuchung hat ihre Ergebnisse veröffentlicht."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "the authority",
+      "example_usage": "Der Angreifer war seit Jahren bei verschiedenen Behörden bekannt."
+    },
+    {
+      "term": "beunruhigend",
+      "translated_term": "distressing / alarming",
+      "example_usage": "Premierminister Starmer nannte die Ergebnisse tief beunruhigend."
+    },
+    {
+      "term": "die Reform",
+      "translated_term": "the reform",
+      "example_usage": "Er versprach wichtige Reformen, damit so etwas nicht wieder passiert."
+    },
+    {
+      "term": "frühzeitig",
+      "translated_term": "early on / in good time",
+      "example_usage": "Sie wollen, dass alle Behörden gefährliche Situationen frühzeitig erkennen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Justiz",
+      "translated_name": "Justice"
+    },
+    {
+      "name": "Kriminalität",
+      "translated_name": "Crime"
+    }
+  ],
+  "sources": [
+    {
+      "name": "GOV.UK: The Southport Inquiry: Phase 1 report",
+      "link_url": "https://www.gov.uk/government/speeches/the-southport-inquiry-phase-1-report"
+    },
+    {
+      "name": "RTE News: Southport attack could have been prevented - inquiry",
+      "link_url": "https://www.rte.ie/news/uk/2026/0413/1567947-southport-inquiry/"
+    },
+    {
+      "name": "OTS News: Southport Inquiry finds Hart Street attack was preventable",
+      "link_url": "https://www.otsnews.co.uk/southport-inquiry-finds-hart-street-attack-was-preventable/"
+    }
+  ]
+}

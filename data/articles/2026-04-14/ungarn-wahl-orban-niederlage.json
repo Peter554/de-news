@@ -1,0 +1,131 @@
+{
+  "title": "Peter Magyar gewinnt die Wahl in Ungarn – Orbán verliert nach 16 Jahren die Macht",
+  "translated_title": "Peter Magyar wins the election in Hungary – Orbán loses power after 16 years",
+  "text": [
+    {
+      "text": "Bei den Parlamentswahlen in Ungarn am 12. April 2026 hat der Oppositionsführer Peter Magyar gewonnen.",
+      "translated_text": "In the parliamentary elections in Hungary on 12 April 2026, opposition leader Peter Magyar won."
+    },
+    {
+      "text": "Seine Partei Tisza – Respekt und Freiheit – hat einen klaren Sieg errungen.",
+      "translated_text": "His party Tisza – Respect and Freedom – achieved a clear victory."
+    },
+    {
+      "text": "Tisza bekam 53,6 Prozent der Stimmen und erhielt 138 von 199 Parlamentssitzen.",
+      "translated_text": "Tisza received 53.6 percent of the votes and won 138 of 199 parliamentary seats."
+    },
+    {
+      "text": "Das reicht für eine Zwei-Drittel-Mehrheit im Parlament.",
+      "translated_text": "That is enough for a two-thirds majority in parliament."
+    },
+    {
+      "text": "Viktor Orbán, der seit 16 Jahren Ministerpräsident war, hat seine Niederlage eingestanden.",
+      "translated_text": "Viktor Orbán, who had been prime minister for 16 years, conceded his defeat."
+    },
+    {
+      "text": "Orbáns nationalistische Partei Fidesz bekam nur 37,8 Prozent der Stimmen.",
+      "translated_text": "Orbán's nationalist party Fidesz received only 37.8 percent of the votes."
+    },
+    {
+      "text": "Die Wahlbeteiligung war mit über 77 Prozent ein Rekord in Ungarns Geschichte nach dem Kommunismus.",
+      "translated_text": "Voter turnout of over 77 percent was a record in Hungary's post-communist history."
+    },
+    {
+      "text": "Orbán war bekannt als ein Verbündeter von US-Präsident Trump und Russlands Präsident Putin.",
+      "translated_text": "Orbán was known as an ally of US President Trump and Russia's President Putin."
+    },
+    {
+      "text": "Sein politischer Kurs führte oft zu Konflikten mit der Europäischen Union.",
+      "translated_text": "His political course often led to conflicts with the European Union."
+    },
+    {
+      "text": "Magyar hat versprochen, Ungarn näher an Europa zu bringen.",
+      "translated_text": "Magyar has promised to bring Hungary closer to Europe."
+    },
+    {
+      "text": "Viele Europäer hoffen, dass Ungarn jetzt eine aktivere Rolle in der EU spielen wird.",
+      "translated_text": "Many Europeans hope that Hungary will now play a more active role in the EU."
+    },
+    {
+      "text": "Ein wichtiges Thema ist auch die Unterstützung für die Ukraine.",
+      "translated_text": "An important topic is also the support for Ukraine."
+    },
+    {
+      "text": "Ungarn hat bisher die Auszahlung von 90 Milliarden Euro an die Ukraine blockiert.",
+      "translated_text": "Hungary has so far blocked the disbursement of 90 billion euros to Ukraine."
+    },
+    {
+      "text": "Mit dem neuen Regierungschef könnte dieses Geld nun freigegeben werden.",
+      "translated_text": "With the new head of government, this money could now be released."
+    },
+    {
+      "text": "Dieser Wahlerfolg wird als wichtiger Moment für die Demokratie in Europa gesehen.",
+      "translated_text": "This electoral success is seen as an important moment for democracy in Europe."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Wahl",
+      "translated_term": "the election",
+      "example_usage": "Bei den Parlamentswahlen in Ungarn hat der Oppositionsführer Peter Magyar gewonnen."
+    },
+    {
+      "term": "die Niederlage",
+      "translated_term": "the defeat",
+      "example_usage": "Viktor Orbán hat seine Niederlage eingestanden."
+    },
+    {
+      "term": "eingestehen",
+      "translated_term": "to admit / to concede",
+      "example_usage": "Viktor Orbán hat seine Niederlage eingestanden."
+    },
+    {
+      "term": "die Wahlbeteiligung",
+      "translated_term": "voter turnout",
+      "example_usage": "Die Wahlbeteiligung war mit über 77 Prozent ein Rekord."
+    },
+    {
+      "term": "blockieren",
+      "translated_term": "to block",
+      "example_usage": "Ungarn hat bisher die Auszahlung von 90 Milliarden Euro an die Ukraine blockiert."
+    },
+    {
+      "term": "versprechen",
+      "translated_term": "to promise",
+      "example_usage": "Magyar hat versprochen, Ungarn näher an Europa zu bringen."
+    },
+    {
+      "term": "freigeben",
+      "translated_term": "to release / to unblock",
+      "example_usage": "Mit dem neuen Regierungschef könnte dieses Geld nun freigegeben werden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ungarn",
+      "translated_name": "Hungary"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Demokratie",
+      "translated_name": "Democracy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN: Hungary election 2026 results: Petér Magyar wins, Trump ally Viktor Orbán concedes landmark defeat",
+      "link_url": "https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar"
+    },
+    {
+      "name": "Al Jazeera: Peter Magyar wins Hungary election, unseating Viktor Orban after 16 years",
+      "link_url": "https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz"
+    },
+    {
+      "name": "NPR: Hungary's Viktor Orbán concedes defeat, ending 16 years in power",
+      "link_url": "https://www.npr.org/2026/04/12/nx-s1-5782671/hungary-viktor-orban-concedes-defeat"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Berliner Flughafen BER: 155 Ziele im neuen Sommerflugplan 2026",
+  "translated_title": "Berlin Airport BER: 155 destinations in the new 2026 summer flight schedule",
+  "text": [
+    {
+      "text": "Der Flughafen Berlin-Brandenburg (BER) hat seinen neuen Sommerflugplan 2026 gestartet.",
+      "translated_text": "Berlin Brandenburg Airport (BER) has launched its new summer 2026 flight schedule."
+    },
+    {
+      "text": "Vom 29. März bis zum 24. Oktober 2026 können Reisende aus Berlin 155 Ziele in 55 Ländern erreichen.",
+      "translated_text": "From 29 March to 24 October 2026, travellers from Berlin can reach 155 destinations in 55 countries."
+    },
+    {
+      "text": "Insgesamt bieten 80 Fluggesellschaften Flüge vom BER an.",
+      "translated_text": "A total of 80 airlines are offering flights from BER."
+    },
+    {
+      "text": "Besonders interessant sind die neuen Langstreckenverbindungen nach Nordamerika.",
+      "translated_text": "Particularly interesting are the new long-haul connections to North America."
+    },
+    {
+      "text": "Air Canada fliegt ab dem 3. Juli 2026 dreimal pro Woche nonstop von Berlin nach Montréal in Kanada.",
+      "translated_text": "Air Canada will fly three times a week nonstop from Berlin to Montréal in Canada from 3 July 2026."
+    },
+    {
+      "text": "Air Transat verbindet Berlin dreimal pro Woche mit Toronto in Kanada.",
+      "translated_text": "Air Transat connects Berlin three times a week with Toronto in Canada."
+    },
+    {
+      "text": "Delta Air Lines fliegt bereits ab dem 29. März nonstop von Berlin nach New York.",
+      "translated_text": "Delta Air Lines has been flying nonstop from Berlin to New York since 29 March."
+    },
+    {
+      "text": "Auch neue europäische Verbindungen kommen dazu.",
+      "translated_text": "New European connections are also being added."
+    },
+    {
+      "text": "Ab dem 22. September verbindet Volotea Berlin zweimal pro Woche mit Florenz in der Toskana.",
+      "translated_text": "From 22 September, Volotea will connect Berlin twice a week with Florence in Tuscany."
+    },
+    {
+      "text": "Wizz Air fliegt erstmals direkt von Berlin nach Bratislava, der Hauptstadt der Slowakei.",
+      "translated_text": "Wizz Air is flying directly from Berlin to Bratislava, the capital of Slovakia, for the first time."
+    },
+    {
+      "text": "Eurowings, die Tochter der Lufthansa, erweitert ihr Angebot am BER.",
+      "translated_text": "Eurowings, the Lufthansa subsidiary, is expanding its offering at BER."
+    },
+    {
+      "text": "Die Airline baut ihre Basis auf neun Flugzeuge aus.",
+      "translated_text": "The airline is expanding its base to nine aircraft."
+    },
+    {
+      "text": "Auch die Bahnverbindungen zum Flughafen wurden verbessert.",
+      "translated_text": "The rail connections to the airport have also been improved."
+    },
+    {
+      "text": "Neue Gastronomie-Angebote in Terminal 1 machen den Aufenthalt am Flughafen angenehmer.",
+      "translated_text": "New catering options in Terminal 1 make the stay at the airport more pleasant."
+    },
+    {
+      "text": "Für Berliner und Brandenburger bedeutet dies mehr Reisemöglichkeiten direkt von ihrer Heimatstadt aus.",
+      "translated_text": "For people from Berlin and Brandenburg, this means more travel options directly from their home city."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Sommerflugplan",
+      "translated_term": "the summer flight schedule",
+      "example_usage": "Der Flughafen Berlin-Brandenburg hat seinen neuen Sommerflugplan 2026 gestartet."
+    },
+    {
+      "term": "die Langstreckenverbindung",
+      "translated_term": "the long-haul connection",
+      "example_usage": "Besonders interessant sind die neuen Langstreckenverbindungen nach Nordamerika."
+    },
+    {
+      "term": "nonstop",
+      "translated_term": "nonstop / direct",
+      "example_usage": "Air Canada fliegt ab dem 3. Juli nonstop von Berlin nach Montréal."
+    },
+    {
+      "term": "erweitern",
+      "translated_term": "to expand",
+      "example_usage": "Eurowings erweitert ihr Angebot am BER."
+    },
+    {
+      "term": "verbinden",
+      "translated_term": "to connect",
+      "example_usage": "Air Transat verbindet Berlin dreimal pro Woche mit Toronto in Kanada."
+    },
+    {
+      "term": "die Fluggesellschaft",
+      "translated_term": "the airline",
+      "example_usage": "Insgesamt bieten 80 Fluggesellschaften Flüge vom BER an."
+    },
+    {
+      "term": "das Ziel",
+      "translated_term": "the destination",
+      "example_usage": "Reisende aus Berlin können 155 Ziele in 55 Ländern erreichen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Reisen",
+      "translated_name": "Travel"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Flughafen BER: Sommerflugplan 2026",
+      "link_url": "https://ber.berlin-airport.de/de/news/2026-03-25-sommerflugplan-rw.html"
+    },
+    {
+      "name": "Park Sleep Fly: Sommerflugplan 2026 BER – Neue Strecken & Langstrecken",
+      "link_url": "https://www.park-sleep-fly.de/magazin/flughafen-berlin/sommerflugplan-2026-ber-neue-strecken-langstrecken-nordamerika/"
+    },
+    {
+      "name": "Berlin T-Online: Flughafen BER – Neue Reiseziele ab Berlin im Sommerflugplan 2026",
+      "link_url": "https://berlin.t-online.de/region/berlin/id_101185952/flughafen-ber-neue-reiseziele-ab-berlin-im-sommerflugplan-2026.html"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Sechster Warnstreik legt Münchner Nahverkehr lahm",
+  "translated_title": "Sixth warning strike brings Munich public transport to a standstill",
+  "text": [
+    {
+      "text": "Am Dienstag, dem 14. April 2026, streiken die Beschäftigten der Münchner Verkehrsgesellschaft (MVG).",
+      "translated_text": "On Tuesday, 14 April 2026, the employees of Munich's transport company (MVG) are on strike."
+    },
+    {
+      "text": "Die Gewerkschaft ver.di hat zu diesem Warnstreik aufgerufen.",
+      "translated_text": "The ver.di union has called for this warning strike."
+    },
+    {
+      "text": "Es ist bereits der sechste Warnstreik in den laufenden Tarifverhandlungen.",
+      "translated_text": "This is already the sixth warning strike in the ongoing wage negotiations."
+    },
+    {
+      "text": "Der Streik beginnt um 3:30 Uhr morgens und dauert 24 Stunden.",
+      "translated_text": "The strike starts at 3:30 am and lasts 24 hours."
+    },
+    {
+      "text": "U-Bahn und Tram fahren während des Streiks sehr eingeschränkt oder gar nicht.",
+      "translated_text": "The underground and trams are running very limited or not at all during the strike."
+    },
+    {
+      "text": "Auch viele Buslinien sind betroffen.",
+      "translated_text": "Many bus lines are also affected."
+    },
+    {
+      "text": "Die S-Bahn ist nicht betroffen und fährt ganz normal.",
+      "translated_text": "The S-Bahn is not affected and is running completely normally."
+    },
+    {
+      "text": "MVG empfiehlt Fahrgästen, die Informationen auf mvg.de oder in der MVGO-App zu prüfen.",
+      "translated_text": "MVG recommends that passengers check the information on mvg.de or in the MVGO app."
+    },
+    {
+      "text": "Hintergrund sind laufende Tarifverhandlungen zwischen ver.di und den kommunalen Arbeitgebern.",
+      "translated_text": "The background is ongoing wage negotiations between ver.di and municipal employers."
+    },
+    {
+      "text": "ver.di fordert höhere Löhne und bessere Arbeitsbedingungen für die Beschäftigten.",
+      "translated_text": "ver.di is demanding higher wages and better working conditions for employees."
+    },
+    {
+      "text": "Bislang konnte keine Einigung erzielt werden.",
+      "translated_text": "So far, no agreement has been reached."
+    },
+    {
+      "text": "Viele Münchner müssen heute auf andere Verkehrsmittel ausweichen.",
+      "translated_text": "Many Munich residents have to switch to other means of transport today."
+    },
+    {
+      "text": "Die Gewerkschaft hofft, durch den Druck zu einer schnellen Einigung zu kommen.",
+      "translated_text": "The union hopes to reach a quick agreement through the pressure."
+    },
+    {
+      "text": "Die Arbeitgeber sagen, die Forderungen seien zu hoch.",
+      "translated_text": "The employers say the demands are too high."
+    },
+    {
+      "text": "Beide Seiten sollen sich bald wieder zu Gesprächen treffen.",
+      "translated_text": "Both sides are expected to meet again for talks soon."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Warnstreik",
+      "translated_term": "the warning strike",
+      "example_usage": "Es ist bereits der sechste Warnstreik in den laufenden Tarifverhandlungen."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the trade union",
+      "example_usage": "Die Gewerkschaft ver.di hat zu diesem Warnstreik aufgerufen."
+    },
+    {
+      "term": "lahmlegen",
+      "translated_term": "to bring to a standstill",
+      "example_usage": "Ein Warnstreik legt den Münchner Nahverkehr lahm."
+    },
+    {
+      "term": "die Tarifverhandlung",
+      "translated_term": "the wage negotiation / collective bargaining",
+      "example_usage": "Hintergrund sind laufende Tarifverhandlungen zwischen ver.di und den kommunalen Arbeitgebern."
+    },
+    {
+      "term": "die Einigung",
+      "translated_term": "the agreement",
+      "example_usage": "Bislang konnte keine Einigung erzielt werden."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand",
+      "example_usage": "ver.di fordert höhere Löhne und bessere Arbeitsbedingungen für die Beschäftigten."
+    },
+    {
+      "term": "ausweichen",
+      "translated_term": "to switch to / to avoid",
+      "example_usage": "Viele Münchner müssen heute auf andere Verkehrsmittel ausweichen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "MVG: MVG wird am Dienstag, 14. April, erneut bestreikt",
+      "link_url": "https://www.mvg.de/presse/pressemeldungen/2026-04-11-dienstag-erneut-warnstreik.html"
+    },
+    {
+      "name": "Strike Tracker: Munich public transport strike on April 14, 2026",
+      "link_url": "https://striketracker.app/strikes-in-germany/transport-strike-munich-14-april-2026"
+    },
+    {
+      "name": "Why So Germany: Verdi Strike in Munich – Public Transport Faces Disruptions on Tuesday",
+      "link_url": "https://whysogermany.com/news/verdi-strike-in-munich-public-transport-faces-disruptions-on-tuesday/"
+    }
+  ]
+}
