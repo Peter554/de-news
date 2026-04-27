@@ -1,0 +1,130 @@
+{
+  "title": "Berlins Jüdisches Krankenhaus meldet Insolvenz an",
+  "translated_title": "Berlin's Jewish Hospital Files for Insolvency",
+  "text": [
+    {
+      "text": "Das Jüdische Krankenhaus Berlin hat im Dezember 2025 Insolvenz angemeldet.",
+      "translated_text": "The Jewish Hospital Berlin filed for insolvency in December 2025."
+    },
+    {
+      "text": "Es ist das einzige jüdische Krankenhaus in Deutschland und hat eine mehr als 260 Jahre alte Geschichte.",
+      "translated_text": "It is the only Jewish hospital in Germany and has a history of more than 260 years."
+    },
+    {
+      "text": "Am 4. März 2026 wurden die formalen Insolvenzverfahren offiziell eröffnet.",
+      "translated_text": "On 4 March 2026, the formal insolvency proceedings were officially opened."
+    },
+    {
+      "text": "Das Krankenhaus geriet aus mehreren Gründen in finanzielle Schwierigkeiten.",
+      "translated_text": "The hospital got into financial difficulties for several reasons."
+    },
+    {
+      "text": "Dazu gehören Reformen im Gesundheitswesen, Sparmaßnahmen des Bundes und steigende Kosten.",
+      "translated_text": "These include healthcare reforms, federal austerity measures, and rising costs."
+    },
+    {
+      "text": "Außerdem gab es erhebliche Wasserschäden in einem neuen Gebäude, das 60 Millionen Euro gekostet hatte.",
+      "translated_text": "In addition, there was significant water damage in a new building that had cost 60 million euros."
+    },
+    {
+      "text": "Das Krankenhaus beschäftigt etwa 820 Mitarbeiter, deren Gehälter vorerst gesichert sind.",
+      "translated_text": "The hospital employs around 820 staff, whose salaries are secure for the time being."
+    },
+    {
+      "text": "Alle Abteilungen sind weiterhin in Betrieb.",
+      "translated_text": "All departments continue to operate."
+    },
+    {
+      "text": "Mehrere Interessenten haben sich als mögliche Käufer oder Betreiber gemeldet.",
+      "translated_text": "Several interested parties have come forward as potential buyers or operators."
+    },
+    {
+      "text": "Darunter sind das staatliche Krankenhaus Vivantes, die Charité-Universitätsklinik und die private Sana Kliniken-Gruppe.",
+      "translated_text": "These include the state-owned hospital Vivantes, the Charité university hospital, and the private Sana Kliniken group."
+    },
+    {
+      "text": "Die Satzung der Stiftung verlangt, dass ein künftiger Betreiber gemeinnützig ist.",
+      "translated_text": "The foundation's charter requires that any future operator must be non-profit."
+    },
+    {
+      "text": "Außerdem muss die jüdische Tradition des Hauses bewahrt werden.",
+      "translated_text": "In addition, the Jewish tradition of the institution must be preserved."
+    },
+    {
+      "text": "Das macht eine rein kommerzielle Übernahme schwierig.",
+      "translated_text": "This makes a purely commercial takeover difficult."
+    },
+    {
+      "text": "Gespräche mit Vivantes wurden geführt, aber nicht weiterverfolgt.",
+      "translated_text": "Talks with Vivantes were held but not pursued further."
+    },
+    {
+      "text": "Der Berliner Senat hat sich noch nicht zu einer staatlichen Übernahme entschlossen.",
+      "translated_text": "The Berlin Senate has not yet decided on a state takeover."
+    },
+    {
+      "text": "Viele Berliner sind besorgt um die Zukunft dieser historischen und wichtigen Einrichtung.",
+      "translated_text": "Many Berliners are concerned about the future of this historic and important institution."
+    },
+    {
+      "text": "Das Krankenhaus ist nicht nur medizinisch wichtig, sondern auch ein Symbol jüdischen Lebens in Berlin.",
+      "translated_text": "The hospital is not only important medically, but also a symbol of Jewish life in Berlin."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Insolvenz",
+      "translated_term": "the insolvency / bankruptcy",
+      "example_usage": "Das Jüdische Krankenhaus Berlin hat im Dezember 2025 Insolvenz angemeldet."
+    },
+    {
+      "term": "gemeinnützig",
+      "translated_term": "non-profit / charitable",
+      "example_usage": "Die Satzung der Stiftung verlangt, dass ein künftiger Betreiber gemeinnützig ist."
+    },
+    {
+      "term": "die Satzung",
+      "translated_term": "the charter / the statute",
+      "example_usage": "Die Satzung der Stiftung verlangt, dass ein künftiger Betreiber gemeinnützig ist."
+    },
+    {
+      "term": "die Einrichtung",
+      "translated_term": "the institution / the facility",
+      "example_usage": "Viele Berliner sind besorgt um die Zukunft dieser historischen und wichtigen Einrichtung."
+    },
+    {
+      "term": "bewahren",
+      "translated_term": "to preserve / to maintain",
+      "example_usage": "Die jüdische Tradition des Hauses muss bewahrt werden."
+    },
+    {
+      "term": "der Betreiber",
+      "translated_term": "the operator",
+      "example_usage": "Die Satzung verlangt, dass ein künftiger Betreiber gemeinnützig ist."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tagesspiegel: Jüdisches Krankenhaus Berlin meldet vorläufiges Insolvenzverfahren an",
+      "link_url": "https://www.tagesspiegel.de/berlin/berliner-wirtschaft/einzige-einrichtung-seiner-art-in-deutschland-judisches-krankenhaus-berlin-meldet-vorlaufiges-insolvenzverfahren-an-15023034.html"
+    },
+    {
+      "name": "Entwicklungsstadt: Wie es für das Jüdische Krankenhaus weitergehen könnte",
+      "link_url": "https://www.entwicklungsstadt.de/zukunft-des-juedischen-krankenhauses-berlin-senat-haelt-sich-bei-traegerschaft-zurueck/"
+    }
+  ]
+}
