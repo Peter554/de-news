@@ -1,0 +1,127 @@
+{
+  "title": "Lufthansa-Streik: Tausende Flüge fallen aus",
+  "translated_title": "Lufthansa Strike: Thousands of Flights Cancelled",
+  "text": [
+    {
+      "text": "Die Kabinengewerkschaft UFO hat für Freitag, den 10. April 2026, einen ganztägigen Streik bei Lufthansa angekündigt.",
+      "translated_text": "The cabin crew union UFO has announced an all-day strike at Lufthansa for Friday, April 10, 2026."
+    },
+    {
+      "text": "Der Streik läuft von Mitternacht bis 22 Uhr.",
+      "translated_text": "The strike runs from midnight to 10 p.m."
+    },
+    {
+      "text": "Lufthansa erwartet, dass 80 bis 90 Prozent seiner Flüge gestrichen werden.",
+      "translated_text": "Lufthansa expects 80 to 90 percent of its flights to be cancelled."
+    },
+    {
+      "text": "Betroffen sind Abflüge von vielen großen deutschen Flughäfen, darunter Frankfurt, München, Hamburg, Berlin, Köln, Düsseldorf, Stuttgart, Bremen und Hannover.",
+      "translated_text": "Affected are departures from many large German airports, including Frankfurt, Munich, Hamburg, Berlin, Cologne, Düsseldorf, Stuttgart, Bremen and Hanover."
+    },
+    {
+      "text": "Die Gewerkschaft UFO sagt, dass das Lufthansa-Management keine Fortschritte bei besseren Arbeitsbedingungen für rund 19.000 Flugbegleiter gemacht hat.",
+      "translated_text": "The UFO union says that Lufthansa management has made no progress on better working conditions for around 19,000 cabin crew."
+    },
+    {
+      "text": "Ein weiteres Problem ist die geplante Schließung von Lufthansa CityLine.",
+      "translated_text": "Another problem is the planned closure of Lufthansa CityLine."
+    },
+    {
+      "text": "Etwa 800 Mitarbeiter sind von dieser Schließung betroffen.",
+      "translated_text": "Around 800 employees are affected by this closure."
+    },
+    {
+      "text": "UFO fordert einen Sozialplan für diese Mitarbeiter.",
+      "translated_text": "UFO demands a social plan for these employees."
+    },
+    {
+      "text": "Der Streik kommt zu einem besonders ungünstigen Zeitpunkt: Er fällt auf den Freitag vor dem Osterwochenende.",
+      "translated_text": "The strike comes at a particularly unfavorable time: it falls on the Friday before the Easter holiday weekend."
+    },
+    {
+      "text": "Viele Familien planen in dieser Zeit Reisen ins Ausland.",
+      "translated_text": "Many families are planning trips abroad during this time."
+    },
+    {
+      "text": "Lufthansa hat betroffene Passagiere gebeten, ihre Flüge umzubuchen oder zu stornieren.",
+      "translated_text": "Lufthansa has asked affected passengers to rebook or cancel their flights."
+    },
+    {
+      "text": "Der normale Betrieb soll am Samstag, dem 11. April, wieder aufgenommen werden.",
+      "translated_text": "Normal operations are expected to resume on Saturday, April 11."
+    },
+    {
+      "text": "Dieser Streik ist der neueste in einer langen Reihe von Arbeitskonflikten bei Lufthansa in den letzten Jahren.",
+      "translated_text": "This strike is the latest in a long series of labor disputes at Lufthansa in recent years."
+    },
+    {
+      "text": "Passagiere sollten die aktuellen Informationen auf der Lufthansa-Website überprüfen.",
+      "translated_text": "Passengers should check the latest information on the Lufthansa website."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "trade union",
+      "example_usage": "Die Kabinengewerkschaft UFO hat für Freitag, den 10. April 2026, einen ganztägigen Streik bei Lufthansa angekündigt."
+    },
+    {
+      "term": "der Streik",
+      "translated_term": "strike",
+      "example_usage": "Dieser Streik ist der neueste in einer langen Reihe von Arbeitskonflikten bei Lufthansa in den letzten Jahren."
+    },
+    {
+      "term": "der Flugbegleiter / die Flugbegleiterin",
+      "translated_term": "flight attendant",
+      "example_usage": "Die Gewerkschaft UFO sagt, dass das Lufthansa-Management keine Fortschritte bei besseren Arbeitsbedingungen für rund 19.000 Flugbegleiter gemacht hat."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel (a flight)",
+      "example_usage": "Lufthansa erwartet, dass 80 bis 90 Prozent seiner Flüge gestrichen werden."
+    },
+    {
+      "term": "der Sozialplan",
+      "translated_term": "redundancy/restructuring plan",
+      "example_usage": "UFO fordert einen Sozialplan für diese Mitarbeiter."
+    },
+    {
+      "term": "umbuchen",
+      "translated_term": "to rebook",
+      "example_usage": "Lufthansa hat betroffene Passagiere gebeten, ihre Flüge umzubuchen oder zu stornieren."
+    },
+    {
+      "term": "stornieren",
+      "translated_term": "to cancel (a booking)",
+      "example_usage": "Lufthansa hat betroffene Passagiere gebeten, ihre Flüge umzubuchen oder zu stornieren."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    }
+  ],
+  "sources": [
+    {
+      "name": "LoyaltyLobby: Lufthansa Crew Strike on Friday April 10, 2026",
+      "link_url": "https://loyaltylobby.com/2026/04/09/lufthansa-crew-strike-on-friday-april-10-2026-most-flights-to-be-cancelled/"
+    },
+    {
+      "name": "Bloomberg: Lufthansa faces cabin-crew strike on busy vacation travel Friday",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-04-08/lufthansa-faces-cabin-crew-strike-on-busy-vacation-friday"
+    },
+    {
+      "name": "Lufthansa Experts: Strike announcement by UFO for April 10, 2026",
+      "link_url": "https://irreg.lufthansaexperts.com/en/news/strike-announcement-at-lufthansa-by-trade-union-ufo-for-10-april-2026.html"
+    }
+  ]
+}

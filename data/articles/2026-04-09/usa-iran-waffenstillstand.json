@@ -1,0 +1,148 @@
+{
+  "title": "USA und Iran einigen sich auf Waffenstillstand",
+  "translated_title": "USA and Iran Agree on Ceasefire",
+  "text": [
+    {
+      "text": "Die USA und der Iran haben sich auf einen zweiwöchigen Waffenstillstand geeinigt.",
+      "translated_text": "The USA and Iran have agreed on a two-week ceasefire."
+    },
+    {
+      "text": "Pakistan half bei den Verhandlungen zwischen beiden Ländern.",
+      "translated_text": "Pakistan helped in the negotiations between the two countries."
+    },
+    {
+      "text": "Der Waffenstillstand begann am 8. April 2026, kurz bevor Trumps Ultimatum ablief.",
+      "translated_text": "The ceasefire began on April 8, 2026, shortly before Trump's ultimatum expired."
+    },
+    {
+      "text": "Der Konflikt hatte am 28. Februar 2026 begonnen, als die USA und Israel eine Militärkampagne gegen den Iran starteten.",
+      "translated_text": "The conflict had begun on February 28, 2026, when the USA and Israel launched a military campaign against Iran."
+    },
+    {
+      "text": "Als Reaktion darauf schloss der Iran die Straße von Hormus.",
+      "translated_text": "In response, Iran closed the Strait of Hormuz."
+    },
+    {
+      "text": "Diese wichtige Meeresstraße verbindet den Persischen Golf mit dem Arabischen Meer.",
+      "translated_text": "This important strait connects the Persian Gulf with the Arabian Sea."
+    },
+    {
+      "text": "Etwa ein Fünftel des weltweiten Öls und Gases wird durch diese Straße transportiert.",
+      "translated_text": "About one fifth of the world's oil and gas is transported through this strait."
+    },
+    {
+      "text": "Im Rahmen des Waffenstillstands stoppten die USA ihre Luftangriffe.",
+      "translated_text": "As part of the ceasefire, the USA stopped its air strikes."
+    },
+    {
+      "text": "Der Iran verpflichtete sich, die Straße von Hormus sofort wieder zu öffnen.",
+      "translated_text": "Iran committed to reopening the Strait of Hormuz immediately."
+    },
+    {
+      "text": "Die Nachricht vom Waffenstillstand ließ die Ölpreise stark sinken.",
+      "translated_text": "The news of the ceasefire caused oil prices to fall sharply."
+    },
+    {
+      "text": "Der Ölpreis fiel um mehr als 16 Prozent und lag erstmals seit Wochen unter 100 Dollar pro Barrel.",
+      "translated_text": "The oil price fell by more than 16 percent and was below $100 per barrel for the first time in weeks."
+    },
+    {
+      "text": "Aber der Waffenstillstand ist noch sehr fragil.",
+      "translated_text": "But the ceasefire is still very fragile."
+    },
+    {
+      "text": "Kurz nach Beginn des Waffenstillstands meldeten der Iran, die Vereinigten Arabischen Emirate und Kuwait neue Angriffe in der Region.",
+      "translated_text": "Shortly after the ceasefire began, Iran, the United Arab Emirates and Kuwait reported new attacks in the region."
+    },
+    {
+      "text": "Der Iran hat außerdem einen Zehn-Punkte-Friedensplan vorgelegt.",
+      "translated_text": "Iran has also presented a ten-point peace plan."
+    },
+    {
+      "text": "Dieser Plan fordert unter anderem den vollständigen Rückzug der US-Armee aus der Region und die Aufhebung aller Sanktionen.",
+      "translated_text": "This plan demands, among other things, the complete withdrawal of US troops from the region and the lifting of all sanctions."
+    },
+    {
+      "text": "Washington hat diese Forderungen bisher nicht akzeptiert.",
+      "translated_text": "Washington has not accepted these demands so far."
+    },
+    {
+      "text": "Die Lage in der Region bleibt sehr unsicher.",
+      "translated_text": "The situation in the region remains very uncertain."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "ceasefire",
+      "example_usage": "Die USA und der Iran haben sich auf einen zweiwöchigen Waffenstillstand geeinigt."
+    },
+    {
+      "term": "die Verhandlungen",
+      "translated_term": "negotiations",
+      "example_usage": "Pakistan half bei den Verhandlungen zwischen beiden Ländern."
+    },
+    {
+      "term": "das Ultimatum",
+      "translated_term": "ultimatum",
+      "example_usage": "Der Waffenstillstand begann am 8. April 2026, kurz bevor Trumps Ultimatum ablief."
+    },
+    {
+      "term": "die Meeresstraße",
+      "translated_term": "strait",
+      "example_usage": "Diese wichtige Meeresstraße verbindet den Persischen Golf mit dem Arabischen Meer."
+    },
+    {
+      "term": "der Luftangriff",
+      "translated_term": "air strike",
+      "example_usage": "Im Rahmen des Waffenstillstands stoppten die USA ihre Luftangriffe."
+    },
+    {
+      "term": "sich verpflichten",
+      "translated_term": "to commit (oneself)",
+      "example_usage": "Der Iran verpflichtete sich, die Straße von Hormus sofort wieder zu öffnen."
+    },
+    {
+      "term": "fragil",
+      "translated_term": "fragile",
+      "example_usage": "Aber der Waffenstillstand ist noch sehr fragil."
+    },
+    {
+      "term": "die Sanktionen",
+      "translated_term": "sanctions",
+      "example_usage": "Dieser Plan fordert unter anderem den vollständigen Rückzug der US-Armee aus der Region und die Aufhebung aller Sanktionen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Waffenstillstand",
+      "translated_name": "Ceasefire"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: US-Iran ceasefire deal — what are the terms and what's next?",
+      "link_url": "https://www.aljazeera.com/news/2026/4/8/us-iran-ceasefire-deal-what-are-the-terms-and-whats-next"
+    },
+    {
+      "name": "NPR: A fragile US-Iran ceasefire shows cracks as attacks continue",
+      "link_url": "https://www.npr.org/2026/04/08/nx-s1-5777291/iran-war-updates"
+    },
+    {
+      "name": "CNBC: A fragile US-Iran ceasefire sparks market relief",
+      "link_url": "https://www.cnbc.com/2026/04/08/us-iran-war-ceasefire-middle-east-strait-of-hormuz-oil-markets.html"
+    }
+  ]
+}

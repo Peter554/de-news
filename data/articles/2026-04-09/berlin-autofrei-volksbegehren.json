@@ -1,0 +1,123 @@
+{
+  "title": "Volksbegehren: Wird Berlin bald autofrei?",
+  "translated_title": "Referendum: Will Berlin Soon Be Car-Free?",
+  "text": [
+    {
+      "text": "In Berlin läuft derzeit eine Unterschriftenkampagne für ein autofreies Stadtinneres.",
+      "translated_text": "In Berlin, a signature campaign for a car-free city center is currently underway."
+    },
+    {
+      "text": "Die Initiative heißt \"Berlin autofrei\" und möchte private Autos aus dem Bereich innerhalb des S-Bahn-Rings verbannen.",
+      "translated_text": "The initiative is called \"Berlin autofrei\" and wants to ban private cars from the area within the S-Bahn ring."
+    },
+    {
+      "text": "In diesem Bereich wohnen fast 30 Prozent aller Berliner.",
+      "translated_text": "Nearly 30 percent of all Berliners live in this area."
+    },
+    {
+      "text": "Um ein verbindliches Volksbegehren auszulösen, braucht die Initiative bis zum 8. Mai 2026 etwa 174.000 gültige Unterschriften.",
+      "translated_text": "To trigger a binding referendum, the initiative needs approximately 174,000 valid signatures by May 8, 2026."
+    },
+    {
+      "text": "Das ist eine große Herausforderung: Bis zum 2. April 2026 wurden erst rund 46.200 Unterschriften eingereicht.",
+      "translated_text": "This is a big challenge: by April 2, 2026, only around 46,200 signatures had been submitted."
+    },
+    {
+      "text": "Von diesen Unterschriften wurden 86,7 Prozent als gültig bestätigt.",
+      "translated_text": "Of these signatures, 86.7 percent were confirmed as valid."
+    },
+    {
+      "text": "Die Kampagne muss also in kurzer Zeit sehr viele neue Unterschriften sammeln.",
+      "translated_text": "So the campaign needs to collect a large number of new signatures in a short time."
+    },
+    {
+      "text": "Wenn genug Unterschriften gesammelt werden, soll das Referendum am 20. September 2026 stattfinden.",
+      "translated_text": "If enough signatures are collected, the referendum is to take place on September 20, 2026."
+    },
+    {
+      "text": "Das ist der gleiche Tag wie die Berliner Abgeordnetenhauswahl.",
+      "translated_text": "That is the same day as the Berlin state parliament election."
+    },
+    {
+      "text": "Befürworter des Projekts sagen, dass eine autofreie Innenstadt die Luftqualität verbessern und den Lärm reduzieren würde.",
+      "translated_text": "Supporters of the project say that a car-free city center would improve air quality and reduce noise."
+    },
+    {
+      "text": "Außerdem würde mehr Platz für Fußgänger, Fahrradfahrer und den öffentlichen Nahverkehr entstehen.",
+      "translated_text": "Also, more space would be created for pedestrians, cyclists and public transport."
+    },
+    {
+      "text": "Kritiker hingegen befürchten, dass ein Fahrverbot den Einzelhandel und das Stadtleben negativ beeinflussen würde.",
+      "translated_text": "Critics, on the other hand, fear that a driving ban would negatively affect retail and city life."
+    },
+    {
+      "text": "Berlin ist bekannt für seine lebhafte Fahrradkultur, hat aber auch viel Autoverkehr.",
+      "translated_text": "Berlin is known for its lively cycling culture, but also has a lot of car traffic."
+    },
+    {
+      "text": "Die Initiatoren rufen alle Berliner auf, die Kampagne zu unterstützen und Unterschriften zu sammeln.",
+      "translated_text": "The initiators are calling on all Berliners to support the campaign and collect signatures."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Volksbegehren",
+      "translated_term": "citizens' initiative / referendum",
+      "example_usage": "Um ein verbindliches Volksbegehren auszulösen, braucht die Initiative bis zum 8. Mai 2026 etwa 174.000 gültige Unterschriften."
+    },
+    {
+      "term": "die Unterschrift",
+      "translated_term": "signature",
+      "example_usage": "Die Kampagne muss also in kurzer Zeit sehr viele neue Unterschriften sammeln."
+    },
+    {
+      "term": "verbannen",
+      "translated_term": "to ban",
+      "example_usage": "Die Initiative möchte private Autos aus dem Bereich innerhalb des S-Bahn-Rings verbannen."
+    },
+    {
+      "term": "die Herausforderung",
+      "translated_term": "challenge",
+      "example_usage": "Das ist eine große Herausforderung: Bis zum 2. April 2026 wurden erst rund 46.200 Unterschriften eingereicht."
+    },
+    {
+      "term": "der Befürworter / die Befürworterin",
+      "translated_term": "supporter / advocate",
+      "example_usage": "Befürworter des Projekts sagen, dass eine autofreie Innenstadt die Luftqualität verbessern würde."
+    },
+    {
+      "term": "der Einzelhandel",
+      "translated_term": "retail trade",
+      "example_usage": "Kritiker hingegen befürchten, dass ein Fahrverbot den Einzelhandel und das Stadtleben negativ beeinflussen würde."
+    },
+    {
+      "term": "der Nahverkehr",
+      "translated_term": "local public transport",
+      "example_usage": "Außerdem würde mehr Platz für Fußgänger, Fahrradfahrer und den öffentlichen Nahverkehr entstehen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Volksbegehren",
+      "translated_name": "Referendum"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de: Volksbegehren — Unterschriften Stand April 2026",
+      "link_url": "https://www.berlin.de/wahlen/pressemitteilungen/2026/pressemitteilung.1659120.php"
+    },
+    {
+      "name": "Berlin.de: Ongoing referendums — still need many signatures",
+      "link_url": "https://www.berlin.de/en/news/10253155-5559700-ongoing-referendums-still-need-many-sign.en.html"
+    }
+  ]
+}
