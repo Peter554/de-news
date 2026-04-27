@@ -1,0 +1,130 @@
+{
+  "title": "Lufthansa-Streik: Mehr als 520 Flüge gestrichen, 90.000 Passagiere betroffen",
+  "translated_title": "Lufthansa strike: More than 520 flights cancelled, 90,000 passengers affected",
+  "text": [
+    {
+      "text": "Am 10. April 2026 streikt das Kabinenpersonal von Lufthansa.",
+      "translated_text": "On April 10, 2026, Lufthansa's cabin crew is going on strike."
+    },
+    {
+      "text": "Die Gewerkschaft UFO hat den Streik kurzfristig angekündigt.",
+      "translated_text": "The UFO union announced the strike at short notice."
+    },
+    {
+      "text": "Der Streik läuft von 0:01 Uhr bis 22:00 Uhr.",
+      "translated_text": "The strike runs from 12:01 a.m. to 10:00 p.m."
+    },
+    {
+      "text": "Alle Lufthansa-Flüge ab Frankfurt und München sind betroffen.",
+      "translated_text": "All Lufthansa flights from Frankfurt and Munich are affected."
+    },
+    {
+      "text": "Auch Lufthansa CityLine streikt an neun deutschen Flughäfen.",
+      "translated_text": "Lufthansa CityLine is also striking at nine German airports."
+    },
+    {
+      "text": "Dazu gehören Hamburg, Bremen, Stuttgart, Köln, Düsseldorf, Berlin und Hannover.",
+      "translated_text": "These include Hamburg, Bremen, Stuttgart, Cologne, Düsseldorf, Berlin and Hanover."
+    },
+    {
+      "text": "Insgesamt müssen mehr als 520 Flüge gestrichen werden.",
+      "translated_text": "In total, more than 520 flights have to be cancelled."
+    },
+    {
+      "text": "Rund 90.000 Passagiere können nicht wie geplant reisen.",
+      "translated_text": "Around 90,000 passengers cannot travel as planned."
+    },
+    {
+      "text": "Der Grund für den Streik ist ein Tarifkonflikt.",
+      "translated_text": "The reason for the strike is a wage dispute."
+    },
+    {
+      "text": "Seit fünf Monaten gibt es keine Fortschritte in den Verhandlungen zwischen der Gewerkschaft und Lufthansa.",
+      "translated_text": "For five months, there has been no progress in the negotiations between the union and Lufthansa."
+    },
+    {
+      "text": "UFO wirft Lufthansa vor, kein Angebot gemacht zu haben.",
+      "translated_text": "UFO accuses Lufthansa of not having made an offer."
+    },
+    {
+      "text": "Lufthansa hingegen möchte Vorteile des Personals kürzen, was die Gewerkschaft ablehnt.",
+      "translated_text": "Lufthansa, on the other hand, wants to cut staff benefits, which the union rejects."
+    },
+    {
+      "text": "Bei Lufthansa CityLine gibt es ein weiteres Problem: Die Tochtergesellschaft soll geschlossen werden.",
+      "translated_text": "At Lufthansa CityLine there is another problem: the subsidiary is to be closed."
+    },
+    {
+      "text": "Dadurch verlieren etwa 800 Mitarbeiter ihren Arbeitsplatz.",
+      "translated_text": "As a result, around 800 employees will lose their jobs."
+    },
+    {
+      "text": "Die Gewerkschaft fordert einen Sozialplan, um diese Mitarbeiter zu unterstützen.",
+      "translated_text": "The union demands a social plan to support these employees."
+    },
+    {
+      "text": "Flüge anderer Lufthansa-Töchter wie Austrian Airlines und SWISS sind nicht betroffen.",
+      "translated_text": "Flights of other Lufthansa subsidiaries such as Austrian Airlines and SWISS are not affected."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Streik",
+      "translated_term": "strike",
+      "example_usage": "Am 10. April 2026 streikt das Kabinenpersonal von Lufthansa."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "union",
+      "example_usage": "Die Gewerkschaft UFO hat den Streik kurzfristig angekündigt."
+    },
+    {
+      "term": "das Kabinenpersonal",
+      "translated_term": "cabin crew",
+      "example_usage": "Am 10. April 2026 streikt das Kabinenpersonal von Lufthansa."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel (a flight)",
+      "example_usage": "Insgesamt müssen mehr als 520 Flüge gestrichen werden."
+    },
+    {
+      "term": "der Tarifkonflikt",
+      "translated_term": "wage dispute",
+      "example_usage": "Der Grund für den Streik ist ein Tarifkonflikt."
+    },
+    {
+      "term": "der Sozialplan",
+      "translated_term": "social plan (redundancy plan)",
+      "example_usage": "Die Gewerkschaft fordert einen Sozialplan, um diese Mitarbeiter zu unterstützen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg – Lufthansa Cabin-Crew Strike Set to Cancel More Than 500 Flights",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-04-10/lufthansa-cabin-crew-strike-set-to-cancel-more-than-500-flights"
+    },
+    {
+      "name": "One Mile at a Time – Lufthansa Flight Attendants Going On Strike",
+      "link_url": "https://onemileatatime.com/news/lufthansa-flight-attendant-strike/"
+    },
+    {
+      "name": "Lufthansa Experts – Strike announcement by UFO for 10 April 2026",
+      "link_url": "https://irreg.lufthansaexperts.com/en/news/strike-announcement-at-lufthansa-by-trade-union-ufo-for-10-april-2026.html"
+    }
+  ]
+}

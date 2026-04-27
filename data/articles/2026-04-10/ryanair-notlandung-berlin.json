@@ -1,0 +1,126 @@
+{
+  "title": "Notlandung am Flughafen Berlin Brandenburg: Ryanair-Maschine landet sicher",
+  "translated_title": "Emergency landing at Berlin Brandenburg Airport: Ryanair plane lands safely",
+  "text": [
+    {
+      "text": "Am 8. April 2026 musste ein Ryanair-Flugzeug am Flughafen Berlin Brandenburg notlanden.",
+      "translated_text": "On April 8, 2026, a Ryanair plane had to make an emergency landing at Berlin Brandenburg Airport."
+    },
+    {
+      "text": "Das Flugzeug war eine Boeing 737-800 und flog von Bukarest nach Berlin.",
+      "translated_text": "The plane was a Boeing 737-800 and was flying from Bucharest to Berlin."
+    },
+    {
+      "text": "Es handelte sich um den Flug FR315.",
+      "translated_text": "It was flight FR315."
+    },
+    {
+      "text": "Kurz vor der Landung meldete die Besatzung ein technisches Problem.",
+      "translated_text": "Shortly before landing, the crew reported a technical problem."
+    },
+    {
+      "text": "Der Flughafen alarmierte sofort die Feuerwehr.",
+      "translated_text": "The airport immediately alerted the fire brigade."
+    },
+    {
+      "text": "Mehr als ein Dutzend Feuerwehrautos eilten zum Rollfeld.",
+      "translated_text": "More than a dozen fire trucks rushed to the tarmac."
+    },
+    {
+      "text": "Die Feuerwehr umstellte das Flugzeug, bereit für einen Notfall.",
+      "translated_text": "The fire brigade surrounded the aircraft, ready for an emergency."
+    },
+    {
+      "text": "Das Flugzeug landete sicher auf der Landebahn.",
+      "translated_text": "The plane landed safely on the runway."
+    },
+    {
+      "text": "Alle Passagiere und Besatzungsmitglieder blieben unverletzt.",
+      "translated_text": "All passengers and crew members remained unharmed."
+    },
+    {
+      "text": "Die Passagiere verließen das Flugzeug normal, nachdem Sicherheitschecks durchgeführt wurden.",
+      "translated_text": "Passengers disembarked normally after safety checks were carried out."
+    },
+    {
+      "text": "Die genaue Ursache des technischen Problems ist noch unklar.",
+      "translated_text": "The exact cause of the technical problem is still unclear."
+    },
+    {
+      "text": "Die Behörden untersuchen den Vorfall.",
+      "translated_text": "The authorities are investigating the incident."
+    },
+    {
+      "text": "Der Flughafenbetrieb wurde nur kurz unterbrochen und lief bald wieder normal.",
+      "translated_text": "Airport operations were only briefly interrupted and soon returned to normal."
+    },
+    {
+      "text": "Der Flughafen Berlin Brandenburg, auch BER genannt, ist der einzige internationale Flughafen Berlins.",
+      "translated_text": "Berlin Brandenburg Airport, also known as BER, is Berlin's only international airport."
+    },
+    {
+      "text": "Ryanair ist eine der größten Billigfluggesellschaften Europas und fliegt viele Strecken nach Berlin.",
+      "translated_text": "Ryanair is one of the largest low-cost airlines in Europe and flies many routes to Berlin."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Notlandung",
+      "translated_term": "emergency landing",
+      "example_usage": "Ein Ryanair-Flugzeug musste am Flughafen Berlin Brandenburg notlanden."
+    },
+    {
+      "term": "die Besatzung",
+      "translated_term": "crew",
+      "example_usage": "Kurz vor der Landung meldete die Besatzung ein technisches Problem."
+    },
+    {
+      "term": "das Rollfeld",
+      "translated_term": "tarmac, apron",
+      "example_usage": "Mehr als ein Dutzend Feuerwehrautos eilten zum Rollfeld."
+    },
+    {
+      "term": "unverletzt",
+      "translated_term": "unharmed, unhurt",
+      "example_usage": "Alle Passagiere und Besatzungsmitglieder blieben unverletzt."
+    },
+    {
+      "term": "untersuchen",
+      "translated_term": "to investigate, to examine",
+      "example_usage": "Die Behörden untersuchen den Vorfall."
+    },
+    {
+      "term": "die Billigfluggesellschaft",
+      "translated_term": "low-cost airline",
+      "example_usage": "Ryanair ist eine der größten Billigfluggesellschaften Europas."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Travel And Tour World – Ryanair Boeing 737-800 Emergency Landing at Berlin Brandenburg Airport",
+      "link_url": "https://www.travelandtourworld.com/news/article/ryanair-boeing-737-800-flight-fr315-from-bucharest-to-berlin-makes-a-emergency-landing-at-berlin-brandenburg-airport-new-update-is-here/"
+    },
+    {
+      "name": "AirLive – Ryanair flight FR315 surrounded by firetrucks after emergency landing",
+      "link_url": "https://airlive.net/emergency/2026/04/08/breaking-ryanair-flight-fr315-surrounded-by-firetrucks-after-emergency-landing-at-berlin-brandenburg-airport/"
+    },
+    {
+      "name": "Aviation Today – Ryanair flight declares emergency, lands safely in Berlin",
+      "link_url": "https://aviationtoday.in/incidents/ryanair-flight-declares-emergency-after-technical-anomaly-lands-safely-in-berlin/"
+    }
+  ]
+}
