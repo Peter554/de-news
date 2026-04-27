@@ -1,0 +1,138 @@
+{
+  "title": "Neues EU-Grenzsystem EES sorgt für Chaos an Flughäfen",
+  "translated_title": "New EU border system EES causes chaos at airports",
+  "text": [
+    {
+      "text": "Seit dem 10. April 2026 gilt in der Europäischen Union ein neues Grenzsystem.",
+      "translated_text": "Since 10 April 2026, a new border control system has been in force in the European Union."
+    },
+    {
+      "text": "Es heißt \"Entry/Exit System\", kurz EES.",
+      "translated_text": "It is called the \"Entry/Exit System\", or EES for short."
+    },
+    {
+      "text": "Das System speichert biometrische Daten von Reisenden, die nicht aus der EU kommen.",
+      "translated_text": "The system stores biometric data of travellers who are not from the EU."
+    },
+    {
+      "text": "Dazu gehören Gesichtsscans, Fingerabdrücke und Passdaten.",
+      "translated_text": "These include facial scans, fingerprints and passport data."
+    },
+    {
+      "text": "Das Ziel ist, die Grenzkontrolle in Europa zu modernisieren und die Sicherheit zu erhöhen.",
+      "translated_text": "The aim is to modernise border control in Europe and improve security."
+    },
+    {
+      "text": "Aber das System hat in den ersten Wochen große Probleme verursacht.",
+      "translated_text": "But the system has caused major problems in the first weeks."
+    },
+    {
+      "text": "An vielen Flughäfen müssen Reisende bis zu drei Stunden warten.",
+      "translated_text": "At many airports, travellers have to wait up to three hours."
+    },
+    {
+      "text": "Es gibt lange Warteschlangen in Frankreich, Deutschland, Belgien, Italien, Spanien und Griechenland.",
+      "translated_text": "There are long queues in France, Germany, Belgium, Italy, Spain and Greece."
+    },
+    {
+      "text": "Besonders dramatisch war die Situation am Flughafen Mailand.",
+      "translated_text": "The situation at Milan airport was particularly dramatic."
+    },
+    {
+      "text": "Dort musste ein EasyJet-Flug nach Manchester ohne 122 Passagiere starten.",
+      "translated_text": "There, an EasyJet flight to Manchester had to depart without 122 passengers."
+    },
+    {
+      "text": "Die Passagiere standen noch in der Schlange, als das Flugzeug abflog.",
+      "translated_text": "The passengers were still in the queue when the plane departed."
+    },
+    {
+      "text": "Es gibt mehrere Gründe für die Probleme.",
+      "translated_text": "There are several reasons for the problems."
+    },
+    {
+      "text": "Erstens gibt es nicht genug Personal an den Grenzkontrollstellen.",
+      "translated_text": "Firstly, there is not enough staff at border control points."
+    },
+    {
+      "text": "Zweitens haben die Kioske technische Fehler.",
+      "translated_text": "Secondly, the kiosks have technical errors."
+    },
+    {
+      "text": "Drittens sind alle Reisenden zum ersten Mal im System registriert und brauchen deshalb mehr Zeit.",
+      "translated_text": "Thirdly, all travellers are registered in the system for the first time and therefore need more time."
+    },
+    {
+      "text": "Der Flughafenrat Europa warnte, dass die Situation in der Sommersaison noch schlimmer werden könnte.",
+      "translated_text": "The Airports Council of Europe warned that the situation could get even worse in the summer season."
+    },
+    {
+      "text": "Experten nennen das EES einen \"systemischen Fehler\".",
+      "translated_text": "Experts call the EES a \"systemic failure\"."
+    },
+    {
+      "text": "Die EU muss schnell Lösungen finden, damit der Tourismus nicht darunter leidet.",
+      "translated_text": "The EU must quickly find solutions so that tourism does not suffer."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Grenzkontrolle",
+      "translated_term": "border control",
+      "example_usage": "Das Ziel ist, die Grenzkontrolle in Europa zu modernisieren und die Sicherheit zu erhöhen."
+    },
+    {
+      "term": "biometrisch",
+      "translated_term": "biometric",
+      "example_usage": "Das System speichert biometrische Daten von Reisenden, die nicht aus der EU kommen."
+    },
+    {
+      "term": "der Fingerabdruck",
+      "translated_term": "the fingerprint",
+      "example_usage": "Dazu gehören Gesichtsscans, Fingerabdrücke und Passdaten."
+    },
+    {
+      "term": "die Warteschlange",
+      "translated_term": "the queue",
+      "example_usage": "An vielen Flughäfen müssen Reisende bis zu drei Stunden warten."
+    },
+    {
+      "term": "warnen",
+      "translated_term": "to warn",
+      "example_usage": "Der Flughafenrat Europa warnte, dass die Situation in der Sommersaison noch schlimmer werden könnte."
+    },
+    {
+      "term": "registrieren",
+      "translated_term": "to register",
+      "example_usage": "Alle Reisenden sind zum ersten Mal im System registriert und brauchen deshalb mehr Zeit."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Europäische Union",
+      "translated_name": "European Union"
+    },
+    {
+      "name": "Reisen",
+      "translated_name": "Travel"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews: A systemic failure – How the new Entry/Exit System (EES) brought chaos to EU border control",
+      "link_url": "https://www.euronews.com/travel/2026/04/14/a-systemic-failure-how-the-new-entryexit-system-ees-brought-chaos-to-eu-border-control"
+    },
+    {
+      "name": "Nomad Lawyer: Europe Airport Chaos – New EES Rules Trigger 3-Hour Queues, Missed Flights Across Schengen Zone",
+      "link_url": "https://nomadlawyer.org/europe-airport-chaos-new-ees-rules-trigger-3-hour-queues-missed-flights-across-schengen-zone-in-april-2026"
+    }
+  ]
+}

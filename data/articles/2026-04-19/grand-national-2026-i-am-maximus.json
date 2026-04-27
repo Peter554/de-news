@@ -1,0 +1,134 @@
+{
+  "title": "I Am Maximus gewinnt den Grand National zum zweiten Mal",
+  "translated_title": "I Am Maximus wins the Grand National for the second time",
+  "text": [
+    {
+      "text": "Am 11. April 2026 fand das berühmte Pferderennen Grand National in Aintree, England, statt.",
+      "translated_text": "On 11 April 2026, the famous horse race Grand National took place in Aintree, England."
+    },
+    {
+      "text": "Das Pferd I Am Maximus gewann das Rennen zum zweiten Mal.",
+      "translated_text": "The horse I Am Maximus won the race for the second time."
+    },
+    {
+      "text": "Das ist etwas sehr Besonderes in der Geschichte des Rennens.",
+      "translated_text": "This is something very special in the history of the race."
+    },
+    {
+      "text": "Das letzte Pferd, das den Grand National zweimal gewann, war Red Rum im Jahr 1977.",
+      "translated_text": "The last horse to win the Grand National twice was Red Rum in 1977."
+    },
+    {
+      "text": "I Am Maximus wurde von Jockey Paul Townend geritten.",
+      "translated_text": "I Am Maximus was ridden by jockey Paul Townend."
+    },
+    {
+      "text": "Trainer Willie Mullins freute sich sehr über den historischen Sieg.",
+      "translated_text": "Trainer Willie Mullins was very happy about the historic victory."
+    },
+    {
+      "text": "Das Rennen ist ungefähr sieben Kilometer lang und hat viele schwierige Hindernisse.",
+      "translated_text": "The race is approximately seven kilometres long and has many difficult obstacles."
+    },
+    {
+      "text": "Aber das Grand National Wochenende wurde durch eine Tragödie überschattet.",
+      "translated_text": "But the Grand National weekend was overshadowed by a tragedy."
+    },
+    {
+      "text": "Am 10. April, einen Tag vor dem Grand National, starb das Pferd Gold Dancer.",
+      "translated_text": "On 10 April, one day before the Grand National, the horse Gold Dancer died."
+    },
+    {
+      "text": "Gold Dancer hatte gerade ein wichtiges Rennen gewonnen, den Mildmay Novices' Chase.",
+      "translated_text": "Gold Dancer had just won an important race, the Mildmay Novices' Chase."
+    },
+    {
+      "text": "Aber das Pferd machte beim letzten Hindernis einen schweren Fehler.",
+      "translated_text": "But the horse made a serious error at the last obstacle."
+    },
+    {
+      "text": "Gold Dancer brach sich den Rücken und musste eingeschläfert werden.",
+      "translated_text": "Gold Dancer broke its back and had to be put to sleep."
+    },
+    {
+      "text": "Das Ereignis löste eine große Diskussion über Tierschutz im Pferderennsport aus.",
+      "translated_text": "The incident sparked a major discussion about animal welfare in horse racing."
+    },
+    {
+      "text": "Die Tierschutzorganisation PETA kritisierte den Grand National sehr scharf.",
+      "translated_text": "The animal welfare organisation PETA criticised the Grand National very sharply."
+    },
+    {
+      "text": "PETA sagte, Pferderennen seien gefährlich und grausam für die Tiere.",
+      "translated_text": "PETA said horse racing is dangerous and cruel for the animals."
+    },
+    {
+      "text": "Die Verantwortlichen des Rennens versprachen, die Sicherheit weiter zu verbessern.",
+      "translated_text": "The race organisers promised to further improve safety."
+    },
+    {
+      "text": "Der Tod von Gold Dancer erinnert daran, dass Pferderennen trotz aller Sicherheitsmaßnahmen gefährlich sein können.",
+      "translated_text": "The death of Gold Dancer is a reminder that horse racing can be dangerous despite all safety measures."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Pferderennen",
+      "translated_term": "the horse race",
+      "example_usage": "Am 11. April 2026 fand das berühmte Pferderennen Grand National in Aintree statt."
+    },
+    {
+      "term": "das Hindernis",
+      "translated_term": "the obstacle / fence",
+      "example_usage": "Das Rennen ist ungefähr sieben Kilometer lang und hat viele schwierige Hindernisse."
+    },
+    {
+      "term": "überschatten",
+      "translated_term": "to overshadow",
+      "example_usage": "Das Grand National Wochenende wurde durch eine Tragödie überschattet."
+    },
+    {
+      "term": "einschläfern",
+      "translated_term": "to put to sleep / euthanise",
+      "example_usage": "Gold Dancer brach sich den Rücken und musste eingeschläfert werden."
+    },
+    {
+      "term": "der Tierschutz",
+      "translated_term": "animal welfare",
+      "example_usage": "Das Ereignis löste eine große Diskussion über Tierschutz im Pferderennsport aus."
+    },
+    {
+      "term": "grausam",
+      "translated_term": "cruel",
+      "example_usage": "PETA sagte, Pferderennen seien gefährlich und grausam für die Tiere."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Sport",
+      "translated_name": "Sports"
+    },
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Pferdesport",
+      "translated_name": "Horse Racing"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ESPN: Grand National 2026 results – I Am Maximus regains title, makes history at Aintree",
+      "link_url": "https://www.espn.com/horse-racing/story/_/id/48456935/grand-national-2026-result-maximus-regains-title-makes-horse-racing-history-aintree"
+    },
+    {
+      "name": "Racing Post: Tragic end to Mildmay Novices' Chase as winner Gold Dancer is euthanised with broken back",
+      "link_url": "https://www.racingpost.com/news/reports/tragic-end-to-mildmay-novices-chase-as-winner-gold-dancer-is-euthanised-with-broken-back-aPRJh9g1cohj/"
+    },
+    {
+      "name": "Sky Sports: Grand National – I Am Maximus wins back Aintree crown for Willie Mullins and Paul Townend",
+      "link_url": "https://www.skysports.com/racing/news/11068/13530557/grand-national-i-am-maximus-wins-back-aintree-crown-for-willie-mullins-and-paul-townend"
+    }
+  ]
+}
