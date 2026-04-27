@@ -1,0 +1,130 @@
+{
+  "title": "Trump verlängert Waffenstillstand mit Iran – Friedensgespräche stocken",
+  "translated_title": "Trump Extends Ceasefire with Iran – Peace Talks Stall",
+  "text": [
+    {
+      "text": "Im April 2026 führten die USA und der Iran einen kurzen Krieg im Nahen Osten.",
+      "translated_text": "In April 2026, the USA and Iran fought a brief war in the Middle East."
+    },
+    {
+      "text": "Am 8. April einigten sich beide Länder auf einen vorläufigen Waffenstillstand.",
+      "translated_text": "On 8 April, both countries agreed to a temporary ceasefire."
+    },
+    {
+      "text": "Der Waffenstillstand sollte zunächst zwei Wochen lang gelten.",
+      "translated_text": "The ceasefire was initially set to last two weeks."
+    },
+    {
+      "text": "Kurz vor dem Ende dieser Frist verlängerte US-Präsident Donald Trump den Waffenstillstand.",
+      "translated_text": "Shortly before the end of this deadline, US President Donald Trump extended the ceasefire."
+    },
+    {
+      "text": "Trump sagte, er wolle den Waffenstillstand aufrechterhalten, bis die Gespräche abgeschlossen seien.",
+      "translated_text": "Trump said he wanted to maintain the ceasefire until the talks were concluded."
+    },
+    {
+      "text": "Er nannte jedoch kein genaues Enddatum für die Verlängerung.",
+      "translated_text": "However, he did not name a specific end date for the extension."
+    },
+    {
+      "text": "Gleichzeitig erklärte der Iran, er werde nicht an einer zweiten Gesprächsrunde in Pakistan teilnehmen.",
+      "translated_text": "At the same time, Iran declared it would not participate in a second round of talks in Pakistan."
+    },
+    {
+      "text": "Der iranische Außenminister Abbas Araghchi bezeichnete diese Entscheidung als endgültig.",
+      "translated_text": "Iranian Foreign Minister Abbas Araghchi described this decision as definitive."
+    },
+    {
+      "text": "Ein wichtiger Streitpunkt ist die amerikanische Seeblockade vor iranischen Häfen.",
+      "translated_text": "A key point of contention is the American naval blockade off Iranian ports."
+    },
+    {
+      "text": "Iran bezeichnet die Blockade als einen Kriegsakt und als Verletzung des Waffenstillstands.",
+      "translated_text": "Iran describes the blockade as an \"act of war\" and a violation of the ceasefire."
+    },
+    {
+      "text": "Die USA wollen die Blockade jedoch fortsetzen, bis ein endgültiger Vertrag unterzeichnet wird.",
+      "translated_text": "However, the USA wants to continue the blockade until a final treaty is signed."
+    },
+    {
+      "text": "Im Zentrum der Verhandlungen steht das iranische Atomprogramm.",
+      "translated_text": "At the centre of the negotiations is Iran's nuclear programme."
+    },
+    {
+      "text": "Die USA verlangen, dass der Iran sein Programm zur Urananreicherung vollständig stoppt.",
+      "translated_text": "The USA demands that Iran completely halts its uranium enrichment programme."
+    },
+    {
+      "text": "Der Iran zeigt sich bisher wenig kompromissbereit.",
+      "translated_text": "Iran has so far shown little willingness to compromise."
+    },
+    {
+      "text": "Auch der Konflikt zwischen Israel und dem Libanon spielt bei den Gesprächen eine wichtige Rolle.",
+      "translated_text": "The conflict between Israel and Lebanon also plays an important role in the talks."
+    },
+    {
+      "text": "Die Lage im Nahen Osten bleibt sehr angespannt und unsicher.",
+      "translated_text": "The situation in the Middle East remains very tense and uncertain."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Am 8. April einigten sich beide Länder auf einen vorläufigen Waffenstillstand."
+    },
+    {
+      "term": "verlängern",
+      "translated_term": "to extend",
+      "example_usage": "Kurz vor dem Ende der Frist verlängerte US-Präsident Donald Trump den Waffenstillstand."
+    },
+    {
+      "term": "die Blockade",
+      "translated_term": "the blockade",
+      "example_usage": "Iran bezeichnet die Blockade als einen 'Kriegsakt' und als Verletzung des Waffenstillstands."
+    },
+    {
+      "term": "die Verhandlungen",
+      "translated_term": "the negotiations",
+      "example_usage": "Im Zentrum der Verhandlungen steht das iranische Atomprogramm."
+    },
+    {
+      "term": "die Urananreicherung",
+      "translated_term": "uranium enrichment",
+      "example_usage": "Die USA verlangen, dass der Iran sein Programm zur Urananreicherung vollständig stoppt."
+    },
+    {
+      "term": "kompromissbereit",
+      "translated_term": "willing to compromise",
+      "example_usage": "Der Iran zeigt sich bisher wenig kompromissbereit."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Trump announces Iran ceasefire extension but says blockade remains",
+      "link_url": "https://www.aljazeera.com/news/2026/4/21/trump-announces-extending-iran-ceasefire-but-says-blockade-remains"
+    },
+    {
+      "name": "Washington Post: Trump extends ceasefire indefinitely as Iran says it won't join talks now",
+      "link_url": "https://www.washingtonpost.com/world/2026/04/21/iran-us-talks-ceasefire/"
+    },
+    {
+      "name": "CNN Politics: Why President Trump extended his ceasefire with Iran",
+      "link_url": "https://www.cnn.com/2026/04/21/politics/iran-trump-negotiations-peace-ceasefire"
+    }
+  ]
+}
