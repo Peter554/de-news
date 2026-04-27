@@ -1,0 +1,143 @@
+{
+  "title": "Der Krieg zwischen USA, Israel und dem Iran",
+  "translated_title": "The War Between the USA, Israel and Iran",
+  "text": [
+    {
+      "text": "Am 28. Februar 2026 haben die USA und Israel den Iran angegriffen.",
+      "translated_text": "On 28 February 2026, the USA and Israel attacked Iran."
+    },
+    {
+      "text": "Das Ziel war, die iranische Regierung zu stürzen.",
+      "translated_text": "The goal was to topple the Iranian government."
+    },
+    {
+      "text": "US-Präsident Trump erklärte dies in einer Videoansprache mitten in der Nacht.",
+      "translated_text": "US President Trump announced this in a video address in the middle of the night."
+    },
+    {
+      "text": "Als ersten wichtigen Schlag töteten die Angreifer Ali Khamenei, den Obersten Führer des Iran.",
+      "translated_text": "As the first major strike, the attackers killed Ali Khamenei, the Supreme Leader of Iran."
+    },
+    {
+      "text": "Er hatte das Land seit 1989 regiert.",
+      "translated_text": "He had ruled the country since 1989."
+    },
+    {
+      "text": "Die Angriffe trafen Militäranlagen und Atomanlagen im ganzen Land.",
+      "translated_text": "The strikes hit military facilities and nuclear facilities across the country."
+    },
+    {
+      "text": "Israelische Kampfflugzeuge nutzten neue Waffen und setzten über 1.200 Bomben in 24 Stunden ein.",
+      "translated_text": "Israeli fighter jets used new weapons and deployed more than 1,200 bombs in 24 hours."
+    },
+    {
+      "text": "Satellitenmessungen bestätigten, dass die Atomanlagen bei Natanz schwer beschädigt wurden.",
+      "translated_text": "Satellite images confirmed that the nuclear facilities near Natanz were severely damaged."
+    },
+    {
+      "text": "Der Iran antwortete sofort mit Gegenangriffen.",
+      "translated_text": "Iran immediately responded with counter-attacks."
+    },
+    {
+      "text": "Er schoss mehr als 500 Raketen und über 2.000 Drohnen auf US-Militärbasen ab.",
+      "translated_text": "It fired more than 500 missiles and over 2,000 drones at US military bases."
+    },
+    {
+      "text": "Die US-Botschaft in Riad, Saudi-Arabien, wurde von Drohnen getroffen und musste schließen.",
+      "translated_text": "The US embassy in Riyadh, Saudi Arabia, was hit by drones and had to close."
+    },
+    {
+      "text": "Sechs amerikanische Soldaten kamen ums Leben.",
+      "translated_text": "Six American soldiers lost their lives."
+    },
+    {
+      "text": "Der Krieg hat große Auswirkungen auf die Weltwirtschaft.",
+      "translated_text": "The war has major consequences for the global economy."
+    },
+    {
+      "text": "Der Iran hat die Straße von Hormuz gesperrt, eine wichtige Meerenge für den Öltransport.",
+      "translated_text": "Iran has blocked the Strait of Hormuz, an important strait for oil transport."
+    },
+    {
+      "text": "Durch diese Meerenge fließen 20 bis 30 Prozent des weltweiten Öls und Gases.",
+      "translated_text": "Twenty to thirty percent of the world's oil and gas flows through this strait."
+    },
+    {
+      "text": "Die Benzinpreise in den USA sind deshalb stark gestiegen.",
+      "translated_text": "As a result, petrol prices in the USA have risen sharply."
+    },
+    {
+      "text": "Viele Länder evakuieren ihre Bürger aus der Region, und über 11.000 Flüge wurden gestrichen.",
+      "translated_text": "Many countries are evacuating their citizens from the region, and over 11,000 flights have been cancelled."
+    },
+    {
+      "text": "Fast 6 von 10 Amerikanern lehnen den Krieg gegen den Iran ab.",
+      "translated_text": "Almost 6 in 10 Americans oppose the war against Iran."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "angreifen",
+      "translated_term": "to attack",
+      "example_usage": "Am 28. Februar 2026 haben die USA und Israel den Iran angegriffen."
+    },
+    {
+      "term": "stürzen",
+      "translated_term": "to topple / to overthrow",
+      "example_usage": "Das Ziel war, die iranische Regierung zu stürzen."
+    },
+    {
+      "term": "die Anlage",
+      "translated_term": "the facility / installation",
+      "example_usage": "Die Angriffe trafen Militäranlagen und Atomanlagen im ganzen Land."
+    },
+    {
+      "term": "die Drohne",
+      "translated_term": "the drone",
+      "example_usage": "Er schoss mehr als 500 Raketen und über 2.000 Drohnen auf US-Militärbasen ab."
+    },
+    {
+      "term": "sperren",
+      "translated_term": "to block / to close off",
+      "example_usage": "Der Iran hat die Straße von Hormuz gesperrt."
+    },
+    {
+      "term": "die Meerenge",
+      "translated_term": "the strait",
+      "example_usage": "Durch diese Meerenge fließen 20 bis 30 Prozent des weltweiten Öls und Gases."
+    },
+    {
+      "term": "gestrichen (streichen)",
+      "translated_term": "cancelled (to cancel)",
+      "example_usage": "über 11.000 Flüge wurden gestrichen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN: Day 4 of the US-Israeli war with Iran",
+      "link_url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-03-26"
+    },
+    {
+      "name": "CBS News: Trump says Iran operation could take \"four weeks or less\"",
+      "link_url": "https://www.cbsnews.com/live-updates/us-iran-war-israel-supreme-leader-khamenei-funeral-day-2/"
+    },
+    {
+      "name": "Wikipedia: 2026 Israeli–United States strikes on Iran",
+      "link_url": "https://en.wikipedia.org/wiki/2026_Israeli%E2%80%93United_States_strikes_on_Iran"
+    }
+  ]
+}
