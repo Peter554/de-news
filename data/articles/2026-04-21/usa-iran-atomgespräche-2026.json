@@ -1,0 +1,123 @@
+{
+  "title": "USA und Iran: Atomgespräche in der Krise",
+  "translated_title": "USA and Iran: Nuclear Talks in Crisis",
+  "text": [
+    {
+      "text": "Zwischen den USA und dem Iran gibt es seit zwei Wochen einen Waffenstillstand.",
+      "translated_text": "There has been a ceasefire between the USA and Iran for two weeks."
+    },
+    {
+      "text": "Dieser Waffenstillstand läuft am 23. April 2026 ab.",
+      "translated_text": "This ceasefire expires on 23 April 2026."
+    },
+    {
+      "text": "Die Verhandlungen über ein neues Abkommen laufen schlecht.",
+      "translated_text": "The negotiations for a new agreement are going badly."
+    },
+    {
+      "text": "Präsident Trump hat eine zweite Gesprächsrunde in Pakistan angekündigt.",
+      "translated_text": "President Trump announced a second round of talks in Pakistan."
+    },
+    {
+      "text": "Aber der Iran sagt, er werde nicht teilnehmen.",
+      "translated_text": "But Iran says it will not participate."
+    },
+    {
+      "text": "Der Iran wirft den USA vor, sogenannte bewaffnete Piraterie zu betreiben.",
+      "translated_text": "Iran accuses the USA of committing what it calls armed piracy."
+    },
+    {
+      "text": "Der Grund dafür ist, dass amerikanische Streitkräfte einen iranischen Tanker beschlagnahmt haben.",
+      "translated_text": "The reason for this is that American forces seized an Iranian tanker."
+    },
+    {
+      "text": "Ein zentrales Thema in den Gesprächen ist die Urananreicherung.",
+      "translated_text": "A central topic in the talks is uranium enrichment."
+    },
+    {
+      "text": "Die USA verlangen, dass der Iran kein Uran mehr anreichert.",
+      "translated_text": "The USA demands that Iran no longer enriches uranium."
+    },
+    {
+      "text": "Der Iran besitzt derzeit 440 Kilogramm Uran, das zu 60 Prozent angereichert ist.",
+      "translated_text": "Iran currently holds 440 kilograms of uranium enriched to 60 percent."
+    },
+    {
+      "text": "Ein weiteres Problem ist die Straße von Hormus.",
+      "translated_text": "Another problem is the Strait of Hormuz."
+    },
+    {
+      "text": "Der Iran will die Kontrolle über diesen wichtigen Schiffsweg beanspruchen.",
+      "translated_text": "Iran wants to claim control over this important shipping route."
+    },
+    {
+      "text": "Durch die Krise ist der Schiffsverkehr dort um 95 Prozent zurückgegangen.",
+      "translated_text": "Due to the crisis, shipping traffic there has fallen by 95 percent."
+    },
+    {
+      "text": "Experten glauben, dass ein vollständiges Abkommen unwahrscheinlich ist.",
+      "translated_text": "Experts believe that a comprehensive agreement is unlikely."
+    },
+    {
+      "text": "Eine Verlängerung des Waffenstillstands gilt als realistischeres Ziel.",
+      "translated_text": "An extension of the ceasefire is considered a more realistic goal."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Zwischen den USA und dem Iran gibt es seit zwei Wochen einen Waffenstillstand."
+    },
+    {
+      "term": "die Verhandlungen",
+      "translated_term": "the negotiations",
+      "example_usage": "Die Verhandlungen über ein neues Abkommen laufen schlecht."
+    },
+    {
+      "term": "ablaufen",
+      "translated_term": "to expire / to run out",
+      "example_usage": "Dieser Waffenstillstand läuft am 23. April 2026 ab."
+    },
+    {
+      "term": "die Urananreicherung",
+      "translated_term": "uranium enrichment",
+      "example_usage": "Ein zentrales Thema in den Gesprächen ist die Urananreicherung."
+    },
+    {
+      "term": "beschlagnahmen",
+      "translated_term": "to seize / to confiscate",
+      "example_usage": "Amerikanische Streitkräfte haben einen iranischen Tanker beschlagnahmt."
+    },
+    {
+      "term": "beanspruchen",
+      "translated_term": "to claim / to assert",
+      "example_usage": "Der Iran will die Kontrolle über diesen wichtigen Schiffsweg beanspruchen."
+    },
+    {
+      "term": "die Verlängerung",
+      "translated_term": "the extension",
+      "example_usage": "Eine Verlängerung des Waffenstillstands gilt als realistischeres Ziel."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Cloud over US-Iran talks — key sticking points",
+      "link_url": "https://www.aljazeera.com/news/2026/4/20/cloud-over-us-iran-talks-what-are-the-key-sticking-points"
+    }
+  ]
+}

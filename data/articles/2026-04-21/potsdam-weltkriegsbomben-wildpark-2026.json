@@ -1,0 +1,114 @@
+{
+  "title": "Potsdam: Fünf Weltkriegsbomben in Potsdamer Wäldern entschärft",
+  "translated_title": "Potsdam: Five World War Bombs Defused in Potsdam's Forests",
+  "text": [
+    {
+      "text": "In den Wäldern rund um Potsdam wurden fünf Blindgänger aus dem Zweiten Weltkrieg gefunden.",
+      "translated_text": "Five unexploded bombs from the Second World War were found in the forests around Potsdam."
+    },
+    {
+      "text": "Die Bomben lagen in der Nähe der Michendorfer Chaussee im Wildpark.",
+      "translated_text": "The bombs were located near Michendorfer Chaussee in the Wildpark area."
+    },
+    {
+      "text": "Experten entdeckten die Blindgänger bei einer routinemäßigen Suche nach Kampfmitteln.",
+      "translated_text": "Experts discovered the unexploded bombs during a routine search for unexploded ordnance."
+    },
+    {
+      "text": "Solche Suchen sind in der Region Berlin und Brandenburg regelmäßig notwendig.",
+      "translated_text": "Such searches are regularly necessary in the Berlin and Brandenburg region."
+    },
+    {
+      "text": "Der Boden in Brandenburg enthält noch viele Überreste aus dem Zweiten Weltkrieg.",
+      "translated_text": "The soil in Brandenburg still contains many remains from the Second World War."
+    },
+    {
+      "text": "Die Entschärfungen waren für den 21. April und den 23. April 2026 geplant.",
+      "translated_text": "The defusings were planned for 21 April and 23 April 2026."
+    },
+    {
+      "text": "Für die Arbeiten wurde ein Sperrkreis von 800 Metern eingerichtet.",
+      "translated_text": "A safety perimeter of 800 metres was set up for the work."
+    },
+    {
+      "text": "Die betroffenen Wald- und Parkgebiete mussten während der Entschärfung gesperrt werden.",
+      "translated_text": "The affected forest and park areas had to be closed during the defusing."
+    },
+    {
+      "text": "Die Bevölkerung in der Nähe wurde über die Sperrungen informiert.",
+      "translated_text": "The population nearby was informed about the closures."
+    },
+    {
+      "text": "Kampfmittelräumdienste arbeiten regelmäßig in der Umgebung von Berlin und Potsdam.",
+      "translated_text": "Unexploded ordnance clearance services work regularly in the area around Berlin and Potsdam."
+    },
+    {
+      "text": "Am Ende konnten alle fünf Bomben erfolgreich entschärft werden.",
+      "translated_text": "In the end, all five bombs were successfully defused."
+    },
+    {
+      "text": "Es gab keine Verletzten und keine Schäden an Gebäuden.",
+      "translated_text": "There were no injuries and no damage to buildings."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Blindgänger",
+      "translated_term": "the unexploded bomb / dud",
+      "example_usage": "In den Wäldern rund um Potsdam wurden fünf Blindgänger aus dem Zweiten Weltkrieg gefunden."
+    },
+    {
+      "term": "entschärfen",
+      "translated_term": "to defuse / to neutralise",
+      "example_usage": "Am Ende konnten alle fünf Bomben erfolgreich entschärft werden."
+    },
+    {
+      "term": "die Kampfmittel",
+      "translated_term": "the unexploded ordnance / munitions",
+      "example_usage": "Experten entdeckten die Blindgänger bei einer routinemäßigen Suche nach Kampfmitteln."
+    },
+    {
+      "term": "der Sperrkreis",
+      "translated_term": "the safety perimeter / exclusion zone",
+      "example_usage": "Für die Arbeiten wurde ein Sperrkreis von 800 Metern eingerichtet."
+    },
+    {
+      "term": "routinemäßig",
+      "translated_term": "routine / regularly",
+      "example_usage": "Experten entdeckten die Blindgänger bei einer routinemäßigen Suche nach Kampfmitteln."
+    },
+    {
+      "term": "sperren",
+      "translated_term": "to close / to block off",
+      "example_usage": "Die betroffenen Wald- und Parkgebiete mussten während der Entschärfung gesperrt werden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Geschichte",
+      "translated_name": "History"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tagesspiegel: Fünf Weltkriegsbomben in Potsdamer Wäldern gefunden",
+      "link_url": "https://www.tagesspiegel.de/potsdam/landeshauptstadt/sprengungen-und-entscharfungen-geplant-funf-weltkriegsbomben-in-potsdamer-waldern-gefunden-15483965.html"
+    },
+    {
+      "name": "Tagesspiegel: Bombenentschärfung – Sperrkreis um Michendorfer Chaussee",
+      "link_url": "https://www.tagesspiegel.de/berlin/bombenentschaerfung-in-potsdam-sperrkreis-von-800-metern-um-michendorfer-chaussee-eingerichtet/25025152.html"
+    },
+    {
+      "name": "PNN: Blindgänger in Potsdam – Die fünf Bomben sind entschärft",
+      "link_url": "https://www.pnn.de/potsdam/blindgaenger-in-potsdam-die-fuenf-bomben-sind-entschaerft/25026750.html"
+    }
+  ]
+}

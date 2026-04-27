@@ -1,0 +1,127 @@
+{
+  "title": "Deutschland: Merz beruft Nationalen Sicherheitsrat wegen Energiekrise",
+  "translated_title": "Germany: Merz Convenes National Security Council Due to Energy Crisis",
+  "text": [
+    {
+      "text": "Bundeskanzler Friedrich Merz hat den Nationalen Sicherheitsrat einberufen.",
+      "translated_text": "Federal Chancellor Friedrich Merz has convened the National Security Council."
+    },
+    {
+      "text": "Der Grund ist die anhaltende Energiepreiskrise in Deutschland.",
+      "translated_text": "The reason is the ongoing energy price crisis in Germany."
+    },
+    {
+      "text": "Die Krise hängt mit der Schließung der Straße von Hormus durch den Iran zusammen.",
+      "translated_text": "The crisis is connected to Iran's closure of the Strait of Hormuz."
+    },
+    {
+      "text": "Durch die Blockade sind die Ölpreise stark gestiegen.",
+      "translated_text": "The oil prices have risen sharply due to the blockade."
+    },
+    {
+      "text": "In einigen Regionen Deutschlands kostet Benzin bereits mehr als zwei Euro pro Liter.",
+      "translated_text": "In some regions of Germany, petrol already costs more than two euros per litre."
+    },
+    {
+      "text": "Die Bundesregierung hatte am 13. April bereits ein Entlastungspaket beschlossen.",
+      "translated_text": "The federal government had already passed a relief package on 13 April."
+    },
+    {
+      "text": "Das Paket umfasst 1,6 Milliarden Euro und beinhaltet eine vorübergehende Senkung der Mineralölsteuer.",
+      "translated_text": "The package amounts to 1.6 billion euros and includes a temporary reduction in the mineral oil tax."
+    },
+    {
+      "text": "Die Steuer wird für zwei Monate um 17 Cent pro Liter gesenkt.",
+      "translated_text": "The tax will be reduced by 17 cents per litre for two months."
+    },
+    {
+      "text": "Merz kündigte das Treffen des Sicherheitsrats auf der Hannover Messe an.",
+      "translated_text": "Merz announced the Security Council meeting at the Hannover Messe trade fair."
+    },
+    {
+      "text": "Er sagte, die Lage habe eine strategische Schwelle für Deutschland und Europa erreicht.",
+      "translated_text": "He said the situation had reached a strategic threshold for Germany and Europe."
+    },
+    {
+      "text": "Deutschland ist die größte Volkswirtschaft Europas und besonders auf Energieimporte angewiesen.",
+      "translated_text": "Germany is Europe's largest economy and particularly dependent on energy imports."
+    },
+    {
+      "text": "Die hohen Energiepreise belasten sowohl Privathaushalte als auch Unternehmen.",
+      "translated_text": "The high energy prices are putting a strain on both private households and businesses."
+    },
+    {
+      "text": "Die Regierung sucht nach langfristigen Lösungen, um die Abhängigkeit von Ölimporten zu verringern.",
+      "translated_text": "The government is looking for long-term solutions to reduce dependence on oil imports."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "einberufen",
+      "translated_term": "to convene / to summon",
+      "example_usage": "Bundeskanzler Friedrich Merz hat den Nationalen Sicherheitsrat einberufen."
+    },
+    {
+      "term": "die Energiepreiskrise",
+      "translated_term": "the energy price crisis",
+      "example_usage": "Der Grund ist die anhaltende Energiepreiskrise in Deutschland."
+    },
+    {
+      "term": "die Blockade",
+      "translated_term": "the blockade",
+      "example_usage": "Durch die Blockade sind die Ölpreise stark gestiegen."
+    },
+    {
+      "term": "das Entlastungspaket",
+      "translated_term": "the relief package",
+      "example_usage": "Die Bundesregierung hatte am 13. April bereits ein Entlastungspaket beschlossen."
+    },
+    {
+      "term": "die Mineralölsteuer",
+      "translated_term": "the mineral oil tax / fuel duty",
+      "example_usage": "Das Paket beinhaltet eine vorübergehende Senkung der Mineralölsteuer."
+    },
+    {
+      "term": "angewiesen sein auf",
+      "translated_term": "to be dependent on",
+      "example_usage": "Deutschland ist besonders auf Energieimporte angewiesen."
+    },
+    {
+      "term": "belasten",
+      "translated_term": "to put a strain on / to burden",
+      "example_usage": "Die hohen Energiepreise belasten sowohl Privathaushalte als auch Unternehmen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Energiepolitik",
+      "translated_name": "Energy Policy"
+    },
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg: Merz Calls National Security Council Meeting on Germany's Energy Price Strain",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-04-19/merz-sets-crisis-talks-to-tackle-energy-price-impact-on-germany"
+    },
+    {
+      "name": "Euronews: Germany cuts fuel tax as oil prices surge on Iran blockade",
+      "link_url": "https://www.euronews.com/business/2026/04/13/germany-cuts-fuel-tax-as-oil-prices-surge-on-iran-blockade"
+    },
+    {
+      "name": "Courthouse News: Germany unveils $1.9 billion fuel price relief",
+      "link_url": "https://courthousenews.com/germany-unveils-1-9-billion-fuel-price-relief-to-tackle-energy-shock/"
+    }
+  ]
+}
