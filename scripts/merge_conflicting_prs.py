@@ -6,9 +6,10 @@
 import json
 import subprocess
 import sys
+from datetime import datetime
 from pathlib import Path
 
-BRANCH_NAME = "merge-conflicting-prs"
+BRANCH_NAME = f"merge-conflicting-prs-{datetime.now().strftime('%Y%m%d%H%M%S')}"
 TAGS_FILE = "data/tags.json"
 
 
@@ -82,14 +83,26 @@ def main():
     )
     subprocess.run(["git", "commit", "-m", commit_msg], check=True)
 
-    print("\n=== Closing PRs ===")
+    print("\n=== Pushing and creating PR ===")
+    run(f"git push -u origin {BRANCH_NAME}")
+    pr_list_body = "\n".join(f"- #{pr}" for pr in prs)
+    body = (
+        "## Summary\n"
+        "Merges all article changes from open PRs that pass the netlify "
+        "deploy-preview check, and combines tags.json entries into a single sorted file.\n\n"
+        f"## PRs included\n{pr_list_body}"
+    )
+    subprocess.run(
+        ["gh", "pr", "create", "--title", "Merge articles from conflicting PRs", "--body", body],
+        check=True,
+    )
+
+    print("\n=== Closing old PRs ===")
     for pr in prs:
         print(f"  Closing PR #{pr}...")
         run(f"gh pr close {pr}")
 
     print("\n=== Done ===")
-    print(f"Branch '{BRANCH_NAME}' is ready.")
-    print(f"To push: git push -u origin {BRANCH_NAME}")
 
 
 if __name__ == "__main__":
