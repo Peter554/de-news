@@ -1,0 +1,115 @@
+{
+  "title": "Tarifverhandlungen am BER nach Streik wieder aufgenommen",
+  "translated_title": "Wage negotiations at BER resumed after strike",
+  "text": [
+    {
+      "text": "Am 25. März 2026 haben die Tarifverhandlungen am Flughafen Berlin Brandenburg (BER) wieder begonnen.",
+      "translated_text": "On 25 March 2026, wage negotiations at Berlin Brandenburg Airport (BER) resumed."
+    },
+    {
+      "text": "Eine Woche zuvor hatte ein Warnstreik der Gewerkschaft Verdi den gesamten Flughafen lahmgelegt.",
+      "translated_text": "A week earlier, a warning strike by the Verdi union had brought the entire airport to a standstill."
+    },
+    {
+      "text": "Der Streik dauerte 19 Stunden und betraf rund 57.000 Passagiere.",
+      "translated_text": "The strike lasted 19 hours and affected around 57,000 passengers."
+    },
+    {
+      "text": "Alle Flüge am 18. März wurden gestrichen.",
+      "translated_text": "All flights on 18 March were cancelled."
+    },
+    {
+      "text": "Etwa 2.000 Mitarbeiter des Flughafens nahmen an dem Streik teil.",
+      "translated_text": "Around 2,000 airport employees took part in the strike."
+    },
+    {
+      "text": "Die Gewerkschaft Verdi fordert eine Lohnerhöhung von sechs Prozent.",
+      "translated_text": "The Verdi union is demanding a wage increase of six percent."
+    },
+    {
+      "text": "Außerdem fordert die Gewerkschaft mindestens 250 Euro mehr pro Monat für alle Mitarbeitergruppen.",
+      "translated_text": "The union also demands at least 250 euros more per month for all employee groups."
+    },
+    {
+      "text": "Die Flughafenleitung hatte bisher nur ein bis eineinhalb Prozent jährliche Erhöhung angeboten.",
+      "translated_text": "Airport management had so far only offered one to one and a half percent annual increases."
+    },
+    {
+      "text": "Flughafenchefin Aletta von Massenbach nannte den Streik unverhältnismäßig.",
+      "translated_text": "Airport CEO Aletta von Massenbach called the strike disproportionate."
+    },
+    {
+      "text": "Sie verwies dabei auf die angespannte Lage durch den Krieg im Iran.",
+      "translated_text": "She pointed to the tense situation caused by the war in Iran."
+    },
+    {
+      "text": "Reisende mussten ihre Flüge umbuchen oder einen anderen Flughafen nutzen.",
+      "translated_text": "Travellers had to rebook their flights or use a different airport."
+    },
+    {
+      "text": "Beide Seiten hoffen, dass die neuen Gespräche zu einem Ergebnis führen.",
+      "translated_text": "Both sides hope that the new talks will lead to an agreement."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Tarifverhandlung",
+      "translated_term": "wage negotiation / collective bargaining",
+      "example_usage": "Am 25. März 2026 haben die Tarifverhandlungen am Flughafen Berlin Brandenburg wieder begonnen."
+    },
+    {
+      "term": "der Warnstreik",
+      "translated_term": "warning strike",
+      "example_usage": "Ein Warnstreik der Gewerkschaft Verdi hatte den gesamten Flughafen lahmgelegt."
+    },
+    {
+      "term": "lahmlegen",
+      "translated_term": "to bring to a standstill / to paralyse",
+      "example_usage": "Ein Warnstreik der Gewerkschaft Verdi hatte den gesamten Flughafen lahmgelegt."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "trade union",
+      "example_usage": "Die Gewerkschaft Verdi fordert eine Lohnerhöhung von sechs Prozent."
+    },
+    {
+      "term": "die Lohnerhöhung",
+      "translated_term": "wage increase",
+      "example_usage": "Die Gewerkschaft Verdi fordert eine Lohnerhöhung von sechs Prozent."
+    },
+    {
+      "term": "unverhältnismäßig",
+      "translated_term": "disproportionate",
+      "example_usage": "Flughafenchefin Aletta von Massenbach nannte den Streik unverhältnismäßig."
+    },
+    {
+      "term": "umbuchen",
+      "translated_term": "to rebook",
+      "example_usage": "Reisende mussten ihre Flüge umbuchen oder einen anderen Flughafen nutzen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Berliner",
+      "link_url": "https://www.the-berliner.com/english-news-berlin/all-ber-flights-cancelled/"
+    },
+    {
+      "name": "Euronews",
+      "link_url": "https://www.euronews.com/travel/2026/03/17/strike-at-berlin-airport-all-flights-cancelled-on-wednesday-57000-passengers-affected"
+    }
+  ]
+}

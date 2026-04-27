@@ -1,0 +1,111 @@
+{
+  "title": "Deutschland verabschiedet neues Klimaschutzprogramm",
+  "translated_title": "Germany adopts new climate protection programme",
+  "text": [
+    {
+      "text": "Das deutsche Kabinett hat am 25. März 2026 ein neues Klimaschutzprogramm beschlossen.",
+      "translated_text": "The German cabinet adopted a new climate protection programme on 25 March 2026."
+    },
+    {
+      "text": "Das Programm war gesetzlich vorgeschrieben, weil Deutschland seine Klimaziele nicht erreicht.",
+      "translated_text": "The programme was legally required because Germany is not meeting its climate targets."
+    },
+    {
+      "text": "Im Jahr 2025 sanken die Treibhausgasemissionen in Deutschland nur um 0,1 Prozent im Vergleich zu 2024.",
+      "translated_text": "In 2025, greenhouse gas emissions in Germany fell by only 0.1 percent compared to 2024."
+    },
+    {
+      "text": "Umweltminister Carsten Schneider bezeichnete die Lage als \"Stagnation in vielen Bereichen\".",
+      "translated_text": "Environment Minister Carsten Schneider described the situation as \"stagnation in many areas\"."
+    },
+    {
+      "text": "Deutschland produziert derzeit noch etwa 649 Millionen Tonnen CO2-Äquivalente pro Jahr.",
+      "translated_text": "Germany currently produces around 649 million tonnes of CO2 equivalents per year."
+    },
+    {
+      "text": "Das ist eine Reduzierung von 48 Prozent gegenüber dem Jahr 1990.",
+      "translated_text": "That represents a reduction of 48 percent compared to 1990."
+    },
+    {
+      "text": "Bis 2030 muss Deutschland seine Emissionen jedoch um 65 Prozent reduzieren.",
+      "translated_text": "However, Germany must reduce its emissions by 65 percent by 2030."
+    },
+    {
+      "text": "Aktuelle Prognosen zeigen, dass nur eine Reduzierung von 63 Prozent erreicht werden wird.",
+      "translated_text": "Current projections show that only a reduction of 63 percent will be achieved."
+    },
+    {
+      "text": "Besonders die Bereiche Verkehr und Gebäude liegen weit hinter den Zielen.",
+      "translated_text": "The transport and buildings sectors in particular are far behind the targets."
+    },
+    {
+      "text": "Auch Wälder nehmen derzeit mehr CO2 auf, als sie speichern können, weil viele Wälder beschädigt sind.",
+      "translated_text": "Also, forests are currently absorbing more CO2 than they can store, because many forests are damaged."
+    },
+    {
+      "text": "Das neue Programm soll helfen, die Lücke zwischen den Zielen und der Realität zu schließen.",
+      "translated_text": "The new programme is intended to help close the gap between the targets and reality."
+    },
+    {
+      "text": "Kritiker sagen, das Programm kommt zu spät und geht nicht weit genug.",
+      "translated_text": "Critics say the programme comes too late and does not go far enough."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Klimaschutzprogramm",
+      "translated_term": "climate protection programme",
+      "example_usage": "Das deutsche Kabinett hat am 25. März 2026 ein neues Klimaschutzprogramm beschlossen."
+    },
+    {
+      "term": "beschließen",
+      "translated_term": "to adopt / to decide",
+      "example_usage": "Das deutsche Kabinett hat am 25. März 2026 ein neues Klimaschutzprogramm beschlossen."
+    },
+    {
+      "term": "die Treibhausgasemissionen",
+      "translated_term": "greenhouse gas emissions",
+      "example_usage": "Im Jahr 2025 sanken die Treibhausgasemissionen in Deutschland nur um 0,1 Prozent."
+    },
+    {
+      "term": "die Stagnation",
+      "translated_term": "stagnation",
+      "example_usage": "Umweltminister Carsten Schneider bezeichnete die Lage als \"Stagnation in vielen Bereichen\"."
+    },
+    {
+      "term": "die Prognose",
+      "translated_term": "projection / forecast",
+      "example_usage": "Aktuelle Prognosen zeigen, dass nur eine Reduzierung von 63 Prozent erreicht werden wird."
+    },
+    {
+      "term": "reduzieren",
+      "translated_term": "to reduce",
+      "example_usage": "Bis 2030 muss Deutschland seine Emissionen um 65 Prozent reduzieren."
+    },
+    {
+      "term": "die Lücke",
+      "translated_term": "gap",
+      "example_usage": "Das neue Programm soll helfen, die Lücke zwischen den Zielen und der Realität zu schließen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Klimapolitik",
+      "translated_name": "Climate Policy"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Umweltschutz",
+      "translated_name": "Environmental Protection"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Clean Energy Wire",
+      "link_url": "https://www.cleanenergywire.org/factsheets/qa-germanys-climate-action-programme-2026"
+    }
+  ]
+}
