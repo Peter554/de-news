@@ -1,0 +1,102 @@
+{
+  "title": "Ungarn: Orbán verliert nach 16 Jahren die Macht – Péter Magyar gewinnt die Wahl",
+  "translated_title": "Hungary: Orbán loses power after 16 years – Péter Magyar wins the election",
+  "text": [
+    {
+      "text": "Bei den Parlamentswahlen in Ungarn am 12. April 2026 hat die Opposition gewonnen.",
+      "translated_text": "At the parliamentary elections in Hungary on April 12, 2026, the opposition won."
+    },
+    {
+      "text": "Péter Magyar und seine Partei Tisza erhielten fast 54 Prozent der Stimmen.",
+      "translated_text": "Péter Magyar and his party Tisza received almost 54 percent of the votes."
+    },
+    {
+      "text": "Der bisherige Ministerpräsident Viktor Orbán musste nach 16 Jahren seine Niederlage eingestehen.",
+      "translated_text": "The former Prime Minister Viktor Orbán had to concede his defeat after 16 years."
+    },
+    {
+      "text": "Die Wahlbeteiligung war so hoch wie seit den 1990er Jahren nicht mehr – fast 80 Prozent der Ungar:innen gingen wählen.",
+      "translated_text": "Voter turnout was higher than at any point since the 1990s – almost 80 percent of Hungarians went to vote."
+    },
+    {
+      "text": "Magyarys Partei Tisza gewann 138 von 199 Sitzen im Parlament und damit eine Zweidrittelmehrheit.",
+      "translated_text": "Magyar's party Tisza won 138 of 199 seats in parliament, giving it a two-thirds majority."
+    },
+    {
+      "text": "Mit einer Zweidrittelmehrheit kann die neue Regierung sogar die Verfassung ändern.",
+      "translated_text": "With a two-thirds majority, the new government can even change the constitution."
+    },
+    {
+      "text": "Orbáns Partei Fidesz bekam nur noch 38 Prozent der Stimmen und verlor damit sehr viele Mandate.",
+      "translated_text": "Orbán's Fidesz party received only 38 percent of the votes, losing a large number of seats."
+    },
+    {
+      "text": "Die Europäische Union reagierte erfreut auf das Ergebnis, da Orbán oft im Streit mit Brüssel lag.",
+      "translated_text": "The European Union reacted with pleasure to the result, as Orbán was frequently in dispute with Brussels."
+    },
+    {
+      "text": "Die EU hatte Milliarden Euro an Fördermitteln für Ungarn eingefroren, weil sie Orbán vorwarf, demokratische Standards zu untergraben.",
+      "translated_text": "The EU had frozen billions of euros in funding for Hungary, accusing Orbán of undermining democratic standards."
+    },
+    {
+      "text": "Viele Europäer:innen hoffen, dass sich Ungarn unter Magyarys Führung wieder stärker in die EU integriert.",
+      "translated_text": "Many Europeans hope that Hungary will once again integrate more closely into the EU under Magyar's leadership."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Parlamentswahl",
+      "translated_term": "parliamentary election",
+      "example_usage": "Bei den Parlamentswahlen in Ungarn am 12. April 2026 hat die Opposition gewonnen."
+    },
+    {
+      "term": "die Wahlbeteiligung",
+      "translated_term": "voter turnout",
+      "example_usage": "Die Wahlbeteiligung war so hoch wie seit den 1990er Jahren nicht mehr."
+    },
+    {
+      "term": "eingestehen",
+      "translated_term": "to concede/admit",
+      "example_usage": "Viktor Orbán musste nach 16 Jahren seine Niederlage eingestehen."
+    },
+    {
+      "term": "die Zweidrittelmehrheit",
+      "translated_term": "two-thirds majority",
+      "example_usage": "Tisza gewann 138 von 199 Sitzen im Parlament und damit eine Zweidrittelmehrheit."
+    },
+    {
+      "term": "einfrieren",
+      "translated_term": "to freeze",
+      "example_usage": "Die EU hatte Milliarden Euro an Fördermitteln für Ungarn eingefroren."
+    },
+    {
+      "term": "untergraben",
+      "translated_term": "to undermine",
+      "example_usage": "Die EU warf Orbán vor, demokratische Standards zu untergraben."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ungarn",
+      "translated_name": "Hungary"
+    },
+    {
+      "name": "Demokratie",
+      "translated_name": "Democracy"
+    },
+    {
+      "name": "Europäische Union",
+      "translated_name": "European Union"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN: Hungary election 2026 results – Orbán concedes",
+      "link_url": "https://www.cnn.com/2026/04/12/world/live-news/hungary-election-orban-magyar"
+    },
+    {
+      "name": "Al Jazeera: Peter Magyar wins Hungary election",
+      "link_url": "https://www.aljazeera.com/news/2026/4/12/hungary-election-early-results-show-magyars-tisza-ahead-of-orbans-fidesz"
+    }
+  ]
+}
