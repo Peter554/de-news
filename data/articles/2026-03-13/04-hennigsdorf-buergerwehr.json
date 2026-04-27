@@ -1,0 +1,122 @@
+{
+  "title": "Brandenburg: CDU und AfD stimmen gemeinsam für Bürgerwehr in Hennigsdorf",
+  "translated_title": "Brandenburg: CDU and AfD Vote Together for Citizens' Patrol in Hennigsdorf",
+  "text": [
+    {
+      "text": "In der brandenburgischen Stadt Hennigsdorf hat der Stadtrat eine umstrittene Entscheidung getroffen.",
+      "translated_text": "In the Brandenburg town of Hennigsdorf, the city council has made a controversial decision."
+    },
+    {
+      "text": "Mit 16 zu 14 Stimmen beschloss der Rat, eine Bürgerpatrouille am Bahnhof einzurichten.",
+      "translated_text": "By 16 votes to 14, the council decided to establish a citizens' patrol at the railway station."
+    },
+    {
+      "text": "Für den Antrag stimmten alle sieben AfD-Mitglieder, vier Mitglieder einer lokalen Wählervereinigung und fünf CDU-Ratsmitglieder.",
+      "translated_text": "All seven AfD members, four members of a local voters' association and five CDU councillors voted in favour of the motion."
+    },
+    {
+      "text": "Damit durchbrachen die CDU-Politiker die sogenannte Brandmauer – das Versprechen, nicht mit der AfD zusammenzuarbeiten.",
+      "translated_text": "In doing so, the CDU politicians broke through the so-called firewall – the pledge not to cooperate with the AfD."
+    },
+    {
+      "text": "Hennigsdorf liegt im Landkreis Oberhavel, nördlich von Berlin.",
+      "translated_text": "Hennigsdorf is located in the district of Oberhavel, north of Berlin."
+    },
+    {
+      "text": "Der brandenburgische Verfassungsschutz stuft die AfD als gesichert rechtsextremistisch ein.",
+      "translated_text": "The Brandenburg Office for the Protection of the Constitution classifies the AfD as confirmed right-wing extremist."
+    },
+    {
+      "text": "Der lokale Polizeichef zeigte sich skeptisch gegenüber der Entscheidung.",
+      "translated_text": "The local police chief was sceptical about the decision."
+    },
+    {
+      "text": "Er sagte, solche Partnerschaften sollten aus der Bevölkerung entstehen und nicht von oben angeordnet werden.",
+      "translated_text": "He said such partnerships should emerge from the population and not be ordered from above."
+    },
+    {
+      "text": "Grünen-Ratsmitglieder warnten, die Patrouillen könnten Minderheiten, Frauen und Migranten bedrohen.",
+      "translated_text": "Green councillors warned that the patrols could threaten minorities, women and migrants."
+    },
+    {
+      "text": "Kritiker befürchten, dass die Bürgerwehr zu einer Verschlechterung des gesellschaftlichen Klimas führt.",
+      "translated_text": "Critics fear that the citizens' patrol will lead to a deterioration of the social climate."
+    },
+    {
+      "text": "Befürworter sagen dagegen, dass sich viele Bürger am Bahnhof unsicher fühlen.",
+      "translated_text": "Supporters, on the other hand, say that many citizens feel unsafe at the railway station."
+    },
+    {
+      "text": "Die Entscheidung sorgte für viel Aufsehen in der deutschen Politik.",
+      "translated_text": "The decision caused a great stir in German politics."
+    },
+    {
+      "text": "Mehrere CDU-Politiker auf Bundesebene distanzierten sich von der Abstimmung in Hennigsdorf.",
+      "translated_text": "Several CDU politicians at the federal level distanced themselves from the vote in Hennigsdorf."
+    },
+    {
+      "text": "Die Diskussion zeigt, wie schwierig es ist, die Brandmauer gegenüber der AfD aufrechtzuerhalten.",
+      "translated_text": "The discussion shows how difficult it is to maintain the firewall against the AfD."
+    },
+    {
+      "text": "Politologen beobachten solche Entwicklungen auf kommunaler Ebene sehr genau.",
+      "translated_text": "Political scientists are observing such developments at the local level very closely."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bürgerwehr",
+      "translated_term": "the citizens' patrol / vigilante group",
+      "example_usage": "Der Stadtrat beschloss, eine Bürgerpatrouille am Bahnhof einzurichten."
+    },
+    {
+      "term": "die Brandmauer",
+      "translated_term": "the firewall (political term: pledge not to cooperate with far-right)",
+      "example_usage": "Damit durchbrachen die CDU-Politiker die sogenannte Brandmauer."
+    },
+    {
+      "term": "der Verfassungsschutz",
+      "translated_term": "the Office for the Protection of the Constitution",
+      "example_usage": "Der brandenburgische Verfassungsschutz stuft die AfD als gesichert rechtsextremistisch ein."
+    },
+    {
+      "term": "rechtsextremistisch",
+      "translated_term": "right-wing extremist",
+      "example_usage": "Die AfD wird als gesichert rechtsextremistisch eingestuft."
+    },
+    {
+      "term": "sich distanzieren von",
+      "translated_term": "to distance oneself from",
+      "example_usage": "Mehrere CDU-Politiker auf Bundesebene distanzierten sich von der Abstimmung in Hennigsdorf."
+    },
+    {
+      "term": "die Abstimmung",
+      "translated_term": "the vote / ballot",
+      "example_usage": "Mit 16 zu 14 Stimmen entschied die Abstimmung über die Bürgerpatrouille."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Extremismus",
+      "translated_name": "Extremism"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tagesspiegel: CDU und AfD stimmen in Hennigsdorf gemeinsam für Bürger-Patrouillen",
+      "link_url": "https://www.tagesspiegel.de/potsdam/brandenburg/trotz-bedenken-der-polizei-cdu-und-afd-stimmen-in-hennigsdorf-gemeinsam-fur-burger-patruouillen-15293589.html"
+    },
+    {
+      "name": "taz: Brandmauer in Brandenburg eingerissen",
+      "link_url": "https://taz.de/Brandmauer-in-Brandenburg-eingerissen/!6157886/"
+    }
+  ]
+}

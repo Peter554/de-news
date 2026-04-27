@@ -1,0 +1,122 @@
+{
+  "title": "Lufthansa-Pilotenstreik: Hunderte Flüge gestrichen",
+  "translated_title": "Lufthansa Pilots' Strike: Hundreds of Flights Cancelled",
+  "text": [
+    {
+      "text": "Heute ist der zweite und letzte Tag eines zweitägigen Streiks bei der Lufthansa.",
+      "translated_text": "Today is the second and final day of a two-day strike at Lufthansa."
+    },
+    {
+      "text": "Die Pilotengewerkschaft Vereinigung Cockpit (VC) hat zu dem Streik aufgerufen.",
+      "translated_text": "The pilots' union Vereinigung Cockpit (VC) called for the strike."
+    },
+    {
+      "text": "Der Streik betrifft alle Lufthansa-Flüge, die von deutschen Flughäfen starten oder dort landen.",
+      "translated_text": "The strike affects all Lufthansa flights departing from or landing at German airports."
+    },
+    {
+      "text": "Besonders betroffen sind die Flughäfen Frankfurt, München und Hamburg.",
+      "translated_text": "The airports of Frankfurt, Munich and Hamburg are particularly affected."
+    },
+    {
+      "text": "Insgesamt wurden 444 Flüge gestrichen und 45 weitere Flüge verspätet.",
+      "translated_text": "A total of 444 flights were cancelled and 45 further flights were delayed."
+    },
+    {
+      "text": "Tausende Passagiere sitzen fest und können nicht reisen.",
+      "translated_text": "Thousands of passengers are stranded and unable to travel."
+    },
+    {
+      "text": "Der Streit geht um ein Rentensystem, das Lufthansa im Jahr 2017 eingeführt hat.",
+      "translated_text": "The dispute concerns a pension scheme that Lufthansa introduced in 2017."
+    },
+    {
+      "text": "Die Piloten sagen, dass dieses System ihre Renten deutlich verschlechtert hat.",
+      "translated_text": "The pilots say that this system has significantly worsened their pensions."
+    },
+    {
+      "text": "Lufthansa und die Gewerkschaft konnten sich bisher nicht auf eine Lösung einigen.",
+      "translated_text": "Lufthansa and the union have so far been unable to agree on a solution."
+    },
+    {
+      "text": "Die Airline versuchte, den Schaden zu begrenzen, indem sie größere Flugzeuge einsetzte.",
+      "translated_text": "The airline tried to limit the damage by deploying larger aircraft."
+    },
+    {
+      "text": "Etwa 60 Prozent der Langstreckenflüge konnten trotz des Streiks stattfinden.",
+      "translated_text": "About 60 percent of long-haul flights were able to take place despite the strike."
+    },
+    {
+      "text": "Ab Samstag, dem 14. März, soll der Betrieb wieder normal laufen.",
+      "translated_text": "From Saturday, 14 March, operations should return to normal."
+    },
+    {
+      "text": "Betroffene Passagiere haben nach EU-Recht Anspruch auf bis zu 600 Euro Entschädigung.",
+      "translated_text": "Affected passengers are entitled to up to €600 in compensation under EU law."
+    },
+    {
+      "text": "Viele Reisende sind sehr frustriert und kritisieren sowohl Lufthansa als auch die Gewerkschaft.",
+      "translated_text": "Many travellers are very frustrated and criticise both Lufthansa and the union."
+    },
+    {
+      "text": "Es ist unklar, wann die Tarifverhandlungen wieder aufgenommen werden.",
+      "translated_text": "It is unclear when wage negotiations will resume."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Streik",
+      "translated_term": "the strike",
+      "example_usage": "Heute ist der zweite und letzte Tag eines zweitägigen Streiks bei der Lufthansa."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the trade union",
+      "example_usage": "Die Pilotengewerkschaft Vereinigung Cockpit hat zu dem Streik aufgerufen."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel (flights)",
+      "example_usage": "Insgesamt wurden 444 Flüge gestrichen und 45 weitere Flüge verspätet."
+    },
+    {
+      "term": "die Entschädigung",
+      "translated_term": "the compensation",
+      "example_usage": "Betroffene Passagiere haben Anspruch auf bis zu 600 Euro Entschädigung."
+    },
+    {
+      "term": "die Tarifverhandlungen (Pl.)",
+      "translated_term": "the wage negotiations",
+      "example_usage": "Es ist unklar, wann die Tarifverhandlungen wieder aufgenommen werden."
+    },
+    {
+      "term": "aufrufen zu",
+      "translated_term": "to call for",
+      "example_usage": "Die Pilotengewerkschaft hat zu dem Streik aufgerufen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "LoyaltyLobby: Lufthansa Pilots Strike On Thursday-Friday (March 12/13) – Most Flights To Be Cancelled",
+      "link_url": "https://loyaltylobby.com/2026/03/11/lufthansa-pilots-strike-on-thursday-friday-march-12-13-most-flights-to-be-cancelled/"
+    },
+    {
+      "name": "The Local Germany: Pilots at Germany's Lufthansa to stage two-day strike",
+      "link_url": "https://www.thelocal.de/20260311/pilots-at-germanys-lufthansa-to-stage-two-day-strike"
+    }
+  ]
+}
