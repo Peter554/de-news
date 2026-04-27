@@ -1,0 +1,131 @@
+{
+  "title": "USA und Israel führen Krieg gegen Iran",
+  "translated_title": "USA and Israel Wage War Against Iran",
+  "text": [
+    {
+      "text": "Die USA und Israel haben am 1. März 2026 Luftangriffe auf den Iran gestartet.",
+      "translated_text": "The USA and Israel launched air strikes against Iran on 1 March 2026."
+    },
+    {
+      "text": "Die militärische Operation trägt den Namen \"Operation Epic Fury\".",
+      "translated_text": "The military operation is named \"Operation Epic Fury\"."
+    },
+    {
+      "text": "Das Ziel der Angriffe ist das Atomprogramm des Iran und seine Streitkräfte.",
+      "translated_text": "The aim of the strikes is Iran's nuclear programme and its armed forces."
+    },
+    {
+      "text": "Seit Beginn der Angriffe sind mehr als 1.000 Menschen im Iran gestorben.",
+      "translated_text": "More than 1,000 people have died in Iran since the start of the strikes."
+    },
+    {
+      "text": "Auch der oberste Führer des Iran, Ayatollah Ali Chamenei, ist bei den Angriffen getötet worden.",
+      "translated_text": "Iran's Supreme Leader, Ayatollah Ali Khamenei, was also killed in the strikes."
+    },
+    {
+      "text": "Der Iran hat als Reaktion mehr als 500 Raketen und über 2.000 Drohnen abgefeuert.",
+      "translated_text": "Iran fired more than 500 missiles and over 2,000 drones in retaliation."
+    },
+    {
+      "text": "Eine iranische Rakete hat Westjerusalem in Israel getroffen.",
+      "translated_text": "An Iranian missile struck West Jerusalem in Israel."
+    },
+    {
+      "text": "Der Iran hat außerdem die Straße von Hormus gesperrt, durch die viel Öl transportiert wird.",
+      "translated_text": "Iran has also blocked the Strait of Hormuz, through which much oil is transported."
+    },
+    {
+      "text": "Deshalb sind die Ölpreise weltweit stark gestiegen.",
+      "translated_text": "As a result, oil prices have risen sharply worldwide."
+    },
+    {
+      "text": "Über eine Million Flugreisende sind von Flugausfällen im Nahen Osten betroffen.",
+      "translated_text": "More than one million air travellers are affected by flight cancellations in the Middle East."
+    },
+    {
+      "text": "Der US-Senat hat einen Antrag abgelehnt, der Trumps Kriegsmacht begrenzen sollte.",
+      "translated_text": "The US Senate rejected a motion that would have limited Trump's war powers."
+    },
+    {
+      "text": "Die Vereinten Nationen warnen vor einer humanitären Krise in der ganzen Region.",
+      "translated_text": "The United Nations warns of a humanitarian crisis across the entire region."
+    },
+    {
+      "text": "Bundeskanzler Merz traf US-Präsident Trump im Weißen Haus und sprach über ein schnelles Ende des Krieges.",
+      "translated_text": "Chancellor Merz met US President Trump at the White House and spoke about a swift end to the war."
+    },
+    {
+      "text": "Viele Länder rufen zur Deeskalation auf und fordern eine diplomatische Lösung.",
+      "translated_text": "Many countries are calling for de-escalation and demanding a diplomatic solution."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Luftangriff",
+      "translated_term": "the air strike",
+      "example_usage": "Die USA und Israel haben Luftangriffe auf den Iran gestartet."
+    },
+    {
+      "term": "das Atomprogramm",
+      "translated_term": "the nuclear programme",
+      "example_usage": "Das Ziel der Angriffe ist das Atomprogramm des Iran."
+    },
+    {
+      "term": "die Drohne",
+      "translated_term": "the drone",
+      "example_usage": "Der Iran hat als Reaktion mehr als 500 Raketen und über 2.000 Drohnen abgefeuert."
+    },
+    {
+      "term": "die Straße von Hormus",
+      "translated_term": "the Strait of Hormuz",
+      "example_usage": "Der Iran hat die Straße von Hormus gesperrt, durch die viel Öl transportiert wird."
+    },
+    {
+      "term": "sperren",
+      "translated_term": "to block / to close",
+      "example_usage": "Der Iran hat die Straße von Hormus gesperrt."
+    },
+    {
+      "term": "die Deeskalation",
+      "translated_term": "the de-escalation",
+      "example_usage": "Viele Länder rufen zur Deeskalation auf."
+    },
+    {
+      "term": "die humanitäre Krise",
+      "translated_term": "the humanitarian crisis",
+      "example_usage": "Die Vereinten Nationen warnen vor einer humanitären Krise in der ganzen Region."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN: Day 5 of Middle East conflict – Tehran retaliation, more than 1,000 killed in US-Israeli attacks",
+      "link_url": "https://www.cnn.com/world/live-news/iran-war-us-israel-trump-03-04-26"
+    },
+    {
+      "name": "Al Jazeera: Iran updates – Bombing rages as US Senate fails to curb Trump war powers",
+      "link_url": "https://www.aljazeera.com/news/liveblog/2026/3/4/iran-live-news-us-embassy-in-dubai-hit-israel-pounds-tehran-beirut"
+    },
+    {
+      "name": "CNBC: War powers vote fails in the Senate, allowing Trump to continue Iran strikes",
+      "link_url": "https://www.cnbc.com/2026/03/04/us-iran-war-live-updates.html"
+    }
+  ]
+}

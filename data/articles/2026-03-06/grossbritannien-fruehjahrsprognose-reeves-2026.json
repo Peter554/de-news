@@ -1,0 +1,119 @@
+{
+  "title": "Großbritannien: Finanzministerin Reeves präsentiert Frühjahresprognose",
+  "translated_title": "UK: Finance Minister Reeves Presents Spring Statement",
+  "text": [
+    {
+      "text": "Die britische Finanzministerin Rachel Reeves hat am 3. März 2026 ihre Frühjahresprognose im Parlament vorgestellt.",
+      "translated_text": "British Finance Minister Rachel Reeves presented her Spring Statement to Parliament on 3 March 2026."
+    },
+    {
+      "text": "Gleichzeitig veröffentlichte das unabhängige Amt für Haushaltsverantwortung (OBR) seine neuen Wirtschaftsprognosen.",
+      "translated_text": "At the same time, the independent Office for Budget Responsibility (OBR) published its new economic forecasts."
+    },
+    {
+      "text": "Das OBR erwartet, dass Großbritanniens Wirtschaft in diesem Jahr um 1,1 Prozent wächst.",
+      "translated_text": "The OBR expects the UK economy to grow by 1.1 percent this year."
+    },
+    {
+      "text": "Im November hatte das OBR noch 1,4 Prozent Wachstum vorhergesagt.",
+      "translated_text": "In November, the OBR had predicted 1.4 percent growth."
+    },
+    {
+      "text": "Für die Jahre 2027 und 2028 wurden die Prognosen leicht auf 1,6 Prozent erhöht.",
+      "translated_text": "For the years 2027 and 2028, forecasts were slightly raised to 1.6 percent."
+    },
+    {
+      "text": "Reeves sagte, die Regierung werde in diesem Zeitraum 18 Milliarden Pfund weniger leihen als erwartet.",
+      "translated_text": "Reeves said the government would borrow £18 billion less than expected during this period."
+    },
+    {
+      "text": "Der finanzielle Puffer der Regierung beträgt nun 23,6 Milliarden Pfund.",
+      "translated_text": "The government's financial buffer now stands at £23.6 billion."
+    },
+    {
+      "text": "Die Inflationsrate soll laut OBR in diesem Jahr auf 2,3 Prozent sinken.",
+      "translated_text": "According to the OBR, the inflation rate is expected to fall to 2.3 percent this year."
+    },
+    {
+      "text": "Allerdings wurde diese Prognose vor dem Krieg im Nahen Osten erstellt und könnte bereits veraltet sein.",
+      "translated_text": "However, this forecast was made before the war in the Middle East and may already be out of date."
+    },
+    {
+      "text": "Das OBR warnte, dass der Konflikt im Nahen Osten die Energiemärkte stark beeinflussen könnte.",
+      "translated_text": "The OBR warned that the conflict in the Middle East could strongly affect energy markets."
+    },
+    {
+      "text": "Reeves sagte im Unterhaus: \"Die Regierung hat den richtigen Wirtschaftsplan für das Land.\"",
+      "translated_text": "Reeves told the House of Commons: \"The government has the right economic plan for the country.\""
+    },
+    {
+      "text": "Die Opposition reagierte mit Rufen und Kritik auf die Rede der Ministerin.",
+      "translated_text": "The opposition responded to the minister's speech with jeers and criticism."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Frühjahresprognose",
+      "translated_term": "the spring statement / spring forecast",
+      "example_usage": "Finanzministerin Reeves hat ihre Frühjahresprognose im Parlament vorgestellt."
+    },
+    {
+      "term": "das Wachstum",
+      "translated_term": "the growth",
+      "example_usage": "Das OBR erwartet, dass Großbritanniens Wirtschaft um 1,1 Prozent wächst."
+    },
+    {
+      "term": "leihen",
+      "translated_term": "to borrow",
+      "example_usage": "Die Regierung werde 18 Milliarden Pfund weniger leihen als erwartet."
+    },
+    {
+      "term": "der Puffer",
+      "translated_term": "the buffer",
+      "example_usage": "Der finanzielle Puffer der Regierung beträgt nun 23,6 Milliarden Pfund."
+    },
+    {
+      "term": "die Inflationsrate",
+      "translated_term": "the inflation rate",
+      "example_usage": "Die Inflationsrate soll laut OBR in diesem Jahr auf 2,3 Prozent sinken."
+    },
+    {
+      "term": "veraltet",
+      "translated_term": "out of date / outdated",
+      "example_usage": "Diese Prognose könnte bereits veraltet sein."
+    },
+    {
+      "term": "beeinflussen",
+      "translated_term": "to influence / to affect",
+      "example_usage": "Der Konflikt im Nahen Osten könnte die Energiemärkte stark beeinflussen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Britische Politik",
+      "translated_name": "British Politics"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC: UK finance minister Reeves delivers the Spring Statement",
+      "link_url": "https://www.cnbc.com/2026/03/03/uk-spring-statement-rachel-reeves-uk-economy-uk-budget.html"
+    },
+    {
+      "name": "Yahoo Finance: Reeves seizes on OBR forecast to say UK economy is on the right path",
+      "link_url": "https://uk.finance.yahoo.com/news/spring-statement-live-rachel-reeves-latest-interest-rates-083708478.html"
+    },
+    {
+      "name": "The Canary: Rachel Reeves delivers spring statement – but the war in Iran casts a long shadow",
+      "link_url": "https://www.thecanary.co/uk/analysis/2026/03/03/rachel-reeves-delivers/"
+    }
+  ]
+}

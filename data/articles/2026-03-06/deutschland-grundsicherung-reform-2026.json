@@ -1,0 +1,123 @@
+{
+  "title": "Bundestag beschließt Reform des Bürgergelds zur Grundsicherung",
+  "translated_title": "Bundestag Passes Reform Replacing Bürgergeld with Basic Income Support",
+  "text": [
+    {
+      "text": "Der Bundestag hat am 5. März 2026 eine wichtige Reform der Sozialleistungen beschlossen.",
+      "translated_text": "The Bundestag passed an important welfare reform on 5 March 2026."
+    },
+    {
+      "text": "Das bisherige \"Bürgergeld\" wird durch eine neue Leistung namens \"Grundsicherung\" ersetzt.",
+      "translated_text": "The existing \"Bürgergeld\" is being replaced by a new benefit called \"Grundsicherung\"."
+    },
+    {
+      "text": "321 Abgeordnete stimmten dafür, 268 dagegen und zwei enthielten sich.",
+      "translated_text": "321 members of parliament voted in favour, 268 against and two abstained."
+    },
+    {
+      "text": "Hinter dem Gesetz steht die Regierungskoalition aus CDU/CSU und SPD.",
+      "translated_text": "The governing coalition of CDU/CSU and SPD is behind the law."
+    },
+    {
+      "text": "Etwa 5,5 Millionen Menschen in Deutschland erhalten zurzeit Bürgergeld.",
+      "translated_text": "Around 5.5 million people in Germany currently receive Bürgergeld."
+    },
+    {
+      "text": "Mit der Reform gilt das Prinzip \"Arbeit zuerst\": Zuerst wird geprüft, ob man sofort einen Job finden kann.",
+      "translated_text": "The reform introduces the \"work first\" principle: it is first checked whether one can immediately find a job."
+    },
+    {
+      "text": "Wer angebotene Arbeitsmaßnahmen ablehnt, bekommt die Grundsicherung um 30 Prozent gekürzt.",
+      "translated_text": "Anyone who refuses offered work measures will have their basic support reduced by 30 percent."
+    },
+    {
+      "text": "Bei wiederholten Verstößen kann das Jobcenter die Zahlungen ganz stoppen.",
+      "translated_text": "In the case of repeated violations, the job centre can stop payments entirely."
+    },
+    {
+      "text": "Psychisch kranke Menschen sind von den strengeren Regeln ausgenommen.",
+      "translated_text": "People with mental illness are exempt from the stricter rules."
+    },
+    {
+      "text": "Arbeitsministerin Bärbel Bas verteidigte die Reform als \"sozial gerecht und wirtschaftlich sinnvoll\".",
+      "translated_text": "Labour Minister Bärbel Bas defended the reform as \"socially just and economically sensible\"."
+    },
+    {
+      "text": "Die Grünen und die Linken kritisierten das Gesetz als zu hart gegenüber Bedürftigen.",
+      "translated_text": "The Greens and the Left party criticised the law as too harsh towards those in need."
+    },
+    {
+      "text": "Human Rights Watch warnte, die Reform könnte das Recht auf ein würdiges Leben gefährden.",
+      "translated_text": "Human Rights Watch warned that the reform could threaten the right to a dignified life."
+    },
+    {
+      "text": "Das neue Gesetz soll ab dem 1. Juli 2026 schrittweise in Kraft treten.",
+      "translated_text": "The new law is to come into force gradually from 1 July 2026."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Sozialleistung",
+      "translated_term": "the social benefit / welfare payment",
+      "example_usage": "Der Bundestag hat eine wichtige Reform der Sozialleistungen beschlossen."
+    },
+    {
+      "term": "die Grundsicherung",
+      "translated_term": "the basic income support",
+      "example_usage": "Das bisherige Bürgergeld wird durch eine neue Leistung namens Grundsicherung ersetzt."
+    },
+    {
+      "term": "sich enthalten",
+      "translated_term": "to abstain",
+      "example_usage": "321 Abgeordnete stimmten dafür, 268 dagegen und zwei enthielten sich."
+    },
+    {
+      "term": "kürzen",
+      "translated_term": "to reduce / to cut",
+      "example_usage": "Wer angebotene Arbeitsmaßnahmen ablehnt, bekommt die Grundsicherung um 30 Prozent gekürzt."
+    },
+    {
+      "term": "der Verstoß",
+      "translated_term": "the violation / the breach",
+      "example_usage": "Bei wiederholten Verstößen kann das Jobcenter die Zahlungen ganz stoppen."
+    },
+    {
+      "term": "ausgenommen",
+      "translated_term": "exempt / excluded",
+      "example_usage": "Psychisch kranke Menschen sind von den strengeren Regeln ausgenommen."
+    },
+    {
+      "term": "in Kraft treten",
+      "translated_term": "to come into force",
+      "example_usage": "Das neue Gesetz soll ab dem 1. Juli 2026 schrittweise in Kraft treten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Sozialpolitik",
+      "translated_name": "Social Policy"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bundestag: Umgestaltung des Bürgergelds zur Grundsicherung beschlossen",
+      "link_url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw10-de-grundsicherung-1150460"
+    },
+    {
+      "name": "ZDF heute: Bürgergeld wird zu Grundsicherung – Was die Reform bedeutet",
+      "link_url": "https://www.zdfheute.de/politik/deutschland/buergergeld-reform-grundsicherung-bundestag-100.html"
+    },
+    {
+      "name": "Human Rights Watch: Germany – Proposed Bill Would Weaken Right to Social Security",
+      "link_url": "https://www.hrw.org/news/2026/03/05/germany-proposed-bill-would-weaken-right-to-social-security"
+    }
+  ]
+}
