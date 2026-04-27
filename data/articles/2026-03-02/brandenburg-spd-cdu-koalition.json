@@ -1,0 +1,114 @@
+{
+  "title": "Brandenburg: SPD und CDU kurz vor Koalitionsvertrag",
+  "translated_title": "Brandenburg: SPD and CDU close to coalition agreement",
+  "text": [
+    {
+      "text": "In Brandenburg stehen SPD und CDU kurz vor dem Abschluss ihrer Koalitionsverhandlungen.",
+      "translated_text": "In Brandenburg, the SPD and CDU are close to concluding their coalition negotiations."
+    },
+    {
+      "text": "Am 4. März soll der Koalitionsvertrag offiziell vorgestellt werden.",
+      "translated_text": "The coalition agreement is due to be officially presented on 4 March."
+    },
+    {
+      "text": "Die Hintergründe: Im Januar 2026 zerbrach die bisherige SPD-BSW-Koalition in Brandenburg.",
+      "translated_text": "The background: in January 2026, the previous SPD-BSW coalition in Brandenburg collapsed."
+    },
+    {
+      "text": "Zwei Abgeordnete des Bündnisses Sahra Wagenknecht (BSW) traten aus ihrer Fraktion aus und wechselten zur SPD.",
+      "translated_text": "Two members of parliament from the Alliance Sahra Wagenknecht (BSW) left their parliamentary group and moved to the SPD."
+    },
+    {
+      "text": "Danach regierten SPD und CDU mit einer knappen Mehrheit von zwei Stimmen.",
+      "translated_text": "After that, the SPD and CDU governed with a narrow majority of two votes."
+    },
+    {
+      "text": "Ministerpräsident Dietmar Woidke (SPD) soll im Amt bleiben und muss nicht neu gewählt werden.",
+      "translated_text": "Minister-President Dietmar Woidke (SPD) is to remain in office and does not need to be re-elected."
+    },
+    {
+      "text": "CDU-Landeschef Jan Redmann soll voraussichtlich Vizepremier werden.",
+      "translated_text": "CDU state leader Jan Redmann is expected to become deputy prime minister."
+    },
+    {
+      "text": "Es gibt Berichte, dass das Infrastruktur- und das Wirtschaftsministerium zu einem großen Ministerium zusammengelegt werden könnten.",
+      "translated_text": "There are reports that the infrastructure and economic ministries could be merged into one large ministry."
+    },
+    {
+      "text": "SPD und CDU wollen angesichts eines drohenden Milliarden-Defizits stark sparen.",
+      "translated_text": "The SPD and CDU want to make significant savings in the face of a threatening billion-euro deficit."
+    },
+    {
+      "text": "Schwerpunkte der neuen Koalition sollen innere Sicherheit, Wirtschaftsförderung und der Abbau von Bürokratie sein.",
+      "translated_text": "The priorities of the new coalition are to be internal security, economic promotion, and reducing bureaucracy."
+    },
+    {
+      "text": "Nach der Unterzeichnung des Koalitionsvertrags soll die CDU ihre Mitglieder befragen.",
+      "translated_text": "After the signing of the coalition agreement, the CDU is to consult its members."
+    },
+    {
+      "text": "Die SPD plant für den 14. März einen Parteitag in Potsdam, um dem Vertrag zuzustimmen.",
+      "translated_text": "The SPD is planning a party conference in Potsdam on 14 March to approve the agreement."
+    },
+    {
+      "text": "Wenn alles klappt, könnten die neuen Minister schon am 18. März vereidigt werden.",
+      "translated_text": "If all goes to plan, the new ministers could be sworn in as early as 18 March."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Koalitionsverhandlungen (Pl.)",
+      "translated_term": "the coalition negotiations",
+      "example_usage": "SPD und CDU stehen kurz vor dem Abschluss ihrer Koalitionsverhandlungen."
+    },
+    {
+      "term": "zerbrechen",
+      "translated_term": "to collapse / to break apart",
+      "example_usage": "Im Januar 2026 zerbrach die bisherige SPD-BSW-Koalition in Brandenburg."
+    },
+    {
+      "term": "der Ministerpräsident / die Ministerpräsidentin",
+      "translated_term": "the Minister-President (state premier)",
+      "example_usage": "Ministerpräsident Dietmar Woidke soll im Amt bleiben."
+    },
+    {
+      "term": "zusammenlegen",
+      "translated_term": "to merge / to combine",
+      "example_usage": "Das Infrastruktur- und das Wirtschaftsministerium könnten zusammengelegt werden."
+    },
+    {
+      "term": "vereidigen",
+      "translated_term": "to swear in",
+      "example_usage": "Die neuen Minister könnten am 18. März vereidigt werden."
+    },
+    {
+      "term": "das Defizit",
+      "translated_term": "the deficit",
+      "example_usage": "Angesichts eines drohenden Milliarden-Defizits wollen SPD und CDU stark sparen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tagesspiegel: Neue Brandenburg Koalition steht in den Startlöchern",
+      "link_url": "https://www.tagesspiegel.de/potsdam/brandenburg/knapp-und-sparsam-neue-brandenburg-koalition-steht-in-den-startlochern-15305556.html"
+    },
+    {
+      "name": "Berliner Abendblatt: SPD und CDU in Brandenburg auf der Zielgeraden für Koalition",
+      "link_url": "https://berliner-abendblatt.de/berlin-news/spd-und-cdu-in-brandenburg-auf-der-zielgeraden-fuer-koalition-id326087"
+    }
+  ]
+}
