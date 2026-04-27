@@ -1,0 +1,119 @@
+{
+  "title": "Ein Jahr Merz-Regierung: Zwei Drittel der Deutschen sind unzufrieden",
+  "translated_title": "One Year of the Merz Government: Two Thirds of Germans are Dissatisfied",
+  "text": [
+    {
+      "text": "Vor einem Jahr, am 23. Februar 2025, fanden in Deutschland vorgezogene Bundestagswahlen statt.",
+      "translated_text": "One year ago, on 23 February 2025, early federal elections took place in Germany."
+    },
+    {
+      "text": "Die CDU/CSU wurde mit rund 28,5 Prozent der Stimmen stärkste Partei.",
+      "translated_text": "The CDU/CSU became the strongest party with around 28.5 percent of the votes."
+    },
+    {
+      "text": "Friedrich Merz wurde am 6. Mai 2025 als Bundeskanzler vereidigt.",
+      "translated_text": "Friedrich Merz was sworn in as Federal Chancellor on 6 May 2025."
+    },
+    {
+      "text": "Er führt eine Koalition aus CDU/CSU und SPD, auch bekannt als Große Koalition oder kurz GroKo.",
+      "translated_text": "He leads a coalition of CDU/CSU and SPD, also known as the Grand Coalition or GroKo for short."
+    },
+    {
+      "text": "Nach einem Jahr im Amt ist die Bilanz jedoch gemischt.",
+      "translated_text": "After one year in office, however, the record is mixed."
+    },
+    {
+      "text": "Laut aktuellen Umfragen sind rund zwei Drittel der Deutschen mit der Bundesregierung unzufrieden.",
+      "translated_text": "According to current surveys, around two thirds of Germans are dissatisfied with the federal government."
+    },
+    {
+      "text": "Merz gibt seiner eigenen Regierung die Schulnote 'befriedigend'.",
+      "translated_text": "Merz gives his own government the school grade 'satisfactory'."
+    },
+    {
+      "text": "Kritiker sagen, dass wichtige Wahlversprechen nicht eingelöst wurden.",
+      "translated_text": "Critics say that important election promises have not been kept."
+    },
+    {
+      "text": "Die deutsche Wirtschaft steckt noch immer in einer langen Schwächephase.",
+      "translated_text": "The German economy is still stuck in a long period of weakness."
+    },
+    {
+      "text": "Ein Wirtschaftsexperte erklärt: 'Das Wachstum wird besser, aber nicht berauschend.'",
+      "translated_text": "An economic expert explains: 'Growth is improving, but not spectacular.'"
+    },
+    {
+      "text": "In der Außenpolitik hingegen loben viele die Arbeit von Merz.",
+      "translated_text": "In foreign policy, however, many praise the work of Merz."
+    },
+    {
+      "text": "Deutschland hat seine Rolle in Europa gestärkt und zeigt Verlässlichkeit gegenüber den Verbündeten.",
+      "translated_text": "Germany has strengthened its role in Europe and shows reliability towards its allies."
+    },
+    {
+      "text": "Für die Regierung bleibt Wirtschaftswachstum die größte Herausforderung der nächsten Jahre.",
+      "translated_text": "For the government, economic growth remains the biggest challenge of the coming years."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "vorgezogen",
+      "translated_term": "early, brought forward",
+      "example_usage": "Vor einem Jahr fanden in Deutschland vorgezogene Bundestagswahlen statt."
+    },
+    {
+      "term": "vereidigen",
+      "translated_term": "to swear in",
+      "example_usage": "Friedrich Merz wurde am 6. Mai 2025 als Bundeskanzler vereidigt."
+    },
+    {
+      "term": "die Bilanz",
+      "translated_term": "the record, the balance",
+      "example_usage": "Nach einem Jahr im Amt ist die Bilanz gemischt."
+    },
+    {
+      "term": "einlösen",
+      "translated_term": "to keep, to redeem",
+      "example_usage": "Wichtige Wahlversprechen wurden nicht eingelöst."
+    },
+    {
+      "term": "die Schwächephase",
+      "translated_term": "the period of weakness",
+      "example_usage": "Die deutsche Wirtschaft steckt noch immer in einer langen Schwächephase."
+    },
+    {
+      "term": "die Verlässlichkeit",
+      "translated_term": "the reliability",
+      "example_usage": "Deutschland zeigt Verlässlichkeit gegenüber den Verbündeten."
+    },
+    {
+      "term": "die Herausforderung",
+      "translated_term": "the challenge",
+      "example_usage": "Wirtschaftswachstum bleibt die größte Herausforderung der nächsten Jahre."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Bundestagswahl",
+      "translated_name": "Federal Election"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews - Ein Jahr Bundestagswahl: Zweidrittel der Deutschen mit Merz-Regierung unzufrieden",
+      "link_url": "https://de.euronews.com/2026/02/23/ein-jahr-bundestagswahl-zweidrittel-deutschen-merz-regierung-unzufrieden"
+    },
+    {
+      "name": "Tagesspiegel - Ein Jahr nach der Bundestagswahl: Unter Merz regiert das Mittelmaß",
+      "link_url": "https://www.tagesspiegel.de/politik/ein-jahr-nach-der-bundestagswahl-unter-merz-regiert-das-mittelmass-15278020.html"
+    }
+  ]
+}

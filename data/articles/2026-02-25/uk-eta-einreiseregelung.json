@@ -1,0 +1,119 @@
+{
+  "title": "Großbritannien führt neue Einreisepflicht ein: ETA ab sofort erforderlich",
+  "translated_title": "United Kingdom introduces new entry requirement: ETA now mandatory",
+  "text": [
+    {
+      "text": "Seit dem 25. Februar 2026 gilt in Großbritannien eine neue Einreiseregelung.",
+      "translated_text": "Since 25 February 2026, a new entry regulation applies in Great Britain."
+    },
+    {
+      "text": "Reisende aus 85 Ländern, die bisher kein Visum brauchten, müssen jetzt eine Elektronische Reisegenehmigung beantragen.",
+      "translated_text": "Travellers from 85 countries who previously did not need a visa must now apply for an Electronic Travel Authorisation."
+    },
+    {
+      "text": "Diese Genehmigung heißt auf Englisch Electronic Travel Authorisation, kurz ETA.",
+      "translated_text": "This authorisation is called Electronic Travel Authorisation in English, abbreviated ETA."
+    },
+    {
+      "text": "Die ETA kostet 16 Pfund und ist zwei Jahre gültig.",
+      "translated_text": "The ETA costs 16 pounds and is valid for two years."
+    },
+    {
+      "text": "Mit einer ETA darf man Großbritannien bis zu sechs Monate pro Aufenthalt besuchen.",
+      "translated_text": "With an ETA, one may visit Great Britain for up to six months per stay."
+    },
+    {
+      "text": "Airlines und andere Verkehrsunternehmen dürfen Passagiere ohne gültige ETA nicht mehr an Bord lassen.",
+      "translated_text": "Airlines and other transport companies are no longer allowed to let passengers without a valid ETA on board."
+    },
+    {
+      "text": "Die britische Regierung nennt dieses Prinzip 'No permission, no travel' - also 'Keine Genehmigung, keine Reise'.",
+      "translated_text": "The British government calls this principle 'No permission, no travel'."
+    },
+    {
+      "text": "Gleichzeitig schafft Großbritannien physische Visa-Aufkleber vollständig ab.",
+      "translated_text": "At the same time, Great Britain is completely abolishing physical visa stickers."
+    },
+    {
+      "text": "Ab jetzt werden alle Visa digital gespeichert und mit dem Reisepass verknüpft.",
+      "translated_text": "From now on, all visas will be stored digitally and linked to the passport."
+    },
+    {
+      "text": "Das britische Innenministerium erklärt, dass digitale Visa Dokumentenbetrug verringern sollen.",
+      "translated_text": "The British Home Office states that digital visas are intended to reduce document fraud."
+    },
+    {
+      "text": "Britische und irische Staatsbürger brauchen keine ETA.",
+      "translated_text": "British and Irish citizens do not need an ETA."
+    },
+    {
+      "text": "Allerdings müssen bestimmte Personen mit doppelter Staatsangehörigkeit jetzt einen britischen Pass vorzeigen, was teuer sein kann.",
+      "translated_text": "However, certain people with dual citizenship must now show a British passport, which can be expensive."
+    },
+    {
+      "text": "Experten erwarten, dass die neue Regelung den Grenzschutz und die Sicherheit verbessern wird.",
+      "translated_text": "Experts expect that the new regulation will improve border protection and security."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Einreisegenehmigung",
+      "translated_term": "the entry authorisation",
+      "example_usage": "Reisende müssen jetzt eine Elektronische Reisegenehmigung beantragen."
+    },
+    {
+      "term": "beantragen",
+      "translated_term": "to apply for",
+      "example_usage": "Reisende müssen eine ETA beantragen."
+    },
+    {
+      "term": "gültig",
+      "translated_term": "valid",
+      "example_usage": "Die ETA ist zwei Jahre gültig."
+    },
+    {
+      "term": "der Aufenthalt",
+      "translated_term": "the stay",
+      "example_usage": "Mit einer ETA darf man Großbritannien bis zu sechs Monate pro Aufenthalt besuchen."
+    },
+    {
+      "term": "abschaffen",
+      "translated_term": "to abolish",
+      "example_usage": "Großbritannien schafft physische Visa-Aufkleber vollständig ab."
+    },
+    {
+      "term": "verknüpfen",
+      "translated_term": "to link",
+      "example_usage": "Alle Visa werden digital gespeichert und mit dem Reisepass verknüpft."
+    },
+    {
+      "term": "die Staatsangehörigkeit",
+      "translated_term": "the citizenship, the nationality",
+      "example_usage": "Bestimmte Personen mit doppelter Staatsangehörigkeit müssen einen britischen Pass vorzeigen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Einwanderungspolitik",
+      "translated_name": "Immigration Policy"
+    },
+    {
+      "name": "Reisen",
+      "translated_name": "Travel"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews - UK to enforce new digital travel permit rules from February 2026",
+      "link_url": "https://www.euronews.com/travel/2026/02/24/no-permission-no-travel-uk-to-enforce-new-digital-travel-permit-rules-from-february-2026"
+    },
+    {
+      "name": "Yorkshire Live - New UK rule from February 25",
+      "link_url": "https://www.examinerlive.co.uk/news/uk-world-news/new-uk-rule-february-25-33478948"
+    }
+  ]
+}
