@@ -1,0 +1,123 @@
+{
+  "title": "NASA startet Artemis II – erste bemannte Mondmission seit 1972",
+  "translated_title": "NASA Launches Artemis II – First Crewed Moon Mission Since 1972",
+  "text": [
+    {
+      "text": "Die NASA hat am 1. April 2026 ihre Artemis-II-Mission erfolgreich gestartet.",
+      "translated_text": "NASA successfully launched its Artemis II mission on 1 April 2026."
+    },
+    {
+      "text": "Vier Astronauten sind jetzt auf dem Weg zum Mond.",
+      "translated_text": "Four astronauts are now on their way to the Moon."
+    },
+    {
+      "text": "Es ist das erste Mal seit der Apollo-17-Mission im Jahr 1972, dass Menschen in die Nähe des Mondes reisen.",
+      "translated_text": "It is the first time since the Apollo 17 mission in 1972 that people have travelled to the vicinity of the Moon."
+    },
+    {
+      "text": "Die Rakete startete vom Kennedy Space Center in Florida.",
+      "translated_text": "The rocket launched from the Kennedy Space Center in Florida."
+    },
+    {
+      "text": "Die Crew besteht aus Kommandant Reid Wiseman, Pilot Victor Glover, Missionsspezialistin Christina Koch und dem kanadischen Astronauten Jeremy Hansen.",
+      "translated_text": "The crew consists of Commander Reid Wiseman, Pilot Victor Glover, Mission Specialist Christina Koch, and Canadian astronaut Jeremy Hansen."
+    },
+    {
+      "text": "Christina Koch ist die erste Frau, die den Mond besucht.",
+      "translated_text": "Christina Koch is the first woman to visit the Moon."
+    },
+    {
+      "text": "Victor Glover ist der erste Mensch mit nicht-weißer Hautfarbe, der den Erdorbit verlässt.",
+      "translated_text": "Victor Glover is the first person of colour to leave Earth's orbit."
+    },
+    {
+      "text": "Jeremy Hansen ist der erste Nicht-Amerikaner, der zum Mond reist.",
+      "translated_text": "Jeremy Hansen is the first non-American to travel to the Moon."
+    },
+    {
+      "text": "Am 2. April soll das Raumschiff das sogenannte translunar injection burn durchführen.",
+      "translated_text": "On 2 April, the spacecraft is due to perform the so-called translunar injection burn."
+    },
+    {
+      "text": "Das bedeutet, dass das Raumschiff in Richtung Mond beschleunigt wird.",
+      "translated_text": "This means that the spacecraft will be accelerated in the direction of the Moon."
+    },
+    {
+      "text": "Die Astronauten werden den Mond umfliegen, aber nicht landen.",
+      "translated_text": "The astronauts will fly around the Moon, but will not land."
+    },
+    {
+      "text": "Die Mission ist ein wichtiger Schritt für das Artemis-Programm der NASA.",
+      "translated_text": "The mission is an important step for NASA's Artemis programme."
+    },
+    {
+      "text": "Das Ziel des Programms ist es, Menschen dauerhaft zum Mond zurückzubringen.",
+      "translated_text": "The goal of the programme is to bring people back to the Moon permanently."
+    },
+    {
+      "text": "Millionen von Menschen weltweit haben den Start im Fernsehen oder im Internet verfolgt.",
+      "translated_text": "Millions of people worldwide watched the launch on television or online."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "bemannt",
+      "translated_term": "crewed / manned",
+      "example_usage": "Artemis II ist die erste bemannte Mondmission seit 1972."
+    },
+    {
+      "term": "der Astronaut",
+      "translated_term": "the astronaut",
+      "example_usage": "Die Crew besteht aus vier Astronauten."
+    },
+    {
+      "term": "der Erdorbit",
+      "translated_term": "Earth's orbit",
+      "example_usage": "Victor Glover ist der erste Mensch mit nicht-weißer Hautfarbe, der den Erdorbit verlässt."
+    },
+    {
+      "term": "umfliegen",
+      "translated_term": "to fly around",
+      "example_usage": "Die Astronauten werden den Mond umfliegen, aber nicht landen."
+    },
+    {
+      "term": "beschleunigen",
+      "translated_term": "to accelerate",
+      "example_usage": "Das Raumschiff wird in Richtung Mond beschleunigt."
+    },
+    {
+      "term": "das Raumschiff",
+      "translated_term": "the spacecraft",
+      "example_usage": "Am 2. April soll das Raumschiff das translunar injection burn durchführen."
+    },
+    {
+      "term": "dauerhaft",
+      "translated_term": "permanently / long-term",
+      "example_usage": "Das Ziel ist es, Menschen dauerhaft zum Mond zurückzubringen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Weltraumforschung",
+      "translated_name": "Space Exploration"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Wissenschaft",
+      "translated_name": "Science"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NASA: Liftoff! NASA Launches Astronauts on Historic Artemis Moon Mission",
+      "link_url": "https://www.nasa.gov/news-release/liftoff-nasa-launches-astronauts-on-historic-artemis-moon-mission/"
+    },
+    {
+      "name": "CNN: Artemis II launch live updates",
+      "link_url": "https://www.cnn.com/2026/04/01/science/live-news/artemis-2-nasa-launch"
+    }
+  ]
+}

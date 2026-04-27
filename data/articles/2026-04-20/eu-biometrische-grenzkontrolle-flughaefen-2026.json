@@ -1,0 +1,131 @@
+{
+  "title": "Neues EU-Grenzkontrollsystem verursacht lange Warteschlangen an Flughäfen",
+  "translated_title": "New EU Border Control System Causes Long Queues at Airports",
+  "text": [
+    {
+      "text": "Seit dem 10. April 2026 gibt es ein neues Grenzkontrollsystem in der Europäischen Union.",
+      "translated_text": "Since 10 April 2026, there has been a new border control system in the European Union."
+    },
+    {
+      "text": "Das System heißt Entry/Exit System, kurz EES.",
+      "translated_text": "The system is called the Entry/Exit System, or EES for short."
+    },
+    {
+      "text": "Es nutzt biometrische Daten wie Fingerabdrücke und Gesichtsscans.",
+      "translated_text": "It uses biometric data such as fingerprints and facial scans."
+    },
+    {
+      "text": "Das System soll die Grenzsicherheit verbessern.",
+      "translated_text": "The system is intended to improve border security."
+    },
+    {
+      "text": "Aber es gibt ein großes Problem: Die Warteschlangen an den Flughäfen sind sehr lang.",
+      "translated_text": "But there is a big problem: the queues at airports are very long."
+    },
+    {
+      "text": "In Deutschland, Frankreich, Belgien, Italien und Spanien warten Reisende bis zu drei oder vier Stunden.",
+      "translated_text": "In Germany, France, Belgium, Italy and Spain, travellers are waiting up to three or four hours."
+    },
+    {
+      "text": "Besonders in München gibt es viele Probleme.",
+      "translated_text": "There are particularly many problems in Munich."
+    },
+    {
+      "text": "Manchmal können die Maschinen die Pässe nicht lesen.",
+      "translated_text": "Sometimes the machines cannot read the passports."
+    },
+    {
+      "text": "Auch Fingerabdrücke werden nicht immer erkannt.",
+      "translated_text": "Fingerprints are not always recognised either."
+    },
+    {
+      "text": "Viele Reisende wissen nicht, welche Schlange sie nehmen sollen.",
+      "translated_text": "Many travellers do not know which queue they should join."
+    },
+    {
+      "text": "Experten warnen, dass die Situation im Sommer noch schlimmer werden könnte.",
+      "translated_text": "Experts warn that the situation could get even worse in summer."
+    },
+    {
+      "text": "Im Sommer reisen viel mehr Menschen, und die Flughäfen könnten dann zusammenbrechen.",
+      "translated_text": "In summer many more people travel, and airports could then collapse."
+    },
+    {
+      "text": "Der Europäische Flughafenrat macht sich große Sorgen.",
+      "translated_text": "The European Airport Council is very concerned."
+    },
+    {
+      "text": "Reisende sollten jetzt mindestens anderthalb bis zwei Stunden früher am Flughafen sein.",
+      "translated_text": "Travellers should now arrive at the airport at least one and a half to two hours earlier."
+    },
+    {
+      "text": "Die EU-Behörden arbeiten daran, das System zu verbessern.",
+      "translated_text": "EU authorities are working to improve the system."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Grenzkontrolle",
+      "translated_term": "the border control",
+      "example_usage": "Das neue EU-Grenzkontrollsystem verursacht lange Warteschlangen."
+    },
+    {
+      "term": "die Warteschlange",
+      "translated_term": "the queue / waiting line",
+      "example_usage": "Reisende warten bis zu drei oder vier Stunden in der Warteschlange."
+    },
+    {
+      "term": "biometrisch",
+      "translated_term": "biometric",
+      "example_usage": "Das System nutzt biometrische Daten wie Fingerabdrücke und Gesichtsscans."
+    },
+    {
+      "term": "der Fingerabdruck",
+      "translated_term": "the fingerprint",
+      "example_usage": "Fingerabdrücke werden nicht immer erkannt."
+    },
+    {
+      "term": "zusammenbrechen",
+      "translated_term": "to collapse / to break down",
+      "example_usage": "Die Flughäfen könnten im Sommer zusammenbrechen."
+    },
+    {
+      "term": "die Grenzsicherheit",
+      "translated_term": "border security",
+      "example_usage": "Das System soll die Grenzsicherheit verbessern."
+    },
+    {
+      "term": "warnen",
+      "translated_term": "to warn",
+      "example_usage": "Experten warnen, dass die Situation im Sommer noch schlimmer werden könnte."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Europäische Union",
+      "translated_name": "European Union"
+    },
+    {
+      "name": "Reisen",
+      "translated_name": "Travel"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews: Europe's Entry/Exit System (EES): What to know as border control changes come into effect",
+      "link_url": "https://www.euronews.com/travel/2026/04/06/europes-entryexit-system-ees-what-travellers-need-to-know-before-10-april-rollout"
+    },
+    {
+      "name": "TravelWise: EES Border Checks Bring Delays at Some EU Airports",
+      "link_url": "https://www.travelwiseway.com/section-news/news-ees-border-checks-bring-delays-at-some-eu-airports-14-04-2026.html"
+    },
+    {
+      "name": "Pravda EU: The new EU biometric border control system has paralyzed airports across Europe",
+      "link_url": "https://eu.news-pravda.com/world/2026/04/16/187042.html"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "title": "Londoner U-Bahn-Streiks treffen die Gastronomie hart",
+  "translated_title": "London Tube Strikes Hit the Hospitality Sector Hard",
+  "text": [
+    {
+      "text": "Im April und Mai 2026 gibt es in London mehrere Streiks bei der U-Bahn.",
+      "translated_text": "In April and May 2026, there are several strikes on the London Underground."
+    },
+    {
+      "text": "Die Gewerkschaft RMT hat die Streiks organisiert.",
+      "translated_text": "The RMT trade union has organised the strikes."
+    },
+    {
+      "text": "Der Streit dreht sich um geplante Änderungen bei der Arbeitswoche der U-Bahn-Fahrer.",
+      "translated_text": "The dispute concerns planned changes to the working week of Underground drivers."
+    },
+    {
+      "text": "Jeder Streik dauert 24 Stunden, aber weitere Arbeitsniederlegungen sind für Mai und Juni 2026 geplant.",
+      "translated_text": "Each strike lasts 24 hours, but further walkouts are planned for May and June 2026."
+    },
+    {
+      "text": "Die Streiks haben große wirtschaftliche Auswirkungen auf die Stadt.",
+      "translated_text": "The strikes are having a major economic impact on the city."
+    },
+    {
+      "text": "Viele Londoner können nicht zur Arbeit fahren oder Restaurants und Pubs besuchen.",
+      "translated_text": "Many Londoners are unable to travel to work or visit restaurants and pubs."
+    },
+    {
+      "text": "Die Gastronomiebranche leidet besonders stark unter den Streiks.",
+      "translated_text": "The hospitality sector is suffering particularly badly from the strikes."
+    },
+    {
+      "text": "Laut einem Bericht sind die Einnahmen der Pubs in der Streikwoche um 54 Prozent gesunken.",
+      "translated_text": "According to a report, pub revenues fell by 54 percent during the strike week."
+    },
+    {
+      "text": "Schnellrestaurants verloren 34 Prozent ihrer Umsätze, und normale Restaurants verzeichneten einen Rückgang von 14 Prozent.",
+      "translated_text": "Fast food restaurants lost 34 percent of their revenues, and casual dining venues recorded a 14 percent decline."
+    },
+    {
+      "text": "Insgesamt sind die Einnahmen der Gastronomie in London in der Streikwoche um 18 Prozent gesunken.",
+      "translated_text": "Overall, hospitality revenues in London fell by 18 percent during the strike week."
+    },
+    {
+      "text": "Experten schätzen, dass Londons Pubs allein zwischen Dienstag und Freitag etwa 80 Millionen Pfund an Einnahmen verlieren.",
+      "translated_text": "Experts estimate that London's pubs alone lose around 80 million pounds in revenue between Tuesday and Friday."
+    },
+    {
+      "text": "Das Buchungsportal OpenTable bat Londoner, ihre Reservierungen rechtzeitig zu stornieren.",
+      "translated_text": "The booking platform OpenTable asked Londoners to cancel their reservations in good time."
+    },
+    {
+      "text": "So könnten freie Tische für andere Gäste gebucht werden, da Restaurants ohnehin mit sehr niedrigen Gewinnmargen arbeiten.",
+      "translated_text": "This would allow free tables to be booked by other guests, as restaurants already operate on very thin profit margins."
+    },
+    {
+      "text": "Die Transportbehörde Transport for London und die Gewerkschaft verhandeln weiter über eine Einigung.",
+      "translated_text": "Transport for London and the trade union continue to negotiate towards an agreement."
+    },
+    {
+      "text": "Viele Londoner Geschäftsleute und Gastronomen fordern eine schnelle Lösung des Tarifstreits.",
+      "translated_text": "Many London business owners and restaurateurs are calling for a quick resolution to the pay dispute."
+    },
+    {
+      "text": "Sie warnen, dass weitere Streiks die Wirtschaft der Hauptstadt dauerhaft schädigen könnten.",
+      "translated_text": "They warn that further strikes could permanently damage the capital's economy."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the trade union",
+      "example_usage": "Die Gewerkschaft RMT hat die Streiks organisiert."
+    },
+    {
+      "term": "die Arbeitsniederlegung",
+      "translated_term": "the walkout / work stoppage",
+      "example_usage": "Weitere Arbeitsniederlegungen sind für Mai und Juni 2026 geplant."
+    },
+    {
+      "term": "die Gastronomiebranche",
+      "translated_term": "the hospitality sector",
+      "example_usage": "Die Gastronomiebranche leidet besonders stark unter den Streiks."
+    },
+    {
+      "term": "verzeichnen",
+      "translated_term": "to record / to register",
+      "example_usage": "Normale Restaurants verzeichneten einen Rückgang von 14 Prozent."
+    },
+    {
+      "term": "die Gewinnmarge",
+      "translated_term": "the profit margin",
+      "example_usage": "Restaurants arbeiten ohnehin mit sehr niedrigen Gewinnmargen."
+    },
+    {
+      "term": "der Tarifstreit",
+      "translated_term": "the pay dispute / wage dispute",
+      "example_usage": "Viele Geschäftsleute fordern eine schnelle Lösung des Tarifstreits."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ITV News London: Tube strike ends but further industrial action planned",
+      "link_url": "https://www.itv.com/news/london/2026-04-22/tube-strike-ends-but-further-industrial-action-planned"
+    },
+    {
+      "name": "Yahoo News UK: Tube strikes could wipe out £80m from London pubs and restaurants",
+      "link_url": "https://uk.news.yahoo.com/tube-strikes-could-wipe-80m-101534770.html"
+    },
+    {
+      "name": "London Loves Business: Strike disruption wipes out trade across London pubs and restaurants",
+      "link_url": "https://londonlovesbusiness.com/strike-disruption-wipes-out-trade-across-london-pubs-and-restaurants/"
+    }
+  ]
+}

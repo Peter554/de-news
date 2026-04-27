@@ -1,0 +1,139 @@
+{
+  "title": "Deutschland halbiert Wirtschaftsprognose wegen Energiekrise durch Iran-Krieg",
+  "translated_title": "Germany Halves Economic Forecast Due to Energy Crisis Caused by Iran War",
+  "text": [
+    {
+      "text": "Wegen des Krieges im Iran sind die Energiepreise weltweit stark gestiegen.",
+      "translated_text": "Because of the war in Iran, energy prices around the world have risen sharply."
+    },
+    {
+      "text": "Der Ölpreis ist seit Jahresbeginn um fast 73 Prozent gestiegen.",
+      "translated_text": "The price of oil has risen by almost 73 percent since the beginning of the year."
+    },
+    {
+      "text": "Das liegt vor allem daran, dass die Straße von Hormus gesperrt wurde.",
+      "translated_text": "This is mainly because the Strait of Hormuz has been blocked."
+    },
+    {
+      "text": "Durch diese Meeresstraße fließt ungefähr 20 Prozent des weltweiten Ölhandels.",
+      "translated_text": "Around 20 percent of global oil trade passes through this strait."
+    },
+    {
+      "text": "Deutschland leidet besonders stark unter den hohen Energiepreisen.",
+      "translated_text": "Germany is suffering particularly badly under the high energy prices."
+    },
+    {
+      "text": "Die Bundesregierung hat ihre Wachstumsprognose für 2026 halbiert.",
+      "translated_text": "The federal government has halved its growth forecast for 2026."
+    },
+    {
+      "text": "Sie rechnet jetzt nur noch mit einem Wirtschaftswachstum von 0,5 Prozent statt der geplanten 1 Prozent.",
+      "translated_text": "It now expects economic growth of only 0.5 percent instead of the planned 1 percent."
+    },
+    {
+      "text": "Auch die Prognose für 2027 wurde von 1,3 auf 0,9 Prozent gesenkt.",
+      "translated_text": "The forecast for 2027 was also cut from 1.3 to 0.9 percent."
+    },
+    {
+      "text": "Das Ifo-Institut berichtete, dass das Geschäftsklima in Deutschland im April auf den niedrigsten Stand seit Mai 2020 gefallen ist.",
+      "translated_text": "The Ifo Institute reported that the business climate in Germany fell to its lowest level since May 2020 in April."
+    },
+    {
+      "text": "Das Institut für Makroökonomie warnt, dass die Wahrscheinlichkeit einer Rezession im zweiten Quartal 2026 bei 33,5 Prozent liegt.",
+      "translated_text": "The Institute for Macroeconomics warns that the probability of a recession in the second quarter of 2026 is 33.5 percent."
+    },
+    {
+      "text": "Als Reaktion hat die Bundesregierung eine zweimonatige Steuersenkung auf Benzin und Diesel beschlossen.",
+      "translated_text": "In response, the federal government has decided on a two-month tax cut on petrol and diesel."
+    },
+    {
+      "text": "Diese Maßnahme kostet den Staat etwa 1,6 Milliarden Euro.",
+      "translated_text": "This measure costs the state around 1.6 billion euros."
+    },
+    {
+      "text": "Außerdem hat die Europäische Union genehmigt, dass Deutschland energieintensive Industrien mit bis zu 3,8 Milliarden Euro unterstützen darf.",
+      "translated_text": "In addition, the European Union has approved Germany providing up to 3.8 billion euros in support to energy-intensive industries."
+    },
+    {
+      "text": "Bundeskanzler Merz will den Nationalen Sicherheitsrat einberufen, um über die Energiekrise zu beraten.",
+      "translated_text": "Chancellor Merz wants to convene the National Security Council to discuss the energy crisis."
+    },
+    {
+      "text": "Der Industrieverband BDI erwartet im besten Fall eine wirtschaftliche Stagnation für Deutschland im Jahr 2026.",
+      "translated_text": "The BDI industry association expects economic stagnation for Germany in 2026 at best."
+    },
+    {
+      "text": "Viele Unternehmen kämpfen gleichzeitig mit hohen Energiekosten, Lieferkettenproblemen und strukturellen Schwächen.",
+      "translated_text": "Many companies are simultaneously struggling with high energy costs, supply chain problems, and structural weaknesses."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Wirtschaftsprognose",
+      "translated_term": "the economic forecast",
+      "example_usage": "Die Bundesregierung hat ihre Wachstumsprognose für 2026 halbiert."
+    },
+    {
+      "term": "die Energiekrise",
+      "translated_term": "the energy crisis",
+      "example_usage": "Bundeskanzler Merz will den Nationalen Sicherheitsrat einberufen, um über die Energiekrise zu beraten."
+    },
+    {
+      "term": "die Meeresstraße",
+      "translated_term": "the strait",
+      "example_usage": "Durch diese Meeresstraße fließt ungefähr 20 Prozent des weltweiten Ölhandels."
+    },
+    {
+      "term": "halbieren",
+      "translated_term": "to halve",
+      "example_usage": "Die Bundesregierung hat ihre Wachstumsprognose für 2026 halbiert."
+    },
+    {
+      "term": "die Rezession",
+      "translated_term": "the recession",
+      "example_usage": "Das Institut für Makroökonomie warnt, dass die Wahrscheinlichkeit einer Rezession bei 33,5 Prozent liegt."
+    },
+    {
+      "term": "die Steuersenkung",
+      "translated_term": "the tax cut",
+      "example_usage": "Die Bundesregierung hat eine zweimonatige Steuersenkung auf Benzin und Diesel beschlossen."
+    },
+    {
+      "term": "einberufen",
+      "translated_term": "to convene / to call together",
+      "example_usage": "Bundeskanzler Merz will den Nationalen Sicherheitsrat einberufen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Energiepolitik",
+      "translated_name": "Energy Policy"
+    },
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC: Germany's economy was set to rebound. But soaring energy prices have derailed Europe's biggest comeback",
+      "link_url": "https://www.cnbc.com/2026/04/24/germany-iran-defense-war-energy-oil-price-shock-industry-fiscal-stimulus-middle-east-europe-inflation-growth.html"
+    },
+    {
+      "name": "Euronews: Germany halves GDP forecast from 1% to 0.5% due to Iran war fallout",
+      "link_url": "https://www.euronews.com/business/2026/04/22/germany-halves-gdp-forecast-from-1-to-05-due-to-iran-war-fallout"
+    },
+    {
+      "name": "Reuters: Germany recession risk jumps as Iran war lifts energy prices, IMK says",
+      "link_url": "https://www.investing.com/news/economy-news/germany-recession-risk-jumps-as-iran-war-lifts-energy-prices-imk-says-4632790"
+    }
+  ]
+}

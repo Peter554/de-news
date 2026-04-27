@@ -1,0 +1,155 @@
+{
+  "title": "Streik lähmt die Londoner U-Bahn",
+  "translated_title": "Strike Paralyses the London Underground",
+  "text": [
+    {
+      "text": "Die Londoner U-Bahn war vier Tage lang im Streik.",
+      "translated_text": "The London Underground was on strike for four days."
+    },
+    {
+      "text": "Vom 21. bis 24. April 2026 legten die Fahrer der U-Bahn ihre Arbeit nieder.",
+      "translated_text": "From 21 to 24 April 2026, the Underground drivers stopped working."
+    },
+    {
+      "text": "Die Gewerkschaft RMT hatte zu dem Streik aufgerufen.",
+      "translated_text": "The trade union RMT had called for the strike."
+    },
+    {
+      "text": "Der Grund war ein Streit über neue Arbeitszeiten.",
+      "translated_text": "The reason was a dispute over new working hours."
+    },
+    {
+      "text": "Die Arbeitgeber wollten eine komprimierte Vier-Tage-Woche für die Fahrer einführen.",
+      "translated_text": "The employers wanted to introduce a compressed four-day working week for the drivers."
+    },
+    {
+      "text": "Die Gewerkschaft lehnte diese Änderung ab.",
+      "translated_text": "The trade union rejected this change."
+    },
+    {
+      "text": "Der Streik verlief in zwei Phasen.",
+      "translated_text": "The strike took place in two phases."
+    },
+    {
+      "text": "Die erste Phase dauerte vom Dienstag, 21. April, bis Mittwoch, 22. April.",
+      "translated_text": "The first phase lasted from Tuesday, 21 April, to Wednesday, 22 April."
+    },
+    {
+      "text": "Die zweite Phase begann am Donnerstag, 23. April, und endete am Freitag, 24. April.",
+      "translated_text": "The second phase began on Thursday, 23 April, and ended on Friday, 24 April."
+    },
+    {
+      "text": "Während des Streiks fuhren keine Züge auf der Piccadilly Line und der Circle Line.",
+      "translated_text": "During the strike, no trains ran on the Piccadilly Line and the Circle Line."
+    },
+    {
+      "text": "Diese Linien sind für viele Pendler in London sehr wichtig.",
+      "translated_text": "These lines are very important for many commuters in London."
+    },
+    {
+      "text": "Besonders der Zugang zum Flughafen Heathrow war stark betroffen.",
+      "translated_text": "Access to Heathrow Airport in particular was severely affected."
+    },
+    {
+      "text": "Der Flughafen ist über die Piccadilly Line direkt mit der Innenstadt verbunden.",
+      "translated_text": "The airport is directly connected to the city centre via the Piccadilly Line."
+    },
+    {
+      "text": "Millionen von Londonern mussten alternative Wege finden.",
+      "translated_text": "Millions of Londoners had to find alternative routes."
+    },
+    {
+      "text": "Die Elizabeth Line, die DLR und die London Overground fuhren weiterhin normal.",
+      "translated_text": "The Elizabeth Line, the DLR and the London Overground continued to run normally."
+    },
+    {
+      "text": "Auch die meisten Busse fuhren planmäßig.",
+      "translated_text": "Most buses also ran on schedule."
+    },
+    {
+      "text": "Viele Menschen nutzten das Fahrrad oder gingen zu Fuß.",
+      "translated_text": "Many people used their bicycles or walked."
+    },
+    {
+      "text": "Transport for London riet den Reisenden, ihre Fahrten gut zu planen.",
+      "translated_text": "Transport for London advised travellers to plan their journeys carefully."
+    },
+    {
+      "text": "Wer konnte, sollte von zu Hause aus arbeiten.",
+      "translated_text": "Those who could should work from home."
+    },
+    {
+      "text": "Politiker und Gewerkschafter wurden zu schnellen Gesprächen aufgefordert, um den Streit zu lösen.",
+      "translated_text": "Politicians and union representatives were called on to hold swift talks to resolve the dispute."
+    },
+    {
+      "text": "Ob weitere Streiks folgen werden, war zunächst noch unklar.",
+      "translated_text": "Whether further strikes would follow was initially still unclear."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Streik",
+      "translated_term": "the strike",
+      "example_usage": "Die Londoner U-Bahn war vier Tage lang im Streik."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the trade union",
+      "example_usage": "Die Gewerkschaft RMT hatte zu dem Streik aufgerufen."
+    },
+    {
+      "term": "nieder|legen",
+      "translated_term": "to lay down, to go on strike",
+      "example_usage": "Vom 21. bis 24. April legten die Fahrer der U-Bahn ihre Arbeit nieder."
+    },
+    {
+      "term": "der Pendler",
+      "translated_term": "the commuter",
+      "example_usage": "Diese Linien sind für viele Pendler in London sehr wichtig."
+    },
+    {
+      "term": "die Vier-Tage-Woche",
+      "translated_term": "the four-day working week",
+      "example_usage": "Die Arbeitgeber wollten eine komprimierte Vier-Tage-Woche für die Fahrer einführen."
+    },
+    {
+      "term": "der Flughafen",
+      "translated_term": "the airport",
+      "example_usage": "Der Flughafen ist über die Piccadilly Line direkt mit der Innenstadt verbunden."
+    },
+    {
+      "term": "ablehnen",
+      "translated_term": "to reject",
+      "example_usage": "Die Gewerkschaft lehnte diese Änderung ab."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Timeout London: April 2026 Tube Strikes – How to get around London during RMT industrial action",
+      "link_url": "https://www.timeout.com/london/news/april-2026-tube-strikes-how-to-get-around-london-during-rmt-industrial-action-today-042026"
+    },
+    {
+      "name": "VisaHQ: Tube Drivers' Strike Shuts Key London Underground Lines, Disrupting Heathrow Access",
+      "link_url": "https://www.visahq.com/news/2026-04-21/gb/tube-drivers-strike-shuts-key-london-underground-lines-disrupting-heathrow-access/"
+    },
+    {
+      "name": "Imperial College Healthcare NHS Trust: Tube drivers' strike 21–24 April",
+      "link_url": "https://www.imperial.nhs.uk/about-us/news/tube-strike-april-2026"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "title": "Großbritannien leidet unter steigenden Energiepreisen",
+  "translated_title": "Great Britain Suffers from Rising Energy Prices",
+  "text": [
+    {
+      "text": "Die Blockade der Straße von Hormuz trifft Großbritannien besonders hart.",
+      "translated_text": "The blockade of the Strait of Hormuz is hitting Great Britain particularly hard."
+    },
+    {
+      "text": "Durch die Meerenge fließt normalerweise viel Öl und Gas aus dem Nahen Osten nach Europa.",
+      "translated_text": "A large amount of oil and gas from the Middle East normally flows through the strait to Europe."
+    },
+    {
+      "text": "Kuwait liefert einen großen Teil des Öls, das Großbritannien importiert.",
+      "translated_text": "Kuwait supplies a large proportion of the oil that Great Britain imports."
+    },
+    {
+      "text": "Deshalb ist das Land besonders anfällig für diese Energiekrise.",
+      "translated_text": "This is why the country is particularly vulnerable to this energy crisis."
+    },
+    {
+      "text": "Seit Beginn der Krise sind die Benzinpreise in Großbritannien stark gestiegen.",
+      "translated_text": "Since the crisis began, petrol prices in Great Britain have risen sharply."
+    },
+    {
+      "text": "Der britische Automobilclub RAC berichtet von einem Rekordanstieg der Benzin- und Dieselpreise im März.",
+      "translated_text": "The British motoring association RAC reports a record rise in petrol and diesel prices in March."
+    },
+    {
+      "text": "Die Inflation in Großbritannien könnte in diesem Jahr auf fünf Prozent steigen.",
+      "translated_text": "Inflation in Great Britain could rise to five percent this year."
+    },
+    {
+      "text": "Das wäre der höchste Wert unter den entwickelten Ländern.",
+      "translated_text": "That would be the highest figure among developed countries."
+    },
+    {
+      "text": "Auch die Hypothekenzinsen sind gestiegen, was viele Menschen beim Hauskauf betrifft.",
+      "translated_text": "Mortgage interest rates have also risen, affecting many people when buying a home."
+    },
+    {
+      "text": "Die OECD empfiehlt der britischen Regierung, das Steuersystem zu reformieren, um das Wachstum zu fördern.",
+      "translated_text": "The OECD recommends that the British government reform the tax system to boost growth."
+    },
+    {
+      "text": "Wirtschaftsexperten erwarten, dass die britische Wirtschaft 2026 nur um 0,4 bis 0,7 Prozent wächst.",
+      "translated_text": "Economic experts expect the British economy to grow by only 0.4 to 0.7 percent in 2026."
+    },
+    {
+      "text": "Im Mai 2026 finden in England Kommunalwahlen statt.",
+      "translated_text": "Local elections are taking place in England in May 2026."
+    },
+    {
+      "text": "Die wirtschaftliche Lage könnte das Ergebnis dieser Wahlen stark beeinflussen.",
+      "translated_text": "The economic situation could strongly influence the outcome of these elections."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "anfällig",
+      "translated_term": "vulnerable / susceptible",
+      "example_usage": "Großbritannien ist besonders anfällig für diese Energiekrise."
+    },
+    {
+      "term": "die Inflation",
+      "translated_term": "inflation",
+      "example_usage": "Die Inflation in Großbritannien könnte in diesem Jahr auf fünf Prozent steigen."
+    },
+    {
+      "term": "der Hypothekenzins",
+      "translated_term": "the mortgage interest rate",
+      "example_usage": "Auch die Hypothekenzinsen sind gestiegen, was viele Menschen beim Hauskauf betrifft."
+    },
+    {
+      "term": "empfehlen",
+      "translated_term": "to recommend",
+      "example_usage": "Die OECD empfiehlt der britischen Regierung, das Steuersystem zu reformieren."
+    },
+    {
+      "term": "das Wachstum",
+      "translated_term": "the growth",
+      "example_usage": "Wirtschaftsexperten erwarten, dass die britische Wirtschaft 2026 nur um 0,4 bis 0,7 Prozent wächst."
+    },
+    {
+      "term": "die Kommunalwahl",
+      "translated_term": "the local election",
+      "example_usage": "Im Mai 2026 finden in England Kommunalwahlen statt."
+    },
+    {
+      "term": "beeinflussen",
+      "translated_term": "to influence",
+      "example_usage": "Die wirtschaftliche Lage könnte das Ergebnis dieser Wahlen stark beeinflussen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Energiekrise",
+      "translated_name": "Energy Crisis"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Britische Politik",
+      "translated_name": "British Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "House of Commons Library: Economic update – Middle East conflict and the UK economy",
+      "link_url": "https://commonslibrary.parliament.uk/research-briefings/cbp-10601/"
+    },
+    {
+      "name": "UK Finance: Monthly Economic Review – April 2026",
+      "link_url": "https://www.ukfinance.org.uk/data-and-research/economic-insight/monthly-economic-review-april-2026"
+    },
+    {
+      "name": "Wikipedia: Economic impact of the 2026 Iran war",
+      "link_url": "https://en.wikipedia.org/wiki/Economic_impact_of_the_2026_Iran_war"
+    }
+  ]
+}

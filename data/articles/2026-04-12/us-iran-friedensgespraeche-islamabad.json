@@ -1,0 +1,131 @@
+{
+  "title": "US-Iran-Friedensgespräche in Islamabad enden ohne Einigung",
+  "translated_title": "US-Iran Peace Talks in Islamabad End Without Agreement",
+  "text": [
+    {
+      "text": "In der pakistanischen Hauptstadt Islamabad haben historische Gespräche zwischen den USA und dem Iran stattgefunden.",
+      "translated_text": "Historic talks between the USA and Iran took place in the Pakistani capital Islamabad."
+    },
+    {
+      "text": "Es waren die ersten direkten Verhandlungen zwischen beiden Ländern seit der Gründung der Islamischen Republik Iran im Jahr 1979.",
+      "translated_text": "These were the first direct negotiations between the two countries since the founding of the Islamic Republic of Iran in 1979."
+    },
+    {
+      "text": "Die amerikanische Delegation wurde von Vizepräsident JD Vance geleitet.",
+      "translated_text": "The American delegation was led by Vice President JD Vance."
+    },
+    {
+      "text": "Auch Sondergesandter Steve Witkoff und Jared Kushner, der Schwiegersohn von Präsident Trump, nahmen teil.",
+      "translated_text": "Special envoy Steve Witkoff and Jared Kushner, President Trump's son-in-law, also took part."
+    },
+    {
+      "text": "Die iranische Delegation bestand aus rund 70 Personen und wurde vom Parlamentspräsidenten Mohammad Bagher Ghalibaf angeführt.",
+      "translated_text": "The Iranian delegation consisted of around 70 people and was led by the Speaker of Parliament, Mohammad Bagher Ghalibaf."
+    },
+    {
+      "text": "Pakistan diente als Vermittler zwischen den beiden Seiten.",
+      "translated_text": "Pakistan served as mediator between the two sides."
+    },
+    {
+      "text": "Die Gespräche dauerten insgesamt 21 Stunden.",
+      "translated_text": "The talks lasted a total of 21 hours."
+    },
+    {
+      "text": "Am Ende verließ Vance Islamabad ohne eine Einigung.",
+      "translated_text": "In the end, Vance left Islamabad without an agreement."
+    },
+    {
+      "text": "Er sagte, er habe ein \u201eletztes und bestes Angebot\u201c gemacht.",
+      "translated_text": "He said he had made a \u2018final and best offer\u2019."
+    },
+    {
+      "text": "Die USA verlangten unter anderem, dass der Iran keine Atomwaffen entwickelt.",
+      "translated_text": "The USA demanded, among other things, that Iran does not develop nuclear weapons."
+    },
+    {
+      "text": "Das iranische Außenministerium sagte, beide Seiten hätten sich in einigen Punkten angenähert.",
+      "translated_text": "The Iranian Foreign Ministry said both sides had moved closer on some points."
+    },
+    {
+      "text": "Es sei jedoch normal, dass bei einem einzigen Gespräch keine vollständige Einigung erzielt werde.",
+      "translated_text": "However, it was normal that a complete agreement could not be reached in a single meeting."
+    },
+    {
+      "text": "Der Iran-Krieg hatte begonnen, als Israel und die USA vor etwa sechs Wochen militärische Angriffe auf den Iran starteten.",
+      "translated_text": "The Iran war had begun when Israel and the USA launched military strikes on Iran about six weeks ago."
+    },
+    {
+      "text": "Die Gespräche in Islamabad sind ein wichtiger Schritt, auch wenn bisher kein Waffenstillstand vereinbart wurde.",
+      "translated_text": "The talks in Islamabad are an important step, even though no ceasefire has been agreed so far."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Friedensgespräche (Pl.)",
+      "translated_term": "the peace talks",
+      "example_usage": "In der pakistanischen Hauptstadt Islamabad haben historische Friedensgespräche zwischen den USA und dem Iran stattgefunden."
+    },
+    {
+      "term": "die Einigung",
+      "translated_term": "the agreement",
+      "example_usage": "Am Ende verließ Vance Islamabad ohne eine Einigung."
+    },
+    {
+      "term": "die Delegation",
+      "translated_term": "the delegation",
+      "example_usage": "Die amerikanische Delegation wurde von Vizepräsident JD Vance geleitet."
+    },
+    {
+      "term": "der Vermittler",
+      "translated_term": "the mediator",
+      "example_usage": "Pakistan diente als Vermittler zwischen den beiden Seiten."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Die Gespräche in Islamabad sind ein wichtiger Schritt, auch wenn bisher kein Waffenstillstand vereinbart wurde."
+    },
+    {
+      "term": "verlangen",
+      "translated_term": "to demand",
+      "example_usage": "Die USA verlangten unter anderem, dass der Iran keine Atomwaffen entwickelt."
+    },
+    {
+      "term": "sich annähern",
+      "translated_term": "to move closer / to approach",
+      "example_usage": "Das iranische Außenministerium sagte, beide Seiten hätten sich in einigen Punkten angenähert."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: JD Vance leaves Islamabad after talks with Iran end without a deal",
+      "link_url": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad"
+    },
+    {
+      "name": "NPR: U.S.-Iran peace talks underway in Islamabad after weeks of frantic diplomacy",
+      "link_url": "https://www.npr.org/2026/04/11/nx-s1-5781760/pakistan-peace-talks-us-iran"
+    },
+    {
+      "name": "CNN: World anxiously waits to see if US-Iran peace talks can deliver",
+      "link_url": "https://www.cnn.com/2026/04/10/middleeast/us-iran-war-talks-pakistan-what-we-know-intl-hnk"
+    }
+  ]
+}

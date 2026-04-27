@@ -1,0 +1,130 @@
+{
+  "title": "Ryanair schließt Berliner Basis am BER wegen steigender Flughafengebühren",
+  "translated_title": "Ryanair Closes Berlin Base at BER Due to Rising Airport Charges",
+  "text": [
+    {
+      "text": "Ryanair ist eine irische Billigfluggesellschaft und eine der größten Airlines in Europa.",
+      "translated_text": "Ryanair is an Irish low-cost airline and one of the largest airlines in Europe."
+    },
+    {
+      "text": "Im April 2026 gab das Unternehmen bekannt, seine Berliner Basis am Flughafen BER zu schließen.",
+      "translated_text": "In April 2026, the company announced it would close its Berlin base at BER airport."
+    },
+    {
+      "text": "Die Schließung soll am 24. Oktober 2026 stattfinden.",
+      "translated_text": "The closure is scheduled to take place on 24 October 2026."
+    },
+    {
+      "text": "Als Hauptgrund nannte Ryanair die stark gestiegenen Flughafengebühren am BER.",
+      "translated_text": "Ryanair cited the sharply risen airport charges at BER as the main reason."
+    },
+    {
+      "text": "Die Gebühren am Berliner Flughafen sind seit 2019 um etwa 50 Prozent gestiegen.",
+      "translated_text": "Charges at Berlin airport have risen by around 50 percent since 2019."
+    },
+    {
+      "text": "Für die Jahre 2027 bis 2029 sind weitere Erhöhungen geplant.",
+      "translated_text": "Further increases are planned for the years 2027 to 2029."
+    },
+    {
+      "text": "Ryanair betreibt am BER eine Basis mit sieben Flugzeugen.",
+      "translated_text": "Ryanair operates a base at BER with seven aircraft."
+    },
+    {
+      "text": "Diese Flugzeuge werden nach der Schließung an andere europäische Standorte verlegt.",
+      "translated_text": "These aircraft will be relocated to other European locations after the closure."
+    },
+    {
+      "text": "Besonders profitieren davon Länder wie Schweden, Italien, Albanien und die Slowakei.",
+      "translated_text": "Countries such as Sweden, Italy, Albania and Slovakia will particularly benefit from this."
+    },
+    {
+      "text": "Diese Länder haben ihre Flughafengebühren gesenkt oder stabil gehalten.",
+      "translated_text": "These countries have reduced or kept their airport charges stable."
+    },
+    {
+      "text": "Durch die Schließung werden die Ryanair-Flüge ab Berlin um 50 Prozent reduziert.",
+      "translated_text": "The closure will reduce Ryanair's flights from Berlin by 50 percent."
+    },
+    {
+      "text": "Die Zahl der Passagiere soll von 4,5 Millionen im Jahr 2026 auf 2,2 Millionen im Jahr 2027 sinken.",
+      "translated_text": "The number of passengers is expected to fall from 4.5 million in 2026 to 2.2 million in 2027."
+    },
+    {
+      "text": "Die betroffenen Piloten und Kabinenbesatzungen werden über freie Stellen an anderen Ryanair-Standorten informiert.",
+      "translated_text": "The affected pilots and cabin crews will be informed about vacancies at other Ryanair locations."
+    },
+    {
+      "text": "Kritiker sagen, dass die hohen Gebühren am BER Berlin als Reiseziel weniger attraktiv machen.",
+      "translated_text": "Critics say that the high charges at BER make Berlin less attractive as a travel destination."
+    },
+    {
+      "text": "Der Berliner Senat und der Flughafenbetreiber haben sich bisher nicht zu einer möglichen Senkung der Gebühren geäußert.",
+      "translated_text": "The Berlin Senate and the airport operator have so far not commented on a possible reduction in charges."
+    },
+    {
+      "text": "Ryanair hofft, dass die Verantwortlichen ihre Gebührenpolitik noch überdenken werden.",
+      "translated_text": "Ryanair hopes that those responsible will reconsider their pricing policy."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Billigfluggesellschaft",
+      "translated_term": "the low-cost airline",
+      "example_usage": "Ryanair ist eine irische Billigfluggesellschaft und eine der größten Airlines in Europa."
+    },
+    {
+      "term": "die Flughafengebühr",
+      "translated_term": "the airport charge / fee",
+      "example_usage": "Als Hauptgrund nannte Ryanair die stark gestiegenen Flughafengebühren am BER."
+    },
+    {
+      "term": "verlagern",
+      "translated_term": "to relocate / to move",
+      "example_usage": "Diese Flugzeuge werden nach der Schließung an andere europäische Standorte verlegt."
+    },
+    {
+      "term": "die Schließung",
+      "translated_term": "the closure",
+      "example_usage": "Die Schließung soll am 24. Oktober 2026 stattfinden."
+    },
+    {
+      "term": "der Standort",
+      "translated_term": "the location / site",
+      "example_usage": "Besonders profitieren davon Länder mit günstigeren Standorten für Ryanair."
+    },
+    {
+      "term": "überdenken",
+      "translated_term": "to reconsider / to rethink",
+      "example_usage": "Ryanair hofft, dass die Verantwortlichen ihre Gebührenpolitik noch überdenken werden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Irish Times: Ryanair to close its Berlin operating base",
+      "link_url": "https://www.irishtimes.com/business/2026/04/24/ryanair-to-close-its-berlin-operating-base/"
+    },
+    {
+      "name": "AeroTime: Ryanair closes Berlin base, blames high costs",
+      "link_url": "https://www.aerotime.aero/articles/ryanair-closes-berlin-base-blames-high-costs-and-charge-increases"
+    },
+    {
+      "name": "Aviation Week: Ryanair Exits Berlin Base, Blames Rising Costs",
+      "link_url": "https://aviationweek.com/air-transport/airports-networks/ryanair-exits-berlin-base-blames-rising-costs"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Deutsches Gesetz: Männer brauchen Erlaubnis für lange Auslandsreisen",
+  "translated_title": "German Law: Men Need Permission for Long Trips Abroad",
+  "text": [
+    {
+      "text": "In Deutschland gibt es seit dem 1. Januar 2026 ein neues Gesetz zur Wehrpflicht.",
+      "translated_text": "In Germany there has been a new law on military service since 1 January 2026."
+    },
+    {
+      "text": "Es heißt das Wehrdienstmodernisierungsgesetz.",
+      "translated_text": "It is called the Military Service Modernisation Act."
+    },
+    {
+      "text": "Nach diesem Gesetz müssen Männer zwischen 17 und 45 Jahren die Bundeswehr fragen, wenn sie länger als drei Monate ins Ausland reisen wollen.",
+      "translated_text": "Under this law, men between the ages of 17 and 45 must ask the Bundeswehr if they want to travel abroad for more than three months."
+    },
+    {
+      "text": "Das gilt zum Beispiel für Studienaufenthalte, Arbeit oder längere Reisen.",
+      "translated_text": "This applies, for example, to study stays, work, or longer trips."
+    },
+    {
+      "text": "Früher war eine solche Erlaubnis nur in Kriegszeiten oder bei direkter Bedrohung nötig.",
+      "translated_text": "Previously, such permission was only necessary in times of war or in the event of a direct threat."
+    },
+    {
+      "text": "Das neue Gesetz gilt auch in Friedenszeiten.",
+      "translated_text": "The new law also applies in peacetime."
+    },
+    {
+      "text": "Im April 2026 wurde das Gesetz in den deutschen Medien bekannt.",
+      "translated_text": "In April 2026, the law became known in the German media."
+    },
+    {
+      "text": "Seitdem gibt es viele öffentliche Diskussionen.",
+      "translated_text": "Since then there have been many public discussions."
+    },
+    {
+      "text": "Viele Menschen sind dagegen und sehen darin einen großen Eingriff in die Freiheit.",
+      "translated_text": "Many people are against it and see it as a major infringement of freedom."
+    },
+    {
+      "text": "Es gab auch Schulstreiks und Friedensdemonstrationen zu Ostern.",
+      "translated_text": "There were also school strikes and peace demonstrations at Easter."
+    },
+    {
+      "text": "Der Verteidigungsminister beruhigte die Bevölkerung aber.",
+      "translated_text": "However, the Defence Minister reassured the population."
+    },
+    {
+      "text": "Solange der Militärdienst freiwillig ist, gilt die Erlaubnis automatisch als erteilt.",
+      "translated_text": "As long as military service is voluntary, the permission is automatically deemed to have been granted."
+    },
+    {
+      "text": "In der Praxis müssen die meisten Männer also noch nichts beantragen.",
+      "translated_text": "In practice, most men therefore do not yet need to apply for anything."
+    },
+    {
+      "text": "Das neue Gesetz kommt in einer Zeit, in der Deutschland seine Verteidigung stärken will.",
+      "translated_text": "The new law comes at a time when Germany wants to strengthen its defence."
+    },
+    {
+      "text": "Der Ukraine-Krieg und andere Konflikte haben die Sicherheitspolitik in Europa verändert.",
+      "translated_text": "The Ukraine war and other conflicts have changed security policy in Europe."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Wehrpflicht",
+      "translated_term": "the military service / conscription",
+      "example_usage": "In Deutschland gibt es seit 2026 ein neues Gesetz zur Wehrpflicht."
+    },
+    {
+      "term": "die Erlaubnis",
+      "translated_term": "the permission",
+      "example_usage": "Männer müssen die Bundeswehr fragen, wenn sie ins Ausland reisen wollen."
+    },
+    {
+      "term": "der Eingriff",
+      "translated_term": "the infringement / interference",
+      "example_usage": "Viele sehen darin einen großen Eingriff in die Freiheit."
+    },
+    {
+      "term": "beantragen",
+      "translated_term": "to apply for",
+      "example_usage": "Die meisten Männer müssen noch nichts beantragen."
+    },
+    {
+      "term": "erteilen",
+      "translated_term": "to grant",
+      "example_usage": "Solange der Militärdienst freiwillig ist, gilt die Erlaubnis automatisch als erteilt."
+    },
+    {
+      "term": "die Bundeswehr",
+      "translated_term": "the German Armed Forces",
+      "example_usage": "Männer müssen die Bundeswehr fragen, wenn sie länger als drei Monate ins Ausland reisen wollen."
+    },
+    {
+      "term": "beruhigen",
+      "translated_term": "to reassure / to calm",
+      "example_usage": "Der Verteidigungsminister beruhigte die Bevölkerung."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Bundeswehr",
+      "translated_name": "Federal Armed Forces"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews: New German conscription law – eligible men may now need approval for trips abroad",
+      "link_url": "https://www.euronews.com/2026/04/04/conscription-law-men-now-need-approval-for-trips-abroad"
+    },
+    {
+      "name": "The Local: How Germany's new military service rules affect travel for foreign nationals",
+      "link_url": "https://www.thelocal.de/20260407/how-germanys-new-military-service-rules-affect-travel-for-foreign-nationals"
+    },
+    {
+      "name": "Kyiv Post: Germany Requires Military Permission for Men Traveling Abroad",
+      "link_url": "https://www.kyivpost.com/post/73218"
+    }
+  ]
+}

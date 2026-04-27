@@ -1,0 +1,122 @@
+{
+  "title": "Rheinmetall meldet Rekordzahlen: Deutschlands Rüstungsindustrie boomt",
+  "translated_title": "Rheinmetall Reports Record Figures: Germany's Arms Industry is Booming",
+  "text": [
+    {
+      "text": "Der deutsche Rüstungskonzern Rheinmetall hat für das Jahr 2025 Rekordergebnisse gemeldet.",
+      "translated_text": "The German arms group Rheinmetall has reported record results for the year 2025."
+    },
+    {
+      "text": "Der Umsatz stieg um 29 Prozent auf knapp 10 Milliarden Euro.",
+      "translated_text": "Revenue rose by 29 percent to nearly 10 billion euros."
+    },
+    {
+      "text": "Der Auftragsbestand des Unternehmens erreichte einen Rekordwert von 63,8 Milliarden Euro.",
+      "translated_text": "The company's order backlog reached a record value of 63.8 billion euros."
+    },
+    {
+      "text": "Für 2026 erwartet Rheinmetall einen Umsatz von bis zu 14,5 Milliarden Euro.",
+      "translated_text": "Rheinmetall expects revenue of up to 14.5 billion euros for 2026."
+    },
+    {
+      "text": "Der Auftragsbestand soll sich auf 135 Milliarden Euro mehr als verdoppeln.",
+      "translated_text": "The order backlog is expected to more than double to 135 billion euros."
+    },
+    {
+      "text": "Hintergrund ist die enorme Steigerung des deutschen Verteidigungsbudgets.",
+      "translated_text": "The background to this is the enormous increase in Germany's defence budget."
+    },
+    {
+      "text": "Deutschland hat für 2026 ein Verteidigungsbudget von 108 Milliarden Euro beschlossen.",
+      "translated_text": "Germany has approved a defence budget of 108 billion euros for 2026."
+    },
+    {
+      "text": "Die Regierung hat die Schuldenbremse für Verteidigungsausgaben ausgesetzt.",
+      "translated_text": "The government has suspended the debt brake for defence spending."
+    },
+    {
+      "text": "Geplant ist, in den nächsten fünf Jahren bis zu 400 Milliarden Euro für die Aufrüstung zu leihen.",
+      "translated_text": "The plan is to borrow up to 400 billion euros over the next five years for rearmament."
+    },
+    {
+      "text": "Zu den großen Bestellungen gehören bis zu 3.000 Boxer-Infanteriefahrzeuge im Wert von 40 Milliarden Euro.",
+      "translated_text": "The major orders include up to 3,000 Boxer infantry fighting vehicles worth 40 billion euros."
+    },
+    {
+      "text": "Bundeskanzler Merz betonte die Bedeutung einer starken europäischen Verteidigung.",
+      "translated_text": "Chancellor Merz stressed the importance of strong European defence."
+    },
+    {
+      "text": "Er kritisierte dabei Frankreichs Präsident Macron und sagte, dessen Pläne klängen oft größer als sie tatsächlich seien.",
+      "translated_text": "In doing so, he criticised French President Macron, saying his plans often sounded bigger than they actually were."
+    },
+    {
+      "text": "Deutschland bleibt trotz des Rüstungsbooms außerhalb des direkten Konflikts mit dem Iran.",
+      "translated_text": "Despite the armaments boom, Germany remains outside the direct conflict with Iran."
+    },
+    {
+      "text": "Merz bekräftigte: 'Es ist nicht unser Krieg.'",
+      "translated_text": "Merz confirmed: \"It is not our war.\""
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Rüstungskonzern",
+      "translated_term": "the arms group / defence company",
+      "example_usage": "Der deutsche Rüstungskonzern Rheinmetall hat für das Jahr 2025 Rekordergebnisse gemeldet."
+    },
+    {
+      "term": "der Auftragsbestand",
+      "translated_term": "the order backlog",
+      "example_usage": "Der Auftragsbestand des Unternehmens erreichte einen Rekordwert von 63,8 Milliarden Euro."
+    },
+    {
+      "term": "die Schuldenbremse",
+      "translated_term": "the debt brake",
+      "example_usage": "Die Regierung hat die Schuldenbremse für Verteidigungsausgaben ausgesetzt."
+    },
+    {
+      "term": "aussetzen",
+      "translated_term": "to suspend / to pause",
+      "example_usage": "Die Regierung hat die Schuldenbremse für Verteidigungsausgaben ausgesetzt."
+    },
+    {
+      "term": "die Aufrüstung",
+      "translated_term": "rearmament / arms build-up",
+      "example_usage": "Geplant ist, in den nächsten fünf Jahren bis zu 400 Milliarden Euro für die Aufrüstung zu leihen."
+    },
+    {
+      "term": "bekräftigen",
+      "translated_term": "to confirm / to reaffirm",
+      "example_usage": "Merz bekräftigte: 'Es ist nicht unser Krieg.'"
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Rüstungsindustrie",
+      "translated_name": "Arms Industry"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC: Rheinmetall sees sales growth of up to 45% in 2026",
+      "link_url": "https://www.cnbc.com/2026/03/11/rheinmetall-rhm-fy-earnings-stock-2025.html"
+    },
+    {
+      "name": "Breaking Defense: Rheinmetall predicts $16.8B annual order boom",
+      "link_url": "https://breakingdefense.com/2026/03/germanys-rheinmetall-predicts-16-8b-annual-order-boom-will-focus-entirely-on-defense/"
+    }
+  ]
+}
