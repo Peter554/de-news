@@ -1,0 +1,122 @@
+{
+  "title": "Neues Gesetz: Deutsche Männer brauchen Erlaubnis für längere Auslandsreisen",
+  "translated_title": "New Law: German Men Need Permission for Extended Trips Abroad",
+  "text": [
+    {
+      "text": "In Deutschland gilt seit dem 1. Januar 2026 ein neues Gesetz zur Wehrpflicht.",
+      "translated_text": "A new conscription law has been in force in Germany since 1 January 2026."
+    },
+    {
+      "text": "Das Gesetz wurde jedoch erst im April bekannt, nachdem eine Zeitung darüber berichtet hatte.",
+      "translated_text": "However, the law only became widely known in April after a newspaper reported on it."
+    },
+    {
+      "text": "Laut Paragraph 3 des geänderten Wehrpflichtgesetzes müssen alle Männer zwischen 17 und 45 Jahren eine schriftliche Genehmigung der Bundeswehr einholen.",
+      "translated_text": "According to Section 3 of the amended Conscription Act, all men between 17 and 45 years of age must obtain written approval from the Bundeswehr."
+    },
+    {
+      "text": "Diese Genehmigung ist notwendig, wenn ein Mann für mehr als drei Monate ins Ausland reisen möchte.",
+      "translated_text": "This approval is required if a man wishes to travel abroad for more than three months."
+    },
+    {
+      "text": "Das betrifft rund 20 Millionen Männer in Deutschland.",
+      "translated_text": "This affects around 20 million men in Germany."
+    },
+    {
+      "text": "Die Regel gilt für Auslandsstudium, längere Arbeitseinsätze und ausgedehnte Reisen gleichermaßen.",
+      "translated_text": "The rule applies equally to study abroad, longer work assignments, and extended travel."
+    },
+    {
+      "text": "Ein Sprecher des Verteidigungsministeriums sagte, Genehmigungen seien grundsätzlich zu erteilen, solange der Pflichtdienst ausgesetzt bleibt.",
+      "translated_text": "A spokesman for the Defence Ministry said approvals are in principle to be granted as long as compulsory service remains suspended."
+    },
+    {
+      "text": "Die genauen Regeln und Ausnahmekriterien wurden jedoch noch nicht veröffentlicht.",
+      "translated_text": "However, the precise rules and exemption criteria have not yet been published."
+    },
+    {
+      "text": "Das Gesetz ist Teil eines größeren Plans zur Modernisierung der deutschen Armee.",
+      "translated_text": "The law is part of a larger plan to modernise the German military."
+    },
+    {
+      "text": "Die Bundeswehr soll bis 2035 von 184.000 auf 270.000 Soldaten wachsen.",
+      "translated_text": "The Bundeswehr is to grow from 184,000 to 270,000 soldiers by 2035."
+    },
+    {
+      "text": "Das neue Gesetz hat in der Bevölkerung große Aufregung ausgelöst.",
+      "translated_text": "The new law has caused a great deal of controversy among the population."
+    },
+    {
+      "text": "Viele Menschen erfuhren zum ersten Mal davon, weil Freunde oder Familienmitglieder betroffen sind.",
+      "translated_text": "Many people found out about it for the first time because friends or family members are affected."
+    },
+    {
+      "text": "Kritiker sagen, das Gesetz schränkt die Freiheit der Menschen unnötig ein.",
+      "translated_text": "Critics say the law unnecessarily restricts people's freedom."
+    },
+    {
+      "text": "Die Regierung argumentiert, dass die Maßnahme notwendig ist, um die Verteidigungsfähigkeit Deutschlands zu stärken.",
+      "translated_text": "The government argues that the measure is necessary to strengthen Germany's defence capability."
+    },
+    {
+      "text": "Die Debatte über Wehrpflicht und Sicherheit in Deutschland ist damit neu entfacht.",
+      "translated_text": "The debate about military service and security in Germany has thus been reignited."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Wehrpflicht",
+      "translated_term": "the military conscription / compulsory military service",
+      "example_usage": "In Deutschland gilt seit dem 1. Januar 2026 ein neues Gesetz zur Wehrpflicht."
+    },
+    {
+      "term": "die Genehmigung",
+      "translated_term": "the permission / approval",
+      "example_usage": "Männer müssen eine schriftliche Genehmigung der Bundeswehr einholen."
+    },
+    {
+      "term": "einholen",
+      "translated_term": "to obtain / to seek",
+      "example_usage": "Alle Männer zwischen 17 und 45 müssen eine Genehmigung einholen."
+    },
+    {
+      "term": "aussetzen",
+      "translated_term": "to suspend / to pause",
+      "example_usage": "Genehmigungen werden erteilt, solange der Pflichtdienst ausgesetzt bleibt."
+    },
+    {
+      "term": "einschränken",
+      "translated_term": "to restrict / to limit",
+      "example_usage": "Kritiker sagen, das Gesetz schränkt die Freiheit der Menschen unnötig ein."
+    },
+    {
+      "term": "die Verteidigungsfähigkeit",
+      "translated_term": "the defence capability",
+      "example_usage": "Die Maßnahme ist notwendig, um die Verteidigungsfähigkeit Deutschlands zu stärken."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Bundeswehr",
+      "translated_name": "Federal Armed Forces"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews: Conscription law – men now need approval for trips abroad",
+      "link_url": "https://www.euronews.com/2026/04/04/conscription-law-men-now-need-approval-for-trips-abroad"
+    },
+    {
+      "name": "TFI Global News: Germany's new conscription law – German men 17-45 must get military approval to leave country for over 3 months",
+      "link_url": "https://tfiglobalnews.com/2026/04/04/germanys-new-conscription-law-german-men-17-45-must-get-military-approval-to-leave-country-for-over-3-months/"
+    }
+  ]
+}
