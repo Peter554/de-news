@@ -1,0 +1,126 @@
+{
+  "title": "Trump hält Rede zur Lage der Nation – neue Zölle treten in Kraft",
+  "translated_title": "Trump Delivers State of the Union Address – New Tariffs Come into Force",
+  "text": [
+    {
+      "text": "US-Präsident Donald Trump hat am 24. Februar vor dem US-Kongress seine jährliche Rede zur Lage der Nation gehalten.",
+      "translated_text": "US President Donald Trump delivered his annual State of the Union address before the US Congress on 24 February."
+    },
+    {
+      "text": "Es war seine erste Rede dieser Art in seiner zweiten Amtszeit.",
+      "translated_text": "It was his first speech of this kind in his second term of office."
+    },
+    {
+      "text": "In der Rede sprach Trump über die Wirtschaft, Massenabschiebungen und seine außenpolitischen Ziele.",
+      "translated_text": "In the speech, Trump spoke about the economy, mass deportations, and his foreign policy goals."
+    },
+    {
+      "text": "Gleichzeitig traten an diesem Tag neue globale Zölle von zehn Prozent auf alle Importe in die USA in Kraft.",
+      "translated_text": "At the same time, new global tariffs of ten per cent on all imports into the USA came into force on that day."
+    },
+    {
+      "text": "Diese Zölle hatte Trump nach einer Niederlage vor dem Obersten Gerichtshof eingeführt.",
+      "translated_text": "Trump had introduced these tariffs after a defeat at the Supreme Court."
+    },
+    {
+      "text": "Das Gericht hatte seine früheren Zölle für illegal erklärt, weil Trump dafür die falschen gesetzlichen Grundlagen genutzt hatte.",
+      "translated_text": "The court had declared his earlier tariffs illegal because Trump had used the wrong legal basis for them."
+    },
+    {
+      "text": "Diesmal stützte Trump seine Maßnahme auf den Trade Act von 1974.",
+      "translated_text": "This time, Trump based his measures on the Trade Act of 1974."
+    },
+    {
+      "text": "Die neuen Zölle gelten für maximal 150 Tage, wenn der Kongress nicht zustimmt.",
+      "translated_text": "The new tariffs apply for a maximum of 150 days if Congress does not agree."
+    },
+    {
+      "text": "Laut Umfragen sind viele Amerikaner mit Trumps Politik unzufrieden.",
+      "translated_text": "According to polls, many Americans are dissatisfied with Trump's policies."
+    },
+    {
+      "text": "60 Prozent der Befragten lehnen seine Politik ab.",
+      "translated_text": "60 per cent of those surveyed reject his policies."
+    },
+    {
+      "text": "Mehrere demokratische Abgeordnete boykottierten die Rede und nahmen stattdessen an einer Gegenveranstaltung teil.",
+      "translated_text": "Several Democratic MPs boycotted the speech and instead attended a counter-event."
+    },
+    {
+      "text": "Virginia-Gouverneurin Abigail Spanberger hielt die demokratische Antwort auf Trumps Rede.",
+      "translated_text": "Virginia Governor Abigail Spanberger delivered the Democratic response to Trump's speech."
+    },
+    {
+      "text": "Auch europäische Regierungen beobachteten die Rede genau, da die neuen Zölle auch europäische Exporteure betreffen.",
+      "translated_text": "European governments also watched the speech closely, as the new tariffs also affect European exporters."
+    },
+    {
+      "text": "Die Europäische Union prüft mögliche Gegenmaßnahmen gegen die US-Handelspolitik.",
+      "translated_text": "The European Union is examining possible countermeasures against US trade policy."
+    },
+    {
+      "text": "Der Kongress hat nun 150 Tage Zeit, um zu entscheiden, ob er die Zölle dauerhaft genehmigt.",
+      "translated_text": "Congress now has 150 days to decide whether to permanently approve the tariffs."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Rede zur Lage der Nation",
+      "translated_term": "the State of the Union address",
+      "example_usage": "Trump hat seine jährliche Rede zur Lage der Nation vor dem US-Kongress gehalten."
+    },
+    {
+      "term": "der Zoll",
+      "translated_term": "the tariff / customs duty",
+      "example_usage": "Neue globale Zölle von zehn Prozent auf alle Importe in die USA traten in Kraft."
+    },
+    {
+      "term": "in Kraft treten",
+      "translated_term": "to come into force / to take effect",
+      "example_usage": "Gleichzeitig traten neue globale Zölle von zehn Prozent in Kraft."
+    },
+    {
+      "term": "die gesetzliche Grundlage",
+      "translated_term": "the legal basis",
+      "example_usage": "Das Gericht erklärte die früheren Zölle für illegal, weil Trump die falschen gesetzlichen Grundlagen genutzt hatte."
+    },
+    {
+      "term": "die Gegenmaßnahme",
+      "translated_term": "the countermeasure",
+      "example_usage": "Die Europäische Union prüft mögliche Gegenmaßnahmen gegen die US-Handelspolitik."
+    },
+    {
+      "term": "boykottieren",
+      "translated_term": "to boycott",
+      "example_usage": "Mehrere demokratische Abgeordnete boykottierten die Rede."
+    }
+  ],
+  "tags": [
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Handelspolitik",
+      "translated_name": "Trade Policy"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "PBS News: Watch live: President Donald Trump's 2026 State of the Union address",
+      "link_url": "https://www.pbs.org/newshour/politics/watch-live-president-donald-trumps-2026-state-of-the-union-address"
+    },
+    {
+      "name": "C-SPAN: President Trump Delivers 2026 State of the Union Address",
+      "link_url": "https://www.c-span.org/event/joint-session-of-congress/president-trump-delivers-2026-state-of-the-union-address-democratic-response/440395"
+    },
+    {
+      "name": "ABC News: How to watch Trump's 2026 State of the Union address and what to know",
+      "link_url": "https://abcnews.com/Politics/watch-trumps-2026-state-union-address/story?id=130415405"
+    }
+  ]
+}
