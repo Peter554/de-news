@@ -1,0 +1,122 @@
+{
+  "title": "Sudan: Drohnenangriffe auf Märkte töten Dutzende Zivilisten",
+  "translated_title": "Sudan: Drone strikes on markets kill dozens of civilians",
+  "text": [
+    {
+      "text": "Im Sudan herrscht seit April 2023 ein blutiger Bürgerkrieg zwischen der Sudanesischen Armee und den paramilitärischen Rapid Support Forces (RSF).",
+      "translated_text": "In Sudan, a bloody civil war has been raging since April 2023 between the Sudanese Army and the paramilitary Rapid Support Forces (RSF)."
+    },
+    {
+      "text": "Im Februar 2026 eskalierte die Gewalt weiter mit tödlichen Drohnenangriffen.",
+      "translated_text": "In February 2026, the violence escalated further with deadly drone strikes."
+    },
+    {
+      "text": "Am 15. Februar traf eine Drohne den Al-Safiya-Markt in der Region Nordkordofan.",
+      "translated_text": "On February 15, a drone hit the Al-Safiya market in the North Kordofan region."
+    },
+    {
+      "text": "Dabei wurden mindestens 28 Menschen getötet und 13 weitere verletzt.",
+      "translated_text": "At least 28 people were killed and 13 others injured."
+    },
+    {
+      "text": "Der Markt war zu diesem Zeitpunkt sehr belebt – viele Frauen, Kinder und ältere Menschen befanden sich dort.",
+      "translated_text": "The market was very busy at that time – many women, children, and elderly people were there."
+    },
+    {
+      "text": "Innerhalb von zwei Tagen kamen bei verschiedenen Drohnenangriffen mehr als 57 Zivilisten ums Leben.",
+      "translated_text": "Within two days, more than 57 civilians were killed in various drone strikes."
+    },
+    {
+      "text": "Auch ein Vertriebenenlager und zwei Schulen wurden in dieser Zeit angegriffen.",
+      "translated_text": "A displaced persons camp and two schools were also attacked during this time."
+    },
+    {
+      "text": "UN-Menschenrechtschef Volker Türk verurteilte die Angriffe scharf.",
+      "translated_text": "UN Human Rights Chief Volker Türk strongly condemned the attacks."
+    },
+    {
+      "text": "Er forderte beide Seiten auf, sofort aufzuhören, Zivilisten anzugreifen.",
+      "translated_text": "He called on both sides to immediately stop attacking civilians."
+    },
+    {
+      "text": "Die Kordofan-Region ist eine der heftigsten Frontlinien des Krieges.",
+      "translated_text": "The Kordofan region is one of the fiercest front lines of the war."
+    },
+    {
+      "text": "Beide Seiten kämpfen dort um die Kontrolle über wichtige Handelsrouten und Rohstoffe.",
+      "translated_text": "Both sides are fighting there for control over important trade routes and raw materials."
+    },
+    {
+      "text": "Die humanitäre Lage in Sudan ist seit langem katastrophal.",
+      "translated_text": "The humanitarian situation in Sudan has long been catastrophic."
+    },
+    {
+      "text": "Millionen Menschen sind auf der Flucht und haben kaum Zugang zu Nahrung oder medizinischer Versorgung.",
+      "translated_text": "Millions of people are displaced and have barely any access to food or medical care."
+    },
+    {
+      "text": "Auch Hilfsorganisationen werden immer wieder angegriffen – Ende Januar traf eine Drohne einen Konvoi des Welternährungsprogramms.",
+      "translated_text": "Aid organisations are also repeatedly attacked – at the end of January, a drone struck a convoy of the World Food Programme."
+    },
+    {
+      "text": "Die internationale Gemeinschaft ist alarmiert, aber ein Ende des Krieges ist nicht in Sicht.",
+      "translated_text": "The international community is alarmed, but an end to the war is not in sight."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Drohnenangriff",
+      "translated_term": "the drone strike",
+      "example_usage": "Bei Drohnenangriffen auf Märkte kamen mehr als 57 Zivilisten ums Leben."
+    },
+    {
+      "term": "der Bürgerkrieg",
+      "translated_term": "the civil war",
+      "example_usage": "Im Sudan herrscht seit April 2023 ein blutiger Bürgerkrieg."
+    },
+    {
+      "term": "paramilitärisch",
+      "translated_term": "paramilitary",
+      "example_usage": "Die paramilitärischen Rapid Support Forces kämpfen gegen die Sudanesische Armee."
+    },
+    {
+      "term": "das Vertriebenenlager",
+      "translated_term": "the displaced persons camp",
+      "example_usage": "Auch ein Vertriebenenlager wurde in dieser Zeit angegriffen."
+    },
+    {
+      "term": "verurteilen",
+      "translated_term": "to condemn",
+      "example_usage": "UN-Menschenrechtschef Volker Türk verurteilte die Angriffe scharf."
+    },
+    {
+      "term": "die humanitäre Lage",
+      "translated_term": "the humanitarian situation",
+      "example_usage": "Die humanitäre Lage in Sudan ist seit langem katastrophal."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Afrika",
+      "translated_name": "Africa"
+    },
+    {
+      "name": "Humanitäre Krise",
+      "translated_name": "Humanitarian Crisis"
+    },
+    {
+      "name": "Bürgerkrieg",
+      "translated_name": "Civil War"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Drone attack on busy market in Sudan kills at least 28",
+      "link_url": "https://www.aljazeera.com/news/2026/2/16/drone-strike-on-busy-market-in-sudan-kills-at-least-28"
+    },
+    {
+      "name": "UN News: Sudan: Rights chief alarmed after at least 57 killed in drone attacks in two days",
+      "link_url": "https://news.un.org/en/story/2026/02/1166988"
+    }
+  ]
+}

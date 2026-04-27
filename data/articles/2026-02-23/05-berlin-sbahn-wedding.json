@@ -1,0 +1,122 @@
+{
+  "title": "S-Bahnhof Wedding nach Brand wieder in Betrieb",
+  "translated_title": "Wedding S-Bahn station back in service after fire",
+  "text": [
+    {
+      "text": "In der Silvesternacht 2025/2026 brach am S-Bahnhof Wedding in Berlin ein Brand aus.",
+      "translated_text": "On New Year's Eve 2025/2026, a fire broke out at Wedding S-Bahn station in Berlin."
+    },
+    {
+      "text": "Der Brand beschädigte das Bahnhofsdach, die Beleuchtung und viele technische Anlagen.",
+      "translated_text": "The fire damaged the station roof, the lighting, and many technical installations."
+    },
+    {
+      "text": "Die S-Bahn Berlin vermutet, dass der Brand absichtlich gelegt wurde.",
+      "translated_text": "S-Bahn Berlin suspects that the fire was set deliberately."
+    },
+    {
+      "text": "Der Schaden beträgt ungefähr 300.000 Euro.",
+      "translated_text": "The damage amounts to approximately 300,000 euros."
+    },
+    {
+      "text": "Wegen des Brandes hielten die Züge der Ringbahn mehrere Wochen lang nicht mehr am Bahnhof Wedding.",
+      "translated_text": "Due to the fire, Ringbahn trains no longer stopped at Wedding station for several weeks."
+    },
+    {
+      "text": "Das war für viele Fahrgäste sehr unangenehm, weil sie weite Wege gehen oder andere Linien nehmen mussten.",
+      "translated_text": "This was very inconvenient for many passengers, as they had to walk long distances or take other lines."
+    },
+    {
+      "text": "Techniker arbeiteten schnell, um den Bahnhof wieder sicher zu machen.",
+      "translated_text": "Technicians worked quickly to make the station safe again."
+    },
+    {
+      "text": "Sie installierten provisorische Beleuchtung und sicherten die beschädigten Teile des Bahnhofs.",
+      "translated_text": "They installed temporary lighting and secured the damaged parts of the station."
+    },
+    {
+      "text": "Ab dem letzten Montag im Februar hält die Ringbahn wieder am S-Bahnhof Wedding.",
+      "translated_text": "From the last Monday in February, the Ringbahn stops at Wedding S-Bahn station again."
+    },
+    {
+      "text": "Viele Berliner freuen sich über die Wiedereröffnung des Bahnhofs.",
+      "translated_text": "Many Berliners are pleased about the reopening of the station."
+    },
+    {
+      "text": "Aber die Arbeiten sind noch nicht vollständig abgeschlossen.",
+      "translated_text": "But the work is not yet fully completed."
+    },
+    {
+      "text": "Das alte Wärtergebäude, das durch den Brand stark beschädigt wurde, muss noch abgerissen werden.",
+      "translated_text": "The old supervisor's building, which was heavily damaged by the fire, still needs to be demolished."
+    },
+    {
+      "text": "Die vollständige Renovierung des Bahnhofs wird noch bis zum Frühling dauern.",
+      "translated_text": "The complete renovation of the station will continue until spring."
+    },
+    {
+      "text": "In dieser Zeit kann es zu weiteren, kurzen Einschränkungen im Bahnbetrieb kommen.",
+      "translated_text": "During this time, there may be further brief disruptions to rail operations."
+    },
+    {
+      "text": "Der Vorfall erinnert daran, wie wichtig es ist, den öffentlichen Verkehr vor Vandalismus und Brandstiftung zu schützen.",
+      "translated_text": "The incident serves as a reminder of how important it is to protect public transport from vandalism and arson."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Brand",
+      "translated_term": "the fire",
+      "example_usage": "In der Silvesternacht brach am S-Bahnhof Wedding ein Brand aus."
+    },
+    {
+      "term": "die Brandstiftung",
+      "translated_term": "arson",
+      "example_usage": "Der Vorfall erinnert daran, wie wichtig es ist, öffentlichen Verkehr vor Brandstiftung zu schützen."
+    },
+    {
+      "term": "provisorisch",
+      "translated_term": "temporary / provisional",
+      "example_usage": "Techniker installierten provisorische Beleuchtung am Bahnhof."
+    },
+    {
+      "term": "die Wiedereröffnung",
+      "translated_term": "the reopening",
+      "example_usage": "Viele Berliner freuen sich über die Wiedereröffnung des Bahnhofs."
+    },
+    {
+      "term": "der Fahrgast",
+      "translated_term": "the passenger",
+      "example_usage": "Das war für viele Fahrgäste sehr unangenehm."
+    },
+    {
+      "term": "die Renovierung",
+      "translated_term": "the renovation",
+      "example_usage": "Die vollständige Renovierung des Bahnhofs wird noch bis zum Frühling dauern."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de: Wedding S-Bahn station back in service from Monday",
+      "link_url": "https://www.berlin.de/en/news/10187782-5559700-wedding-sbahn-station-back-in-service-fr.en.html"
+    },
+    {
+      "name": "S-Bahn Berlin: Nach Brand – so geht es am S-Bahnhof Wedding weiter",
+      "link_url": "https://sbahn.berlin/aktuelles/artikel/nach-brand-so-geht-es-am-s-bahnhof-wedding-weiter/"
+    }
+  ]
+}
