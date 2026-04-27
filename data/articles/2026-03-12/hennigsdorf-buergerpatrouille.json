@@ -1,0 +1,110 @@
+{
+  "title": "Hennigsdorf plant Bürgerpatrouille am Bahnhof",
+  "translated_title": "Hennigsdorf Plans Citizens' Patrol at Train Station",
+  "text": [
+    {
+      "text": "Der Stadtrat von Hennigsdorf in Brandenburg hat für die Einrichtung einer Bürgerpatrouille gestimmt.",
+      "translated_text": "The city council of Hennigsdorf in Brandenburg has voted for the establishment of a citizens' patrol."
+    },
+    {
+      "text": "Die Patrouille soll in der Nähe des Bahnhofs der Stadt eingesetzt werden.",
+      "translated_text": "The patrol is to be deployed near the town's train station."
+    },
+    {
+      "text": "Das Ziel ist es, das 'subjektive Sicherheitsgefühl' der Bürgerinnen und Bürger zu stärken.",
+      "translated_text": "The aim is to strengthen the 'subjective sense of security' of residents."
+    },
+    {
+      "text": "Für den Beschluss stimmten CDU, AfD und eine lokale Wählervereinigung.",
+      "translated_text": "The CDU, AfD and a local voters' association voted in favour of the resolution."
+    },
+    {
+      "text": "Der lokale Polizeichef ist jedoch skeptisch und hält das Projekt für sinnlos.",
+      "translated_text": "However, the local police chief is sceptical and considers the project pointless."
+    },
+    {
+      "text": "Er bezweifelt, dass die Bürgerpatrouille die tatsächliche Sicherheit verbessern kann.",
+      "translated_text": "He doubts that the citizens' patrol can improve actual safety."
+    },
+    {
+      "text": "Kritiker fragen auch, auf welcher rechtlichen Grundlage die Patrouille handeln darf.",
+      "translated_text": "Critics also ask on what legal basis the patrol is permitted to act."
+    },
+    {
+      "text": "Es gibt Bedenken, dass solche Gruppen zu Selbstjustiz führen könnten.",
+      "translated_text": "There are concerns that such groups could lead to vigilantism."
+    },
+    {
+      "text": "Hennigsdorf ist eine mittelgroße Stadt nördlich von Berlin mit rund 25.000 Einwohnern.",
+      "translated_text": "Hennigsdorf is a medium-sized town north of Berlin with around 25,000 inhabitants."
+    },
+    {
+      "text": "Der Trend zu alternativen Sicherheitsmaßnahmen ist in Brandenburg und Ostdeutschland weit verbreitet.",
+      "translated_text": "The trend towards alternative security measures is widespread in Brandenburg and eastern Germany."
+    },
+    {
+      "text": "Besonders an Bahnhöfen und Verkehrsknotenpunkten fühlen sich viele Bürger unsicher.",
+      "translated_text": "Many residents feel unsafe particularly at train stations and transport hubs."
+    },
+    {
+      "text": "Befürworter des Plans sagen, dass mehr Präsenz auf den Straßen das Sicherheitsgefühl verbessert.",
+      "translated_text": "Supporters of the plan say that more of a presence on the streets improves the sense of security."
+    },
+    {
+      "text": "Ob die Bürgerpatrouille tatsächlich umgesetzt wird, hängt noch von weiteren Diskussionen ab.",
+      "translated_text": "Whether the citizens' patrol will actually be implemented still depends on further discussions."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Patrouille",
+      "translated_term": "the patrol",
+      "example_usage": "Die Patrouille soll in der Nähe des Bahnhofs der Stadt eingesetzt werden."
+    },
+    {
+      "term": "das Sicherheitsgefühl",
+      "translated_term": "the sense of security",
+      "example_usage": "Das Ziel ist es, das 'subjektive Sicherheitsgefühl' der Bürgerinnen und Bürger zu stärken."
+    },
+    {
+      "term": "der Beschluss",
+      "translated_term": "the resolution / the decision",
+      "example_usage": "Für den Beschluss stimmten CDU, AfD und eine lokale Wählervereinigung."
+    },
+    {
+      "term": "bezweifeln",
+      "translated_term": "to doubt",
+      "example_usage": "Er bezweifelt, dass die Bürgerpatrouille die tatsächliche Sicherheit verbessern kann."
+    },
+    {
+      "term": "die Selbstjustiz",
+      "translated_term": "vigilantism / taking the law into one's own hands",
+      "example_usage": "Es gibt Bedenken, dass solche Gruppen zu Selbstjustiz führen könnten."
+    },
+    {
+      "term": "die rechtliche Grundlage",
+      "translated_term": "the legal basis",
+      "example_usage": "Kritiker fragen auch, auf welcher rechtlichen Grundlage die Patrouille handeln darf."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Left Berlin: News from Berlin and Germany, 11th March 2026",
+      "link_url": "https://theleftberlin.com/new-from-berlin-and-germany-11th-march-2026/"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "title": "Krieg zwischen USA, Israel und Iran: Tag zwölf",
+  "translated_title": "War Between the USA, Israel and Iran: Day Twelve",
+  "text": [
+    {
+      "text": "Der Krieg zwischen den USA, Israel und dem Iran dauert nun schon zwölf Tage.",
+      "translated_text": "The war between the USA, Israel and Iran has now been going on for twelve days."
+    },
+    {
+      "text": "In dieser Zeit haben Israel und die USA viele Ziele im Iran angegriffen.",
+      "translated_text": "During this time, Israel and the USA have attacked many targets in Iran."
+    },
+    {
+      "text": "Der Iran und die Hisbollah haben ihrerseits mehr als 50 israelische Ziele mit Raketen beschossen.",
+      "translated_text": "Iran and Hezbollah, for their part, have fired rockets at more than 50 Israeli targets."
+    },
+    {
+      "text": "Eine der größten wirtschaftlichen Folgen des Krieges ist die Schließung der Straße von Hormuz.",
+      "translated_text": "One of the biggest economic consequences of the war is the closure of the Strait of Hormuz."
+    },
+    {
+      "text": "Durch diese Meerenge fließt etwa ein Fünftel des weltweiten Öls.",
+      "translated_text": "Roughly one fifth of the world's oil passes through this strait."
+    },
+    {
+      "text": "Der Iran hat Minen gelegt, und die USA haben 16 iranische Minenleger-Schiffe zerstört.",
+      "translated_text": "Iran has laid mines, and the USA has destroyed 16 Iranian minelaying vessels."
+    },
+    {
+      "text": "Die Internationale Energieagentur hat deshalb 400 Millionen Barrel Öl aus strategischen Reserven freigegeben.",
+      "translated_text": "The International Energy Agency has therefore released 400 million barrels of oil from strategic reserves."
+    },
+    {
+      "text": "Die Weltgesundheitsorganisation warnte vor giftigem 'schwarzem Regen' – verschmutzten Niederschlägen durch Rauch aus bombardierten Ölanlagen.",
+      "translated_text": "The World Health Organisation warned of toxic 'black rain' – contaminated rainfall caused by smoke from bombed oil facilities."
+    },
+    {
+      "text": "Ein US-amerikanischer Marschflugkörper traf eine Schule im Iran, angeblich wegen veralteter Zieldaten.",
+      "translated_text": "A US cruise missile struck a school in Iran, reportedly due to outdated targeting data."
+    },
+    {
+      "text": "Präsident Trump erklärte in einer Rede, dass die USA den Krieg gewonnen hätten.",
+      "translated_text": "President Trump declared in a speech that the USA had won the war."
+    },
+    {
+      "text": "Gleichzeitig forderte das Weiße Haus die 'bedingungslose Kapitulation' des Irans.",
+      "translated_text": "At the same time, the White House demanded Iran's 'unconditional surrender'."
+    },
+    {
+      "text": "Der Iran soll dabei auch sein Raketenprogramm aufgeben.",
+      "translated_text": "Iran is also expected to give up its missile programme as part of this."
+    },
+    {
+      "text": "Laut einer Umfrage lehnt eine Mehrheit der Amerikaner die Beteiligung der USA an diesem Krieg ab.",
+      "translated_text": "According to a poll, a majority of Americans oppose US involvement in this war."
+    },
+    {
+      "text": "Die Lage im Nahen Osten bleibt sehr unsicher, und Experten befürchten eine weitere Ausweitung des Konflikts.",
+      "translated_text": "The situation in the Middle East remains very uncertain, and experts fear a further escalation of the conflict."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Meerenge",
+      "translated_term": "the strait (narrow sea passage)",
+      "example_usage": "Durch diese Meerenge fließt etwa ein Fünftel des weltweiten Öls."
+    },
+    {
+      "term": "die Mine",
+      "translated_term": "the mine (explosive device)",
+      "example_usage": "Der Iran hat Minen gelegt, und die USA haben 16 iranische Minenleger-Schiffe zerstört."
+    },
+    {
+      "term": "der Marschflugkörper",
+      "translated_term": "the cruise missile",
+      "example_usage": "Ein US-amerikanischer Marschflugkörper traf eine Schule im Iran."
+    },
+    {
+      "term": "freigeben",
+      "translated_term": "to release / to make available",
+      "example_usage": "Die Internationale Energieagentur hat 400 Millionen Barrel Öl aus strategischen Reserven freigegeben."
+    },
+    {
+      "term": "die Kapitulation",
+      "translated_term": "the surrender",
+      "example_usage": "Das Weiße Haus forderte die 'bedingungslose Kapitulation' des Irans."
+    },
+    {
+      "term": "ablehnen",
+      "translated_term": "to reject / to oppose",
+      "example_usage": "Eine Mehrheit der Amerikaner lehnt die Beteiligung der USA an diesem Krieg ab."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Iran war: What is happening on day 12 of US-Israel attacks",
+      "link_url": "https://www.aljazeera.com/news/2026/3/11/iran-war-what-is-happening-on-day-12-of-us-israel-attacks"
+    },
+    {
+      "name": "CNN: What we know on the 12th day of the US and Israel's war with Iran",
+      "link_url": "https://www.cnn.com/2026/03/11/middleeast/us-israel-iran-middle-east-war-what-we-know-intl-hnk"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "title": "Gericht stoppt Einstufung der AfD als extremistisch",
+  "translated_title": "Court Halts Classification of AfD as Extremist",
+  "text": [
+    {
+      "text": "Ein Gericht in Köln hat eine einstweilige Verfügung gegen das Bundesamt für Verfassungsschutz erlassen.",
+      "translated_text": "A court in Cologne has issued an injunction against the Federal Office for the Protection of the Constitution."
+    },
+    {
+      "text": "Das Bundesamt hatte die AfD als extremistische Organisation eingestuft.",
+      "translated_text": "The Federal Office had classified the AfD as an extremist organisation."
+    },
+    {
+      "text": "Diese Einstufung ist nun vorläufig gestoppt, bis ein vollständiges gerichtliches Verfahren abgeschlossen ist.",
+      "translated_text": "This classification has now been provisionally halted until a full judicial review is completed."
+    },
+    {
+      "text": "Die AfD begrüßte die Entscheidung als wichtigen Sieg für die Demokratie.",
+      "translated_text": "The AfD welcomed the decision as an important victory for democracy."
+    },
+    {
+      "text": "Kritiker hingegen sehen darin eine gefährliche Entwicklung für den Schutz der deutschen Demokratie.",
+      "translated_text": "Critics, on the other hand, see it as a dangerous development for the protection of German democracy."
+    },
+    {
+      "text": "Gleichzeitig fanden Landtagswahlen in Baden-Württemberg statt.",
+      "translated_text": "At the same time, state parliament elections took place in Baden-Württemberg."
+    },
+    {
+      "text": "Die Grünen gewannen die Wahl, aber die AfD erzielte ein sehr gutes Ergebnis.",
+      "translated_text": "The Greens won the election, but the AfD achieved a very strong result."
+    },
+    {
+      "text": "Die AfD verdoppelte ihren Stimmenanteil ungefähr auf rund 19 Prozent und wurde drittstärkste Partei.",
+      "translated_text": "The AfD roughly doubled its vote share to around 19 percent, becoming the third-strongest party."
+    },
+    {
+      "text": "Trotzdem ist keine andere Partei bereit, mit der AfD eine Koalition zu bilden.",
+      "translated_text": "Nevertheless, no other party is willing to form a coalition with the AfD."
+    },
+    {
+      "text": "Auch aus der Wirtschaft kamen schlechte Nachrichten für Deutschland.",
+      "translated_text": "There was also bad news for Germany from the economy."
+    },
+    {
+      "text": "Die Industrieaufträge fielen im Januar um 11,1 Prozent im Vergleich zum Vormonat.",
+      "translated_text": "Industrial orders fell by 11.1 percent in January compared to the previous month."
+    },
+    {
+      "text": "Das ist der stärkste Rückgang nach vier aufeinanderfolgenden Monaten mit Wachstum.",
+      "translated_text": "That is the sharpest decline after four consecutive months of growth."
+    },
+    {
+      "text": "Außerdem werden die Grenzkontrollen an allen deutschen Grenzen um weitere sechs Monate verlängert.",
+      "translated_text": "In addition, border controls at all German borders are being extended for a further six months."
+    },
+    {
+      "text": "Diese Entwicklungen zeigen, dass Deutschland vor großen politischen und wirtschaftlichen Herausforderungen steht.",
+      "translated_text": "These developments show that Germany faces major political and economic challenges."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die einstweilige Verfügung",
+      "translated_term": "the injunction / interim order",
+      "example_usage": "Ein Gericht in Köln hat eine einstweilige Verfügung gegen das Bundesamt für Verfassungsschutz erlassen."
+    },
+    {
+      "term": "einstufen",
+      "translated_term": "to classify / to categorise",
+      "example_usage": "Das Bundesamt hatte die AfD als extremistische Organisation eingestuft."
+    },
+    {
+      "term": "vorläufig",
+      "translated_term": "provisional / temporary",
+      "example_usage": "Diese Einstufung ist nun vorläufig gestoppt, bis ein vollständiges gerichtliches Verfahren abgeschlossen ist."
+    },
+    {
+      "term": "der Stimmenanteil",
+      "translated_term": "the vote share",
+      "example_usage": "Die AfD verdoppelte ihren Stimmenanteil ungefähr auf rund 19 Prozent."
+    },
+    {
+      "term": "die Koalition",
+      "translated_term": "the coalition",
+      "example_usage": "Keine andere Partei ist bereit, mit der AfD eine Koalition zu bilden."
+    },
+    {
+      "term": "der Rückgang",
+      "translated_term": "the decline / the drop",
+      "example_usage": "Das ist der stärkste Rückgang nach vier aufeinanderfolgenden Monaten mit Wachstum."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Extremismus",
+      "translated_name": "Extremism"
+    },
+    {
+      "name": "Justiz",
+      "translated_name": "Justice"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Left Berlin: News from Berlin and Germany, 11th March 2026",
+      "link_url": "https://theleftberlin.com/new-from-berlin-and-germany-11th-march-2026/"
+    },
+    {
+      "name": "WTVB: German industrial orders fall more than expected in January",
+      "link_url": "https://wtvbam.com/2026/03/09/german-industrial-orders-fall-more-than-expected-in-january-2/"
+    }
+  ]
+}
