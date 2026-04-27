@@ -118,7 +118,7 @@ def main():
         f"deploy-preview check, and combines tags.json entries into a single\n"
         f"sorted file."
     )
-    run(f"git commit -m {json.dumps(commit_msg)}")
+    subprocess.run(["git", "commit", "-m", commit_msg], check=True)
 
     print(f"\n=== Closing PRs ===")
     for pr in prs:

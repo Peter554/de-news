@@ -1,0 +1,135 @@
+{
+  "title": "USA und Israel greifen Iran an: Tag 29 des Krieges",
+  "translated_title": "US and Israel Attack Iran: Day 29 of the War",
+  "text": [
+    {
+      "text": "Der Krieg zwischen den USA, Israel und dem Iran dauert nun schon 29 Tage.",
+      "translated_text": "The war between the US, Israel and Iran has now lasted 29 days."
+    },
+    {
+      "text": "Die Angriffe begannen am 28. Februar 2026 und zielen auf iranische Militäranlagen.",
+      "translated_text": "The attacks began on 28 February 2026 and target Iranian military facilities."
+    },
+    {
+      "text": "Neu ist, dass die Huthi-Rebellen aus dem Jemen Raketen auf Israel abgefeuert haben.",
+      "translated_text": "A new development is that the Houthi rebels from Yemen have fired missiles at Israel."
+    },
+    {
+      "text": "Sie kämpfen auf der Seite des Irans und eröffnen damit eine neue Front im Konflikt.",
+      "translated_text": "They are fighting on the side of Iran and thus opening a new front in the conflict."
+    },
+    {
+      "text": "Die amerikanischen und israelischen Streitkräfte sagen, sie haben bereits zwei Drittel der iranischen Waffenfabriken zerstört.",
+      "translated_text": "The American and Israeli armed forces say they have already destroyed two thirds of Iran's weapons factories."
+    },
+    {
+      "text": "Mehr als 300 US-Soldaten wurden bei iranischen Gegenangriffen verletzt.",
+      "translated_text": "More than 300 US soldiers were wounded in Iranian counter-attacks."
+    },
+    {
+      "text": "Der Iran hat Hunderte von Drohnen und Raketen auf Israel und US-Militärstützpunkte in der Region abgefeuert.",
+      "translated_text": "Iran has fired hundreds of drones and missiles at Israel and US military bases in the region."
+    },
+    {
+      "text": "Sogar ein britischer Militärstützpunkt auf Zypern wurde von einer Drohne getroffen.",
+      "translated_text": "Even a British military base in Cyprus was hit by a drone."
+    },
+    {
+      "text": "Mehr als 3.000 Menschen im Iran sollen bisher gestorben sein, viele historische Gebäude wurden beschädigt.",
+      "translated_text": "More than 3,000 people in Iran are said to have died so far, and many historic buildings have been damaged."
+    },
+    {
+      "text": "Die Ölpreise sind seit Kriegsbeginn um mehr als 40 Prozent gestiegen.",
+      "translated_text": "Oil prices have risen by more than 40 percent since the start of the war."
+    },
+    {
+      "text": "Der Internationale Währungsfonds warnte, dass steigende Energiepreise die globale Inflation erhöhen.",
+      "translated_text": "The International Monetary Fund warned that rising energy prices are increasing global inflation."
+    },
+    {
+      "text": "Präsident Trump kündigte eine zehntägige Pause bei Angriffen auf iranische Energieanlagen an.",
+      "translated_text": "President Trump announced a ten-day pause on attacks on Iranian energy facilities."
+    },
+    {
+      "text": "Er sagte, Friedensgespräche würden gut laufen, aber sein Außenminister betonte, die USA wollten ihre Kriegsziele bald erreichen.",
+      "translated_text": "He said peace talks were going well, but his Secretary of State stressed that the US intended to achieve its war objectives soon."
+    },
+    {
+      "text": "Bundeskanzler Merz kritisierte, dass Deutschland vor den Angriffen nicht konsultiert wurde.",
+      "translated_text": "Chancellor Merz criticised the fact that Germany had not been consulted before the attacks."
+    },
+    {
+      "text": "Pakistan vermittelt im Konflikt: Täglich dürfen 20 Schiffe unter pakistanischer Flagge die Straße von Hormus passieren.",
+      "translated_text": "Pakistan is mediating in the conflict: 20 ships per day are allowed to pass through the Strait of Hormuz under the Pakistani flag."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Militärstützpunkt",
+      "translated_term": "the military base",
+      "example_usage": "Mehr als 300 US-Soldaten wurden bei iranischen Gegenangriffen auf US-Militärstützpunkte verletzt."
+    },
+    {
+      "term": "die Waffenfabrik",
+      "translated_term": "the weapons factory",
+      "example_usage": "Sie haben bereits zwei Drittel der iranischen Waffenfabriken zerstört."
+    },
+    {
+      "term": "die Drohne",
+      "translated_term": "the drone",
+      "example_usage": "Der Iran hat Hunderte von Drohnen und Raketen abgefeuert."
+    },
+    {
+      "term": "vermitteln",
+      "translated_term": "to mediate",
+      "example_usage": "Pakistan vermittelt im Konflikt."
+    },
+    {
+      "term": "die Straße von Hormus",
+      "translated_term": "the Strait of Hormuz",
+      "example_usage": "Täglich dürfen 20 Schiffe unter pakistanischer Flagge die Straße von Hormus passieren."
+    },
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Präsident Trump kündigte eine zehntägige Pause bei Angriffen auf iranische Energieanlagen an."
+    },
+    {
+      "term": "der Gegenangriff",
+      "translated_term": "the counter-attack",
+      "example_usage": "Mehr als 300 US-Soldaten wurden bei iranischen Gegenangriffen verletzt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran-Krieg",
+      "translated_name": "Iran War"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: US-Israel war on Iran — Day 29",
+      "link_url": "https://www.aljazeera.com/news/2026/3/28/iran-war-what-is-happening-on-day-29-of-us-israel-attacks"
+    },
+    {
+      "name": "CNN: Iran war live blog, Day 29",
+      "link_url": "https://www.cnn.com/2026/03/28/world/live-news/iran-war-us-israel-trump"
+    },
+    {
+      "name": "NBC News: Iran attacks Israel and Gulf states",
+      "link_url": "https://www.nbcnews.com/world/iran/live-blog/live-updates-iran-war-trump-peace-talks-israel-attacks-markets-rcna264854"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "title": "Trump hält erste Rede zur Lage der Nation im Iran-Krieg",
+  "translated_title": "Trump Delivers First Address to the Nation on the Iran War",
+  "text": [
+    {
+      "text": "US-Präsident Donald Trump hat sich am Mittwochabend in einer landesweiten Fernsehansprache an die amerikanische Bevölkerung gewandt.",
+      "translated_text": "US President Donald Trump addressed the American public in a nationwide television speech on Wednesday evening."
+    },
+    {
+      "text": "Der Krieg zwischen den USA und dem Iran dauert bereits seit dem 28. Februar 2026 an.",
+      "translated_text": "The war between the USA and Iran has been ongoing since 28 February 2026."
+    },
+    {
+      "text": "Trump erklärte, die Ziele des Krieges seien fast erreicht, und versprach, den Konflikt in zwei bis drei Wochen zu beenden.",
+      "translated_text": "Trump stated that the goals of the war were nearly achieved, and promised to end the conflict within two to three weeks."
+    },
+    {
+      "text": "Gleichzeitig drohte er dem Iran, die Stromversorgung des Landes zu zerstören, falls kein Friedensabkommen geschlossen werde.",
+      "translated_text": "At the same time, he threatened Iran with destroying the country's power grid if no peace agreement were reached."
+    },
+    {
+      "text": "Die iranische Regierung wies Berichte zurück, dass sie um einen Waffenstillstand gebeten habe.",
+      "translated_text": "The Iranian government denied reports that it had requested a ceasefire."
+    },
+    {
+      "text": "Der Konflikt hat große Auswirkungen auf die Weltwirtschaft.",
+      "translated_text": "The conflict is having a major impact on the global economy."
+    },
+    {
+      "text": "Der Ölpreis ist auf über 104 Dollar pro Barrel gestiegen.",
+      "translated_text": "The oil price has risen to over 104 dollars per barrel."
+    },
+    {
+      "text": "In den USA kostet ein Gallone Benzin erstmals seit Kriegsbeginn mehr als vier Dollar.",
+      "translated_text": "In the USA, a gallon of petrol now costs more than four dollars for the first time since the war began."
+    },
+    {
+      "text": "Die Finanzmärkte reagierten negativ auf Trumps Rede.",
+      "translated_text": "Financial markets reacted negatively to Trump's speech."
+    },
+    {
+      "text": "Europäische Länder, darunter Großbritannien und Deutschland, sind besorgt über die Sicherheit der Schifffahrt durch die Straße von Hormus.",
+      "translated_text": "European countries, including the UK and Germany, are concerned about the safety of shipping through the Strait of Hormuz."
+    },
+    {
+      "text": "Der britische Premierminister Keir Starmer und der deutsche Bundeskanzler Friedrich Merz haben telefoniert, um ihre Reaktion zu koordinieren.",
+      "translated_text": "British Prime Minister Keir Starmer and German Chancellor Friedrich Merz spoke by phone to coordinate their response."
+    },
+    {
+      "text": "Beide Länder fordern eine diplomatische Lösung des Konflikts.",
+      "translated_text": "Both countries are calling for a diplomatic solution to the conflict."
+    },
+    {
+      "text": "Kritiker in den USA warnen, dass ein längerer Krieg sehr teuer werden könnte.",
+      "translated_text": "Critics in the USA warn that a prolonged war could become very costly."
+    },
+    {
+      "text": "Viele Länder auf der ganzen Welt beobachten die Lage im Nahen Osten mit großer Sorge.",
+      "translated_text": "Many countries around the world are watching the situation in the Middle East with great concern."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Ansprache",
+      "translated_term": "the address / speech",
+      "example_usage": "Trump hat sich in einer landesweiten Fernsehansprache an die amerikanische Bevölkerung gewandt."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Die iranische Regierung wies Berichte zurück, dass sie um einen Waffenstillstand gebeten habe."
+    },
+    {
+      "term": "die Stromversorgung",
+      "translated_term": "the power supply / power grid",
+      "example_usage": "Trump drohte dem Iran, die Stromversorgung des Landes zu zerstören."
+    },
+    {
+      "term": "das Friedensabkommen",
+      "translated_term": "the peace agreement",
+      "example_usage": "Trump drohte dem Iran, falls kein Friedensabkommen geschlossen werde."
+    },
+    {
+      "term": "koordinieren",
+      "translated_term": "to coordinate",
+      "example_usage": "Starmer und Merz haben telefoniert, um ihre Reaktion zu koordinieren."
+    },
+    {
+      "term": "die Schifffahrt",
+      "translated_term": "the shipping / navigation",
+      "example_usage": "Europäische Länder sind besorgt über die Sicherheit der Schifffahrt durch die Straße von Hormus."
+    },
+    {
+      "term": "der Ölpreis",
+      "translated_term": "the oil price",
+      "example_usage": "Der Ölpreis ist auf über 104 Dollar pro Barrel gestiegen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran-Krieg",
+      "translated_name": "Iran War"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR: Trump makes his case for war with Iran",
+      "link_url": "https://www.npr.org/2026/04/01/nx-s1-5770093/trump-address-iran-war"
+    },
+    {
+      "name": "Al Jazeera: Iran war live blog, April 2",
+      "link_url": "https://www.aljazeera.com/news/liveblog/2026/4/2/iran-war-live-trump-to-address-nation-tehran-denies-seeking-ceasefire"
+    }
+  ]
+}

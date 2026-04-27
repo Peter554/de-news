@@ -1,0 +1,127 @@
+{
+  "title": "Berlin autofrei: Volksbegehren sammelt Unterschriften",
+  "translated_title": "Car-Free Berlin: Citizens' Initiative Collects Signatures",
+  "text": [
+    {
+      "text": "In Berlin läuft gerade ein besonderes Volksbegehren.",
+      "translated_text": "A special citizens' initiative is currently underway in Berlin."
+    },
+    {
+      "text": "Die Initiative heißt Berlin autofrei und möchte, dass es in der Innenstadt weniger Autos gibt.",
+      "translated_text": "The initiative is called Car-Free Berlin and wants fewer cars in the city centre."
+    },
+    {
+      "text": "Konkret soll die Nutzung von Privatautos innerhalb des S-Bahn-Rings auf maximal 12 Fahrten pro Jahr begrenzt werden.",
+      "translated_text": "Specifically, the use of private cars within the S-Bahn ring is to be limited to a maximum of 12 trips per year."
+    },
+    {
+      "text": "Ausnahmen soll es für Anwohner, Lieferdienste und Rettungskräfte geben.",
+      "translated_text": "Exceptions are to be made for residents, delivery services and emergency services."
+    },
+    {
+      "text": "Um das Volksbegehren erfolgreich zu machen, braucht die Initiative ungefähr 174.000 gültige Unterschriften.",
+      "translated_text": "To make the citizens' initiative successful, the campaign needs approximately 174,000 valid signatures."
+    },
+    {
+      "text": "Das sind sieben Prozent der Wahlberechtigten in Berlin.",
+      "translated_text": "That is seven percent of eligible voters in Berlin."
+    },
+    {
+      "text": "Die Unterschriften müssen bis zum 8. Mai 2026 gesammelt werden.",
+      "translated_text": "The signatures must be collected by 8 May 2026."
+    },
+    {
+      "text": "Bis zum 2. April 2026 wurden insgesamt 46.200 Unterschriften eingereicht.",
+      "translated_text": "By 2 April 2026, a total of 46,200 signatures had been submitted."
+    },
+    {
+      "text": "Davon waren 25.090 gültig, das sind 84,7 Prozent.",
+      "translated_text": "Of these, 25,090 were valid, which is 84.7 percent."
+    },
+    {
+      "text": "Die Initiative organisiert im April 2026 viele Sammelveranstaltungen in der ganzen Stadt.",
+      "translated_text": "The initiative is organising many collection events across the city in April 2026."
+    },
+    {
+      "text": "Wenn genug Unterschriften gesammelt werden, soll im September 2026 ein Volksentscheid stattfinden.",
+      "translated_text": "If enough signatures are collected, a referendum is to take place in September 2026."
+    },
+    {
+      "text": "Die SPD Berlin lehnt das Volksbegehren ab.",
+      "translated_text": "The Berlin SPD rejects the citizens' initiative."
+    },
+    {
+      "text": "Befürworter sagen, weniger Autos bedeuten sauberere Luft, weniger Lärm und mehr Platz für Fußgänger und Radfahrer.",
+      "translated_text": "Supporters say fewer cars mean cleaner air, less noise and more space for pedestrians and cyclists."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Volksbegehren",
+      "translated_term": "the citizens' initiative / petition",
+      "example_usage": "In Berlin läuft gerade ein besonderes Volksbegehren."
+    },
+    {
+      "term": "die Unterschrift",
+      "translated_term": "the signature",
+      "example_usage": "Bis zum 2. April 2026 wurden insgesamt 46.200 Unterschriften eingereicht."
+    },
+    {
+      "term": "die Wahlberechtigten",
+      "translated_term": "the eligible voters",
+      "example_usage": "Das sind sieben Prozent der Wahlberechtigten in Berlin."
+    },
+    {
+      "term": "der Volksentscheid",
+      "translated_term": "the referendum / popular vote",
+      "example_usage": "Wenn genug Unterschriften gesammelt werden, soll im September 2026 ein Volksentscheid stattfinden."
+    },
+    {
+      "term": "der Anwohner",
+      "translated_term": "the local resident",
+      "example_usage": "Ausnahmen soll es für Anwohner, Lieferdienste und Rettungskräfte geben."
+    },
+    {
+      "term": "begrenzen",
+      "translated_term": "to limit / to restrict",
+      "example_usage": "Die Nutzung von Privatautos soll auf maximal 12 Fahrten pro Jahr begrenzt werden."
+    },
+    {
+      "term": "der Befürworter",
+      "translated_term": "the supporter / advocate",
+      "example_usage": "Befürworter sagen, weniger Autos bedeuten sauberere Luft und weniger Lärm."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Volksbegehren",
+      "translated_name": "Citizens' Initiative"
+    },
+    {
+      "name": "Klimapolitik",
+      "translated_name": "Climate Policy"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de: Volksbegehren Berlin autofrei – 46.200 Unterschriften bis zum 2. April 2026 eingereicht",
+      "link_url": "https://www.berlin.de/wahlen/pressemitteilungen/2026/pressemitteilung.1659120.php"
+    },
+    {
+      "name": "Volksentscheid Berlin autofrei – offizielle Website",
+      "link_url": "https://www.volksentscheid-berlin-autofrei.de/"
+    },
+    {
+      "name": "Entwicklungsstadt Berlin: Berlin autofrei und Berlin werbefrei vor grosser Hürde",
+      "link_url": "https://www.entwicklungsstadt.de/volksbegehren-berlin-autofrei-und-berlin-werbefrei-vor-grosser-huerde/"
+    }
+  ]
+}

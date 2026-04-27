@@ -1,0 +1,131 @@
+{
+  "title": "Ölkrise: Die Straße von Hormuz bleibt blockiert",
+  "translated_title": "Oil Crisis: The Strait of Hormuz Remains Blocked",
+  "text": [
+    {
+      "text": "Die Straße von Hormuz ist eine sehr wichtige Wasserstraße im Nahen Osten.",
+      "translated_text": "The Strait of Hormuz is a very important waterway in the Middle East."
+    },
+    {
+      "text": "Normalerweise passiert ungefähr 20 Prozent des weltweiten Öls und Gases diese enge Meerenge.",
+      "translated_text": "Normally around 20 percent of the world's oil and gas passes through this narrow strait."
+    },
+    {
+      "text": "Seit Ende Februar 2026 blockiert der Iran die Straße von Hormuz.",
+      "translated_text": "Since the end of February 2026, Iran has been blocking the Strait of Hormuz."
+    },
+    {
+      "text": "Der Grund dafür ist der Krieg zwischen dem Iran, den USA und Israel.",
+      "translated_text": "The reason for this is the war between Iran, the USA and Israel."
+    },
+    {
+      "text": "Anfang April 2026 gab es eine kurze Einigung auf einen Waffenstillstand.",
+      "translated_text": "At the beginning of April 2026 there was a brief agreement on a ceasefire."
+    },
+    {
+      "text": "Es war geplant, dass die Straße wieder geöffnet wird.",
+      "translated_text": "It was planned that the strait would be reopened."
+    },
+    {
+      "text": "Aber am 9. April 2026 hielt der Iran die Meerenge weiterhin blockiert.",
+      "translated_text": "But on 9 April 2026, Iran continued to keep the strait blocked."
+    },
+    {
+      "text": "Die Folgen sind sehr groß: Der Ölpreis ist stark gestiegen.",
+      "translated_text": "The consequences are very significant: the oil price has risen sharply."
+    },
+    {
+      "text": "Am 10. April 2026 kostete ein Barrel WTI-Rohöl 115 US-Dollar.",
+      "translated_text": "On 10 April 2026, a barrel of WTI crude oil cost 115 US dollars."
+    },
+    {
+      "text": "Das ist der höchste Preis seit vier Jahren.",
+      "translated_text": "That is the highest price in four years."
+    },
+    {
+      "text": "Experten sprechen von der größten Störung der Energieversorgung seit der Ölkrise der 1970er Jahre.",
+      "translated_text": "Experts speak of the biggest disruption to energy supplies since the oil crisis of the 1970s."
+    },
+    {
+      "text": "Viele Länder weltweit müssen jetzt Energie rationieren.",
+      "translated_text": "Many countries around the world now have to ration energy."
+    },
+    {
+      "text": "Die hohen Ölpreise machen Benzin, Heizung und viele Produkte teurer.",
+      "translated_text": "The high oil prices are making petrol, heating and many products more expensive."
+    },
+    {
+      "text": "Die Internationale Energieagentur beobachtet die Lage genau und versucht, die Auswirkungen zu begrenzen.",
+      "translated_text": "The International Energy Agency is monitoring the situation closely and trying to limit the impact."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Wasserstraße",
+      "translated_term": "the waterway",
+      "example_usage": "Die Straße von Hormuz ist eine sehr wichtige Wasserstraße im Nahen Osten."
+    },
+    {
+      "term": "die Meerenge",
+      "translated_term": "the strait / narrow sea passage",
+      "example_usage": "Ungefähr 20 Prozent des weltweiten Öls und Gases passiert diese enge Meerenge."
+    },
+    {
+      "term": "blockieren",
+      "translated_term": "to block",
+      "example_usage": "Seit Ende Februar 2026 blockiert der Iran die Straße von Hormuz."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Anfang April 2026 gab es eine kurze Einigung auf einen Waffenstillstand."
+    },
+    {
+      "term": "das Barrel",
+      "translated_term": "the barrel (unit of oil)",
+      "example_usage": "Am 10. April 2026 kostete ein Barrel WTI-Rohöl 115 US-Dollar."
+    },
+    {
+      "term": "rationieren",
+      "translated_term": "to ration",
+      "example_usage": "Viele Länder weltweit müssen jetzt Energie rationieren."
+    },
+    {
+      "term": "die Energieversorgung",
+      "translated_term": "the energy supply",
+      "example_usage": "Experten sprechen von der größten Störung der Energieversorgung seit der Ölkrise der 1970er Jahre."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Energiekrise",
+      "translated_name": "Energy Crisis"
+    },
+    {
+      "name": "Internationale Nachrichten",
+      "translated_name": "International News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Time: The Strait of Hormuz Crisis Is Driving a Wave of Global Energy Rationing",
+      "link_url": "https://time.com/article/2026/04/05/strait-of-hormuz-fuel-rationing-oil/"
+    },
+    {
+      "name": "Financial Content: Global Energy Crisis Deepens – WTI Crude Hits 4-Year High of $115",
+      "link_url": "https://markets.financialcontent.com/stocks/article/marketminute-2026-4-10-global-energy-crisis-deepens-wti-crude-hits-4-year-high-of-115-amid-strait-of-hormuz-blockade"
+    },
+    {
+      "name": "Wikipedia: 2026 Strait of Hormuz crisis",
+      "link_url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "title": "Rekord: 84 Prozent der Deutschen unzufrieden mit Merz-Regierung",
+  "translated_title": "Record: 84 Percent of Germans Dissatisfied with Merz Government",
+  "text": [
+    {
+      "text": "Eine neue Umfrage zeigt, dass die Deutschen sehr unzufrieden mit ihrer Regierung sind.",
+      "translated_text": "A new survey shows that Germans are very dissatisfied with their government."
+    },
+    {
+      "text": "Der Sender ARD ließ die Meinungsforschungsfirma Infratest dimap befragen.",
+      "translated_text": "The broadcaster ARD had the opinion research firm Infratest dimap conduct a survey."
+    },
+    {
+      "text": "Das Ergebnis ist deutlich: 84 Prozent der Befragten sind unzufrieden mit Bundeskanzler Friedrich Merz und seiner Regierung.",
+      "translated_text": "The result is clear: 84 percent of respondents are dissatisfied with Federal Chancellor Friedrich Merz and his government."
+    },
+    {
+      "text": "Nur 15 Prozent zeigten sich zufrieden.",
+      "translated_text": "Only 15 percent expressed satisfaction."
+    },
+    {
+      "text": "Das ist der schlechteste Wert, seit Merz Bundeskanzler wurde.",
+      "translated_text": "This is the worst figure since Merz became Federal Chancellor."
+    },
+    {
+      "text": "Ein Hauptgrund für die Unzufriedenheit sind wirtschaftliche Probleme.",
+      "translated_text": "A main reason for the dissatisfaction is economic problems."
+    },
+    {
+      "text": "Merz selbst hat zugegeben, dass Deutschland sich 'in einer Krise' befindet.",
+      "translated_text": "Merz himself has admitted that Germany finds itself \"in a crisis\"."
+    },
+    {
+      "text": "Viele Unternehmen in Deutschland haben Schwierigkeiten oder müssen schließen.",
+      "translated_text": "Many companies in Germany are struggling or have to close."
+    },
+    {
+      "text": "Die Regierung konzentriert sich nun mehr darauf, Firmenpleiten zu verhindern, als auf Reformen.",
+      "translated_text": "The government is now focusing more on preventing business bankruptcies than on reforms."
+    },
+    {
+      "text": "Zusätzlich hat der Krieg gegen den Iran die Energiepreise in die Höhe getrieben.",
+      "translated_text": "In addition, the war against Iran has driven energy prices up."
+    },
+    {
+      "text": "Das trifft die deutsche Industrie besonders hart, weil sie viel Energie braucht.",
+      "translated_text": "This hits German industry particularly hard because it requires a lot of energy."
+    },
+    {
+      "text": "Merz hat Präsident Trump öffentlich wegen des Krieges gegen den Iran kritisiert.",
+      "translated_text": "Merz has publicly criticised President Trump regarding the war against Iran."
+    },
+    {
+      "text": "Er sprach von einer 'unverantwortlichen Eskalation' in der Region.",
+      "translated_text": "He spoke of an \"irresponsible escalation\" in the region."
+    },
+    {
+      "text": "Das hat die Beziehungen zwischen Deutschland und den USA belastet.",
+      "translated_text": "This has strained relations between Germany and the USA."
+    },
+    {
+      "text": "Viele Deutsche hoffen, dass die Regierung bald bessere Lösungen für die wirtschaftlichen Probleme findet.",
+      "translated_text": "Many Germans hope that the government will soon find better solutions for the economic problems."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Umfrage",
+      "translated_term": "the survey / poll",
+      "example_usage": "Eine neue Umfrage zeigt, dass die Deutschen sehr unzufrieden mit ihrer Regierung sind."
+    },
+    {
+      "term": "der Befragte",
+      "translated_term": "the respondent",
+      "example_usage": "84 Prozent der Befragten sind unzufrieden mit Bundeskanzler Friedrich Merz und seiner Regierung."
+    },
+    {
+      "term": "unzufrieden",
+      "translated_term": "dissatisfied",
+      "example_usage": "Nur 15 Prozent zeigten sich zufrieden."
+    },
+    {
+      "term": "zugeben",
+      "translated_term": "to admit",
+      "example_usage": "Merz selbst hat zugegeben, dass Deutschland sich 'in einer Krise' befindet."
+    },
+    {
+      "term": "die Firmenpleite",
+      "translated_term": "the business bankruptcy",
+      "example_usage": "Die Regierung konzentriert sich nun mehr darauf, Firmenpleiten zu verhindern."
+    },
+    {
+      "term": "in die Höhe treiben",
+      "translated_term": "to drive up",
+      "example_usage": "Der Krieg gegen den Iran hat die Energiepreise in die Höhe getrieben."
+    },
+    {
+      "term": "belasten",
+      "translated_term": "to strain / to burden",
+      "example_usage": "Das hat die Beziehungen zwischen Deutschland und den USA belastet."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda Germany: German residents' dissatisfaction with Merz government reaches record 84%",
+      "link_url": "https://germany.news-pravda.com/en/germany/2026/04/02/122953.html"
+    },
+    {
+      "name": "GOV.UK: PM call with Chancellor Merz of Germany (1 April 2026)",
+      "link_url": "https://www.gov.uk/government/news/pm-call-with-chancellor-merz-of-germany-1-april-2026"
+    }
+  ]
+}

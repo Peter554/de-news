@@ -1,0 +1,139 @@
+{
+  "title": "Tesla schafft 1.000 neue Arbeitsplätze in Grünheide",
+  "translated_title": "Tesla Creates 1,000 New Jobs in Grünheide",
+  "text": [
+    {
+      "text": "Tesla will seine Fabrik in Grünheide bei Berlin stark ausbauen.",
+      "translated_text": "Tesla wants to significantly expand its factory in Grünheide near Berlin."
+    },
+    {
+      "text": "Das Unternehmen hat angekündigt, bis Ende Juni 2026 insgesamt 1.000 neue Mitarbeiter einzustellen.",
+      "translated_text": "The company has announced that it will hire a total of 1,000 new employees by the end of June 2026."
+    },
+    {
+      "text": "Der Hauptgrund ist eine gestiegene Nachfrage nach dem Elektroauto Tesla Model Y.",
+      "translated_text": "The main reason is increased demand for the Tesla Model Y electric car."
+    },
+    {
+      "text": "Das Modell Y ist besonders in Europa sehr beliebt.",
+      "translated_text": "The Model Y is very popular, particularly in Europe."
+    },
+    {
+      "text": "Mit den neuen Mitarbeitern soll die wöchentliche Produktion um etwa 20 Prozent steigen.",
+      "translated_text": "With the new employees, weekly production is set to increase by around 20 percent."
+    },
+    {
+      "text": "Dieses Ziel soll ab dem dritten Quartal 2026 erreicht werden.",
+      "translated_text": "This target is to be reached from the third quarter of 2026."
+    },
+    {
+      "text": "Die ersten neuen Mitarbeiter sollen schon im Mai ihre Arbeit aufnehmen.",
+      "translated_text": "The first new employees are set to start work as early as May."
+    },
+    {
+      "text": "Außerdem will Tesla rund 500 Zeitarbeitern im Laufe des Jahres unbefristete Verträge anbieten.",
+      "translated_text": "In addition, Tesla wants to offer around 500 temporary workers permanent contracts over the course of the year."
+    },
+    {
+      "text": "Das ist eine gute Nachricht für viele Beschäftigte, die bisher keine feste Stelle hatten.",
+      "translated_text": "That is good news for many employees who have not had a permanent position until now."
+    },
+    {
+      "text": "Zusätzlich sucht das Unternehmen mehrere Hundert neue Mitarbeiter für die Batteriezellenproduktion.",
+      "translated_text": "In addition, the company is looking for several hundred new employees for battery cell production."
+    },
+    {
+      "text": "Diese Abteilung soll in der ersten Hälfte des Jahres 2027 ihren Betrieb aufnehmen.",
+      "translated_text": "This department is set to start operations in the first half of 2027."
+    },
+    {
+      "text": "Die Gigafabrik Berlin-Brandenburg liegt in Grünheide im Landkreis Oder-Spree in Brandenburg.",
+      "translated_text": "The Gigafactory Berlin-Brandenburg is located in Grünheide in the Oder-Spree district of Brandenburg."
+    },
+    {
+      "text": "Sie wurde 2022 eröffnet und ist eine der größten Produktionsstätten von Tesla außerhalb der USA.",
+      "translated_text": "It was opened in 2022 and is one of Tesla's largest production sites outside the USA."
+    },
+    {
+      "text": "Für die Region ist die Fabrik ein wichtiger Arbeitgeber.",
+      "translated_text": "The factory is an important employer for the region."
+    },
+    {
+      "text": "Die Erweiterungspläne zeigen, dass Tesla langfristig in den deutschen Standort investiert.",
+      "translated_text": "The expansion plans show that Tesla is investing in its German site for the long term."
+    },
+    {
+      "text": "Die Entscheidung kommt zu einem Zeitpunkt, an dem die Nachfrage nach Elektroautos in Europa wieder zunimmt.",
+      "translated_text": "The decision comes at a time when demand for electric cars in Europe is rising again."
+    },
+    {
+      "text": "Experten sehen die Erweiterung als positives Zeichen für die deutsche Automobilindustrie.",
+      "translated_text": "Experts see the expansion as a positive sign for the German automotive industry."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Nachfrage",
+      "translated_term": "the demand",
+      "example_usage": "Der Hauptgrund für die Neueinstellungen ist eine gestiegene Nachfrage nach dem Elektroauto Tesla Model Y."
+    },
+    {
+      "term": "der Zeitarbeiter",
+      "translated_term": "the temporary worker",
+      "example_usage": "Tesla will rund 500 Zeitarbeitern unbefristete Verträge anbieten."
+    },
+    {
+      "term": "einstellen",
+      "translated_term": "to hire",
+      "example_usage": "Das Unternehmen hat angekündigt, 1.000 neue Mitarbeiter einzustellen."
+    },
+    {
+      "term": "der Vertrag",
+      "translated_term": "the contract",
+      "example_usage": "Tesla will rund 500 Zeitarbeitern unbefristete Verträge anbieten."
+    },
+    {
+      "term": "die Produktion",
+      "translated_term": "the production",
+      "example_usage": "Mit den neuen Mitarbeitern soll die wöchentliche Produktion um etwa 20 Prozent steigen."
+    },
+    {
+      "term": "ausbauen",
+      "translated_term": "to expand",
+      "example_usage": "Tesla will seine Fabrik in Grünheide bei Berlin stark ausbauen."
+    },
+    {
+      "term": "der Arbeitgeber",
+      "translated_term": "the employer",
+      "example_usage": "Für die Region ist die Fabrik ein wichtiger Arbeitgeber."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Electrive: Tesla plans to expand Grünheide workforce by 1,000 employees",
+      "link_url": "https://www.electrive.com/2026/04/23/tesla-plans-to-expand-grunheide-workforce-by-1000-employees/"
+    },
+    {
+      "name": "Electrek: Tesla claims boost Giga Berlin production 20%",
+      "link_url": "https://electrek.co/2026/04/23/tesla-giga-berlin-production-increase-still-below-capacity/"
+    },
+    {
+      "name": "Berliner Abendblatt: Tesla will Gas geben: 1.000 neue Mitarbeiter in Grünheide",
+      "link_url": "https://berliner-abendblatt.de/berlin-news/tesla-will-gas-geben-1-000-neue-mitarbeiter-in-gruenheide-id331740"
+    }
+  ]
+}

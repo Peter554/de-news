@@ -1,0 +1,122 @@
+{
+  "title": "EU-Einreise- und Ausreisesystem ist jetzt vollständig in Betrieb",
+  "translated_title": "EU Entry and Exit System Is Now Fully Operational",
+  "text": [
+    {
+      "text": "Seit dem 10. April 2026 ist das neue Einreise- und Ausreisesystem der Europäischen Union vollständig in Betrieb.",
+      "translated_text": "Since April 10, 2026, the European Union's new Entry and Exit System has been fully operational."
+    },
+    {
+      "text": "Das System heißt auf Englisch Entry/Exit System oder kurz EES.",
+      "translated_text": "The system is called Entry/Exit System or EES for short in English."
+    },
+    {
+      "text": "Es gilt in 29 europäischen Ländern, darunter alle Schengen-Staaten.",
+      "translated_text": "It applies in 29 European countries, including all Schengen states."
+    },
+    {
+      "text": "Das EES ersetzt den klassischen Passstempel.",
+      "translated_text": "The EES replaces the classic passport stamp."
+    },
+    {
+      "text": "Stattdessen werden die Ein- und Ausreisen von Nicht-EU-Bürgern digital gespeichert.",
+      "translated_text": "Instead, the entries and exits of non-EU citizens are stored digitally."
+    },
+    {
+      "text": "Das System erfasst biometrische Daten wie Fingerabdrücke und Gesichtsbilder.",
+      "translated_text": "The system records biometric data such as fingerprints and facial images."
+    },
+    {
+      "text": "Das EES gilt für alle Nicht-EU-Bürger, die für kurze Zeit in den Schengen-Raum einreisen.",
+      "translated_text": "The EES applies to all non-EU citizens entering the Schengen area for a short stay."
+    },
+    {
+      "text": "Das betrifft zum Beispiel britische und amerikanische Staatsbürger.",
+      "translated_text": "This affects, for example, British and American citizens."
+    },
+    {
+      "text": "Die ersten Tests des Systems begannen bereits im Oktober 2025.",
+      "translated_text": "The first tests of the system had already begun in October 2025."
+    },
+    {
+      "text": "Seitdem wurden über 45 Millionen Grenzübertritte digital erfasst.",
+      "translated_text": "Since then, over 45 million border crossings have been recorded digitally."
+    },
+    {
+      "text": "Mehr als 24.000 Menschen wurde die Einreise verweigert, zum Beispiel wegen abgelaufener Dokumente.",
+      "translated_text": "More than 24,000 people were refused entry, for example due to expired documents."
+    },
+    {
+      "text": "Das System hat auch mehrere Personen entdeckt, die mit gefälschten Identitäten reisten.",
+      "translated_text": "The system has also detected several people travelling with false identities."
+    },
+    {
+      "text": "Die EU hofft, dass das EES die Grenzkontrollen sicherer und schneller macht.",
+      "translated_text": "The EU hopes that the EES will make border controls safer and faster."
+    },
+    {
+      "text": "Reisende brauchen mehr Zeit für die erste Einreise, weil die biometrischen Daten zuerst gespeichert werden müssen.",
+      "translated_text": "Travellers need more time for their first entry, because the biometric data must first be stored."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Einreise- und Ausreisesystem",
+      "translated_term": "the entry and exit system",
+      "example_usage": "Seit dem 10. April 2026 ist das neue Einreise- und Ausreisesystem der Europäischen Union vollständig in Betrieb."
+    },
+    {
+      "term": "biometrisch",
+      "translated_term": "biometric",
+      "example_usage": "Das System erfasst biometrische Daten wie Fingerabdrücke und Gesichtsbilder."
+    },
+    {
+      "term": "der Passstempel",
+      "translated_term": "the passport stamp",
+      "example_usage": "Das EES ersetzt den klassischen Passstempel."
+    },
+    {
+      "term": "erfassen",
+      "translated_term": "to record / to capture",
+      "example_usage": "Seitdem wurden über 45 Millionen Grenzübertritte digital erfasst."
+    },
+    {
+      "term": "verweigern",
+      "translated_term": "to refuse / to deny",
+      "example_usage": "Mehr als 24.000 Menschen wurde die Einreise verweigert, zum Beispiel wegen abgelaufener Dokumente."
+    },
+    {
+      "term": "die Grenzkontrolle",
+      "translated_term": "the border control",
+      "example_usage": "Die EU hofft, dass das EES die Grenzkontrollen sicherer und schneller macht."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Europäische Union",
+      "translated_name": "European Union"
+    },
+    {
+      "name": "Einwanderungspolitik",
+      "translated_name": "Immigration Policy"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    }
+  ],
+  "sources": [
+    {
+      "name": "European Commission: Entry/Exit System will become fully operational on 10 April 2026",
+      "link_url": "https://home-affairs.ec.europa.eu/news/entryexit-system-will-become-fully-operational-10-april-2026-2026-03-30_en"
+    },
+    {
+      "name": "Euronews: Europe's Entry/Exit System (EES): What to know as border control changes come into effect",
+      "link_url": "https://www.euronews.com/travel/2026/04/06/europes-entryexit-system-ees-what-travellers-need-to-know-before-10-april-rollout"
+    },
+    {
+      "name": "France Diplomatie: EES: The new European border Entry/Exit System goes live on 10 April 2026",
+      "link_url": "https://www.diplomatie.gouv.fr/en/services-to-foreigners/visiting-france/ees-the-new-european-border-entryexit-system-goes-live-on-10-april-2026"
+    }
+  ]
+}

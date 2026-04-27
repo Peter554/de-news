@@ -12,12 +12,12 @@
     "translated_name": "Antisemitism"
   },
   {
-    "name": "Arbeitspolitik",
-    "translated_name": "Labor Policy"
-  },
-  {
     "name": "Apple",
     "translated_name": "Apple"
+  },
+  {
+    "name": "Arbeitspolitik",
+    "translated_name": "Labor Policy"
   },
   {
     "name": "Asien",
@@ -48,14 +48,6 @@
     "translated_name": "British Politics"
   },
   {
-    "name": "Bürgerkrieg",
-    "translated_name": "Civil War"
-  },
-  {
-    "name": "China",
-    "translated_name": "China"
-  },
-  {
     "name": "Bulgarien",
     "translated_name": "Bulgaria"
   },
@@ -70,6 +62,14 @@
   {
     "name": "Bundeswehr",
     "translated_name": "Federal Armed Forces"
+  },
+  {
+    "name": "Bürgerkrieg",
+    "translated_name": "Civil War"
+  },
+  {
+    "name": "China",
+    "translated_name": "China"
   },
   {
     "name": "Cybersicherheit",
@@ -98,6 +98,10 @@
   {
     "name": "Einwanderungspolitik",
     "translated_name": "Immigration Policy"
+  },
+  {
+    "name": "Energiekrise",
+    "translated_name": "Energy Crisis"
   },
   {
     "name": "Energiepolitik",
@@ -148,24 +152,24 @@
     "translated_name": "Memorials"
   },
   {
-    "name": "Gesundheitspolitik",
-    "translated_name": "Health Policy"
-  },
-  {
     "name": "Geschichte",
     "translated_name": "History"
+  },
+  {
+    "name": "Gesundheitspolitik",
+    "translated_name": "Health Policy"
   },
   {
     "name": "Griechenland",
     "translated_name": "Greece"
   },
   {
-    "name": "Grönland",
-    "translated_name": "Greenland"
-  },
-  {
     "name": "Großbritannien",
     "translated_name": "Great Britain"
+  },
+  {
+    "name": "Grönland",
+    "translated_name": "Greenland"
   },
   {
     "name": "Handelspolitik",
@@ -176,6 +180,18 @@
     "translated_name": "Humanitarian Crisis"
   },
   {
+    "name": "Infektionskrankheit",
+    "translated_name": "Infectious Disease"
+  },
+  {
+    "name": "Infrastruktur",
+    "translated_name": "Infrastructure"
+  },
+  {
+    "name": "Innovation",
+    "translated_name": "Innovation"
+  },
+  {
     "name": "Internationale Nachrichten",
     "translated_name": "International News"
   },
@@ -184,20 +200,16 @@
     "translated_name": "International Politics"
   },
   {
-    "name": "Infrastruktur",
-    "translated_name": "Infrastructure"
+    "name": "Iran",
+    "translated_name": "Iran"
+  },
+  {
+    "name": "Iran-Konflikt",
+    "translated_name": "Iran Conflict"
   },
   {
     "name": "Iran-Krieg",
     "translated_name": "Iran War"
-  },
-  {
-    "name": "Innovation",
-    "translated_name": "Innovation"
-  },
-  {
-    "name": "Iran",
-    "translated_name": "Iran"
   },
   {
     "name": "Israel",
@@ -240,12 +252,16 @@
     "translated_name": "Croatia"
   },
   {
-    "name": "Künstliche Intelligenz",
-    "translated_name": "Artificial Intelligence"
-  },
-  {
     "name": "Kultur",
     "translated_name": "Culture"
+  },
+  {
+    "name": "Kunst",
+    "translated_name": "Art"
+  },
+  {
+    "name": "Künstliche Intelligenz",
+    "translated_name": "Artificial Intelligence"
   },
   {
     "name": "Landtagswahl",
@@ -276,6 +292,10 @@
     "translated_name": "Media Crisis"
   },
   {
+    "name": "Meningitis",
+    "translated_name": "Meningitis"
+  },
+  {
     "name": "Menschenrechte",
     "translated_name": "Human Rights"
   },
@@ -284,16 +304,20 @@
     "translated_name": "Mexico"
   },
   {
+    "name": "Mobilität",
+    "translated_name": "Mobility"
+  },
+  {
     "name": "Musik",
     "translated_name": "Music"
   },
   {
-    "name": "Naher Osten",
-    "translated_name": "Middle East"
-  },
-  {
     "name": "NATO",
     "translated_name": "NATO"
+  },
+  {
+    "name": "Naher Osten",
+    "translated_name": "Middle East"
   },
   {
     "name": "Nationale Sicherheit",
@@ -302,18 +326,6 @@
   {
     "name": "Naturkatastrophen",
     "translated_name": "Natural Disasters"
-  },
-  {
-    "name": "Öffentliche Gesundheit",
-    "translated_name": "Public Health"
-  },
-  {
-    "name": "Öffentlicher Dienst",
-    "translated_name": "Public Service"
-  },
-  {
-    "name": "Öffentlicher Verkehr",
-    "translated_name": "Public Transport"
   },
   {
     "name": "Pakistan",
@@ -340,36 +352,44 @@
     "translated_name": "Government Crisis"
   },
   {
-    "name": "Russland",
-    "translated_name": "Russia"
-  },
-  {
     "name": "Reisen",
     "translated_name": "Travel"
+  },
+  {
+    "name": "Religionsfreiheit",
+    "translated_name": "Religious Freedom"
   },
   {
     "name": "Rohstoffe",
     "translated_name": "Raw Materials"
   },
   {
-    "name": "Schweiz",
-    "translated_name": "Switzerland"
+    "name": "Russland",
+    "translated_name": "Russia"
   },
   {
-    "name": "Skandal",
-    "translated_name": "Scandal"
+    "name": "Rüstungsindustrie",
+    "translated_name": "Arms Industry"
+  },
+  {
+    "name": "Schulgewalt",
+    "translated_name": "School Violence"
+  },
+  {
+    "name": "Schweiz",
+    "translated_name": "Switzerland"
   },
   {
     "name": "Sicherheit",
     "translated_name": "Security"
   },
   {
-    "name": "Smartphone",
-    "translated_name": "Smartphone"
+    "name": "Skandal",
+    "translated_name": "Scandal"
   },
   {
-    "name": "Spanien",
-    "translated_name": "Spain"
+    "name": "Smartphone",
+    "translated_name": "Smartphone"
   },
   {
     "name": "Soziale Probleme",
@@ -380,6 +400,10 @@
     "translated_name": "Social Policy"
   },
   {
+    "name": "Spanien",
+    "translated_name": "Spain"
+  },
+  {
     "name": "Sport",
     "translated_name": "Sports"
   },
@@ -388,20 +412,28 @@
     "translated_name": "State Visit"
   },
   {
-    "name": "Tennis",
-    "translated_name": "Tennis"
-  },
-  {
     "name": "Streik",
     "translated_name": "Strike"
+  },
+  {
+    "name": "Syrien",
+    "translated_name": "Syria"
   },
   {
     "name": "Technologie",
     "translated_name": "Technology"
   },
   {
+    "name": "Tennis",
+    "translated_name": "Tennis"
+  },
+  {
     "name": "Terrorismus",
     "translated_name": "Terrorism"
+  },
+  {
+    "name": "Tierschutz",
+    "translated_name": "Animal Welfare"
   },
   {
     "name": "Tourismus",
@@ -410,6 +442,14 @@
   {
     "name": "Türkei",
     "translated_name": "Turkey"
+  },
+  {
+    "name": "USA",
+    "translated_name": "USA"
+  },
+  {
+    "name": "USA-UK Beziehungen",
+    "translated_name": "US-UK Relations"
   },
   {
     "name": "Ukraine-Krieg",
@@ -428,28 +468,16 @@
     "translated_name": "Business"
   },
   {
-    "name": "USA",
-    "translated_name": "USA"
-  },
-  {
-    "name": "USA-UK Beziehungen",
-    "translated_name": "US-UK Relations"
-  },
-  {
     "name": "Vatikan",
     "translated_name": "Vatican"
-  },
-  {
-    "name": "Veranstaltungen",
-    "translated_name": "Events"
   },
   {
     "name": "Venezuela",
     "translated_name": "Venezuela"
   },
   {
-    "name": "Volksbegehren",
-    "translated_name": "Referendum"
+    "name": "Veranstaltungen",
+    "translated_name": "Events"
   },
   {
     "name": "Verbraucherschutz",
@@ -462,6 +490,10 @@
   {
     "name": "Verteidigung",
     "translated_name": "Defense"
+  },
+  {
+    "name": "Volksbegehren",
+    "translated_name": "Citizens' Initiative"
   },
   {
     "name": "Waffenstillstand",
@@ -494,5 +526,17 @@
   {
     "name": "Wohnungskrise",
     "translated_name": "Housing Crisis"
+  },
+  {
+    "name": "Öffentliche Gesundheit",
+    "translated_name": "Public Health"
+  },
+  {
+    "name": "Öffentlicher Dienst",
+    "translated_name": "Public Service"
+  },
+  {
+    "name": "Öffentlicher Verkehr",
+    "translated_name": "Public Transport"
   }
 ]

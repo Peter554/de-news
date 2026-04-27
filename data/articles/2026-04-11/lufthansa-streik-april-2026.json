@@ -1,0 +1,127 @@
+{
+  "title": "Lufthansa-Streik: Über 500 Flüge gestrichen",
+  "translated_title": "Lufthansa Strike: Over 500 Flights Cancelled",
+  "text": [
+    {
+      "text": "Am Freitag, dem 10. April 2026, hat die Gewerkschaft UFO einen Streik bei Lufthansa ausgerufen.",
+      "translated_text": "On Friday, 10 April 2026, the trade union UFO called a strike at Lufthansa."
+    },
+    {
+      "text": "UFO ist die Gewerkschaft für das Kabinenpersonal, also die Flugbegleiterinnen und Flugbegleiter.",
+      "translated_text": "UFO is the trade union for cabin crew, i.e. flight attendants."
+    },
+    {
+      "text": "Der Streik begann um Mitternacht und dauerte bis 22 Uhr.",
+      "translated_text": "The strike began at midnight and lasted until 10 pm."
+    },
+    {
+      "text": "Über 520 Flüge wurden gestrichen.",
+      "translated_text": "More than 520 flights were cancelled."
+    },
+    {
+      "text": "Ungefähr 90.000 Passagiere waren davon betroffen.",
+      "translated_text": "Approximately 90,000 passengers were affected by this."
+    },
+    {
+      "text": "Der Streik traf neun deutsche Flughäfen, darunter Berlin, Hamburg, Köln und Düsseldorf.",
+      "translated_text": "The strike hit nine German airports, including Berlin, Hamburg, Cologne and Düsseldorf."
+    },
+    {
+      "text": "Besonders betroffen war die Lufthansa-Tochter CityLine.",
+      "translated_text": "The Lufthansa subsidiary CityLine was particularly affected."
+    },
+    {
+      "text": "UFO sagt, Lufthansa mache keine echten Fortschritte bei den Verhandlungen.",
+      "translated_text": "UFO says Lufthansa is making no real progress in negotiations."
+    },
+    {
+      "text": "Es geht um bessere Arbeitsbedingungen für rund 19.000 Kabinenmitarbeiter.",
+      "translated_text": "The issue is better working conditions for around 19,000 cabin crew members."
+    },
+    {
+      "text": "Außerdem fordern die Mitarbeiter einen Sozialplan für etwa 800 CityLine-Mitarbeiter.",
+      "translated_text": "In addition, employees are demanding a social plan for around 800 CityLine employees."
+    },
+    {
+      "text": "CityLine soll bald geschlossen werden, und die Mitarbeiter machen sich Sorgen um ihre Zukunft.",
+      "translated_text": "CityLine is to be closed soon, and the employees are worried about their future."
+    },
+    {
+      "text": "Lufthansa erwartet, dass der reguläre Flugplan ab Samstag, dem 11. April, wieder gilt.",
+      "translated_text": "Lufthansa expects the regular flight schedule to return from Saturday, 11 April."
+    },
+    {
+      "text": "Reisende, die wegen des Streiks nicht fliegen konnten, haben das Recht auf eine Erstattung oder Umbuchung.",
+      "translated_text": "Travellers who were unable to fly due to the strike have the right to a refund or rebooking."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the trade union",
+      "example_usage": "Die Gewerkschaft UFO hat einen Streik bei Lufthansa ausgerufen."
+    },
+    {
+      "term": "das Kabinenpersonal",
+      "translated_term": "the cabin crew",
+      "example_usage": "UFO ist die Gewerkschaft für das Kabinenpersonal."
+    },
+    {
+      "term": "streichen",
+      "translated_term": "to cancel (a flight)",
+      "example_usage": "Über 520 Flüge wurden gestrichen."
+    },
+    {
+      "term": "betreffen",
+      "translated_term": "to affect",
+      "example_usage": "Ungefähr 90.000 Passagiere waren davon betroffen."
+    },
+    {
+      "term": "die Verhandlung",
+      "translated_term": "the negotiation",
+      "example_usage": "UFO sagt, Lufthansa mache keine echten Fortschritte bei den Verhandlungen."
+    },
+    {
+      "term": "der Sozialplan",
+      "translated_term": "the redundancy/social plan",
+      "example_usage": "Die Mitarbeiter fordern einen Sozialplan für etwa 800 CityLine-Mitarbeiter."
+    },
+    {
+      "term": "die Erstattung",
+      "translated_term": "the refund",
+      "example_usage": "Reisende haben das Recht auf eine Erstattung oder Umbuchung."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "One Mile at a Time: Lufthansa Flight Attendants Going On Strike, Most April 10 Flights Canceled",
+      "link_url": "https://onemileatatime.com/news/lufthansa-flight-attendant-strike/"
+    },
+    {
+      "name": "Bloomberg: Lufthansa Crew Strike Set to Cancel More Than 500 Flights",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-04-10/lufthansa-cabin-crew-strike-set-to-cancel-more-than-500-flights"
+    },
+    {
+      "name": "Lufthansa Experts: Strike announcement at Lufthansa by trade union UFO for 10 April 2026",
+      "link_url": "https://irreg.lufthansaexperts.com/en/news/strike-announcement-at-lufthansa-by-trade-union-ufo-for-10-april-2026.html"
+    }
+  ]
+}
