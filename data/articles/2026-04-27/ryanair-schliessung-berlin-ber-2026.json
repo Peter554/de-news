@@ -1,0 +1,130 @@
+{
+  "title": "Ryanair schließt seine Basis am Berliner Flughafen BER",
+  "translated_title": "Ryanair Closes Its Base at Berlin Airport BER",
+  "text": [
+    {
+      "text": "Die irische Billigfluggesellschaft Ryanair hat eine wichtige Entscheidung getroffen.",
+      "translated_text": "The Irish budget airline Ryanair has made an important decision."
+    },
+    {
+      "text": "Ab Oktober 2026 wird Ryanair seine Basis am Berliner Flughafen BER schließen.",
+      "translated_text": "From October 2026, Ryanair will close its base at Berlin Airport BER."
+    },
+    {
+      "text": "Die Airline wird sieben Flugzeuge aus Berlin abziehen und an andere Standorte verlegen.",
+      "translated_text": "The airline will withdraw seven aircraft from Berlin and relocate them to other locations."
+    },
+    {
+      "text": "Das bedeutet, dass Ryanair 50 Prozent weniger Flüge von Berlin anbieten wird.",
+      "translated_text": "This means that Ryanair will offer 50 per cent fewer flights from Berlin."
+    },
+    {
+      "text": "Im Jahr 2026 flogen noch 4,5 Millionen Passagiere mit Ryanair von Berlin.",
+      "translated_text": "In 2026, 4.5 million passengers still flew with Ryanair from Berlin."
+    },
+    {
+      "text": "Im Jahr 2027 werden es nach dieser Entscheidung voraussichtlich nur noch 2,2 Millionen sein.",
+      "translated_text": "In 2027, following this decision, there will likely be only 2.2 million."
+    },
+    {
+      "text": "Ryanair nennt als Hauptgrund die stark steigenden Kosten in Deutschland.",
+      "translated_text": "Ryanair cites the sharply rising costs in Germany as the main reason."
+    },
+    {
+      "text": "Die Luftverkehrssteuer ist von etwa 7,30 Euro auf 15,50 Euro pro Passagier gestiegen.",
+      "translated_text": "The air traffic tax has risen from around 7.30 euros to 15.50 euros per passenger."
+    },
+    {
+      "text": "Auch die Sicherheitsgebühren sollen sich bis 2028 verdoppeln: von 10 auf 20 Euro.",
+      "translated_text": "Security fees are also set to double by 2028: from 10 to 20 euros."
+    },
+    {
+      "text": "Dazu kommen gestiegene Gebühren für die Flugsicherung.",
+      "translated_text": "Added to this are increased charges for air traffic control."
+    },
+    {
+      "text": "Ryanair wird seine Flugzeuge in Länder verlegen, wo die Steuern niedriger sind.",
+      "translated_text": "Ryanair will relocate its aircraft to countries where taxes are lower."
+    },
+    {
+      "text": "Dazu gehören Albanien, Italien, Schweden und die Slowakei.",
+      "translated_text": "These include Albania, Italy, Sweden, and Slovakia."
+    },
+    {
+      "text": "Für die Mitarbeiter in Berlin ist das eine schlechte Nachricht.",
+      "translated_text": "For the employees in Berlin, this is bad news."
+    },
+    {
+      "text": "Ryanair hat Piloten und Kabinenpersonal über die Schließung informiert.",
+      "translated_text": "Ryanair has informed pilots and cabin crew about the closure."
+    },
+    {
+      "text": "Das Unternehmen bietet den betroffenen Mitarbeitern Stellen an anderen Standorten im Netz an.",
+      "translated_text": "The company is offering affected employees positions at other locations in its network."
+    },
+    {
+      "text": "Experten kritisieren die hohen deutschen Flughafengebühren und warnen vor einer sinkenden Wettbewerbsfähigkeit.",
+      "translated_text": "Experts are criticising the high German airport fees and warning of declining competitiveness."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Billigfluggesellschaft",
+      "translated_term": "the budget airline",
+      "example_usage": "Die irische Billigfluggesellschaft Ryanair hat eine wichtige Entscheidung getroffen."
+    },
+    {
+      "term": "abziehen",
+      "translated_term": "to withdraw / to pull out",
+      "example_usage": "Die Airline wird sieben Flugzeuge aus Berlin abziehen."
+    },
+    {
+      "term": "die Luftverkehrssteuer",
+      "translated_term": "the air traffic tax",
+      "example_usage": "Die Luftverkehrssteuer ist von etwa 7,30 Euro auf 15,50 Euro pro Passagier gestiegen."
+    },
+    {
+      "term": "verdoppeln",
+      "translated_term": "to double",
+      "example_usage": "Die Sicherheitsgebühren sollen sich bis 2028 verdoppeln: von 10 auf 20 Euro."
+    },
+    {
+      "term": "verlegen",
+      "translated_term": "to relocate / to move",
+      "example_usage": "Ryanair wird seine Flugzeuge in Länder verlegen, wo die Steuern niedriger sind."
+    },
+    {
+      "term": "die Wettbewerbsfähigkeit",
+      "translated_term": "competitiveness",
+      "example_usage": "Experten warnen vor einer sinkenden Wettbewerbsfähigkeit."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    }
+  ],
+  "sources": [
+    {
+      "name": "AeroTime: Ryanair closes Berlin base blaming high costs",
+      "link_url": "https://www.aerotime.aero/articles/ryanair-closes-berlin-base-blames-high-costs-and-charge-increases"
+    },
+    {
+      "name": "Aviation Source News: Ryanair to Shutter 7-Aircraft Berlin Base from October 2026",
+      "link_url": "https://aviationsourcenews.com/ryanair-to-shutter-7-aircraft-berlin-base-from-october-2026/"
+    },
+    {
+      "name": "Air Data News: Ryanair to close Berlin base and remove seven aircraft over rising airport costs",
+      "link_url": "https://www.airdatanews.com/ryanair-to-close-berlin-base-and-remove-seven-aircraft-over-rising-airport-costs/"
+    }
+  ]
+}

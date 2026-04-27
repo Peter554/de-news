@@ -1,0 +1,130 @@
+{
+  "title": "Deutschlands Wirtschaft leidet unter hohen Energiepreisen",
+  "translated_title": "Germany's Economy Suffers from High Energy Prices",
+  "text": [
+    {
+      "text": "Deutschlands Wirtschaft steckt im April 2026 in einer schwierigen Lage.",
+      "translated_text": "Germany's economy is in a difficult situation in April 2026."
+    },
+    {
+      "text": "Der Hauptgrund dafür sind die stark gestiegenen Energiepreise.",
+      "translated_text": "The main reason for this is the sharply risen energy prices."
+    },
+    {
+      "text": "Diese Energiepreise sind wegen des Krieges gegen den Iran in die Höhe geschossen.",
+      "translated_text": "These energy prices have shot up because of the war against Iran."
+    },
+    {
+      "text": "Der Konflikt in der Straße von Hormus blockiert wichtige Transportwege für Öl und Gas.",
+      "translated_text": "The conflict in the Strait of Hormuz is blocking important transport routes for oil and gas."
+    },
+    {
+      "text": "Das deutsche Wirtschaftsministerium senkte seine Wachstumsprognose für 2026 auf nur noch 0,5 Prozent.",
+      "translated_text": "The German Ministry of Economic Affairs cut its growth forecast for 2026 to just 0.5 per cent."
+    },
+    {
+      "text": "Früher hatte das Ministerium noch ein Wachstum von einem Prozent erwartet.",
+      "translated_text": "Previously, the ministry had expected growth of one per cent."
+    },
+    {
+      "text": "Auch die Inflation steigt: Sie soll in diesem Jahr 2,7 Prozent betragen.",
+      "translated_text": "Inflation is also rising: it is expected to reach 2.7 per cent this year."
+    },
+    {
+      "text": "Die deutschen Verbraucher sind sehr pessimistisch über ihre wirtschaftliche Zukunft.",
+      "translated_text": "German consumers are very pessimistic about their economic future."
+    },
+    {
+      "text": "Der GfK-Konsumklimaindex fiel auf -33,3 – ein Dreijahresting.",
+      "translated_text": "The GfK Consumer Climate Index fell to -33.3 – a three-year low."
+    },
+    {
+      "text": "Die Einkommenserwartungen der Verbraucher sanken dramatisch, von -6,3 auf -24,4.",
+      "translated_text": "Consumer income expectations fell dramatically, from -6.3 to -24.4."
+    },
+    {
+      "text": "Der Benzinpreis stieg auf über zwei Euro pro Liter – zum ersten Mal seit der Energiekrise 2022.",
+      "translated_text": "The petrol price rose to over two euros per litre – for the first time since the energy crisis of 2022."
+    },
+    {
+      "text": "Besonders die Chemie-, Pharma- und Stahlindustrie leiden unter der Krise.",
+      "translated_text": "The chemical, pharmaceutical, and steel industries in particular are suffering from the crisis."
+    },
+    {
+      "text": "Trotzdem gibt es auch gute Nachrichten: Das Technologieunternehmen SAP meldete einen Gewinnanstieg von 17 Prozent.",
+      "translated_text": "Nevertheless, there is also good news: the technology company SAP reported a profit increase of 17 per cent."
+    },
+    {
+      "text": "SAP profitierte von starkem Wachstum in seinem Cloud-Geschäft.",
+      "translated_text": "SAP benefited from strong growth in its cloud business."
+    },
+    {
+      "text": "Auch Siemens Energy erhöhte seine Prognose für das Geschäftsjahr 2026.",
+      "translated_text": "Siemens Energy also raised its forecast for the 2026 financial year."
+    },
+    {
+      "text": "Die Bundesregierung sucht nach Wegen, die Wirtschaft trotz der Energiekrise zu stützen.",
+      "translated_text": "The federal government is looking for ways to support the economy despite the energy crisis."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Wachstumsprognose",
+      "translated_term": "the growth forecast",
+      "example_usage": "Das deutsche Wirtschaftsministerium senkte seine Wachstumsprognose für 2026 auf nur noch 0,5 Prozent."
+    },
+    {
+      "term": "die Inflation",
+      "translated_term": "inflation",
+      "example_usage": "Die Inflation soll in diesem Jahr 2,7 Prozent betragen."
+    },
+    {
+      "term": "der Konsumklimaindex",
+      "translated_term": "the consumer climate index",
+      "example_usage": "Der GfK-Konsumklimaindex fiel auf -33,3 – ein Dreijahresting."
+    },
+    {
+      "term": "pessimistisch",
+      "translated_term": "pessimistic",
+      "example_usage": "Die deutschen Verbraucher sind sehr pessimistisch über ihre wirtschaftliche Zukunft."
+    },
+    {
+      "term": "leiden",
+      "translated_term": "to suffer",
+      "example_usage": "Besonders die Chemie-, Pharma- und Stahlindustrie leiden unter der Krise."
+    },
+    {
+      "term": "stützen",
+      "translated_term": "to support / to prop up",
+      "example_usage": "Die Bundesregierung sucht nach Wegen, die Wirtschaft trotz der Energiekrise zu stützen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Energiekrise",
+      "translated_name": "Energy Crisis"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC: Germany's economy was set to rebound. But soaring energy prices have derailed Europe's biggest comeback",
+      "link_url": "https://www.cnbc.com/2026/04/24/germany-iran-defense-war-energy-oil-price-shock-industry-fiscal-stimulus-middle-east-europe-inflation-growth.html"
+    },
+    {
+      "name": "InvestingLive: Germany May GfK consumer sentiment -33.3 vs -29.3 expected",
+      "link_url": "https://investinglive.com/news/germany-may-gfk-consumer-sentiment-333-vs-293-expected-20260427/"
+    },
+    {
+      "name": "Bundesministerium für Wirtschaft: The Economic Situation in Germany in April 2026",
+      "link_url": "https://www.bundeswirtschaftsministerium.de/Redaktion/EN/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260416-the-economic-situation-in-germany-april-2026.html"
+    }
+  ]
+}

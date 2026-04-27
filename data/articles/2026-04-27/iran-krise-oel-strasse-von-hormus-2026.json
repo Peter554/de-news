@@ -1,0 +1,134 @@
+{
+  "title": "Ölpreise steigen durch Krise in der Straße von Hormus",
+  "translated_title": "Oil Prices Rise Due to Crisis in the Strait of Hormuz",
+  "text": [
+    {
+      "text": "In der Straße von Hormus gibt es einen schweren internationalen Konflikt.",
+      "translated_text": "There is a serious international conflict in the Strait of Hormuz."
+    },
+    {
+      "text": "Die Straße von Hormus ist ein wichtiger Seeweg zwischen dem Persischen Golf und dem Indischen Ozean.",
+      "translated_text": "The Strait of Hormuz is an important sea route between the Persian Gulf and the Indian Ocean."
+    },
+    {
+      "text": "Seit Ende Februar 2026 führen die USA und Israel Luftangriffe gegen den Iran.",
+      "translated_text": "Since the end of February 2026, the USA and Israel have been carrying out air strikes against Iran."
+    },
+    {
+      "text": "Als Reaktion darauf hat der Iran begonnen, Handelsschiffe in der Straße zu blockieren und zu beschlagnahmen.",
+      "translated_text": "In response, Iran has begun blocking and seizing commercial ships in the strait."
+    },
+    {
+      "text": "Die iranische Revolutionsgarde nahm zum Beispiel das Schiff MSC Francesca in Besitz.",
+      "translated_text": "The Iranian Revolutionary Guard seized the vessel MSC Francesca, for example."
+    },
+    {
+      "text": "Die USA reagierten ihrerseits und stoppten mehrere iranische Öltanker.",
+      "translated_text": "The USA in turn responded and stopped several Iranian oil tankers."
+    },
+    {
+      "text": "Durch diese gegenseitige Blockade sind die Ölpreise weltweit stark gestiegen.",
+      "translated_text": "Due to this mutual blockade, oil prices have risen sharply worldwide."
+    },
+    {
+      "text": "Der Preis für ein Barrel Brent-Öl stieg auf über 107 Dollar.",
+      "translated_text": "The price of a barrel of Brent crude oil rose to over 107 dollars."
+    },
+    {
+      "text": "West Texas Intermediate, das amerikanische Öl, kostete über 96 Dollar pro Barrel.",
+      "translated_text": "West Texas Intermediate, the American oil, cost over 96 dollars per barrel."
+    },
+    {
+      "text": "Das sind die höchsten Ölpreise seit vielen Jahren.",
+      "translated_text": "These are the highest oil prices in many years."
+    },
+    {
+      "text": "Die hohen Ölpreise treffen Verbraucher und Unternehmen in ganz Europa hart.",
+      "translated_text": "The high oil prices are hitting consumers and businesses across Europe hard."
+    },
+    {
+      "text": "In Deutschland stiegen die Benzinpreise auf über zwei Euro pro Liter.",
+      "translated_text": "In Germany, petrol prices rose to over two euros per litre."
+    },
+    {
+      "text": "Es gibt jedoch auch Hoffnung auf eine friedliche Lösung.",
+      "translated_text": "However, there is also hope for a peaceful solution."
+    },
+    {
+      "text": "Der Iran hat einen neuen Vorschlag gemacht, um die Blockade zu beenden.",
+      "translated_text": "Iran has made a new proposal to end the blockade."
+    },
+    {
+      "text": "Die USA und der Iran verhandeln weiter über eine mögliche Einigung.",
+      "translated_text": "The USA and Iran continue to negotiate a possible agreement."
+    },
+    {
+      "text": "Viele Länder weltweit hoffen auf eine schnelle Lösung, um die Energieversorgung zu stabilisieren.",
+      "translated_text": "Many countries worldwide are hoping for a quick solution to stabilise energy supplies."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Straße von Hormus",
+      "translated_term": "the Strait of Hormuz",
+      "example_usage": "Die Straße von Hormus ist ein wichtiger Seeweg zwischen dem Persischen Golf und dem Indischen Ozean."
+    },
+    {
+      "term": "beschlagnahmen",
+      "translated_term": "to seize / to confiscate",
+      "example_usage": "Der Iran hat begonnen, Handelsschiffe in der Straße zu beschlagnahmen."
+    },
+    {
+      "term": "das Barrel",
+      "translated_term": "the barrel",
+      "example_usage": "Der Preis für ein Barrel Brent-Öl stieg auf über 107 Dollar."
+    },
+    {
+      "term": "die Blockade",
+      "translated_term": "the blockade",
+      "example_usage": "Durch diese gegenseitige Blockade sind die Ölpreise weltweit stark gestiegen."
+    },
+    {
+      "term": "verhandeln",
+      "translated_term": "to negotiate",
+      "example_usage": "Die USA und der Iran verhandeln weiter über eine mögliche Einigung."
+    },
+    {
+      "term": "die Einigung",
+      "translated_term": "the agreement / the deal",
+      "example_usage": "Der Iran hat einen neuen Vorschlag gemacht, um eine Einigung zu erreichen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Energiekrise",
+      "translated_name": "Energy Crisis"
+    },
+    {
+      "name": "Finanzmärkte",
+      "translated_name": "Financial Markets"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC: U.S.-Iran war evolves into naval standoff over Strait of Hormuz after both countries seize ships",
+      "link_url": "https://www.cnbc.com/2026/04/23/iran-war-strait-hormuz-tanker-traffic-oil.html"
+    },
+    {
+      "name": "Al Jazeera: Oil rises above $106 per barrel as US, Iran deadlocked in Strait of Hormuz",
+      "link_url": "https://www.aljazeera.com/economy/2026/4/24/oil-rises-above-106-per-barrel-as-us-iran-deadlocked-in-strait-of-hormuz"
+    },
+    {
+      "name": "Wikipedia: 2026 Strait of Hormuz crisis",
+      "link_url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
+    }
+  ]
+}
