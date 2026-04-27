@@ -1,0 +1,131 @@
+{
+  "title": "Deutsche Aktivistin Maja T. in Ungarn zu acht Jahren Gefängnis verurteilt",
+  "translated_title": "German Activist Maja T. Sentenced to Eight Years in Prison in Hungary",
+  "text": [
+    {
+      "text": "Ein Gericht in Budapest hat die deutsche Aktivistin Maja T. zu acht Jahren Gefängnis verurteilt.",
+      "translated_text": "A court in Budapest has sentenced the German activist Maja T. to eight years in prison."
+    },
+    {
+      "text": "Maja T. ist 25 Jahre alt und engagiert sich gegen Rechtsextremismus.",
+      "translated_text": "Maja T. is 25 years old and is active against right-wing extremism."
+    },
+    {
+      "text": "Das Gericht verurteilte sie wegen gefährlicher Körperverletzung und Mitgliedschaft in einer kriminellen Organisation.",
+      "translated_text": "The court convicted her of dangerous bodily harm and membership of a criminal organisation."
+    },
+    {
+      "text": "Der Hintergrund: Im Februar 2023 griffen mehrere Personen Teilnehmer einer rechtsextremen Veranstaltung in Budapest an.",
+      "translated_text": "The background: in February 2023, several people attacked participants at a right-wing extremist event in Budapest."
+    },
+    {
+      "text": "Die Veranstaltung heißt Tag der Ehre und gilt als eines der größten Neonazi-Treffen in Europa.",
+      "translated_text": "The event is called 'Day of Honour' and is considered one of the largest neo-Nazi gatherings in Europe."
+    },
+    {
+      "text": "Bei den Angriffen wurden neun Menschen verletzt, vier davon schwer.",
+      "translated_text": "Nine people were injured in the attacks, four of them seriously."
+    },
+    {
+      "text": "Maja T. bestreitet, an den Angriffen beteiligt gewesen zu sein.",
+      "translated_text": "Maja T. denies having been involved in the attacks."
+    },
+    {
+      "text": "Das Gericht hatte keine direkten Zeugen und stützte sein Urteil hauptsächlich auf eine Sicherheitskameraaufnahme.",
+      "translated_text": "The court had no direct witnesses and based its verdict mainly on security camera footage."
+    },
+    {
+      "text": "Auf dem Video ist eine Person mit einem roten Hut zu sehen, die sich in der Nähe des Tatorts aufhält.",
+      "translated_text": "In the video, a person wearing a red hat can be seen near the scene of the crime."
+    },
+    {
+      "text": "Die Auslieferung von Maja T. nach Ungarn war sehr umstritten.",
+      "translated_text": "The extradition of Maja T. to Hungary was very controversial."
+    },
+    {
+      "text": "Das Bundesverfassungsgericht hatte die Auslieferung im Jahr 2025 für rechtswidrig erklärt.",
+      "translated_text": "Germany's Federal Constitutional Court declared the extradition unlawful in 2025."
+    },
+    {
+      "text": "Die deutschen Behörden hatten Maja T. jedoch bereits übergeben, bevor das Urteil des Gerichts kam.",
+      "translated_text": "However, the German authorities had already handed her over before the court's ruling came."
+    },
+    {
+      "text": "Mehrere deutsche Politiker aus der SPD, den Grünen und der Linkspartei bezeichnen das Verfahren als politisch motiviert.",
+      "translated_text": "Several German politicians from the SPD, the Greens, and the Left Party describe the proceedings as politically motivated."
+    },
+    {
+      "text": "Das Urteil ist ein Urteil erster Instanz und kann noch angefochten werden.",
+      "translated_text": "The verdict is a first-instance ruling and can still be appealed."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "verurteilen",
+      "translated_term": "to convict / to sentence",
+      "example_usage": "Das Gericht in Budapest hat Maja T. zu acht Jahren Gefängnis verurteilt."
+    },
+    {
+      "term": "die Körperverletzung",
+      "translated_term": "bodily harm / assault",
+      "example_usage": "Das Gericht verurteilte sie wegen gefährlicher Körperverletzung und Mitgliedschaft in einer kriminellen Organisation."
+    },
+    {
+      "term": "die Auslieferung",
+      "translated_term": "the extradition",
+      "example_usage": "Die Auslieferung von Maja T. nach Ungarn war sehr umstritten."
+    },
+    {
+      "term": "bestreiten",
+      "translated_term": "to deny / to contest",
+      "example_usage": "Maja T. bestreitet, an den Angriffen beteiligt gewesen zu sein."
+    },
+    {
+      "term": "umstritten",
+      "translated_term": "controversial / disputed",
+      "example_usage": "Die Auslieferung von Maja T. nach Ungarn war sehr umstritten."
+    },
+    {
+      "term": "die erste Instanz",
+      "translated_term": "the first instance (court)",
+      "example_usage": "Das Urteil ist ein Urteil erster Instanz und kann noch angefochten werden."
+    },
+    {
+      "term": "anfechten",
+      "translated_term": "to appeal / to challenge",
+      "example_usage": "Das Urteil erster Instanz kann noch angefochten werden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Justiz",
+      "translated_name": "Justice"
+    },
+    {
+      "name": "Ungarn",
+      "translated_name": "Hungary"
+    },
+    {
+      "name": "Extremismus",
+      "translated_name": "Extremism"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Hungary jails German activist for 8 years over attacks on neo-Nazi rally",
+      "link_url": "https://www.aljazeera.com/news/2026/2/4/hungary-jails-german-activist-for-eight-years-over-far-right-rally-attacks"
+    },
+    {
+      "name": "ABC News: Hungarian court sentences German anti-fascist activist to 8 years for far-right rally assaults",
+      "link_url": "https://abcnews.com/International/wireStory/hungarian-court-sentences-german-anti-fascist-activist-8-129849548"
+    },
+    {
+      "name": "Washington Times: German anti-fascist activist sentenced to 8 years in Hungary for far-right rally assaults",
+      "link_url": "https://www.washingtontimes.com/news/2026/feb/4/german-anti-fascist-activist-sentenced-8-years-hungary-far-right/"
+    }
+  ]
+}

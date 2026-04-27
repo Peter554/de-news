@@ -184,6 +184,10 @@
     "translated_name": "Italy"
   },
   {
+    "name": "Japan",
+    "translated_name": "Japan"
+  },
+  {
     "name": "Jugendkriminalität",
     "translated_name": "Youth Crime"
   },
@@ -300,6 +304,10 @@
     "translated_name": "Travel"
   },
   {
+    "name": "Rohstoffe",
+    "translated_name": "Raw Materials"
+  },
+  {
     "name": "Schweiz",
     "translated_name": "Switzerland"
   },
@@ -362,6 +370,10 @@
   {
     "name": "Umweltschutz",
     "translated_name": "Environmental Protection"
+  },
+  {
+    "name": "Ungarn",
+    "translated_name": "Hungary"
   },
   {
     "name": "Unternehmen",
