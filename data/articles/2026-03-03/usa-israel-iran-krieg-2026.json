@@ -1,0 +1,131 @@
+{
+  "title": "USA und Israel greifen Iran an – Ajatollah Chamenei getötet",
+  "translated_title": "USA and Israel Attack Iran – Ayatollah Khamenei Killed",
+  "text": [
+    {
+      "text": "Die USA und Israel haben Ende Februar massive Luftangriffe gegen Iran gestartet.",
+      "translated_text": "The USA and Israel launched massive air strikes against Iran at the end of February."
+    },
+    {
+      "text": "Bei diesen Angriffen wurde der oberste Führer des Iran, Ajatollah Ali Chamenei, getötet.",
+      "translated_text": "In these attacks, Iran's supreme leader, Ayatollah Ali Khamenei, was killed."
+    },
+    {
+      "text": "Chamenei war 86 Jahre alt und seit fast 36 Jahren Oberster Führer des Iran.",
+      "translated_text": "Khamenei was 86 years old and had been Supreme Leader of Iran for almost 36 years."
+    },
+    {
+      "text": "Israel hat innerhalb eines Tages mehr als 1.200 Waffen gegen 24 der 31 Provinzen des Iran eingesetzt.",
+      "translated_text": "Israel used more than 1,200 weapons against 24 of Iran's 31 provinces within a single day."
+    },
+    {
+      "text": "Iran reagierte mit Gegenangriffen auf israelische Städte und US-Militärstützpunkte in der Region.",
+      "translated_text": "Iran responded with counter-attacks on Israeli cities and US military bases in the region."
+    },
+    {
+      "text": "Die Iranischen Revolutionsgarden haben nach eigenen Angaben 27 US-Militärbasen im Nahen Osten angegriffen.",
+      "translated_text": "Iran's Revolutionary Guards claimed to have attacked 27 US military bases in the Middle East."
+    },
+    {
+      "text": "Bis zum 3. März wurden sechs amerikanische Soldaten im Kampf getötet.",
+      "translated_text": "By 3 March, six American soldiers had been killed in combat."
+    },
+    {
+      "text": "US-Präsident Trump schwor, die getöteten Soldaten zu rächen und sagte, die Militäroperationen gegen Iran würden bis zum Erreichen aller Ziele weitergehen.",
+      "translated_text": "US President Trump vowed to avenge the killed soldiers and said military operations against Iran would continue until all objectives were achieved."
+    },
+    {
+      "text": "Der Konflikt breitete sich schnell aus: Es kam zu Explosionen in Dubai, Bahrain und Katar.",
+      "translated_text": "The conflict spread rapidly: explosions occurred in Dubai, Bahrain and Qatar."
+    },
+    {
+      "text": "Das Internationale Flughafen Dubai – einer der verkehrsreichsten der Welt – wurde beschädigt und musste vorübergehend schließen.",
+      "translated_text": "Dubai International Airport – one of the world's busiest – was damaged and had to close temporarily."
+    },
+    {
+      "text": "Iran drohte mit weiteren Angriffen und kündigte an, die Straße von Hormus zu sperren.",
+      "translated_text": "Iran threatened further attacks and announced it would close the Strait of Hormuz."
+    },
+    {
+      "text": "Das wäre eine ernste Gefahr für den weltweiten Öltransport, denn durch diese Meerenge fließt ein großer Teil des Erdöls.",
+      "translated_text": "This would be a serious threat to global oil transport, since a large share of the world's oil passes through this strait."
+    },
+    {
+      "text": "Nach dem Tod Chameneis bildete Iran einen dreiköpfigen Führungsrat, bis ein neuer Oberster Führer gewählt wird.",
+      "translated_text": "Following Khamenei's death, Iran formed a three-person leadership council until a new Supreme Leader is chosen."
+    },
+    {
+      "text": "Der Konflikt bedroht nun mehr als 300 Millionen Menschen in über einem Dutzend Ländern im Nahen Osten.",
+      "translated_text": "The conflict now threatens more than 300 million people in over a dozen countries in the Middle East."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Luftangriff",
+      "translated_term": "the air strike",
+      "example_usage": "Die USA und Israel haben massive Luftangriffe gegen Iran gestartet."
+    },
+    {
+      "term": "der Oberste Führer",
+      "translated_term": "the Supreme Leader",
+      "example_usage": "Ajatollah Ali Chamenei war seit fast 36 Jahren Oberster Führer des Iran."
+    },
+    {
+      "term": "der Militärstützpunkt",
+      "translated_term": "the military base",
+      "example_usage": "Die Iranischen Revolutionsgarden haben 27 US-Militärstützpunkte im Nahen Osten angegriffen."
+    },
+    {
+      "term": "sich ausbreiten",
+      "translated_term": "to spread",
+      "example_usage": "Der Konflikt breitete sich schnell aus und erreichte Dubai, Bahrain und Katar."
+    },
+    {
+      "term": "die Straße von Hormus",
+      "translated_term": "the Strait of Hormuz",
+      "example_usage": "Iran drohte damit, die Straße von Hormus zu sperren."
+    },
+    {
+      "term": "rächen",
+      "translated_term": "to avenge / to take revenge",
+      "example_usage": "US-Präsident Trump schwor, die getöteten Soldaten zu rächen."
+    },
+    {
+      "term": "der Führungsrat",
+      "translated_term": "the leadership council",
+      "example_usage": "Nach dem Tod Chameneis bildete Iran einen dreiköpfigen Führungsrat."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: What we know on day three of US-Israeli attacks on Iran",
+      "link_url": "https://www.aljazeera.com/news/2026/3/2/what-we-know-on-day-three-of-us-israeli-attacks-on-iran"
+    },
+    {
+      "name": "NPR: 3 American troops killed, and Trump says more 'likely,' in war against Iran",
+      "link_url": "https://www.npr.org/2026/03/01/nx-s1-5731365/us-israeli-strikes-region"
+    },
+    {
+      "name": "Washington Post: Danger sprawls over Mideast as U.S., Israel step up strikes, Iran hits back",
+      "link_url": "https://www.washingtonpost.com/world/2026/03/02/mideast-iran-israel-war-civilians/"
+    }
+  ]
+}
