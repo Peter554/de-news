@@ -1,0 +1,131 @@
+{
+  "title": "Trump verschiebt Militärangriffe auf den Iran und spricht von Verhandlungen",
+  "translated_title": "Trump Postpones Military Strikes on Iran and Speaks of Negotiations",
+  "text": [
+    {
+      "text": "US-Präsident Donald Trump hat angekündigt, geplante Militärangriffe auf den Iran vorerst zu verschieben.",
+      "translated_text": "US President Donald Trump has announced that he is postponing planned military strikes against Iran for the time being."
+    },
+    {
+      "text": "Trump sagte, er warte auf die Ergebnisse von Friedensgesprächen, die er als \"sehr produktiv\" bezeichnete.",
+      "translated_text": "Trump said he was waiting for the results of peace talks, which he described as \"very productive\"."
+    },
+    {
+      "text": "Die USA und Israel führen seit 24 Tagen Krieg gegen den Iran.",
+      "translated_text": "The USA and Israel have been at war with Iran for 24 days."
+    },
+    {
+      "text": "Trumps Sonderbeauftragte Steve Witkoff und Jared Kushner sind an den Verhandlungen beteiligt.",
+      "translated_text": "Trump's special envoys Steve Witkoff and Jared Kushner are involved in the negotiations."
+    },
+    {
+      "text": "Das iranische Außenministerium widersprach jedoch Trumps Aussagen und bestritt, dass Verhandlungen stattfinden.",
+      "translated_text": "However, the Iranian foreign ministry contradicted Trump's statements and denied that negotiations were taking place."
+    },
+    {
+      "text": "Teheran erklärte lediglich, Nachrichten über \"befreundete Länder\" erhalten zu haben.",
+      "translated_text": "Tehran stated only that it had received messages through \"friendly countries\"."
+    },
+    {
+      "text": "Der Konflikt hat eine massive Störung der weltweiten Ölversorgung verursacht.",
+      "translated_text": "The conflict has caused a massive disruption to global oil supplies."
+    },
+    {
+      "text": "Die Internationale Energieagentur (IEA) sprach von der schlimmsten Ölkrise seit 1973.",
+      "translated_text": "The International Energy Agency (IEA) spoke of the worst oil crisis since 1973."
+    },
+    {
+      "text": "Die IEA gab 400 Millionen Barrel Rohöl aus ihren Reserven frei, um die Märkte zu stabilisieren.",
+      "translated_text": "The IEA released 400 million barrels of crude oil from its reserves to stabilise the markets."
+    },
+    {
+      "text": "Der Iran drohte damit, die Straße von Hormus zu verminen, falls er angegriffen werde.",
+      "translated_text": "Iran threatened to mine the Strait of Hormuz if it were attacked."
+    },
+    {
+      "text": "Durch die Straße von Hormus fließt ein großer Teil des weltweiten Öls.",
+      "translated_text": "A large share of the world's oil flows through the Strait of Hormuz."
+    },
+    {
+      "text": "Großbritannien rief den iranischen Botschafter ein und kritisierte Teherans Verhalten als \"unverantwortlich\".",
+      "translated_text": "The United Kingdom summoned the Iranian ambassador and criticised Tehran's behaviour as \"irresponsible\"."
+    },
+    {
+      "text": "Premierminister Starmer kündigte an, britische Luftabwehrsysteme in die Region zu schicken.",
+      "translated_text": "Prime Minister Starmer announced that British air defence systems would be sent to the region."
+    },
+    {
+      "text": "Viele Länder fordern eine diplomatische Lösung, um eine weitere Eskalation zu vermeiden.",
+      "translated_text": "Many countries are calling for a diplomatic solution to prevent further escalation."
+    },
+    {
+      "text": "Die Lage in der Region bleibt weiterhin sehr angespannt.",
+      "translated_text": "The situation in the region remains very tense."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "verschieben",
+      "translated_term": "to postpone / to delay",
+      "example_usage": "Trump hat angekündigt, geplante Militärangriffe auf den Iran vorerst zu verschieben."
+    },
+    {
+      "term": "der Angriff",
+      "translated_term": "the attack / strike",
+      "example_usage": "Trump verschiebt Militärangriffe auf den Iran."
+    },
+    {
+      "term": "die Verhandlung",
+      "translated_term": "the negotiation",
+      "example_usage": "Trump sagte, er warte auf die Ergebnisse von Friedensgesprächen."
+    },
+    {
+      "term": "der Sonderbeauftragte",
+      "translated_term": "the special envoy",
+      "example_usage": "Trumps Sonderbeauftragte Steve Witkoff und Jared Kushner sind an den Verhandlungen beteiligt."
+    },
+    {
+      "term": "widersprechen",
+      "translated_term": "to contradict / to deny",
+      "example_usage": "Das iranische Außenministerium widersprach Trumps Aussagen."
+    },
+    {
+      "term": "die Ölversorgung",
+      "translated_term": "the oil supply",
+      "example_usage": "Der Konflikt hat eine massive Störung der weltweiten Ölversorgung verursacht."
+    },
+    {
+      "term": "die Eskalation",
+      "translated_term": "the escalation",
+      "example_usage": "Viele Länder fordern eine diplomatische Lösung, um eine weitere Eskalation zu vermeiden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Trump postpones military strikes on Iranian power plants",
+      "link_url": "https://www.aljazeera.com/news/2026/3/23/trump-postpones-military-strikes-on-iranian-power-plants"
+    },
+    {
+      "name": "Euronews: Iran threatens to destroy regional infrastructure as Israel warns war to last weeks",
+      "link_url": "https://www.euronews.com/2026/03/23/iran-threatens-to-destroy-regional-infrastructure-as-israel-warns-war-to-last-weeks"
+    },
+    {
+      "name": "NPR: Trump says U.S. is in talks with Iran to end the war",
+      "link_url": "https://www.npr.org/2026/03/23/nx-s1-5757172/iran-defiant-trump-hormuz"
+    }
+  ]
+}
