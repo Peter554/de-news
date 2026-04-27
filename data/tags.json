@@ -92,6 +92,10 @@
     "translated_name": "Germany"
   },
   {
+    "name": "Drogenpolitik",
+    "translated_name": "Drug Policy"
+  },
+  {
     "name": "Einwanderungspolitik",
     "translated_name": "Immigration Policy"
   },
@@ -134,6 +138,10 @@
   {
     "name": "Gaza-Konflikt",
     "translated_name": "Gaza Conflict"
+  },
+  {
+    "name": "Gedenkstätten",
+    "translated_name": "Memorials"
   },
   {
     "name": "Gesundheitspolitik",
