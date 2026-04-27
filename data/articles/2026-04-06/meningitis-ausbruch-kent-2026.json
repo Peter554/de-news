@@ -1,0 +1,131 @@
+{
+  "title": "Meningitis-B-Ausbruch in Kent: Gesundheitsnotfall in Großbritannien",
+  "translated_title": "Meningitis B Outbreak in Kent: Health Emergency in Great Britain",
+  "text": [
+    {
+      "text": "In der englischen Stadt Canterbury gibt es einen gefährlichen Gesundheitsnotfall.",
+      "translated_text": "In the English city of Canterbury, there is a dangerous health emergency."
+    },
+    {
+      "text": "Seit einigen Wochen erkranken dort Menschen an Meningitis B.",
+      "translated_text": "For several weeks, people there have been falling ill with meningitis B."
+    },
+    {
+      "text": "Meningitis B ist eine schwere Entzündung des Gehirns und der Hirnhäute.",
+      "translated_text": "Meningitis B is a serious inflammation of the brain and its membranes."
+    },
+    {
+      "text": "Bis zum 6. April wurden 21 Krankheitsfälle bestätigt.",
+      "translated_text": "By April 6, 21 cases of the disease had been confirmed."
+    },
+    {
+      "text": "Zwei Menschen sind bereits an der Krankheit gestorben.",
+      "translated_text": "Two people have already died from the disease."
+    },
+    {
+      "text": "Viele Fälle stehen in Verbindung mit einem Nachtclub namens Club Chemistry.",
+      "translated_text": "Many cases are connected to a nightclub called Club Chemistry."
+    },
+    {
+      "text": "Besonders junge Menschen und Studierende sind betroffen.",
+      "translated_text": "Especially young people and students are affected."
+    },
+    {
+      "text": "Die Universität Kent und die Stadt Canterbury haben viele junge Menschen.",
+      "translated_text": "The University of Kent and the city of Canterbury have many young people."
+    },
+    {
+      "text": "Die britische Gesundheitsbehörde UKHSA reagierte schnell auf den Ausbruch.",
+      "translated_text": "The British health authority UKHSA responded quickly to the outbreak."
+    },
+    {
+      "text": "Mehr als 10.500 Menschen bekamen Antibiotika, um eine Ansteckung zu verhindern.",
+      "translated_text": "More than 10,500 people received antibiotics to prevent infection."
+    },
+    {
+      "text": "Außerdem wurden über 4.500 Menschen geimpft.",
+      "translated_text": "In addition, more than 4,500 people were vaccinated."
+    },
+    {
+      "text": "Die Weltgesundheitsorganisation WHO beurteilte das Risiko für andere europäische Länder als sehr gering.",
+      "translated_text": "The World Health Organization WHO assessed the risk for other European countries as very low."
+    },
+    {
+      "text": "Meningitis B kann sehr schnell gefährlich werden.",
+      "translated_text": "Meningitis B can become dangerous very quickly."
+    },
+    {
+      "text": "Die Krankheit beginnt oft mit Fieber, Kopfschmerzen und einem steifen Nacken.",
+      "translated_text": "The disease often begins with fever, headache, and a stiff neck."
+    },
+    {
+      "text": "Die Behörden raten allen, die Symptome haben, sofort zum Arzt zu gehen.",
+      "translated_text": "The authorities advise anyone who has symptoms to go to a doctor immediately."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Entzündung",
+      "translated_term": "the inflammation",
+      "example_usage": "Meningitis B ist eine schwere Entzündung des Gehirns und der Hirnhäute."
+    },
+    {
+      "term": "der Ausbruch",
+      "translated_term": "the outbreak",
+      "example_usage": "Die britische Gesundheitsbehörde reagierte schnell auf den Ausbruch."
+    },
+    {
+      "term": "die Ansteckung",
+      "translated_term": "the infection / contagion",
+      "example_usage": "Mehr als 10.500 Menschen bekamen Antibiotika, um eine Ansteckung zu verhindern."
+    },
+    {
+      "term": "impfen",
+      "translated_term": "to vaccinate",
+      "example_usage": "Außerdem wurden über 4.500 Menschen geimpft."
+    },
+    {
+      "term": "die Behörde",
+      "translated_term": "the authority",
+      "example_usage": "Die Behörden raten allen, die Symptome haben, sofort zum Arzt zu gehen."
+    },
+    {
+      "term": "betreffen",
+      "translated_term": "to affect",
+      "example_usage": "Besonders junge Menschen und Studierende sind betroffen."
+    },
+    {
+      "term": "bestätigen",
+      "translated_term": "to confirm",
+      "example_usage": "Bis zum 6. April wurden 21 Krankheitsfälle bestätigt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Gesundheitspolitik",
+      "translated_name": "Health Policy"
+    },
+    {
+      "name": "Öffentliche Gesundheit",
+      "translated_name": "Public Health"
+    }
+  ],
+  "sources": [
+    {
+      "name": "WHO Europe: Meningitis B outbreak in the United Kingdom",
+      "link_url": "https://www.who.int/europe/news/item/25-03-2026-meningitis-b-outbreak-in-the-united-kingdom"
+    },
+    {
+      "name": "GOV.UK: Cases of invasive meningococcal disease confirmed in Kent",
+      "link_url": "https://www.gov.uk/government/news/cases-of-invasive-meningococcal-disease-confirmed-in-kent"
+    },
+    {
+      "name": "NHS England: Outbreak of meningococcal disease linked to University of Kent and the area of Canterbury",
+      "link_url": "https://www.england.nhs.uk/long-read/outbreak-of-meningococcal-disease-linked-to-university-of-kent-and-the-area-of-canterbury/"
+    }
+  ]
+}
