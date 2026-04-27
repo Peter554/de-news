@@ -1,0 +1,131 @@
+{
+  "title": "US-Gericht: Ticketmaster und Live Nation haben illegales Monopol",
+  "translated_title": "US Court: Ticketmaster and Live Nation Have an Illegal Monopoly",
+  "text": [
+    {
+      "text": "Ein Gericht in New York hat ein wichtiges Urteil gefällt.",
+      "translated_text": "A court in New York has delivered an important verdict."
+    },
+    {
+      "text": "Eine Jury entschied, dass Ticketmaster und sein Mutterkonzern Live Nation ein illegales Monopol betreiben.",
+      "translated_text": "A jury decided that Ticketmaster and its parent company Live Nation operate an illegal monopoly."
+    },
+    {
+      "text": "Das Urteil wurde nach einem fünfwöchigen Prozess gesprochen.",
+      "translated_text": "The verdict was delivered after a five-week trial."
+    },
+    {
+      "text": "Das US-Justizministerium und viele US-Bundesstaaten hatten die Klage 2024 eingereicht.",
+      "translated_text": "The US Department of Justice and many US states had filed the lawsuit in 2024."
+    },
+    {
+      "text": "Die Jury stellte fest, dass Ticketmaster seine Marktmacht missbraucht hat.",
+      "translated_text": "The jury found that Ticketmaster had abused its market power."
+    },
+    {
+      "text": "Dadurch wurden Konzertbesucher zu viel bezahlt.",
+      "translated_text": "As a result, concertgoers were overcharged."
+    },
+    {
+      "text": "Die Jury berechnete, dass Ticketmaster pro Ticket etwa 1,72 Dollar zu viel verlangt hat.",
+      "translated_text": "The jury calculated that Ticketmaster charged approximately $1.72 too much per ticket."
+    },
+    {
+      "text": "Live Nation und Ticketmaster fusionierten im Jahr 2010 zu einem riesigen Unternehmen.",
+      "translated_text": "Live Nation and Ticketmaster merged in 2010 to form a huge company."
+    },
+    {
+      "text": "Seitdem kontrollieren sie einen großen Teil des Konzertticketing-Marktes in den USA.",
+      "translated_text": "Since then, they have controlled a large part of the concert ticketing market in the USA."
+    },
+    {
+      "text": "Kritiker sagen seit Jahren, dass diese Situation schlecht für Verbraucher ist.",
+      "translated_text": "Critics have been saying for years that this situation is bad for consumers."
+    },
+    {
+      "text": "Live Nation reagierte trotzig auf das Urteil.",
+      "translated_text": "Live Nation reacted defiantly to the verdict."
+    },
+    {
+      "text": "Das Unternehmen kündigte an, gegen das Ergebnis zu kämpfen.",
+      "translated_text": "The company announced it would fight the outcome."
+    },
+    {
+      "text": "Viele Politiker und Verbraucherschützer fordern nun eine Aufspaltung des Konzerns.",
+      "translated_text": "Many politicians and consumer advocates are now calling for the break-up of the company."
+    },
+    {
+      "text": "Das würde bedeuten, dass Live Nation und Ticketmaster wieder getrennte Unternehmen werden.",
+      "translated_text": "This would mean that Live Nation and Ticketmaster would become separate companies again."
+    },
+    {
+      "text": "Ob es dazu kommt, wird in den nächsten Monaten entschieden.",
+      "translated_text": "Whether this happens will be decided in the coming months."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Monopol",
+      "translated_term": "the monopoly",
+      "example_usage": "Eine Jury entschied, dass Ticketmaster und Live Nation ein illegales Monopol betreiben."
+    },
+    {
+      "term": "das Urteil",
+      "translated_term": "the verdict / ruling",
+      "example_usage": "Ein Gericht in New York hat ein wichtiges Urteil gefällt."
+    },
+    {
+      "term": "die Marktmacht",
+      "translated_term": "the market power",
+      "example_usage": "Die Jury stellte fest, dass Ticketmaster seine Marktmacht missbraucht hat."
+    },
+    {
+      "term": "fusionieren",
+      "translated_term": "to merge",
+      "example_usage": "Live Nation und Ticketmaster fusionierten im Jahr 2010 zu einem riesigen Unternehmen."
+    },
+    {
+      "term": "die Aufspaltung",
+      "translated_term": "the break-up / splitting up",
+      "example_usage": "Viele Politiker und Verbraucherschützer fordern nun eine Aufspaltung des Konzerns."
+    },
+    {
+      "term": "der Verbraucherschützer",
+      "translated_term": "the consumer advocate",
+      "example_usage": "Viele Politiker und Verbraucherschützer fordern nun eine Aufspaltung des Konzerns."
+    },
+    {
+      "term": "die Klage",
+      "translated_term": "the lawsuit",
+      "example_usage": "Das US-Justizministerium hatte die Klage 2024 eingereicht."
+    }
+  ],
+  "tags": [
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Justiz",
+      "translated_name": "Justice"
+    },
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN Politics: Jury finds Live Nation and Ticketmaster operated as a monopoly and overcharged fans",
+      "link_url": "https://www.cnn.com/2026/04/15/politics/ticketmaster-live-nation-monopoly-verdict"
+    },
+    {
+      "name": "NPR: Ticketmaster-Live Nation monopoly verdict impact on ticket prices",
+      "link_url": "https://www.npr.org/2026/04/16/nx-s1-5787491/ticketmaster-live-nation-verdict-monopoly-remedies"
+    },
+    {
+      "name": "Variety: Live Nation and Ticketmaster Held Illegal Monopoly in Ticketing Market, Jury Finds",
+      "link_url": "https://variety.com/2026/music/news/live-nation-ticketmaster-illegal-monopoly-ticketing-market-1236713409/"
+    }
+  ]
+}

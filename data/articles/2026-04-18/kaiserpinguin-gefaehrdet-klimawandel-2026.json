@@ -1,0 +1,131 @@
+{
+  "title": "Kaiserpinguin offiziell als gefährdet eingestuft",
+  "translated_title": "Emperor Penguin Officially Listed as Endangered",
+  "text": [
+    {
+      "text": "Der Kaiserpinguin steht jetzt auf der Roten Liste der bedrohten Tierarten.",
+      "translated_text": "The emperor penguin is now on the Red List of threatened species."
+    },
+    {
+      "text": "Die Weltnaturschutzunion IUCN hat diese Entscheidung Anfang April bekannt gegeben.",
+      "translated_text": "The International Union for Conservation of Nature (IUCN) announced this decision at the beginning of April."
+    },
+    {
+      "text": "Früher galt der Kaiserpinguin als 'nicht gefährdet'.",
+      "translated_text": "Previously, the emperor penguin was considered \"not endangered\"."
+    },
+    {
+      "text": "Jetzt ist er in die Kategorie 'gefährdet' hochgestuft worden.",
+      "translated_text": "It has now been upgraded to the \"endangered\" category."
+    },
+    {
+      "text": "Der Hauptgrund dafür ist der Klimawandel.",
+      "translated_text": "The main reason for this is climate change."
+    },
+    {
+      "text": "Durch den Klimawandel schmilzt das Meereis in der Antarktis immer schneller.",
+      "translated_text": "Due to climate change, the sea ice in Antarctica is melting faster and faster."
+    },
+    {
+      "text": "Der Kaiserpinguin braucht dieses Eis zum Leben und zur Aufzucht seiner Jungtiere.",
+      "translated_text": "The emperor penguin needs this ice to live and to raise its young."
+    },
+    {
+      "text": "Wenn das Eis zu früh im Frühling bricht, sterben die Küken, weil sie noch nicht schwimmen können.",
+      "translated_text": "If the ice breaks too early in spring, the chicks die because they cannot yet swim."
+    },
+    {
+      "text": "Satellitenbilder zeigen, dass zwischen 2009 und 2018 etwa zehn Prozent der Population verschwunden sind.",
+      "translated_text": "Satellite images show that approximately ten percent of the population disappeared between 2009 and 2018."
+    },
+    {
+      "text": "Das entspricht mehr als 20.000 ausgewachsenen Pinguinen.",
+      "translated_text": "That corresponds to more than 20,000 adult penguins."
+    },
+    {
+      "text": "Wissenschaftler warnen, dass sich die Population bis in die 2080er Jahre halbieren könnte.",
+      "translated_text": "Scientists warn that the population could halve by the 2080s."
+    },
+    {
+      "text": "Auch der antarktische Pelzrobbe wurde auf der gleichen Roten Liste als gefährdet eingestuft.",
+      "translated_text": "The Antarctic fur seal was also listed as endangered on the same Red List."
+    },
+    {
+      "text": "Beide Tiere leiden unter denselben Problemen: weniger Eis und weniger Nahrung.",
+      "translated_text": "Both animals suffer from the same problems: less ice and less food."
+    },
+    {
+      "text": "Umweltschützer sagen, der einzige Weg, die Kaiserpinguine zu retten, ist die Bekämpfung des Klimawandels.",
+      "translated_text": "Environmentalists say the only way to save the emperor penguins is to combat climate change."
+    },
+    {
+      "text": "Dafür müssen die weltweiten Treibhausgasemissionen stark reduziert werden.",
+      "translated_text": "For this, global greenhouse gas emissions must be significantly reduced."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Kaiserpinguin",
+      "translated_term": "the emperor penguin",
+      "example_usage": "Der Kaiserpinguin steht jetzt auf der Roten Liste der bedrohten Tierarten."
+    },
+    {
+      "term": "die Rote Liste",
+      "translated_term": "the Red List",
+      "example_usage": "Die IUCN hat die Rote Liste der bedrohten Tierarten aktualisiert."
+    },
+    {
+      "term": "gefährdet",
+      "translated_term": "endangered",
+      "example_usage": "Der Kaiserpinguin ist jetzt in die Kategorie 'gefährdet' hochgestuft worden."
+    },
+    {
+      "term": "das Meereis",
+      "translated_term": "the sea ice",
+      "example_usage": "Durch den Klimawandel schmilzt das Meereis in der Antarktis immer schneller."
+    },
+    {
+      "term": "die Aufzucht",
+      "translated_term": "the rearing / raising (of young)",
+      "example_usage": "Der Kaiserpinguin braucht dieses Eis zum Leben und zur Aufzucht seiner Jungtiere."
+    },
+    {
+      "term": "hochstufen",
+      "translated_term": "to upgrade / to reclassify to a higher level",
+      "example_usage": "Der Kaiserpinguin ist auf die Kategorie 'gefährdet' hochgestuft worden."
+    },
+    {
+      "term": "die Treibhausgasemissionen",
+      "translated_term": "the greenhouse gas emissions",
+      "example_usage": "Die weltweiten Treibhausgasemissionen müssen stark reduziert werden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Umweltschutz",
+      "translated_name": "Environmental Protection"
+    },
+    {
+      "name": "Klimapolitik",
+      "translated_name": "Climate Policy"
+    },
+    {
+      "name": "Wissenschaft",
+      "translated_name": "Science"
+    }
+  ],
+  "sources": [
+    {
+      "name": "IUCN: Emperor penguin and Antarctic fur seal now Endangered due to climate change",
+      "link_url": "https://iucn.org/press-release/202604/emperor-penguin-and-antarctic-fur-seal-now-endangered-due-climate-change-iucn"
+    },
+    {
+      "name": "CNN: Emperor penguins and Antarctic fur seals have been driven to endangered status by a warming planet",
+      "link_url": "https://www.cnn.com/2026/04/09/climate/emperor-penguins-fur-seals-antarctic-endangered"
+    },
+    {
+      "name": "Washington Post: The emperor penguin and Antarctic fur seal have been declared endangered",
+      "link_url": "https://www.washingtonpost.com/climate-environment/2026/04/09/emperor-penguin-endangered-antarctic-fur-seal/"
+    }
+  ]
+}
