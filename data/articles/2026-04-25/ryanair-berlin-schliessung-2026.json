@@ -1,0 +1,122 @@
+{
+  "title": "Ryanair schließt seinen Stützpunkt am Berliner Flughafen BER",
+  "translated_title": "Ryanair Closes Its Base at Berlin Airport BER",
+  "text": [
+    {
+      "text": "Die irische Billigfluggesellschaft Ryanair hat angekündigt, ihren Stützpunkt am Berliner Flughafen BER zu schließen.",
+      "translated_text": "The Irish low-cost airline Ryanair has announced that it will close its base at Berlin Airport BER."
+    },
+    {
+      "text": "Die Schließung soll am 24. Oktober 2026 in Kraft treten.",
+      "translated_text": "The closure is due to take effect on 24 October 2026."
+    },
+    {
+      "text": "Ryanair kritisiert die hohen Kosten in Deutschland und nennt die deutsche Luftfahrt \"kaputt\".",
+      "translated_text": "Ryanair criticises the high costs in Germany and calls German aviation \"broken\"."
+    },
+    {
+      "text": "Sieben Flugzeuge, die derzeit in Berlin stationiert sind, werden in andere europäische Stützpunkte verlegt.",
+      "translated_text": "Seven aircraft currently based in Berlin will be relocated to other European bases."
+    },
+    {
+      "text": "Sie gehen vor allem in Länder, die die Flughafengebühren gesenkt haben, wie Schweden, Italien, Albanien und die Slowakei.",
+      "translated_text": "They will mainly go to countries that have reduced airport fees, such as Sweden, Italy, Albania, and Slovakia."
+    },
+    {
+      "text": "Ryanair wird sein Angebot in Berlin im Winter 2026 um 50 Prozent reduzieren.",
+      "translated_text": "Ryanair will cut its offer in Berlin by 50 per cent in winter 2026."
+    },
+    {
+      "text": "Das ist ein großer Verlust für die Verbindungen der deutschen Hauptstadt.",
+      "translated_text": "That is a major loss for the connectivity of the German capital."
+    },
+    {
+      "text": "Der Hauptgrund für die Schließung sind die gestiegenen Flughafengebühren.",
+      "translated_text": "The main reason for the closure is the rise in airport fees."
+    },
+    {
+      "text": "Seit 2019 sind die Gebühren am Berliner Flughafen um 50 Prozent gestiegen.",
+      "translated_text": "Since 2019, fees at Berlin Airport have risen by 50 per cent."
+    },
+    {
+      "text": "Außerdem hat der Flughafen eine weitere Erhöhung um zehn Prozent für den Zeitraum 2027 bis 2029 angekündigt.",
+      "translated_text": "In addition, the airport has announced a further ten per cent increase for the period 2027 to 2029."
+    },
+    {
+      "text": "Ryanair-Chef Eddie Wilson nannte diese Erhöhung \"den letzten Tropfen\".",
+      "translated_text": "Ryanair CEO Eddie Wilson called this increase \"the last straw\"."
+    },
+    {
+      "text": "Etwa 210 Piloten und Flugbegleiter werden ihren Job in Berlin verlieren.",
+      "translated_text": "Around 210 pilots and flight attendants will lose their jobs in Berlin."
+    },
+    {
+      "text": "Ryanair hat rechtlich vorgeschriebene Konsultationen mit dem Personal begonnen.",
+      "translated_text": "Ryanair has begun legally required consultations with its staff."
+    },
+    {
+      "text": "Dies ist bereits der vierte Stützpunkt, den Ryanair in Deutschland schließt.",
+      "translated_text": "This is already the fourth base that Ryanair is closing in Germany."
+    },
+    {
+      "text": "Heute betreibt Ryanair in Deutschland 20 Flugzeuge weniger als noch im Jahr 2019.",
+      "translated_text": "Today Ryanair operates 20 fewer aircraft in Germany than it did in 2019."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Stützpunkt",
+      "translated_term": "the base",
+      "example_usage": "Ryanair hat angekündigt, ihren Stützpunkt am Berliner Flughafen BER zu schließen."
+    },
+    {
+      "term": "stationieren",
+      "translated_term": "to station / to base",
+      "example_usage": "Sieben Flugzeuge, die derzeit in Berlin stationiert sind, werden verlegt."
+    },
+    {
+      "term": "die Flughafengebühren",
+      "translated_term": "the airport fees",
+      "example_usage": "Seit 2019 sind die Gebühren am Berliner Flughafen um 50 Prozent gestiegen."
+    },
+    {
+      "term": "verlegen",
+      "translated_term": "to relocate / to transfer",
+      "example_usage": "Sieben Flugzeuge werden in andere europäische Stützpunkte verlegt."
+    },
+    {
+      "term": "der Flugbegleiter",
+      "translated_term": "the flight attendant",
+      "example_usage": "Etwa 210 Piloten und Flugbegleiter werden ihren Job in Berlin verlieren."
+    },
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Ryanair hat angekündigt, ihren Stützpunkt am Berliner Flughafen BER zu schließen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg: Ryanair to Abandon Berlin Base, Calls German Aviation 'Broken'",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-04-24/ryanair-to-abandon-berlin-base-calls-german-aviation-broken"
+    },
+    {
+      "name": "Aerotime: Ryanair closes Berlin base, blames high costs and charge increases",
+      "link_url": "https://www.aerotime.aero/articles/ryanair-closes-berlin-base-blames-high-costs-and-charge-increases"
+    }
+  ]
+}

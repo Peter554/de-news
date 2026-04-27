@@ -1,0 +1,122 @@
+{
+  "title": "Frankfurter Flughafen eröffnet neues Terminal 3 für vier Milliarden Euro",
+  "translated_title": "Frankfurt Airport Opens New Terminal 3 Costing Four Billion Euros",
+  "text": [
+    {
+      "text": "Der Frankfurter Flughafen hat ein neues Terminal eröffnet.",
+      "translated_text": "Frankfurt Airport has opened a new terminal."
+    },
+    {
+      "text": "Das neue Terminal 3 wurde am 22. April 2026 offiziell eingeweiht.",
+      "translated_text": "The new Terminal 3 was officially inaugurated on 22 April 2026."
+    },
+    {
+      "text": "Über 400 Gäste aus Politik, Wirtschaft und der Luftfahrtbranche nahmen an der Feier teil.",
+      "translated_text": "More than 400 guests from politics, business, and the aviation industry attended the ceremony."
+    },
+    {
+      "text": "Der reguläre Betrieb begann am 23. April 2026.",
+      "translated_text": "Regular operations began on 23 April 2026."
+    },
+    {
+      "text": "Das Projekt hat vier Milliarden Euro gekostet.",
+      "translated_text": "The project cost four billion euros."
+    },
+    {
+      "text": "Der Bau begann im Oktober 2015 – das sind über zehn Jahre Bauzeit.",
+      "translated_text": "Construction began in October 2015 – that is more than ten years of building."
+    },
+    {
+      "text": "Das neue Terminal kann zunächst bis zu 19 Millionen Passagiere pro Jahr abfertigen.",
+      "translated_text": "The new terminal can initially handle up to 19 million passengers per year."
+    },
+    {
+      "text": "In einer späteren Phase soll die Kapazität auf 25 Millionen Passagiere erweitert werden.",
+      "translated_text": "In a later phase, the capacity is to be expanded to 25 million passengers."
+    },
+    {
+      "text": "Es ist eines der größten privat finanzierten Flughafenprojekte in Europa.",
+      "translated_text": "It is one of the largest privately funded airport projects in Europe."
+    },
+    {
+      "text": "57 Fluggesellschaften ziehen in vier Phasen bis zum 9. Juni ins Terminal 3 um.",
+      "translated_text": "57 airlines are moving into Terminal 3 in four phases by 9 June."
+    },
+    {
+      "text": "Am Eröffnungstag zogen die ersten 13 Fluggesellschaften um, darunter Cathay Pacific und Qatar Airways.",
+      "translated_text": "On the opening day, the first 13 airlines moved in, including Cathay Pacific and Qatar Airways."
+    },
+    {
+      "text": "Das Terminal hat moderne Sicherheitsscanner, bei denen Passagiere Laptops und Flüssigkeiten nicht aus dem Gepäck nehmen müssen.",
+      "translated_text": "The terminal has modern security scanners where passengers do not need to take laptops and liquids out of their bags."
+    },
+    {
+      "text": "Es gibt auch biometrische E-Gates, die mit dem neuen EU-Einreisesystem verbunden sind.",
+      "translated_text": "There are also biometric e-gates connected to the new EU Entry/Exit System."
+    },
+    {
+      "text": "Die Eröffnung kommt zu einem schwierigen Zeitpunkt für die deutsche Luftfahrtbranche.",
+      "translated_text": "The opening comes at a difficult time for the German aviation industry."
+    },
+    {
+      "text": "Hohe Kosten haben dazu geführt, dass viele Fluggesellschaften ihr Angebot in Deutschland reduziert haben.",
+      "translated_text": "High costs have led many airlines to reduce their operations in Germany."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "einweihen",
+      "translated_term": "to inaugurate / to open officially",
+      "example_usage": "Das neue Terminal 3 wurde am 22. April 2026 offiziell eingeweiht."
+    },
+    {
+      "term": "die Kapazität",
+      "translated_term": "the capacity",
+      "example_usage": "Die Kapazität soll auf 25 Millionen Passagiere erweitert werden."
+    },
+    {
+      "term": "die Fluggesellschaft",
+      "translated_term": "the airline",
+      "example_usage": "57 Fluggesellschaften ziehen in vier Phasen bis zum 9. Juni ins Terminal 3 um."
+    },
+    {
+      "term": "abfertigen",
+      "translated_term": "to handle / to process (passengers)",
+      "example_usage": "Das neue Terminal kann zunächst bis zu 19 Millionen Passagiere pro Jahr abfertigen."
+    },
+    {
+      "term": "biometrisch",
+      "translated_term": "biometric",
+      "example_usage": "Es gibt biometrische E-Gates, die mit dem neuen EU-Einreisesystem verbunden sind."
+    },
+    {
+      "term": "umziehen",
+      "translated_term": "to move (to a new place)",
+      "example_usage": "Am Eröffnungstag zogen die ersten 13 Fluggesellschaften um."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Luftverkehr",
+      "translated_name": "Air Traffic"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews: Frankfurt Airport's new Terminal 3 is opening – here's what to expect",
+      "link_url": "https://www.euronews.com/travel/2026/04/22/frankfurt-airports-new-terminal-3-is-opening-heres-what-to-expect"
+    },
+    {
+      "name": "VisaHQ: Frankfurt Airport Inaugurates €4 Billion Terminal 3",
+      "link_url": "https://www.visahq.com/news/2026-04-23/de/frankfurt-airport-inaugurates-4-billion-terminal-3-first-flights-begin-23-april/"
+    }
+  ]
+}
