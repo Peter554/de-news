@@ -1,0 +1,122 @@
+{
+  "title": "Iran-Krieg treibt Energiepreise in Deutschland in die Höhe",
+  "translated_title": "Iran war drives energy prices up in Germany",
+  "text": [
+    {
+      "text": "Der Krieg zwischen den USA, Israel und dem Iran hat schwere Folgen für die deutschen Energiepreise.",
+      "translated_text": "The war between the USA, Israel and Iran has serious consequences for German energy prices."
+    },
+    {
+      "text": "Benzin und Diesel kosten in Deutschland erstmals seit 2022 wieder mehr als zwei Euro pro Liter.",
+      "translated_text": "Petrol and diesel cost more than two euros per litre in Germany for the first time since 2022."
+    },
+    {
+      "text": "Der europäische Gaspreis (TTF) ist seit Beginn des Konflikts um mehr als 50 Prozent gestiegen.",
+      "translated_text": "The European gas price (TTF) has risen by more than 50 percent since the start of the conflict."
+    },
+    {
+      "text": "Der Grund ist die Sperrung der Meerenge von Hormuz, durch die ein Fünftel des weltweiten Öls und Gases fließt.",
+      "translated_text": "The reason is the closure of the Strait of Hormuz, through which one fifth of the world's oil and gas flows."
+    },
+    {
+      "text": "Die deutsche Regierung hat eine Arbeitsgruppe gegründet, um die Situation zu beobachten.",
+      "translated_text": "The German government has set up a working group to monitor the situation."
+    },
+    {
+      "text": "Bisher hat die Regierung Forderungen nach Steuersenkungen auf Kraftstoffe abgelehnt.",
+      "translated_text": "So far, the government has rejected demands for fuel tax cuts."
+    },
+    {
+      "text": "Ökonomen warnen, dass die deutsche Inflation auf sechs Prozent steigen könnte.",
+      "translated_text": "Economists warn that German inflation could rise to six percent."
+    },
+    {
+      "text": "Deutschlands Gasspeicher sind derzeit nur zu 20 Prozent gefüllt – ein kritisch niedriger Stand.",
+      "translated_text": "Germany's gas storage facilities are currently only 20 percent full – a critically low level."
+    },
+    {
+      "text": "Experten befürchten, dass ein langer Krieg Deutschland in eine vierte Rezession treiben könnte.",
+      "translated_text": "Experts fear that a long war could push Germany into a fourth recession."
+    },
+    {
+      "text": "Die Bundesregierung prüft Maßnahmen, um die Bürger vor den steigenden Kosten zu schützen.",
+      "translated_text": "The federal government is examining measures to protect citizens from rising costs."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Folge",
+      "translated_term": "the consequence",
+      "example_usage": "Der Krieg hat schwere Folgen für die deutschen Energiepreise."
+    },
+    {
+      "term": "der Kraftstoff",
+      "translated_term": "the fuel",
+      "example_usage": "Bisher hat die Regierung Forderungen nach Steuersenkungen auf Kraftstoffe abgelehnt."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise / to increase",
+      "example_usage": "Der europäische Gaspreis ist seit Beginn des Konflikts um mehr als 50 Prozent gestiegen."
+    },
+    {
+      "term": "die Sperrung",
+      "translated_term": "the closure / the blockade",
+      "example_usage": "Der Grund ist die Sperrung der Meerenge von Hormuz."
+    },
+    {
+      "term": "die Arbeitsgruppe",
+      "translated_term": "the working group / task force",
+      "example_usage": "Die deutsche Regierung hat eine Arbeitsgruppe gegründet, um die Situation zu beobachten."
+    },
+    {
+      "term": "ablehnen",
+      "translated_term": "to reject",
+      "example_usage": "Bisher hat die Regierung Forderungen nach Steuersenkungen auf Kraftstoffe abgelehnt."
+    },
+    {
+      "term": "die Inflation",
+      "translated_term": "the inflation",
+      "example_usage": "Ökonomen warnen, dass die deutsche Inflation auf sechs Prozent steigen könnte."
+    },
+    {
+      "term": "der Gasspeicher",
+      "translated_term": "the gas storage facility",
+      "example_usage": "Deutschlands Gasspeicher sind derzeit nur zu 20 Prozent gefüllt."
+    },
+    {
+      "term": "die Rezession",
+      "translated_term": "the recession",
+      "example_usage": "Experten befürchten, dass ein langer Krieg Deutschland in eine vierte Rezession treiben könnte."
+    },
+    {
+      "term": "befürchten",
+      "translated_term": "to fear / to be worried about",
+      "example_usage": "Experten befürchten, dass ein langer Krieg Deutschland in eine vierte Rezession treiben könnte."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Energiepolitik",
+      "translated_name": "Energy Policy"
+    },
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Clean Energy Wire",
+      "link_url": "https://www.cleanenergywire.org/news/oil-and-gas-price-spikes-iran-war-reignite-debate-over-cost-relief-germany"
+    },
+    {
+      "name": "Newsworm",
+      "link_url": "https://www.newsworm.de/news/iran-war-could-drive-german-inflation-to-six-percent-and-push-economy-into-fourth-recession"
+    }
+  ]
+}

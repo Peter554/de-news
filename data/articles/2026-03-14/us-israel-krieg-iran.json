@@ -1,0 +1,122 @@
+{
+  "title": "USA und Israel im Krieg gegen Iran – Tag 15",
+  "translated_title": "USA and Israel at War with Iran – Day 15",
+  "text": [
+    {
+      "text": "Seit dem 28. Februar 2026 führen die USA und Israel Militärangriffe gegen den Iran durch.",
+      "translated_text": "Since February 28, 2026, the USA and Israel have been carrying out military strikes against Iran."
+    },
+    {
+      "text": "Am 14. März – Tag 15 des Krieges – meldete US-Präsident Trump, dass die Streitkräfte die Ölanlage auf der Insel Kharg zerstört haben.",
+      "translated_text": "On March 14 – day 15 of the war – US President Trump reported that the armed forces had destroyed the oil facility on Kharg Island."
+    },
+    {
+      "text": "Die Meerenge von Hormuz, durch die etwa ein Fünftel des weltweiten Öls transportiert wird, ist weiterhin gesperrt.",
+      "translated_text": "The Strait of Hormuz, through which approximately one fifth of the world's oil is transported, remains blocked."
+    },
+    {
+      "text": "Der Ölpreis ist seit Kriegsbeginn um mehr als 40 Prozent gestiegen.",
+      "translated_text": "The oil price has risen by more than 40 percent since the start of the war."
+    },
+    {
+      "text": "Das iranische Gesundheitsministerium berichtet von mindestens 1.444 Toten und über 18.000 Verletzten.",
+      "translated_text": "Iran's health ministry reports at least 1,444 dead and over 18,000 injured."
+    },
+    {
+      "text": "Der neue iranische Oberste Führer Mojtaba Khamenei drohte, Angriffe auf US- und israelische Ziele fortzuführen.",
+      "translated_text": "Iran's new Supreme Leader Mojtaba Khamenei threatened to continue attacks on US and Israeli targets."
+    },
+    {
+      "text": "Die Vereinigten Arabischen Emirate wurden ebenfalls von iranischen Raketen getroffen.",
+      "translated_text": "The United Arab Emirates were also struck by Iranian missiles."
+    },
+    {
+      "text": "Australien forderte seine nicht-wesentlichen Mitarbeiter auf, die Region zu verlassen.",
+      "translated_text": "Australia called on its non-essential staff to leave the region."
+    },
+    {
+      "text": "Viele Länder sind besorgt über eine weitere Eskalation des Konflikts.",
+      "translated_text": "Many countries are concerned about a further escalation of the conflict."
+    },
+    {
+      "text": "Die internationale Gemeinschaft fordert sofortige Verhandlungen und einen Waffenstillstand.",
+      "translated_text": "The international community is calling for immediate negotiations and a ceasefire."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Militärangriff",
+      "translated_term": "the military strike",
+      "example_usage": "Seit dem 28. Februar 2026 führen die USA und Israel Militärangriffe gegen den Iran durch."
+    },
+    {
+      "term": "die Meerenge",
+      "translated_term": "the strait",
+      "example_usage": "Die Meerenge von Hormuz, durch die etwa ein Fünftel des weltweiten Öls transportiert wird, ist weiterhin gesperrt."
+    },
+    {
+      "term": "sperren",
+      "translated_term": "to block / to close",
+      "example_usage": "Die Meerenge von Hormuz ist weiterhin gesperrt."
+    },
+    {
+      "term": "der Ölpreis",
+      "translated_term": "the oil price",
+      "example_usage": "Der Ölpreis ist seit Kriegsbeginn um mehr als 40 Prozent gestiegen."
+    },
+    {
+      "term": "steigen",
+      "translated_term": "to rise / to increase",
+      "example_usage": "Der Ölpreis ist seit Kriegsbeginn um mehr als 40 Prozent gestiegen."
+    },
+    {
+      "term": "der Oberste Führer",
+      "translated_term": "the Supreme Leader",
+      "example_usage": "Der neue iranische Oberste Führer Mojtaba Khamenei drohte, Angriffe auf US- und israelische Ziele fortzuführen."
+    },
+    {
+      "term": "drohen",
+      "translated_term": "to threaten",
+      "example_usage": "Der neue iranische Oberste Führer drohte, Angriffe fortzuführen."
+    },
+    {
+      "term": "die Eskalation",
+      "translated_term": "the escalation",
+      "example_usage": "Viele Länder sind besorgt über eine weitere Eskalation des Konflikts."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Die internationale Gemeinschaft fordert sofortige Verhandlungen und einen Waffenstillstand."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand / to call for",
+      "example_usage": "Die internationale Gemeinschaft fordert sofortige Verhandlungen und einen Waffenstillstand."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/liveblog/2026/3/14/iran-war-live-pentagon-vows-to-ramp-up-us-military-campaign-against-iran"
+    },
+    {
+      "name": "CNN",
+      "link_url": "https://edition.cnn.com/2026/03/13/middleeast/us-israel-iran-middle-east-war-what-we-know-intl-hnk"
+    }
+  ]
+}

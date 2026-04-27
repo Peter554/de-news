@@ -1,0 +1,122 @@
+{
+  "title": "Großbritannien verbietet Al-Quds-Marsch in London",
+  "translated_title": "Great Britain bans Al-Quds march in London",
+  "text": [
+    {
+      "text": "Die britische Innenministerin Shabana Mahmood hat den jährlichen Al-Quds-Marsch in London verboten.",
+      "translated_text": "British Home Secretary Shabana Mahmood has banned the annual Al-Quds march in London."
+    },
+    {
+      "text": "Der Marsch findet seit 40 Jahren statt und ist dieses Jahr zum ersten Mal seit 2012 verboten.",
+      "translated_text": "The march has taken place for 40 years and is banned this year for the first time since 2012."
+    },
+    {
+      "text": "Die Innenministerin begründete das Verbot mit der gefährlichen Lage im Nahen Osten und dem Risiko ernster Unruhen.",
+      "translated_text": "The Home Secretary justified the ban with the dangerous situation in the Middle East and the risk of serious unrest."
+    },
+    {
+      "text": "Das Verbot gilt vom 11. März bis zum 11. April 2026 und basiert auf dem britischen Versammlungsgesetz.",
+      "translated_text": "The ban applies from March 11 to April 11, 2026 and is based on British public order law."
+    },
+    {
+      "text": "Eine stationäre Protestkundgebung bleibt technisch gesehen erlaubt.",
+      "translated_text": "A stationary protest rally remains technically permitted."
+    },
+    {
+      "text": "Die Islamische Menschenrechtskommission, die den Marsch organisiert, kritisierte das Verbot scharf.",
+      "translated_text": "The Islamic Human Rights Commission, which organises the march, sharply criticised the ban."
+    },
+    {
+      "text": "Die Organisation nannte das Verbot als 'politisch motiviert' und kündigte eine rechtliche Klage an.",
+      "translated_text": "The organisation called the ban 'politically motivated' and announced a legal challenge."
+    },
+    {
+      "text": "Der Al-Quds-Tag ist eine Solidaritätsveranstaltung für Palästinenser und wurde 1979 vom iranischen Regime eingeführt.",
+      "translated_text": "Al-Quds Day is a solidarity event for Palestinians and was introduced by the Iranian regime in 1979."
+    },
+    {
+      "text": "Das Verbot sorgt für eine politische Debatte über Meinungsfreiheit und öffentliche Sicherheit in Großbritannien.",
+      "translated_text": "The ban is causing a political debate about freedom of expression and public safety in Great Britain."
+    },
+    {
+      "text": "Viele Unterstützer des Verbots verweisen auf die aktuelle Kriegssituation zwischen den USA, Israel und dem Iran.",
+      "translated_text": "Many supporters of the ban point to the current war situation between the USA, Israel and Iran."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "verbieten",
+      "translated_term": "to ban / to prohibit",
+      "example_usage": "Die britische Innenministerin hat den jährlichen Al-Quds-Marsch in London verboten."
+    },
+    {
+      "term": "die Innenministerin",
+      "translated_term": "the Home Secretary (female)",
+      "example_usage": "Die britische Innenministerin Shabana Mahmood hat den Marsch verboten."
+    },
+    {
+      "term": "das Verbot",
+      "translated_term": "the ban",
+      "example_usage": "Das Verbot gilt vom 11. März bis zum 11. April 2026."
+    },
+    {
+      "term": "begründen",
+      "translated_term": "to justify / to give reasons for",
+      "example_usage": "Die Innenministerin begründete das Verbot mit der gefährlichen Lage im Nahen Osten."
+    },
+    {
+      "term": "die Unruhen",
+      "translated_term": "the unrest / the disturbances",
+      "example_usage": "Die Innenministerin verwies auf das Risiko ernster Unruhen."
+    },
+    {
+      "term": "die Kundgebung",
+      "translated_term": "the rally / the demonstration",
+      "example_usage": "Eine stationäre Protestkundgebung bleibt technisch gesehen erlaubt."
+    },
+    {
+      "term": "kritisieren",
+      "translated_term": "to criticise",
+      "example_usage": "Die Islamische Menschenrechtskommission kritisierte das Verbot scharf."
+    },
+    {
+      "term": "die Meinungsfreiheit",
+      "translated_term": "the freedom of expression",
+      "example_usage": "Das Verbot sorgt für eine politische Debatte über Meinungsfreiheit und öffentliche Sicherheit."
+    },
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Die Organisation kündigte eine rechtliche Klage an."
+    },
+    {
+      "term": "die Klage",
+      "translated_term": "the legal challenge / the lawsuit",
+      "example_usage": "Die Organisation kündigte eine rechtliche Klage an."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Britische Politik",
+      "translated_name": "British Politics"
+    },
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera",
+      "link_url": "https://www.aljazeera.com/news/2026/3/11/uk-home-secretary-bans-al-quds-march-in-london-after-met-police-request"
+    },
+    {
+      "name": "Time",
+      "link_url": "https://time.com/article/2026/03/11/british-police-ban-al-quds-march-iran-war/"
+    }
+  ]
+}
