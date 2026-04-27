@@ -1,0 +1,118 @@
+{
+  "title": "Streik in der Londoner U-Bahn lähmt den Verkehr",
+  "translated_title": "Strike on the London Underground Paralyses Traffic",
+  "text": [
+    {
+      "text": "Am 22. April 2026 ist der zweite Tag des Streiks in der Londoner U-Bahn.",
+      "translated_text": "22 April 2026 is the second day of the strike on the London Underground."
+    },
+    {
+      "text": "Die Gewerkschaft RMT (Rail, Maritime and Transport) hat den Streik ausgerufen.",
+      "translated_text": "The RMT (Rail, Maritime and Transport) union called the strike."
+    },
+    {
+      "text": "Die Gewerkschaft fordert eine 32-Stunden-Woche für die Beschäftigten der U-Bahn.",
+      "translated_text": "The union is demanding a 32-hour working week for Underground workers."
+    },
+    {
+      "text": "Transport for London hat bisher nur eine freiwillige Vier-Tage-Woche angeboten.",
+      "translated_text": "Transport for London has so far only offered a voluntary four-day week."
+    },
+    {
+      "text": "Das reicht der Gewerkschaft nicht aus.",
+      "translated_text": "That is not enough for the union."
+    },
+    {
+      "text": "Heute sind die Piccadilly Line, die Circle Line und Teile der Metropolitan Line komplett gesperrt.",
+      "translated_text": "Today the Piccadilly line, the Circle line and parts of the Metropolitan line are completely closed."
+    },
+    {
+      "text": "Auf der Central Line zwischen White City und Liverpool Street fahren nur sehr wenige Züge.",
+      "translated_text": "Very few trains are running on the Central line between White City and Liverpool Street."
+    },
+    {
+      "text": "Die Elizabeth Line, die Overground und die meisten Busse fahren dagegen normal.",
+      "translated_text": "The Elizabeth line, the Overground and most buses, on the other hand, are running normally."
+    },
+    {
+      "text": "Viele Pendler haben große Schwierigkeiten, zur Arbeit zu kommen.",
+      "translated_text": "Many commuters are having great difficulty getting to work."
+    },
+    {
+      "text": "Millionen von Menschen nutzen die U-Bahn täglich, um durch London zu fahren.",
+      "translated_text": "Millions of people use the Underground daily to travel around London."
+    },
+    {
+      "text": "Weitere Streiks sind bereits für den 23. und 24. April geplant.",
+      "translated_text": "Further strikes are already planned for 23 and 24 April."
+    },
+    {
+      "text": "Auch im Mai und Juni sind mehr Streikstage angekündigt.",
+      "translated_text": "More strike days have also been announced for May and June."
+    },
+    {
+      "text": "Die Verhandlungen zwischen der Gewerkschaft und Transport for London kommen nicht voran.",
+      "translated_text": "Negotiations between the union and Transport for London are making no progress."
+    },
+    {
+      "text": "Beide Seiten sind weit voneinander entfernt.",
+      "translated_text": "Both sides are far apart."
+    },
+    {
+      "text": "London hofft auf eine schnelle Einigung, damit der Verkehr wieder reibungslos läuft.",
+      "translated_text": "London is hoping for a quick agreement so that transport runs smoothly again."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the trade union",
+      "example_usage": "Die Gewerkschaft RMT hat den Streik ausgerufen."
+    },
+    {
+      "term": "der Streik",
+      "translated_term": "the strike",
+      "example_usage": "Am 22. April 2026 ist der zweite Tag des Streiks in der Londoner U-Bahn."
+    },
+    {
+      "term": "der Pendler",
+      "translated_term": "the commuter",
+      "example_usage": "Viele Pendler haben große Schwierigkeiten, zur Arbeit zu kommen."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand",
+      "example_usage": "Die Gewerkschaft fordert eine 32-Stunden-Woche für die Beschäftigten der U-Bahn."
+    },
+    {
+      "term": "die Einigung",
+      "translated_term": "the agreement",
+      "example_usage": "London hofft auf eine schnelle Einigung, damit der Verkehr wieder reibungslos läuft."
+    },
+    {
+      "term": "sperren",
+      "translated_term": "to close / to block",
+      "example_usage": "Heute sind die Piccadilly Line, die Circle Line und Teile der Metropolitan Line komplett gesperrt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Time Out London: April 2026 Tube Strikes – How to get around London during today's RMT industrial action",
+      "link_url": "https://www.timeout.com/london/news/april-2026-tube-strikes-how-to-get-around-london-during-this-weeks-rmt-industrial-action-042026"
+    }
+  ]
+}
