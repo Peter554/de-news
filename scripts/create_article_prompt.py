@@ -79,6 +79,11 @@ Each JSON file should obey the schema given below:
 {schema_str}
 ```
 
+The German text may contain special characters and quotation marks (e.g. „..." and «...»).
+These must be properly escaped in the JSON.
+After creating/updating each JSON file, validate it by running `uv run python -m json.tool <file>` and fix any errors.
+This includes the tags file.
+
 Make your changes on a new branch.
 Once you've made your changes check the site builds by running `bun --bun run build`.
 Commit your changes and open a PR.
