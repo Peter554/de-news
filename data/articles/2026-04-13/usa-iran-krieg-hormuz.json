@@ -1,0 +1,128 @@
+{
+  "title": "USA kündigen Blockade der Straße von Hormus an nach Scheitern der Friedensgespräche",
+  "translated_title": "USA announces blockade of the Strait of Hormuz after peace talks collapse",
+  "text": [
+    {
+      "text": "Der Konflikt zwischen den USA und dem Iran geht weiter – und er verschärft sich.",
+      "translated_text": "The conflict between the USA and Iran continues – and it is intensifying."
+    },
+    {
+      "text": "Der Krieg begann am 28. Februar 2026, als die USA und Israel gemeinsam den Iran angriffen.",
+      "translated_text": "The war began on 28 February 2026, when the USA and Israel jointly attacked Iran."
+    },
+    {
+      "text": "Seitdem sterben auf allen Seiten viele Menschen.",
+      "translated_text": "Since then, many people have been dying on all sides."
+    },
+    {
+      "text": "Am 7. und 8. April einigten sich die USA und der Iran auf einen vorläufigen Waffenstillstand.",
+      "translated_text": "On 7 and 8 April, the USA and Iran agreed on a temporary ceasefire."
+    },
+    {
+      "text": "Doch der Waffenstillstand wurde von beiden Seiten mehrfach gebrochen.",
+      "translated_text": "However, the ceasefire was broken multiple times by both sides."
+    },
+    {
+      "text": "Dann versuchten die USA und der Iran, Frieden zu verhandeln.",
+      "translated_text": "Then the USA and Iran tried to negotiate peace."
+    },
+    {
+      "text": "Die Gespräche fanden in Islamabad, der Hauptstadt Pakistans, statt.",
+      "translated_text": "The talks took place in Islamabad, the capital of Pakistan."
+    },
+    {
+      "text": "Am 12. April verließ US-Vizepräsident Vance Pakistan – ohne eine Einigung.",
+      "translated_text": "On 12 April, US Vice President Vance left Pakistan – without an agreement."
+    },
+    {
+      "text": "Präsident Trump drohte daraufhin mit einer vollständigen Seeblockade des Irans.",
+      "translated_text": "President Trump then threatened a complete naval blockade of Iran."
+    },
+    {
+      "text": "Das US-Militär erklärte, es werde den gesamten Schiffsverkehr in und aus iranischen Häfen blockieren.",
+      "translated_text": "The US military declared it would block all shipping traffic in and out of Iranian ports."
+    },
+    {
+      "text": "Die Straße von Hormus ist eine der wichtigsten Schifffahrtsrouten der Welt.",
+      "translated_text": "The Strait of Hormuz is one of the most important shipping routes in the world."
+    },
+    {
+      "text": "Der Iran bezeichnete die Blockade als \"illegal\" und als \"Piraterie\".",
+      "translated_text": "Iran described the blockade as \"illegal\" and as \"piracy\"."
+    },
+    {
+      "text": "Der Konflikt belastet die Beziehungen zwischen den USA und Europa stark.",
+      "translated_text": "The conflict is putting a heavy strain on relations between the USA and Europe."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "ceasefire",
+      "example_usage": "Am 7. und 8. April einigten sich die USA und der Iran auf einen vorläufigen Waffenstillstand."
+    },
+    {
+      "term": "sich verschärfen",
+      "translated_term": "to intensify/worsen",
+      "example_usage": "Der Konflikt zwischen den USA und dem Iran geht weiter – und er verschärft sich."
+    },
+    {
+      "term": "verhandeln",
+      "translated_term": "to negotiate",
+      "example_usage": "Dann versuchten die USA und der Iran, Frieden zu verhandeln."
+    },
+    {
+      "term": "die Einigung",
+      "translated_term": "agreement",
+      "example_usage": "Am 12. April verließ US-Vizepräsident Vance Pakistan – ohne eine Einigung."
+    },
+    {
+      "term": "die Seeblockade",
+      "translated_term": "naval blockade",
+      "example_usage": "Präsident Trump drohte daraufhin mit einer vollständigen Seeblockade des Irans."
+    },
+    {
+      "term": "blockieren",
+      "translated_term": "to block",
+      "example_usage": "Das US-Militär erklärte, es werde den gesamten Schiffsverkehr blockieren."
+    },
+    {
+      "term": "die Schifffahrtsroute",
+      "translated_term": "shipping route",
+      "example_usage": "Die Straße von Hormus ist eine der wichtigsten Schifffahrtsrouten der Welt."
+    },
+    {
+      "term": "belasten",
+      "translated_term": "to burden/strain",
+      "example_usage": "Der Konflikt belastet die Beziehungen zwischen den USA und Europa stark."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Iran war live - US military to block Iranian port traffic in Hormuz",
+      "link_url": "https://www.aljazeera.com/news/liveblog/2026/4/13/iran-war-live-us-military-to-block-iranian-port-traffic-in-hormuz-strait"
+    },
+    {
+      "name": "NPR: The U.S. military says it will blockade Iranian ports as Iran peace talks collapse",
+      "link_url": "https://www.npr.org/2026/04/12/nx-s1-5782538/u-s-iran-peace-talks-islamabad-collapse"
+    },
+    {
+      "name": "CNBC: Trump says U.S. will blockade Strait of Hormuz after Iran peace talks fail",
+      "link_url": "https://www.cnbc.com/2026/04/12/trump-iran-war-strait-of-hormuz.html"
+    }
+  ]
+}

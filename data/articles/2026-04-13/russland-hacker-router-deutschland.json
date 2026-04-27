@@ -1,0 +1,124 @@
+{
+  "title": "Russische Hacker greifen Router an: Deutschland warnt vor Spionagekampagne",
+  "translated_title": "Russian hackers attack routers: Germany warns of espionage campaign",
+  "text": [
+    {
+      "text": "Deutschland und andere westliche Länder haben vor einer gefährlichen Cyberangriffskampagne gewarnt.",
+      "translated_text": "Germany and other western countries have warned of a dangerous cyber attack campaign."
+    },
+    {
+      "text": "Hinter den Angriffen steckt die russische Militärgeheimdienst-Gruppe APT28, auch bekannt als GRU.",
+      "translated_text": "Behind the attacks is the Russian military intelligence group APT28, also known as GRU."
+    },
+    {
+      "text": "Die Hacker nutzen Schwachstellen in Routern aus, um in private und staatliche Netzwerke einzudringen.",
+      "translated_text": "The hackers exploit vulnerabilities in routers to penetrate private and government networks."
+    },
+    {
+      "text": "Besonders betroffen sind Router des Herstellers TP-Link.",
+      "translated_text": "Particularly affected are routers from the manufacturer TP-Link."
+    },
+    {
+      "text": "Die Angreifer verändern die Einstellungen des Routers, um den gesamten Internetverkehr mitzulesen.",
+      "translated_text": "The attackers change the router settings in order to read all internet traffic."
+    },
+    {
+      "text": "Auf diese Weise können sie Passwörter und andere sensible Daten stehlen.",
+      "translated_text": "In this way they can steal passwords and other sensitive data."
+    },
+    {
+      "text": "Das deutsche Bundesamt für Verfassungsschutz (BfV) und der Bundesnachrichtendienst (BND) haben die Warnung mitunterzeichnet.",
+      "translated_text": "The German Federal Office for the Protection of the Constitution (BfV) and the Federal Intelligence Service (BND) co-signed the warning."
+    },
+    {
+      "text": "Auch das FBI und die amerikanische Sicherheitsbehörde NSA beteiligten sich an der gemeinsamen Warnung.",
+      "translated_text": "The FBI and the American security agency NSA also participated in the joint warning."
+    },
+    {
+      "text": "Insgesamt haben Behörden aus 16 Ländern die Warnung unterzeichnet.",
+      "translated_text": "In total, authorities from 16 countries signed the warning."
+    },
+    {
+      "text": "In Deutschland wurden rund 30 betroffene Router gefunden.",
+      "translated_text": "In Germany, around 30 affected routers were found."
+    },
+    {
+      "text": "Ziel der Angriffe sind vor allem Militär, Regierungen und wichtige Infrastruktur.",
+      "translated_text": "The targets of the attacks are primarily the military, governments and important infrastructure."
+    },
+    {
+      "text": "Experten empfehlen, Router regelmäßig zu aktualisieren und Standardpasswörter sofort zu ändern.",
+      "translated_text": "Experts recommend updating routers regularly and changing default passwords immediately."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Cyberangriff",
+      "translated_term": "cyber attack",
+      "example_usage": "Deutschland und andere westliche Länder haben vor einer gefährlichen Cyberangriffskampagne gewarnt."
+    },
+    {
+      "term": "warnen",
+      "translated_term": "to warn",
+      "example_usage": "Deutschland warnt vor einer gefährlichen Spionagekampagne."
+    },
+    {
+      "term": "die Schwachstelle",
+      "translated_term": "vulnerability/weakness",
+      "example_usage": "Die Hacker nutzen Schwachstellen in Routern aus."
+    },
+    {
+      "term": "ausnutzen",
+      "translated_term": "to exploit",
+      "example_usage": "Die Hacker nutzen Schwachstellen in Routern aus, um in Netzwerke einzudringen."
+    },
+    {
+      "term": "einzudringen",
+      "translated_term": "to penetrate/intrude",
+      "example_usage": "Die Hacker nutzen Schwachstellen in Routern aus, um in private und staatliche Netzwerke einzudringen."
+    },
+    {
+      "term": "sensibel",
+      "translated_term": "sensitive",
+      "example_usage": "Auf diese Weise können sie Passwörter und andere sensible Daten stehlen."
+    },
+    {
+      "term": "unterzeichnen",
+      "translated_term": "to sign",
+      "example_usage": "Insgesamt haben Behörden aus 16 Ländern die Warnung unterzeichnet."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "infrastructure",
+      "example_usage": "Ziel der Angriffe sind vor allem Militär, Regierungen und wichtige Infrastruktur."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Cybersicherheit",
+      "translated_name": "Cybersecurity"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    }
+  ],
+  "sources": [
+    {
+      "name": "TechCrunch: Russian government hackers broke into thousands of home routers to steal passwords",
+      "link_url": "https://techcrunch.com/2026/04/07/russian-government-hackers-broke-into-thousands-of-home-routers-to-steal-passwords/"
+    },
+    {
+      "name": "Euronews: Russian GRU exploited vulnerable routers worldwide",
+      "link_url": "https://www.euronews.com/2026/04/08/russian-gru-exploited-vulnerable-routers-worldwide-to-steal-sensitive-information-probe-re"
+    },
+    {
+      "name": "Dataconomy: Germany Warns Of Russian Hackers Exploiting TP-Link Router Flaws",
+      "link_url": "https://dataconomy.com/2026/04/08/germany-warns-of-russian-hackers-exploiting-tp-link-router-flaws/"
+    }
+  ]
+}
