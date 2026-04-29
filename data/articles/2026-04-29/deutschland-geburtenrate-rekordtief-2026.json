@@ -1,0 +1,126 @@
+{
+  "title": "Geburtenrate in Deutschland erreicht niedrigsten Stand seit 1946",
+  "translated_title": "Birth Rate in Germany Reaches Lowest Level Since 1946",
+  "text": [
+    {
+      "text": "Deutschland hat im Jahr 2025 weniger Babys bekommen als je zuvor seit dem Ende des Zweiten Weltkriegs.",
+      "translated_text": "Germany had fewer babies in 2025 than at any time since the end of the Second World War."
+    },
+    {
+      "text": "Das Statistische Bundesamt veröffentlichte neue Daten zur Geburtenrate im Land.",
+      "translated_text": "The Federal Statistical Office published new data on the birth rate in the country."
+    },
+    {
+      "text": "Im Jahr 2025 wurden in Deutschland rund 654.300 Babys geboren.",
+      "translated_text": "In 2025, around 654,300 babies were born in Germany."
+    },
+    {
+      "text": "Das sind 3,4 Prozent weniger als im Vorjahr.",
+      "translated_text": "That is 3.4 percent fewer than in the previous year."
+    },
+    {
+      "text": "Es war das vierte Jahr in Folge mit sinkenden Geburtenzahlen.",
+      "translated_text": "It was the fourth consecutive year with declining birth figures."
+    },
+    {
+      "text": "Die Zahl der Sterbefälle überstieg die Zahl der Geburten um 352.000.",
+      "translated_text": "The number of deaths exceeded the number of births by 352,000."
+    },
+    {
+      "text": "Das ist das größte Geburtendefizit seit dem Ende des Krieges.",
+      "translated_text": "That is the largest birth deficit since the end of the war."
+    },
+    {
+      "text": "Experten nennen mehrere Gründe für den Rückgang.",
+      "translated_text": "Experts cite several reasons for the decline."
+    },
+    {
+      "text": "Erstens sind weniger Menschen aus den 1990er Jahren jetzt im besten Alter für Kinder.",
+      "translated_text": "First, fewer people born in the 1990s are now at the best age for having children."
+    },
+    {
+      "text": "Zweitens ist die Gesamtfruchtbarkeitsrate seit 2022 gesunken.",
+      "translated_text": "Second, the total fertility rate has been declining since 2022."
+    },
+    {
+      "text": "Viele junge Frauen und Männer entscheiden sich gegen Kinder oder für weniger Kinder.",
+      "translated_text": "Many young women and men are choosing to have no children or fewer children."
+    },
+    {
+      "text": "Die sinkenden Geburtenzahlen sind ein großes Problem für die Gesellschaft.",
+      "translated_text": "The declining birth figures are a major problem for society."
+    },
+    {
+      "text": "Das Rentensystem steht unter großem Druck, weil weniger junge Menschen in die Rentenkasse einzahlen.",
+      "translated_text": "The pension system is under great pressure because fewer young people are paying into the pension fund."
+    },
+    {
+      "text": "Politiker diskutieren jetzt über Maßnahmen, um mehr Familien zur Kinderentscheidung zu ermutigen.",
+      "translated_text": "Politicians are now discussing measures to encourage more families to have children."
+    },
+    {
+      "text": "Manche Experten fordern bessere Kinderbetreuung und mehr finanzielle Unterstützung für Eltern.",
+      "translated_text": "Some experts are calling for better childcare and more financial support for parents."
+    },
+    {
+      "text": "Die Bundesregierung will das Thema Demografie in den kommenden Monaten stärker in den Fokus nehmen.",
+      "translated_text": "The federal government wants to focus more strongly on the topic of demographics in the coming months."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Geburtenrate",
+      "translated_term": "the birth rate",
+      "example_usage": "Die Geburtenrate in Deutschland ist auf den niedrigsten Stand seit 1946 gesunken."
+    },
+    {
+      "term": "das Statistische Bundesamt",
+      "translated_term": "the Federal Statistical Office",
+      "example_usage": "Das Statistische Bundesamt veröffentlichte neue Daten zur Geburtenrate im Land."
+    },
+    {
+      "term": "das Geburtendefizit",
+      "translated_term": "the birth deficit",
+      "example_usage": "Das ist das größte Geburtendefizit seit dem Ende des Krieges."
+    },
+    {
+      "term": "sinken",
+      "translated_term": "to decline / to fall",
+      "example_usage": "Die Gesamtfruchtbarkeitsrate ist seit 2022 gesunken."
+    },
+    {
+      "term": "das Rentensystem",
+      "translated_term": "the pension system",
+      "example_usage": "Das Rentensystem steht unter großem Druck, weil weniger junge Menschen einzahlen."
+    },
+    {
+      "term": "die Kinderbetreuung",
+      "translated_term": "the childcare",
+      "example_usage": "Manche Experten fordern bessere Kinderbetreuung und mehr finanzielle Unterstützung für Eltern."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Demografie",
+      "translated_name": "Demographics"
+    },
+    {
+      "name": "Sozialpolitik",
+      "translated_name": "Social Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Deccan Chronicle: Germany's birth rate drops to lowest level since 1946",
+      "link_url": "https://www.deccanchronicle.com/world/germanys-birth-rate-drops-to-lowest-level-since-1946-1953396"
+    },
+    {
+      "name": "Business Recorder: German birth rate falls to lowest since 1946",
+      "link_url": "https://www.brecorder.com/news/40418684/german-birth-rate-falls-to-lowest-since-1946"
+    }
+  ]
+}
