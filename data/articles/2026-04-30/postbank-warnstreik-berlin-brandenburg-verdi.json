@@ -1,0 +1,130 @@
+{
+  "title": "ver.di ruft zu Warnstreiks bei der Postbank in Berlin und Brandenburg auf",
+  "translated_title": "ver.di Calls for Warning Strikes at Postbank in Berlin and Brandenburg",
+  "text": [
+    {
+      "text": "Am 30. April 2026 streiken Beschäftigte der Postbank in Berlin und Brandenburg.",
+      "translated_text": "On 30 April 2026, Postbank employees in Berlin and Brandenburg are going on strike."
+    },
+    {
+      "text": "Die Gewerkschaft ver.di hat zu Warnstreiks aufgerufen.",
+      "translated_text": "The union ver.di has called for warning strikes."
+    },
+    {
+      "text": "Ein zweiter Streiktag ist für den 2. Mai 2026 geplant.",
+      "translated_text": "A second strike day is planned for 2 May 2026."
+    },
+    {
+      "text": "Durch die Streiks könnten viele Postbank-Filialen vorübergehend geschlossen bleiben.",
+      "translated_text": "As a result of the strikes, many Postbank branches could remain temporarily closed."
+    },
+    {
+      "text": "Der Grund für den Streik ist ein Tarifkonflikt zwischen ver.di und der Postbank.",
+      "translated_text": "The reason for the strike is a collective bargaining dispute between ver.di and Postbank."
+    },
+    {
+      "text": "ver.di fordert für die Beschäftigten acht Prozent mehr Lohn, mindestens aber 300 Euro pro Monat.",
+      "translated_text": "ver.di is demanding eight percent more pay for employees, but at least 300 euros per month."
+    },
+    {
+      "text": "Außerdem sollen Auszubildende 200 Euro mehr Vergütung bekommen.",
+      "translated_text": "In addition, apprentices are to receive 200 euros more in compensation."
+    },
+    {
+      "text": "Die Gewerkschaft ist auch besorgt über den Umbau der Postbank.",
+      "translated_text": "The union is also concerned about the restructuring of Postbank."
+    },
+    {
+      "text": "Die Postbank wird derzeit in die Deutsche Bank integriert.",
+      "translated_text": "Postbank is currently being integrated into Deutsche Bank."
+    },
+    {
+      "text": "Dabei werden viele Filialen umstrukturiert oder geschlossen.",
+      "translated_text": "In the process, many branches are being restructured or closed."
+    },
+    {
+      "text": "Das sorgt bei den Mitarbeiterinnen und Mitarbeitern für Unsicherheit.",
+      "translated_text": "This is causing uncertainty among employees."
+    },
+    {
+      "text": "Insgesamt sind rund 9.000 Postbank-Beschäftigte im Filialbereich zum Streik aufgerufen.",
+      "translated_text": "In total, around 9,000 Postbank employees in branch operations have been called to strike."
+    },
+    {
+      "text": "Die letzte Verhandlungsrunde zwischen ver.di und der Postbank blieb ohne Ergebnis.",
+      "translated_text": "The last round of negotiations between ver.di and Postbank ended without a result."
+    },
+    {
+      "text": "Der nächste Verhandlungstermin ist für den 18. Mai 2026 geplant.",
+      "translated_text": "The next negotiation date is planned for 18 May 2026."
+    },
+    {
+      "text": "Kunden werden gebeten, dringende Bankgeschäfte online oder an einem Geldautomaten zu erledigen.",
+      "translated_text": "Customers are asked to handle urgent banking transactions online or at an ATM."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Warnstreik",
+      "translated_term": "the warning strike",
+      "example_usage": "Die Gewerkschaft ver.di hat zu Warnstreiks aufgerufen."
+    },
+    {
+      "term": "der Tarifkonflikt",
+      "translated_term": "the collective bargaining dispute",
+      "example_usage": "Der Grund für den Streik ist ein Tarifkonflikt zwischen ver.di und der Postbank."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the trade union",
+      "example_usage": "Die Gewerkschaft ver.di hat zu Warnstreiks aufgerufen."
+    },
+    {
+      "term": "fordern",
+      "translated_term": "to demand",
+      "example_usage": "ver.di fordert für die Beschäftigten acht Prozent mehr Lohn."
+    },
+    {
+      "term": "die Vergütung",
+      "translated_term": "the remuneration / compensation",
+      "example_usage": "Außerdem sollen Auszubildende 200 Euro mehr Vergütung bekommen."
+    },
+    {
+      "term": "integrieren",
+      "translated_term": "to integrate",
+      "example_usage": "Die Postbank wird derzeit in die Deutsche Bank integriert."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ver.di: Warnstreiks im Postbank Filialvertrieb – Berlin und Brandenburg",
+      "link_url": "https://bb.verdi.de/presse/pressemitteilungen/++co++2722e062-42e3-11f1-b859-73cf919405a3"
+    },
+    {
+      "name": "berlin.t-online.de: Warnstreik in Berlin und Brandenburg – Postbank-Filialen zwei Tage zu",
+      "link_url": "https://berlin.t-online.de/region/berlin/id_101232358/warnstreik-in-berlin-und-brandenburg-postbank-filialen-zwei-tage-zu.html"
+    },
+    {
+      "name": "niederlausitz-aktuell.de: Warnstreiks im Postbank-Filialvertrieb in Berlin und Brandenburg",
+      "link_url": "https://www.niederlausitz-aktuell.de/niederlausitz-aktuell/orte/brandenburg/313272/warnstreiks-im-postbank-filialvertrieb-in-berlin-und-brandenburg.html"
+    }
+  ]
+}
