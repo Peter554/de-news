@@ -1,0 +1,150 @@
+{
+  "title": "Tag der Arbeit: Zehntausende demonstrieren in Berlin",
+  "translated_title": "Labour Day: Tens of Thousands Demonstrate in Berlin",
+  "text": [
+    {
+      "text": "Jedes Jahr am 1. Mai feiern viele Menschen in Deutschland den Tag der Arbeit.",
+      "translated_text": "Every year on 1 May, many people in Germany celebrate Labour Day."
+    },
+    {
+      "text": "In Berlin ist dieser Tag besonders wichtig – und oft besonders laut.",
+      "translated_text": "In Berlin, this day is especially important – and often especially loud."
+    },
+    {
+      "text": "Dieses Jahr demonstrieren wieder Zehntausende von Menschen in der Hauptstadt.",
+      "translated_text": "This year, tens of thousands of people are again demonstrating in the capital."
+    },
+    {
+      "text": "Es gibt viele verschiedene Demonstrationen und Veranstaltungen in der ganzen Stadt.",
+      "translated_text": "There are many different demonstrations and events across the whole city."
+    },
+    {
+      "text": "Die größte Gewerkschaftskundgebung beginnt um 11:30 Uhr am Strausberger Platz.",
+      "translated_text": "The biggest trade union rally starts at 11:30 am at Strausberger Platz."
+    },
+    {
+      "text": "Um 12 Uhr versammeln sich die Teilnehmer vor dem Roten Rathaus in Mitte.",
+      "translated_text": "At 12 noon, participants gather in front of the Red Town Hall in Mitte."
+    },
+    {
+      "text": "Der Hauptredner der DGB-Kundgebung ist Robert Feiger, der Vorsitzende der Gewerkschaft IG BAU.",
+      "translated_text": "The main speaker at the DGB rally is Robert Feiger, the chairman of the trade union IG BAU."
+    },
+    {
+      "text": "Der Deutsche Gewerkschaftsbund fordert bessere Löhne, mehr Sicherheit am Arbeitsplatz und gute Arbeitsbedingungen für alle.",
+      "translated_text": "The German Trade Union Confederation is calling for better wages, more workplace safety and good working conditions for everyone."
+    },
+    {
+      "text": "Am Abend findet eine große linke Demonstration in Kreuzberg statt.",
+      "translated_text": "In the evening, a large left-wing demonstration takes place in Kreuzberg."
+    },
+    {
+      "text": "Sie beginnt um 18 Uhr am Oranienplatz und zieht dann durch die Straßen.",
+      "translated_text": "It starts at 6 pm at Oranienplatz and then moves through the streets."
+    },
+    {
+      "text": "Die Organisatoren erwarten Zehntausende Teilnehmer.",
+      "translated_text": "The organisers expect tens of thousands of participants."
+    },
+    {
+      "text": "Sie protestieren gegen den Kapitalismus, die Wohnungskrise und die Sicherheitspolitik des Berliner Senats.",
+      "translated_text": "They are protesting against capitalism, the housing crisis and the security policy of the Berlin Senate."
+    },
+    {
+      "text": "Eine besondere Aktion findet im Görlitzer Park statt.",
+      "translated_text": "A special event takes place in Görlitzer Park."
+    },
+    {
+      "text": "Dort findet ein Rave gegen den Zaun statt – eine Protestaktion gegen die nächtliche Schließung des Parks.",
+      "translated_text": "There a 'Rave against the Fence' is taking place – a protest action against the park's nighttime closure."
+    },
+    {
+      "text": "Dieser Zaun ist seit dem 1. März 2026 in Kraft und ist in der Stadt sehr umstritten.",
+      "translated_text": "This fence has been in place since 1 March 2026 and is very controversial in the city."
+    },
+    {
+      "text": "Die Polizei ist mit 5.300 Beamten im Einsatz, um für Sicherheit zu sorgen.",
+      "translated_text": "The police are deployed with 5,300 officers to ensure security."
+    },
+    {
+      "text": "Auch Beamte aus zehn Bundesländern und die Bundespolizei sind dabei.",
+      "translated_text": "Officers from ten federal states and the federal police are also involved."
+    },
+    {
+      "text": "Es kommt zu größeren Verkehrsbehinderungen in Mitte, Grunewald und Charlottenburg-Wilmersdorf.",
+      "translated_text": "Major traffic disruptions occur in Mitte, Grunewald and Charlottenburg-Wilmersdorf."
+    },
+    {
+      "text": "Der 1. Mai ist in Deutschland ein gesetzlicher Feiertag und erinnert an den Kampf für bessere Arbeitsbedingungen.",
+      "translated_text": "1 May is a public holiday in Germany and commemorates the struggle for better working conditions."
+    },
+    {
+      "text": "In Berlin ist dieser Tag seit vielen Jahren ein Symbol für politischen Protest und gesellschaftliche Solidarität.",
+      "translated_text": "In Berlin, this day has for many years been a symbol of political protest and social solidarity."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the trade union",
+      "example_usage": "Der Deutsche Gewerkschaftsbund fordert bessere Löhne, mehr Sicherheit am Arbeitsplatz und gute Arbeitsbedingungen für alle."
+    },
+    {
+      "term": "die Kundgebung",
+      "translated_term": "the rally",
+      "example_usage": "Die größte Gewerkschaftskundgebung beginnt um 11:30 Uhr am Strausberger Platz."
+    },
+    {
+      "term": "demonstrieren",
+      "translated_term": "to demonstrate / to protest",
+      "example_usage": "Dieses Jahr demonstrieren wieder Zehntausende von Menschen in der Hauptstadt."
+    },
+    {
+      "term": "der Beamte",
+      "translated_term": "the officer / official",
+      "example_usage": "Die Polizei ist mit 5.300 Beamten im Einsatz, um für Sicherheit zu sorgen."
+    },
+    {
+      "term": "der Feiertag",
+      "translated_term": "the public holiday",
+      "example_usage": "Der 1. Mai ist in Deutschland ein gesetzlicher Feiertag und erinnert an den Kampf für bessere Arbeitsbedingungen."
+    },
+    {
+      "term": "umstritten",
+      "translated_term": "controversial",
+      "example_usage": "Dieser Zaun ist seit dem 1. März 2026 in Kraft und ist in der Stadt sehr umstritten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Proteste",
+      "translated_name": "Protests"
+    },
+    {
+      "name": "Wohnungskrise",
+      "translated_name": "Housing Crisis"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tip Berlin: Demos am 1. Mai 2026 in Berlin: Was wo geplant ist",
+      "link_url": "https://www.tip-berlin.de/stadt/politik/demos-berlin-1-mai-2026-uebersicht/"
+    },
+    {
+      "name": "Berlin.de: Demos am 1. Mai beeinträchtigen den Verkehr",
+      "link_url": "https://www.berlin.de/aktuelles/10355323-958090-demos-am-1-mai-beeintraechtigen-den-verk.html"
+    },
+    {
+      "name": "DGB Bezirk Berlin-Brandenburg: Erster Mai – Tag der Arbeit",
+      "link_url": "https://berlin-brandenburg.dgb.de/mitmachen/1-mai"
+    }
+  ]
+}
