@@ -1,0 +1,146 @@
+{
+  "title": "Deutsche Bahn friert Fernverkehrspreise für ein Jahr ein",
+  "translated_title": "Deutsche Bahn Freezes Long-Distance Ticket Prices for One Year",
+  "text": [
+    {
+      "text": "Ab dem 1. Mai 2026 bleiben die Preise für Fernverkehrstickets der Deutschen Bahn für zwölf Monate stabil.",
+      "translated_text": "From 1 May 2026, the prices for Deutsche Bahn long-distance tickets will remain stable for twelve months."
+    },
+    {
+      "text": "Das bedeutet, dass ICE-, IC- und EC-Tickets für ein Jahr nicht teurer werden.",
+      "translated_text": "This means that ICE, IC and EC tickets will not become more expensive for one year."
+    },
+    {
+      "text": "Auch die Preise für BahnCards und Sitzplatzreservierungen bleiben gleich.",
+      "translated_text": "The prices for BahnCards and seat reservations also remain the same."
+    },
+    {
+      "text": "Bahn-Chefin Evelyn Palla gab diese Entscheidung Ende April bekannt.",
+      "translated_text": "Deutsche Bahn CEO Evelyn Palla announced this decision at the end of April."
+    },
+    {
+      "text": "Sie sagte, die Deutsche Bahn wolle ein Stabilitätsanker in unsicheren Zeiten sein.",
+      "translated_text": "She said Deutsche Bahn wants to be a stability anchor in uncertain times."
+    },
+    {
+      "text": "In den letzten Monaten sind viele Preise in Deutschland gestiegen.",
+      "translated_text": "In recent months, many prices in Germany have risen."
+    },
+    {
+      "text": "Gründe dafür sind unter anderem der Iran-Krieg und die hohen Energiekosten.",
+      "translated_text": "Reasons for this include the Iran war and high energy costs."
+    },
+    {
+      "text": "Der Preisstopp ist daher eine gute Nachricht für viele Reisende in Deutschland.",
+      "translated_text": "The price freeze is therefore good news for many travellers in Germany."
+    },
+    {
+      "text": "Millionen von Menschen fahren jeden Tag mit dem Fernzug in Deutschland.",
+      "translated_text": "Millions of people travel by long-distance train in Germany every day."
+    },
+    {
+      "text": "Für sie bedeutet der Preisstopp, dass sie ihre Reisekosten besser planen können.",
+      "translated_text": "For them, the price freeze means they can plan their travel costs better."
+    },
+    {
+      "text": "Allerdings gibt es auch schlechte Nachrichten für Bahnkunden.",
+      "translated_text": "However, there is also bad news for rail passengers."
+    },
+    {
+      "text": "Im Nahverkehr und bei zusätzlichen Services steigen die Preise weiterhin.",
+      "translated_text": "Prices for local transport and additional services continue to rise."
+    },
+    {
+      "text": "Zum Beispiel wird die Fahrradmitnahme im Zug teurer.",
+      "translated_text": "For example, taking a bicycle on the train is becoming more expensive."
+    },
+    {
+      "text": "Das Deutschlandticket kostet seit Januar 2026 bereits 63 Euro pro Monat.",
+      "translated_text": "The Germany ticket has already cost 63 euros per month since January 2026."
+    },
+    {
+      "text": "Trotzdem ist der Preisstopp im Fernverkehr ein positives Signal.",
+      "translated_text": "Nevertheless, the price freeze for long-distance transport is a positive signal."
+    },
+    {
+      "text": "Die Deutsche Bahn hatte in den letzten Jahren oft mit Problemen zu kämpfen.",
+      "translated_text": "Deutsche Bahn has often had to struggle with problems in recent years."
+    },
+    {
+      "text": "Schlechte Pünktlichkeit und technische Störungen haben das Vertrauen der Fahrgäste belastet.",
+      "translated_text": "Poor punctuality and technical faults have damaged passengers' trust."
+    },
+    {
+      "text": "Ein stabiler Preis kann helfen, dieses Vertrauen langsam zurückzugewinnen.",
+      "translated_text": "A stable price can help to slowly regain this trust."
+    },
+    {
+      "text": "Die Deutsche Bahn hofft, so mehr Menschen zum Zugreisen zu motivieren.",
+      "translated_text": "Deutsche Bahn hopes to motivate more people to travel by train."
+    },
+    {
+      "text": "Züge sind umweltfreundlicher als Autos oder Flugzeuge und ein wichtiger Teil der deutschen Verkehrswende.",
+      "translated_text": "Trains are more environmentally friendly than cars or aeroplanes and are an important part of Germany's transport transition."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Fernverkehr",
+      "translated_term": "long-distance transport",
+      "example_usage": "Ab dem 1. Mai 2026 bleiben die Preise für Fernverkehrstickets der Deutschen Bahn für zwölf Monate stabil."
+    },
+    {
+      "term": "der Nahverkehr",
+      "translated_term": "local / regional transport",
+      "example_usage": "Im Nahverkehr und bei zusätzlichen Services steigen die Preise weiterhin."
+    },
+    {
+      "term": "der Stabilitätsanker",
+      "translated_term": "the stability anchor",
+      "example_usage": "Sie sagte, die Deutsche Bahn wolle ein Stabilitätsanker in unsicheren Zeiten sein."
+    },
+    {
+      "term": "die Pünktlichkeit",
+      "translated_term": "punctuality",
+      "example_usage": "Schlechte Pünktlichkeit und technische Störungen haben das Vertrauen der Fahrgäste belastet."
+    },
+    {
+      "term": "der Fahrgast",
+      "translated_term": "the passenger",
+      "example_usage": "Schlechte Pünktlichkeit und technische Störungen haben das Vertrauen der Fahrgäste belastet."
+    },
+    {
+      "term": "bekannt geben",
+      "translated_term": "to announce",
+      "example_usage": "Bahn-Chefin Evelyn Palla gab diese Entscheidung Ende April bekannt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Mobilität",
+      "translated_name": "Mobility"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Watson.de: Deutsche Bahn: keine Preiserhöhung für ICE-Tickets ab Mai 2026",
+      "link_url": "https://www.watson.de/nachhaltigkeit/mobilitaet-verkehr/950299397-deutsche-bahn-keine-preiserhoehung-fuer-ice-tickets-ab-mai-2026"
+    },
+    {
+      "name": "Finanznachrichten: Bahn: Fahrpreise im Fernverkehr bleiben zwölf Monate stabil",
+      "link_url": "https://www.finanznachrichten.de/nachrichten-2026-04/68302910-bahn-fahrpreise-im-fernverkehr-bleiben-zwoelf-monate-stabil-016.htm"
+    },
+    {
+      "name": "Presse.Online: ICE-Preise bleiben 12 Monate stabil",
+      "link_url": "https://presse.online/2026/04/26/ice-preise-bleiben-12-monate-stabil/"
+    }
+  ]
+}
