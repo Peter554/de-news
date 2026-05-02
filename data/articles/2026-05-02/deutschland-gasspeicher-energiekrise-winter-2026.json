@@ -1,0 +1,126 @@
+{
+  "title": "Deutschland droht Gaskrise im Winter: Speicher nur zu 25 Prozent gefüllt",
+  "translated_title": "Germany Faces Gas Crisis in Winter: Storage Only 25 Percent Full",
+  "text": [
+    {
+      "text": "Deutschland könnte im nächsten Winter zu wenig Gas haben.",
+      "translated_text": "Germany could have too little gas next winter."
+    },
+    {
+      "text": "Ende April waren die deutschen Gasspeicher nur zu 25,43 Prozent gefüllt.",
+      "translated_text": "At the end of April, German gas storage facilities were only 25.43 percent full."
+    },
+    {
+      "text": "Das ist deutlich weniger als in den Vorjahren.",
+      "translated_text": "This is significantly less than in previous years."
+    },
+    {
+      "text": "Der Grund ist vor allem der Krieg im Nahen Osten.",
+      "translated_text": "The main reason is the war in the Middle East."
+    },
+    {
+      "text": "Seit dem Angriff auf Iran im Februar 2026 sind die Gas- und Ölpreise stark gestiegen.",
+      "translated_text": "Since the attack on Iran in February 2026, gas and oil prices have risen sharply."
+    },
+    {
+      "text": "Die Kämpfe im Persischen Golf haben den Schiffsverkehr durch die Straße von Hormus stark eingeschränkt.",
+      "translated_text": "The fighting in the Persian Gulf has severely restricted shipping through the Strait of Hormuz."
+    },
+    {
+      "text": "Durch diese Meerenge fließt ein großer Teil des weltweiten Gas- und Öltransports.",
+      "translated_text": "A large share of global gas and oil transport flows through this strait."
+    },
+    {
+      "text": "Reparaturen an beschädigten Anlagen in der Region werden Monate oder sogar Jahre dauern.",
+      "translated_text": "Repairs to damaged facilities in the region will take months or even years."
+    },
+    {
+      "text": "Experten warnen, dass Deutschland bei einem sehr kalten Winter in ernsthafte Schwierigkeiten geraten könnte.",
+      "translated_text": "Experts warn that Germany could get into serious difficulties in a very cold winter."
+    },
+    {
+      "text": "Sebastian Heinermann vom Speicherbetreiberverband INES sagte: „Wenn sich die Marktlage nicht ändert, ist Deutschland nicht auf ungewöhnliche Kälte vorbereitet."",
+      "translated_text": "Sebastian Heinermann from the storage operators' association INES said: \"If the market situation does not change, Germany is not prepared for unusual cold spells.\""
+    },
+    {
+      "text": "Andere Analysten beruhigen jedoch: Selbst im schlimmsten Winter könnte Deutschland viel Gas importieren.",
+      "translated_text": "However, other analysts are reassuring: even in the worst winter, Germany could import a lot of gas."
+    },
+    {
+      "text": "Die Bundesregierung hat bereits Maßnahmen ergriffen, um die Lage zu verbessern.",
+      "translated_text": "The federal government has already taken measures to improve the situation."
+    },
+    {
+      "text": "Ab dem 1. Mai 2026 wurden vorübergehend die Steuern auf Benzin und Diesel gesenkt.",
+      "translated_text": "From 1 May 2026, taxes on petrol and diesel were temporarily reduced."
+    },
+    {
+      "text": "Diese Maßnahme soll bis Ende Juni gelten und die Bürger bei den hohen Energiekosten entlasten.",
+      "translated_text": "This measure is set to remain in place until the end of June and is intended to ease the burden on citizens facing high energy costs."
+    },
+    {
+      "text": "Die Energiekrise zeigt, wie stark Deutschland noch von fossilen Brennstoffen abhängig ist.",
+      "translated_text": "The energy crisis shows how heavily Germany still depends on fossil fuels."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Gasspeicher",
+      "translated_term": "the gas storage facility",
+      "example_usage": "Ende April waren die deutschen Gasspeicher nur zu 25,43 Prozent gefüllt."
+    },
+    {
+      "term": "die Straße von Hormus",
+      "translated_term": "the Strait of Hormuz",
+      "example_usage": "Die Kämpfe haben den Schiffsverkehr durch die Straße von Hormus stark eingeschränkt."
+    },
+    {
+      "term": "einschränken",
+      "translated_term": "to restrict / to limit",
+      "example_usage": "Die Kämpfe haben den Schiffsverkehr durch die Straße von Hormus stark eingeschränkt."
+    },
+    {
+      "term": "entlasten",
+      "translated_term": "to relieve / to ease the burden on",
+      "example_usage": "Die Maßnahme soll die Bürger bei den hohen Energiekosten entlasten."
+    },
+    {
+      "term": "die Abhängigkeit",
+      "translated_term": "the dependency / the reliance",
+      "example_usage": "Die Energiekrise zeigt, wie stark Deutschland noch von fossilen Brennstoffen abhängig ist."
+    },
+    {
+      "term": "fossile Brennstoffe",
+      "translated_term": "fossil fuels",
+      "example_usage": "Die Energiekrise zeigt, wie stark Deutschland noch von fossilen Brennstoffen abhängig ist."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Energiekrise",
+      "translated_name": "Energy Crisis"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Iran-Krieg",
+      "translated_name": "Iran War"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda Germany: Germany faces the risk of a gas shortage next winter",
+      "link_url": "https://germany.news-pravda.com/en/germany/2026/05/01/128187.html"
+    },
+    {
+      "name": "Pravda Germany: Spiegel – Germany risks running out of gas by winter due to the Middle East conflict",
+      "link_url": "https://germany.news-pravda.com/en/world/2026/05/01/128166.html"
+    },
+    {
+      "name": "Clean Energy Wire: Q&A – How will the 2026 energy crisis affect Germany's energy transition?",
+      "link_url": "https://www.cleanenergywire.org/factsheets/how-will-2026-energy-crisis-affect-germanys-energy-transition"
+    }
+  ]
+}

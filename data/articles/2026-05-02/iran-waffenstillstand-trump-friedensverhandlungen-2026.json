@@ -1,0 +1,130 @@
+{
+  "title": "Trump unzufrieden mit Irans Friedensvorschlag – Waffenstillstand in Gefahr",
+  "translated_title": "Trump Unhappy with Iran's Peace Proposal – Ceasefire at Risk",
+  "text": [
+    {
+      "text": "Im Februar 2026 begannen die USA und Israel einen Krieg gegen Iran.",
+      "translated_text": "In February 2026, the USA and Israel began a war against Iran."
+    },
+    {
+      "text": "Anfang April einigten sich die USA und Iran auf einen Waffenstillstand.",
+      "translated_text": "In early April, the USA and Iran agreed on a ceasefire."
+    },
+    {
+      "text": "Pakistan vermittelte bei den Friedensverhandlungen.",
+      "translated_text": "Pakistan mediated in the peace negotiations."
+    },
+    {
+      "text": "Am 1. Mai schickte Iran einen neuen Friedensvorschlag an die Vermittler.",
+      "translated_text": "On 1 May, Iran sent a new peace proposal to the mediators."
+    },
+    {
+      "text": "Präsident Trump zeigte sich jedoch sehr unzufrieden mit dem Vorschlag.",
+      "translated_text": "However, President Trump appeared very unhappy with the proposal."
+    },
+    {
+      "text": "Er sagte: „Sie verlangen Dinge, denen ich nicht zustimmen kann."",
+      "translated_text": "He said: \"They are asking for things I cannot agree to.\""
+    },
+    {
+      "text": "Trump warnte außerdem vor einem zu frühen Ende des Konflikts.",
+      "translated_text": "Trump also warned against an early end to the conflict."
+    },
+    {
+      "text": "Ein wichtiger Streitpunkt ist das Atomprogramm Irans.",
+      "translated_text": "A key point of contention is Iran's nuclear programme."
+    },
+    {
+      "text": "Trump verlangt Garantien, dass Iran keine Atomwaffen bauen kann.",
+      "translated_text": "Trump demands guarantees that Iran cannot build nuclear weapons."
+    },
+    {
+      "text": "Iran besteht jedoch auf seinem Recht, Uran für friedliche Zwecke anzureichern.",
+      "translated_text": "However, Iran insists on its right to enrich uranium for peaceful purposes."
+    },
+    {
+      "text": "Der 2. Mai ist außerdem ein wichtiges rechtliches Datum.",
+      "translated_text": "2 May is also an important legal date."
+    },
+    {
+      "text": "Nach 60 Tagen Krieg muss der US-Präsident nach dem War Powers Act den Kongress um Erlaubnis bitten.",
+      "translated_text": "After 60 days of war, the US president must ask Congress for authorisation under the War Powers Act."
+    },
+    {
+      "text": "Das Weiße Haus erklärte, der Waffenstillstand habe die Frist gestoppt.",
+      "translated_text": "The White House declared that the ceasefire had stopped the deadline."
+    },
+    {
+      "text": "Viele Demokraten lehnen diese Argumentation jedoch ab.",
+      "translated_text": "However, many Democrats reject this line of argument."
+    },
+    {
+      "text": "Der Konflikt hat bisher Tausende von Todesopfern gefordert.",
+      "translated_text": "The conflict has so far claimed thousands of lives."
+    },
+    {
+      "text": "Die internationale Gemeinschaft hofft weiterhin auf eine friedliche Lösung.",
+      "translated_text": "The international community continues to hope for a peaceful resolution."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Anfang April einigten sich die USA und Iran auf einen Waffenstillstand."
+    },
+    {
+      "term": "die Friedensverhandlungen",
+      "translated_term": "the peace negotiations",
+      "example_usage": "Pakistan vermittelte bei den Friedensverhandlungen."
+    },
+    {
+      "term": "vermitteln",
+      "translated_term": "to mediate / to broker",
+      "example_usage": "Pakistan vermittelte bei den Friedensverhandlungen."
+    },
+    {
+      "term": "der Streitpunkt",
+      "translated_term": "the point of contention / the sticking point",
+      "example_usage": "Ein wichtiger Streitpunkt ist das Atomprogramm Irans."
+    },
+    {
+      "term": "anreichern",
+      "translated_term": "to enrich",
+      "example_usage": "Iran besteht auf seinem Recht, Uran für friedliche Zwecke anzureichern."
+    },
+    {
+      "term": "die Frist",
+      "translated_term": "the deadline / the time limit",
+      "example_usage": "Das Weiße Haus erklärte, der Waffenstillstand habe die Frist gestoppt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran-Krieg",
+      "translated_name": "Iran War"
+    },
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Iran war live – Trump says no 'early' end to war, unhappy with Tehran offer",
+      "link_url": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer"
+    },
+    {
+      "name": "CNN: Ceasefire hangs in the balance as Iran sends peace proposal to mediators",
+      "link_url": "https://www.cnn.com/2026/05/01/middleeast/iran-trump-ceasefire-response-intl"
+    },
+    {
+      "name": "Al Jazeera: Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
+      "link_url": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline"
+    }
+  ]
+}

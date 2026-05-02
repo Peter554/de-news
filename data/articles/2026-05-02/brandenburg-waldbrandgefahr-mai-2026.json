@@ -1,0 +1,122 @@
+{
+  "title": "Hohe Waldbrandgefahr in Brandenburg über das Maifeiertag-Wochenende",
+  "translated_title": "High Forest Fire Danger in Brandenburg Over the May Day Weekend",
+  "text": [
+    {
+      "text": "Über das lange Wochenende rund um den 1. Mai herrscht in Brandenburg erhöhte Waldbrandgefahr.",
+      "translated_text": "Over the long weekend around 1 May, there is an elevated risk of forest fires in Brandenburg."
+    },
+    {
+      "text": "Der Deutsche Wetterdienst meldete für viele Teile des Bundeslandes die Gefahrenstufe 3 von 5.",
+      "translated_text": "The German Weather Service reported danger level 3 out of 5 for many parts of the state."
+    },
+    {
+      "text": "Im Landkreis Uckermark gilt sogar die Gefahrenstufe 4 – das bedeutet hohe Waldbrandgefahr.",
+      "translated_text": "In the Uckermark district, danger level 4 applies – which means high forest fire risk."
+    },
+    {
+      "text": "Der Grund für die Gefahr ist eine Kombination aus Trockenheit, Wärme und viel Sonnenschein.",
+      "translated_text": "The reason for the danger is a combination of dry conditions, warm temperatures and plenty of sunshine."
+    },
+    {
+      "text": "Besonders die Kiefernwälder in Brandenburg sind sehr anfällig für Brände.",
+      "translated_text": "The pine forests in Brandenburg in particular are very susceptible to fires."
+    },
+    {
+      "text": "Die Luftfeuchtigkeit bleibt auch nachts sehr gering.",
+      "translated_text": "Humidity remains very low even at night."
+    },
+    {
+      "text": "Der Deutsche Feuerwehrverband warnte alle Ausflügler, im Wald besonders vorsichtig zu sein.",
+      "translated_text": "The German Fire Brigades Association warned all day-trippers to be especially careful in the forest."
+    },
+    {
+      "text": "Das Rauchen und das Entzünden von Feuer im Wald sind verboten.",
+      "translated_text": "Smoking and lighting fires in the forest are prohibited."
+    },
+    {
+      "text": "Auch das Wegwerfen von Zigarettenstummeln aus dem Auto ist streng verboten.",
+      "translated_text": "Throwing cigarette butts out of car windows is also strictly prohibited."
+    },
+    {
+      "text": "Die hohen Temperaturen lockten viele Berliner und Brandenburger ins Freie.",
+      "translated_text": "The high temperatures lured many Berliners and Brandenburgers outdoors."
+    },
+    {
+      "text": "In Berlin gab es zum Maifeiertag zahlreiche Veranstaltungen und Demonstrationen.",
+      "translated_text": "In Berlin, there were numerous events and demonstrations on Labour Day."
+    },
+    {
+      "text": "Die Feuerwehren in Brandenburg sind in erhöhter Alarmbereitschaft.",
+      "translated_text": "The fire brigades in Brandenburg are on heightened alert."
+    },
+    {
+      "text": "Experten rechnen damit, dass sich die Lage zum Ende des Wochenendes verbessert.",
+      "translated_text": "Experts expect the situation to improve towards the end of the weekend."
+    },
+    {
+      "text": "Niederschläge und eine Abkühlung sollen die Brandgefahr reduzieren.",
+      "translated_text": "Rainfall and cooler temperatures are expected to reduce the fire risk."
+    },
+    {
+      "text": "Dennoch bleibt Vorsicht geboten, da der Frühling in der Region immer trockener wird.",
+      "translated_text": "Nevertheless, caution remains necessary, as spring in the region is becoming increasingly dry."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Waldbrandgefahr",
+      "translated_term": "the forest fire danger / risk",
+      "example_usage": "Über das lange Wochenende herrscht in Brandenburg erhöhte Waldbrandgefahr."
+    },
+    {
+      "term": "die Gefahrenstufe",
+      "translated_term": "the danger level",
+      "example_usage": "Im Landkreis Uckermark gilt sogar die Gefahrenstufe 4."
+    },
+    {
+      "term": "anfällig",
+      "translated_term": "susceptible / prone to",
+      "example_usage": "Besonders die Kiefernwälder in Brandenburg sind sehr anfällig für Brände."
+    },
+    {
+      "term": "die Alarmbereitschaft",
+      "translated_term": "the state of alert / readiness",
+      "example_usage": "Die Feuerwehren in Brandenburg sind in erhöhter Alarmbereitschaft."
+    },
+    {
+      "term": "der Niederschlag",
+      "translated_term": "the precipitation / rainfall",
+      "example_usage": "Niederschläge und eine Abkühlung sollen die Brandgefahr reduzieren."
+    },
+    {
+      "term": "entzünden",
+      "translated_term": "to light / to ignite",
+      "example_usage": "Das Rauchen und das Entzünden von Feuer im Wald sind verboten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    }
+  ],
+  "sources": [
+    {
+      "name": "news.de: Waldbrandgefahr in Brandenburg am 01.05.2026",
+      "link_url": "https://www.news.de/lokales/856955853/waldbrandgefahr-brandenburg-aktuell-waldbrand-risiko-hoch-waldbrandgefahrenindex-4-heute-am-01-05-2026-erreicht-wo-sind-waldbraende-moeglich/1/"
+    },
+    {
+      "name": "Deutscher Feuerwehrverband: Hinweise zur Vegetationsbrandgefahr rund um das lange Wochenende zum 1. Mai 2026",
+      "link_url": "https://www.feuerwehrverband.de/hinweise-zur-vegetationsbrandgefahr-rund-um-das-lange-wochenende-zum-1-mai-2026/"
+    }
+  ]
+}
