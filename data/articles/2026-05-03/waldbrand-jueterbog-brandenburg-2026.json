@@ -1,0 +1,114 @@
+{
+  "title": "Großer Waldbrand bei Jüterbog — Munition erschwert Löscharbeiten",
+  "translated_title": "Large Forest Fire Near Jüterbog — Munitions Hamper Firefighting Efforts",
+  "text": [
+    {
+      "text": "Bei Jüterbog in Brandenburg brennt ein großer Wald.",
+      "translated_text": "A large forest is burning near Jüterbog in Brandenburg."
+    },
+    {
+      "text": "Das Feuer breitete sich auf etwa 37 Hektar aus.",
+      "translated_text": "The fire spread to around 37 hectares."
+    },
+    {
+      "text": "Es ist der größte Waldbrand der bisherigen Saison in der Region.",
+      "translated_text": "It is the largest forest fire of the current season in the region."
+    },
+    {
+      "text": "Das Feuer begann auf einem alten Militärgelände namens „Altes Lager".",
+      "translated_text": "The fire started on an old military training ground called \"Altes Lager\"."
+    },
+    {
+      "text": "Das Problem ist, dass im Boden noch viele alte Munitionsreste aus dem Zweiten Weltkrieg liegen.",
+      "translated_text": "The problem is that there are still many old munitions remnants from World War Two in the ground."
+    },
+    {
+      "text": "Immer wieder explodieren diese Munitionsreste im Feuer.",
+      "translated_text": "These munitions remnants repeatedly explode in the fire."
+    },
+    {
+      "text": "Deshalb können die Feuerwehrleute das Feuer nicht direkt bekämpfen.",
+      "translated_text": "For this reason, the firefighters cannot fight the fire directly."
+    },
+    {
+      "text": "Stattdessen legen sie Schneisen frei und beobachten das Feuer mit Drohnen.",
+      "translated_text": "Instead, they are creating firebreaks and monitoring the fire with drones."
+    },
+    {
+      "text": "Rund 28 Feuerwehrleute und mehrere Tankfahrzeuge sind im Einsatz.",
+      "translated_text": "Around 28 firefighters and several tanker vehicles are deployed."
+    },
+    {
+      "text": "Die Behörden warnen, dass der Einsatz noch mehrere Tage dauern könnte.",
+      "translated_text": "The authorities warn that the operation could last several more days."
+    },
+    {
+      "text": "Die Anwohner in der Umgebung sollen wegen des dichten Rauchs Fenster und Türen geschlossen halten.",
+      "translated_text": "Residents in the area are advised to keep windows and doors closed because of the thick smoke."
+    },
+    {
+      "text": "Brandenburg ist wegen seiner trockenen Bedingungen und großen Kiefernwälder besonders waldbrandgefährdet.",
+      "translated_text": "Brandenburg is particularly at risk from forest fires due to its dry conditions and large pine forests."
+    },
+    {
+      "text": "Experten fordern mehr Investitionen in die Brandbekämpfung in der Region.",
+      "translated_text": "Experts are calling for more investment in fire-fighting in the region."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Waldbrand",
+      "translated_term": "the forest fire / wildfire",
+      "example_usage": "Es ist der größte Waldbrand der bisherigen Saison in der Region."
+    },
+    {
+      "term": "die Munitionsreste",
+      "translated_term": "the munitions remnants / unexploded ordnance",
+      "example_usage": "Im Boden liegen noch viele alte Munitionsreste aus dem Zweiten Weltkrieg."
+    },
+    {
+      "term": "die Schneise",
+      "translated_term": "the firebreak / clearing",
+      "example_usage": "Stattdessen legen die Feuerwehrleute Schneisen frei."
+    },
+    {
+      "term": "die Drohne",
+      "translated_term": "the drone",
+      "example_usage": "Sie beobachten das Feuer mit Drohnen."
+    },
+    {
+      "term": "waldbrandgefährdet",
+      "translated_term": "at risk from forest fires",
+      "example_usage": "Brandenburg ist wegen seiner trockenen Bedingungen besonders waldbrandgefährdet."
+    },
+    {
+      "term": "bekämpfen",
+      "translated_term": "to fight / combat",
+      "example_usage": "Die Feuerwehrleute können das Feuer nicht direkt bekämpfen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Radio Cottbus: Waldbrand in Jüterbog breitet sich aus — Löscharbeiten erschwert",
+      "link_url": "https://www.radiocottbus.de/lausitz-news/2026/05/02/waldbrand-in-jueterbog-breitet-sich-aus-loescharbeiten-erschwert/"
+    },
+    {
+      "name": "Berliner Kurier: Größter Waldbrand der Saison — Über 30 Hektar im Süden Berlins in Flammen",
+      "link_url": "https://www.berliner-kurier.de/berlin/waldbrand-brandenburg-saison-li.10033938"
+    }
+  ]
+}

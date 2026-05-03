@@ -1,0 +1,122 @@
+{
+  "title": "Iran schlägt 14-Punkte-Friedensplan vor — Trump droht mit erneutem Krieg",
+  "translated_title": "Iran Proposes 14-Point Peace Plan — Trump Threatens Renewed War",
+  "text": [
+    {
+      "text": "Der Iran hat den USA einen 14-Punkte-Plan geschickt, um den Krieg zu beenden.",
+      "translated_text": "Iran has sent the USA a 14-point plan to end the war."
+    },
+    {
+      "text": "Der Krieg zwischen den USA, Israel und dem Iran begann am 28. Februar 2026.",
+      "translated_text": "The war between the USA, Israel, and Iran began on 28 February 2026."
+    },
+    {
+      "text": "Damals griffen die USA und Israel iranische Ziele an und töteten den obersten Führer Chamenei.",
+      "translated_text": "At that time, the USA and Israel attacked Iranian targets and killed Supreme Leader Khamenei."
+    },
+    {
+      "text": "Der iranische Plan fordert die Öffnung der Straße von Hormus und die Aufhebung der Sanktionen.",
+      "translated_text": "The Iranian plan calls for the opening of the Strait of Hormuz and the lifting of sanctions."
+    },
+    {
+      "text": "Die Straße von Hormus ist sehr wichtig für den weltweiten Öl- und Gashandel.",
+      "translated_text": "The Strait of Hormuz is very important for global oil and gas trade."
+    },
+    {
+      "text": "Normalerweise fließen etwa 20 Prozent des weltweiten Öls und Flüssiggases durch diese Straße.",
+      "translated_text": "Normally, about 20 percent of the world's oil and liquefied gas flows through this strait."
+    },
+    {
+      "text": "Seit dem Beginn des Krieges ist die Straße fast vollständig gesperrt.",
+      "translated_text": "Since the start of the war, the strait has been almost completely blocked."
+    },
+    {
+      "text": "US-Präsident Trump sagte, er prüfe den Plan, aber er könne sich nicht vorstellen, ihn anzunehmen.",
+      "translated_text": "US President Trump said he is reviewing the plan, but he cannot imagine accepting it."
+    },
+    {
+      "text": "Trump besteht darauf, dass der Iran zuerst auf sein Atomprogramm verzichten muss.",
+      "translated_text": "Trump insists that Iran must first give up its nuclear programme."
+    },
+    {
+      "text": "Er drohte, dass der Iran erneut bombardiert werde, wenn er sich „schlecht benimmt".",
+      "translated_text": "He threatened that Iran would be bombed again if it \"misbehaves\"."
+    },
+    {
+      "text": "Die Atomfragen sollen laut dem iranischen Plan erst später verhandelt werden.",
+      "translated_text": "According to the Iranian plan, nuclear issues are to be negotiated only at a later stage."
+    },
+    {
+      "text": "Beide Seiten befinden sich derzeit in einer diplomatischen Sackgasse.",
+      "translated_text": "Both sides are currently at a diplomatic impasse."
+    },
+    {
+      "text": "Die hohen Ölpreise belasten die Weltwirtschaft stark.",
+      "translated_text": "The high oil prices are putting a heavy strain on the global economy."
+    },
+    {
+      "text": "Experten warnen vor einer längeren Krise, wenn keine Einigung gefunden wird.",
+      "translated_text": "Experts warn of a prolonged crisis if no agreement is reached."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Friedensplan",
+      "translated_term": "the peace plan",
+      "example_usage": "Der Iran hat den USA einen 14-Punkte-Friedensplan geschickt."
+    },
+    {
+      "term": "die Straße von Hormus",
+      "translated_term": "the Strait of Hormuz",
+      "example_usage": "Der iranische Plan fordert die Öffnung der Straße von Hormus."
+    },
+    {
+      "term": "die Sanktionen",
+      "translated_term": "the sanctions",
+      "example_usage": "Der Plan fordert die Aufhebung der Sanktionen."
+    },
+    {
+      "term": "das Atomprogramm",
+      "translated_term": "the nuclear programme",
+      "example_usage": "Trump besteht darauf, dass der Iran zuerst auf sein Atomprogramm verzichten muss."
+    },
+    {
+      "term": "drohen",
+      "translated_term": "to threaten",
+      "example_usage": "Er drohte, dass der Iran erneut bombardiert werde."
+    },
+    {
+      "term": "die Sackgasse",
+      "translated_term": "the impasse / dead end",
+      "example_usage": "Beide Seiten befinden sich derzeit in einer diplomatischen Sackgasse."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran-Krieg",
+      "translated_name": "Iran War"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The National News: Trump warns of war if Iran 'misbehaves' as Tehran submits 14-point plan",
+      "link_url": "https://www.thenationalnews.com/news/mena/2026/05/03/trump-warns-of-war-if-iran-misbehaves-as-tehran-submits-14-point-plan/"
+    },
+    {
+      "name": "NPR: Iran submits 14-point response to U.S. proposal to end war",
+      "link_url": "https://www.npr.org/2026/05/02/nx-s1-5808924/iran-response-trump-proposal"
+    },
+    {
+      "name": "Al Jazeera: Iran war live blog — Trump says reviewing 14-point plan",
+      "link_url": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon"
+    }
+  ]
+}
