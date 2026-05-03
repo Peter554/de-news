@@ -1,0 +1,106 @@
+{
+  "title": "Bank of England hält Zinsen stabil — Ölpreis steigt wegen Iran-Krieg",
+  "translated_title": "Bank of England Holds Interest Rates Steady — Oil Price Rises Due to Iran War",
+  "text": [
+    {
+      "text": "Die Bank of England hat ihren Leitzins bei 3,75 Prozent belassen.",
+      "translated_text": "The Bank of England has kept its key interest rate at 3.75 percent."
+    },
+    {
+      "text": "Der Entscheid fiel am 30. April 2026 mit einer Mehrheit von acht zu eins.",
+      "translated_text": "The decision was taken on 30 April 2026 by a majority of eight to one."
+    },
+    {
+      "text": "Der Grund für die Entscheidung ist die wirtschaftliche Unsicherheit durch den Iran-Krieg.",
+      "translated_text": "The reason for the decision is the economic uncertainty caused by the Iran war."
+    },
+    {
+      "text": "Seit dem Beginn des Krieges ist der Ölpreis stark gestiegen.",
+      "translated_text": "Since the start of the war, the oil price has risen sharply."
+    },
+    {
+      "text": "Der Preis für ein Barrel Brent-Öl stieg kurzzeitig auf über 126 US-Dollar.",
+      "translated_text": "The price of a barrel of Brent crude oil briefly rose to over 126 US dollars."
+    },
+    {
+      "text": "Das ist der höchste Stand seit der russischen Invasion in der Ukraine im Jahr 2022.",
+      "translated_text": "That is the highest level since Russia's invasion of Ukraine in 2022."
+    },
+    {
+      "text": "Die hohen Energiekosten haben die Inflation in Großbritannien auf 3,3 Prozent getrieben.",
+      "translated_text": "The high energy costs have pushed inflation in the United Kingdom to 3.3 percent."
+    },
+    {
+      "text": "Die Bank of England warnt, dass die Inflation in einem schlimmsten Fall im Jahr 2027 auf 6,2 Prozent steigen könnte.",
+      "translated_text": "The Bank of England warns that inflation could rise to 6.2 percent in 2027 in a worst-case scenario."
+    },
+    {
+      "text": "Die Bank ist bereit, „entschlossen zu handeln", wenn die Energiepreise weiter hoch bleiben.",
+      "translated_text": "The Bank is prepared to \"act decisively\" if energy prices remain high."
+    },
+    {
+      "text": "Auch andere Zentralbanken, wie die US-Notenbank und die Bank of Japan, haben ihre Zinsen stabil gehalten.",
+      "translated_text": "Other central banks, such as the US Federal Reserve and the Bank of Japan, have also kept their rates stable."
+    },
+    {
+      "text": "Viele britische Haushalte spüren die steigenden Energiekosten bereits in ihrem Alltag.",
+      "translated_text": "Many British households are already feeling the rising energy costs in their daily lives."
+    },
+    {
+      "text": "Experten sagen, dass eine Lösung des Iran-Konflikts notwendig ist, um die Preise zu stabilisieren.",
+      "translated_text": "Experts say that a resolution to the Iran conflict is necessary to stabilise prices."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Leitzins",
+      "translated_term": "the key interest rate / base rate",
+      "example_usage": "Die Bank of England hat ihren Leitzins bei 3,75 Prozent belassen."
+    },
+    {
+      "term": "das Barrel",
+      "translated_term": "the barrel (unit of oil measurement)",
+      "example_usage": "Der Preis für ein Barrel Brent-Öl stieg auf über 126 US-Dollar."
+    },
+    {
+      "term": "die Inflation",
+      "translated_term": "the inflation",
+      "example_usage": "Die hohen Energiekosten haben die Inflation in Großbritannien auf 3,3 Prozent getrieben."
+    },
+    {
+      "term": "die Zentralbank",
+      "translated_term": "the central bank",
+      "example_usage": "Andere Zentralbanken haben ihre Zinsen ebenfalls stabil gehalten."
+    },
+    {
+      "term": "die Energiekosten",
+      "translated_term": "the energy costs",
+      "example_usage": "Viele britische Haushalte spüren die steigenden Energiekosten bereits."
+    },
+    {
+      "term": "stabilisieren",
+      "translated_term": "to stabilise",
+      "example_usage": "Eine Lösung des Iran-Konflikts ist notwendig, um die Preise zu stabilisieren."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    },
+    {
+      "name": "Iran-Krieg",
+      "translated_name": "Iran War"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews: Bank of England holds rates as Iran war sends oil prices to new highs",
+      "link_url": "https://www.euronews.com/business/2026/04/30/bank-of-england-holds-rates-as-iran-war-sends-oil-prices-to-new-highs"
+    }
+  ]
+}

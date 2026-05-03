@@ -1,0 +1,110 @@
+{
+  "title": "Umfrage: 76 Prozent mit Bundesregierung unzufrieden — AfD liegt vorne",
+  "translated_title": "Poll: 76 Percent Dissatisfied with Federal Government — AfD Takes the Lead",
+  "text": [
+    {
+      "text": "Eine neue Umfrage des Instituts Insa zeigt: 76 Prozent der Deutschen sind mit der Bundesregierung unzufrieden.",
+      "translated_text": "A new poll by the Insa institute shows: 76 percent of Germans are dissatisfied with the federal government."
+    },
+    {
+      "text": "Nur 16 Prozent der Befragten bewerten die Arbeit der Regierung positiv.",
+      "translated_text": "Only 16 percent of those surveyed rate the government's work positively."
+    },
+    {
+      "text": "Die Koalition aus CDU/CSU und SPD regiert Deutschland seit etwa einem Jahr.",
+      "translated_text": "The coalition of CDU/CSU and SPD has been governing Germany for about a year."
+    },
+    {
+      "text": "58 Prozent der Deutschen glauben nicht, dass die Koalition bis 2029 zusammenbleibt.",
+      "translated_text": "58 percent of Germans do not believe the coalition will stay together until 2029."
+    },
+    {
+      "text": "Das überraschendste Ergebnis der Umfrage ist, dass die AfD jetzt auf Platz eins liegt.",
+      "translated_text": "The most surprising result of the poll is that the AfD now holds first place."
+    },
+    {
+      "text": "Die AfD hat 28 Prozent der Stimmen und liegt damit vor der CDU/CSU mit 24 Prozent.",
+      "translated_text": "The AfD has 28 percent of votes, putting it ahead of the CDU/CSU with 24 percent."
+    },
+    {
+      "text": "Sowohl die CDU/CSU als auch die SPD haben seit der Bundestagswahl an Unterstützung verloren.",
+      "translated_text": "Both the CDU/CSU and the SPD have lost support since the federal election."
+    },
+    {
+      "text": "Viele Deutsche sind unzufrieden mit dem Umgang der Regierung mit dem Iran-Krieg.",
+      "translated_text": "Many Germans are dissatisfied with the government's handling of the Iran war."
+    },
+    {
+      "text": "Auch der angekündigte Abzug von US-Soldaten aus Deutschland belastet die Regierung.",
+      "translated_text": "The announced withdrawal of US troops from Germany is also putting pressure on the government."
+    },
+    {
+      "text": "Bundeskanzler Merz hatte die US-Strategie im Iran-Krieg öffentlich kritisiert.",
+      "translated_text": "Chancellor Merz had publicly criticised the US strategy in the Iran war."
+    },
+    {
+      "text": "Daraufhin kündigte US-Präsident Trump an, etwa 5.000 US-Soldaten aus Deutschland abzuziehen.",
+      "translated_text": "US President Trump subsequently announced that around 5,000 US troops would be withdrawn from Germany."
+    },
+    {
+      "text": "Politische Beobachter sagen, dass die Regierung schnell handeln muss, um das Vertrauen der Bevölkerung zurückzugewinnen.",
+      "translated_text": "Political observers say the government must act quickly to regain the public's trust."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Umfrage",
+      "translated_term": "the poll / survey",
+      "example_usage": "Eine neue Umfrage zeigt, dass 76 Prozent der Deutschen unzufrieden sind."
+    },
+    {
+      "term": "die Koalition",
+      "translated_term": "the coalition",
+      "example_usage": "Die Koalition aus CDU/CSU und SPD regiert Deutschland seit etwa einem Jahr."
+    },
+    {
+      "term": "die Befragten",
+      "translated_term": "the respondents / those surveyed",
+      "example_usage": "Nur 16 Prozent der Befragten bewerten die Arbeit der Regierung positiv."
+    },
+    {
+      "term": "der Abzug",
+      "translated_term": "the withdrawal",
+      "example_usage": "Der angekündigte Abzug von US-Soldaten belastet die Regierung."
+    },
+    {
+      "term": "zurückgewinnen",
+      "translated_term": "to regain / win back",
+      "example_usage": "Die Regierung muss das Vertrauen der Bevölkerung zurückgewinnen."
+    },
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "the Federal Chancellor",
+      "example_usage": "Bundeskanzler Merz hatte die US-Strategie öffentlich kritisiert."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Iran-Krieg",
+      "translated_name": "Iran War"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Der Tagesspiegel: Umfrage — 76 Prozent mit Bundesregierung unzufrieden",
+      "link_url": "https://www.tagesspiegel.de/politik/parteien-umfrage-76-prozent-mit-bundesregierung-unzufrieden-15549672.html"
+    },
+    {
+      "name": "Al Jazeera: US to withdraw 5,000 troops from Germany over Iran war spat",
+      "link_url": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat"
+    }
+  ]
+}
