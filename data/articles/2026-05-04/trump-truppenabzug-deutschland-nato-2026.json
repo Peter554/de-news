@@ -1,0 +1,134 @@
+{
+  "title": "Trump droht mit noch mehr US-Truppenabzug aus Deutschland",
+  "translated_title": "Trump Threatens Even More US Troop Withdrawals from Germany",
+  "text": [
+    {
+      "text": "US-Präsident Donald Trump hat angekündigt, mehr Soldaten aus Deutschland abzuziehen als bisher geplant.",
+      "translated_text": "US President Donald Trump has announced that more soldiers will be withdrawn from Germany than previously planned."
+    },
+    {
+      "text": "Das Pentagon hatte zunächst den Abzug von 5.000 US-Soldaten bekannt gegeben.",
+      "translated_text": "The Pentagon had initially announced the withdrawal of 5,000 US soldiers."
+    },
+    {
+      "text": "Trump sagte jedoch, dass die USA ihre Truppen in Deutschland „viel stärker" reduzieren wollen.",
+      "translated_text": "However, Trump said that the USA wants to reduce its troops in Germany 'much more significantly'."
+    },
+    {
+      "text": "Der Hintergrund ist ein Streit zwischen Trump und dem deutschen Bundeskanzler Friedrich Merz.",
+      "translated_text": "The background is a dispute between Trump and German Federal Chancellor Friedrich Merz."
+    },
+    {
+      "text": "Merz hatte die US-Politik im Iran-Konflikt öffentlich kritisiert.",
+      "translated_text": "Merz had publicly criticised US policy in the Iran conflict."
+    },
+    {
+      "text": "Darauf reagierte Trump verärgert und drohte mit weiteren Truppenreduzierungen.",
+      "translated_text": "Trump reacted angrily to this and threatened further troop reductions."
+    },
+    {
+      "text": "Auch Spanien und Italien könnten von Truppenabzügen betroffen sein.",
+      "translated_text": "Spain and Italy could also be affected by troop withdrawals."
+    },
+    {
+      "text": "Führende Politiker in den USA zeigen sich besorgt über diese Entscheidung.",
+      "translated_text": "Senior politicians in the USA are expressing concern about this decision."
+    },
+    {
+      "text": "Die Vorsitzenden beider Streitkräfteausschüsse des US-Kongresses warnen vor gefährlichen Folgen.",
+      "translated_text": "The chairs of both armed services committees in the US Congress are warning of dangerous consequences."
+    },
+    {
+      "text": "Sie sagen, der Abzug schwäche die Abschreckung gegenüber Russland.",
+      "translated_text": "They say the withdrawal weakens deterrence against Russia."
+    },
+    {
+      "text": "Deutschland hat rund 35.000 US-Soldaten auf seinem Gebiet.",
+      "translated_text": "Germany has around 35,000 US soldiers on its territory."
+    },
+    {
+      "text": "Diese Soldaten spielen eine wichtige Rolle in der NATO-Verteidigungsstrategie.",
+      "translated_text": "These soldiers play an important role in NATO's defence strategy."
+    },
+    {
+      "text": "Die Bundesregierung reagierte zurückhaltend auf Trumps Aussagen.",
+      "translated_text": "The federal government responded cautiously to Trump's statements."
+    },
+    {
+      "text": "Ein Sprecher des Kanzleramts sagte, man habe den Abzug erwartet und sei vorbereitet.",
+      "translated_text": "A spokesperson for the Chancellery said the withdrawal had been anticipated and that Germany was prepared."
+    },
+    {
+      "text": "Die NATO-Partner beobachten die Entwicklung mit großer Sorge.",
+      "translated_text": "NATO partners are watching the development with great concern."
+    },
+    {
+      "text": "Viele Experten warnen, dass ein Rückzug der USA aus Europa Russland stärken würde.",
+      "translated_text": "Many experts warn that a US withdrawal from Europe would strengthen Russia."
+    },
+    {
+      "text": "Die Diskussion zeigt, wie sehr sich die transatlantischen Beziehungen unter Trump verändert haben.",
+      "translated_text": "The discussion shows how much transatlantic relations have changed under Trump."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Truppenabzug",
+      "translated_term": "the troop withdrawal",
+      "example_usage": "Trump hat angekündigt, mehr Soldaten aus Deutschland abzuziehen als bisher geplant."
+    },
+    {
+      "term": "die Abschreckung",
+      "translated_term": "the deterrence",
+      "example_usage": "Die Vorsitzenden der Streitkräfteausschüsse warnen, der Abzug schwäche die Abschreckung gegenüber Russland."
+    },
+    {
+      "term": "zurückhaltend",
+      "translated_term": "cautiously / reservedly",
+      "example_usage": "Die Bundesregierung reagierte zurückhaltend auf Trumps Aussagen."
+    },
+    {
+      "term": "der Streitkräfteausschuss",
+      "translated_term": "the armed services committee",
+      "example_usage": "Die Vorsitzenden beider Streitkräfteausschüsse des US-Kongresses warnen vor gefährlichen Folgen."
+    },
+    {
+      "term": "transatlantisch",
+      "translated_term": "transatlantic",
+      "example_usage": "Die Diskussion zeigt, wie sehr sich die transatlantischen Beziehungen unter Trump verändert haben."
+    },
+    {
+      "term": "drohen",
+      "translated_term": "to threaten",
+      "example_usage": "Trump reagierte verärgert und drohte mit weiteren Truppenreduzierungen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "NATO",
+      "translated_name": "NATO"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC: Trump says US will withdraw troops in Germany 'a lot more than 5,000'",
+      "link_url": "https://www.cnbc.com/2026/05/02/trump-says-us-will-withdraw-troops-in-germany-a-lot-more-than-5000.html"
+    },
+    {
+      "name": "Time: US Military Drawdown in Europe Has Only Just Begun",
+      "link_url": "https://time.com/article/2026/05/03/us-withdrawal-germany-nato-spain/"
+    },
+    {
+      "name": "NPR: Germany says US troop withdrawal was 'anticipated'",
+      "link_url": "https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us"
+    }
+  ]
+}
