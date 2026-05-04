@@ -1,0 +1,130 @@
+{
+  "title": "Großbritannien erhöht Terrorwarnstufe nach antisemitischem Angriff in London",
+  "translated_title": "UK Raises Terror Threat Level After Antisemitic Attack in London",
+  "text": [
+    {
+      "text": "Großbritannien hat seine nationale Terrorwarnstufe auf „Schwerwiegend" erhöht.",
+      "translated_text": "The United Kingdom has raised its national terror threat level to 'Severe'."
+    },
+    {
+      "text": "Das ist die zweithöchste Stufe in dem britischen System.",
+      "translated_text": "This is the second-highest level in the British system."
+    },
+    {
+      "text": "Der Grund für die Erhöhung ist ein antisemitischer Angriff im Londoner Stadtteil Golders Green.",
+      "translated_text": "The reason for the increase is an antisemitic attack in the London district of Golders Green."
+    },
+    {
+      "text": "Am 30. April 2026 wurden dort zwei jüdische Männer mit einem Messer verletzt.",
+      "translated_text": "On 30 April 2026, two Jewish men were stabbed with a knife there."
+    },
+    {
+      "text": "Der Tatverdächtige heißt Essa Suleiman und ist 45 Jahre alt.",
+      "translated_text": "The suspect is named Essa Suleiman and is 45 years old."
+    },
+    {
+      "text": "Er ist britischer Staatsbürger mit somalischen Wurzeln und wurde kurz nach der Tat verhaftet.",
+      "translated_text": "He is a British citizen of Somali origin and was arrested shortly after the attack."
+    },
+    {
+      "text": "Die britische Terrorismusanalyseeinheit JTAC hat die Entscheidung über die Warnstufe getroffen.",
+      "translated_text": "The UK's Joint Terrorism Analysis Centre, JTAC, made the decision on the threat level."
+    },
+    {
+      "text": "Eine Warnstufe „Schwerwiegend" bedeutet, dass ein Anschlag in den nächsten sechs Monaten sehr wahrscheinlich ist.",
+      "translated_text": "A threat level of 'Severe' means that an attack is considered highly likely within the next six months."
+    },
+    {
+      "text": "Die Behörden erklärten, dass die Erhöhung nicht nur auf den Angriff in Golders Green zurückzuführen ist.",
+      "translated_text": "The authorities explained that the increase is not solely due to the attack in Golders Green."
+    },
+    {
+      "text": "Sie spiegelt auch eine allgemeine Zunahme islamistischer und rechtsextremistischer Terrorbedrohungen wider.",
+      "translated_text": "It also reflects a general increase in Islamist and far-right terrorist threats."
+    },
+    {
+      "text": "Golders Green ist bekannt als ein jüdisches Viertel in London.",
+      "translated_text": "Golders Green is well known as a Jewish neighbourhood in London."
+    },
+    {
+      "text": "Nach dem Angriff gab es große Unruhe und Angst in der jüdischen Gemeinschaft.",
+      "translated_text": "After the attack, there was great unease and fear within the Jewish community."
+    },
+    {
+      "text": "Die US-Botschaft in London warnte amerikanische Staatsbürger vor der erhöhten Bedrohungslage.",
+      "translated_text": "The US Embassy in London warned American citizens about the heightened threat situation."
+    },
+    {
+      "text": "Viele jüdische Gemeinden in Großbritannien fordern mehr Polizeischutz.",
+      "translated_text": "Many Jewish communities in the UK are calling for more police protection."
+    },
+    {
+      "text": "Premier Keir Starmer verurteilte den Angriff als feigen und abscheulichen Akt des Hasses.",
+      "translated_text": "Prime Minister Keir Starmer condemned the attack as a cowardly and despicable act of hatred."
+    },
+    {
+      "text": "Er versprach, dass Antisemitismus in Großbritannien keinen Platz hat.",
+      "translated_text": "He promised that antisemitism has no place in the United Kingdom."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Terrorwarnstufe",
+      "translated_term": "the terror threat level",
+      "example_usage": "Großbritannien hat seine nationale Terrorwarnstufe auf „Schwerwiegend" erhöht."
+    },
+    {
+      "term": "der Tatverdächtige",
+      "translated_term": "the suspect",
+      "example_usage": "Der Tatverdächtige heißt Essa Suleiman und ist 45 Jahre alt."
+    },
+    {
+      "term": "verhaften",
+      "translated_term": "to arrest",
+      "example_usage": "Er wurde kurz nach der Tat verhaftet."
+    },
+    {
+      "term": "widerspiegeln",
+      "translated_term": "to reflect",
+      "example_usage": "Die Erhöhung spiegelt eine allgemeine Zunahme von Terrorbedrohungen wider."
+    },
+    {
+      "term": "verurteilen",
+      "translated_term": "to condemn",
+      "example_usage": "Premier Keir Starmer verurteilte den Angriff als feigen Akt des Hasses."
+    },
+    {
+      "term": "die Gemeinschaft",
+      "translated_term": "the community",
+      "example_usage": "Nach dem Angriff gab es große Angst in der jüdischen Gemeinschaft."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Terrorismus",
+      "translated_name": "Terrorism"
+    },
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Antisemitismus",
+      "translated_name": "Antisemitism"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CBS News: UK raises terrorism threat level to 'severe' after Golders Green antisemitic attack",
+      "link_url": "https://www.cbsnews.com/news/uk-raises-terrorism-threat-level-severe-after-golders-green-attack/"
+    },
+    {
+      "name": "GOV.UK: Threat level increase following antisemitic terror attack",
+      "link_url": "https://www.gov.uk/government/news/threat-level-increase-following-antisemitic-terror-attack"
+    },
+    {
+      "name": "Al Jazeera: US embassy warns citizens in UK as threat level raised to severe",
+      "link_url": "https://www.aljazeera.com/news/2026/5/2/us-embassy-warns-citizens-in-uk-as-threat-level-raised-to-severe"
+    }
+  ]
+}

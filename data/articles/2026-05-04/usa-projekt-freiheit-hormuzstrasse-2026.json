@@ -1,0 +1,130 @@
+{
+  "title": "USA starten Operation „Project Freedom" in der Straße von Hormus",
+  "translated_title": "USA Launch Operation 'Project Freedom' in the Strait of Hormuz",
+  "text": [
+    {
+      "text": "Die USA haben eine militärische Operation gestartet, um Schiffe sicher durch die Straße von Hormus zu führen.",
+      "translated_text": "The USA has launched a military operation to guide ships safely through the Strait of Hormuz."
+    },
+    {
+      "text": "Die Operation heißt „Project Freedom", was auf Deutsch „Projekt Freiheit" bedeutet.",
+      "translated_text": "The operation is called 'Project Freedom', which means 'Projekt Freiheit' in German."
+    },
+    {
+      "text": "Seit Februar 2026 herrscht Krieg zwischen den USA, Israel und dem Iran.",
+      "translated_text": "Since February 2026, there has been a war between the USA, Israel, and Iran."
+    },
+    {
+      "text": "Seitdem sind Hunderte von Schiffen in der Straße von Hormus blockiert.",
+      "translated_text": "Since then, hundreds of ships have been blocked in the Strait of Hormuz."
+    },
+    {
+      "text": "Etwa 20.000 Seeleute steckten wochenlang in der Region fest.",
+      "translated_text": "Around 20,000 seafarers were stranded in the region for weeks."
+    },
+    {
+      "text": "Die Straße von Hormus ist eine sehr wichtige Meeresenge für den Welthandel.",
+      "translated_text": "The Strait of Hormuz is a very important strait for global trade."
+    },
+    {
+      "text": "Ein großer Teil des weltweiten Erdöls und Erdgases wird durch diese Straße transportiert.",
+      "translated_text": "A large share of the world's oil and natural gas is transported through this strait."
+    },
+    {
+      "text": "Die USA haben für die Operation rund 15.000 Soldaten eingesetzt.",
+      "translated_text": "The USA has deployed around 15,000 soldiers for the operation."
+    },
+    {
+      "text": "Außerdem sind mehr als 100 Flugzeuge und mehrere Kriegsschiffe im Einsatz.",
+      "translated_text": "In addition, more than 100 aircraft and several warships are deployed."
+    },
+    {
+      "text": "Die neutralen Handelsschiffe werden sicher durch die gefährlichen Gewässer begleitet.",
+      "translated_text": "The neutral merchant ships are escorted safely through the dangerous waters."
+    },
+    {
+      "text": "Der Iran kritisierte die Operation sofort und nannte sie eine Verletzung des Waffenstillstands.",
+      "translated_text": "Iran immediately criticised the operation and called it a violation of the ceasefire."
+    },
+    {
+      "text": "Ein iranischer Regierungsvertreter warnte, dass der Iran auf diese Provokation reagieren werde.",
+      "translated_text": "An Iranian government official warned that Iran would respond to this provocation."
+    },
+    {
+      "text": "Präsident Trump verteidigte die Operation und betonte die Bedeutung freier Handelsrouten.",
+      "translated_text": "President Trump defended the operation and stressed the importance of free trade routes."
+    },
+    {
+      "text": "Er sagte, die USA hätten das Recht und die Pflicht, internationale Gewässer offen zu halten.",
+      "translated_text": "He said the USA had the right and the duty to keep international waters open."
+    },
+    {
+      "text": "Viele Länder weltweit unterstützen die Operation und hoffen auf eine schnelle Beendigung der Krise.",
+      "translated_text": "Many countries around the world support the operation and hope for a quick end to the crisis."
+    },
+    {
+      "text": "Experten betonen, dass die Krise in der Straße von Hormus die Weltwirtschaft stark belastet.",
+      "translated_text": "Experts stress that the crisis in the Strait of Hormuz is placing a heavy burden on the global economy."
+    },
+    {
+      "text": "Steigende Energiepreise und gestörte Lieferketten haben viele Länder in wirtschaftliche Schwierigkeiten gebracht.",
+      "translated_text": "Rising energy prices and disrupted supply chains have brought many countries into economic difficulties."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Meeresenge",
+      "translated_term": "the strait / narrow sea passage",
+      "example_usage": "Die Straße von Hormus ist eine sehr wichtige Meeresenge für den Welthandel."
+    },
+    {
+      "term": "der Seemann (pl. Seeleute)",
+      "translated_term": "the sailor / seafarer",
+      "example_usage": "Etwa 20.000 Seeleute steckten wochenlang in der Region fest."
+    },
+    {
+      "term": "begleiten",
+      "translated_term": "to escort / to accompany",
+      "example_usage": "Die neutralen Handelsschiffe werden sicher durch die gefährlichen Gewässer begleitet."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire / armistice",
+      "example_usage": "Der Iran nannte die Operation eine Verletzung des Waffenstillstands."
+    },
+    {
+      "term": "die Lieferkette",
+      "translated_term": "the supply chain",
+      "example_usage": "Gestörte Lieferketten haben viele Länder in wirtschaftliche Schwierigkeiten gebracht."
+    },
+    {
+      "term": "betonen",
+      "translated_term": "to emphasise / to stress",
+      "example_usage": "Präsident Trump betonte die Bedeutung freier Handelsrouten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran-Krieg",
+      "translated_name": "Iran War"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN: US launches 'Project Freedom' to guide ships through Strait of Hormuz",
+      "link_url": "https://www.cnn.com/2026/05/04/middleeast/project-freedom-hormuz-guide-ships-intl-hnk-ml"
+    },
+    {
+      "name": "NPR: Trump says US will guide ships from the Strait of Hormuz",
+      "link_url": "https://www.npr.org/2026/05/03/nx-s1-5809536/trump-strait-hormuz"
+    }
+  ]
+}

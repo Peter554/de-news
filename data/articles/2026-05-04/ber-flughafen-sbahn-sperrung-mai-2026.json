@@ -1,0 +1,126 @@
+{
+  "title": "Bauarbeiten stören S-Bahn-Verbindung zum Flughafen BER",
+  "translated_title": "Construction Works Disrupt S-Bahn Connection to BER Airport",
+  "text": [
+    {
+      "text": "Reisende am Berliner Flughafen BER müssen sich im Mai 2026 auf Behinderungen einstellen.",
+      "translated_text": "Travellers at Berlin Brandenburg Airport (BER) must prepare for disruptions in May 2026."
+    },
+    {
+      "text": "Vom 8. bis zum 18. Mai 2026 finden Bauarbeiten an der Bahnstrecke zum Flughafen statt.",
+      "translated_text": "From 8 to 18 May 2026, construction works will take place on the railway line to the airport."
+    },
+    {
+      "text": "In dieser Zeit fahren die S-Bahn-Linien S9 und S85 nur zwischen dem Flughafen BER und dem S-Bahnhof Schönefeld.",
+      "translated_text": "During this time, S-Bahn lines S9 and S85 will only run between BER Airport and Schönefeld S-Bahn station."
+    },
+    {
+      "text": "Die restliche Strecke in die Berliner Innenstadt wird von Schienenersatzbussen übernommen.",
+      "translated_text": "The remaining stretch into Berlin city centre will be served by rail replacement buses."
+    },
+    {
+      "text": "Diese Busse haben die Linienbezeichnungen S9X und S9A.",
+      "translated_text": "These buses carry the line designations S9X and S9A."
+    },
+    {
+      "text": "Der Flughafenexpress FEX und die Regionalbahn RE20 sollen weiter fahren, aber mit geändertem Fahrplan.",
+      "translated_text": "The airport express FEX and the regional train RE20 are expected to continue running, but on an amended timetable."
+    },
+    {
+      "text": "Reisende sollten mehr Zeit für den Weg zum Flughafen einplanen.",
+      "translated_text": "Travellers should plan for extra travel time when heading to the airport."
+    },
+    {
+      "text": "Besonders in den Stoßzeiten morgens und abends kann es zu langen Wartezeiten kommen.",
+      "translated_text": "Long waiting times are particularly likely during rush hours in the morning and evening."
+    },
+    {
+      "text": "Der Flughafen BER empfiehlt, die Reiseinformationen vor der Abfahrt zu überprüfen.",
+      "translated_text": "BER Airport recommends checking travel information before departure."
+    },
+    {
+      "text": "Bauarbeiten an der Schieneninfrastruktur sind nötig, um die Strecke zu modernisieren.",
+      "translated_text": "Construction work on the rail infrastructure is necessary to modernise the line."
+    },
+    {
+      "text": "Berlin investiert seit Jahren in den Ausbau seines öffentlichen Nahverkehrs.",
+      "translated_text": "Berlin has been investing for years in expanding its public transport network."
+    },
+    {
+      "text": "Der Flughafen BER wurde 2020 nach vielen Verzögerungen eröffnet und ist seitdem in Betrieb.",
+      "translated_text": "BER Airport opened in 2020 after many delays and has been in operation since then."
+    },
+    {
+      "text": "Die Verbindung zwischen dem Flughafen und der Berliner Innenstadt ist besonders wichtig für Pendler und Touristen.",
+      "translated_text": "The connection between the airport and Berlin city centre is especially important for commuters and tourists."
+    },
+    {
+      "text": "Auch Autofahrer könnten von mehr Verkehr auf den Zufahrtsstraßen betroffen sein.",
+      "translated_text": "Drivers may also be affected by increased traffic on the approach roads."
+    },
+    {
+      "text": "Die Berliner Verkehrsbetriebe BVG und die S-Bahn Berlin haben Informationen über die Umleitungen veröffentlicht.",
+      "translated_text": "Berlin's public transport operator BVG and S-Bahn Berlin have published information about the diversions."
+    },
+    {
+      "text": "Fahrgäste können die aktuellen Fahrzeiten auf der Website der S-Bahn Berlin nachschlagen.",
+      "translated_text": "Passengers can look up current journey times on the S-Bahn Berlin website."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Behinderung",
+      "translated_term": "the disruption / obstruction",
+      "example_usage": "Reisende am Berliner Flughafen BER müssen sich im Mai 2026 auf Behinderungen einstellen."
+    },
+    {
+      "term": "der Schienenersatzbus",
+      "translated_term": "the rail replacement bus",
+      "example_usage": "Die restliche Strecke in die Berliner Innenstadt wird von Schienenersatzbussen übernommen."
+    },
+    {
+      "term": "einplanen",
+      "translated_term": "to allow for / to plan in",
+      "example_usage": "Reisende sollten mehr Zeit für den Weg zum Flughafen einplanen."
+    },
+    {
+      "term": "die Stoßzeit",
+      "translated_term": "the rush hour / peak time",
+      "example_usage": "Besonders in den Stoßzeiten morgens und abends kann es zu langen Wartezeiten kommen."
+    },
+    {
+      "term": "der Fahrplan",
+      "translated_term": "the timetable / schedule",
+      "example_usage": "Der Flughafenexpress FEX soll weiter fahren, aber mit geändertem Fahrplan."
+    },
+    {
+      "term": "nachschlagen",
+      "translated_term": "to look up",
+      "example_usage": "Fahrgäste können die aktuellen Fahrzeiten auf der Website der S-Bahn Berlin nachschlagen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    }
+  ],
+  "sources": [
+    {
+      "name": "TravelWise: Berlin Airport Rail Changes Set to Affect May Travel Plans",
+      "link_url": "https://www.travelwiseway.com/section-news/news-berlin-airport-rail-changes-set-to-affect-may-travel-plans-28-04-2026.html"
+    },
+    {
+      "name": "TravelWires: Public Transport Disruptions at Berlin Brandenburg Airport in May Due to Construction",
+      "link_url": "https://www.travelwires.com/public-transport-disruptions-at-berlin-brandenburg-airport-in-may-due-to-construction"
+    }
+  ]
+}
