@@ -1,0 +1,126 @@
+{
+  "title": "Großbritannien erhöht Terrorwarnstufe auf „SEVERE"",
+  "translated_title": "Great Britain Raises Terrorism Threat Level to 'SEVERE'",
+  "text": [
+    {
+      "text": "Großbritannien hat seine nationale Terrorwarnstufe von „SUBSTANTIAL" auf „SEVERE" angehoben.",
+      "translated_text": "Great Britain has raised its national terrorism threat level from 'SUBSTANTIAL' to 'SEVERE'."
+    },
+    {
+      "text": "Das ist die zweithöchste Stufe auf der fünfstufigen Skala.",
+      "translated_text": "This is the second-highest level on the five-point scale."
+    },
+    {
+      "text": "Die Entscheidung traf das Joint Terrorism Analysis Centre (JTAC) am 1. Mai 2026.",
+      "translated_text": "The decision was made by the Joint Terrorism Analysis Centre (JTAC) on 1 May 2026."
+    },
+    {
+      "text": "Auslöser war ein Messerangriff im Londoner Stadtteil Golders Green am 29. April.",
+      "translated_text": "The trigger was a knife attack in the London district of Golders Green on 29 April."
+    },
+    {
+      "text": "Golders Green ist bekannt als Wohnort vieler jüdischer Familien.",
+      "translated_text": "Golders Green is known as a home to many Jewish families."
+    },
+    {
+      "text": "Laut JTAC ist die Erhöhung aber nicht allein auf diesen Angriff zurückzuführen.",
+      "translated_text": "According to JTAC, however, the increase is not solely due to this attack."
+    },
+    {
+      "text": "Die Behörde spricht von einem allgemeinen Anstieg der Terrorgefahr in den letzten Monaten.",
+      "translated_text": "The authority speaks of a general increase in the terrorism threat over recent months."
+    },
+    {
+      "text": "Besonders der islamistische Extremismus bleibt die größte Bedrohung.",
+      "translated_text": "Islamic extremism in particular remains the greatest threat."
+    },
+    {
+      "text": "Aber auch rechtsextreme Terrorakte nehmen zu.",
+      "translated_text": "But right-wing extremist terrorist acts are also increasing."
+    },
+    {
+      "text": "Zusätzlich gibt es Bedrohungen gegen jüdische und israelische Personen und Einrichtungen.",
+      "translated_text": "In addition, there are threats against Jewish and Israeli individuals and institutions."
+    },
+    {
+      "text": "Die US-Botschaft in London warnte ihre Bürger ebenfalls vor der erhöhten Gefahr.",
+      "translated_text": "The US Embassy in London also warned its citizens about the heightened danger."
+    },
+    {
+      "text": "Premierminister Keir Starmer äußerte seine Bedenken über die zunehmenden Spannungen in der Gesellschaft.",
+      "translated_text": "Prime Minister Keir Starmer expressed his concerns about growing tensions in society."
+    },
+    {
+      "text": "Die Polizei wurde aufgefordert, die Sicherheit an öffentlichen Orten zu erhöhen.",
+      "translated_text": "Police were asked to increase security at public locations."
+    },
+    {
+      "text": "Bürger wurden gebeten, wachsam zu sein und verdächtiges Verhalten sofort zu melden.",
+      "translated_text": "Citizens were asked to remain vigilant and to report suspicious behaviour immediately."
+    },
+    {
+      "text": "Es ist das erste Mal seit über vier Jahren, dass die Terrorwarnstufe in Großbritannien auf „SEVERE" steht.",
+      "translated_text": "It is the first time in over four years that the terrorism threat level in Great Britain has stood at 'SEVERE'."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Terrorwarnstufe",
+      "translated_term": "the terrorism threat level",
+      "example_usage": "Großbritannien hat seine nationale Terrorwarnstufe auf „SEVERE" angehoben."
+    },
+    {
+      "term": "anheben",
+      "translated_term": "to raise / to increase",
+      "example_usage": "Großbritannien hat seine nationale Terrorwarnstufe von „SUBSTANTIAL" auf „SEVERE" angehoben."
+    },
+    {
+      "term": "der Messerangriff",
+      "translated_term": "the knife attack",
+      "example_usage": "Auslöser war ein Messerangriff im Londoner Stadtteil Golders Green."
+    },
+    {
+      "term": "die Bedrohung",
+      "translated_term": "the threat",
+      "example_usage": "Besonders der islamistische Extremismus bleibt die größte Bedrohung."
+    },
+    {
+      "term": "wachsam",
+      "translated_term": "vigilant",
+      "example_usage": "Bürger wurden gebeten, wachsam zu sein und verdächtiges Verhalten zu melden."
+    },
+    {
+      "term": "die Einrichtung",
+      "translated_term": "the institution / facility",
+      "example_usage": "Es gibt Bedrohungen gegen jüdische und israelische Personen und Einrichtungen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Terrorismus",
+      "translated_name": "Terrorism"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "MI5: UK National Terrorism Threat Level Raised To SEVERE",
+      "link_url": "https://www.mi5.gov.uk/uk-national-terrorism-threat-level-raised-to-severe"
+    },
+    {
+      "name": "Al Jazeera: US embassy warns citizens in UK as threat level raised to 'severe'",
+      "link_url": "https://www.aljazeera.com/news/2026/5/2/us-embassy-warns-citizens-in-uk-as-threat-level-raised-to-severe"
+    },
+    {
+      "name": "HSToday: UK Terrorism Threat Level Raised to 'Severe' After Golders Green Attack",
+      "link_url": "https://www.hstoday.us/subject-matter-areas/counterterrorism/uk-terrorism-threat-level-raised-to-severe-after-golders-green-attack/"
+    }
+  ]
+}
