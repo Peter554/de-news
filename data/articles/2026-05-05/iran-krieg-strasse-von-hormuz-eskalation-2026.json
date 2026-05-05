@@ -1,0 +1,126 @@
+{
+  "title": "Eskalation am Persischen Golf: Kämpfe in der Straße von Hormuz",
+  "translated_title": "Escalation in the Persian Gulf: Fighting in the Strait of Hormuz",
+  "text": [
+    {
+      "text": "Im Iran-Krieg spitzt sich die Lage an der Straße von Hormuz immer weiter zu.",
+      "translated_text": "In the Iran war, the situation in the Strait of Hormuz is continuing to escalate."
+    },
+    {
+      "text": "Die Straße von Hormuz ist einer der wichtigsten Schifffahrtswege der Welt.",
+      "translated_text": "The Strait of Hormuz is one of the world's most important shipping routes."
+    },
+    {
+      "text": "Etwa ein Fünftel des weltweiten Ölhandels läuft durch diese enge Meerenge.",
+      "translated_text": "Around a fifth of the world's oil trade passes through this narrow strait."
+    },
+    {
+      "text": "Der Iran hatte die Straße im März 2026 für geschlossen erklärt.",
+      "translated_text": "Iran had declared the strait closed in March 2026."
+    },
+    {
+      "text": "Die USA starteten deshalb die Operation „Project Freedom", um Schiffe sicher durch die Straße zu begleiten.",
+      "translated_text": "The USA therefore launched Operation 'Project Freedom' to safely escort ships through the strait."
+    },
+    {
+      "text": "In den letzten Tagen griff der Iran mehrfach Schiffe mit Drohnen und kleinen Schnellbooten an.",
+      "translated_text": "In recent days, Iran attacked ships multiple times with drones and small speedboats."
+    },
+    {
+      "text": "Amerikanische Hubschrauber versenkten sechs iranische Schnellboote.",
+      "translated_text": "American helicopters sank six Iranian speedboats."
+    },
+    {
+      "text": "Iranische Drohnen und Raketen wurden von der US-Marine abgeschossen.",
+      "translated_text": "Iranian drones and rockets were shot down by the US Navy."
+    },
+    {
+      "text": "Der Iran behauptete, ein amerikanisches Kriegsschiff getroffen zu haben.",
+      "translated_text": "Iran claimed to have hit an American warship."
+    },
+    {
+      "text": "Das US-Militär wies diese Behauptung zurück.",
+      "translated_text": "The US military rejected this claim."
+    },
+    {
+      "text": "Außerdem griff der Iran die Vereinigten Arabischen Emirate mit Drohnen und Raketen an.",
+      "translated_text": "In addition, Iran attacked the United Arab Emirates with drones and rockets."
+    },
+    {
+      "text": "Die VAE schossen 19 iranische Geschosse ab, aber drei indische Staatsangehörige wurden verletzt.",
+      "translated_text": "The UAE shot down 19 Iranian projectiles, but three Indian nationals were injured."
+    },
+    {
+      "text": "Der Konflikt treibt die Rohölpreise weltweit in die Höhe.",
+      "translated_text": "The conflict is driving up crude oil prices worldwide."
+    },
+    {
+      "text": "Viele Länder fordern dringend Friedensverhandlungen, um die Krise zu beenden.",
+      "translated_text": "Many countries are urgently calling for peace negotiations to end the crisis."
+    },
+    {
+      "text": "Die Lage bleibt sehr gefährlich und unberechenbar.",
+      "translated_text": "The situation remains very dangerous and unpredictable."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Meerenge",
+      "translated_term": "the strait / narrow sea passage",
+      "example_usage": "Etwa ein Fünftel des weltweiten Ölhandels läuft durch diese enge Meerenge."
+    },
+    {
+      "term": "begleiten",
+      "translated_term": "to escort / to accompany",
+      "example_usage": "Die USA starteten eine Operation, um Schiffe sicher durch die Straße zu begleiten."
+    },
+    {
+      "term": "das Schnellboot",
+      "translated_term": "the speedboat",
+      "example_usage": "Amerikanische Hubschrauber versenkten sechs iranische Schnellboote."
+    },
+    {
+      "term": "versenken",
+      "translated_term": "to sink",
+      "example_usage": "Amerikanische Hubschrauber versenkten sechs iranische Schnellboote."
+    },
+    {
+      "term": "zurückweisen",
+      "translated_term": "to reject / to dismiss",
+      "example_usage": "Das US-Militär wies diese Behauptung zurück."
+    },
+    {
+      "term": "unberechenbar",
+      "translated_term": "unpredictable",
+      "example_usage": "Die Lage bleibt sehr gefährlich und unberechenbar."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran-Krieg",
+      "translated_name": "Iran War"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN: US and Iranian militaries trade shots as Strait of Hormuz tensions escalate",
+      "link_url": "https://www.cnn.com/2026/05/04/world/live-news/iran-war-hormuz-trump"
+    },
+    {
+      "name": "NPR: The U.S. fights to reopen the Strait of Hormuz as UAE says it's attacked by Iran",
+      "link_url": "https://www.npr.org/2026/05/04/nx-s1-5810508/iran-war-updates"
+    },
+    {
+      "name": "Al Jazeera: War preparations under way in Iran as Hormuz tensions with US escalate",
+      "link_url": "https://www.aljazeera.com/news/2026/5/4/war-preparations-under-way-in-iran-as-hormuz-tensions-with-us-escalate"
+    }
+  ]
+}

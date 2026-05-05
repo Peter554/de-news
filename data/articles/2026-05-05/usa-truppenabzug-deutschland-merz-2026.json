@@ -1,0 +1,126 @@
+{
+  "title": "USA ziehen 5.000 Soldaten aus Deutschland ab",
+  "translated_title": "USA Withdrawing 5,000 Soldiers from Germany",
+  "text": [
+    {
+      "text": "Die USA haben angekündigt, etwa 5.000 Soldaten aus Deutschland abzuziehen.",
+      "translated_text": "The USA has announced that it will withdraw around 5,000 soldiers from Germany."
+    },
+    {
+      "text": "Das Pentagon teilte mit, dass der Abzug innerhalb von sechs bis zwölf Monaten abgeschlossen sein soll.",
+      "translated_text": "The Pentagon announced that the withdrawal should be completed within six to twelve months."
+    },
+    {
+      "text": "Hintergrund ist ein Streit zwischen US-Präsident Donald Trump und Bundeskanzler Friedrich Merz.",
+      "translated_text": "The background is a dispute between US President Donald Trump and Chancellor Friedrich Merz."
+    },
+    {
+      "text": "Merz hatte die US-Strategie im Iran-Krieg öffentlich kritisiert.",
+      "translated_text": "Merz had publicly criticised the US strategy in the Iran war."
+    },
+    {
+      "text": "Er sagte, die USA würden durch die Kriegsführung im Iran „gedemütigt".",
+      "translated_text": "He said the USA was being \"humiliated\" by its conduct of the war in Iran."
+    },
+    {
+      "text": "Trump reagierte verärgert und sagte, Merz verstehe nichts von der Lage.",
+      "translated_text": "Trump reacted angrily, saying Merz understood nothing about the situation."
+    },
+    {
+      "text": "Kurz danach kündigte Washington den Truppenabzug an.",
+      "translated_text": "Shortly after, Washington announced the troop withdrawal."
+    },
+    {
+      "text": "Trump drohte sogar mit einem noch größeren Abzug, als zunächst geplant.",
+      "translated_text": "Trump even threatened a withdrawal even larger than initially planned."
+    },
+    {
+      "text": "Der deutsche Verteidigungsminister Boris Pistorius nannte die Entscheidung „erwartet".",
+      "translated_text": "German Defence Minister Boris Pistorius called the decision \"anticipated\"."
+    },
+    {
+      "text": "Er sagte, Deutschland sei bereit, mehr Verantwortung für seine eigene Verteidigung zu übernehmen.",
+      "translated_text": "He said Germany was ready to take on more responsibility for its own defence."
+    },
+    {
+      "text": "Auch andere europäische Länder sind besorgt, da ähnliche Kürzungen in Spanien und Italien möglich sein könnten.",
+      "translated_text": "Other European countries are also concerned, as similar cuts could be possible in Spain and Italy."
+    },
+    {
+      "text": "Merz versuchte, den Konflikt mit Trump nicht weiter zu verschärfen.",
+      "translated_text": "Merz tried not to escalate the conflict with Trump any further."
+    },
+    {
+      "text": "Er betonte, dass Deutschland die Zusammenarbeit mit den USA weiterhin schätze.",
+      "translated_text": "He emphasised that Germany continued to value cooperation with the USA."
+    },
+    {
+      "text": "Der Vorfall zeigt, wie angespannt die Beziehungen zwischen Deutschland und den USA derzeit sind.",
+      "translated_text": "The incident shows how strained relations between Germany and the USA currently are."
+    },
+    {
+      "text": "Experten warnen, dass ein weiterer Rückzug der USA aus Europa die NATO schwächen könnte.",
+      "translated_text": "Experts warn that a further US withdrawal from Europe could weaken NATO."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Truppenabzug",
+      "translated_term": "the troop withdrawal",
+      "example_usage": "Die USA haben angekündigt, etwa 5.000 Soldaten aus Deutschland abzuziehen."
+    },
+    {
+      "term": "das Pentagon",
+      "translated_term": "the Pentagon",
+      "example_usage": "Das Pentagon teilte mit, dass der Abzug innerhalb von sechs bis zwölf Monaten abgeschlossen sein soll."
+    },
+    {
+      "term": "demütigen",
+      "translated_term": "to humiliate",
+      "example_usage": "Er sagte, die USA würden durch die Kriegsführung im Iran „gedemütigt"."
+    },
+    {
+      "term": "der Verteidigungsminister",
+      "translated_term": "the defence minister",
+      "example_usage": "Der deutsche Verteidigungsminister Boris Pistorius nannte die Entscheidung „erwartet"."
+    },
+    {
+      "term": "verschärfen",
+      "translated_term": "to escalate / to intensify",
+      "example_usage": "Merz versuchte, den Konflikt mit Trump nicht weiter zu verschärfen."
+    },
+    {
+      "term": "die NATO",
+      "translated_term": "NATO",
+      "example_usage": "Experten warnen, dass ein weiterer Rückzug der USA aus Europa die NATO schwächen könnte."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "NATO",
+      "translated_name": "NATO"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN: Trump threatens more cuts after US announced withdrawal of 5,000 troops from Germany",
+      "link_url": "https://www.cnn.com/2026/05/01/politics/us-troop-withdrawal-germany-trump-merz"
+    },
+    {
+      "name": "NBC News: Europe rattled by 'disastrous trend' as Trump pulls 5,000 troops out of Germany",
+      "link_url": "https://www.nbcnews.com/world/europe/europe-rattled-disastrous-trend-trump-pulls-5000-troops-germany-rcna343189"
+    },
+    {
+      "name": "NPR: Germany says U.S. troop withdrawal 'anticipated', Spain and Italy could be next",
+      "link_url": "https://www.npr.org/2026/05/02/nx-s1-5808891/europe-allies-germany-troop-withdrawal-us"
+    }
+  ]
+}
