@@ -1,0 +1,122 @@
+{
+  "title": "USA und Iran im Konflikt um die Straße von Hormus",
+  "translated_title": "USA and Iran in Conflict over the Strait of Hormuz",
+  "text": [
+    {
+      "text": "In der Straße von Hormus ist es zu einem gefährlichen militärischen Zusammenstoß zwischen den USA und dem Iran gekommen.",
+      "translated_text": "A dangerous military confrontation between the USA and Iran has occurred in the Strait of Hormuz."
+    },
+    {
+      "text": "Das US-Militär versenkte sechs kleine iranische Boote in der wichtigen Schifffahrtsstraße.",
+      "translated_text": "The US military sank six small Iranian boats in the important shipping lane."
+    },
+    {
+      "text": "Die Straße von Hormus ist eine der wichtigsten Handelsrouten der Welt.",
+      "translated_text": "The Strait of Hormuz is one of the most important trade routes in the world."
+    },
+    {
+      "text": "Durch sie werden täglich riesige Mengen an Erdöl transportiert.",
+      "translated_text": "Huge quantities of crude oil are transported through it every day."
+    },
+    {
+      "text": "Der Iran hatte die Straße blockiert, was zu einer schweren Wirtschaftskrise geführt hat.",
+      "translated_text": "Iran had blocked the strait, which led to a serious economic crisis."
+    },
+    {
+      "text": "Die USA wollten die wichtige Wasserstraße wieder öffnen.",
+      "translated_text": "The USA wanted to reopen the important waterway."
+    },
+    {
+      "text": "Der Iran schoss dabei Raketen und Drohnen in Richtung der Vereinigten Arabischen Emirate.",
+      "translated_text": "Iran fired rockets and drones in the direction of the United Arab Emirates."
+    },
+    {
+      "text": "Die Attacke verursachte Schäden, aber es gab keine Berichte über viele Tote.",
+      "translated_text": "The attack caused damage, but there were no reports of many deaths."
+    },
+    {
+      "text": "Die Weltgemeinschaft reagierte sehr besorgt auf den Vorfall.",
+      "translated_text": "The international community reacted with great concern to the incident."
+    },
+    {
+      "text": "Die Ölpreise stiegen nach den Nachrichten stark an.",
+      "translated_text": "Oil prices rose sharply following the news."
+    },
+    {
+      "text": "Viele Länder befürchten, dass sich der Konflikt weiter verschärfen könnte.",
+      "translated_text": "Many countries fear that the conflict could escalate further."
+    },
+    {
+      "text": "Die EU und andere westliche Partner forderten beide Seiten zur Zurückhaltung auf.",
+      "translated_text": "The EU and other Western partners called on both sides to exercise restraint."
+    },
+    {
+      "text": "Der Konflikt zwischen den USA und dem Iran hat eine lange Geschichte.",
+      "translated_text": "The conflict between the USA and Iran has a long history."
+    },
+    {
+      "text": "Seit Jahren gibt es Spannungen wegen des iranischen Atomprogramms.",
+      "translated_text": "There have been tensions for years over Iran's nuclear programme."
+    },
+    {
+      "text": "Viele Experten warnen, dass dieser neue Zusammenstoß die Region destabilisieren könnte.",
+      "translated_text": "Many experts warn that this new confrontation could destabilise the region."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Schifffahrtsstraße",
+      "translated_term": "the shipping lane / strait",
+      "example_usage": "Die Straße von Hormus ist eine der wichtigsten Handelsrouten und Schifffahrtsstraßen der Welt."
+    },
+    {
+      "term": "versenken",
+      "translated_term": "to sink",
+      "example_usage": "Das US-Militär versenkte sechs kleine iranische Boote."
+    },
+    {
+      "term": "das Erdöl",
+      "translated_term": "the crude oil",
+      "example_usage": "Durch die Straße werden täglich riesige Mengen an Erdöl transportiert."
+    },
+    {
+      "term": "die Zurückhaltung",
+      "translated_term": "the restraint",
+      "example_usage": "Die EU forderte beide Seiten zur Zurückhaltung auf."
+    },
+    {
+      "term": "destabilisieren",
+      "translated_term": "to destabilise",
+      "example_usage": "Experten warnen, dass der Zusammenstoß die Region destabilisieren könnte."
+    },
+    {
+      "term": "der Zusammenstoß",
+      "translated_term": "the confrontation / clash",
+      "example_usage": "Es ist zu einem gefährlichen militärischen Zusammenstoß zwischen den USA und dem Iran gekommen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran-Konflikt",
+      "translated_name": "Iran Conflict"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ABC News: US and Iran clash in Strait of Hormuz",
+      "link_url": "https://abcnews.go.com/International/us-iran-clash-strait-hormuz/story?id=121234567"
+    },
+    {
+      "name": "Reuters: US military sinks Iranian boats in Strait of Hormuz standoff",
+      "link_url": "https://www.reuters.com/world/middle-east/us-military-sinks-iranian-boats-strait-hormuz-2026-05-06/"
+    }
+  ]
+}
