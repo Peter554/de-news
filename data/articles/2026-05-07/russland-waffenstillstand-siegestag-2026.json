@@ -1,0 +1,126 @@
+{
+  "title": "Russland kündigt Waffenstillstand zum Siegestag an",
+  "translated_title": "Russia Announces Ceasefire for Victory Day",
+  "text": [
+    {
+      "text": "Am 4. Mai 2026 hat Russland einen einseitigen Waffenstillstand in der Ukraine angekündigt.",
+      "translated_text": "On 4 May 2026, Russia announced a unilateral ceasefire in Ukraine."
+    },
+    {
+      "text": "Der Waffenstillstand soll am 8. und 9. Mai gelten.",
+      "translated_text": "The ceasefire is to apply on 8 and 9 May."
+    },
+    {
+      "text": "An diesen Tagen feiert Russland den Siegestag – den 81. Jahrestag des Endes des Zweiten Weltkrieges.",
+      "translated_text": "On these days, Russia celebrates Victory Day – the 81st anniversary of the end of the Second World War."
+    },
+    {
+      "text": "Präsident Wladimir Putin hat die Entscheidung persönlich angeordnet.",
+      "translated_text": "President Vladimir Putin personally ordered the decision."
+    },
+    {
+      "text": "Das russische Verteidigungsministerium gab eine offizielle Erklärung ab.",
+      "translated_text": "The Russian Ministry of Defence issued an official statement."
+    },
+    {
+      "text": "Gleichzeitig drohte Russland mit massiven Raketenangriffen auf Kiew, falls die ukrainischen Streitkräfte die Feiern stören sollten.",
+      "translated_text": "At the same time, Russia threatened massive rocket attacks on Kyiv if the Ukrainian armed forces were to disrupt the celebrations."
+    },
+    {
+      "text": "Der ukrainische Präsident Wolodymyr Selenskyj reagierte kritisch auf die Ankündigung.",
+      "translated_text": "Ukrainian President Volodymyr Zelenskyy responded critically to the announcement."
+    },
+    {
+      "text": "Er sprach von „extremem Zynismus\" seitens Russlands.",
+      "translated_text": "He spoke of \"extreme cynicism\" on the part of Russia."
+    },
+    {
+      "text": "Selenskyj erklärte, dass Russland kurz vor der Ankündigung noch Angriffe auf ukrainische Städte geführt habe.",
+      "translated_text": "Zelenskyy stated that Russia had carried out attacks on Ukrainian cities shortly before the announcement."
+    },
+    {
+      "text": "Die Ukraine hatte ihrerseits vorgeschlagen, bereits ab dem 6. Mai einen Waffenstillstand zu beginnen.",
+      "translated_text": "Ukraine had itself proposed beginning a ceasefire from 6 May onwards."
+    },
+    {
+      "text": "Russland hatte diesen Vorschlag ignoriert.",
+      "translated_text": "Russia had ignored this proposal."
+    },
+    {
+      "text": "Viele Beobachter sehen den russischen Waffenstillstand als politische Geste zum Jahrestag.",
+      "translated_text": "Many observers see the Russian ceasefire as a political gesture for the anniversary."
+    },
+    {
+      "text": "Sie bezweifeln, dass er zu echten Friedensverhandlungen führen wird.",
+      "translated_text": "They doubt that it will lead to genuine peace negotiations."
+    },
+    {
+      "text": "Die internationale Gemeinschaft beobachtet die Situation genau.",
+      "translated_text": "The international community is watching the situation closely."
+    },
+    {
+      "text": "Diplomaten hoffen, dass der Waffenstillstand verlängert wird und beide Seiten an den Verhandlungstisch kommen.",
+      "translated_text": "Diplomats hope that the ceasefire will be extended and that both sides will come to the negotiating table."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "einseitig",
+      "translated_term": "unilateral / one-sided",
+      "example_usage": "Russland hat einen einseitigen Waffenstillstand angekündigt."
+    },
+    {
+      "term": "anordnen",
+      "translated_term": "to order / to decree",
+      "example_usage": "Präsident Putin hat die Entscheidung persönlich angeordnet."
+    },
+    {
+      "term": "die Ankündigung",
+      "translated_term": "the announcement",
+      "example_usage": "Selenskyj reagierte kritisch auf die Ankündigung."
+    },
+    {
+      "term": "der Zynismus",
+      "translated_term": "cynicism",
+      "example_usage": "Selenskyj sprach von „extremem Zynismus\" seitens Russlands."
+    },
+    {
+      "term": "bezweifeln",
+      "translated_term": "to doubt",
+      "example_usage": "Sie bezweifeln, dass er zu echten Friedensverhandlungen führen wird."
+    },
+    {
+      "term": "der Verhandlungstisch",
+      "translated_term": "the negotiating table",
+      "example_usage": "Diplomaten hoffen, dass beide Seiten an den Verhandlungstisch kommen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    },
+    {
+      "name": "Waffenstillstand",
+      "translated_name": "Ceasefire"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Pravda DE: Russland hat einen Waffenstillstand mit der Ukraine für den 8. bis 9. Mai angekündigt",
+      "link_url": "https://deutsch.news-pravda.com/world/2026/05/04/683633.html"
+    },
+    {
+      "name": "ZDF: Ukraine-Krieg im Liveticker",
+      "link_url": "https://www.zdfheute.de/politik/ausland/ukraine-russland-konflikt-blog-102.html"
+    },
+    {
+      "name": "Athen Nachrichten: Russland kündigt einen Waffenstillstand für den 8. bis 9. Mai an",
+      "link_url": "https://de.rua.gr/2026/05/04/russland-kuendigt-einen-waffenstillstand-fuer-den-8-bis-9-mai-an-das-russische-verteidigungsministerium-gab-eine-offizielle-erklaerung-ab/"
+    }
+  ]
+}
