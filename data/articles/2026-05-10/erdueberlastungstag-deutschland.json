@@ -1,0 +1,121 @@
+{
+  "title": "Deutschlands Erdüberlastungstag fällt auf den 10. Mai 2026",
+  "translated_title": "Germany's Earth Overshoot Day Falls on 10 May 2026",
+  "text": [
+    {
+      "text": "Am 10. Mai 2026 ist der sogenannte Erdüberlastungstag für Deutschland.",
+      "translated_text": "On 10 May 2026, the so-called Earth Overshoot Day falls for Germany."
+    },
+    {
+      "text": "Das bedeutet, dass Deutschland an diesem Tag rechnerisch alle natürlichen Ressourcen verbraucht hat, die eigentlich für ein ganzes Jahr reichen sollten.",
+      "translated_text": "This means that Germany has mathematically used up all natural resources by this day that should actually last a whole year."
+    },
+    {
+      "text": "Von diesem Tag an lebt Deutschland „auf Pump“ – also auf Kosten der Natur.",
+      "translated_text": "From this day on, Germany lives \"on credit\" – that is, at the expense of nature."
+    },
+    {
+      "text": "Den Erdüberlastungstag berechnet jedes Jahr die Organisation Global Footprint Network.",
+      "translated_text": "The Global Footprint Network calculates the Earth Overshoot Day for each country every year."
+    },
+    {
+      "text": "Wenn alle Menschen der Welt so lebten wie die Deutschen, würde man 2,8 Erden brauchen.",
+      "translated_text": "If all people in the world lived like Germans, 2.8 Earths would be needed."
+    },
+    {
+      "text": "Die größten Ursachen für den hohen Ressourcenverbrauch in Deutschland sind fossile Energieträger und der energieintensive Industriesektor.",
+      "translated_text": "The biggest causes of high resource consumption in Germany are fossil fuels and the energy-intensive industrial sector."
+    },
+    {
+      "text": "Auch der Straßenverkehr, der Bausektor und die industrielle Tierhaltung tragen erheblich dazu bei.",
+      "translated_text": "Road transport, the construction sector and industrial animal farming also contribute significantly to this."
+    },
+    {
+      "text": "Im Jahr 2025 fiel der Erdüberlastungstag für Deutschland noch auf den 3. Mai.",
+      "translated_text": "In the year 2025, Germany's Earth Overshoot Day fell on 3 May."
+    },
+    {
+      "text": "Die Verschiebung auf den 10. Mai in 2026 bedeutet jedoch keine echte Verbesserung.",
+      "translated_text": "However, the shift to 10 May in 2026 does not represent a real improvement."
+    },
+    {
+      "text": "Sie ist hauptsächlich auf neue Daten und geänderte Berechnungsmethoden zurückzuführen.",
+      "translated_text": "It is mainly due to updated data and changed calculation methods."
+    },
+    {
+      "text": "Umweltorganisationen wie der WWF kritisieren, dass Deutschland immer noch zu sehr auf Öl, Gas und Kohle setzt.",
+      "translated_text": "Environmental organisations such as WWF criticise that Germany still relies too heavily on oil, gas and coal."
+    },
+    {
+      "text": "Sie fordern einen schnelleren Übergang zu erneuerbaren Energien.",
+      "translated_text": "They demand a faster transition to renewable energies."
+    },
+    {
+      "text": "Der Erdüberlastungstag für die gesamte Erde wird normalerweise erst im Sommer festgesetzt.",
+      "translated_text": "The Earth Overshoot Day for the entire Earth is usually not set until summer."
+    },
+    {
+      "text": "Reiche Industrieländer wie Deutschland, die USA oder Australien verbrauchen ihre Ressourcen aber viel früher.",
+      "translated_text": "Rich industrialised countries like Germany, the USA or Australia use up their resources much earlier."
+    },
+    {
+      "text": "Der Erdüberlastungstag soll die Menschen daran erinnern, dass ein nachhaltiger Lebensstil für die Zukunft unseres Planeten notwendig ist.",
+      "translated_text": "Earth Overshoot Day is meant to remind people that a sustainable lifestyle is necessary for the future of our planet."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Erdüberlastungstag",
+      "translated_term": "Earth Overshoot Day",
+      "example_usage": "Am 10. Mai 2026 ist der sogenannte Erdüberlastungstag für Deutschland."
+    },
+    {
+      "term": "verbrauchen",
+      "translated_term": "to consume / use up",
+      "example_usage": "Deutschland hat rechnerisch alle natürlichen Ressourcen verbraucht, die für ein ganzes Jahr reichen sollten."
+    },
+    {
+      "term": "die Ressource",
+      "translated_term": "resource",
+      "example_usage": "Die größten Ursachen für den hohen Ressourcenverbrauch in Deutschland sind fossile Energieträger."
+    },
+    {
+      "term": "erneuerbar",
+      "translated_term": "renewable",
+      "example_usage": "Sie fordern einen schnelleren Übergang zu erneuerbaren Energien."
+    },
+    {
+      "term": "nachhaltig",
+      "translated_term": "sustainable",
+      "example_usage": "Der Erdüberlastungstag soll die Menschen daran erinnern, dass ein nachhaltiger Lebensstil notwendig ist."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Umweltschutz",
+      "translated_name": "Environmental Protection"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Erneuerbare Energien",
+      "translated_name": "Renewable Energy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berliner Zeitung: Deutschlands Ressourcen schon verbraucht? Erdüberlastungstag fällt bereits auf den 10. Mai",
+      "link_url": "https://www.berliner-zeitung.de/article/deutschlands-ressourcen-schon-verbraucht-erdueberlastungstag-faellt-bereits-auf-den-10-mai-10035269"
+    },
+    {
+      "name": "taz: Erdüberlastungstag in Deutschland: Natürliche Ressourcen für 2026 aufgebraucht",
+      "link_url": "https://taz.de/Erdueberlastungstag-in-Deutschland/!6177500/"
+    },
+    {
+      "name": "Der Freitag: Earth Overshoot Day 10. Mai 2026: Ab nun leben die Deutschen auf Kosten anderer",
+      "link_url": "https://www.freitag.de/autoren/nick-reimer/earth-overshoot-day-10-mai-2026-ab-nun-leben-die-deutschen-auf-kosten-anderer"
+    }
+  ]
+}

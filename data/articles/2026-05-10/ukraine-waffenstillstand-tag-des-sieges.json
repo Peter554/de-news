@@ -1,0 +1,121 @@
+{
+  "title": "Russland und Ukraine einigen sich auf Waffenstillstand zum Tag des Sieges",
+  "translated_title": "Russia and Ukraine Agree on Ceasefire for Victory Day",
+  "text": [
+    {
+      "text": "Am 9. Mai feiert Russland den Tag des Sieges – einen wichtigen Feiertag zum Ende des Zweiten Weltkriegs.",
+      "translated_text": "On 9 May, Russia celebrates Victory Day – an important holiday marking the end of World War II."
+    },
+    {
+      "text": "In diesem Jahr gab es einen besonderen Anlass: einen Waffenstillstand zwischen Russland und der Ukraine.",
+      "translated_text": "This year there was a special occasion: a ceasefire between Russia and Ukraine."
+    },
+    {
+      "text": "US-Präsident Donald Trump hatte zuvor verkündet, dass beide Länder einem dreitägigen Waffenstillstand zugestimmt haben.",
+      "translated_text": "US President Donald Trump had previously announced that both countries had agreed to a three-day ceasefire."
+    },
+    {
+      "text": "Der Waffenstillstand sollte vom 9. bis 11. Mai gelten.",
+      "translated_text": "The ceasefire was to last from 9 to 11 May."
+    },
+    {
+      "text": "Er beinhaltete auch eine Pause aller Kampfhandlungen und einen großen Gefangenenaustausch.",
+      "translated_text": "It also included a halt to all combat activities and a large prisoner exchange."
+    },
+    {
+      "text": "Wladimir Putin hielt seine Siegesparade auf dem Roten Platz in Moskau ab – aber diesmal ohne militärische Fahrzeuge.",
+      "translated_text": "Vladimir Putin held his Victory Day parade on Red Square in Moscow – but this time without military vehicles."
+    },
+    {
+      "text": "Das war das erste Mal seit fast zwanzig Jahren, dass keine Panzer oder Raketen bei der Parade gezeigt wurden.",
+      "translated_text": "This was the first time in almost twenty years that no tanks or missiles were shown at the parade."
+    },
+    {
+      "text": "Putin begründete dies mit dem Waffenstillstand und Sicherheitsbedenken.",
+      "translated_text": "Putin justified this with the ceasefire and security concerns."
+    },
+    {
+      "text": "Neben der Parade fanden Gespräche mit ausländischen Staatsgästen statt.",
+      "translated_text": "Alongside the parade, talks took place with foreign heads of state."
+    },
+    {
+      "text": "Putin sagte danach, er glaube, dass der Krieg in der Ukraine bald enden werde.",
+      "translated_text": "Putin said afterwards that he believes the war in Ukraine will end soon."
+    },
+    {
+      "text": "Präsident Selenskyj bestätigte, dass er bereit sei, ein persönliches Treffen mit Putin abzuhalten.",
+      "translated_text": "President Zelensky confirmed that he was ready to hold a personal meeting with Putin."
+    },
+    {
+      "text": "Zuvor hatten beide Seiten sich gegenseitig beschuldigt, frühere Waffenstillstände verletzt zu haben.",
+      "translated_text": "Previously, both sides had accused each other of violating earlier ceasefires."
+    },
+    {
+      "text": "Russland hatte zunächst einen einseitigen Waffenstillstand für den 8. und 9. Mai erklärt.",
+      "translated_text": "Russia had initially declared a unilateral ceasefire for 8 and 9 May."
+    },
+    {
+      "text": "Die Ukraine antwortete mit einem eigenen Waffenstillstand für den 5. und 6. Mai.",
+      "translated_text": "Ukraine responded with its own ceasefire for 5 and 6 May."
+    },
+    {
+      "text": "Obwohl ein dauerhafter Frieden noch weit entfernt scheint, sehen viele den Waffenstillstand als einen wichtigen ersten Schritt.",
+      "translated_text": "Although a lasting peace still seems far off, many see the ceasefire as an important first step."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "ceasefire",
+      "example_usage": "Beide Länder haben einem dreitägigen Waffenstillstand zugestimmt."
+    },
+    {
+      "term": "verkünden",
+      "translated_term": "to announce",
+      "example_usage": "Trump hatte verkündet, dass beide Länder einem Waffenstillstand zugestimmt haben."
+    },
+    {
+      "term": "die Parade",
+      "translated_term": "parade",
+      "example_usage": "Putin hielt seine Siegesparade auf dem Roten Platz ab."
+    },
+    {
+      "term": "der Gefangenenaustausch",
+      "translated_term": "prisoner exchange",
+      "example_usage": "Der Waffenstillstand beinhaltete auch einen großen Gefangenenaustausch."
+    },
+    {
+      "term": "das Treffen",
+      "translated_term": "meeting",
+      "example_usage": "Selenskyj bestätigte, dass er bereit sei, ein persönliches Treffen mit Putin abzuhalten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN: Russia holds scaled-down Victory Day parade as temporary ceasefire takes effect",
+      "link_url": "https://www.cnn.com/2026/05/09/europe/russia-military-parade-ceasefire-intl-hnk"
+    },
+    {
+      "name": "NPR: Trump says Russia and Ukraine have agreed to his request for a 3-day ceasefire",
+      "link_url": "https://www.npr.org/2026/05/09/nx-s1-5816478/trump-russia-ukraine-ceasefire"
+    },
+    {
+      "name": "Al Jazeera: Trump announces three-day ceasefire in Russia-Ukraine war",
+      "link_url": "https://www.aljazeera.com/news/2026/5/8/trump-announces-three-day-ceasefire-in-russia-ukraine-war"
+    }
+  ]
+}

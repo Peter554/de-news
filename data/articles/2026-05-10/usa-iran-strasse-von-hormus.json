@@ -1,0 +1,121 @@
+{
+  "title": "USA und Iran beschießen sich in der Straße von Hormus",
+  "translated_title": "USA and Iran Fire on Each Other in the Strait of Hormuz",
+  "text": [
+    {
+      "text": "Am 7. Mai 2026 gab es in der Straße von Hormus einen gefährlichen Zwischenfall.",
+      "translated_text": "On 7 May 2026, a dangerous incident occurred in the Strait of Hormuz."
+    },
+    {
+      "text": "US-amerikanische und iranische Streitkräfte haben sich gegenseitig beschossen.",
+      "translated_text": "US and Iranian forces fired on each other."
+    },
+    {
+      "text": "Drei US-Kriegsschiffe fuhren durch die Meerenge, als es zu dem Vorfall kam.",
+      "translated_text": "Three US warships were passing through the strait when the incident occurred."
+    },
+    {
+      "text": "Das US-Militär behauptete, der Iran habe zuerst geschossen und man habe nur auf die Angriffe reagiert.",
+      "translated_text": "The US military claimed that Iran had fired first and that they had only responded to the attacks."
+    },
+    {
+      "text": "Der Iran wies diese Beschuldigung zurück.",
+      "translated_text": "Iran rejected this accusation."
+    },
+    {
+      "text": "Der Vorfall war ein ernsthafter Test für den Waffenstillstand zwischen den USA und dem Iran, der seit etwa einem Monat in Kraft war.",
+      "translated_text": "The incident was a serious test of the ceasefire between the USA and Iran, which had been in effect for about a month."
+    },
+    {
+      "text": "Zuvor hatte es zwischen April und Mai 2026 einen Krieg zwischen den USA, Israel und dem Iran gegeben.",
+      "translated_text": "Previously, there had been a war between the USA, Israel and Iran in April and May 2026."
+    },
+    {
+      "text": "Bei diesem Krieg starben mehr als 3.400 Menschen im Iran und fast 2.700 im Libanon.",
+      "translated_text": "In this war, more than 3,400 people died in Iran and almost 2,700 in Lebanon."
+    },
+    {
+      "text": "Die Straße von Hormus ist eine strategisch wichtige Meerenge zwischen dem Iran und dem Oman.",
+      "translated_text": "The Strait of Hormuz is a strategically important strait between Iran and Oman."
+    },
+    {
+      "text": "Durch sie wird ein Großteil des weltweiten Öls transportiert.",
+      "translated_text": "A large proportion of the world's oil is transported through it."
+    },
+    {
+      "text": "Wegen der anhaltenden Spannungen war die Meerenge für den normalen Schiffsverkehr praktisch gesperrt.",
+      "translated_text": "Due to the ongoing tensions, the strait was practically closed to normal shipping traffic."
+    },
+    {
+      "text": "Die USA starteten deshalb die Operation „Project Freedom“, um Handelsschiffe durch die Meerenge zu begleiten.",
+      "translated_text": "The USA therefore launched Operation \"Project Freedom\" to escort merchant ships through the strait."
+    },
+    {
+      "text": "US-Präsident Trump hatte den Waffenstillstand im April verlängert, weil es Fortschritte in den Verhandlungen gegeben hatte.",
+      "translated_text": "US President Trump had extended the ceasefire in April because there had been progress in negotiations."
+    },
+    {
+      "text": "Doch der Vorfall vom 7. Mai zeigt, wie fragil die Lage noch immer ist.",
+      "translated_text": "But the incident of 7 May shows how fragile the situation still is."
+    },
+    {
+      "text": "Die Verhandlungen zwischen den USA und dem Iran über ein dauerhaftes Friedensabkommen gehen weiter.",
+      "translated_text": "Negotiations between the USA and Iran on a lasting peace deal continue."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Meerenge",
+      "translated_term": "strait",
+      "example_usage": "Die Straße von Hormus ist eine strategisch wichtige Meerenge zwischen dem Iran und dem Oman."
+    },
+    {
+      "term": "beschießen",
+      "translated_term": "to fire on / to shoot at",
+      "example_usage": "US-amerikanische und iranische Streitkräfte haben sich gegenseitig beschossen."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "ceasefire",
+      "example_usage": "Der Vorfall war ein ernsthafter Test für den Waffenstillstand zwischen den USA und dem Iran."
+    },
+    {
+      "term": "begleiten",
+      "translated_term": "to escort / accompany",
+      "example_usage": "Die USA starteten eine Operation, um Handelsschiffe durch die Meerenge zu begleiten."
+    },
+    {
+      "term": "fragil",
+      "translated_term": "fragile",
+      "example_usage": "Doch der Vorfall vom 7. Mai zeigt, wie fragil die Lage noch immer ist."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran-Krieg",
+      "translated_name": "Iran War"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Waffenstillstand",
+      "translated_name": "Ceasefire"
+    }
+  ],
+  "sources": [
+    {
+      "name": "PBS NewsHour: U.S. destroyers and Iran trade fire in Strait of Hormuz in serious test of ceasefire",
+      "link_url": "https://www.pbs.org/newshour/show/u-s-destroyers-and-iran-trade-fire-in-strait-of-hormuz-in-serious-test-of-ceasefire"
+    },
+    {
+      "name": "Washington Post: U.S. strikes two Iranian-flagged ships as tensions rise amid ceasefire",
+      "link_url": "https://www.washingtonpost.com/national-security/2026/05/08/us-iran-ceasefire-hormuz-attacks/"
+    },
+    {
+      "name": "NPR: The U.S. fires on Iranian tankers trying to evade its blockade amid a Hormuz standoff",
+      "link_url": "https://www.npr.org/2026/05/08/g-s1-121061/iran-war-updates"
+    }
+  ]
+}
