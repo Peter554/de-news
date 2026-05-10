@@ -1,0 +1,121 @@
+{
+  "title": "Meningitis-Ausbruch in der englischen Grafschaft Kent",
+  "translated_title": "Meningitis Outbreak in the English County of Kent",
+  "text": [
+    {
+      "text": "Im März 2026 begann in der englischen Grafschaft Kent ein Ausbruch von Meningitis B.",
+      "translated_text": "In March 2026, an outbreak of meningitis B began in the English county of Kent."
+    },
+    {
+      "text": "Man glaubt, dass der Ausbruch in einem Nachtclub in Canterbury begonnen hat.",
+      "translated_text": "It is believed that the outbreak began in a nightclub in Canterbury."
+    },
+    {
+      "text": "Meningitis ist eine ernste Krankheit, die das Gehirn und das Rückenmark befallen kann.",
+      "translated_text": "Meningitis is a serious disease that can affect the brain and spinal cord."
+    },
+    {
+      "text": "Die Krankheit wird durch Bakterien verursacht und kann sich schnell ausbreiten.",
+      "translated_text": "The disease is caused by bacteria and can spread quickly."
+    },
+    {
+      "text": "Besonders junge Erwachsene und Studenten der Universität Kent waren betroffen.",
+      "translated_text": "Young adults and students at the University of Kent were particularly affected."
+    },
+    {
+      "text": "Bis Ende März 2026 gab es insgesamt 21 bestätigte Fälle.",
+      "translated_text": "By the end of March 2026, there were a total of 21 confirmed cases."
+    },
+    {
+      "text": "Leider starben zwei Menschen an der Krankheit.",
+      "translated_text": "Sadly, two people died from the disease."
+    },
+    {
+      "text": "Die britische Gesundheitsbehörde reagierte schnell auf den Ausbruch.",
+      "translated_text": "The British health authority responded quickly to the outbreak."
+    },
+    {
+      "text": "Mehr als 10.500 Antibiotika-Dosen und 4.500 Impfungen wurden in der Region verabreicht.",
+      "translated_text": "More than 10,500 antibiotic doses and 4,500 vaccinations were administered in the region."
+    },
+    {
+      "text": "Die Impfkampagne wurde auch auf Schüler der elften Klasse ausgeweitet.",
+      "translated_text": "The vaccination campaign was also extended to Year 11 students."
+    },
+    {
+      "text": "Im Mai stiegen die Fallzahlen weiter an – von 29 auf 34 bestätigte Fälle.",
+      "translated_text": "In May, case numbers continued to rise – from 29 to 34 confirmed cases."
+    },
+    {
+      "text": "Die europäische Gesundheitsbehörde ECDC stufte das Risiko für die EU als sehr gering ein.",
+      "translated_text": "The European health authority ECDC classified the risk for the EU as very low."
+    },
+    {
+      "text": "Dennoch appellierten die Behörden an die Bevölkerung, die Symptome von Meningitis zu kennen.",
+      "translated_text": "Nevertheless, authorities appealed to the public to be aware of the symptoms of meningitis."
+    },
+    {
+      "text": "Zu den Symptomen gehören starke Kopfschmerzen, hohes Fieber und Nackensteifigkeit.",
+      "translated_text": "Symptoms include severe headaches, high fever and a stiff neck."
+    },
+    {
+      "text": "Wer solche Symptome bemerkt, sollte sofort einen Arzt aufsuchen.",
+      "translated_text": "Anyone who notices such symptoms should see a doctor immediately."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Ausbruch",
+      "translated_term": "outbreak",
+      "example_usage": "Im März 2026 begann in der englischen Grafschaft Kent ein Ausbruch von Meningitis B."
+    },
+    {
+      "term": "die Impfung",
+      "translated_term": "vaccination",
+      "example_usage": "4.500 Impfungen wurden in der Region verabreicht."
+    },
+    {
+      "term": "die Bakterien",
+      "translated_term": "bacteria",
+      "example_usage": "Die Krankheit wird durch Bakterien verursacht und kann sich schnell ausbreiten."
+    },
+    {
+      "term": "ausweiten",
+      "translated_term": "to extend / expand",
+      "example_usage": "Die Impfkampagne wurde auch auf Schüler der elften Klasse ausgeweitet."
+    },
+    {
+      "term": "die Nackensteifigkeit",
+      "translated_term": "stiff neck",
+      "example_usage": "Zu den Symptomen gehören starke Kopfschmerzen, hohes Fieber und Nackensteifigkeit."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Meningitis",
+      "translated_name": "Meningitis"
+    },
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Öffentliche Gesundheit",
+      "translated_name": "Public Health"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia: 2026 Kent meningitis outbreak",
+      "link_url": "https://en.wikipedia.org/wiki/2026_Kent_meningitis_outbreak"
+    },
+    {
+      "name": "GOV.UK: Cases of invasive meningococcal disease confirmed in Kent",
+      "link_url": "https://www.gov.uk/government/news/cases-of-invasive-meningococcal-disease-confirmed-in-kent"
+    },
+    {
+      "name": "CNN: A meningitis B outbreak is happening in the UK. What people should know",
+      "link_url": "https://www.cnn.com/2026/03/20/health/meningitis-outbreak-vaccine-wellness"
+    }
+  ]
+}
