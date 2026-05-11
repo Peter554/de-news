@@ -1,0 +1,146 @@
+{
+  "title": "Labour erleidet schwere Verluste bei britischen Kommunalwahlen",
+  "translated_title": "Labour suffers heavy losses in British local elections",
+  "text": [
+    {
+      "text": "Die britische Labour-Partei hat bei den Kommunalwahlen in England und Wales schwere Verluste erlitten.",
+      "translated_text": "The British Labour Party suffered heavy losses in the local elections in England and Wales."
+    },
+    {
+      "text": "Labour hat mehr als 1.100 Sitze verloren, die sie zuvor gehalten hatte.",
+      "translated_text": "Labour lost more than 1,100 seats it had previously held."
+    },
+    {
+      "text": "Die rechtspopulistische Partei Reform UK hat dagegen mehr als 1.400 Sitze gewonnen.",
+      "translated_text": "The right-wing populist party Reform UK, on the other hand, gained more than 1,400 seats."
+    },
+    {
+      "text": "Das ist ein großer Erfolg für Reform UK und ihren Vorsitzenden Nigel Farage.",
+      "translated_text": "This is a great success for Reform UK and its leader Nigel Farage."
+    },
+    {
+      "text": "Reform UK hat jetzt die Kontrolle über mehrere wichtige Kreise in England übernommen.",
+      "translated_text": "Reform UK has now taken control of several important counties in England."
+    },
+    {
+      "text": "Dazu gehören Essex im Süden und die Stadt Sunderland im Norden.",
+      "translated_text": "These include Essex in the south and the city of Sunderland in the north."
+    },
+    {
+      "text": "In London hat Reform UK zum ersten Mal einen Stadtbezirk gewonnen, nämlich Havering.",
+      "translated_text": "In London, Reform UK won a borough for the first time, namely Havering."
+    },
+    {
+      "text": "In Wales hat Labour zum ersten Mal nach 27 Jahren die Regierung verloren.",
+      "translated_text": "In Wales, Labour lost power for the first time in 27 years."
+    },
+    {
+      "text": "Dort ist die walisische Nationalpartei Plaid Cymru stärkste Kraft geworden.",
+      "translated_text": "There, the Welsh nationalist party Plaid Cymru became the strongest party."
+    },
+    {
+      "text": "Viele Menschen in Großbritannien sind unzufrieden mit Premierminister Keir Starmer.",
+      "translated_text": "Many people in Great Britain are dissatisfied with Prime Minister Keir Starmer."
+    },
+    {
+      "text": "Die schwache Wirtschaft und politische Skandale haben die Unterstützung für Labour verringert.",
+      "translated_text": "The weak economy and political scandals have reduced support for Labour."
+    },
+    {
+      "text": "Auch der Gaza-Konflikt hat viele traditionelle Labour-Wähler weggetrieben.",
+      "translated_text": "The Gaza conflict also drove away many traditional Labour voters."
+    },
+    {
+      "text": "Einige Labour-Abgeordnete fordern Starmer auf, zurückzutreten.",
+      "translated_text": "Some Labour MPs are calling on Starmer to resign."
+    },
+    {
+      "text": "Labour-Politikerin Catherine West hat den Kabinettsmitgliedern eine Frist bis Montag gegeben.",
+      "translated_text": "Labour politician Catherine West gave cabinet members a deadline until Monday."
+    },
+    {
+      "text": "Wenn das niemand tut, will sie selbst eine Führungsdebatte starten.",
+      "translated_text": "If no one does so, she intends to launch a leadership debate herself."
+    },
+    {
+      "text": "Premierminister Starmer hat aber erklärt, dass er nicht zurücktreten wird.",
+      "translated_text": "However, Prime Minister Starmer declared that he will not resign."
+    },
+    {
+      "text": "Er beschreibt seine Regierung als ein „10-Jahres-Projekt der Erneuerung“.",
+      "translated_text": "He describes his government as a '10-year project of renewal'."
+    },
+    {
+      "text": "Starmer will die Labour-Partei auch bei der nächsten Parlamentswahl führen.",
+      "translated_text": "Starmer intends to lead the Labour Party at the next general election too."
+    },
+    {
+      "text": "Diese Ergebnisse zeigen, wie stark sich die politische Landschaft in Großbritannien verändert hat.",
+      "translated_text": "These results show how greatly the political landscape in Great Britain has changed."
+    },
+    {
+      "text": "Viele Beobachter fragen sich, ob Labour noch eine Chance hat, bei der nächsten Wahl zu gewinnen.",
+      "translated_text": "Many observers wonder whether Labour still has a chance of winning the next election."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Kommunalwahl",
+      "translated_term": "the local election",
+      "example_usage": "Labour hat bei den Kommunalwahlen in England und Wales schwere Verluste erlitten."
+    },
+    {
+      "term": "erleiden",
+      "translated_term": "to suffer",
+      "example_usage": "Die britische Labour-Partei hat bei den Kommunalwahlen schwere Verluste erlitten."
+    },
+    {
+      "term": "der Sitz",
+      "translated_term": "the seat (in parliament or council)",
+      "example_usage": "Labour hat mehr als 1.100 Sitze verloren, die sie zuvor gehalten hatte."
+    },
+    {
+      "term": "rechtspopulistisch",
+      "translated_term": "right-wing populist",
+      "example_usage": "Die rechtspopulistische Partei Reform UK hat dagegen mehr als 1.400 Sitze gewonnen."
+    },
+    {
+      "term": "zurücktreten",
+      "translated_term": "to resign",
+      "example_usage": "Einige Labour-Abgeordnete fordern Starmer auf, zurückzutreten."
+    },
+    {
+      "term": "die Erneuerung",
+      "translated_term": "the renewal",
+      "example_usage": "Er beschreibt seine Regierung als ein „10-Jahres-Projekt der Erneuerung“."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Britische Politik",
+      "translated_name": "British Politics"
+    },
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Wahlen",
+      "translated_name": "Elections"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR: Keir Starmer’s party lost big in U.K. local elections. Here’s what comes next",
+      "link_url": "https://www.npr.org/2026/05/10/nx-s1-5817491/uk-elections-keir-starmer-resign-reform-green"
+    },
+    {
+      "name": "NBC News: U.K. election results: Starmer’s Labour suffers huge losses as hard-right Reform gains",
+      "link_url": "https://www.nbcnews.com/world/united-kingdom/starmer-labour-reform-farage-uk-election-rcna344013"
+    },
+    {
+      "name": "CBS News: U.K. Prime Minister Keir Starmer faces calls to resign after disastrous local elections",
+      "link_url": "https://www.cbsnews.com/news/uk-prime-minister-keir-starmer-election-results-resign/"
+    }
+  ]
+}
