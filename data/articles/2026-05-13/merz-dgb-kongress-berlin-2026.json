@@ -1,0 +1,130 @@
+{
+  "title": "Merz auf DGB-Kongress in Berlin ausgebuht",
+  "translated_title": "Merz Booed at DGB Congress in Berlin",
+  "text": [
+    {
+      "text": "Der Deutsche Gewerkschaftsbund (DGB) hielt vom 10. bis 13. Mai 2026 seinen 23. Ordentlichen Bundeskongress ab.",
+      "translated_text": "The German Trade Union Confederation (DGB) held its 23rd Ordinary Federal Congress from 10 to 13 May 2026."
+    },
+    {
+      "text": "Die Veranstaltung fand in Berlin statt.",
+      "translated_text": "The event took place in Berlin."
+    },
+    {
+      "text": "Bundeskanzler Friedrich Merz hielt am 12. Mai eine Rede vor etwa 400 Delegierten.",
+      "translated_text": "Federal Chancellor Friedrich Merz gave a speech on 12 May before around 400 delegates."
+    },
+    {
+      "text": "Er warnte, Deutschland müsse sich schnell reformieren, um international wettbewerbsfähig zu bleiben.",
+      "translated_text": "He warned that Germany must reform quickly to remain internationally competitive."
+    },
+    {
+      "text": "Merz sagte, Deutschland müsse sich dringend zusammenreißen, sonst würde es den Anschluss verlieren.",
+      "translated_text": "Merz said Germany must urgently pull itself together, or risk falling behind."
+    },
+    {
+      "text": "Die Delegierten im Saal reagierten mit Pfiffen, Buhrufen und lautem Protest.",
+      "translated_text": "The delegates in the hall responded with whistles, boos and loud protest."
+    },
+    {
+      "text": "Merz musste seine Rede mehrmals unterbrechen, weil die Stimmung im Saal sehr feindselig war.",
+      "translated_text": "Merz had to interrupt his speech several times because the atmosphere in the hall was very hostile."
+    },
+    {
+      "text": "Die Gewerkschaften kritisieren Merz vor allem wegen seiner Pläne zur Rentenreform.",
+      "translated_text": "The trade unions criticise Merz primarily because of his pension reform plans."
+    },
+    {
+      "text": "Auch geplante Änderungen im Gesundheitswesen sorgen für großen Unmut.",
+      "translated_text": "Planned changes in the healthcare system are also causing great discontent."
+    },
+    {
+      "text": "Merz gab zu, dass ein früheres Versprechen zu optimistisch gewesen war.",
+      "translated_text": "Merz admitted that an earlier promise had been too optimistic."
+    },
+    {
+      "text": "Er hatte versprochen, dass die Weltpolitik keine Auswirkungen auf die Sozialpolitik haben würde.",
+      "translated_text": "He had promised that world politics would have no impact on social policy."
+    },
+    {
+      "text": "Merz ist seit etwa einem Jahr Bundeskanzler.",
+      "translated_text": "Merz has been Federal Chancellor for about one year."
+    },
+    {
+      "text": "Seine Beliebtheit ist in dieser Zeit deutlich gesunken.",
+      "translated_text": "His popularity has fallen noticeably during this time."
+    },
+    {
+      "text": "Im April 2026 waren nur noch 15 Prozent der Deutschen mit der Regierungspolitik zufrieden.",
+      "translated_text": "In April 2026, only 15 percent of Germans were satisfied with government policy."
+    },
+    {
+      "text": "Der DGB vereint elf große Gewerkschaften mit Millionen von Mitgliedern.",
+      "translated_text": "The DGB unites eleven major trade unions with millions of members."
+    },
+    {
+      "text": "Der Kongress zeigt, wie groß die Spannungen zwischen der Regierung und der Arbeitnehmerseite in Deutschland sind.",
+      "translated_text": "The congress shows how great the tensions between the government and the workers' side are in Germany."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Gewerkschaftsbund",
+      "translated_term": "the trade union confederation",
+      "example_usage": "Der Deutsche Gewerkschaftsbund (DGB) hielt vom 10. bis 13. Mai 2026 seinen 23. Ordentlichen Bundeskongress ab."
+    },
+    {
+      "term": "der Delegierte",
+      "translated_term": "the delegate",
+      "example_usage": "Bundeskanzler Friedrich Merz hielt am 12. Mai eine Rede vor etwa 400 Delegierten."
+    },
+    {
+      "term": "wettbewerbsfähig",
+      "translated_term": "competitive",
+      "example_usage": "Er warnte, Deutschland müsse sich schnell reformieren, um international wettbewerbsfähig zu bleiben."
+    },
+    {
+      "term": "der Unmut",
+      "translated_term": "the discontent / displeasure",
+      "example_usage": "Auch geplante Änderungen im Gesundheitswesen sorgen für großen Unmut."
+    },
+    {
+      "term": "zugeben",
+      "translated_term": "to admit / to concede",
+      "example_usage": "Merz gab zu, dass ein früheres Versprechen zu optimistisch gewesen war."
+    },
+    {
+      "term": "die Spannung",
+      "translated_term": "the tension",
+      "example_usage": "Der Kongress zeigt, wie groß die Spannungen zwischen der Regierung und der Arbeitnehmerseite in Deutschland sind."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Prism News: Merz warns Germany must reform fast, jeered by union workers",
+      "link_url": "https://www.prismnews.com/news/merz-warns-germany-must-reform-fast-jeered-by-union-workers"
+    },
+    {
+      "name": "Pravda Germany: Workers booed Merz during a speech to trade unions",
+      "link_url": "https://germany.news-pravda.com/en/germany/2026/05/12/131483.html"
+    },
+    {
+      "name": "The Local: Today in Germany – roundup of Tuesday news",
+      "link_url": "https://www.thelocal.de/20260512/today-in-germany-a-roundup-of-the-latest-news-on-tuesday-123"
+    }
+  ]
+}
