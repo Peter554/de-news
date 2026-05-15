@@ -1,0 +1,114 @@
+{
+  "title": "Tesla investiert 250 Millionen Dollar in Batterieproduktion bei Giga Berlin",
+  "translated_title": "Tesla Invests 250 Million Dollars in Battery Production at Giga Berlin",
+  "text": [
+    {
+      "text": "Tesla hat angekündigt, rund 250 Millionen Dollar in die Batteriezellenproduktion seiner Fabrik in Grünheide bei Berlin zu investieren.",
+      "translated_text": "Tesla has announced an investment of around 250 million dollars in battery cell production at its factory in Grünheide near Berlin."
+    },
+    {
+      "text": "Die Fabrik in Grünheide, auch Giga Berlin genannt, ist Teslas wichtigster Produktionsstandort in Europa.",
+      "translated_text": "The factory in Grünheide, also known as Giga Berlin, is Tesla's most important production site in Europe."
+    },
+    {
+      "text": "Mit der neuen Investition soll die Kapazität für Batteriezellen von 8 Gigawattstunden auf 18 Gigawattstunden pro Jahr mehr als verdoppelt werden.",
+      "translated_text": "With the new investment, the capacity for battery cells is to be more than doubled from 8 gigawatt hours to 18 gigawatt hours per year."
+    },
+    {
+      "text": "Die 8-Gigawattstunden-Kapazität war erst im Dezember 2025 angekündigt worden.",
+      "translated_text": "The 8 gigawatt hour capacity had only been announced in December 2025."
+    },
+    {
+      "text": "Bei der Expansion geht es vor allem um die Produktion der neuen 4680-Batteriezellen.",
+      "translated_text": "The expansion focuses primarily on the production of the new 4680 battery cells."
+    },
+    {
+      "text": "Diese Zellen sind Teslas neueste Batterietechnologie und ermöglichen eine höhere Leistung bei niedrigeren Kosten.",
+      "translated_text": "These cells are Tesla's latest battery technology and enable higher performance at lower costs."
+    },
+    {
+      "text": "Mit 18 Gigawattstunden Kapazität könnte Giga Berlin genug Batteriezellen für bis zu 350.000 Fahrzeuge pro Jahr produzieren.",
+      "translated_text": "With 18 gigawatt hours of capacity, Giga Berlin could produce enough battery cells for up to 350,000 vehicles per year."
+    },
+    {
+      "text": "Die Expansion soll mehr als 1.500 neue Arbeitsplätze im Bundesland Brandenburg schaffen.",
+      "translated_text": "The expansion is expected to create more than 1,500 new jobs in the state of Brandenburg."
+    },
+    {
+      "text": "Das ist eine gute Nachricht für die Region, die von der Autoindustrie stark abhängig ist.",
+      "translated_text": "This is good news for the region, which is heavily dependent on the automotive industry."
+    },
+    {
+      "text": "Mit dieser Investition baut Tesla seinen Standort Grünheide weiter als Zentrum für Fahrzeugbau und Batterieproduktion in einem aus.",
+      "translated_text": "With this investment, Tesla is further developing its Grünheide site as an integrated centre for vehicle assembly and battery production."
+    },
+    {
+      "text": "Die Insgesamt-Investitionen in Giga Berlin nähern sich damit einer Milliarde Euro.",
+      "translated_text": "The total investments in Giga Berlin are thus approaching one billion euros."
+    },
+    {
+      "text": "Giga Berlin gilt als das wichtigste Industrie-Projekt der Region Berlin-Brandenburg in den letzten Jahrzehnten.",
+      "translated_text": "Giga Berlin is regarded as the most important industrial project in the Berlin-Brandenburg region in recent decades."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Batteriezellenproduktion",
+      "translated_term": "the battery cell production",
+      "example_usage": "Tesla investiert in die Batteriezellenproduktion seiner Fabrik in Grünheide."
+    },
+    {
+      "term": "die Kapazität",
+      "translated_term": "the capacity",
+      "example_usage": "Die Kapazität soll von 8 auf 18 Gigawattstunden mehr als verdoppelt werden."
+    },
+    {
+      "term": "verdoppeln",
+      "translated_term": "to double",
+      "example_usage": "Die Kapazität für Batteriezellen soll mehr als verdoppelt werden."
+    },
+    {
+      "term": "der Arbeitsplatz",
+      "translated_term": "the job / workplace",
+      "example_usage": "Die Expansion soll mehr als 1.500 neue Arbeitsplätze in Brandenburg schaffen."
+    },
+    {
+      "term": "schaffen",
+      "translated_term": "to create / to manage",
+      "example_usage": "Die Expansion soll mehr als 1.500 neue Arbeitsplätze schaffen."
+    },
+    {
+      "term": "der Produktionsstandort",
+      "translated_term": "the production site",
+      "example_usage": "Giga Berlin ist Teslas wichtigster Produktionsstandort in Europa."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    },
+    {
+      "name": "Unternehmen",
+      "translated_name": "Business"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Electrek: Tesla invests $250M more in Giga Berlin battery cells, boosting capacity to 18 GWh",
+      "link_url": "https://electrek.co/2026/05/12/tesla-giga-berlin-250-million-battery-cell-investment-18-gwh/"
+    },
+    {
+      "name": "Just Auto: Tesla commits $250m to Berlin gigafactory expansion",
+      "link_url": "https://www.just-auto.com/news/tesla-250m-berlin-gigafactory-expansion/"
+    }
+  ]
+}
