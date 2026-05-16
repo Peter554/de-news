@@ -1,0 +1,126 @@
+{
+  "title": "Merz-Regierung auf Rekordtief: Nur 13 Prozent der Deutschen zufrieden",
+  "translated_title": "Merz Government at Record Low: Only 13 Percent of Germans Satisfied",
+  "text": [
+    {
+      "text": "Die Bundesregierung unter Friedrich Merz hat ein Jahr im Amt hinter sich.",
+      "translated_text": "The federal government under Friedrich Merz has completed one year in office."
+    },
+    {
+      "text": "Die Ergebnisse sind ernüchternd: Nur 13 Prozent der Deutschen sind mit der Regierung zufrieden.",
+      "translated_text": "The results are sobering: only 13 percent of Germans are satisfied with the government."
+    },
+    {
+      "text": "Das zeigt eine aktuelle Umfrage des ARD-Deutschlandtrend.",
+      "translated_text": "This is shown by a current survey from the ARD 'DeutschlandTrend'."
+    },
+    {
+      "text": "Auch der Kanzler selbst ist nicht beliebt: Nur 16 Prozent sind mit Merz zufrieden.",
+      "translated_text": "The chancellor himself is also unpopular: only 16 percent are satisfied with Merz."
+    },
+    {
+      "text": "Mehr als die Hälfte der Deutschen glaubt, dass die Regierung vorzeitig scheitern wird.",
+      "translated_text": "More than half of Germans believe that the government will fail prematurely."
+    },
+    {
+      "text": "Das ergab eine Umfrage des INSA-Instituts vom 13. Mai 2026.",
+      "translated_text": "This was the result of an INSA Institute survey from 13 May 2026."
+    },
+    {
+      "text": "Die Regierung besteht aus der CDU/CSU und der SPD.",
+      "translated_text": "The government consists of the CDU/CSU and the SPD."
+    },
+    {
+      "text": "Es gibt Streit in der Koalition über wichtige Themen wie die Einkommensteuer und die Rente.",
+      "translated_text": "There is disagreement within the coalition on important topics such as income tax and pensions."
+    },
+    {
+      "text": "Am 13. Mai trafen sich die Koalitionspartner für sechs Stunden, um diese Probleme zu lösen.",
+      "translated_text": "On 13 May, the coalition partners met for six hours to resolve these problems."
+    },
+    {
+      "text": "Sie beschlossen, bis zur parlamentarischen Sommerpause im Juli einen Reformplan vorzulegen.",
+      "translated_text": "They decided to present a reform plan by the parliamentary summer recess in July."
+    },
+    {
+      "text": "Ein wichtiges Thema ist auch die Energiepolitik.",
+      "translated_text": "Energy policy is also an important topic."
+    },
+    {
+      "text": "Die Regierung muss wichtige Energieprojekte voranbringen, um das Vertrauen der Bevölkerung zurückzugewinnen.",
+      "translated_text": "The government must advance important energy projects in order to regain public trust."
+    },
+    {
+      "text": "Kanzler Merz telefonierte auch mit US-Präsident Donald Trump.",
+      "translated_text": "Chancellor Merz also spoke by phone with US President Donald Trump."
+    },
+    {
+      "text": "Dabei ging es um die Lage an der Straße von Hormus und den Konflikt mit dem Iran.",
+      "translated_text": "The conversation focused on the situation at the Strait of Hormuz and the conflict with Iran."
+    },
+    {
+      "text": "Viele Bürger fragen sich, ob die Koalition die vielen Probleme lösen kann.",
+      "translated_text": "Many citizens are asking themselves whether the coalition can solve the many problems."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Rekordtief",
+      "translated_term": "the record low",
+      "example_usage": "Die Merz-Regierung hat ein Rekordtief in den Umfragen erreicht."
+    },
+    {
+      "term": "ernüchternd",
+      "translated_term": "sobering",
+      "example_usage": "Die Ergebnisse sind ernüchternd: Nur 13 Prozent der Deutschen sind zufrieden."
+    },
+    {
+      "term": "die Koalition",
+      "translated_term": "the coalition",
+      "example_usage": "Es gibt Streit in der Koalition über die Einkommensteuer und die Rente."
+    },
+    {
+      "term": "vorzeitig",
+      "translated_term": "prematurely / ahead of schedule",
+      "example_usage": "Mehr als die Hälfte der Deutschen glaubt, dass die Regierung vorzeitig scheitern wird."
+    },
+    {
+      "term": "vorantreiben",
+      "translated_term": "to advance / to push forward",
+      "example_usage": "Die Regierung muss wichtige Energieprojekte voranbringen."
+    },
+    {
+      "term": "die Sommerpause",
+      "translated_term": "the summer recess",
+      "example_usage": "Die Koalition will bis zur parlamentarischen Sommerpause im Juli einen Reformplan vorlegen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Irish Times: Merz's first year – Germany's impulsive chancellor sees poll ratings slump to record low",
+      "link_url": "https://www.irishtimes.com/world/europe/2026/05/05/merzs-first-year-germanys-impulsive-chancellor-sees-poll-ratings-slump-to-record-low/"
+    },
+    {
+      "name": "Pravda Germany: More than half of Germans are convinced the Merz government will collapse",
+      "link_url": "https://germany.news-pravda.com/en/germany/2026/05/14/131862.html"
+    },
+    {
+      "name": "Bloomberg: Merz Coalition Draws Up Road Map for German Reforms by July",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-05-13/german-coalition-draws-up-road-map-for-broad-reforms-by-july"
+    }
+  ]
+}

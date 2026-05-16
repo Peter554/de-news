@@ -1,0 +1,126 @@
+{
+  "title": "Pwn2Own Berlin 2026: Hacker entdecken 39 Sicherheitslücken",
+  "translated_title": "Pwn2Own Berlin 2026: Hackers Discover 39 Security Vulnerabilities",
+  "text": [
+    {
+      "text": "In Berlin findet vom 14. bis 16. Mai 2026 der Pwn2Own-Hacker-Wettbewerb statt.",
+      "translated_text": "The Pwn2Own hacking competition is taking place in Berlin from 14 to 16 May 2026."
+    },
+    {
+      "text": "Der Wettbewerb wird im Rahmen der OffensiveCon-Konferenz abgehalten.",
+      "translated_text": "The competition is held as part of the OffensiveCon conference."
+    },
+    {
+      "text": "Bei Pwn2Own versuchen Sicherheitsforscher, Schwachstellen in bekannten Software-Programmen zu finden.",
+      "translated_text": "At Pwn2Own, security researchers attempt to find vulnerabilities in well-known software programs."
+    },
+    {
+      "text": "In diesem Jahr liegt der Fokus auf Unternehmenstechnologie und Künstlicher Intelligenz.",
+      "translated_text": "This year the focus is on enterprise technology and Artificial Intelligence."
+    },
+    {
+      "text": "Am ersten Tag wurden 24 einzigartige Sicherheitslücken entdeckt.",
+      "translated_text": "On the first day, 24 unique security vulnerabilities were discovered."
+    },
+    {
+      "text": "Dafür erhielten die Forscher Preisgelder in Höhe von 523.000 US-Dollar.",
+      "translated_text": "For this, the researchers received prize money totalling 523,000 US dollars."
+    },
+    {
+      "text": "Besonders erfolgreich war das Team DEVCORE aus Taiwan.",
+      "translated_text": "The DEVCORE team from Taiwan was particularly successful."
+    },
+    {
+      "text": "Sie erhielten 175.000 Dollar, weil sie eine Sicherheitslücke in Microsoft Edge ausnutzten.",
+      "translated_text": "They received 175,000 dollars for exploiting a security vulnerability in Microsoft Edge."
+    },
+    {
+      "text": "Auch Windows 11 wurde mehrmals erfolgreich gehackt.",
+      "translated_text": "Windows 11 was also successfully hacked several times."
+    },
+    {
+      "text": "Am zweiten Tag kamen weitere 15 Sicherheitslücken dazu.",
+      "translated_text": "On the second day, a further 15 security vulnerabilities were added."
+    },
+    {
+      "text": "Dabei wurde auch Microsoft Exchange erfolgreich angegriffen.",
+      "translated_text": "Microsoft Exchange was also successfully attacked in the process."
+    },
+    {
+      "text": "Nach zwei Tagen wurden insgesamt 908.750 US-Dollar an Preisgeldern vergeben.",
+      "translated_text": "After two days, a total of 908,750 US dollars in prize money had been awarded."
+    },
+    {
+      "text": "Solche Wettbewerbe sind wichtig für die Cybersicherheit.",
+      "translated_text": "Such competitions are important for cybersecurity."
+    },
+    {
+      "text": "Die gefundenen Sicherheitslücken werden danach an die betroffenen Unternehmen gemeldet.",
+      "translated_text": "The discovered security vulnerabilities are subsequently reported to the affected companies."
+    },
+    {
+      "text": "So können die Unternehmen ihre Software verbessern und ihre Nutzer schützen.",
+      "translated_text": "This allows the companies to improve their software and protect their users."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Sicherheitslücke",
+      "translated_term": "the security vulnerability",
+      "example_usage": "Am ersten Tag wurden 24 einzigartige Sicherheitslücken entdeckt."
+    },
+    {
+      "term": "der Sicherheitsforscher",
+      "translated_term": "the security researcher",
+      "example_usage": "Bei Pwn2Own versuchen Sicherheitsforscher, Schwachstellen in bekannten Software-Programmen zu finden."
+    },
+    {
+      "term": "ausnutzen",
+      "translated_term": "to exploit",
+      "example_usage": "Sie erhielten 175.000 Dollar, weil sie eine Sicherheitslücke in Microsoft Edge ausnutzten."
+    },
+    {
+      "term": "das Preisgeld",
+      "translated_term": "the prize money",
+      "example_usage": "Nach zwei Tagen wurden insgesamt 908.750 US-Dollar an Preisgeldern vergeben."
+    },
+    {
+      "term": "melden",
+      "translated_term": "to report",
+      "example_usage": "Die gefundenen Sicherheitslücken werden danach an die betroffenen Unternehmen gemeldet."
+    },
+    {
+      "term": "die Schwachstelle",
+      "translated_term": "the weakness / vulnerability",
+      "example_usage": "Sicherheitsforscher versuchen, Schwachstellen in bekannten Software-Programmen zu finden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Cybersicherheit",
+      "translated_name": "Cybersecurity"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    }
+  ],
+  "sources": [
+    {
+      "name": "BleepingComputer: Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026",
+      "link_url": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/"
+    },
+    {
+      "name": "Security Affairs: Pwn2Own Berlin 2026, Day One – $523,000 paid out, AI products fall",
+      "link_url": "https://securityaffairs.com/192183/hacking/pwn2own-berlin-2026-day-one-523000-paid-out-ai-products-fall.html"
+    },
+    {
+      "name": "Zero Day Initiative: Pwn2Own Berlin 2026 – Day Two Results",
+      "link_url": "https://www.zerodayinitiative.com/blog/2026/5/15/pwn2own-berlin-2026-day-two-results"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "title": "Spannungen in der Straße von Hormus: Schiff entführt, weiteres versunken",
+  "translated_title": "Tensions in the Strait of Hormuz: Ship Seized, Another Sunk",
+  "text": [
+    {
+      "text": "In der Straße von Hormus gibt es neue gefährliche Vorfälle.",
+      "translated_text": "There are new dangerous incidents in the Strait of Hormuz."
+    },
+    {
+      "text": "Ein Schiff wurde in der Nähe der Küste der Vereinigten Arabischen Emirate entführt.",
+      "translated_text": "A ship was seized near the coast of the United Arab Emirates."
+    },
+    {
+      "text": "Unbekannte Personen übernahmen das Schiff, während es vor Anker lag.",
+      "translated_text": "Unknown people took control of the ship while it was at anchor."
+    },
+    {
+      "text": "Das Schiff wurde dann in Richtung iranische Gewässer gebracht.",
+      "translated_text": "The ship was then brought towards Iranian waters."
+    },
+    {
+      "text": "Gleichzeitig wurde ein weiteres Schiff in der Nähe der Küste von Oman angegriffen und ist versunken.",
+      "translated_text": "At the same time, another ship near the coast of Oman was attacked and sank."
+    },
+    {
+      "text": "Die britische Seeschifffahrtsbehörde UKMTO berichtete über beide Vorfälle.",
+      "translated_text": "The British maritime authority UKMTO reported on both incidents."
+    },
+    {
+      "text": "Die Straße von Hormus ist eine der wichtigsten Schifffahrtsrouten der Welt.",
+      "translated_text": "The Strait of Hormuz is one of the most important shipping routes in the world."
+    },
+    {
+      "text": "Durch sie wird ein großer Teil des weltweiten Öls transportiert.",
+      "translated_text": "A large proportion of the world's oil is transported through it."
+    },
+    {
+      "text": "Seit dem 28. Februar 2026 ist die Straße von Hormus weitgehend blockiert.",
+      "translated_text": "Since 28 February 2026, the Strait of Hormuz has been largely blocked."
+    },
+    {
+      "text": "Der Grund ist ein Militärkonflikt zwischen den USA, Israel und dem Iran.",
+      "translated_text": "The reason is a military conflict between the USA, Israel, and Iran."
+    },
+    {
+      "text": "Der Iran hat Warnungen ausgegeben und Schiffe angegriffen.",
+      "translated_text": "Iran has issued warnings and attacked ships."
+    },
+    {
+      "text": "Auch Seeminen wurden in der Straße gelegt.",
+      "translated_text": "Sea mines have also been laid in the strait."
+    },
+    {
+      "text": "Dieser Konflikt hat große Auswirkungen auf die Weltenergiemärkte.",
+      "translated_text": "This conflict is having a major impact on world energy markets."
+    },
+    {
+      "text": "Viele Länder fordern eine friedliche Lösung des Konflikts.",
+      "translated_text": "Many countries are calling for a peaceful resolution to the conflict."
+    },
+    {
+      "text": "Die Lage bleibt angespannt und wird von der internationalen Gemeinschaft genau beobachtet.",
+      "translated_text": "The situation remains tense and is being closely monitored by the international community."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Straße von Hormus",
+      "translated_term": "the Strait of Hormuz",
+      "example_usage": "Die Straße von Hormus ist eine der wichtigsten Schifffahrtsrouten der Welt."
+    },
+    {
+      "term": "entführen",
+      "translated_term": "to seize / to hijack",
+      "example_usage": "Ein Schiff wurde in der Nähe der Emirate entführt."
+    },
+    {
+      "term": "vor Anker liegen",
+      "translated_term": "to be at anchor",
+      "example_usage": "Unbekannte Personen übernahmen das Schiff, während es vor Anker lag."
+    },
+    {
+      "term": "die Seeschifffahrtsbehörde",
+      "translated_term": "the maritime authority",
+      "example_usage": "Die britische Seeschifffahrtsbehörde UKMTO berichtete über beide Vorfälle."
+    },
+    {
+      "term": "die Seeminenlegung",
+      "translated_term": "the laying of sea mines",
+      "example_usage": "Auch Seeminen wurden in der Straße von Hormus gelegt."
+    },
+    {
+      "term": "angespannt",
+      "translated_term": "tense / strained",
+      "example_usage": "Die Lage bleibt angespannt und wird genau beobachtet."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran-Konflikt",
+      "translated_name": "Iran Conflict"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "PBS News: Tensions flare near Strait of Hormuz as one ship is seized and another is sunk",
+      "link_url": "https://www.pbs.org/newshour/world/tensions-flare-near-strait-of-hormuz-as-one-ship-is-seized-and-another-is-sunk"
+    },
+    {
+      "name": "Euronews: Ship seized near UAE coast headed for Iranian waters",
+      "link_url": "https://www.euronews.com/2026/05/14/ship-seized-near-uae-coast-headed-for-iranian-waters-uk-maritime-agency-says"
+    },
+    {
+      "name": "ITV News: Ship near the Strait of Hormuz seized and brought to Iran",
+      "link_url": "https://www.itv.com/news/2026-05-14/ship-near-the-strait-of-hormuz-seized-and-brought-to-iran-officials-say"
+    }
+  ]
+}
