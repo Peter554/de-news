@@ -1,0 +1,126 @@
+{
+  "title": "London: Großproteste am 16. Mai – Tommy Robinson und Nakba-Tag",
+  "translated_title": "London: Major Protests on 16 May – Tommy Robinson and Nakba Day",
+  "text": [
+    {
+      "text": "Am 16. Mai 2026 finden in London zwei große Demonstrationen statt.",
+      "translated_text": "On 16 May 2026, two major demonstrations are taking place in London."
+    },
+    {
+      "text": "Die erste ist die Kundgebung «Unite the Kingdom, Unite the West» von Tommy Robinson.",
+      "translated_text": "The first is the 'Unite the Kingdom, Unite the West' rally by Tommy Robinson."
+    },
+    {
+      "text": "Tommy Robinson ist ein bekannter Rechtsextremist und Gründer der English Defence League.",
+      "translated_text": "Tommy Robinson is a well-known right-wing extremist and founder of the English Defence League."
+    },
+    {
+      "text": "Die Teilnehmer treffen sich in der Kingsway und marschieren dann zum Parliament Square.",
+      "translated_text": "Participants gather in Kingsway and then march to Parliament Square."
+    },
+    {
+      "text": "Eine frühere Veranstaltung dieser Art zog im September 2025 über 100.000 Teilnehmer an.",
+      "translated_text": "A previous event of this kind drew more than 100,000 participants in September 2025."
+    },
+    {
+      "text": "Gleichzeitig findet ein pro-palästinensischer Nakba-Tag-Marsch statt.",
+      "translated_text": "At the same time, a pro-Palestinian Nakba Day march is taking place."
+    },
+    {
+      "text": "Der Nakba-Tag erinnert an die Vertreibung der Palästinenser im Jahr 1948.",
+      "translated_text": "Nakba Day commemorates the displacement of Palestinians in 1948."
+    },
+    {
+      "text": "Wegen beider Demonstrationen und des FA-Cup-Finales im Wembley-Stadion ist die Sicherheitslage sehr komplex.",
+      "translated_text": "Due to both demonstrations and the FA Cup Final at Wembley Stadium, the security situation is very complex."
+    },
+    {
+      "text": "Die Metropolitan Police hat 4.000 Beamte für den Einsatz vorbereitet.",
+      "translated_text": "The Metropolitan Police have prepared 4,000 officers for deployment."
+    },
+    {
+      "text": "Die Polizei setzt unter anderem Gesichtserkennung, Hubschrauber und Drohnen ein.",
+      "translated_text": "The police are deploying face recognition technology, helicopters, and drones, among other things."
+    },
+    {
+      "text": "Sieben ausländische Personen aus der europäischen Rechtsaußen-Szene wurden vom Besuch der Kundgebung ausgeschlossen.",
+      "translated_text": "Seven foreign individuals from the European far-right scene have been barred from attending the rally."
+    },
+    {
+      "text": "Es gibt auch Gegendemonstranten, die gegen Robinson und seine Bewegung protestieren.",
+      "translated_text": "There are also counter-demonstrators protesting against Robinson and his movement."
+    },
+    {
+      "text": "Die Polizei verfolgt eine Null-Toleranz-Politik gegenüber Gewalt und Ausschreitungen.",
+      "translated_text": "The police are pursuing a zero-tolerance policy towards violence and rioting."
+    },
+    {
+      "text": "In Westminster sind Verkehrseinschränkungen und Umleitungen geplant.",
+      "translated_text": "Traffic restrictions and diversions are planned in Westminster."
+    },
+    {
+      "text": "Viele Einwohner Londons sind besorgt über mögliche Ausschreitungen.",
+      "translated_text": "Many London residents are concerned about possible unrest."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Kundgebung",
+      "translated_term": "the rally",
+      "example_usage": "Die Kundgebung von Tommy Robinson findet am 16. Mai in London statt."
+    },
+    {
+      "term": "der Rechtsextremist",
+      "translated_term": "the right-wing extremist",
+      "example_usage": "Tommy Robinson ist ein bekannter Rechtsextremist und Gründer der English Defence League."
+    },
+    {
+      "term": "die Vertreibung",
+      "translated_term": "the displacement / expulsion",
+      "example_usage": "Der Nakba-Tag erinnert an die Vertreibung der Palästinenser im Jahr 1948."
+    },
+    {
+      "term": "die Null-Toleranz-Politik",
+      "translated_term": "the zero-tolerance policy",
+      "example_usage": "Die Polizei verfolgt eine Null-Toleranz-Politik gegenüber Gewalt und Ausschreitungen."
+    },
+    {
+      "term": "die Gegendemonstration",
+      "translated_term": "the counter-demonstration",
+      "example_usage": "Es gibt auch Gegendemonstranten, die gegen Robinson und seine Bewegung protestieren."
+    },
+    {
+      "term": "die Verkehrseinschränkung",
+      "translated_term": "the traffic restriction",
+      "example_usage": "In Westminster sind Verkehrseinschränkungen und Umleitungen geplant."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Proteste",
+      "translated_name": "Protests"
+    },
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Extremismus",
+      "translated_name": "Extremism"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Metropolitan Police: 4,000 officers prepare for day of protest in central London",
+      "link_url": "https://news.met.police.uk/news/4000-officers-prepare-for-day-of-protest-in-central-london-509274"
+    },
+    {
+      "name": "Euronews: MEP and far-right influencers barred from UK rally",
+      "link_url": "https://www.euronews.com/my-europe/2026/05/15/mep-and-far-right-influencers-barred-from-uk-rally-who-are-they-and-what-was-the-reason"
+    },
+    {
+      "name": "Centre for the Study of Online Hate: London's Unite the Kingdom Rally and the Transatlantic Far-Right Playbook",
+      "link_url": "https://www.csohate.org/2026/05/12/unite-the-kingdom-rally/"
+    }
+  ]
+}

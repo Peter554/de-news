@@ -1,0 +1,126 @@
+{
+  "title": "Russischer Raketenangriff auf Kiew: 24 Menschen getötet",
+  "translated_title": "Russian Missile Attack on Kyiv: 24 People Killed",
+  "text": [
+    {
+      "text": "Am 15. Mai 2026 hat Russland Kiew mit Raketen und Drohnen angegriffen.",
+      "translated_text": "On 15 May 2026, Russia attacked Kyiv with missiles and drones."
+    },
+    {
+      "text": "Bei dem Angriff wurden 24 Menschen getötet, darunter drei Kinder.",
+      "translated_text": "In the attack, 24 people were killed, including three children."
+    },
+    {
+      "text": "Eine Rakete traf ein Wohngebäude im Stadtteil Darnyzkyj.",
+      "translated_text": "A missile struck an apartment building in the Darnytskyi district."
+    },
+    {
+      "text": "Teile des Gebäudes stürzten ein, und viele Menschen wurden unter den Trümmern begraben.",
+      "translated_text": "Parts of the building collapsed, and many people were buried under the rubble."
+    },
+    {
+      "text": "Der ukrainische Präsident Wolodymyr Selenskyj verurteilte den Angriff scharf.",
+      "translated_text": "Ukrainian President Volodymyr Zelenskyy condemned the attack strongly."
+    },
+    {
+      "text": "Er sagte, dass Russland seit Mittwoch mehr als 1.560 Drohnen gegen ukrainische Städte eingesetzt hat.",
+      "translated_text": "He said that Russia has deployed more than 1,560 drones against Ukrainian cities since Wednesday."
+    },
+    {
+      "text": "Mehr als 50 Wohngebäude wurden in dieser Zeit beschädigt.",
+      "translated_text": "More than 50 residential buildings were damaged during this time."
+    },
+    {
+      "text": "Die Angriffe begannen kurz nach einem kurzen Waffenstillstand vom 9. bis 11. Mai 2026.",
+      "translated_text": "The attacks began shortly after a brief ceasefire from 9 to 11 May 2026."
+    },
+    {
+      "text": "US-Präsident Donald Trump hatte beide Seiten gebeten, diesen Waffenstillstand einzuhalten.",
+      "translated_text": "US President Donald Trump had asked both sides to observe this ceasefire."
+    },
+    {
+      "text": "Selenskyj erklärte, dass die Rakete, die das Wohngebäude traf, neu gebaut worden sei.",
+      "translated_text": "Zelenskyy stated that the missile that hit the apartment building had been newly built."
+    },
+    {
+      "text": "Das zeige, dass Russland trotz internationaler Sanktionen weiter Raketen produziere.",
+      "translated_text": "This shows that Russia continues to produce missiles despite international sanctions."
+    },
+    {
+      "text": "Die Ukraine fordert mehr Luftverteidigungssysteme von ihren Verbündeten.",
+      "translated_text": "Ukraine is calling for more air defence systems from its allies."
+    },
+    {
+      "text": "Der Krieg in der Ukraine dauert nun schon über vier Jahre.",
+      "translated_text": "The war in Ukraine has now lasted more than four years."
+    },
+    {
+      "text": "Viele Länder haben den russischen Angriff auf Kiew verurteilt.",
+      "translated_text": "Many countries have condemned the Russian attack on Kyiv."
+    },
+    {
+      "text": "Hilfsorganisationen leisten vor Ort Nothilfe für die Opfer.",
+      "translated_text": "Aid organisations are providing emergency assistance to the victims on the ground."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Raketenangriff",
+      "translated_term": "the missile attack",
+      "example_usage": "Am 15. Mai 2026 hat Russland Kiew mit einem Raketenangriff getroffen."
+    },
+    {
+      "term": "die Trümmer",
+      "translated_term": "the rubble / debris",
+      "example_usage": "Viele Menschen wurden unter den Trümmern begraben."
+    },
+    {
+      "term": "verurteilen",
+      "translated_term": "to condemn",
+      "example_usage": "Der ukrainische Präsident Selenskyj verurteilte den Angriff scharf."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Die Angriffe begannen kurz nach einem kurzen Waffenstillstand."
+    },
+    {
+      "term": "die Sanktionen",
+      "translated_term": "the sanctions",
+      "example_usage": "Russland produziert trotz internationaler Sanktionen weiter Raketen."
+    },
+    {
+      "term": "das Luftverteidigungssystem",
+      "translated_term": "the air defence system",
+      "example_usage": "Die Ukraine fordert mehr Luftverteidigungssysteme von ihren Verbündeten."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Humanitäre Krise",
+      "translated_name": "Humanitarian Crisis"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR: Death toll in attack on Kyiv apartment building now stands at 24",
+      "link_url": "https://www.npr.org/2026/05/15/nx-s1-5823388/death-toll-in-attack-on-kyiv-apartment-building-now-stands-at-24"
+    },
+    {
+      "name": "Kyiv Independent: Russian attack on Kyiv kills at least 24, including child",
+      "link_url": "https://kyivindependent.com/explosions-rock-kyiv-as-russias-mass-daytime-drone-strike-becomes-large-scale-missile-attack/"
+    },
+    {
+      "name": "Washington Times: Death toll in attack on Kyiv apartment building rises to 24",
+      "link_url": "https://www.washingtontimes.com/news/2026/may/15/death-toll-attack-kyiv-apartment-building-rises-24/"
+    }
+  ]
+}
