@@ -1,0 +1,126 @@
+{
+  "title": "WHO erklärt Ebola-Ausbruch zur globalen Gesundheitsgefahr",
+  "translated_title": "WHO declares Ebola outbreak a global health emergency",
+  "text": [
+    {
+      "text": "Die Weltgesundheitsorganisation (WHO) hat am 17. Mai 2026 einen neuen Ebola-Ausbruch zur „Gesundheitlichen Notlage von internationaler Tragweite\" erklärt.",
+      "translated_text": "The World Health Organization (WHO) declared a new Ebola outbreak a \"Public Health Emergency of International Concern\" on 17 May 2026."
+    },
+    {
+      "text": "Der Ausbruch betrifft die Demokratische Republik Kongo (DRK) und Uganda in Zentralafrika.",
+      "translated_text": "The outbreak affects the Democratic Republic of Congo (DRC) and Uganda in Central Africa."
+    },
+    {
+      "text": "Der Ebola-Ausbruch wird durch das Bundibugyo-Virus verursacht.",
+      "translated_text": "The Ebola outbreak is caused by the Bundibugyo virus."
+    },
+    {
+      "text": "Dieses Virus ist eine von mehreren Arten, die Ebola-Krankheiten auslösen können.",
+      "translated_text": "This virus is one of several types that can cause Ebola disease."
+    },
+    {
+      "text": "Bisher gibt es noch keinen zugelassenen Impfstoff gegen diesen Virustyp.",
+      "translated_text": "So far, there is no approved vaccine against this type of virus."
+    },
+    {
+      "text": "Laut WHO gibt es bereits mehr als 395 Verdachtsfälle und über 106 Todesfälle.",
+      "translated_text": "According to the WHO, there are already more than 395 suspected cases and over 106 deaths."
+    },
+    {
+      "text": "Die meisten Fälle wurden in der abgelegenen nordöstlichen Provinz Ituri im Kongo nahe der Grenze zu Uganda gemeldet.",
+      "translated_text": "Most cases have been reported in the remote northeastern Ituri province in the Congo near the border with Uganda."
+    },
+    {
+      "text": "Die WHO ist besorgt, weil die Zahl der Fälle schnell wächst und sich die Krankheit über Grenzen ausbreitet.",
+      "translated_text": "The WHO is concerned because the number of cases is growing rapidly and the disease is spreading across borders."
+    },
+    {
+      "text": "Außerdem gibt es viele Unsicherheiten über das tatsächliche Ausmaß der Epidemie.",
+      "translated_text": "In addition, there are many uncertainties about the true extent of the epidemic."
+    },
+    {
+      "text": "Ein amerikanischer Staatsbürger, der im Kongo war, testete positiv auf das Virus.",
+      "translated_text": "An American citizen who was in the Congo tested positive for the virus."
+    },
+    {
+      "text": "Die USA haben daraufhin Einschränkungen für Einreisen aus dem betroffenen Gebiet eingeführt.",
+      "translated_text": "The USA subsequently introduced restrictions on entry from the affected region."
+    },
+    {
+      "text": "Die WHO betont jedoch, dass der Ausbruch noch nicht die Kriterien eines „Pandemie-Notfalls\" erfüllt.",
+      "translated_text": "The WHO emphasizes, however, that the outbreak does not yet meet the criteria of a \"pandemic emergency\"."
+    },
+    {
+      "text": "Die Organisation arbeitet eng mit den Regierungen des Kongo und Ugandas zusammen, um die Ausbreitung zu stoppen.",
+      "translated_text": "The organization is working closely with the governments of the Congo and Uganda to stop the spread."
+    },
+    {
+      "text": "Gesundheitsbehörden weltweit beobachten die Situation genau.",
+      "translated_text": "Health authorities worldwide are monitoring the situation closely."
+    },
+    {
+      "text": "Experten warnen, dass eine schnelle Reaktion entscheidend ist, um eine weitere Ausbreitung des Virus zu verhindern.",
+      "translated_text": "Experts warn that a rapid response is crucial to prevent further spread of the virus."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Ausbruch",
+      "translated_term": "the outbreak",
+      "example_usage": "Die WHO hat einen neuen Ebola-Ausbruch zur Notlage erklärt."
+    },
+    {
+      "term": "erklären",
+      "translated_term": "to declare",
+      "example_usage": "Die WHO hat den Ausbruch zur Gesundheitlichen Notlage erklärt."
+    },
+    {
+      "term": "verursachen",
+      "translated_term": "to cause",
+      "example_usage": "Der Ausbruch wird durch das Bundibugyo-Virus verursacht."
+    },
+    {
+      "term": "der Verdachtsfall",
+      "translated_term": "the suspected case",
+      "example_usage": "Laut WHO gibt es bereits mehr als 395 Verdachtsfälle."
+    },
+    {
+      "term": "die Ausbreitung",
+      "translated_term": "the spread",
+      "example_usage": "Die Organisation arbeitet eng zusammen, um die Ausbreitung zu stoppen."
+    },
+    {
+      "term": "der Impfstoff",
+      "translated_term": "the vaccine",
+      "example_usage": "Bisher gibt es noch keinen zugelassenen Impfstoff gegen diesen Virustyp."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Öffentliche Gesundheit",
+      "translated_name": "Public Health"
+    },
+    {
+      "name": "Afrika",
+      "translated_name": "Africa"
+    },
+    {
+      "name": "Epidemie",
+      "translated_name": "Epidemic"
+    }
+  ],
+  "sources": [
+    {
+      "name": "WHO: Ebola disease in the DRC and Uganda declared a public health emergency of international concern",
+      "link_url": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern"
+    },
+    {
+      "name": "CNN: What we know about the latest Ebola outbreak after WHO declares global health emergency",
+      "link_url": "https://www.cnn.com/2026/05/17/africa/ebola-outbreak-congo-uganda-explainer-intl"
+    },
+    {
+      "name": "NPR: World Health Organization declares Ebola outbreak in Congo a global health emergency",
+      "link_url": "https://www.npr.org/2026/05/16/g-s1-122494/new-ebola-outbreak-drc-who-global-emergency"
+    }
+  ]
+}

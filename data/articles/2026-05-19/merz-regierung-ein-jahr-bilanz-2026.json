@@ -1,0 +1,118 @@
+{
+  "title": "Ein Jahr Merz-Regierung: Deutsche sind unzufrieden",
+  "translated_title": "One year of the Merz government: Germans are dissatisfied",
+  "text": [
+    {
+      "text": "Die schwarz-rote Koalition unter Bundeskanzler Friedrich Merz (CDU) ist seit einem Jahr an der Macht.",
+      "translated_text": "The black-red coalition under Federal Chancellor Friedrich Merz (CDU) has been in power for one year."
+    },
+    {
+      "text": "Der Bundestag hat diese Woche eine Bilanz des ersten Regierungsjahres gezogen.",
+      "translated_text": "The Bundestag took stock of the first year in government this week."
+    },
+    {
+      "text": "Die Ergebnisse zeigen, dass viele Deutsche mit der Arbeit der Regierung unzufrieden sind.",
+      "translated_text": "The results show that many Germans are dissatisfied with the government's work."
+    },
+    {
+      "text": "Laut aktuellen Umfragen sind 69 Prozent der Deutschen mit der Koalition unzufrieden – ein neuer Höchststand.",
+      "translated_text": "According to current polls, 69 percent of Germans are dissatisfied with the coalition – a new all-time high."
+    },
+    {
+      "text": "Nur 28 Prozent der Bevölkerung unterstützen Kanzler Merz noch, während es bei seinem Amtsantritt noch 47 Prozent waren.",
+      "translated_text": "Only 28 percent of the population still support Chancellor Merz, compared to 47 percent when he took office."
+    },
+    {
+      "text": "Besonders besorgniserregend für die Koalition ist, dass die AfD in Umfragen jetzt vor CDU/CSU liegt.",
+      "translated_text": "Particularly worrying for the coalition is that the AfD now leads CDU/CSU in the polls."
+    },
+    {
+      "text": "Bei einer Sonntagsfrage käme die AfD auf 27 Prozent, die CDU/CSU nur auf 25 Prozent.",
+      "translated_text": "In a voting intention poll, the AfD would receive 27 percent, and CDU/CSU only 25 percent."
+    },
+    {
+      "text": "Fast die Hälfte der Deutschen, nämlich 48 Prozent, erwartet ein vorzeitiges Ende der Koalition.",
+      "translated_text": "Almost half of Germans, namely 48 percent, expect a premature end to the coalition."
+    },
+    {
+      "text": "Im März 2026 glaubten noch 66 Prozent, dass die Regierung bis zur regulären Wahl 2029 regieren würde.",
+      "translated_text": "In March 2026, 66 percent still believed the government would govern until the regular election in 2029."
+    },
+    {
+      "text": "Die Regierung verteidigt ihre Arbeit und nennt mehrere Maßnahmen als Erfolge.",
+      "translated_text": "The government defends its work and cites several measures as successes."
+    },
+    {
+      "text": "Dazu gehören die Abschaffung der Gasspeicherumlage, die Senkung der Netzentgelte und die dauerhafte Reduzierung der Stromsteuer für energieintensive Unternehmen.",
+      "translated_text": "These include the abolition of the gas storage levy, the reduction of network charges, and the permanent reduction of electricity tax for energy-intensive businesses."
+    },
+    {
+      "text": "Kritiker hingegen betonen die vielen Koalitionsstreitigkeiten und die wirtschaftlichen Probleme.",
+      "translated_text": "Critics, on the other hand, emphasize the many coalition disputes and economic problems."
+    },
+    {
+      "text": "Sogar der eigene Fraktionsvorsitzende spricht von „Zankerei und Gezänk\" innerhalb der Koalition.",
+      "translated_text": "Even the coalition's own parliamentary group leader speaks of \"squabbling and bickering\" within the coalition."
+    },
+    {
+      "text": "Die Frage bleibt, ob die Koalition die nächsten Jahre überstehen wird oder ob Deutschland bald wieder Wahlen erlebt.",
+      "translated_text": "The question remains whether the coalition will survive the next few years or whether Germany will soon see elections again."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Koalition",
+      "translated_term": "the coalition",
+      "example_usage": "Die schwarz-rote Koalition unter Kanzler Merz ist seit einem Jahr an der Macht."
+    },
+    {
+      "term": "die Bilanz",
+      "translated_term": "the assessment / the balance sheet",
+      "example_usage": "Der Bundestag hat eine Bilanz des ersten Regierungsjahres gezogen."
+    },
+    {
+      "term": "unzufrieden",
+      "translated_term": "dissatisfied",
+      "example_usage": "69 Prozent der Deutschen sind mit der Koalition unzufrieden."
+    },
+    {
+      "term": "die Umfrage",
+      "translated_term": "the poll / the survey",
+      "example_usage": "Laut aktuellen Umfragen unterstützen nur 28 Prozent Kanzler Merz."
+    },
+    {
+      "term": "vorzeitig",
+      "translated_term": "early / premature",
+      "example_usage": "48 Prozent der Deutschen erwarten ein vorzeitiges Ende der Koalition."
+    },
+    {
+      "term": "verteidigen",
+      "translated_term": "to defend",
+      "example_usage": "Die Regierung verteidigt ihre Arbeit und nennt mehrere Maßnahmen als Erfolge."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Bundestagswahl",
+      "translated_name": "Federal Election"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Deutscher Bundestag: Fraktionen ziehen Bilanz des ersten Regierungsjahres der schwarz-roten Koalition",
+      "link_url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw19-de-aktuelle-stunde-bundesregierung-1174104"
+    },
+    {
+      "name": "Euronews: Ein Jahr Merz – Es kann nur noch besser werden",
+      "link_url": "https://de.euronews.com/2026/05/06/merz-cdu-spd-koalition-burgergeld-migration"
+    }
+  ]
+}

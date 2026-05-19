@@ -1,0 +1,122 @@
+{
+  "title": "Berlin: Tempo 50 kehrt auf Berliner Hauptstraße zurück",
+  "translated_title": "Berlin: 50 km/h speed limit returns to Berlin main road",
+  "text": [
+    {
+      "text": "Auf der Marienfelder Allee in Berlin-Tempelhof gilt tagsüber bald wieder Tempo 50.",
+      "translated_text": "The Marienfelder Allee in Berlin-Tempelhof will soon have a 50 km/h speed limit during the day again."
+    },
+    {
+      "text": "Der Berliner Senat hat entschieden, die Tempo-30-Zone auf dieser Hauptstraße abzuschaffen.",
+      "translated_text": "The Berlin Senate has decided to abolish the 30 km/h zone on this main road."
+    },
+    {
+      "text": "Die Entscheidung ist jedoch sehr umstritten.",
+      "translated_text": "However, the decision is very controversial."
+    },
+    {
+      "text": "Bisher galt auf dem Abschnitt zwischen Belßstraße und Bahnstraße während des Tages eine Geschwindigkeitsbegrenzung von 30 Kilometern pro Stunde.",
+      "translated_text": "Up to now, a speed limit of 30 kilometres per hour applied during the day on the section between Belßstraße and Bahnstraße."
+    },
+    {
+      "text": "Diese Regelung war eingeführt worden, um die Luftqualität zu verbessern und die Sicherheit auf Schulwegen zu erhöhen.",
+      "translated_text": "This regulation had been introduced to improve air quality and increase safety on school routes."
+    },
+    {
+      "text": "Der Senat begründet die Änderung damit, dass die Luftqualität in den letzten Jahren deutlich besser geworden ist.",
+      "translated_text": "The Senate justifies the change by saying that air quality has improved significantly in recent years."
+    },
+    {
+      "text": "Die Schadstoffwerte, die früher die Grundlage für die Tempolimits waren, haben sich verbessert.",
+      "translated_text": "The pollution levels that previously formed the basis for the speed limits have improved."
+    },
+    {
+      "text": "Allerdings gibt es starken Widerstand aus dem Bezirk Tempelhof-Schöneberg.",
+      "translated_text": "However, there is strong resistance from the Tempelhof-Schöneberg district."
+    },
+    {
+      "text": "Anwohner, Schulen und Fahrradfahrer befürchten, dass die höhere Geschwindigkeit gefährlich sein könnte.",
+      "translated_text": "Residents, schools and cyclists fear that the higher speed could be dangerous."
+    },
+    {
+      "text": "Ein Fahrradfahrer sagte: „Dann traue ich mich mit dem Fahrrad nicht mehr in den Verkehr.\"",
+      "translated_text": "A cyclist said: \"Then I won't dare to ride my bicycle in traffic anymore.\""
+    },
+    {
+      "text": "Bezirkspolitiker fordern eine gründliche Überprüfung der Sicherheitslage, bevor das höhere Tempo eingeführt wird.",
+      "translated_text": "District politicians are calling for a thorough review of the safety situation before the higher speed limit is introduced."
+    },
+    {
+      "text": "Sie sind besonders besorgt um Kinder auf dem Weg zur Schule.",
+      "translated_text": "They are particularly concerned about children on their way to school."
+    },
+    {
+      "text": "Nachts, zwischen 22 und 6 Uhr, soll das Tempo 30 weiterhin gelten, um Lärmbelastungen für die Anwohner zu reduzieren.",
+      "translated_text": "At night, between 10 pm and 6 am, the 30 km/h limit is to remain in force to reduce noise pollution for residents."
+    },
+    {
+      "text": "Berlin hat in den letzten Jahren viele Tempo-30-Zonen eingeführt.",
+      "translated_text": "Berlin has introduced many 30 km/h zones in recent years."
+    },
+    {
+      "text": "Jetzt schafft der Senat schrittweise einige davon wieder ab, was zu großen Diskussionen über Verkehrssicherheit und Umweltschutz führt.",
+      "translated_text": "Now the Senate is gradually abolishing some of them, which is leading to major discussions about road safety and environmental protection."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Geschwindigkeitsbegrenzung",
+      "translated_term": "the speed limit",
+      "example_usage": "Bisher galt auf dem Abschnitt eine Geschwindigkeitsbegrenzung von 30 Kilometern pro Stunde."
+    },
+    {
+      "term": "abschaffen",
+      "translated_term": "to abolish",
+      "example_usage": "Der Berliner Senat hat die Tempo-30-Zone abgeschafft."
+    },
+    {
+      "term": "umstritten",
+      "translated_term": "controversial",
+      "example_usage": "Die Entscheidung ist jedoch sehr umstritten."
+    },
+    {
+      "term": "befürchten",
+      "translated_term": "to fear / to worry",
+      "example_usage": "Anwohner befürchten, dass die höhere Geschwindigkeit gefährlich sein könnte."
+    },
+    {
+      "term": "der Anwohner",
+      "translated_term": "the local resident",
+      "example_usage": "Anwohner, Schulen und Fahrradfahrer fordern eine Überprüfung der Sicherheitslage."
+    },
+    {
+      "term": "die Lärmbelastung",
+      "translated_term": "the noise pollution",
+      "example_usage": "Nachts gilt Tempo 30, um Lärmbelastungen für die Anwohner zu reduzieren."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Mobilität",
+      "translated_name": "Mobility"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berliner Kurier: Berliner Senat schafft Tempo 30 auf einer Hauptstraße ab",
+      "link_url": "https://www.berliner-kurier.de/berlin/berliner-senat-schafft-tempo-30-hauptstrasse-ab-li.10035492"
+    },
+    {
+      "name": "Tagesspiegel: Streit um Tempo 50 auf Berliner Hauptstraße",
+      "link_url": "https://www.tagesspiegel.de/berlin/bezirke/tempelhof-schoeneberg/streit-um-tempo-50-auf-berliner-hauptstrasse-dann-traue-ich-mich-mit-dem-fahrrad-nicht-mehr-in-den-verkehr-15608951.html"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Londoner U-Bahn-Streik in letzter Minute abgesagt",
+  "translated_title": "London Underground strike called off at the last minute",
+  "text": [
+    {
+      "text": "Die Londoner U-Bahn-Streiks, die für den 19. und 21. Mai 2026 geplant waren, wurden in letzter Minute abgesagt.",
+      "translated_text": "The London Underground strikes planned for 19 and 21 May 2026 were called off at the last minute."
+    },
+    {
+      "text": "Die Gewerkschaft RMT (Rail, Maritime and Transport Workers) gab die Entscheidung bekannt, nachdem es Gespräche mit dem Betreiber Transport for London (TfL) gegeben hatte.",
+      "translated_text": "The RMT (Rail, Maritime and Transport Workers) union announced the decision after talks with the operator Transport for London (TfL)."
+    },
+    {
+      "text": "Die RMT hatte die Streiks ursprünglich wegen neuer Arbeitspläne angekündigt.",
+      "translated_text": "The RMT had originally announced the strikes because of new work rosters."
+    },
+    {
+      "text": "Die Gewerkschaft kritisierte, dass die neue „verdichtete Vier-Tage-Woche\" die Mitarbeiter stärker ermüden und die Sicherheit beeinträchtigen würde.",
+      "translated_text": "The union criticized that the new \"compressed four-day week\" would make employees more fatigued and compromise safety."
+    },
+    {
+      "text": "In einer Erklärung sagte die RMT: „In letzter Minute hat der Arbeitgeber seine Position geändert und ermöglicht uns, die Bedenken unserer Mitglieder weiter zu untersuchen.\"",
+      "translated_text": "In a statement, the RMT said: \"At the last minute, the employer changed its position, allowing us to further investigate our members' concerns.\""
+    },
+    {
+      "text": "Viele Pendler in London waren erleichtert, als sie die Nachricht hörten.",
+      "translated_text": "Many commuters in London were relieved when they heard the news."
+    },
+    {
+      "text": "Die geplanten Streiks hätten erhebliche Störungen für Millionen von Londoner Fahrgästen verursacht.",
+      "translated_text": "The planned strikes would have caused significant disruption for millions of London passengers."
+    },
+    {
+      "text": "Allerdings warnte die Gewerkschaft, dass neue Streiks am 2. und 4. Juni 2026 folgen könnten, wenn der Streit nicht gelöst wird.",
+      "translated_text": "However, the union warned that new strikes on 2 and 4 June 2026 could follow if the dispute is not resolved."
+    },
+    {
+      "text": "Die Londoner U-Bahn ist eines der ältesten U-Bahn-Systeme der Welt und befördert täglich Millionen von Fahrgästen.",
+      "translated_text": "The London Underground is one of the oldest metro systems in the world and transports millions of passengers daily."
+    },
+    {
+      "text": "Streiks haben in der Vergangenheit immer wieder zu großen Problemen für die Stadt geführt.",
+      "translated_text": "Strikes have repeatedly caused major problems for the city in the past."
+    },
+    {
+      "text": "Die Gespräche zwischen RMT und TfL sollen in den kommenden Tagen fortgesetzt werden, um eine dauerhafte Lösung zu finden.",
+      "translated_text": "Talks between RMT and TfL are set to continue in the coming days to find a lasting solution."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "absagen",
+      "translated_term": "to cancel",
+      "example_usage": "Die geplanten Streiks wurden in letzter Minute abgesagt."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the trade union",
+      "example_usage": "Die Gewerkschaft RMT hatte die Streiks angekündigt."
+    },
+    {
+      "term": "der Arbeitgeber",
+      "translated_term": "the employer",
+      "example_usage": "In letzter Minute hat der Arbeitgeber seine Position geändert."
+    },
+    {
+      "term": "die Bedenken",
+      "translated_term": "the concerns",
+      "example_usage": "Die RMT möchte die Bedenken der Mitglieder zu den neuen Schichtplänen untersuchen."
+    },
+    {
+      "term": "der Fahrgast",
+      "translated_term": "the passenger",
+      "example_usage": "Die Streiks hätten Störungen für Millionen von Fahrgästen verursacht."
+    },
+    {
+      "term": "beeinträchtigen",
+      "translated_term": "to compromise / to affect negatively",
+      "example_usage": "Die neue Vier-Tage-Woche würde die Sicherheit beeinträchtigen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Time Out London: May 2026 Tube Strikes called off by RMT union",
+      "link_url": "https://www.timeout.com/london/news/may-2026-london-tube-strikes-called-off-by-rmt-union-051826"
+    },
+    {
+      "name": "ITV News London: Two 24-hour strikes planned by London Underground drivers are called off",
+      "link_url": "https://www.itv.com/news/london/2026-05-18/rmt-suspends-planned-tube-strike"
+    }
+  ]
+}
