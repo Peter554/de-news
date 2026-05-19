@@ -1,0 +1,126 @@
+{
+  "title": "Israel tötet Militärführer der Hamas",
+  "translated_title": "Israel kills military leader of Hamas",
+  "text": [
+    {
+      "text": "Israel hat am 15. Mai 2026 den Militärführer der Hamas, Izz al-Din al-Haddad, in einem Luftangriff auf Gaza-Stadt getötet.",
+      "translated_text": "Israel killed the military leader of Hamas, Izz al-Din al-Haddad, in an airstrike on Gaza City on 15 May 2026."
+    },
+    {
+      "text": "Al-Haddad war einer der letzten hochrangigen Führer der Hamas und galt als Architekt der Angriffe vom 7. Oktober 2023.",
+      "translated_text": "Al-Haddad was one of the last senior leaders of Hamas and was considered an architect of the attacks of 7 October 2023."
+    },
+    {
+      "text": "Diese Angriffe haben den Krieg in Gaza ausgelöst.",
+      "translated_text": "These attacks triggered the war in Gaza."
+    },
+    {
+      "text": "Al-Haddad hatte den Posten des Militärchefs übernommen, nachdem sein Vorgänger Mohammed Sinwar getötet worden war.",
+      "translated_text": "Al-Haddad had taken over the position of military chief after his predecessor Mohammed Sinwar was killed."
+    },
+    {
+      "text": "Er wurde von israelischen Sicherheitsdiensten als einer der gefährlichsten Hamas-Kommandeure eingestuft.",
+      "translated_text": "He was classified by Israeli intelligence services as one of the most dangerous Hamas commanders."
+    },
+    {
+      "text": "Die Hamas bestätigte seinen Tod.",
+      "translated_text": "Hamas confirmed his death."
+    },
+    {
+      "text": "Bei dem Angriff wurden auch seine Frau und seine Tochter sowie weitere Personen getötet.",
+      "translated_text": "His wife and daughter, as well as other people, were also killed in the attack."
+    },
+    {
+      "text": "Insgesamt kamen bei dem Luftangriff sieben Menschen ums Leben.",
+      "translated_text": "In total, seven people were killed in the airstrike."
+    },
+    {
+      "text": "Al-Haddad hatte in der Vergangenheit mehrere israelische Angriffe überlebt und wurde deshalb auch „der Geist\" genannt.",
+      "translated_text": "Al-Haddad had survived several Israeli attacks in the past and was therefore also called \"the Ghost\"."
+    },
+    {
+      "text": "Er war seit den frühen Jahren der Hamas-Gründung in den 1980er Jahren aktiv.",
+      "translated_text": "He had been active since the early years of Hamas's founding in the 1980s."
+    },
+    {
+      "text": "Der israelische Ministerpräsident Benjamin Netanjahu nannte die Tötung einen wichtigen Erfolg im Kampf gegen den Terrorismus.",
+      "translated_text": "Israeli Prime Minister Benjamin Netanyahu called the killing an important success in the fight against terrorism."
+    },
+    {
+      "text": "Die Hamas drohte jedoch mit Vergeltung.",
+      "translated_text": "Hamas, however, threatened retaliation."
+    },
+    {
+      "text": "Der Krieg in Gaza dauert seit dem Angriff der Hamas im Oktober 2023 an.",
+      "translated_text": "The war in Gaza has been ongoing since Hamas's attack in October 2023."
+    },
+    {
+      "text": "Seitdem sind nach Angaben der Gesundheitsbehörden in Gaza mehr als 50.000 Menschen ums Leben gekommen.",
+      "translated_text": "Since then, according to Gaza's health authorities, more than 50,000 people have been killed."
+    },
+    {
+      "text": "Die internationale Gemeinschaft fordert weiterhin eine dauerhafte Waffenruhe und bessere humanitäre Hilfe für die Menschen in Gaza.",
+      "translated_text": "The international community continues to call for a lasting ceasefire and improved humanitarian aid for the people in Gaza."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Luftangriff",
+      "translated_term": "the airstrike",
+      "example_usage": "Israel hat al-Haddad in einem Luftangriff auf Gaza-Stadt getötet."
+    },
+    {
+      "term": "hochrangig",
+      "translated_term": "high-ranking",
+      "example_usage": "Al-Haddad war einer der letzten hochrangigen Führer der Hamas."
+    },
+    {
+      "term": "der Vorgänger",
+      "translated_term": "the predecessor",
+      "example_usage": "Al-Haddad hatte den Posten übernommen, nachdem sein Vorgänger getötet worden war."
+    },
+    {
+      "term": "die Vergeltung",
+      "translated_term": "the retaliation",
+      "example_usage": "Die Hamas drohte mit Vergeltung."
+    },
+    {
+      "term": "töten",
+      "translated_term": "to kill",
+      "example_usage": "Israel hat den Militärführer der Hamas getötet."
+    },
+    {
+      "term": "die Waffenruhe",
+      "translated_term": "the ceasefire",
+      "example_usage": "Die internationale Gemeinschaft fordert eine dauerhafte Waffenruhe."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Gaza-Konflikt",
+      "translated_name": "Gaza Conflict"
+    },
+    {
+      "name": "Israel",
+      "translated_name": "Israel"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR: Israel says it killed the leader of Hamas' military wing",
+      "link_url": "https://www.npr.org/2026/05/16/g-s1-122453/gaza-airstrike-hamas-military-leader"
+    },
+    {
+      "name": "US News: Israeli Strike Kills Hamas' Military Wing Leader",
+      "link_url": "https://www.usnews.com/news/world/articles/2026-05-16/israel-says-it-killed-the-leader-of-hamas-military-wing-one-of-the-architects-of-oct-7-attacks"
+    },
+    {
+      "name": "Algemeiner: Israel Kills Hamas Armed Wing Leader Haddad in Gaza Strike",
+      "link_url": "https://www.algemeiner.com/2026/05/16/israel-kills-hamas-armed-wing-leader-haddad-in-gaza-strike/"
+    }
+  ]
+}
