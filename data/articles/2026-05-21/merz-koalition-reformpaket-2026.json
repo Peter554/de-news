@@ -1,0 +1,130 @@
+{
+  "title": "Ein Jahr Merz-Regierung: Koalition kämpft um Reformpaket",
+  "translated_title": "One Year of the Merz Government: Coalition Fights for Reform Package",
+  "text": [
+    {
+      "text": "Seit etwa einem Jahr regiert Friedrich Merz Deutschland als Bundeskanzler.",
+      "translated_text": "Friedrich Merz has been governing Germany as Federal Chancellor for about one year."
+    },
+    {
+      "text": "Er führt eine Koalition aus CDU/CSU und SPD.",
+      "translated_text": "He leads a coalition of CDU/CSU and SPD."
+    },
+    {
+      "text": "Im Bundestag wurde am 6. Mai 2026 eine Debatte zum Thema Ein Jahr Regierung Merz geführt.",
+      "translated_text": "In the Bundestag, a debate was held on May 6, 2026 on the topic \"One Year of the Merz Government\"."
+    },
+    {
+      "text": "Das Fazit vieler Abgeordneter war kritisch: Die Koalition hat zu wenig erreicht.",
+      "translated_text": "The conclusion of many members of parliament was critical: the coalition has achieved too little."
+    },
+    {
+      "text": "Die Zustimmung zur Bundesregierung ist auf einen historischen Tiefstand gesunken.",
+      "translated_text": "Approval of the federal government has fallen to a historic low."
+    },
+    {
+      "text": "Viele Deutsche sind unzufrieden mit der Regierungsarbeit.",
+      "translated_text": "Many Germans are dissatisfied with the work of the government."
+    },
+    {
+      "text": "Sie kritisieren ausbleibende Reformen, wirtschaftliche Probleme und häufigen Koalitionsstreit.",
+      "translated_text": "They criticize the lack of reforms, economic problems, and frequent coalition disputes."
+    },
+    {
+      "text": "In den Umfragen hat die AfD die Union inzwischen als stärkste Partei überholt.",
+      "translated_text": "In polls, the AfD has now overtaken the Union as the strongest party."
+    },
+    {
+      "text": "Das ist ein wichtiges politisches Warnsignal für die Regierung.",
+      "translated_text": "This is an important political warning signal for the government."
+    },
+    {
+      "text": "Merz hat nun seine Koalitionspartner zu mehr Mut und Kompromissbereitschaft aufgerufen.",
+      "translated_text": "Merz has now called on his coalition partners for more courage and willingness to compromise."
+    },
+    {
+      "text": "Er will, dass die Koalition ohne rote Linien verhandelt und Kompromisse findet.",
+      "translated_text": "He wants the coalition to negotiate without red lines and find compromises."
+    },
+    {
+      "text": "Bis zum 30. Juni 2026 soll ein großes Reformpaket fertig sein.",
+      "translated_text": "By June 30, 2026, a major reform package is supposed to be ready."
+    },
+    {
+      "text": "Das Paket soll Einkommensteuer, Rente, Pflege, Arbeitskosten und Bürokratieabbau umfassen.",
+      "translated_text": "The package is to cover income tax, pensions, care, labour costs, and the reduction of bureaucracy."
+    },
+    {
+      "text": "Besonders schwierig war das erste Regierungsjahr nach den Landtagswahlen im März 2026.",
+      "translated_text": "The first year in government was particularly difficult following the state elections in March 2026."
+    },
+    {
+      "text": "In Baden-Württemberg und Rheinland-Pfalz schnitt die SPD sehr schlecht ab.",
+      "translated_text": "In Baden-Württemberg and Rhineland-Palatinate, the SPD performed very poorly."
+    },
+    {
+      "text": "Die Grünen und die Linke im Bundestag kritisierten Merz scharf für fehlende Reformen.",
+      "translated_text": "The Greens and the Left in the Bundestag sharply criticised Merz for the lack of reforms."
+    },
+    {
+      "text": "Die kommenden Wochen werden zeigen, ob das Reformpaket rechtzeitig fertiggestellt werden kann.",
+      "translated_text": "The coming weeks will show whether the reform package can be completed on time."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Bundeskanzler",
+      "translated_term": "the Federal Chancellor",
+      "example_usage": "Seit etwa einem Jahr regiert Friedrich Merz Deutschland als Bundeskanzler."
+    },
+    {
+      "term": "die Koalition",
+      "translated_term": "the coalition",
+      "example_usage": "Er führt eine Koalition aus CDU/CSU und SPD."
+    },
+    {
+      "term": "der Tiefstand",
+      "translated_term": "the record low / all-time low",
+      "example_usage": "Die Zustimmung zur Bundesregierung ist auf einen historischen Tiefstand gesunken."
+    },
+    {
+      "term": "überholen",
+      "translated_term": "to overtake / to pass",
+      "example_usage": "In den Umfragen hat die AfD die Union inzwischen als stärkste Partei überholt."
+    },
+    {
+      "term": "das Reformpaket",
+      "translated_term": "the reform package",
+      "example_usage": "Bis zum 30. Juni 2026 soll ein großes Reformpaket fertig sein."
+    },
+    {
+      "term": "der Bürokratieabbau",
+      "translated_term": "the reduction of bureaucracy",
+      "example_usage": "Das Paket soll Einkommensteuer, Rente, Pflege, Arbeitskosten und Bürokratieabbau umfassen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wirtschaftspolitik",
+      "translated_name": "Economic Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bundestag: Fraktionen ziehen Bilanz des ersten Regierungsjahres der schwarz-roten Koalition",
+      "link_url": "https://www.bundestag.de/dokumente/textarchiv/2026/kw19-de-aktuelle-stunde-bundesregierung-1174104"
+    },
+    {
+      "name": "t-online: Merz wirbt für Koalition ohne rote Linien",
+      "link_url": "https://www.t-online.de/nachrichten/deutschland/id_101260760/merz-wirbt-fuer-koalition-ohne-rote-linien.html"
+    }
+  ]
+}
