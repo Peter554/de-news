@@ -1,0 +1,134 @@
+{
+  "title": "Ebola-Ausbruch: WHO ruft globalen Gesundheitsnotstand aus – US-Patient in Berlin behandelt",
+  "translated_title": "Ebola Outbreak: WHO Declares Global Health Emergency – US Patient Treated in Berlin",
+  "text": [
+    {
+      "text": "Die Weltgesundheitsorganisation (WHO) hat am 17. Mai 2026 einen internationalen Gesundheitsnotstand ausgerufen.",
+      "translated_text": "The World Health Organization (WHO) declared an international health emergency on May 17, 2026."
+    },
+    {
+      "text": "Der Grund ist ein gefährlicher Ausbruch des Ebola-Virus in der Demokratischen Republik Kongo.",
+      "translated_text": "The reason is a dangerous outbreak of the Ebola virus in the Democratic Republic of the Congo."
+    },
+    {
+      "text": "Es handelt sich um den seltenen Bundibugyo-Stamm.",
+      "translated_text": "It involves the rare Bundibugyo strain."
+    },
+    {
+      "text": "Gegen diesen Stamm gibt es weder eine zugelassene Behandlung noch einen Impfstoff.",
+      "translated_text": "There is neither an approved treatment nor a vaccine against this strain."
+    },
+    {
+      "text": "Bis zum 19. Mai 2026 wurden über 500 Verdachtsfälle und rund 130 Todesfälle gemeldet.",
+      "translated_text": "By May 19, 2026, more than 500 suspected cases and around 130 deaths had been reported."
+    },
+    {
+      "text": "Die meisten Fälle befinden sich in der Provinz Ituri im Nordosten des Landes.",
+      "translated_text": "Most cases are in Ituri Province in the northeastern part of the country."
+    },
+    {
+      "text": "Auch in Uganda wurden zwei bestätigte Fälle festgestellt.",
+      "translated_text": "Two confirmed cases were also detected in Uganda."
+    },
+    {
+      "text": "Die betroffenen Personen waren zuvor im Kongo gewesen.",
+      "translated_text": "The affected persons had previously been in the Congo."
+    },
+    {
+      "text": "Ein amerikanischer Arzt namens Dr. Peter Stafford infizierte sich im Kongo mit dem Virus.",
+      "translated_text": "An American doctor named Dr. Peter Stafford contracted the virus in the Congo."
+    },
+    {
+      "text": "Er arbeitete im Nyankunde-Krankenhaus, als er krank wurde.",
+      "translated_text": "He was working at Nyankunde Hospital when he fell ill."
+    },
+    {
+      "text": "Das US-Militär brachte ihn zur Behandlung nach Deutschland.",
+      "translated_text": "The US military brought him to Germany for treatment."
+    },
+    {
+      "text": "Seit dem 20. Mai wird Dr. Stafford in der Berliner Charité in einer Isolierstation behandelt.",
+      "translated_text": "Since May 20, Dr. Stafford has been treated in an isolation ward at the Charité in Berlin."
+    },
+    {
+      "text": "Sein Zustand ist stabil.",
+      "translated_text": "His condition is stable."
+    },
+    {
+      "text": "Die deutsche Gesundheitsministerin Nina Warken bestätigte, dass Deutschland weitere gefährdete US-Bürger aufnehmen werde.",
+      "translated_text": "German Health Minister Nina Warken confirmed that Germany would take in further at-risk US citizens."
+    },
+    {
+      "text": "Sechs weitere Personen mit engem Kontakt zu Ebola-Patienten wurden nach Deutschland und Tschechien gebracht.",
+      "translated_text": "Six more people who had close contact with Ebola patients were brought to Germany and the Czech Republic."
+    },
+    {
+      "text": "Die WHO ruft alle Länder auf, ihre Reisehinweise zu prüfen und die Überwachung zu verstärken.",
+      "translated_text": "The WHO calls on all countries to review their travel advisories and strengthen surveillance."
+    },
+    {
+      "text": "Wissenschaftler arbeiten dringend an einem Impfstoff gegen den Bundibugyo-Stamm.",
+      "translated_text": "Scientists are urgently working on a vaccine against the Bundibugyo strain."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Gesundheitsnotstand",
+      "translated_term": "the health emergency",
+      "example_usage": "Die WHO hat am 17. Mai 2026 einen internationalen Gesundheitsnotstand ausgerufen."
+    },
+    {
+      "term": "ausrufen",
+      "translated_term": "to declare / to proclaim",
+      "example_usage": "Die WHO hat am 17. Mai 2026 einen internationalen Gesundheitsnotstand ausgerufen."
+    },
+    {
+      "term": "der Stamm",
+      "translated_term": "the strain (of a virus)",
+      "example_usage": "Es handelt sich um den seltenen Bundibugyo-Stamm."
+    },
+    {
+      "term": "der Verdachtsfall",
+      "translated_term": "the suspected case",
+      "example_usage": "Bis zum 19. Mai 2026 wurden über 500 Verdachtsfälle und rund 130 Todesfälle gemeldet."
+    },
+    {
+      "term": "die Isolierstation",
+      "translated_term": "the isolation ward",
+      "example_usage": "Seit dem 20. Mai wird Dr. Stafford in der Berliner Charité in einer Isolierstation behandelt."
+    },
+    {
+      "term": "sich infizieren",
+      "translated_term": "to become infected",
+      "example_usage": "Ein amerikanischer Arzt namens Dr. Peter Stafford infizierte sich im Kongo mit dem Virus."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Öffentliche Gesundheit",
+      "translated_name": "Public Health"
+    },
+    {
+      "name": "Afrika",
+      "translated_name": "Africa"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    }
+  ],
+  "sources": [
+    {
+      "name": "WHO: Ebola epidemic in the DRC and Uganda declared a public health emergency of international concern",
+      "link_url": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern"
+    },
+    {
+      "name": "US News: American Ebola Patient Evacuated From DRC to Germany Is in Stable Condition",
+      "link_url": "https://www.usnews.com/news/top-news/articles/2026-05-20/american-ebola-patient-evacuated-from-drc-to-germany-is-in-stable-condition-cdc-says"
+    },
+    {
+      "name": "RTE News: US Ebola patient from DR Congo in Germany for treatment",
+      "link_url": "https://www.rte.ie/news/world/2026/0520/1574313-ebola-health/"
+    }
+  ]
+}
