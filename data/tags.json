@@ -180,6 +180,10 @@
     "translated_name": "Humanitarian Crisis"
   },
   {
+    "name": "Indien",
+    "translated_name": "India"
+  },
+  {
     "name": "Infektionskrankheit",
     "translated_name": "Infectious Disease"
   },
@@ -372,6 +376,10 @@
     "translated_name": "Arms Industry"
   },
   {
+    "name": "Schottland",
+    "translated_name": "Scotland"
+  },
+  {
     "name": "Schulgewalt",
     "translated_name": "School Violence"
   },
@@ -486,6 +494,10 @@
   {
     "name": "Vereinte Nationen",
     "translated_name": "United Nations"
+  },
+  {
+    "name": "Verfassung",
+    "translated_name": "Constitution"
   },
   {
     "name": "Verteidigung",

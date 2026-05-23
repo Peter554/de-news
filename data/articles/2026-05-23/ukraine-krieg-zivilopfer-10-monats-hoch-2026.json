@@ -1,0 +1,126 @@
+{
+  "title": "Zivilopfer im Ukraine-Krieg erreichen Zehn-Monats-Hoch",
+  "translated_title": "Civilian Casualties in the Ukraine War Reach a Ten-Month High",
+  "text": [
+    {
+      "text": "Die Vereinten Nationen haben einen neuen Bericht über den Ukraine-Krieg veröffentlicht.",
+      "translated_text": "The United Nations have published a new report about the Ukraine War."
+    },
+    {
+      "text": "In den ersten vier Monaten des Jahres 2026 wurden mindestens 815 Zivilpersonen getötet und 4.174 verletzt.",
+      "translated_text": "In the first four months of 2026, at least 815 civilians were killed and 4,174 injured."
+    },
+    {
+      "text": "Das ist ein Anstieg von 21 Prozent im Vergleich zum gleichen Zeitraum im Jahr 2025.",
+      "translated_text": "That is an increase of 21 percent compared to the same period in 2025."
+    },
+    {
+      "text": "Im Vergleich zu 2024 sind die Zahlen sogar um 93 Prozent gestiegen.",
+      "translated_text": "Compared to 2024, the figures have even risen by 93 percent."
+    },
+    {
+      "text": "Im April allein wurden 238 Menschen getötet und 1.404 verletzt.",
+      "translated_text": "In April alone, 238 people were killed and 1,404 injured."
+    },
+    {
+      "text": "Der UN-Sicherheitsrat wurde informiert, dass der Krieg täglich tödlicher wird.",
+      "translated_text": "The UN Security Council was informed that the war is becoming deadlier every day."
+    },
+    {
+      "text": "In der Nacht vom 13. auf den 14. Mai feuerte Russland mehr als 1.500 Drohnen auf die Ukraine.",
+      "translated_text": "On the night of 13–14 May, Russia fired more than 1,500 drones at Ukraine."
+    },
+    {
+      "text": "Russland setzte auch Dutzende von Raketen ein.",
+      "translated_text": "Russia also deployed dozens of missiles."
+    },
+    {
+      "text": "Der schlimmste Einzelvorfall ereignete sich am 14. Mai in Kyiv.",
+      "translated_text": "The worst single incident occurred on 14 May in Kyiv."
+    },
+    {
+      "text": "Eine Rakete traf ein neunstöckiges Wohngebäude und tötete 24 Menschen.",
+      "translated_text": "A missile hit a nine-storey residential building and killed 24 people."
+    },
+    {
+      "text": "48 weitere Personen wurden dabei verletzt.",
+      "translated_text": "A further 48 people were injured."
+    },
+    {
+      "text": "Russland nutzt immer häufiger Langstreckenwaffen, um Wohngebiete anzugreifen.",
+      "translated_text": "Russia is increasingly using long-range weapons to attack residential areas."
+    },
+    {
+      "text": "Seit Beginn der Invasion wurden insgesamt mehr als 60.659 Zivilopfer bestätigt.",
+      "translated_text": "Since the start of the invasion, more than 60,659 civilian casualties have been confirmed in total."
+    },
+    {
+      "text": "Die UN-Menschenrechtsbeobachtungsmission in der Ukraine überwacht die Situation genau.",
+      "translated_text": "The UN Human Rights Monitoring Mission in Ukraine is monitoring the situation closely."
+    },
+    {
+      "text": "Sie fordert alle Seiten auf, das humanitäre Völkerrecht zu respektieren.",
+      "translated_text": "It is calling on all sides to respect international humanitarian law."
+    },
+    {
+      "text": "Friedensverhandlungen zwischen Russland und der Ukraine finden bisher nicht statt.",
+      "translated_text": "Peace negotiations between Russia and Ukraine are not yet taking place."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Zivilperson",
+      "translated_term": "the civilian",
+      "example_usage": "In den ersten vier Monaten des Jahres 2026 wurden mindestens 815 Zivilpersonen getötet."
+    },
+    {
+      "term": "das Wohngebäude",
+      "translated_term": "the residential building",
+      "example_usage": "Eine Rakete traf ein neunstöckiges Wohngebäude und tötete 24 Menschen."
+    },
+    {
+      "term": "die Drohne",
+      "translated_term": "the drone",
+      "example_usage": "Russland feuerte mehr als 1.500 Drohnen auf die Ukraine."
+    },
+    {
+      "term": "das humanitäre Völkerrecht",
+      "translated_term": "international humanitarian law",
+      "example_usage": "Die UN fordert alle Seiten auf, das humanitäre Völkerrecht zu respektieren."
+    },
+    {
+      "term": "bestätigen",
+      "translated_term": "to confirm",
+      "example_usage": "Seit Beginn der Invasion wurden mehr als 60.659 Zivilopfer bestätigt."
+    },
+    {
+      "term": "der Einzelvorfall",
+      "translated_term": "the single incident",
+      "example_usage": "Der schlimmste Einzelvorfall ereignete sich am 14. Mai in Kyiv."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Humanitäre Krise",
+      "translated_name": "Humanitarian Crisis"
+    }
+  ],
+  "sources": [
+    {
+      "name": "UN News: Ukraine war ‘becoming deadlier by the day’, Security Council hears",
+      "link_url": "https://news.un.org/en/story/2026/05/1167546"
+    },
+    {
+      "name": "Kyiv Independent: Civilian casualties in Ukraine reach 10-month high in April, UN finds",
+      "link_url": "https://kyivindependent.com/civilian-casualties-in-ukraine-reach-10-month-high-in-april-un-finds/"
+    }
+  ]
+}
