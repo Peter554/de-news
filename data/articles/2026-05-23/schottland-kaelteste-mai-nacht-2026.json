@@ -1,0 +1,122 @@
+{
+  "title": "Schottland verzeichnet kälteste Mai-Nacht seit fünf Jahren",
+  "translated_title": "Scotland Records Coldest May Night in Five Years",
+  "text": [
+    {
+      "text": "In Schottland hat es in der Nacht zum 23. Mai einen ungewöhnlichen Kälteeinbruch gegeben.",
+      "translated_text": "In Scotland, there was an unusual cold snap during the night of 23 May."
+    },
+    {
+      "text": "Die Wetterstation in Altnaharra im Hochland von Sutherland maß Temperaturen von minus 6,1 Grad Celsius.",
+      "translated_text": "The weather station in Altnaharra in the Sutherland Highlands measured temperatures of minus 6.1 degrees Celsius."
+    },
+    {
+      "text": "Das ist die kälteste Mai-Nacht in Großbritannien seit fünf Jahren.",
+      "translated_text": "This is the coldest May night in Great Britain in five years."
+    },
+    {
+      "text": "Altnaharra ist für seine außergewöhnlich niedrigen Temperaturen bekannt.",
+      "translated_text": "Altnaharra is known for its exceptionally low temperatures."
+    },
+    {
+      "text": "Aber selbst für diese Station ist ein solcher Wert im Mai sehr ungewöhnlich.",
+      "translated_text": "But even for this station, such a reading in May is very unusual."
+    },
+    {
+      "text": "Der britische Wetterdienst Met Office hat die Messung bestätigt.",
+      "translated_text": "The British weather service Met Office has confirmed the measurement."
+    },
+    {
+      "text": "Auf den Shetland-Inseln fiel sogar Schnee.",
+      "translated_text": "There was even snowfall in the Shetland Islands."
+    },
+    {
+      "text": "Schneefall im späten Mai ist auf den Inseln sehr selten.",
+      "translated_text": "Snowfall in late May is very rare on the islands."
+    },
+    {
+      "text": "Der Kälteeinbruch traf vor allem den Norden Schottlands.",
+      "translated_text": "The cold snap mainly affected the north of Scotland."
+    },
+    {
+      "text": "In Südengland hingegen waren die Temperaturen für die Jahreszeit normal.",
+      "translated_text": "In southern England, on the other hand, temperatures were normal for the time of year."
+    },
+    {
+      "text": "Experten weisen darauf hin, dass extreme Kälteereignisse trotz des globalen Klimawandels weiterhin vorkommen.",
+      "translated_text": "Experts point out that extreme cold events continue to occur despite global climate change."
+    },
+    {
+      "text": "Der Klimawandel führt sowohl zu mehr Hitzewellen als auch zu ungewöhnlichen Kälteperioden.",
+      "translated_text": "Climate change leads to both more heatwaves and unusual cold periods."
+    },
+    {
+      "text": "Das britische Wetter ist für seine Unbeständigkeit bekannt.",
+      "translated_text": "British weather is known for its unpredictability."
+    },
+    {
+      "text": "Viele Menschen in Schottland waren überrascht von dem plötzlichen Temperatursturz.",
+      "translated_text": "Many people in Scotland were surprised by the sudden drop in temperature."
+    },
+    {
+      "text": "Meteorologen erwarten, dass die Temperaturen in den nächsten Tagen wieder steigen werden.",
+      "translated_text": "Meteorologists expect temperatures to rise again in the coming days."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Kälteeinbruch",
+      "translated_term": "the cold snap",
+      "example_usage": "In Schottland hat es in der Nacht zum 23. Mai einen ungewöhnlichen Kälteeinbruch gegeben."
+    },
+    {
+      "term": "die Wetterstation",
+      "translated_term": "the weather station",
+      "example_usage": "Die Wetterstation in Altnaharra maß Temperaturen von minus 6,1 Grad Celsius."
+    },
+    {
+      "term": "der Wetterdienst",
+      "translated_term": "the weather service",
+      "example_usage": "Der britische Wetterdienst Met Office hat die Messung bestätigt."
+    },
+    {
+      "term": "der Temperatursturz",
+      "translated_term": "the drop in temperature",
+      "example_usage": "Viele Menschen waren überrascht von dem plötzlichen Temperatursturz."
+    },
+    {
+      "term": "die Unbeständigkeit",
+      "translated_term": "the unpredictability / variability",
+      "example_usage": "Das britische Wetter ist für seine Unbeständigkeit bekannt."
+    },
+    {
+      "term": "verzeichnen",
+      "translated_term": "to record / to register",
+      "example_usage": "Schottland verzeichnet die kälteste Mai-Nacht seit fünf Jahren."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Schottland",
+      "translated_name": "Scotland"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    }
+  ],
+  "sources": [
+    {
+      "name": "STV News: Scotland records UK's coldest May night in five years",
+      "link_url": "https://news.stv.tv/weather/scotland-records-uks-coldest-may-night-in-five-years"
+    },
+    {
+      "name": "Met Office: UK climate extremes",
+      "link_url": "https://www.metoffice.gov.uk/research/climate/maps-and-data/uk-climate-extremes"
+    }
+  ]
+}

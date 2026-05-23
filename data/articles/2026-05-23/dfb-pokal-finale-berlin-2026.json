@@ -1,0 +1,134 @@
+{
+  "title": "DFB-Pokal-Finale 2026: Bayern München gegen VfB Stuttgart in Berlin",
+  "translated_title": "DFB-Pokal Final 2026: Bayern Munich vs VfB Stuttgart in Berlin",
+  "text": [
+    {
+      "text": "Am Abend des 23. Mai 2026 findet das DFB-Pokal-Finale im Berliner Olympiastadion statt.",
+      "translated_text": "On the evening of 23 May 2026, the DFB-Pokal Final takes place at the Berlin Olympiastadion."
+    },
+    {
+      "text": "Der FC Bayern München spielt gegen den VfB Stuttgart.",
+      "translated_text": "FC Bayern Munich plays against VfB Stuttgart."
+    },
+    {
+      "text": "Es ist das 83. DFB-Pokal-Finale in der Geschichte des deutschen Fußballs.",
+      "translated_text": "It is the 83rd DFB-Pokal Final in the history of German football."
+    },
+    {
+      "text": "Der Anpfiff ist um 20:00 Uhr.",
+      "translated_text": "Kick-off is at 20:00."
+    },
+    {
+      "text": "Mehr als 74.000 Zuschauer werden im Stadion erwartet.",
+      "translated_text": "More than 74,000 spectators are expected in the stadium."
+    },
+    {
+      "text": "Das Spiel wird live im ARD und auf Sky übertragen.",
+      "translated_text": "The match is broadcast live on ARD and Sky."
+    },
+    {
+      "text": "Der VfB Stuttgart ist der amtierende Pokalsieger.",
+      "translated_text": "VfB Stuttgart are the reigning cup winners."
+    },
+    {
+      "text": "Sie haben den DFB-Pokal 2025 gewonnen und wollen ihn verteidigen.",
+      "translated_text": "They won the DFB-Pokal in 2025 and want to defend it."
+    },
+    {
+      "text": "FC Bayern München hat den Pokal zuletzt im Jahr 2020 gewonnen.",
+      "translated_text": "FC Bayern Munich last won the cup in 2020."
+    },
+    {
+      "text": "Sie wollen nach sechs Jahren endlich wieder Pokalsieger werden.",
+      "translated_text": "They want to become cup winners again after six years."
+    },
+    {
+      "text": "Schiedsrichter des Spiels ist Sven Jablonski.",
+      "translated_text": "The referee of the match is Sven Jablonski."
+    },
+    {
+      "text": "Die Stadt Berlin ist an diesem Wochenende besonders belebt.",
+      "translated_text": "The city of Berlin is particularly lively this weekend."
+    },
+    {
+      "text": "Gleichzeitig findet der Karneval der Kulturen statt, der vom 22. bis 25. Mai dauert.",
+      "translated_text": "At the same time, the Carnival of Cultures takes place, which runs from 22 to 25 May."
+    },
+    {
+      "text": "Der Karneval der Kulturen feiert in diesem Jahr sein 30-jähriges Jubiläum.",
+      "translated_text": "The Carnival of Cultures is celebrating its 30th anniversary this year."
+    },
+    {
+      "text": "Hunderttausende von Besuchern kommen an diesem Wochenende nach Berlin.",
+      "translated_text": "Hundreds of thousands of visitors are coming to Berlin this weekend."
+    },
+    {
+      "text": "Für Fans beider Mannschaften wurden Fanzonen rund um den Blücherplatz eingerichtet.",
+      "translated_text": "Fan zones have been set up around Blücherplatz for fans of both teams."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Olympiastadion",
+      "translated_term": "the Olympic Stadium",
+      "example_usage": "Das DFB-Pokal-Finale findet im Berliner Olympiastadion statt."
+    },
+    {
+      "term": "der amtierende Pokalsieger",
+      "translated_term": "the reigning cup winner",
+      "example_usage": "Der VfB Stuttgart ist der amtierende Pokalsieger."
+    },
+    {
+      "term": "verteidigen",
+      "translated_term": "to defend",
+      "example_usage": "Sie haben den DFB-Pokal 2025 gewonnen und wollen ihn verteidigen."
+    },
+    {
+      "term": "der Schiedsrichter",
+      "translated_term": "the referee",
+      "example_usage": "Schiedsrichter des Spiels ist Sven Jablonski."
+    },
+    {
+      "term": "das Jubiläum",
+      "translated_term": "the anniversary / jubilee",
+      "example_usage": "Der Karneval der Kulturen feiert in diesem Jahr sein 30-jähriges Jubiläum."
+    },
+    {
+      "term": "der Anpfiff",
+      "translated_term": "the kick-off",
+      "example_usage": "Der Anpfiff ist um 20:00 Uhr."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Fußball",
+      "translated_name": "Football"
+    },
+    {
+      "name": "Sport",
+      "translated_name": "Sports"
+    },
+    {
+      "name": "Veranstaltungen",
+      "translated_name": "Events"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Olympiastadion Berlin: DFB-Pokal Final 2026",
+      "link_url": "https://olympiastadion.berlin/en/term/dfb-pokal-final/"
+    },
+    {
+      "name": "FC Bayern: Pokalfinale FC Bayern - VfB Stuttgart: Zahlen & Fakten",
+      "link_url": "https://fcbayern.com/de/news/2026/05/fc-bayern-vs-vfb-stuttgart-die-faktenlage-zum-dfb-pokal-finale"
+    },
+    {
+      "name": "VfB Stuttgart: Faninfo DFB-Pokalfinale 2026",
+      "link_url": "https://www.vfb.de/de/vfb/aktuell/neues/fans/2026/faninfo--dfb-pokalfinale-2026/"
+    }
+  ]
+}
