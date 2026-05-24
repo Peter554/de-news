@@ -1,0 +1,42 @@
+{
+  "title": "Goldene Palme in Cannes: Cristian Mungius Drama „Fjord" gewinnt den Hauptpreis",
+  "translated_title": "Palme d'Or at Cannes: Cristian Mungiu's drama 'Fjord' wins the top prize",
+  "text": [
+    {"text": "Bei den Internationalen Filmfestspielen in Cannes ist der Hauptpreis vergeben worden.", "translated_text": "The top prize has been awarded at the Cannes International Film Festival."},
+    {"text": "Der rumänische Regisseur Cristian Mungiu gewann die Goldene Palme für seinen Film „Fjord".", "translated_text": "Romanian director Cristian Mungiu won the Palme d'Or for his film 'Fjord'."},
+    {"text": "Es ist das zweite Mal, dass Mungiu diesen begehrten Preis erhält.", "translated_text": "This is the second time that Mungiu has received this coveted prize."},
+    {"text": "Sein erstes Mal war vor 19 Jahren, als er für „4 Monate, 3 Wochen und 2 Tage" ausgezeichnet wurde.", "translated_text": "His first time was 19 years ago, when he was awarded for '4 Months, 3 Weeks and 2 Days'."},
+    {"text": "In „Fjord" spielen die Schauspieler Sebastian Stan und Renate Reinsve die Hauptrollen.", "translated_text": "In 'Fjord', actors Sebastian Stan and Renate Reinsve play the lead roles."},
+    {"text": "Der Film erzählt die Geschichte einer rumänischen Familie evangelikalen Glaubens.", "translated_text": "The film tells the story of a Romanian family of evangelical faith."},
+    {"text": "Die Familie zieht in ein kleines norwegisches Dorf an einem Fjord.", "translated_text": "The family moves to a small Norwegian village on a fjord."},
+    {"text": "Dort geraten sie in Konflikt mit dem norwegischen Sozialsystem.", "translated_text": "There, they come into conflict with the Norwegian social welfare system."},
+    {"text": "Eine Lehrerin entdeckt Verletzungen an einem der Kinder der Familie.", "translated_text": "A teacher discovers injuries on one of the family's children."},
+    {"text": "Der Film untersucht die Spannung zwischen traditionellen und modernen Werten.", "translated_text": "The film examines the tension between traditional and modern values."},
+    {"text": "Die Jury stand unter der Leitung des südkoreanischen Regisseurs Park Chan-wook.", "translated_text": "The jury was led by South Korean director Park Chan-wook."},
+    {"text": "„Fjord" war einer der meistdiskutierten Filme des Wettbewerbs.", "translated_text": "'Fjord' was one of the most debated films in the competition."},
+    {"text": "Kritiker waren gespalten über die politische Botschaft des Films.", "translated_text": "Critics were divided over the political message of the film."},
+    {"text": "Den Grand Prix gewann Andrey Zvyagintsevs Film „Minotaur".", "translated_text": "The Grand Prix was won by Andrey Zvyagintsev's film 'Minotaur'."},
+    {"text": "Das Filmfestival in Cannes gilt als eines der wichtigsten der Welt.", "translated_text": "The Cannes Film Festival is considered one of the most important in the world."},
+    {"text": "Es findet jedes Jahr an der französischen Mittelmeerküste statt.", "translated_text": "It takes place every year on the French Mediterranean coast."},
+    {"text": "In diesem Jahr ist es die 79. Ausgabe des Festivals.", "translated_text": "This year marks the 79th edition of the festival."}
+  ],
+  "key_vocab": [
+    {"term": "die Goldene Palme", "translated_term": "the Palme d'Or (Golden Palm)", "example_usage": "Der rumänische Regisseur Cristian Mungiu gewann die Goldene Palme für seinen Film „Fjord"."},
+    {"term": "der Regisseur", "translated_term": "the director", "example_usage": "Es ist das zweite Mal, dass Mungiu diesen begehrten Preis erhält."},
+    {"term": "die Hauptrolle", "translated_term": "the lead role", "example_usage": "In „Fjord" spielen die Schauspieler Sebastian Stan und Renate Reinsve die Hauptrollen."},
+    {"term": "evangelikal", "translated_term": "evangelical", "example_usage": "Der Film erzählt die Geschichte einer rumänischen Familie evangelikalen Glaubens."},
+    {"term": "die Jury", "translated_term": "the jury", "example_usage": "Die Jury stand unter der Leitung des südkoreanischen Regisseurs Park Chan-wook."},
+    {"term": "der Wettbewerb", "translated_term": "the competition", "example_usage": "„Fjord" war einer der meistdiskutierten Filme des Wettbewerbs."},
+    {"term": "gespalten", "translated_term": "divided / split", "example_usage": "Kritiker waren gespalten über die politische Botschaft des Films."},
+    {"term": "die Filmfestspiele", "translated_term": "the film festival", "example_usage": "Bei den Internationalen Filmfestspielen in Cannes ist der Hauptpreis vergeben worden."}
+  ],
+  "tags": [
+    {"name": "Kultur", "translated_name": "Culture"},
+    {"name": "Frankreich", "translated_name": "France"},
+    {"name": "Internationale Nachrichten", "translated_name": "International News"}
+  ],
+  "sources": [
+    {"name": "Euronews: Cannes 2026: Cristian Mungiu's political drama 'Fjord' wins the Palme d'Or", "link_url": "https://www.euronews.com/culture/2026/05/23/cannes-2026-cristian-mungius-political-drama-fjord-wins-the-palme-dor"},
+    {"name": "Variety: Cristian Mungiu Wins His Second Palme d'Or at Cannes for 'Fjord'", "link_url": "https://variety.com/2026/film/news/cannes-film-festival-reveals-2026-award-winners-1236757655/"}
+  ]
+}

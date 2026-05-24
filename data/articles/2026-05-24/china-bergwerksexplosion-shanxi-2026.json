@@ -1,0 +1,43 @@
+{
+  "title": "Explosionskatastrophe in chinesischem Kohlebergwerk: Mindestens 90 Tote",
+  "translated_title": "Explosion disaster in Chinese coal mine: At least 90 dead",
+  "text": [
+    {"text": "In China ist es zu einem schweren Unglück in einem Kohlebergwerk gekommen.", "translated_text": "A serious accident has occurred in a coal mine in China."},
+    {"text": "Am Freitagabend, dem 23. Mai 2026, explodierte Methangas in einer Grube in der Provinz Shanxi.", "translated_text": "On Friday evening, May 23, 2026, methane gas exploded in a mine in Shanxi province."},
+    {"text": "Das Bergwerk befindet sich im Landkreis Qinyuan in der Stadt Changzhi.", "translated_text": "The mine is located in Qinyuan county in the city of Changzhi."},
+    {"text": "Zum Zeitpunkt der Explosion arbeiteten etwa 247 Bergarbeiter unter der Erde.", "translated_text": "At the time of the explosion, around 247 miners were working underground."},
+    {"text": "Mindestens 90 Menschen kamen bei dem Unglück ums Leben.", "translated_text": "At least 90 people lost their lives in the accident."},
+    {"text": "Damit ist es das schwerste Bergwerksunglück in China seit über 16 Jahren.", "translated_text": "This makes it the deadliest mining disaster in China in over 16 years."},
+    {"text": "Die Rettungskräfte rückten schnell an den Unglücksort aus.", "translated_text": "Rescue workers quickly arrived at the scene of the accident."},
+    {"text": "Insgesamt wurden rund 750 Rettungskräfte mobilisiert, um bei den Bergungsarbeiten zu helfen.", "translated_text": "In total, around 750 rescue workers were mobilized to help with the recovery operations."},
+    {"text": "Präsident Xi Jinping forderte ein „maximales Rettungsaufgebot" und eine gründliche Untersuchung.", "translated_text": "President Xi Jinping called for a \"maximum rescue effort\" and a thorough investigation."},
+    {"text": "Auch Premier Li Qiang kündigte an, die Sicherheitskontrollen in Bergwerken landesweit zu verstärken.", "translated_text": "Premier Li Qiang also announced plans to strengthen safety inspections in mines nationwide."},
+    {"text": "Das Bergwerk galt als Risikoanlage mit hoher Methanbelastung.", "translated_text": "The mine was classified as a high-risk facility with high methane levels."},
+    {"text": "Methan ist ein leicht entzündbares Gas, das sich in Kohlebergwerken ansammeln kann.", "translated_text": "Methane is a highly flammable gas that can accumulate in coal mines."},
+    {"text": "Die Explosion ereignete sich während eines Schichtwechsels, was die Zahl der Betroffenen erhöhte.", "translated_text": "The explosion occurred during a shift change, which increased the number of people affected."},
+    {"text": "Zwei Personen, darunter der Betreiber der Mine, wurden vorläufig festgenommen.", "translated_text": "Two people, including the mine operator, were taken into custody."},
+    {"text": "Viele Opfer litten unter Vergiftungen durch toxische Gase.", "translated_text": "Many victims suffered from toxic gas poisoning."},
+    {"text": "Das schlimmste vergleichbare Unglück in China ereignete sich 2009 in der Provinz Heilongjiang.", "translated_text": "The worst comparable accident in China occurred in 2009 in Heilongjiang province."},
+    {"text": "Damals starben 108 Menschen bei einer Explosion in einem Bergwerk.", "translated_text": "At that time, 108 people died in a mine explosion."},
+    {"text": "China ist der weltweit größte Kohleproduzent und kämpft immer wieder mit schweren Bergwerksunglücken.", "translated_text": "China is the world's largest coal producer and repeatedly struggles with serious mining accidents."}
+  ],
+  "key_vocab": [
+    {"term": "das Kohlebergwerk", "translated_term": "the coal mine", "example_usage": "In China ist es zu einem schweren Unglück in einem Kohlebergwerk gekommen."},
+    {"term": "die Explosion", "translated_term": "the explosion", "example_usage": "Am Freitagabend explodierte Methangas in einer Grube in der Provinz Shanxi."},
+    {"term": "der Bergarbeiter", "translated_term": "the miner", "example_usage": "Zum Zeitpunkt der Explosion arbeiteten etwa 247 Bergarbeiter unter der Erde."},
+    {"term": "die Rettungskräfte", "translated_term": "the rescue workers", "example_usage": "Die Rettungskräfte rückten schnell an den Unglücksort aus."},
+    {"term": "das Methan", "translated_term": "the methane", "example_usage": "Das Bergwerk galt als Risikoanlage mit hoher Methanbelastung."},
+    {"term": "der Schichtwechsel", "translated_term": "the shift change", "example_usage": "Die Explosion ereignete sich während eines Schichtwechsels."},
+    {"term": "festnehmen", "translated_term": "to arrest / take into custody", "example_usage": "Zwei Personen, darunter der Betreiber der Mine, wurden vorläufig festgenommen."},
+    {"term": "die Bergungsarbeiten", "translated_term": "the recovery operations", "example_usage": "Rund 750 Rettungskräfte wurden mobilisiert, um bei den Bergungsarbeiten zu helfen."}
+  ],
+  "tags": [
+    {"name": "China", "translated_name": "China"},
+    {"name": "Katastrophe", "translated_name": "Disaster"},
+    {"name": "Internationale Nachrichten", "translated_name": "International News"}
+  ],
+  "sources": [
+    {"name": "Euronews: China: Explosion in Kohlebergwerk mit mindestens 82 Toten", "link_url": "https://www.euronews.com/2026/05/23/xi-jinping-urges-all-out-rescue-after-coal-mine-explosion-kills-at-least-82-in-china"},
+    {"name": "Rhein-Neckar-Zeitung: Mindestens 90 Menschen sterben bei Minenunglück in China", "link_url": "https://www.rnz.de/politik/panorama_artikel,-Kohlebergwerk-Mindestens-90-Menschen-sterben-bei-Minenunglueck-in-China-_arid,2330733.html"}
+  ]
+}

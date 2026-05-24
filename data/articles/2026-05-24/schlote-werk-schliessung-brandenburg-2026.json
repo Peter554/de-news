@@ -1,0 +1,42 @@
+{
+  "title": "Drohende Werksschließung: Autozulieferer Schlote gibt in Brandenburg auf",
+  "translated_title": "Threatened factory closure: Auto supplier Schlote gives up in Brandenburg",
+  "text": [
+    {"text": "In Brandenburg an der Havel droht ein weiterer Arbeitsplatzverlust in der Automobilindustrie.", "translated_text": "In Brandenburg an der Havel, a further loss of jobs in the automotive industry is looming."},
+    {"text": "Der Autozulieferer Schlote wird sein Werk voraussichtlich im Herbst 2026 schließen.", "translated_text": "The auto supplier Schlote is expected to close its plant in autumn 2026."},
+    {"text": "Die Suche nach einem Investor ist offenbar gescheitert.", "translated_text": "The search for an investor appears to have failed."},
+    {"text": "Das Unternehmen hatte bereits im Mai 2025 Insolvenz angemeldet.", "translated_text": "The company had already filed for insolvency in May 2025."},
+    {"text": "Das Amtsgericht Hildesheim eröffnete daraufhin die Insolvenzverfahren über drei Gesellschaften der Unternehmensgruppe.", "translated_text": "The district court of Hildesheim then opened insolvency proceedings against three companies of the corporate group."},
+    {"text": "Die Schlote-Gruppe beschäftigt rund 1.350 Mitarbeitende an verschiedenen Standorten.", "translated_text": "The Schlote Group employs around 1,350 workers at various locations."},
+    {"text": "Mehr als 1.000 direkte Arbeitsplätze sind durch die drohende Schließung gefährdet.", "translated_text": "More than 1,000 direct jobs are at risk due to the threatened closure."},
+    {"text": "Das Werk in Brandenburg an der Havel produziert Getriebeteile und Antriebskomponenten.", "translated_text": "The plant in Brandenburg an der Havel produces transmission parts and drive components."},
+    {"text": "Die Schließung ist Teil einer größeren Krise in der deutschen Automobilzulieferindustrie.", "translated_text": "The closure is part of a wider crisis in the German automotive supplier industry."},
+    {"text": "Viele Zulieferer leiden unter dem Wandel zur Elektromobilität.", "translated_text": "Many suppliers are suffering from the transition to electric mobility."},
+    {"text": "Der Nachfragedruck aus der Automobilindustrie ist in den letzten Jahren stark gesunken.", "translated_text": "Demand pressure from the automotive industry has fallen sharply in recent years."},
+    {"text": "Auch der Konkurrent Bohai ist an einem anderen Brandenburger Standort in Schwierigkeiten geraten.", "translated_text": "Competitor Bohai has also run into difficulties at another Brandenburg location."},
+    {"text": "Zusammen gefährden die beiden Unternehmen über 1.000 Arbeitsplätze in der Region.", "translated_text": "Together, the two companies are putting over 1,000 jobs in the region at risk."},
+    {"text": "Die Landesregierung Brandenburg sucht nach Lösungen, um die betroffenen Arbeitnehmer zu unterstützen.", "translated_text": "The Brandenburg state government is looking for solutions to support the affected workers."},
+    {"text": "Politiker fordern, das Bundesland für mittelständische Unternehmen attraktiver zu machen.", "translated_text": "Politicians are calling for the federal state to become more attractive for medium-sized businesses."},
+    {"text": "Für die betroffenen Arbeitnehmer sollen Sozialpläne und Umschulungsangebote entwickelt werden.", "translated_text": "Social plans and retraining programmes are to be developed for the affected workers."},
+    {"text": "Die Entwicklung zeigt, wie stark der Strukturwandel die Regionen in Deutschland trifft.", "translated_text": "The development shows how strongly structural change is affecting regions across Germany."}
+  ],
+  "key_vocab": [
+    {"term": "der Autozulieferer", "translated_term": "the auto supplier", "example_usage": "Der Autozulieferer Schlote wird sein Werk voraussichtlich im Herbst 2026 schließen."},
+    {"term": "die Insolvenz", "translated_term": "the insolvency / bankruptcy", "example_usage": "Das Unternehmen hatte bereits im Mai 2025 Insolvenz angemeldet."},
+    {"term": "der Arbeitsplatzverlust", "translated_term": "the job loss", "example_usage": "In Brandenburg an der Havel droht ein weiterer Arbeitsplatzverlust in der Automobilindustrie."},
+    {"term": "der Investor", "translated_term": "the investor", "example_usage": "Die Suche nach einem Investor ist offenbar gescheitert."},
+    {"term": "die Elektromobilität", "translated_term": "the electric mobility", "example_usage": "Viele Zulieferer leiden unter dem Wandel zur Elektromobilität."},
+    {"term": "der Strukturwandel", "translated_term": "the structural change", "example_usage": "Die Entwicklung zeigt, wie stark der Strukturwandel die Regionen in Deutschland trifft."},
+    {"term": "die Umschulung", "translated_term": "the retraining", "example_usage": "Für die betroffenen Arbeitnehmer sollen Umschulungsangebote entwickelt werden."},
+    {"term": "gefährdet", "translated_term": "at risk / endangered", "example_usage": "Mehr als 1.000 direkte Arbeitsplätze sind durch die drohende Schließung gefährdet."}
+  ],
+  "tags": [
+    {"name": "Brandenburg", "translated_name": "Brandenburg"},
+    {"name": "Wirtschaftspolitik", "translated_name": "Economic Policy"},
+    {"name": "Arbeitspolitik", "translated_name": "Labour Policy"}
+  ],
+  "sources": [
+    {"name": "Autohaus: Autozulieferer Schlote in der Insolvenz: Produktion läuft weiter", "link_url": "https://www.autohaus.de/nachrichten/autohersteller/autozulieferer-schlote-in-der-insolvenz-produktion-laeuft-weiter-3664515"},
+    {"name": "Blackout News: Zwei Autozulieferer an einem Tag vor dem Aus", "link_url": "https://blackout-news.de/aktuelles/zwei-autozulieferer-an-einem-tag-vor-dem-aus-ueber-1-000-jobs-bei-bohai-und-schlote-gefaehrdet/"}
+  ]
+}
