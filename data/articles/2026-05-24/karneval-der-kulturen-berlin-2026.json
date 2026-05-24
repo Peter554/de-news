@@ -1,0 +1,127 @@
+{
+  "title": "Karneval der Kulturen: Buntes Fest in Berlin zum Pfingstwochenende",
+  "translated_title": "Carnival of Cultures: Colourful festival in Berlin for Whitsun weekend",
+  "text": [
+    {
+      "text": "Zum Pfingstwochenende feiert Berlin den Karneval der Kulturen.",
+      "translated_text": "Over the Whitsun weekend, Berlin is celebrating the Carnival of Cultures."
+    },
+    {
+      "text": "Das Fest findet vom 23. bis 26. Mai 2026 im Bezirk Friedrichshain-Kreuzberg statt.",
+      "translated_text": "The festival takes place from 23 to 26 May 2026 in the district of Friedrichshain-Kreuzberg."
+    },
+    {
+      "text": "Rund um den Blücherplatz gibt es vier Bühnen mit Musik aus aller Welt.",
+      "translated_text": "Around Blücherplatz there are four stages with music from around the world."
+    },
+    {
+      "text": "Außerdem bieten etwa 350 Stände Essen, Getränke und Kunsthandwerk an.",
+      "translated_text": "In addition, around 350 stalls offer food, drinks, and crafts."
+    },
+    {
+      "text": "Das Straßenfest öffnet freitags ab 17 Uhr und an den anderen Tagen ab 12 Uhr.",
+      "translated_text": "The street festival opens on Friday from 5 pm and on other days from 12 noon."
+    },
+    {
+      "text": "Am Samstag gibt es einen Kinderumzug, an dem mehrere tausend Kinder in Kostümen teilnehmen.",
+      "translated_text": "On Saturday there is a children's parade in which several thousand children participate in costumes."
+    },
+    {
+      "text": "Der große Festumzug findet am Sonntag, dem 24. Mai, statt.",
+      "translated_text": "The main parade takes place on Sunday, 24 May."
+    },
+    {
+      "text": "Er beginnt um 13:30 Uhr und führt durch Friedrichshain, entlang der Frankfurter Allee und der Karl-Marx-Allee.",
+      "translated_text": "It starts at 1:30 pm and runs through Friedrichshain, along Frankfurter Allee and Karl-Marx-Allee."
+    },
+    {
+      "text": "Wegen des Festes gibt es viele Straßensperrungen im Stadtteil.",
+      "translated_text": "Due to the festival, there are many road closures in the district."
+    },
+    {
+      "text": "Die Veranstalter empfehlen, mit öffentlichen Verkehrsmitteln anzureisen.",
+      "translated_text": "The organisers recommend travelling by public transport."
+    },
+    {
+      "text": "Das Wetter spielt mit: An diesem Pfingstwochenende werden Temperaturen bis zu 30 Grad erwartet.",
+      "translated_text": "The weather is cooperating: temperatures of up to 30 degrees are expected this Whitsun weekend."
+    },
+    {
+      "text": "Der Karneval der Kulturen ist eines der größten Straßenfeste Berlins.",
+      "translated_text": "The Carnival of Cultures is one of Berlin's largest street festivals."
+    },
+    {
+      "text": "Er feiert die Vielfalt der Kulturen und Menschen, die in Berlin leben.",
+      "translated_text": "It celebrates the diversity of cultures and people who live in Berlin."
+    },
+    {
+      "text": "Das Festival gibt es seit 1996 und zieht jedes Jahr Hunderttausende von Besuchern an.",
+      "translated_text": "The festival has existed since 1996 and attracts hundreds of thousands of visitors every year."
+    },
+    {
+      "text": "Die Organisatoren bitten Besucher, die Rasenflächen an der Karl-Marx-Allee nicht zu betreten.",
+      "translated_text": "The organisers ask visitors not to enter the grass verges along Karl-Marx-Allee."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Pfingstwochenende",
+      "translated_term": "the Whitsun weekend / Pentecost weekend",
+      "example_usage": "Zum Pfingstwochenende feiert Berlin den Karneval der Kulturen."
+    },
+    {
+      "term": "der Bezirk",
+      "translated_term": "the district / borough",
+      "example_usage": "Das Fest findet vom 23. bis 26. Mai 2026 im Bezirk Friedrichshain-Kreuzberg statt."
+    },
+    {
+      "term": "die Bühne",
+      "translated_term": "the stage",
+      "example_usage": "Rund um den Blücherplatz gibt es vier Bühnen mit Musik aus aller Welt."
+    },
+    {
+      "term": "das Kunsthandwerk",
+      "translated_term": "the crafts / handicrafts",
+      "example_usage": "Außerdem bieten etwa 350 Stände Essen, Getränke und Kunsthandwerk an."
+    },
+    {
+      "term": "der Umzug",
+      "translated_term": "the parade / procession",
+      "example_usage": "Am Samstag gibt es einen Kinderumzug, an dem mehrere tausend Kinder in Kostümen teilnehmen."
+    },
+    {
+      "term": "die Straßensperrung",
+      "translated_term": "the road closure",
+      "example_usage": "Wegen des Festes gibt es viele Straßensperrungen im Stadtteil."
+    },
+    {
+      "term": "die Vielfalt",
+      "translated_term": "the diversity",
+      "example_usage": "Er feiert die Vielfalt der Kulturen und Menschen, die in Berlin leben."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Kultur",
+      "translated_name": "Culture"
+    },
+    {
+      "name": "Veranstaltungen",
+      "translated_name": "Events"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de: Vier Tage Karneval der Kulturen - Straßensperrungen und Einschränkungen",
+      "link_url": "https://www.berlin.de/en/news/10397785-5559700-vier-tage-karneval-der-kulturen-strassen.en.html"
+    },
+    {
+      "name": "Karneval der Kulturen - offizielle Website",
+      "link_url": "https://karneval.berlin/"
+    }
+  ]
+}
