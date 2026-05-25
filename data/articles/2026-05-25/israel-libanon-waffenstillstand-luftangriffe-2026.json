@@ -1,0 +1,126 @@
+{
+  "title": "Israel verletzt Waffenstillstand im Libanon durch Luftangriffe",
+  "translated_title": "Israel Violates Lebanon Ceasefire with Airstrikes",
+  "text": [
+    {
+      "text": "Trotz eines Waffenstillstands führt Israel weiterhin Luftangriffe im Libanon durch.",
+      "translated_text": "Despite a ceasefire, Israel continues to carry out airstrikes in Lebanon."
+    },
+    {
+      "text": "Am 16. April 2026 hatten Israel und der Libanon einen Waffenstillstand vereinbart.",
+      "translated_text": "On 16 April 2026, Israel and Lebanon had agreed a ceasefire."
+    },
+    {
+      "text": "Die USA vermittelten den Vertrag, der zunächst für zehn Tage galt.",
+      "translated_text": "The USA brokered the agreement, which was initially valid for ten days."
+    },
+    {
+      "text": "Später wurde der Waffenstillstand mehrmals verlängert.",
+      "translated_text": "Later, the ceasefire was extended several times."
+    },
+    {
+      "text": "Am 15. Mai wurde eine Verlängerung um 45 Tage beschlossen.",
+      "translated_text": "On 15 May, an extension of 45 days was agreed."
+    },
+    {
+      "text": "Trotzdem gab es im Mai mehrere israelische Angriffe im Südlibanon.",
+      "translated_text": "Nevertheless, there were several Israeli attacks in southern Lebanon in May."
+    },
+    {
+      "text": "Am 19. Mai wurden bei Luftangriffen mindestens 22 Menschen getötet.",
+      "translated_text": "On 19 May, at least 22 people were killed in airstrikes."
+    },
+    {
+      "text": "Unter den Opfern waren Frauen und Kinder.",
+      "translated_text": "Among the victims were women and children."
+    },
+    {
+      "text": "Die Angriffe trafen Städte im Südlibanon, darunter Deir Qanoun an-Naher und Nabatiyeh.",
+      "translated_text": "The attacks struck towns in southern Lebanon, including Deir Qanoun an-Naher and Nabatiyeh."
+    },
+    {
+      "text": "Israel begründet die Angriffe mit dem Kampf gegen die Hisbollah-Miliz.",
+      "translated_text": "Israel justifies the attacks as part of the fight against the Hezbollah militia."
+    },
+    {
+      "text": "Der Libanon und viele internationale Organisationen kritisieren die Verletzung des Waffenstillstands.",
+      "translated_text": "Lebanon and many international organisations criticise the violation of the ceasefire."
+    },
+    {
+      "text": "Der Waffenstillstand gilt offiziell noch, aber er hält kaum.",
+      "translated_text": "The ceasefire is officially still in place, but it is barely holding."
+    },
+    {
+      "text": "Viele Menschen im Südlibanon haben ihre Dörfer verlassen und sind in den Norden geflüchtet.",
+      "translated_text": "Many people in southern Lebanon have left their villages and fled to the north."
+    },
+    {
+      "text": "Die humanitäre Lage im Land ist weiterhin sehr schwierig.",
+      "translated_text": "The humanitarian situation in the country remains very difficult."
+    },
+    {
+      "text": "Die Vereinten Nationen fordern alle Seiten auf, den Waffenstillstand einzuhalten.",
+      "translated_text": "The United Nations calls on all sides to respect the ceasefire."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Am 16. April 2026 hatten Israel und der Libanon einen Waffenstillstand vereinbart."
+    },
+    {
+      "term": "der Luftangriff",
+      "translated_term": "the airstrike",
+      "example_usage": "Am 19. Mai wurden bei Luftangriffen mindestens 22 Menschen getötet."
+    },
+    {
+      "term": "verletzen",
+      "translated_term": "to violate / to injure",
+      "example_usage": "Viele Organisationen kritisieren die Verletzung des Waffenstillstands."
+    },
+    {
+      "term": "verlängern",
+      "translated_term": "to extend",
+      "example_usage": "Später wurde der Waffenstillstand mehrmals verlängert."
+    },
+    {
+      "term": "vermitteln",
+      "translated_term": "to broker / to mediate",
+      "example_usage": "Die USA vermittelten den Vertrag."
+    },
+    {
+      "term": "fliehen",
+      "translated_term": "to flee",
+      "example_usage": "Viele Menschen haben ihre Dörfer verlassen und sind in den Norden geflüchtet."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Israel",
+      "translated_name": "Israel"
+    },
+    {
+      "name": "Libanon",
+      "translated_name": "Lebanon"
+    },
+    {
+      "name": "Waffenstillstand",
+      "translated_name": "Ceasefire"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Washington Post: Israeli strikes on southern Lebanon kill 19, including children and women",
+      "link_url": "https://www.washingtonpost.com/world/2026/05/19/lebanon-israel-hezbollah-airstrike-deir-qanoun-al-nahr-ceasefire/f12e2e12-53cc-11f1-9c40-7a0a12d9e745_story.html"
+    },
+    {
+      "name": "Wikipedia: 2026 Israel–Lebanon ceasefire",
+      "link_url": "https://en.wikipedia.org/wiki/2026_Israel%E2%80%93Lebanon_ceasefire"
+    }
+  ]
+}
