@@ -1,0 +1,126 @@
+{
+  "title": "Deutschland gibt WM-Kader bekannt: Manuel Neuer kehrt zurück",
+  "translated_title": "Germany Announces World Cup Squad: Manuel Neuer Returns",
+  "text": [
+    {
+      "text": "Deutschland hat seinen Kader für die FIFA Weltmeisterschaft 2026 bekannt gegeben.",
+      "translated_text": "Germany has announced its squad for the 2026 FIFA World Cup."
+    },
+    {
+      "text": "Das Turnier findet im Sommer 2026 in den USA, Kanada und Mexiko statt.",
+      "translated_text": "The tournament takes place in the summer of 2026 in the USA, Canada and Mexico."
+    },
+    {
+      "text": "Bundestrainer Julian Nagelsmann hat 26 Spieler ausgewählt.",
+      "translated_text": "Head coach Julian Nagelsmann has selected 26 players."
+    },
+    {
+      "text": "Die größte Überraschung ist die Rückkehr von Torhüter Manuel Neuer.",
+      "translated_text": "The biggest surprise is the return of goalkeeper Manuel Neuer."
+    },
+    {
+      "text": "Der 40-jährige Neuer hatte seinen Rücktritt aus der Nationalmannschaft erklärt.",
+      "translated_text": "The 40-year-old Neuer had announced his retirement from the national team."
+    },
+    {
+      "text": "Nun hat er seine Entscheidung rückgängig gemacht und steht erneut im Kader.",
+      "translated_text": "Now he has reversed his decision and is in the squad once again."
+    },
+    {
+      "text": "Neuer gewann 2014 mit Deutschland die Weltmeisterschaft.",
+      "translated_text": "Neuer won the World Cup with Germany in 2014."
+    },
+    {
+      "text": "Joshua Kimmich wurde als Kapitän der Mannschaft ernannt.",
+      "translated_text": "Joshua Kimmich was named as captain of the team."
+    },
+    {
+      "text": "Auch Antonio Rüdiger, Kai Havertz und Felix Nmecha sind dabei.",
+      "translated_text": "Antonio Rüdiger, Kai Havertz and Felix Nmecha are also included."
+    },
+    {
+      "text": "Der jüngste Spieler im Kader ist der 18-jährige Lennart Karl vom FC Bayern München.",
+      "translated_text": "The youngest player in the squad is 18-year-old Lennart Karl from FC Bayern Munich."
+    },
+    {
+      "text": "Das erste Spiel der deutschen Mannschaft ist am 14. Juni gegen Curaçao in Houston.",
+      "translated_text": "Germany's first match is on 14 June against Curaçao in Houston."
+    },
+    {
+      "text": "Danach spielt Deutschland gegen die Côte d'Ivoire in Toronto.",
+      "translated_text": "Germany then plays against Côte d'Ivoire in Toronto."
+    },
+    {
+      "text": "Das dritte Gruppenspiel findet gegen Ecuador in East Rutherford statt.",
+      "translated_text": "The third group match takes place against Ecuador in East Rutherford."
+    },
+    {
+      "text": "Die deutschen Fans sind sehr gespannt auf das Turnier.",
+      "translated_text": "German fans are very excited about the tournament."
+    },
+    {
+      "text": "Das Ziel der Mannschaft ist es, so weit wie möglich zu kommen – am liebsten bis zum Finale.",
+      "translated_text": "The team's goal is to go as far as possible – ideally all the way to the final."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Kader",
+      "translated_term": "the squad",
+      "example_usage": "Deutschland hat seinen Kader für die FIFA Weltmeisterschaft 2026 bekannt gegeben."
+    },
+    {
+      "term": "bekannt geben",
+      "translated_term": "to announce",
+      "example_usage": "Deutschland hat seinen Kader für die Weltmeisterschaft bekannt gegeben."
+    },
+    {
+      "term": "der Torhüter",
+      "translated_term": "the goalkeeper",
+      "example_usage": "Die größte Überraschung ist die Rückkehr von Torhüter Manuel Neuer."
+    },
+    {
+      "term": "zurückkehren",
+      "translated_term": "to return",
+      "example_usage": "Neuer hat seine Entscheidung rückgängig gemacht und steht erneut im Kader."
+    },
+    {
+      "term": "der Kapitän",
+      "translated_term": "the captain",
+      "example_usage": "Joshua Kimmich wurde als Kapitän der Mannschaft ernannt."
+    },
+    {
+      "term": "das Gruppenspiel",
+      "translated_term": "the group match",
+      "example_usage": "Das dritte Gruppenspiel findet gegen Ecuador in East Rutherford statt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Fußball",
+      "translated_name": "Football"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Sport",
+      "translated_name": "Sports"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bundesliga.com: Manuel Neuer makes Germany return for FIFA World Cup 2026 squad",
+      "link_url": "https://www.bundesliga.com/en/bundesliga/news/germany-squad-world-cup-2026-manuel-neuer-nagelsmann-37487"
+    },
+    {
+      "name": "deutschland.de: 2026 FIFA World Cup: Germany reveals its squad",
+      "link_url": "https://www.deutschland.de/en/news/world-cup-2026-germany-reveals-its-squad"
+    },
+    {
+      "name": "Olympics.com: Germany at FIFA World Cup 2026: All players, full squad list, key stats and schedule",
+      "link_url": "https://www.olympics.com/en/news/fifa-world-cup-2026-germany-all-players-full-squad-list-key-stats-schedule"
+    }
+  ]
+}

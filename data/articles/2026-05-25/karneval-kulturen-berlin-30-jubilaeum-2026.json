@@ -1,0 +1,126 @@
+{
+  "title": "Karneval der Kulturen in Berlin feiert 30. Jubiläum",
+  "translated_title": "Carnival of Cultures in Berlin Celebrates 30th Anniversary",
+  "text": [
+    {
+      "text": "Berlin feiert in diesem Jahr das 30. Jubiläum des Karnevals der Kulturen.",
+      "translated_text": "Berlin celebrates the 30th anniversary of the Carnival of Cultures this year."
+    },
+    {
+      "text": "Das Fest findet jedes Jahr rund um Pfingsten in Berlin-Kreuzberg statt.",
+      "translated_text": "The festival takes place every year around Whitsun in Berlin-Kreuzberg."
+    },
+    {
+      "text": "In diesem Jahr begann das viertägige Straßenfest am Freitag, dem 22. Mai.",
+      "translated_text": "This year, the four-day street festival began on Friday, 22 May."
+    },
+    {
+      "text": "Der letzte Tag ist Pfingstmontag, der 25. Mai 2026.",
+      "translated_text": "The final day is Whit Monday, 25 May 2026."
+    },
+    {
+      "text": "Am Pfingstmontag ist das Straßenfest am Blüherplatz bis 19 Uhr geöffnet.",
+      "translated_text": "On Whit Monday, the street festival at Blüherplatz is open until 7 pm."
+    },
+    {
+      "text": "Der Karneval der Kulturen ist eines der größten Multikulti-Feste Deutschlands.",
+      "translated_text": "The Carnival of Cultures is one of the largest multicultural festivals in Germany."
+    },
+    {
+      "text": "Jedes Jahr nehmen Menschen aus vielen verschiedenen Ländern und Kulturen teil.",
+      "translated_text": "Every year, people from many different countries and cultures take part."
+    },
+    {
+      "text": "Es gibt bunte Paraden, Musik, Tanz und leckeres Essen aus aller Welt.",
+      "translated_text": "There are colourful parades, music, dance and delicious food from around the world."
+    },
+    {
+      "text": "Die Hauptparade zieht durch die Straßen von Kreuzberg.",
+      "translated_text": "The main parade moves through the streets of Kreuzberg."
+    },
+    {
+      "text": "Hunderttausende von Menschen säumen die Straßen, um die Parade zu sehen.",
+      "translated_text": "Hundreds of thousands of people line the streets to watch the parade."
+    },
+    {
+      "text": "Das Fest zeigt die Vielfalt der Berliner Gesellschaft.",
+      "translated_text": "The festival shows the diversity of Berlin society."
+    },
+    {
+      "text": "Berlin ist eine sehr internationale Stadt, und der Karneval spiegelt das wider.",
+      "translated_text": "Berlin is a very international city, and the carnival reflects that."
+    },
+    {
+      "text": "Viele Berliner feiern das Jubiläum mit besonderer Freude.",
+      "translated_text": "Many Berliners celebrate the anniversary with special joy."
+    },
+    {
+      "text": "Das Wetter in Berlin ist an diesem Wochenende warm und sonnig – ideal für ein Straßenfest.",
+      "translated_text": "The weather in Berlin this weekend is warm and sunny – ideal for a street festival."
+    },
+    {
+      "text": "Der Karneval der Kulturen ist ein Symbol für Offenheit und Zusammenhalt in Berlin.",
+      "translated_text": "The Carnival of Cultures is a symbol of openness and community spirit in Berlin."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Jubiläum",
+      "translated_term": "the anniversary / jubilee",
+      "example_usage": "Berlin feiert in diesem Jahr das 30. Jubiläum des Karnevals der Kulturen."
+    },
+    {
+      "term": "das Straßenfest",
+      "translated_term": "the street festival",
+      "example_usage": "Am Pfingstmontag ist das Straßenfest am Blüherplatz bis 19 Uhr geöffnet."
+    },
+    {
+      "term": "multikulturell",
+      "translated_term": "multicultural",
+      "example_usage": "Der Karneval der Kulturen ist eines der größten Multikulti-Feste Deutschlands."
+    },
+    {
+      "term": "die Parade",
+      "translated_term": "the parade",
+      "example_usage": "Hunderttausende von Menschen säumen die Straßen, um die Parade zu sehen."
+    },
+    {
+      "term": "die Vielfalt",
+      "translated_term": "the diversity",
+      "example_usage": "Das Fest zeigt die Vielfalt der Berliner Gesellschaft."
+    },
+    {
+      "term": "widerspiegeln",
+      "translated_term": "to reflect / to mirror",
+      "example_usage": "Berlin ist eine sehr internationale Stadt, und der Karneval spiegelt das wider."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Kultur",
+      "translated_name": "Culture"
+    },
+    {
+      "name": "Veranstaltungen",
+      "translated_name": "Events"
+    }
+  ],
+  "sources": [
+    {
+      "name": "berlin.de: Carnival of Cultures",
+      "link_url": "https://www.berlin.de/en/events/2092491-2842498-carnival-of-cultures.en.html"
+    },
+    {
+      "name": "Berliner Zeitung: Karneval der Kulturen 2026: Route, Programm und Sperrungen zum 30. Jubiläum",
+      "link_url": "https://www.berliner-zeitung.de/article/karneval-der-kulturen-2026-route-programm-und-sperrungen-zum-30-jubilaeum-10038130"
+    },
+    {
+      "name": "karneval.berlin: Offizielle Website",
+      "link_url": "https://karneval.berlin/"
+    }
+  ]
+}
