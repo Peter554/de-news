@@ -1,0 +1,114 @@
+{
+  "title": "Historische Hitzewelle: Europa erlebt heißesten Mai seit Beginn der Aufzeichnungen",
+  "translated_title": "Historic Heatwave: Europe Experiences Hottest May Since Records Began",
+  "text": [
+    {
+      "text": "Ende Mai 2026 erfasst eine außergewöhnliche Hitzewelle weite Teile Europas.",
+      "translated_text": "At the end of May 2026, an exceptional heatwave is gripping large parts of Europe."
+    },
+    {
+      "text": "Die Temperaturen liegen 10 bis 15 Grad Celsius über dem normalen Niveau für diese Jahreszeit.",
+      "translated_text": "Temperatures are 10 to 15 degrees Celsius above the normal level for this time of year."
+    },
+    {
+      "text": "Großbritannien erlebte seinen heißesten Maitag aller Zeiten mit 35 Grad Celsius.",
+      "translated_text": "Great Britain experienced its hottest May day on record at 35 degrees Celsius."
+    },
+    {
+      "text": "Besonders erstaunlich: Dieser neue Rekord brach den Rekord, der erst zwei Tage zuvor aufgestellt worden war.",
+      "translated_text": "Particularly remarkable: this new record broke the record that had been set just two days before."
+    },
+    {
+      "text": "Auch Frankreich, Spanien und Deutschland meldeten neue Rekordtemperaturen für den Monat Mai.",
+      "translated_text": "France, Spain and Germany also reported new record temperatures for the month of May."
+    },
+    {
+      "text": "Wissenschaftler sprechen von einem sogenannten „Wärmedom“, einem Hochdrucksystem, das heiße Luft über dem Kontinent einsperrt.",
+      "translated_text": "Scientists speak of a so-called \"heat dome\", a high-pressure system that traps hot air over the continent."
+    },
+    {
+      "text": "Klimaforscher erklären, das Ereignis hängt direkt mit dem Klimawandel zusammen.",
+      "translated_text": "Climate researchers explain that the event is directly linked to climate change."
+    },
+    {
+      "text": "Was früher ein Ereignis war, das statistisch gesehen einmal in 100 Jahren vorkommt, tritt heute etwa alle 33 Jahre auf.",
+      "translated_text": "What was previously an event that statistically occurs once in 100 years now occurs approximately once every 33 years."
+    },
+    {
+      "text": "In Bayern stufte der Deutsche Wetterdienst die Waldbrandgefahr auf Stufe 4 von 5 ein.",
+      "translated_text": "In Bavaria, the German Weather Service rated the wildfire risk at level 4 out of 5."
+    },
+    {
+      "text": "In der Nähe von Nürnberg wurden sogar Warnstufe-5-Meldungen erwartet.",
+      "translated_text": "Level 5 warnings were even expected near Nuremberg."
+    },
+    {
+      "text": "Mindestens sieben Todesfälle in Europa wurden mit der Hitzewelle in Verbindung gebracht.",
+      "translated_text": "At least seven deaths in Europe have been linked to the heatwave."
+    },
+    {
+      "text": "Viele Städte öffneten Kühlzentren und gaben Warnungen für ältere Menschen und Kinder heraus.",
+      "translated_text": "Many cities opened cooling centres and issued warnings for elderly people and children."
+    },
+    {
+      "text": "Meteorologen sagen, die Hitzewelle könnte noch mehrere Tage andauern.",
+      "translated_text": "Meteorologists say the heatwave could last for several more days."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Hitzewelle",
+      "translated_term": "the heatwave",
+      "example_usage": "Ende Mai 2026 erfasst eine außergewöhnliche Hitzewelle weite Teile Europas."
+    },
+    {
+      "term": "der Wärmedom",
+      "translated_term": "the heat dome",
+      "example_usage": "Wissenschaftler sprechen von einem sogenannten „Wärmedom“, einem Hochdrucksystem, das heiße Luft einsperrt."
+    },
+    {
+      "term": "der Klimawandel",
+      "translated_term": "the climate change",
+      "example_usage": "Das Ereignis hängt direkt mit dem Klimawandel zusammen."
+    },
+    {
+      "term": "die Waldbrandgefahr",
+      "translated_term": "the wildfire risk",
+      "example_usage": "Der Deutsche Wetterdienst stufte die Waldbrandgefahr auf Stufe 4 von 5 ein."
+    },
+    {
+      "term": "einsperren",
+      "translated_term": "to trap / to lock in",
+      "example_usage": "Ein Hochdrucksystem sperrt heiße Luft über dem Kontinent ein."
+    },
+    {
+      "term": "der Todesfall",
+      "translated_term": "the death / the fatality",
+      "example_usage": "Mindestens sieben Todesfälle in Europa wurden mit der Hitzewelle in Verbindung gebracht."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Klimapolitik",
+      "translated_name": "Climate Policy"
+    },
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN: 'Mind-bogglingly crazy' — Europe's deadly, early heatwave is smashing records",
+      "link_url": "https://www.cnn.com/2026/05/26/climate/europe-heat-climate-intl"
+    },
+    {
+      "name": "Euronews: What is a heat dome? Why Europe is sweltering under record-breaking May temperatures",
+      "link_url": "https://www.euronews.com/2026/05/25/what-is-a-heat-dome-why-europe-is-sweltering-under-record-breaking-may-temperatures"
+    }
+  ]
+}

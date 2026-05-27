@@ -1,0 +1,118 @@
+{
+  "title": "Belgien: Zug erfasst Schulbus – vier Tote, darunter zwei Kinder",
+  "translated_title": "Belgium: Train Hits School Bus – Four Dead, Including Two Children",
+  "text": [
+    {
+      "text": "Am 26. Mai 2026 ereignete sich in Belgien ein schwerer Zugunfall.",
+      "translated_text": "On 26 May 2026, a serious train accident occurred in Belgium."
+    },
+    {
+      "text": "Ein Personenzug fuhr mit einer Geschwindigkeit von 120 Kilometern pro Stunde in einen Schulbus.",
+      "translated_text": "A passenger train travelling at a speed of 120 kilometres per hour ploughed into a school minibus."
+    },
+    {
+      "text": "Der Unfall geschah an einem Bahnübergang in der Gemeinde Buggenhout in der Provinz Ostflandern.",
+      "translated_text": "The accident happened at a level crossing in the municipality of Buggenhout in the province of East Flanders."
+    },
+    {
+      "text": "Vier Menschen kamen ums Leben: zwei Kinder im Alter von 12 und 15 Jahren, der 49-jährige Fahrer sowie eine 27-jährige Betreuerin.",
+      "translated_text": "Four people lost their lives: two children aged 12 and 15, the 49-year-old driver, and a 27-year-old attendant."
+    },
+    {
+      "text": "Fünf weitere Kinder wurden schwer verletzt, ihr Zustand ist jedoch inzwischen stabil.",
+      "translated_text": "Five more children were seriously injured, but their condition is now stable."
+    },
+    {
+      "text": "Der Bus transportierte Schülerinnen und Schüler einer Förderschule.",
+      "translated_text": "The bus was transporting pupils from a special needs school."
+    },
+    {
+      "text": "Der Aufprall schleuderte den Bus etwa 15 Meter weit gegen einen Metallmast.",
+      "translated_text": "The impact hurled the bus about 15 metres into a metal pylon."
+    },
+    {
+      "text": "Laut Zeugen waren die Schranken am Bahnübergang geschlossen und die Ampel zeigte Rot.",
+      "translated_text": "According to witnesses, the barriers at the level crossing were closed and the traffic light was showing red."
+    },
+    {
+      "text": "Deshalb ist die genaue Unfallursache noch unklar.",
+      "translated_text": "For this reason, the exact cause of the accident is still unclear."
+    },
+    {
+      "text": "Die belgische Eisenbahnbehörde Infrabel hat eine vollständige Untersuchung eingeleitet.",
+      "translated_text": "The Belgian rail authority Infrabel has launched a full investigation."
+    },
+    {
+      "text": "Niemand unter den Fahrgästen des Zuges wurde verletzt.",
+      "translated_text": "None of the passengers on the train were injured."
+    },
+    {
+      "text": "Der belgische König Philippe und Premierministerin De Wever sprachen den Familien der Opfer ihr Mitgefühl aus.",
+      "translated_text": "Belgian King Philippe and Prime Minister De Wever expressed their condolences to the families of the victims."
+    },
+    {
+      "text": "Experten fordern nun eine Überprüfung der Sicherheit an allen Bahnübergängen in Belgien.",
+      "translated_text": "Experts are now calling for a safety review of all level crossings in Belgium."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Bahnübergang",
+      "translated_term": "the level crossing",
+      "example_usage": "Der Unfall geschah an einem Bahnübergang in der Gemeinde Buggenhout."
+    },
+    {
+      "term": "die Schranke",
+      "translated_term": "the (level crossing) barrier",
+      "example_usage": "Laut Zeugen waren die Schranken am Bahnübergang geschlossen."
+    },
+    {
+      "term": "die Förderschule",
+      "translated_term": "the special needs school",
+      "example_usage": "Der Bus transportierte Schülerinnen und Schüler einer Förderschule."
+    },
+    {
+      "term": "einleiten",
+      "translated_term": "to launch / to initiate",
+      "example_usage": "Die belgische Eisenbahnbehörde Infrabel hat eine vollständige Untersuchung eingeleitet."
+    },
+    {
+      "term": "das Mitgefühl",
+      "translated_term": "the condolences / the sympathy",
+      "example_usage": "König Philippe sprach den Familien der Opfer sein Mitgefühl aus."
+    },
+    {
+      "term": "schleudern",
+      "translated_term": "to hurl / to fling",
+      "example_usage": "Der Aufprall schleuderte den Bus etwa 15 Meter weit gegen einen Metallmast."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Katastrophe",
+      "translated_name": "Disaster"
+    },
+    {
+      "name": "Europäische Union",
+      "translated_name": "European Union"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CBS News: Train crashes into school minibus in Belgium, killing at least 4",
+      "link_url": "https://www.cbsnews.com/news/belgium-train-school-bus-crash-buggenhout-deaths-injuries-reported/"
+    },
+    {
+      "name": "CNN: Belgium crash — four killed as school bus hit by train",
+      "link_url": "https://www.cnn.com/2026/05/26/europe/belgium-train-school-bus-intl"
+    },
+    {
+      "name": "Euronews: Train hits school bus in Belgium, several victims reported",
+      "link_url": "https://www.euronews.com/my-europe/2026/05/26/train-hits-school-bus-in-belgium-several-victims-reported-minister-says"
+    }
+  ]
+}

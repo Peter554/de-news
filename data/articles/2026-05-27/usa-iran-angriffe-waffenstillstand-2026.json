@@ -1,0 +1,122 @@
+{
+  "title": "USA greifen Iran trotz Waffenstillstand erneut an",
+  "translated_title": "USA Strike Iran Again Despite Ceasefire",
+  "text": [
+    {
+      "text": "Die USA haben in der Nacht zum 27. Mai 2026 erneut Ziele im Iran angegriffen.",
+      "translated_text": "The USA struck targets in Iran again overnight on 27 May 2026."
+    },
+    {
+      "text": "Das US-Zentralkommando nannte die Angriffe „Selbstverteidigungsmaßnahmen“.",
+      "translated_text": "US Central Command called the strikes \"self-defence measures\"."
+    },
+    {
+      "text": "Die Luftangriffe richteten sich gegen Raketenabschussbasen und iranische Boote in der Nähe der Straße von Hormus.",
+      "translated_text": "The air strikes targeted missile launch sites and Iranian boats near the Strait of Hormuz."
+    },
+    {
+      "text": "Explosionen wurden in der Nähe der Stadt Bandar Abbas im Süden des Iran gemeldet.",
+      "translated_text": "Explosions were reported near the city of Bandar Abbas in southern Iran."
+    },
+    {
+      "text": "Die Angriffe überraschten viele, denn seit dem 8. April 2026 gilt ein von Pakistan vermittelter Waffenstillstand.",
+      "translated_text": "The strikes surprised many, as a Pakistan-mediated ceasefire has been in place since 8 April 2026."
+    },
+    {
+      "text": "Zum Zeitpunkt der Angriffe befand sich eine iranische Delegation auf dem Weg nach Katar für Friedensgespräche.",
+      "translated_text": "At the time of the strikes, an Iranian delegation was travelling to Qatar for peace talks."
+    },
+    {
+      "text": "Der Iran drohte mit Vergeltungsmaßnahmen und verurteilte die Angriffe scharf.",
+      "translated_text": "Iran threatened retaliatory measures and strongly condemned the strikes."
+    },
+    {
+      "text": "Teheran erklärte, dass häufige Positionswechsel der USA die Verhandlungen erschweren.",
+      "translated_text": "Tehran stated that frequent changes in the US position are complicating the negotiations."
+    },
+    {
+      "text": "Die Trump-Administration betonte jedoch, dass sie weiterhin auf eine friedliche Lösung hofft.",
+      "translated_text": "The Trump administration, however, emphasised that it continues to hope for a peaceful resolution."
+    },
+    {
+      "text": "Die Straße von Hormus ist ein sehr wichtiger Seeweg für den weltweiten Öltransport.",
+      "translated_text": "The Strait of Hormuz is a very important sea route for global oil transport."
+    },
+    {
+      "text": "Eine Blockade dieser Straße könnte zu einem starken Anstieg der Ölpreise führen.",
+      "translated_text": "A blockade of this strait could lead to a sharp rise in oil prices."
+    },
+    {
+      "text": "Internationale Beobachter zeigen sich besorgt über die Eskalation des Konflikts.",
+      "translated_text": "International observers are expressing concern about the escalation of the conflict."
+    },
+    {
+      "text": "Die Vereinten Nationen riefen beide Seiten zur Zurückhaltung auf.",
+      "translated_text": "The United Nations called on both sides to exercise restraint."
+    },
+    {
+      "text": "Experten warnen, dass eine weitere Eskalation die gesamte Region destabilisieren könnte.",
+      "translated_text": "Experts warn that further escalation could destabilise the entire region."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Seit dem 8. April 2026 gilt ein von Pakistan vermittelter Waffenstillstand."
+    },
+    {
+      "term": "die Selbstverteidigung",
+      "translated_term": "the self-defence",
+      "example_usage": "Das US-Zentralkommando nannte die Angriffe „Selbstverteidigungsmaßnahmen“."
+    },
+    {
+      "term": "die Vergeltungsmaßnahme",
+      "translated_term": "the retaliatory measure",
+      "example_usage": "Der Iran drohte mit Vergeltungsmaßnahmen und verurteilte die Angriffe scharf."
+    },
+    {
+      "term": "vermitteln",
+      "translated_term": "to mediate",
+      "example_usage": "Ein von Pakistan vermittelter Waffenstillstand gilt seit dem 8. April 2026."
+    },
+    {
+      "term": "die Eskalation",
+      "translated_term": "the escalation",
+      "example_usage": "Internationale Beobachter zeigen sich besorgt über die Eskalation des Konflikts."
+    },
+    {
+      "term": "destabilisieren",
+      "translated_term": "to destabilise",
+      "example_usage": "Eine weitere Eskalation könnte die gesamte Region destabilisieren."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran-Krieg",
+      "translated_name": "Iran War"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Waffenstillstand",
+      "translated_name": "Ceasefire"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: US strikes Iran again — what we know",
+      "link_url": "https://www.aljazeera.com/news/2026/5/26/us-strikes-iran-again-what-we-know-and-is-the-ceasefire-over"
+    },
+    {
+      "name": "CNBC: U.S. conducts 'self-defense strikes' in Iran",
+      "link_url": "https://www.cnbc.com/2026/05/26/us-conducts-self-defense-strikes-in-iran-as-trump-seeks-peace-deal.html"
+    },
+    {
+      "name": "Washington Post: Iran threatens retaliation after US strikes",
+      "link_url": "https://www.washingtonpost.com/world/2026/05/26/us-renews-strikes-iran-citing-threats-posed-american-troops/"
+    }
+  ]
+}
