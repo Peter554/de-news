@@ -1,0 +1,104 @@
+{
+  "title": "PSG gewinnt die Champions League zum zweiten Mal in Folge",
+  "translated_title": "PSG wins the Champions League for the second time in a row",
+  "text": [
+    {
+      "text": "Paris Saint-Germain hat am Samstag, dem 30. Mai 2026, die UEFA Champions League gewonnen.",
+      "translated_text": "Paris Saint-Germain won the UEFA Champions League on Saturday, 30 May 2026."
+    },
+    {
+      "text": "Das Finale fand in Budapest, Ungarn, im Puskas Arena statt.",
+      "translated_text": "The final took place in Budapest, Hungary, at the Puskas Arena."
+    },
+    {
+      "text": "PSG spielte gegen den englischen Klub Arsenal FC.",
+      "translated_text": "PSG played against the English club Arsenal FC."
+    },
+    {
+      "text": "Nach 90 Minuten und der Verlängerung stand es 1:1.",
+      "translated_text": "After 90 minutes and extra time, the score was 1-1."
+    },
+    {
+      "text": "Deshalb musste ein Elfmeterschießen den Sieger bestimmen.",
+      "translated_text": "Therefore, a penalty shootout had to determine the winner."
+    },
+    {
+      "text": "PSG gewann das Elfmeterschießen mit 4:3.",
+      "translated_text": "PSG won the penalty shootout 4-3."
+    },
+    {
+      "text": "Arsenal-Verteidiger Gabriel Magalhães verschoss den entscheidenden Elfmeter.",
+      "translated_text": "Arsenal defender Gabriel Magalhães missed the decisive penalty."
+    },
+    {
+      "text": "Der PSG-Star Ousmane Dembélé traf sicher und brachte PSG zurück ins Spiel.",
+      "translated_text": "PSG star Ousmane Dembélé scored confidently and brought PSG back into the game."
+    },
+    {
+      "text": "Für PSG ist es der zweite Champions-League-Titel in Folge.",
+      "translated_text": "For PSG, it is their second consecutive Champions League title."
+    },
+    {
+      "text": "Damit ist PSG erst das zweite Team, das den Titel verteidigt hat, seit der Wettbewerb 1992 umbenannt wurde.",
+      "translated_text": "This makes PSG only the second team to defend the title since the competition was renamed in 1992."
+    },
+    {
+      "text": "Real Madrid hatte diesen Erfolg zwischen 2016 und 2018 mit drei aufeinanderfolgenden Titeln erreicht.",
+      "translated_text": "Real Madrid had achieved this feat between 2016 and 2018 with three consecutive titles."
+    },
+    {
+      "text": "Nach dem Spiel kam es in Paris zu Ausschreitungen zwischen Fans und der Polizei.",
+      "translated_text": "After the match, there were clashes between fans and police in Paris."
+    },
+    {
+      "text": "In ganz Frankreich wurden mehr als 400 Personen festgenommen.",
+      "translated_text": "More than 400 people were arrested across France."
+    },
+    {
+      "text": "Trotz der Unruhen war die Freude bei den PSG-Fans über den historischen Sieg sehr groß.",
+      "translated_text": "Despite the unrest, the joy among PSG fans over the historic victory was very great."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Elfmeterschießen",
+      "translated_term": "the penalty shootout",
+      "example_usage": "PSG gewann das Elfmeterschießen mit 4:3."
+    },
+    {
+      "term": "die Verlängerung",
+      "translated_term": "the extra time",
+      "example_usage": "Nach 90 Minuten und der Verlängerung stand es 1:1."
+    },
+    {
+      "term": "verteidigen",
+      "translated_term": "to defend",
+      "example_usage": "Für PSG ist es der zweite Champions-League-Titel in Folge."
+    },
+    {
+      "term": "die Ausschreitungen",
+      "translated_term": "the riots / clashes",
+      "example_usage": "Nach dem Spiel kam es in Paris zu Ausschreitungen zwischen Fans und der Polizei."
+    },
+    {
+      "term": "festnehmen",
+      "translated_term": "to arrest",
+      "example_usage": "In ganz Frankreich wurden mehr als 400 Personen festgenommen."
+    }
+  ],
+  "tags": [
+    {"name": "Fußball", "translated_name": "Football"},
+    {"name": "Frankreich", "translated_name": "France"},
+    {"name": "Sport", "translated_name": "Sports"}
+  ],
+  "sources": [
+    {
+      "name": "ESPN: PSG beat Arsenal on penalties to retain Champions League title",
+      "link_url": "https://www.espn.com/soccer/story/_/id/48920506/psg-arsenal-champions-league-final-penalty-shootout"
+    },
+    {
+      "name": "CNN: PSG retains Champions League title after edging past Arsenal on penalties",
+      "link_url": "https://www.cnn.com/2026/05/30/sport/live-news/arsenal-psg-champions-league-final-score"
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "title": "AfD-Politiker wird erster hauptamtlicher Bürgermeister in Brandenburg",
+  "translated_title": "AfD politician becomes first full-time mayor in Brandenburg",
+  "text": [
+    {
+      "text": "In der Stadt Zehdenick in Brandenburg hat die AfD eine wichtige Wahl gewonnen.",
+      "translated_text": "In the city of Zehdenick in Brandenburg, the AfD has won an important election."
+    },
+    {
+      "text": "René Stadtkewitz wurde zum Bürgermeister der Stadt gewählt.",
+      "translated_text": "René Stadtkewitz was elected mayor of the city."
+    },
+    {
+      "text": "Er erhielt 58,4 Prozent der Stimmen und gewann die Wahl bereits im ersten Wahlgang.",
+      "translated_text": "He received 58.4 percent of the votes and won the election in the first round."
+    },
+    {
+      "text": "Stadtkewitz ist der erste direkt gewählte hauptamtliche AfD-Bürgermeister in Brandenburg.",
+      "translated_text": "Stadtkewitz is the first directly elected full-time AfD mayor in Brandenburg."
+    },
+    {
+      "text": "Zehdenick liegt etwa 60 Kilometer nördlich von Berlin.",
+      "translated_text": "Zehdenick is located about 60 kilometres north of Berlin."
+    },
+    {
+      "text": "Die Neuwahl war notwendig geworden, weil der vorherige Bürgermeister krank geworden war.",
+      "translated_text": "The new election became necessary because the previous mayor had fallen ill."
+    },
+    {
+      "text": "Der frühere Bürgermeister Alexander Kretzschmar musste sein Amt bereits nach elf Tagen aufgeben.",
+      "translated_text": "The former mayor Alexander Kretzschmar had to give up his office after just eleven days."
+    },
+    {
+      "text": "Stadtkewitz ist kein politischer Neuling.",
+      "translated_text": "Stadtkewitz is no political newcomer."
+    },
+    {
+      "text": "Er war früher Mitglied der CDU und saß im Berliner Abgeordnetenhaus.",
+      "translated_text": "He was formerly a member of the CDU and sat in the Berlin House of Representatives."
+    },
+    {
+      "text": "Danach gründete er 2010 die kleine Partei \"Die Freiheit\".",
+      "translated_text": "He then founded the small party \"Die Freiheit\" in 2010."
+    },
+    {
+      "text": "Seit 2024 ist er Mitglied der AfD.",
+      "translated_text": "He has been a member of the AfD since 2024."
+    },
+    {
+      "text": "Der AfD-Landesvorsitzende René Springer bezeichnete den Wahlsieg als ein deutliches Signal.",
+      "translated_text": "The AfD state chairman René Springer described the election victory as a clear signal."
+    },
+    {
+      "text": "Kritiker sehen den Sieg der AfD mit großer Sorge.",
+      "translated_text": "Critics view the AfD's victory with great concern."
+    },
+    {
+      "text": "Die Wahl zeigt, dass die AfD in Brandenburg und in Ostdeutschland weiterhin stark ist.",
+      "translated_text": "The election shows that the AfD continues to be strong in Brandenburg and in eastern Germany."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Bürgermeister",
+      "translated_term": "the mayor",
+      "example_usage": "René Stadtkewitz wurde zum Bürgermeister der Stadt gewählt."
+    },
+    {
+      "term": "hauptamtlich",
+      "translated_term": "full-time (in an official capacity)",
+      "example_usage": "Stadtkewitz ist der erste direkt gewählte hauptamtliche AfD-Bürgermeister in Brandenburg."
+    },
+    {
+      "term": "der Wahlgang",
+      "translated_term": "the round of voting",
+      "example_usage": "Er erhielt 58,4 Prozent der Stimmen und gewann die Wahl bereits im ersten Wahlgang."
+    },
+    {
+      "term": "die Neuwahl",
+      "translated_term": "the new/by-election",
+      "example_usage": "Die Neuwahl war notwendig geworden, weil der vorherige Bürgermeister krank geworden war."
+    },
+    {
+      "term": "der Landesvorsitzende",
+      "translated_term": "the state party chairman",
+      "example_usage": "Der AfD-Landesvorsitzende René Springer bezeichnete den Wahlsieg als ein deutliches Signal."
+    }
+  ],
+  "tags": [
+    {"name": "Brandenburg", "translated_name": "Brandenburg"},
+    {"name": "Deutsche Politik", "translated_name": "German Politics"},
+    {"name": "Lokale Nachrichten", "translated_name": "Local News"}
+  ],
+  "sources": [
+    {
+      "name": "Migazin: Brandenburg: AfD gewinnt Bürgermeisterwahl in Zehdenick deutlich",
+      "link_url": "https://www.migazin.de/2026/05/11/erster-afd-buergermeister-brandenburgs-gewaehlt/"
+    },
+    {
+      "name": "Junge Freiheit: AfD gewinnt erstmals Bürgermeisterwahl in Brandenburg",
+      "link_url": "https://jungefreiheit.de/politik/deutschland/2026/afd-gewinnt-erstmals-buergermeisterwahl-in-brandenburg/"
+    }
+  ]
+}

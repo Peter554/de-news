@@ -1,0 +1,104 @@
+{
+  "title": "Deutschlands Wirtschaft leidet unter steigenden Energiepreisen",
+  "translated_title": "Germany's economy suffers from rising energy prices",
+  "text": [
+    {
+      "text": "Die deutsche Wirtschaft steht vor großen Problemen im zweiten Quartal 2026.",
+      "translated_text": "The German economy is facing major problems in the second quarter of 2026."
+    },
+    {
+      "text": "Die Deutsche Bundesbank erwartet, dass die Wirtschaft in diesem Zeitraum stagniert.",
+      "translated_text": "The German Bundesbank expects the economy to stagnate during this period."
+    },
+    {
+      "text": "Der Hauptgrund dafür ist der Konflikt im Nahen Osten.",
+      "translated_text": "The main reason for this is the conflict in the Middle East."
+    },
+    {
+      "text": "Wegen des Konflikts sind die Energiepreise in Deutschland stark gestiegen.",
+      "translated_text": "Because of the conflict, energy prices in Germany have risen sharply."
+    },
+    {
+      "text": "Im April 2026 stiegen die Energiepreise um mehr als zehn Prozent im Vergleich zum Vorjahr.",
+      "translated_text": "In April 2026, energy prices rose by more than ten percent compared to the previous year."
+    },
+    {
+      "text": "Die Inflation in Deutschland lag im April bei 2,9 Prozent.",
+      "translated_text": "Inflation in Germany was 2.9 percent in April."
+    },
+    {
+      "text": "Hohe Energiepreise bedeuten, dass die Menschen weniger Geld zum Ausgeben haben.",
+      "translated_text": "High energy prices mean that people have less money to spend."
+    },
+    {
+      "text": "Der private Konsum und die Stimmung der Verbraucher haben sich verschlechtert.",
+      "translated_text": "Private consumption and consumer sentiment have deteriorated."
+    },
+    {
+      "text": "Auch die Lieferketten wurden durch den Nahost-Konflikt gestört.",
+      "translated_text": "Supply chains were also disrupted by the Middle East conflict."
+    },
+    {
+      "text": "Viele Unternehmen in Deutschland sind unsicher und stellen weniger neue Mitarbeiter ein.",
+      "translated_text": "Many companies in Germany are uncertain and are hiring fewer new employees."
+    },
+    {
+      "text": "Die Bereitschaft der Firmen, neue Stellen zu schaffen, ist so gering wie zuletzt in der Corona-Pandemie.",
+      "translated_text": "The willingness of companies to create new jobs is as low as it was during the Covid pandemic."
+    },
+    {
+      "text": "Das Bundeswirtschaftsministerium hat seine Wachstumsprognosen nach unten korrigiert.",
+      "translated_text": "The Federal Ministry of Economics has revised its growth forecasts downwards."
+    },
+    {
+      "text": "Experten hoffen, dass sich die Lage im zweiten Halbjahr wieder verbessert.",
+      "translated_text": "Experts hope that the situation will improve again in the second half of the year."
+    },
+    {
+      "text": "Die Bundesregierung beobachtet die wirtschaftliche Entwicklung sehr genau.",
+      "translated_text": "The federal government is watching economic developments very closely."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "stagnieren",
+      "translated_term": "to stagnate",
+      "example_usage": "Die Deutsche Bundesbank erwartet, dass die Wirtschaft in diesem Zeitraum stagniert."
+    },
+    {
+      "term": "die Inflation",
+      "translated_term": "the inflation",
+      "example_usage": "Die Inflation in Deutschland lag im April bei 2,9 Prozent."
+    },
+    {
+      "term": "die Lieferkette",
+      "translated_term": "the supply chain",
+      "example_usage": "Auch die Lieferketten wurden durch den Nahost-Konflikt gestört."
+    },
+    {
+      "term": "die Wachstumsprognose",
+      "translated_term": "the growth forecast",
+      "example_usage": "Das Bundeswirtschaftsministerium hat seine Wachstumsprognosen nach unten korrigiert."
+    },
+    {
+      "term": "der Verbraucher",
+      "translated_term": "the consumer",
+      "example_usage": "Der private Konsum und die Stimmung der Verbraucher haben sich verschlechtert."
+    }
+  ],
+  "tags": [
+    {"name": "Deutschland", "translated_name": "Germany"},
+    {"name": "Energiekrise", "translated_name": "Energy Crisis"},
+    {"name": "Wirtschaftspolitik", "translated_name": "Economic Policy"}
+  ],
+  "sources": [
+    {
+      "name": "Bundesbank: Germany's economy expected to stagnate in Q2 amid Middle East conflict",
+      "link_url": "https://eurometal.net/bundesbank-germanys-economy-expected-to-stagnate-in-q2-amid-middle-east-conflict/"
+    },
+    {
+      "name": "CNBC: Germany's economy was set to rebound. But soaring energy prices have derailed Europe's biggest comeback",
+      "link_url": "https://www.cnbc.com/2026/04/24/germany-iran-defense-war-energy-oil-price-shock-industry-fiscal-stimulus-middle-east-europe-inflation-growth.html"
+    }
+  ]
+}
