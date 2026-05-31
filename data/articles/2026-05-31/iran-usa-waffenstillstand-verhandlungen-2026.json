@@ -1,0 +1,122 @@
+{
+  "title": "USA und Iran verhandeln über Waffenstillstand und Atomgespräche",
+  "translated_title": "US and Iran Negotiate Ceasefire and Nuclear Talks",
+  "text": [
+    {
+      "text": "Seit dem 28. Februar 2026 führen die USA und Israel gemeinsam Krieg gegen den Iran.",
+      "translated_text": "Since 28 February 2026, the US and Israel have jointly been at war with Iran."
+    },
+    {
+      "text": "Ein wichtiger Teil des Konflikts ist die Straße von Hormus, die für den Welthandel sehr wichtig ist.",
+      "translated_text": "An important part of the conflict is the Strait of Hormuz, which is very important for world trade."
+    },
+    {
+      "text": "Der Iran hat die Straße von Hormus blockiert, was die Ölversorgung der Welt stark beeinträchtigt.",
+      "translated_text": "Iran has blocked the Strait of Hormuz, which is severely affecting the world's oil supply."
+    },
+    {
+      "text": "Am 28. Mai 2026 einigten sich US-amerikanische und iranische Unterhändler auf ein vorläufiges Abkommen.",
+      "translated_text": "On 28 May 2026, US and Iranian negotiators agreed on a preliminary agreement."
+    },
+    {
+      "text": "Das Abkommen sieht vor, die Straße von Hormus wieder zu öffnen und die US-Seeblockade zu beenden.",
+      "translated_text": "The agreement envisages reopening the Strait of Hormuz and ending the US naval blockade."
+    },
+    {
+      "text": "Außerdem sollen 60-tägige Verhandlungen über das iranische Atomprogramm beginnen.",
+      "translated_text": "In addition, 60-day negotiations on Iran's nuclear programme are to begin."
+    },
+    {
+      "text": "US-Präsident Donald Trump traf sich am 29. Mai mit seinen Beratern im Weißen Haus.",
+      "translated_text": "US President Donald Trump met with his advisers at the White House on 29 May."
+    },
+    {
+      "text": "Er sagte, er sei bereit, eine endgültige Entscheidung über das Abkommen zu treffen.",
+      "translated_text": "He said he was prepared to make a final determination on the agreement."
+    },
+    {
+      "text": "Nach dem Treffen war jedoch unklar, ob Trump dem Abkommen zustimmen wird.",
+      "translated_text": "After the meeting, however, it was unclear whether Trump would approve the agreement."
+    },
+    {
+      "text": "Der Iran besteht darauf, dass das Abkommen auch einen Waffenstillstand im Libanon umfassen muss.",
+      "translated_text": "Iran insists that the agreement must also include a ceasefire in Lebanon."
+    },
+    {
+      "text": "Die Kämpfe zwischen Israel und der Hisbollah im Libanon machen eine Einigung schwieriger.",
+      "translated_text": "The fighting between Israel and Hezbollah in Lebanon is making an agreement more difficult."
+    },
+    {
+      "text": "Großbritannien hat ebenfalls eine wichtige Rolle in dem Konflikt gespielt.",
+      "translated_text": "The United Kingdom has also played an important role in the conflict."
+    },
+    {
+      "text": "Premierminister Keir Starmer erlaubte den USA, britische Militärbasen für Operationen zu nutzen.",
+      "translated_text": "Prime Minister Keir Starmer allowed the US to use British military bases for operations."
+    },
+    {
+      "text": "Die Verhandlungen sind noch nicht abgeschlossen, aber es gibt Hoffnung auf eine diplomatische Lösung.",
+      "translated_text": "Negotiations are not yet concluded, but there is hope for a diplomatic solution."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Straße von Hormus",
+      "translated_term": "the Strait of Hormuz",
+      "example_usage": "Ein wichtiger Teil des Konflikts ist die Straße von Hormus, die für den Welthandel sehr wichtig ist."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Der Iran besteht darauf, dass das Abkommen auch einen Waffenstillstand im Libanon umfassen muss."
+    },
+    {
+      "term": "der Unterhändler",
+      "translated_term": "the negotiator",
+      "example_usage": "Am 28. Mai 2026 einigten sich US-amerikanische und iranische Unterhändler auf ein vorläufiges Abkommen."
+    },
+    {
+      "term": "vorläufig",
+      "translated_term": "preliminary / provisional",
+      "example_usage": "Am 28. Mai 2026 einigten sich US-amerikanische und iranische Unterhändler auf ein vorläufiges Abkommen."
+    },
+    {
+      "term": "das Atomprogramm",
+      "translated_term": "the nuclear programme",
+      "example_usage": "Außerdem sollen 60-tägige Verhandlungen über das iranische Atomprogramm beginnen."
+    },
+    {
+      "term": "die Seeblockade",
+      "translated_term": "the naval blockade",
+      "example_usage": "Das Abkommen sieht vor, die Straße von Hormus wieder zu öffnen und die US-Seeblockade zu beenden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran-Krieg",
+      "translated_name": "Iran War"
+    },
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN: US military ready to resume combat in Gulf if needed, defense secretary warns",
+      "link_url": "https://www.cnn.com/2026/05/29/world/live-news/iran-trump-war-news"
+    },
+    {
+      "name": "CNBC: Trump ends Iran meeting without announcing final determination on deal",
+      "link_url": "https://www.cnbc.com/2026/05/29/trump-iran-deal-hormuz-nuclear-war.html"
+    },
+    {
+      "name": "Al Jazeera: US, Iran inch closer to deal to end the war",
+      "link_url": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know"
+    }
+  ]
+}

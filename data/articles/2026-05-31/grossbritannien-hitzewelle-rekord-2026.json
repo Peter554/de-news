@@ -1,0 +1,104 @@
+{
+  "title": "Großbritannien erlebt eine Rekordhitzewelle im Mai 2026",
+  "translated_title": "Great Britain experiences a record heatwave in May 2026",
+  "text": [
+    {
+      "text": "Im Mai 2026 hat Großbritannien eine außergewöhnliche Hitzewelle erlebt.",
+      "translated_text": "In May 2026, Great Britain experienced an exceptional heatwave."
+    },
+    {
+      "text": "Die Temperaturen waren so hoch wie noch nie zuvor in einem Mai in Großbritannien.",
+      "translated_text": "Temperatures were higher than ever before in a May in Great Britain."
+    },
+    {
+      "text": "Am 26. Mai wurde in Kew Gardens in London eine Temperatur von 35,1 Grad Celsius gemessen.",
+      "translated_text": "On 26 May, a temperature of 35.1 degrees Celsius was recorded in Kew Gardens in London."
+    },
+    {
+      "text": "Das ist der neue britische Rekord für den heißesten Mai-Tag.",
+      "translated_text": "This is the new British record for the hottest May day."
+    },
+    {
+      "text": "Der alte Rekord von 32,8 Grad stammte aus den Jahren 1922 und 1944.",
+      "translated_text": "The old record of 32.8 degrees dated from the years 1922 and 1944."
+    },
+    {
+      "text": "Insgesamt brachen 163 Wetterstationen ihre bisherigen Mai-Temperaturrekorde.",
+      "translated_text": "In total, 163 weather stations broke their previous May temperature records."
+    },
+    {
+      "text": "Auch in Wales wurde ein neuer Rekord aufgestellt: 32,9 Grad in Bute Park.",
+      "translated_text": "A new record was also set in Wales: 32.9 degrees in Bute Park."
+    },
+    {
+      "text": "Der britische Wetterdienst Met Office warnte vor den Gefahren der extremen Hitze.",
+      "translated_text": "The British weather service Met Office warned of the dangers of the extreme heat."
+    },
+    {
+      "text": "Das Gesundheitsministerium gab eine Warnung für Teile des Landes heraus.",
+      "translated_text": "The health ministry issued a warning for parts of the country."
+    },
+    {
+      "text": "Wissenschaftler sagen, dass der Klimawandel solche Extremwetter wahrscheinlicher macht.",
+      "translated_text": "Scientists say that climate change makes such extreme weather more likely."
+    },
+    {
+      "text": "Ein Mai-Tag über 32,8 Grad ist heute dreimal wahrscheinlicher als ohne den menschgemachten Klimawandel.",
+      "translated_text": "A May day above 32.8 degrees is now three times more likely than it would be without human-made climate change."
+    },
+    {
+      "text": "Die Hitzewelle begann am 22. Mai und betraf weite Teile des Vereinigten Königreichs.",
+      "translated_text": "The heatwave began on 22 May and affected large parts of the United Kingdom."
+    },
+    {
+      "text": "Viele Menschen gingen an die Strände und in die Parks, um das schöne Wetter zu genießen.",
+      "translated_text": "Many people went to the beaches and parks to enjoy the fine weather."
+    },
+    {
+      "text": "Gleichzeitig riefen Behörden dazu auf, viel Wasser zu trinken und die direkte Sonne zu meiden.",
+      "translated_text": "At the same time, authorities called on people to drink plenty of water and avoid direct sunlight."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Hitzewelle",
+      "translated_term": "the heatwave",
+      "example_usage": "Im Mai 2026 hat Großbritannien eine außergewöhnliche Hitzewelle erlebt."
+    },
+    {
+      "term": "der Rekord",
+      "translated_term": "the record",
+      "example_usage": "Das ist der neue britische Rekord für den heißesten Mai-Tag."
+    },
+    {
+      "term": "der Klimawandel",
+      "translated_term": "the climate change",
+      "example_usage": "Wissenschaftler sagen, dass der Klimawandel solche Extremwetter wahrscheinlicher macht."
+    },
+    {
+      "term": "die Wetterstation",
+      "translated_term": "the weather station",
+      "example_usage": "Insgesamt brachen 163 Wetterstationen ihre bisherigen Mai-Temperaturrekorde."
+    },
+    {
+      "term": "warnen",
+      "translated_term": "to warn",
+      "example_usage": "Der britische Wetterdienst Met Office warnte vor den Gefahren der extremen Hitze."
+    }
+  ],
+  "tags": [
+    {"name": "Großbritannien", "translated_name": "Great Britain"},
+    {"name": "Wetter", "translated_name": "Weather"},
+    {"name": "Klimapolitik", "translated_name": "Climate Policy"}
+  ],
+  "sources": [
+    {
+      "name": "Met Office: Record-breaking heat rewrites May temperature records across the UK",
+      "link_url": "https://www.metoffice.gov.uk/blog/2026/record-breaking-heat-rewrites-may-temperature-records-across-the-uk"
+    },
+    {
+      "name": "ITV News: Amber health warning extended in parts of UK as May heatwave shatters records",
+      "link_url": "https://www.itv.com/news/2026-05-26/uk-may-record-breaking-heat-weather"
+    }
+  ]
+}

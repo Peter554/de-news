@@ -1,0 +1,100 @@
+{
+  "title": "Israelische Soldaten erreichen die Stadt Nabatieh im Libanon",
+  "translated_title": "Israeli soldiers reach the city of Nabatieh in Lebanon",
+  "text": [
+    {
+      "text": "Das israelische Militär hat seine Bodenoffensive im Südlibanon ausgeweitet.",
+      "translated_text": "The Israeli military has expanded its ground offensive in southern Lebanon."
+    },
+    {
+      "text": "Israelische Soldaten haben die Stadt Nabatieh erreicht, eine der größten Städte im Südlibanon.",
+      "translated_text": "Israeli soldiers have reached the city of Nabatieh, one of the largest cities in southern Lebanon."
+    },
+    {
+      "text": "Dies ist das erste Mal seit 2006, dass israelische Truppen so weit in den Libanon vorgedrungen sind.",
+      "translated_text": "This is the first time since 2006 that Israeli troops have advanced this far into Lebanon."
+    },
+    {
+      "text": "Die israelischen Truppen haben den strategisch wichtigen Litani-Fluss überquert.",
+      "translated_text": "The Israeli troops have crossed the strategically important Litani River."
+    },
+    {
+      "text": "Nabatieh gilt als wirtschaftliches und kulturelles Zentrum des Südlibanon.",
+      "translated_text": "Nabatieh is considered the economic and cultural centre of southern Lebanon."
+    },
+    {
+      "text": "Die Stadt hat eine große Bedeutung für die schiitische Gemeinschaft in der Region.",
+      "translated_text": "The city has great significance for the Shia community in the region."
+    },
+    {
+      "text": "Israel hatte zuvor die Bevölkerung von Nabatieh aufgefordert, die Stadt zu verlassen.",
+      "translated_text": "Israel had previously called on the population of Nabatieh to leave the city."
+    },
+    {
+      "text": "Die israelische Armee kämpft gegen die Hisbollah-Miliz im Südlibanon.",
+      "translated_text": "The Israeli army is fighting against the Hezbollah militia in southern Lebanon."
+    },
+    {
+      "text": "In der Woche zuvor hatte Israel mehr als 120 Luftangriffe an einem einzigen Tag durchgeführt.",
+      "translated_text": "In the previous week, Israel had carried out more than 120 air strikes in a single day."
+    },
+    {
+      "text": "Gleichzeitig begannen militärische Gespräche zwischen Israel und dem Libanon im Pentagon.",
+      "translated_text": "At the same time, military talks between Israel and Lebanon began at the Pentagon."
+    },
+    {
+      "text": "Die internationale Gemeinschaft fordert eine Waffenruhe und den Schutz der Zivilbevölkerung.",
+      "translated_text": "The international community is calling for a ceasefire and the protection of the civilian population."
+    },
+    {
+      "text": "Humanitäre Organisationen warnen vor einer schweren Krise im Libanon.",
+      "translated_text": "Humanitarian organisations are warning of a serious crisis in Lebanon."
+    },
+    {
+      "text": "Die Lage im Nahen Osten bleibt insgesamt sehr angespannt.",
+      "translated_text": "The situation in the Middle East remains very tense overall."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bodenoffensive",
+      "translated_term": "the ground offensive",
+      "example_usage": "Das israelische Militär hat seine Bodenoffensive im Südlibanon ausgeweitet."
+    },
+    {
+      "term": "ausweiten",
+      "translated_term": "to expand",
+      "example_usage": "Das israelische Militär hat seine Bodenoffensive im Südlibanon ausgeweitet."
+    },
+    {
+      "term": "vordringen",
+      "translated_term": "to advance / to penetrate",
+      "example_usage": "Dies ist das erste Mal seit 2006, dass israelische Truppen so weit in den Libanon vorgedrungen sind."
+    },
+    {
+      "term": "die Waffenruhe",
+      "translated_term": "the ceasefire",
+      "example_usage": "Die internationale Gemeinschaft fordert eine Waffenruhe und den Schutz der Zivilbevölkerung."
+    },
+    {
+      "term": "die Zivilbevölkerung",
+      "translated_term": "the civilian population",
+      "example_usage": "Die internationale Gemeinschaft fordert eine Waffenruhe und den Schutz der Zivilbevölkerung."
+    }
+  ],
+  "tags": [
+    {"name": "Libanon", "translated_name": "Lebanon"},
+    {"name": "Israel", "translated_name": "Israel"},
+    {"name": "Naher Osten", "translated_name": "Middle East"}
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Israeli soldiers reach Nabatieh, one of southern Lebanon's biggest cities",
+      "link_url": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities"
+    },
+    {
+      "name": "Washington Times: Israeli troops push deeper into Lebanon as the two sides start military talks at the Pentagon",
+      "link_url": "https://www.washingtontimes.com/news/2026/may/30/israel-pushes-lebanon-two-sides-start-military-talks-pentagon/"
+    }
+  ]
+}
