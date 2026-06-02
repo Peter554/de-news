@@ -1,0 +1,126 @@
+{
+  "title": "PSG gewinnt Champions League – Ausschreitungen erschüttern Frankreich",
+  "translated_title": "PSG Wins Champions League – Riots Rock France",
+  "text": [
+    {
+      "text": "Paris Saint-Germain hat am 31. Mai 2026 die Champions League gewonnen.",
+      "translated_text": "Paris Saint-Germain won the Champions League on 31 May 2026."
+    },
+    {
+      "text": "Im Finale in Budapest besiegte PSG den FC Arsenal mit 4:3 im Elfmeterschießen.",
+      "translated_text": "In the final in Budapest, PSG defeated FC Arsenal 4-3 on penalties."
+    },
+    {
+      "text": "Es war der zweite Champions-League-Titel in der Geschichte des Klubs.",
+      "translated_text": "It was the second Champions League title in the club's history."
+    },
+    {
+      "text": "Doch die Feierlichkeiten in Frankreich wurden schnell von Gewalt überschattet.",
+      "translated_text": "However, the celebrations in France were quickly overshadowed by violence."
+    },
+    {
+      "text": "In vielen französischen Städten kam es zu schweren Ausschreitungen.",
+      "translated_text": "Serious riots broke out in many French cities."
+    },
+    {
+      "text": "Dabei wurden mindestens 890 Personen festgenommen.",
+      "translated_text": "At least 890 people were arrested."
+    },
+    {
+      "text": "Eine Person starb bei einem Motorradunfall, der mit den Unruhen in Zusammenhang stand.",
+      "translated_text": "One person died in a motorbike accident linked to the unrest."
+    },
+    {
+      "text": "57 Polizeibeamte wurden verletzt.",
+      "translated_text": "57 police officers were injured."
+    },
+    {
+      "text": "Randalierer zündeten mehr als 260 Fahrzeuge in 71 Gemeinden an.",
+      "translated_text": "Rioters set fire to more than 260 vehicles in 71 municipalities."
+    },
+    {
+      "text": "Die Regierung hatte bereits vor dem Finale etwa 22.000 Polizistinnen und Polizisten im ganzen Land eingesetzt.",
+      "translated_text": "The government had already deployed around 22,000 police officers across the country before the final."
+    },
+    {
+      "text": "Trotzdem konnten die Unruhen nicht vollständig verhindert werden.",
+      "translated_text": "Nevertheless, the riots could not be completely prevented."
+    },
+    {
+      "text": "Mehrere Politiker verurteilten die Gewalt scharf.",
+      "translated_text": "Several politicians strongly condemned the violence."
+    },
+    {
+      "text": "Auch Marine Le Pen, die Chefin des Rassemblement National, kritisierte die Ausschreitungen.",
+      "translated_text": "Marine Le Pen, the leader of Rassemblement National, also criticised the riots."
+    },
+    {
+      "text": "Sie forderte härtere Strafen für die Randalierer.",
+      "translated_text": "She called for harsher punishments for the rioters."
+    },
+    {
+      "text": "Viele Franzosen sind schockiert über das Ausmaß der Gewalt.",
+      "translated_text": "Many French people are shocked by the extent of the violence."
+    },
+    {
+      "text": "Der PSG-Sieg selbst wurde in Frankreich von den Nachrichten über die Unruhen überschattet.",
+      "translated_text": "PSG's victory itself was overshadowed in France by the news of the riots."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Ausschreitungen",
+      "translated_term": "the riots",
+      "example_usage": "In vielen französischen Städten kam es zu schweren Ausschreitungen."
+    },
+    {
+      "term": "festnehmen",
+      "translated_term": "to arrest",
+      "example_usage": "Mindestens 890 Personen wurden festgenommen."
+    },
+    {
+      "term": "der Randalierer",
+      "translated_term": "the rioter",
+      "example_usage": "Randalierer zündeten mehr als 260 Fahrzeuge an."
+    },
+    {
+      "term": "einsetzen",
+      "translated_term": "to deploy",
+      "example_usage": "Die Regierung hatte 22.000 Polizistinnen und Polizisten eingesetzt."
+    },
+    {
+      "term": "verurteilen",
+      "translated_term": "to condemn",
+      "example_usage": "Mehrere Politiker verurteilten die Gewalt scharf."
+    },
+    {
+      "term": "das Ausmaß",
+      "translated_term": "the extent / the scale",
+      "example_usage": "Viele Franzosen sind schockiert über das Ausmaß der Gewalt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Fußball",
+      "translated_name": "Football"
+    },
+    {
+      "name": "Frankreich",
+      "translated_name": "France"
+    },
+    {
+      "name": "Proteste",
+      "translated_name": "Protests"
+    }
+  ],
+  "sources": [
+    {
+      "name": "France 24: More than 280 arrested in Paris as clashes erupt on PSG victory night",
+      "link_url": "https://www.france24.com/en/france/20260531-more-than-280-arrested-in-paris-as-clashes-erupt-on-psg-victory-night"
+    },
+    {
+      "name": "Al Jazeera: France arrests hundreds of rioters nationwide as PSG win Champions League",
+      "link_url": "https://www.aljazeera.com/sports/2026/5/31/france-arrests-hundreds-of-rioters-nationwide-as-psg-win-champions-league"
+    }
+  ]
+}

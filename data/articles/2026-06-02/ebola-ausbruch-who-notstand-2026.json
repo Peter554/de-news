@@ -1,0 +1,122 @@
+{
+  "title": "Ebola-Ausbruch: WHO erklärt internationalen Gesundheitsnotstand",
+  "translated_title": "Ebola Outbreak: WHO Declares International Public Health Emergency",
+  "text": [
+    {
+      "text": "Die Weltgesundheitsorganisation (WHO) hat einen internationalen Gesundheitsnotstand ausgerufen.",
+      "translated_text": "The World Health Organization (WHO) has declared an international public health emergency."
+    },
+    {
+      "text": "Der Grund dafür ist ein Ebola-Ausbruch in der Demokratischen Republik Kongo und Uganda.",
+      "translated_text": "The reason for this is an Ebola outbreak in the Democratic Republic of Congo and Uganda."
+    },
+    {
+      "text": "Die WHO hat diese Entscheidung am 17. Mai 2026 getroffen.",
+      "translated_text": "The WHO made this decision on 17 May 2026."
+    },
+    {
+      "text": "Es handelt sich um den Bundibugyo-Stamm des Ebola-Virus.",
+      "translated_text": "It involves the Bundibugyo strain of the Ebola virus."
+    },
+    {
+      "text": "Dieser Stamm ist besonders gefährlich, weil es keinen zugelassenen Impfstoff oder eine Behandlung gibt.",
+      "translated_text": "This strain is particularly dangerous because there is no approved vaccine or treatment."
+    },
+    {
+      "text": "Bis Anfang Juni 2026 gab es in der Demokratischen Republik Kongo 282 bestätigte Fälle und 42 bestätigte Todesfälle.",
+      "translated_text": "By early June 2026, there were 282 confirmed cases and 42 confirmed deaths in the Democratic Republic of Congo."
+    },
+    {
+      "text": "Außerdem werden noch über 1.000 Verdachtsfälle untersucht.",
+      "translated_text": "In addition, more than 1,000 suspected cases are still being investigated."
+    },
+    {
+      "text": "Der Ausbruch begann in der Provinz Ituri im Osten des Kongos.",
+      "translated_text": "The outbreak began in the Ituri province in the east of the Congo."
+    },
+    {
+      "text": "Durch Reiseverbindungen hat sich das Virus auch auf Uganda ausgebreitet.",
+      "translated_text": "Through travel connections, the virus has also spread to Uganda."
+    },
+    {
+      "text": "Die WHO arbeitet eng mit den betroffenen Ländern zusammen.",
+      "translated_text": "The WHO is working closely with the affected countries."
+    },
+    {
+      "text": "Internationale Hilfe wird koordiniert, um den Ausbruch einzudämmen.",
+      "translated_text": "International aid is being coordinated to contain the outbreak."
+    },
+    {
+      "text": "Gesundheitsteams vor Ort versuchen, alle Kontaktpersonen der Infizierten zu finden.",
+      "translated_text": "Health teams on the ground are trying to find all contacts of the infected."
+    },
+    {
+      "text": "Diese Arbeit ist wichtig, um eine weitere Ausbreitung zu verhindern.",
+      "translated_text": "This work is important to prevent further spread."
+    },
+    {
+      "text": "Viele Länder haben Reisewarnungen für die betroffenen Regionen ausgegeben.",
+      "translated_text": "Many countries have issued travel warnings for the affected regions."
+    },
+    {
+      "text": "Experten fordern mehr Investitionen in die Entwicklung eines Impfstoffs gegen den Bundibugyo-Stamm.",
+      "translated_text": "Experts are calling for more investment in the development of a vaccine against the Bundibugyo strain."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Gesundheitsnotstand",
+      "translated_term": "the public health emergency",
+      "example_usage": "Die WHO hat einen internationalen Gesundheitsnotstand ausgerufen."
+    },
+    {
+      "term": "ausrufen",
+      "translated_term": "to declare / to proclaim",
+      "example_usage": "Die WHO hat einen internationalen Gesundheitsnotstand ausgerufen."
+    },
+    {
+      "term": "der Verdachtsfall",
+      "translated_term": "the suspected case",
+      "example_usage": "Über 1.000 Verdachtsfälle werden noch untersucht."
+    },
+    {
+      "term": "eindämmen",
+      "translated_term": "to contain / to curb",
+      "example_usage": "Internationale Hilfe wird koordiniert, um den Ausbruch einzudämmen."
+    },
+    {
+      "term": "der Impfstoff",
+      "translated_term": "the vaccine",
+      "example_usage": "Es gibt keinen zugelassenen Impfstoff gegen den Bundibugyo-Stamm."
+    },
+    {
+      "term": "die Kontaktperson",
+      "translated_term": "the contact person",
+      "example_usage": "Gesundheitsteams versuchen, alle Kontaktpersonen der Infizierten zu finden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Öffentliche Gesundheit",
+      "translated_name": "Public Health"
+    },
+    {
+      "name": "Afrika",
+      "translated_name": "Africa"
+    },
+    {
+      "name": "Epidemie",
+      "translated_name": "Epidemic"
+    }
+  ],
+  "sources": [
+    {
+      "name": "WHO Disease Outbreak News: Ebola virus disease caused by Bundibugyo virus – Democratic Republic of the Congo and Uganda",
+      "link_url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON605"
+    },
+    {
+      "name": "NPR: Ebola updates – June 2026",
+      "link_url": "https://www.npr.org/2026/06/01/g-s1-125143/ebola-updates"
+    }
+  ]
+}

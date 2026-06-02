@@ -1,0 +1,122 @@
+{
+  "title": "Kolumbien: Präsidentschaftswahl geht in die Stichwahl",
+  "translated_title": "Colombia: Presidential Election Goes to Runoff",
+  "text": [
+    {
+      "text": "Am 1. Juni 2026 fand in Kolumbien die erste Runde der Präsidentschaftswahl statt.",
+      "translated_text": "On 1 June 2026, the first round of the presidential election took place in Colombia."
+    },
+    {
+      "text": "Kein Kandidat konnte eine absolute Mehrheit gewinnen.",
+      "translated_text": "No candidate was able to win an absolute majority."
+    },
+    {
+      "text": "Der rechtsgerichtete Außenseiter Abelardo de la Espriella erhielt 43,7 Prozent der Stimmen.",
+      "translated_text": "The right-wing outsider Abelardo de la Espriella received 43.7 percent of the votes."
+    },
+    {
+      "text": "Der linksgerichtete Kandidat Iván Cepeda kam auf 40,9 Prozent.",
+      "translated_text": "The left-wing candidate Iván Cepeda received 40.9 percent."
+    },
+    {
+      "text": "Cepeda ist ein Verbündeter des amtierenden Präsidenten Gustavo Petro.",
+      "translated_text": "Cepeda is an ally of the current president Gustavo Petro."
+    },
+    {
+      "text": "Da keiner der Kandidaten über 50 Prozent erhielt, kommt es zu einer Stichwahl.",
+      "translated_text": "Since neither candidate received more than 50 percent, there will be a runoff."
+    },
+    {
+      "text": "Die Stichwahl ist für den 22. Juni 2026 geplant.",
+      "translated_text": "The runoff is scheduled for 22 June 2026."
+    },
+    {
+      "text": "De la Espriella hat sich als pro-amerikanisch und anti-Establishment positioniert.",
+      "translated_text": "De la Espriella has positioned himself as pro-American and anti-establishment."
+    },
+    {
+      "text": "Er unterstützt den politischen Kurs von US-Präsident Donald Trump.",
+      "translated_text": "He supports the political direction of US President Donald Trump."
+    },
+    {
+      "text": "Ein Sieg von de la Espriella könnte die Beziehungen Kolumbiens zu den USA stark verändern.",
+      "translated_text": "A victory for de la Espriella could significantly change Colombia's relationship with the USA."
+    },
+    {
+      "text": "Kolumbien ist ein wichtiger Verbündeter der USA in Lateinamerika.",
+      "translated_text": "Colombia is an important ally of the USA in Latin America."
+    },
+    {
+      "text": "Unter dem bisherigen Präsidenten Petro haben sich die Beziehungen zu den USA verschlechtert.",
+      "translated_text": "Under the previous president Petro, relations with the USA have deteriorated."
+    },
+    {
+      "text": "Petro hatte oft linke und anti-amerikanische Positionen vertreten.",
+      "translated_text": "Petro had often represented left-wing and anti-American positions."
+    },
+    {
+      "text": "Die Kolumbianer werden in der Stichwahl zwischen zwei sehr unterschiedlichen politischen Richtungen wählen.",
+      "translated_text": "Colombians will choose between two very different political directions in the runoff."
+    },
+    {
+      "text": "Das Ergebnis der Wahl wird auch für andere Länder in der Region wichtig sein.",
+      "translated_text": "The result of the election will also be important for other countries in the region."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Stichwahl",
+      "translated_term": "the runoff / second round",
+      "example_usage": "Da keiner der Kandidaten über 50 Prozent erhielt, kommt es zu einer Stichwahl."
+    },
+    {
+      "term": "rechtsgerichtet",
+      "translated_term": "right-wing",
+      "example_usage": "Der rechtsgerichtete Außenseiter Abelardo de la Espriella erhielt 43,7 Prozent."
+    },
+    {
+      "term": "der Außenseiter",
+      "translated_term": "the outsider / underdog",
+      "example_usage": "De la Espriella gilt als rechtsgerichteter Außenseiter."
+    },
+    {
+      "term": "der Verbündete",
+      "translated_term": "the ally",
+      "example_usage": "Cepeda ist ein Verbündeter des amtierenden Präsidenten Gustavo Petro."
+    },
+    {
+      "term": "sich positionieren",
+      "translated_term": "to position oneself",
+      "example_usage": "De la Espriella hat sich als pro-amerikanisch positioniert."
+    },
+    {
+      "term": "sich verschlechtern",
+      "translated_term": "to deteriorate / to worsen",
+      "example_usage": "Die Beziehungen zu den USA haben sich verschlechtert."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Lateinamerika",
+      "translated_name": "Latin America"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Wahlkampf",
+      "translated_name": "Election Campaign"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN: Colombia heads to runoff between Espriella and Cepeda",
+      "link_url": "https://www.cnn.com/2026/05/31/americas/colombia-runoff-espriella-cepeda-latam-intl"
+    },
+    {
+      "name": "NPR: First round of Colombia presidential vote",
+      "link_url": "https://www.npr.org/2026/06/01/nx-s1-5842833/first-round-colombia-presidential-vote"
+    }
+  ]
+}
