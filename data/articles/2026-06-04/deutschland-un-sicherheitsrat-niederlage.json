@@ -1,0 +1,138 @@
+{
+  "title": "Deutschland scheitert bei Wahl zum UN-Sicherheitsrat",
+  "translated_title": "Germany Fails in the UN Security Council Election",
+  "text": [
+    {
+      "text": "Deutschland hat eine wichtige Wahl verloren.",
+      "translated_text": "Germany has lost an important vote."
+    },
+    {
+      "text": "Das Land wollte einen Sitz im UN-Sicherheitsrat bekommen.",
+      "translated_text": "The country wanted to get a seat on the UN Security Council."
+    },
+    {
+      "text": "Aber Deutschland hat die Wahl am 3. Juni 2026 verloren.",
+      "translated_text": "But Germany lost the election on June 3, 2026."
+    },
+    {
+      "text": "Portugal und Österreich haben gewonnen.",
+      "translated_text": "Portugal and Austria won."
+    },
+    {
+      "text": "Für die Wahl braucht man zwei Drittel aller Stimmen der UN-Mitglieder.",
+      "translated_text": "For the election one needs two thirds of all votes from UN members."
+    },
+    {
+      "text": "Das sind 127 Stimmen von 191 möglichen.",
+      "translated_text": "That is 127 votes out of 191 possible."
+    },
+    {
+      "text": "Deutschland bekam nur 104 Stimmen.",
+      "translated_text": "Germany only received 104 votes."
+    },
+    {
+      "text": "Das reichte nicht für einen Sitz im Sicherheitsrat.",
+      "translated_text": "That was not enough for a seat on the Security Council."
+    },
+    {
+      "text": "Für Bundeskanzler Friedrich Merz ist das eine große Niederlage.",
+      "translated_text": "For Chancellor Friedrich Merz this is a major defeat."
+    },
+    {
+      "text": "Merz wollte Deutschland auf der Weltbühne stärker positionieren.",
+      "translated_text": "Merz wanted to position Germany more strongly on the world stage."
+    },
+    {
+      "text": "Sein Außenminister Johann Wadephul hatte lange für den Sitz geworben.",
+      "translated_text": "His Foreign Minister Johann Wadephul had lobbied for the seat for a long time."
+    },
+    {
+      "text": "Diplomaten sagen, Deutschland hat so eine Niederlage noch nie erlebt.",
+      "translated_text": "Diplomats say Germany has never experienced such a defeat."
+    },
+    {
+      "text": "Die Linken-Politikerin Ines Schwerdtner kritisierte die Niederlage.",
+      "translated_text": "Left Party politician Ines Schwerdtner criticised the defeat."
+    },
+    {
+      "text": "Sie sagte, Merz habe als „Außenpolitik-Kanzler“ versagt.",
+      "translated_text": "She said Merz had failed as a \"foreign policy chancellor\"."
+    },
+    {
+      "text": "Der UN-Sicherheitsrat ist das mächtigste Organ der Vereinten Nationen.",
+      "translated_text": "The UN Security Council is the most powerful body of the United Nations."
+    },
+    {
+      "text": "Er entscheidet über Frieden und Sicherheit in der Welt.",
+      "translated_text": "It decides on peace and security in the world."
+    },
+    {
+      "text": "Deutschland wäre für zwei Jahre nichtständiges Mitglied gewesen.",
+      "translated_text": "Germany would have been a non-permanent member for two years."
+    },
+    {
+      "text": "Jetzt muss Deutschland auf eine zukünftige Gelegenheit warten.",
+      "translated_text": "Now Germany must wait for a future opportunity."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "scheitern",
+      "translated_term": "to fail",
+      "example_usage": "Deutschland hat so eine Niederlage noch nie erlebt."
+    },
+    {
+      "term": "die Niederlage",
+      "translated_term": "the defeat",
+      "example_usage": "Für Bundeskanzler Friedrich Merz ist das eine große Niederlage."
+    },
+    {
+      "term": "werben für",
+      "translated_term": "to campaign / lobby for",
+      "example_usage": "Sein Außenminister Johann Wadephul hatte lange für den Sitz geworben."
+    },
+    {
+      "term": "der Sicherheitsrat",
+      "translated_term": "the Security Council",
+      "example_usage": "Das Land wollte einen Sitz im UN-Sicherheitsrat bekommen."
+    },
+    {
+      "term": "positionieren",
+      "translated_term": "to position",
+      "example_usage": "Merz wollte Deutschland auf der Weltbühne stärker positionieren."
+    },
+    {
+      "term": "nichtständig",
+      "translated_term": "non-permanent",
+      "example_usage": "Deutschland wäre für zwei Jahre nichtständiges Mitglied gewesen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Vereinte Nationen",
+      "translated_name": "United Nations"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Yahoo News: Merz dealt blow as Germany loses bid for Security Council seat",
+      "link_url": "https://www.yahoo.com/news/politics/articles/merz-dealt-blow-germany-loses-195538685.html"
+    },
+    {
+      "name": "Euronews: German Chancellor Merz the most unpopular head of government in the world, survey shows",
+      "link_url": "https://www.euronews.com/2026/04/13/german-chancellor-merz-the-most-unpopular-head-of-government-in-the-world-survey-shows"
+    }
+  ]
+}

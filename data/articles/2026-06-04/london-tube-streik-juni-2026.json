@@ -1,0 +1,155 @@
+{
+  "title": "Londoner U-Bahn-Streik: Fahrer protestieren gegen Vier-Tage-Woche",
+  "translated_title": "London Underground Strike: Drivers Protest Against Four-Day Week",
+  "text": [
+    {
+      "text": "In London streiken die Fahrer der U-Bahn.",
+      "translated_text": "In London, Underground drivers are on strike."
+    },
+    {
+      "text": "Die Gewerkschaft RMT hat den Streik ausgerufen.",
+      "translated_text": "The RMT union has called the strike."
+    },
+    {
+      "text": "Am Dienstag, dem 2. Juni, und am Donnerstag, dem 4. Juni 2026, gibt es Arbeitsniederlegungen.",
+      "translated_text": "On Tuesday, June 2, and on Thursday, June 4, 2026, there are work stoppages."
+    },
+    {
+      "text": "Viele U-Bahn-Linien fahren nicht oder nur selten.",
+      "translated_text": "Many Underground lines are not running or running only rarely."
+    },
+    {
+      "text": "Am Dienstag fuhren 41 Prozent weniger Fahrgäste als normal.",
+      "translated_text": "On Tuesday, 41 percent fewer passengers travelled than usual."
+    },
+    {
+      "text": "Der Konflikt geht um die Einführung einer Vier-Tage-Woche.",
+      "translated_text": "The conflict is about the introduction of a four-day week."
+    },
+    {
+      "text": "Transport for London, die Verkehrsbehörde, möchte eine neue Arbeitszeitregelung einführen.",
+      "translated_text": "Transport for London, the transport authority, wants to introduce a new working time arrangement."
+    },
+    {
+      "text": "Die Fahrer sollen dieselben Stunden auf vier Tage verteilen statt auf fünf.",
+      "translated_text": "The drivers are to spread the same hours over four days instead of five."
+    },
+    {
+      "text": "Das bedeutet: Die Arbeitstage werden länger, aber es gibt einen freien Tag mehr.",
+      "translated_text": "This means: The working days become longer, but there is one more day off."
+    },
+    {
+      "text": "Die Gewerkschaft RMT ist gegen diese Regelung.",
+      "translated_text": "The RMT union is against this arrangement."
+    },
+    {
+      "text": "Sie sagt, längere Schichten sind gefährlich.",
+      "translated_text": "It says longer shifts are dangerous."
+    },
+    {
+      "text": "Müde Fahrer können Unfälle verursachen.",
+      "translated_text": "Tired drivers can cause accidents."
+    },
+    {
+      "text": "Die Sicherheit der Fahrgäste ist in Gefahr.",
+      "translated_text": "The safety of passengers is at risk."
+    },
+    {
+      "text": "Transport for London sagt, das Angebot ist freiwillig.",
+      "translated_text": "Transport for London says the offer is voluntary."
+    },
+    {
+      "text": "Fahrer können selbst entscheiden, ob sie die Vier-Tage-Woche wollen.",
+      "translated_text": "Drivers can decide for themselves whether they want the four-day week."
+    },
+    {
+      "text": "Aber die Gewerkschaft glaubt, dass das nicht stimmt.",
+      "translated_text": "But the union believes that this is not true."
+    },
+    {
+      "text": "Die Streiks sollen bis zum 5. Juni 2026 dauern.",
+      "translated_text": "The strikes are set to last until June 5, 2026."
+    },
+    {
+      "text": "Wenn es keine Einigung gibt, könnte es weitere Streiks geben.",
+      "translated_text": "If there is no agreement, there could be further strikes."
+    },
+    {
+      "text": "Für viele Londoner ist die Situation sehr stressig.",
+      "translated_text": "For many Londoners the situation is very stressful."
+    },
+    {
+      "text": "Sie müssen Busse oder Fahrräder benutzen, um zur Arbeit zu kommen.",
+      "translated_text": "They have to use buses or bicycles to get to work."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "streiken",
+      "translated_term": "to strike",
+      "example_usage": "In London streiken die Fahrer der U-Bahn."
+    },
+    {
+      "term": "die Gewerkschaft",
+      "translated_term": "the trade union",
+      "example_usage": "Die Gewerkschaft RMT hat den Streik ausgerufen."
+    },
+    {
+      "term": "die Arbeitsniederlegung",
+      "translated_term": "the work stoppage",
+      "example_usage": "Am Dienstag, dem 2. Juni, und am Donnerstag, dem 4. Juni 2026, gibt es Arbeitsniederlegungen."
+    },
+    {
+      "term": "die Schicht",
+      "translated_term": "the shift",
+      "example_usage": "Sie sagt, längere Schichten sind gefährlich."
+    },
+    {
+      "term": "freiwillig",
+      "translated_term": "voluntary",
+      "example_usage": "Transport for London sagt, das Angebot ist freiwillig."
+    },
+    {
+      "term": "verursachen",
+      "translated_term": "to cause",
+      "example_usage": "Müde Fahrer können Unfälle verursachen."
+    },
+    {
+      "term": "die Einigung",
+      "translated_term": "the agreement",
+      "example_usage": "Wenn es keine Einigung gibt, könnte es weitere Streiks geben."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Streik",
+      "translated_name": "Strike"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    },
+    {
+      "name": "Arbeitspolitik",
+      "translated_name": "Labor Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Time Out London: June 2026 Tube Strikes — How to get around London during RMT industrial action",
+      "link_url": "https://www.timeout.com/london/news/june-2026-tube-strikes-how-to-get-around-london-during-this-weeks-rmt-industrial-action-052826"
+    },
+    {
+      "name": "Rail Business Daily: In The News — 4th June 2026",
+      "link_url": "https://news.railbusinessdaily.com/in-the-news-4th-june-2026-latest-rail-news/"
+    },
+    {
+      "name": "HuffPost UK: What Are The 2026 London Tube Strikes About?",
+      "link_url": "https://www.huffingtonpost.co.uk/entry/london-tube-strikes-june-2026_uk_6a1d8f8ce4b032392fa3bfbc"
+    }
+  ]
+}
