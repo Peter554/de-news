@@ -1,0 +1,126 @@
+{
+  "title": "Hisbollah lehnt Waffenstillstand zwischen Israel und Libanon ab",
+  "translated_title": "Hezbollah Rejects Ceasefire Between Israel and Lebanon",
+  "text": [
+    {
+      "text": "Am 3. Juni 2026 haben Israel und der Libanon einem neuen Waffenstillstand zugestimmt.",
+      "translated_text": "On 3 June 2026, Israel and Lebanon agreed to a new ceasefire."
+    },
+    {
+      "text": "Der Waffenstillstand wurde von den USA vermittelt.",
+      "translated_text": "The ceasefire was brokered by the United States."
+    },
+    {
+      "text": "Doch nur wenige Stunden später lehnte die Hisbollah das Abkommen ab.",
+      "translated_text": "But just a few hours later, Hezbollah rejected the agreement."
+    },
+    {
+      "text": "Der Hisbollah-Generalsekretär Naim Kassem nannte die Bedingungen des Waffenstillstands demütigend.",
+      "translated_text": "Hezbollah Secretary-General Naim Kassem called the terms of the ceasefire humiliating."
+    },
+    {
+      "text": "Der Waffenstillstand sah vor, dass die Hisbollah ihre Angriffe einstellt, aber Israel nicht.",
+      "translated_text": "The ceasefire stipulated that Hezbollah would stop its attacks, but Israel would not."
+    },
+    {
+      "text": "Außerdem sollte eine entmilitarisierte Zone im Süden des Libanon eingerichtet werden.",
+      "translated_text": "Additionally, a demilitarised zone was to be established in the south of Lebanon."
+    },
+    {
+      "text": "Die Hisbollah forderte stattdessen, dass israelische Streitkräfte zuerst den Libanon verlassen.",
+      "translated_text": "Hezbollah instead demanded that Israeli forces first leave Lebanon."
+    },
+    {
+      "text": "Kassem erklärte, die Forderung, dass die Hisbollah sich zurückziehen solle, während sie angegriffen werde, bedeute Kapitulation.",
+      "translated_text": "Kassem stated that the demand for Hezbollah to withdraw while being attacked would mean capitulation."
+    },
+    {
+      "text": "Nach der Ablehnung kam es zu neuen Angriffen auf beiden Seiten.",
+      "translated_text": "Following the rejection, fresh attacks occurred on both sides."
+    },
+    {
+      "text": "Israel startete erneut Luftangriffe auf Ziele im Libanon.",
+      "translated_text": "Israel launched fresh air strikes against targets in Lebanon."
+    },
+    {
+      "text": "Die Hisbollah antwortete mit Raketenangriffen auf den Norden Israels.",
+      "translated_text": "Hezbollah responded with rocket attacks on northern Israel."
+    },
+    {
+      "text": "Der Konflikt hat seit Monaten große Teile des Libanon destabilisiert.",
+      "translated_text": "The conflict has destabilised large parts of Lebanon for months."
+    },
+    {
+      "text": "Viele Menschen mussten ihr Zuhause verlassen, und die humanitäre Lage ist ernst.",
+      "translated_text": "Many people have had to leave their homes and the humanitarian situation is serious."
+    },
+    {
+      "text": "Die internationale Gemeinschaft hofft auf eine diplomatische Lösung.",
+      "translated_text": "The international community hopes for a diplomatic solution."
+    },
+    {
+      "text": "Aber die Ablehnung des Waffenstillstands durch die Hisbollah macht weitere Verhandlungen schwieriger.",
+      "translated_text": "But Hezbollah's rejection of the ceasefire makes further negotiations more difficult."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Israel und der Libanon haben einem neuen Waffenstillstand zugestimmt."
+    },
+    {
+      "term": "vermitteln",
+      "translated_term": "to broker / to mediate",
+      "example_usage": "Der Waffenstillstand wurde von den USA vermittelt."
+    },
+    {
+      "term": "ablehnen",
+      "translated_term": "to reject / to refuse",
+      "example_usage": "Die Hisbollah lehnte das Abkommen ab."
+    },
+    {
+      "term": "die Kapitulation",
+      "translated_term": "the capitulation / surrender",
+      "example_usage": "Die Forderung bedeute Kapitulation, sagte Kassem."
+    },
+    {
+      "term": "die entmilitarisierte Zone",
+      "translated_term": "the demilitarised zone",
+      "example_usage": "Eine entmilitarisierte Zone im Süden des Libanon sollte eingerichtet werden."
+    },
+    {
+      "term": "destabilisieren",
+      "translated_term": "to destabilise",
+      "example_usage": "Der Konflikt hat große Teile des Libanon destabilisiert."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Libanon",
+      "translated_name": "Lebanon"
+    },
+    {
+      "name": "Waffenstillstand",
+      "translated_name": "Ceasefire"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR: Hezbollah rejects ceasefire deal agreed on by Israel and Lebanon",
+      "link_url": "https://www.npr.org/2026/06/04/g-s1-125942/israel-lebanon-ceasefire"
+    },
+    {
+      "name": "Axios: Israel, Lebanon agree to full ceasefire, but Hezbollah rejects it",
+      "link_url": "https://www.axios.com/2026/06/03/israel-lebanon-ceasefire-hezbollah-us"
+    },
+    {
+      "name": "The Washington Post: Hezbollah rejects Israel-Lebanon ceasefire deal",
+      "link_url": "https://www.washingtonpost.com/world/2026/06/04/israel-lebanon-renew-ceasefire-deal-without-hezbollah/"
+    }
+  ]
+}

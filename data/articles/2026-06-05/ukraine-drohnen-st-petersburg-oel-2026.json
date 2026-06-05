@@ -1,0 +1,126 @@
+{
+  "title": "Ukrainische Drohnen greifen Ölterminal in St. Petersburg an",
+  "translated_title": "Ukrainian Drones Attack Oil Terminal in St. Petersburg",
+  "text": [
+    {
+      "text": "In der Nacht vom 3. auf den 4. Juni 2026 haben ukrainische Drohnen einen Ölterminal in St. Petersburg angegriffen.",
+      "translated_text": "In the night of 3 to 4 June 2026, Ukrainian drones attacked an oil terminal in St. Petersburg."
+    },
+    {
+      "text": "Der Terminal fing Feuer, und schwarzer Rauch stieg über der Stadt auf.",
+      "translated_text": "The terminal caught fire and black smoke rose above the city."
+    },
+    {
+      "text": "Die Drohnen flogen mehr als 1.000 Kilometer, um ihr Ziel zu erreichen.",
+      "translated_text": "The drones flew more than 1,000 kilometres to reach their target."
+    },
+    {
+      "text": "St. Petersburg ist Russlands zweitgrößte Stadt und der Geburtsort von Präsident Wladimir Putin.",
+      "translated_text": "St. Petersburg is Russia's second-largest city and the birthplace of President Vladimir Putin."
+    },
+    {
+      "text": "Zur selben Zeit fand in der Stadt ein großes Wirtschaftsforum statt.",
+      "translated_text": "At the same time, a major economic forum was taking place in the city."
+    },
+    {
+      "text": "Dieses Forum wird manchmal „Russisches Davos" genannt, weil Russland damit ausländische Investoren anlocken will.",
+      "translated_text": "This forum is sometimes called the \"Russian Davos\" because Russia uses it to attract foreign investors."
+    },
+    {
+      "text": "Der Drohnenangriff sollte ein deutliches Zeichen setzen.",
+      "translated_text": "The drone attack was intended to send a clear signal."
+    },
+    {
+      "text": "Die Ukraine greift Ölanlagen in Russland regelmäßig an, weil Ölexporte Russland wichtige Einnahmen für den Krieg bringen.",
+      "translated_text": "Ukraine regularly attacks oil facilities in Russia because oil exports bring Russia important income for the war."
+    },
+    {
+      "text": "In derselben Nacht trafen ukrainische Drohnen auch ein russisches Militärschiff im Hafen von Kronstadt.",
+      "translated_text": "On the same night, Ukrainian drones also hit a Russian military ship in the port of Kronstadt."
+    },
+    {
+      "text": "Außerdem wurde eine Rüstungsfabrik in der Region Tambow beschädigt.",
+      "translated_text": "Additionally, an arms factory in the Tambov region was damaged."
+    },
+    {
+      "text": "Das russische Verteidigungsministerium erklärte, die Luftabwehr habe 354 ukrainische Drohnen abgeschossen.",
+      "translated_text": "The Russian Ministry of Defence stated that air defences had shot down 354 Ukrainian drones."
+    },
+    {
+      "text": "Der Flughafen in St. Petersburg musste wegen der Angriffe vorübergehend den Betrieb einstellen.",
+      "translated_text": "The airport in St. Petersburg had to temporarily suspend operations because of the attacks."
+    },
+    {
+      "text": "Die Behörden unterbrachen auch die mobilen Internetdienste in der Stadt.",
+      "translated_text": "The authorities also cut off mobile internet services in the city."
+    },
+    {
+      "text": "Die Ukraine hat in den letzten Monaten viele solche Langstreckenangriffe durchgeführt.",
+      "translated_text": "Ukraine has carried out many such long-range attacks in recent months."
+    },
+    {
+      "text": "Das Ziel ist es, die russische Kriegswirtschaft zu schwächen und den Druck auf Moskau zu erhöhen.",
+      "translated_text": "The goal is to weaken Russia's war economy and increase pressure on Moscow."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Drohnenangriff",
+      "translated_term": "the drone attack",
+      "example_usage": "Der Drohnenangriff sollte ein deutliches Zeichen setzen."
+    },
+    {
+      "term": "der Ölterminal",
+      "translated_term": "the oil terminal",
+      "example_usage": "Ukrainische Drohnen haben einen Ölterminal in St. Petersburg angegriffen."
+    },
+    {
+      "term": "die Luftabwehr",
+      "translated_term": "the air defence",
+      "example_usage": "Die russische Luftabwehr habe 354 ukrainische Drohnen abgeschossen."
+    },
+    {
+      "term": "anlocken",
+      "translated_term": "to attract / to lure",
+      "example_usage": "Russland will damit ausländische Investoren anlocken."
+    },
+    {
+      "term": "die Rüstungsfabrik",
+      "translated_term": "the arms factory",
+      "example_usage": "Eine Rüstungsfabrik in der Region Tambow wurde beschädigt."
+    },
+    {
+      "term": "schwächen",
+      "translated_term": "to weaken",
+      "example_usage": "Das Ziel ist es, die russische Kriegswirtschaft zu schwächen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    },
+    {
+      "name": "Energiepolitik",
+      "translated_name": "Energy Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR: Ukrainian drones strike a St. Petersburg oil terminal ahead of Putin visit",
+      "link_url": "https://www.npr.org/2026/06/03/nx-s1-5844793/ukrainian-drones-hit-st-petersburg"
+    },
+    {
+      "name": "The Washington Post: Ukrainian drones hit St. Petersburg oil terminal ahead of 'Russian Davos'",
+      "link_url": "https://www.washingtonpost.com/business/2026/06/03/russia-ukraine-petersburg-oil-terminal-putin-drone/211c0810-5f26-11f1-9c46-d6211372eede_story.html"
+    },
+    {
+      "name": "US News: Ukrainian Drones Hit St. Petersburg Oil Terminal Before City Hosts Russian Economic Forum",
+      "link_url": "https://www.usnews.com/news/business/articles/2026-06-03/ukrainian-drones-set-fire-to-a-st-petersburg-oil-terminal-ahead-of-putin-visit"
+    }
+  ]
+}

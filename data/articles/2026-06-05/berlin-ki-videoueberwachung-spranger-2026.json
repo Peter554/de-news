@@ -1,0 +1,126 @@
+{
+  "title": "Berlin plant KI-gestützte Videoüberwachung an Brennpunkten",
+  "translated_title": "Berlin Plans AI-Supported Video Surveillance at Crime Hotspots",
+  "text": [
+    {
+      "text": "Berlin will an mehreren Orten KI-gestützte Videokameras einsetzen, um Kriminalität zu bekämpfen.",
+      "translated_text": "Berlin wants to deploy AI-supported video cameras at several locations to combat crime."
+    },
+    {
+      "text": "Innensenatorin Iris Spranger von der SPD hat die konkreten Standorte bekannt gegeben.",
+      "translated_text": "Interior Senator Iris Spranger of the SPD has announced the specific locations."
+    },
+    {
+      "text": "Zu den geplanten Teststandorten gehören das Rote Rathaus, der Kottbusser Tor in Kreuzberg und die Warschauer Brücke in Friedrichshain.",
+      "translated_text": "The planned test locations include the Red City Hall, Kottbusser Tor in Kreuzberg, and Warschauer Brücke in Friedrichshain."
+    },
+    {
+      "text": "Auch das Jüdische Museum Berlin hat Interesse an der neuen Technologie gezeigt.",
+      "translated_text": "The Jewish Museum Berlin has also shown interest in the new technology."
+    },
+    {
+      "text": "Seit Januar 2026 gibt es eine neue Version des Berliner Sicherheitsgesetzes.",
+      "translated_text": "Since January 2026, there has been a new version of the Berlin Security Law."
+    },
+    {
+      "text": "Das Gesetz erlaubt den Einsatz von sogenannten Verhaltensscannern an Orten mit hoher Kriminalität.",
+      "translated_text": "The law permits the use of so-called behaviour scanners at locations with high crime rates."
+    },
+    {
+      "text": "Diese KI-Kameras können zwischen harmlosen Gesten und echten Schlägereien unterscheiden.",
+      "translated_text": "These AI cameras can distinguish between harmless gestures and actual fights."
+    },
+    {
+      "text": "Wenn die Kamera etwas Verdächtiges erkennt, alarmiert sie automatisch das Sicherheitspersonal.",
+      "translated_text": "When the camera detects something suspicious, it automatically alerts security personnel."
+    },
+    {
+      "text": "So sollen Verbrechen verhindert werden, bevor sie passieren.",
+      "translated_text": "This is intended to prevent crimes before they happen."
+    },
+    {
+      "text": "Bei der BVG, dem Berliner Nahverkehr, hat ein ähnliches System bereits gute Ergebnisse gezeigt.",
+      "translated_text": "At the BVG, Berlin's public transport network, a similar system has already shown good results."
+    },
+    {
+      "text": "Laut einem Bericht sank die Kriminalität im Bereich der BVG durch den Einsatz von KI-Kameras um 16 Prozent.",
+      "translated_text": "According to a report, crime in the BVG's area fell by 16 percent through the use of AI cameras."
+    },
+    {
+      "text": "Spranger betonte, dass eine flächendeckende Überwachung der Stadt nicht geplant sei.",
+      "translated_text": "Spranger emphasised that blanket surveillance of the city is not planned."
+    },
+    {
+      "text": "Die Technologie soll nur an besonders gefährlichen Orten eingesetzt werden.",
+      "translated_text": "The technology is to be used only at particularly dangerous locations."
+    },
+    {
+      "text": "Kritiker warnen jedoch vor möglichen Risiken für den Datenschutz und die Bürgerrechte.",
+      "translated_text": "Critics, however, warn of possible risks to data privacy and civil liberties."
+    },
+    {
+      "text": "Das Pilotprojekt soll zeigen, ob die KI-Überwachung wirksam und rechtlich unbedenklich ist.",
+      "translated_text": "The pilot project is intended to show whether AI surveillance is effective and legally unproblematic."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Videoüberwachung",
+      "translated_term": "the video surveillance",
+      "example_usage": "Berlin plant KI-gestützte Videoüberwachung an Brennpunkten."
+    },
+    {
+      "term": "der Brennpunkt",
+      "translated_term": "the hotspot / problem area",
+      "example_usage": "Die Technologie soll nur an besonders gefährlichen Orten eingesetzt werden."
+    },
+    {
+      "term": "der Verhaltensscanner",
+      "translated_term": "the behaviour scanner",
+      "example_usage": "Das Gesetz erlaubt den Einsatz von Verhaltensscannern an Orten mit hoher Kriminalität."
+    },
+    {
+      "term": "erkennen",
+      "translated_term": "to detect / to recognise",
+      "example_usage": "Wenn die Kamera etwas Verdächtiges erkennt, alarmiert sie das Sicherheitspersonal."
+    },
+    {
+      "term": "flächendeckend",
+      "translated_term": "blanket / comprehensive / across-the-board",
+      "example_usage": "Eine flächendeckende Überwachung der Stadt ist nicht geplant."
+    },
+    {
+      "term": "der Datenschutz",
+      "translated_term": "data privacy / data protection",
+      "example_usage": "Kritiker warnen vor möglichen Risiken für den Datenschutz."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Künstliche Intelligenz",
+      "translated_name": "Artificial Intelligence"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Tagesspiegel: Spranger nennt Orte für Videoüberwachung: KI-Kameras auch für Jüdisches Museum möglich",
+      "link_url": "https://www.tagesspiegel.de/berlin/spranger-nennt-orte-fur-videouberwachung-ki-kameras-auch-fur-schutz-des-judischen-museums-berlin-moglich-15661350.html"
+    },
+    {
+      "name": "Berliner Zeitung: Berlin will mit Überwachung und KI Messergewalt verhindern",
+      "link_url": "https://www.berliner-zeitung.de/news/berlin-senat-will-mit-ueberwachung-und-kuenstlicher-intelligenz-messergewalt-verhindern-li.2248635"
+    },
+    {
+      "name": "t-online Berlin: KI-Kameras bald an vielen Berliner Brennpunkten?",
+      "link_url": "https://berlin.t-online.de/region/berlin/id_101278366/berlin-will-brennpunkte-mit-smarten-kameras-ueberwachen-brandenburger-tor-.html"
+    }
+  ]
+}
