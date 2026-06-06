@@ -1,0 +1,166 @@
+{
+  "title": "Meningitis-Ausbruch in Kent beunruhigt Großbritannien",
+  "translated_title": "Meningitis Outbreak in Kent Worries Great Britain",
+  "text": [
+    {
+      "text": "In der englischen Grafschaft Kent gibt es einen ernsten Ausbruch von Meningitis B.",
+      "translated_text": "In the English county of Kent, there is a serious outbreak of Meningitis B."
+    },
+    {
+      "text": "Die Krankheit hat sich seit März 2026 in der Stadt Canterbury verbreitet.",
+      "translated_text": "The disease has been spreading in the city of Canterbury since March 2026."
+    },
+    {
+      "text": "Bis Anfang Juni wurden insgesamt 34 Fälle bestätigt.",
+      "translated_text": "By early June, a total of 34 cases had been confirmed."
+    },
+    {
+      "text": "Die meisten Betroffenen sind junge Menschen.",
+      "translated_text": "Most of those affected are young people."
+    },
+    {
+      "text": "Viele von ihnen sind Studierende der Universität Kent.",
+      "translated_text": "Many of them are students at the University of Kent."
+    },
+    {
+      "text": "Die Gesundheitsbehörden gehen davon aus, dass der Ausbruch in einem Nachtclub in Canterbury begonnen hat.",
+      "translated_text": "Health authorities believe that the outbreak began at a nightclub in Canterbury."
+    },
+    {
+      "text": "Dort haben viele Studierende Anfang März gefeiert.",
+      "translated_text": "Many students had celebrated there in early March."
+    },
+    {
+      "text": "Der Erreger ist ein Bakterium namens Neisseria meningitidis vom Typ B.",
+      "translated_text": "The pathogen is a bacterium called Neisseria meningitidis type B."
+    },
+    {
+      "text": "Meningitis ist eine Entzündung der Hirnhäute.",
+      "translated_text": "Meningitis is an inflammation of the meninges."
+    },
+    {
+      "text": "Die Krankheit kann sehr gefährlich sein.",
+      "translated_text": "The disease can be very dangerous."
+    },
+    {
+      "text": "Zwei junge Menschen sind in Verbindung mit dem Ausbruch gestorben.",
+      "translated_text": "Two young people have died in connection with the outbreak."
+    },
+    {
+      "text": "Elf weitere wurden schwer krank und mussten ins Krankenhaus.",
+      "translated_text": "Eleven others became seriously ill and had to be hospitalised."
+    },
+    {
+      "text": "Die Nachrichten haben viele Menschen in Kent und ganz Großbritannien erschreckt.",
+      "translated_text": "The news frightened many people in Kent and across Great Britain."
+    },
+    {
+      "text": "Die britischen Gesundheitsbehörden haben schnell reagiert.",
+      "translated_text": "The British health authorities reacted quickly."
+    },
+    {
+      "text": "Im März wurden die Impfkriterien erweitert.",
+      "translated_text": "In March, the vaccination criteria were widened."
+    },
+    {
+      "text": "Über 4.500 Impfungen und 10.500 Antibiotika-Dosen wurden verteilt.",
+      "translated_text": "Over 4,500 vaccinations and 10,500 antibiotic doses were distributed."
+    },
+    {
+      "text": "Die Regierung hat Menschen in der betroffenen Region aufgefordert, sich impfen zu lassen.",
+      "translated_text": "The government has urged people in the affected region to get vaccinated."
+    },
+    {
+      "text": "Wissenschaftler haben den Erreger genau untersucht.",
+      "translated_text": "Scientists have examined the pathogen closely."
+    },
+    {
+      "text": "Sie stellten fest, dass dieser Bakterienstamm sich von bekannten Stämmen unterscheidet.",
+      "translated_text": "They found that this bacterial strain differs from known strains."
+    },
+    {
+      "text": "Er hat etwa 80 genetische Unterschiede zu seinen nächsten Verwandten.",
+      "translated_text": "It has around 80 genetic differences from its closest relatives."
+    },
+    {
+      "text": "Das macht die Bekämpfung schwieriger.",
+      "translated_text": "This makes it harder to combat."
+    },
+    {
+      "text": "Die Europäische Gesundheitsbehörde ECDC hat erklärt, dass das Risiko für andere EU-Länder gering ist.",
+      "translated_text": "The European health authority ECDC has stated that the risk for other EU countries is low."
+    },
+    {
+      "text": "Aber die Lage in Kent bleibt besorgniserregend.",
+      "translated_text": "But the situation in Kent remains worrying."
+    },
+    {
+      "text": "Die Gesundheitsbehörden beobachten den Ausbruch weiterhin genau.",
+      "translated_text": "The health authorities continue to monitor the outbreak closely."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Ausbruch",
+      "translated_term": "the outbreak",
+      "example_usage": "In der englischen Grafschaft Kent gibt es einen ernsten Ausbruch von Meningitis B."
+    },
+    {
+      "term": "der Erreger",
+      "translated_term": "the pathogen",
+      "example_usage": "Der Erreger ist ein Bakterium namens Neisseria meningitidis vom Typ B."
+    },
+    {
+      "term": "die Entzündung",
+      "translated_term": "the inflammation",
+      "example_usage": "Meningitis ist eine Entzündung der Hirnhäute."
+    },
+    {
+      "term": "die Impfung",
+      "translated_term": "the vaccination",
+      "example_usage": "Über 4.500 Impfungen und 10.500 Antibiotika-Dosen wurden verteilt."
+    },
+    {
+      "term": "sich verbreiten",
+      "translated_term": "to spread",
+      "example_usage": "Die Krankheit hat sich seit März 2026 in der Stadt Canterbury verbreitet."
+    },
+    {
+      "term": "besorgniserregend",
+      "translated_term": "worrying / concerning",
+      "example_usage": "Aber die Lage in Kent bleibt besorgniserregend."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Öffentliche Gesundheit",
+      "translated_name": "Public Health"
+    },
+    {
+      "name": "Meningitis",
+      "translated_name": "Meningitis"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia: 2026 Kent meningitis outbreak",
+      "link_url": "https://en.wikipedia.org/wiki/2026_Kent_meningitis_outbreak"
+    },
+    {
+      "name": "ECDC: Very low risk for the EU/EEA from the outbreak of invasive meningococcal disease in Kent",
+      "link_url": "https://www.ecdc.europa.eu/en/news-events/very-low-risk-eueea-outbreak-invasive-meningococcal-disease-kent-england"
+    },
+    {
+      "name": "NHS Kent and Medway ICB: Meningitis outbreak in the Canterbury area",
+      "link_url": "https://www.kentandmedway.icb.nhs.uk/news/meningitis-outbreak-in-the-canterbury-area-4187"
+    },
+    {
+      "name": "The Conversation: Kent meningitis outbreak: the latest on the bacterial strain at its centre",
+      "link_url": "https://theconversation.com/kent-meningitis-outbreak-the-latest-on-the-bacterial-strain-at-its-centre-278925"
+    }
+  ]
+}

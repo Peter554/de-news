@@ -1,0 +1,150 @@
+{
+  "title": "Ukrainische Drohne explodiert in rumänischem Hafen",
+  "translated_title": "Ukrainian Drone Explodes in Romanian Port",
+  "text": [
+    {
+      "text": "Am 5. Juni 2026 hat sich ein beunruhigender Vorfall in Rumänien ereignet.",
+      "translated_text": "On 5 June 2026, a worrying incident occurred in Romania."
+    },
+    {
+      "text": "Eine ukrainische Seedrohne ist im Hafen von Konstanza am Schwarzen Meer explodiert.",
+      "translated_text": "A Ukrainian sea drone exploded in the port of Constanta on the Black Sea."
+    },
+    {
+      "text": "Der Hafen liegt in der Nähe der NATO-Außengrenze.",
+      "translated_text": "The port is located near the NATO external border."
+    },
+    {
+      "text": "Glücklicherweise wurde niemand verletzt.",
+      "translated_text": "Fortunately, no one was injured."
+    },
+    {
+      "text": "Die ukrainischen Streitkräfte bestätigten, dass die Drohne ihnen gehörte.",
+      "translated_text": "The Ukrainian armed forces confirmed that the drone belonged to them."
+    },
+    {
+      "text": "Sie erklärten, dass die Drohne durch russische elektronische Kriegsführung vom Kurs abgebracht wurde.",
+      "translated_text": "They explained that the drone had been knocked off course by Russian electronic warfare."
+    },
+    {
+      "text": "Russland soll das Signal der Drohne gestört haben, sodass sie die Kontrolle verloren.",
+      "translated_text": "Russia is said to have jammed the drone's signal, causing it to lose control."
+    },
+    {
+      "text": "Danach ist sie in den rumänischen Hafen gedriftet und dort explodiert.",
+      "translated_text": "After that, it drifted into the Romanian port and exploded there."
+    },
+    {
+      "text": "Nach der Explosion wurde der Hafen evakuiert.",
+      "translated_text": "After the explosion, the port was evacuated."
+    },
+    {
+      "text": "Drei weitere Drohnen explodierten außerhalb des Hafens.",
+      "translated_text": "Three more drones exploded outside the port."
+    },
+    {
+      "text": "Zum Glück gab es keine Verletzten und kaum Sachschäden.",
+      "translated_text": "Fortunately, there were no casualties and little property damage."
+    },
+    {
+      "text": "Die rumänischen Behörden haben den Vorfall sofort untersucht.",
+      "translated_text": "The Romanian authorities investigated the incident immediately."
+    },
+    {
+      "text": "Der Vorfall hat große Besorgnisse ausgelöst.",
+      "translated_text": "The incident has triggered great concern."
+    },
+    {
+      "text": "Rumänien ist ein NATO-Mitgliedstaat.",
+      "translated_text": "Romania is a NATO member state."
+    },
+    {
+      "text": "Viele Menschen fragen sich, ob der Ukraine-Krieg auf NATO-Gebiet übergreift.",
+      "translated_text": "Many people are asking whether the Ukraine war is spilling over into NATO territory."
+    },
+    {
+      "text": "Es war bereits der dritte solche Sicherheitsvorfall in Rumänien in den letzten Wochen.",
+      "translated_text": "It was already the third such security incident in Romania in recent weeks."
+    },
+    {
+      "text": "Ein Kameramann eines rumänischen Fernsehsenders filmte gerade live, als die Explosion in der Nähe stattfand.",
+      "translated_text": "A cameraman from a Romanian TV station was filming live when the explosion occurred nearby."
+    },
+    {
+      "text": "Das Video verbreitete sich schnell im Internet und sorgte für internationale Aufmerksamkeit.",
+      "translated_text": "The video spread quickly on the internet and attracted international attention."
+    },
+    {
+      "text": "Die NATO beobachtet die Situation am Schwarzen Meer sehr genau.",
+      "translated_text": "NATO is watching the situation on the Black Sea very closely."
+    },
+    {
+      "text": "Ein Sprecher der Allianz betonte, dass die Sicherheit der Mitgliedstaaten an erster Stelle steht.",
+      "translated_text": "A spokesperson for the alliance emphasised that the security of member states comes first."
+    },
+    {
+      "text": "Die Situation zeigt, wie gefährlich der Krieg in der Ukraine für die gesamte Region ist.",
+      "translated_text": "The situation shows how dangerous the war in Ukraine is for the entire region."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Drohne",
+      "translated_term": "the drone",
+      "example_usage": "Eine ukrainische Seedrohne ist im Hafen von Konstanza am Schwarzen Meer explodiert."
+    },
+    {
+      "term": "der Vorfall",
+      "translated_term": "the incident",
+      "example_usage": "Am 5. Juni 2026 hat sich ein beunruhigender Vorfall in Rumänien ereignet."
+    },
+    {
+      "term": "die elektronische Kriegsführung",
+      "translated_term": "electronic warfare",
+      "example_usage": "Die Drohne durch russische elektronische Kriegsführung vom Kurs abgebracht wurde."
+    },
+    {
+      "term": "evakuieren",
+      "translated_term": "to evacuate",
+      "example_usage": "Nach der Explosion wurde der Hafen evakuiert."
+    },
+    {
+      "term": "übergreifen",
+      "translated_term": "to spill over / to spread",
+      "example_usage": "Viele Menschen fragen sich, ob der Ukraine-Krieg auf NATO-Gebiet übergreift."
+    },
+    {
+      "term": "betonen",
+      "translated_term": "to emphasise",
+      "example_usage": "Ein Sprecher der Allianz betonte, dass die Sicherheit der Mitgliedstaaten an erster Stelle steht."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "NATO",
+      "translated_name": "NATO"
+    },
+    {
+      "name": "Sicherheit",
+      "translated_name": "Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Drone explosion in Romanian port spurs Ukraine war spillover fears",
+      "link_url": "https://www.aljazeera.com/news/2026/6/5/drone-explosion-in-romanian-port-spurs-ukraine-war-spillover-fears"
+    },
+    {
+      "name": "ABC News: A maritime drone explodes at a Romanian Black Sea port, no one hurt",
+      "link_url": "https://abcnews.com/amp/International/wireStory/maritime-drone-explodes-romanian-black-sea-port-hurt-133610854"
+    },
+    {
+      "name": "PBS NewsHour: No one hurt in maritime drone explosion at a Romanian Black Sea port",
+      "link_url": "https://www.pbs.org/newshour/world/no-one-hurt-in-maritime-drone-explosion-at-a-romanian-black-sea-port"
+    }
+  ]
+}
