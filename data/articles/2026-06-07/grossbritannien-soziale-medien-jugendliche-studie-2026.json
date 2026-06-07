@@ -1,0 +1,138 @@
+{
+  "title": "Großbritannien testet Einschränkungen bei sozialen Medien für Teenager",
+  "translated_title": "Great Britain Tests Restrictions on Social Media for Teenagers",
+  "text": [
+    {
+      "text": "In Großbritannien startet eine Studie über soziale Medien und Jugendliche.",
+      "translated_text": "In Great Britain, a study on social media and young people is starting."
+    },
+    {
+      "text": "Die Regierung will wissen, ob Einschränkungen bei sozialen Medien Teenagern helfen.",
+      "translated_text": "The government wants to know whether restrictions on social media help teenagers."
+    },
+    {
+      "text": "Das Ministerium für Wissenschaft, Innovation und Technologie führt das Pilotprojekt durch.",
+      "translated_text": "The Department for Science, Innovation and Technology is conducting the pilot project."
+    },
+    {
+      "text": "An dem Projekt nehmen 300 Jugendliche aus ganz Großbritannien teil.",
+      "translated_text": "300 young people from across Great Britain are participating in the project."
+    },
+    {
+      "text": "Die Familien werden in vier Gruppen aufgeteilt.",
+      "translated_text": "The families are divided into four groups."
+    },
+    {
+      "text": "In der ersten Gruppe deaktivieren Eltern alle sozialen Medien zu Hause.",
+      "translated_text": "In the first group, parents deactivate all social media at home."
+    },
+    {
+      "text": "In der zweiten Gruppe dürfen Teenager soziale Medien nur eine Stunde pro Tag nutzen.",
+      "translated_text": "In the second group, teenagers are only allowed to use social media for one hour a day."
+    },
+    {
+      "text": "In der dritten Gruppe sind soziale Medien zwischen 21 und 7 Uhr gesperrt.",
+      "translated_text": "In the third group, social media is blocked between 9pm and 7am."
+    },
+    {
+      "text": "Die vierte Gruppe ist die Kontrollgruppe und ändert nichts.",
+      "translated_text": "The fourth group is the control group and changes nothing."
+    },
+    {
+      "text": "Das Projekt dauert sechs Wochen.",
+      "translated_text": "The project lasts six weeks."
+    },
+    {
+      "text": "Forscher befragen die Familien am Anfang und am Ende des Projekts.",
+      "translated_text": "Researchers interview the families at the beginning and end of the project."
+    },
+    {
+      "text": "Sie untersuchen, ob sich Schlaf, Schulleistungen und soziale Beziehungen verbessern.",
+      "translated_text": "They examine whether sleep, school performance and social relationships improve."
+    },
+    {
+      "text": "Gleichzeitig gibt es eine größere Studie mit rund 4.000 Schülern in Bradford.",
+      "translated_text": "At the same time, there is a larger study with around 4,000 pupils in Bradford."
+    },
+    {
+      "text": "Diese Studie wird von der Wellcome-Stiftung finanziert.",
+      "translated_text": "This study is funded by the Wellcome Trust."
+    },
+    {
+      "text": "Sie untersucht Faktoren wie Angstzustände, Schlafqualität und Mobbing.",
+      "translated_text": "It examines factors such as anxiety, sleep quality and bullying."
+    },
+    {
+      "text": "Das britische Parlament hatte ein vollständiges Verbot sozialer Medien für Unter-16-Jährige abgelehnt.",
+      "translated_text": "The British Parliament had rejected a complete ban on social media for under-16s."
+    },
+    {
+      "text": "Stattdessen wird nun getestet, welche Einschränkungen am wirksamsten sind.",
+      "translated_text": "Instead, it is now being tested which restrictions are most effective."
+    },
+    {
+      "text": "Die Ergebnisse sollen der Regierung helfen, neue Gesetze zum Schutz von Jugendlichen zu entwickeln.",
+      "translated_text": "The results are intended to help the government develop new laws to protect young people."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Einschränkung",
+      "translated_term": "the restriction",
+      "example_usage": "Die Regierung will wissen, ob Einschränkungen bei sozialen Medien Teenagern helfen."
+    },
+    {
+      "term": "das Pilotprojekt",
+      "translated_term": "the pilot project",
+      "example_usage": "Das Ministerium für Wissenschaft, Innovation und Technologie führt das Pilotprojekt durch."
+    },
+    {
+      "term": "die Kontrollgruppe",
+      "translated_term": "the control group",
+      "example_usage": "Die vierte Gruppe ist die Kontrollgruppe und ändert nichts."
+    },
+    {
+      "term": "der Angstzustand",
+      "translated_term": "anxiety / anxious state",
+      "example_usage": "Sie untersucht Faktoren wie Angstzustände, Schlafqualität und Mobbing."
+    },
+    {
+      "term": "das Verbot",
+      "translated_term": "the ban / prohibition",
+      "example_usage": "Das britische Parlament hatte ein vollständiges Verbot sozialer Medien für Unter-16-Jährige abgelehnt."
+    },
+    {
+      "term": "wirksam",
+      "translated_term": "effective",
+      "example_usage": "Stattdessen wird nun getestet, welche Einschränkungen am wirksamsten sind."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Soziale Medien",
+      "translated_name": "Social Media"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNBC: UK government to trial social media ban for hundreds of teens",
+      "link_url": "https://www.cnbc.com/2026/03/25/uk-trial-social-media-ban-teenagers-online-safety-push.html"
+    },
+    {
+      "name": "British Brief: UK Government Launches Social Media Ban Trial for Hundreds of Teenagers",
+      "link_url": "https://britbrief.co.uk/tech/regulation/uk-trial-bans-hundreds-of-teens-from-social-media.html"
+    },
+    {
+      "name": "The Register: UK's teen social media ban gets first reality check",
+      "link_url": "https://www.theregister.com/2026/03/26/uk_social_media_ban_trial/"
+    }
+  ]
+}
