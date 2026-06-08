@@ -1,0 +1,114 @@
+{
+  "title": "Starkes Erdbeben erschüttert die Philippinen – Tsunami-Warnung ausgegeben",
+  "translated_title": "Powerful Earthquake Strikes the Philippines – Tsunami Warning Issued",
+  "text": [
+    {
+      "text": "Am Montag, dem 8. Juni 2026, erschütterte ein starkes Erdbeben der Stärke 7,8 den Süden der Philippinen.",
+      "translated_text": "On Monday, 8 June 2026, a powerful earthquake of magnitude 7.8 struck the south of the Philippines."
+    },
+    {
+      "text": "Das Epizentrum lag vor der Küste der Provinz Sarangani auf der Insel Mindanao.",
+      "translated_text": "The epicentre was located off the coast of Sarangani province on the island of Mindanao."
+    },
+    {
+      "text": "Das Beben ereignete sich um kurz vor 7:40 Uhr Ortszeit und wurde von mehr als einer Stunde lang anhaltenden Nachbeben begleitet.",
+      "translated_text": "The quake struck shortly before 7:40 am local time and was followed by more than an hour of aftershocks."
+    },
+    {
+      "text": "Mindestens 19 Menschen kamen ums Leben und mehr als 200 wurden verletzt.",
+      "translated_text": "At least 19 people lost their lives and more than 200 were injured."
+    },
+    {
+      "text": "Die Stadt General Santos, in der rund 722.000 Menschen leben, war am stärksten betroffen.",
+      "translated_text": "The city of General Santos, home to around 722,000 people, was the most severely affected."
+    },
+    {
+      "text": "Gebäude stürzten ein, darunter ein Jollibee-Restaurant und das St.-Elizabeth-Krankenhaus, das evakuiert werden musste.",
+      "translated_text": "Buildings collapsed, including a Jollibee restaurant and St Elizabeth Hospital, which had to be evacuated."
+    },
+    {
+      "text": "Die philippinische Behörde für Vulkanologie und Seismologie warnte vor Tsunamiwellen von mehr als einem Meter über dem normalen Wasserstand.",
+      "translated_text": "The Philippine Institute of Volcanology and Seismology warned of tsunami waves of more than one metre above normal tide levels."
+    },
+    {
+      "text": "Tsunami-Warnungen wurden auch für Japan, Indonesien und Malaysia ausgegeben.",
+      "translated_text": "Tsunami warnings were also issued for Japan, Indonesia and Malaysia."
+    },
+    {
+      "text": "Die meisten Warnungen wurden nach kurzer Zeit wieder aufgehoben, als nur kleine Wellen beobachtet wurden.",
+      "translated_text": "Most warnings were lifted shortly after as only small waves were observed."
+    },
+    {
+      "text": "Präsident Ferdinand Marcos Jr. ordnete die Schließung von Schulen in den betroffenen Gebieten an.",
+      "translated_text": "President Ferdinand Marcos Jr. ordered the closure of schools in the affected areas."
+    },
+    {
+      "text": "Für rund 3,2 Millionen Schülerinnen und Schüler wäre dieser Montag der erste Schultag des neuen Jahres gewesen.",
+      "translated_text": "For around 3.2 million pupils, this Monday would have been the first day of school of the new year."
+    },
+    {
+      "text": "Die Behörden riefen Katastrophennotstand aus und schickten Einsatzkräfte in die betroffenen Regionen.",
+      "translated_text": "The authorities declared a state of disaster emergency and dispatched emergency services to the affected regions."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Erdbeben",
+      "translated_term": "the earthquake",
+      "example_usage": "Ein starkes Erdbeben der Stärke 7,8 erschütterte den Süden der Philippinen."
+    },
+    {
+      "term": "das Epizentrum",
+      "translated_term": "the epicentre",
+      "example_usage": "Das Epizentrum lag vor der Küste der Provinz Sarangani."
+    },
+    {
+      "term": "das Nachbeben",
+      "translated_term": "the aftershock",
+      "example_usage": "Das Beben wurde von mehr als einer Stunde lang anhaltenden Nachbeben begleitet."
+    },
+    {
+      "term": "die Tsunami-Warnung",
+      "translated_term": "the tsunami warning",
+      "example_usage": "Tsunami-Warnungen wurden auch für Japan, Indonesien und Malaysia ausgegeben."
+    },
+    {
+      "term": "evakuieren",
+      "translated_term": "to evacuate",
+      "example_usage": "Das St.-Elizabeth-Krankenhaus musste evakuiert werden."
+    },
+    {
+      "term": "der Katastrophennotstand",
+      "translated_term": "the state of disaster emergency",
+      "example_usage": "Die Behörden riefen Katastrophennotstand aus."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    },
+    {
+      "name": "Philippinen",
+      "translated_name": "Philippines"
+    },
+    {
+      "name": "Asien",
+      "translated_name": "Asia"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Powerful earthquake hits Philippines, killing at least 15",
+      "link_url": "https://www.aljazeera.com/news/2026/6/8/tsunami-warnings-issued-after-8-2-magnitude-earthquake-off-philippines"
+    },
+    {
+      "name": "NPR: A 7.8 magnitude quake in the Philippines kills at least 19",
+      "link_url": "https://www.npr.org/2026/06/07/g-s1-126830/7-8-magnitude-quake-hits-southern-philippines-tsunami-risk-for-some-coasts"
+    },
+    {
+      "name": "GMA News: LIVE UPDATES – Magnitude 7.8 earthquake, tsunami warning in Mindanao",
+      "link_url": "https://www.gmanetwork.com/news/topstories/regions/990585/live-updates-magnitude-7-8-earthquake-tsunami-warning-in-mindanao-june-8-2026/story/"
+    }
+  ]
+}

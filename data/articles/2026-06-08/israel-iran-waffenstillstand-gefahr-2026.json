@@ -1,0 +1,113 @@
+{
+  "title": "Israel und Iran tauschen Angriffe aus – Waffenstillstand in Gefahr",
+  "translated_title": "Israel and Iran Exchange Strikes – Ceasefire in Danger",
+  "text": [
+    {
+      "text": "Am Montag, dem 8. Juni 2026, griffen Israel und Iran gegenseitig militärische Ziele an.",
+      "translated_text": "On Monday, 8 June 2026, Israel and Iran struck each other's military targets."
+    },
+    {
+      "text": "Damit wurde der Waffenstillstand gebrochen, der am 7. April 2026 in Kraft getreten war.",
+      "translated_text": "This broke the ceasefire that had come into force on 7 April 2026."
+    },
+    {
+      "text": "Iran feuerte zunächst Raketen in Richtung Israel ab.",
+      "translated_text": "Iran first fired missiles towards Israel."
+    },
+    {
+      "text": "Die israelische Luftwaffe konnte die meisten Raketen abfangen.",
+      "translated_text": "The Israeli air force was able to intercept most of the missiles."
+    },
+    {
+      "text": "Danach griff Israel militärische Einrichtungen in West- und Zentraliran an.",
+      "translated_text": "Israel then struck military installations in western and central Iran."
+    },
+    {
+      "text": "Explosionen wurden in Isfahan, Kermanshah, Täbris und in der Hauptstadt Teheran gemeldet.",
+      "translated_text": "Explosions were reported in Isfahan, Kermanshah, Tabriz and in the capital Tehran."
+    },
+    {
+      "text": "US-Präsident Donald Trump zeigte sich besorgt und sagte, die iranischen Raketenangriffe würden die laufenden Verhandlungen sicherlich nicht helfen.",
+      "translated_text": "US President Donald Trump expressed concern and said the Iranian missile attacks would certainly not help the ongoing negotiations."
+    },
+    {
+      "text": "Die Huthi-Rebellen aus dem Jemen schossen ebenfalls Raketen auf Israel ab und drohten, israelische Schiffe im Roten Meer anzugreifen.",
+      "translated_text": "The Houthi rebels from Yemen also fired rockets at Israel and threatened to attack Israeli-linked ships in the Red Sea."
+    },
+    {
+      "text": "Eine Rakete soll in der Nähe eines US-Militärstützpunkts in Saudi-Arabien eingeschlagen sein.",
+      "translated_text": "A missile reportedly struck near a US military base in Saudi Arabia."
+    },
+    {
+      "text": "Diplomaten aus mehreren Ländern versuchten, den Waffenstillstand zu retten.",
+      "translated_text": "Diplomats from several countries tried to salvage the ceasefire."
+    },
+    {
+      "text": "Die Straße von Hormus bleibt ein wichtiges Thema, da Iran neue Bedingungen für die Durchfahrt von Schiffen gestellt hat.",
+      "translated_text": "The Strait of Hormuz remains an important issue, as Iran has set new conditions for the passage of ships."
+    },
+    {
+      "text": "Die Situation gilt als die gefährlichste Eskalation seit dem Waffenstillstand im April.",
+      "translated_text": "The situation is considered the most dangerous escalation since the April ceasefire."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Damit wurde der Waffenstillstand gebrochen, der am 7. April in Kraft getreten war."
+    },
+    {
+      "term": "abfangen",
+      "translated_term": "to intercept",
+      "example_usage": "Die israelische Luftwaffe konnte die meisten Raketen abfangen."
+    },
+    {
+      "term": "die Eskalation",
+      "translated_term": "the escalation",
+      "example_usage": "Die Situation gilt als die gefährlichste Eskalation seit dem Waffenstillstand im April."
+    },
+    {
+      "term": "die Einrichtung",
+      "translated_term": "the installation / facility",
+      "example_usage": "Israel griff militärische Einrichtungen in West- und Zentraliran an."
+    },
+    {
+      "term": "die Verhandlungen",
+      "translated_term": "the negotiations",
+      "example_usage": "Die iranischen Raketenangriffe würden die laufenden Verhandlungen sicherlich nicht helfen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran-Krieg",
+      "translated_name": "Iran War"
+    },
+    {
+      "name": "Israel",
+      "translated_name": "Israel"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Waffenstillstand",
+      "translated_name": "Ceasefire"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg: Israel Strikes Iran After a Missile Attack, Imperiling Ceasefire",
+      "link_url": "https://www.bloomberg.com/news/newsletters/2026-06-08/israel-strikes-iran-after-a-missile-attack-imperiling-ceasefire"
+    },
+    {
+      "name": "NPR: Israel and Iran trade strikes, threatening to drag region back to full-scale war",
+      "link_url": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates"
+    },
+    {
+      "name": "The Washington Post: The Latest – Israel and Iran exchange fire as hostilities escalate",
+      "link_url": "https://www.washingtonpost.com/business/2026/06/07/iran-israel-strikes-missiles-trump-netanyahu-8-june-2026/8dc77cb4-62e7-11f1-bdd4-805ebb99a693_story.html"
+    }
+  ]
+}
