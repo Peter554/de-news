@@ -1,0 +1,110 @@
+{
+  "title": "Berliner Wohnungsanbieter Homepoint meldet Insolvenz an",
+  "translated_title": "Berlin Housing Provider Homepoint Files for Insolvency",
+  "text": [
+    {
+      "text": "Der Berliner Wohnungsanbieter Homepoint Living GmbH ist zahlungsunfähig.",
+      "translated_text": "The Berlin housing provider Homepoint Living GmbH is insolvent."
+    },
+    {
+      "text": "Das Amtsgericht Berlin-Charlottenburg ordnete Anfang Juni 2026 eine vorläufige Insolvenzverwaltung an.",
+      "translated_text": "The Berlin-Charlottenburg district court ordered provisional insolvency administration in early June 2026."
+    },
+    {
+      "text": "Der Berliner Rechtsanwalt Thorsten Petersen wurde als vorläufiger Insolvenzverwalter eingesetzt.",
+      "translated_text": "Berlin lawyer Thorsten Petersen was appointed as provisional insolvency administrator."
+    },
+    {
+      "text": "Homepoint spezialisierte sich auf möblierte und temporäre Mietwohnungen in Berlin.",
+      "translated_text": "Homepoint specialised in furnished and temporary rental apartments in Berlin."
+    },
+    {
+      "text": "Ihre Hauptkunden waren Pendler, Studierende und Berufstätige, die nur für kurze Zeit in Berlin wohnten.",
+      "translated_text": "Their main customers were commuters, students and professionals who only lived in Berlin for a short time."
+    },
+    {
+      "text": "Seit April 2026 gelten in vielen innerstädtischen Milieuschutzgebieten neue Regeln für möbliertes Wohnen.",
+      "translated_text": "Since April 2026, new rules for furnished housing have applied in many inner-city neighbourhood protection areas."
+    },
+    {
+      "text": "Vermieter brauchen jetzt eine Genehmigung, wenn sie möblierte oder temporäre Wohnungen anbieten wollen.",
+      "translated_text": "Landlords now need a permit if they want to offer furnished or temporary apartments."
+    },
+    {
+      "text": "Das Ziel dieser Regelung ist es, mehr Wohnraum auf den regulären Mietmarkt zurückzubringen.",
+      "translated_text": "The aim of this regulation is to return more housing to the regular rental market."
+    },
+    {
+      "text": "Kritiker sagen, der Berliner Senat trägt Mitverantwortung für die Insolvenz des Unternehmens.",
+      "translated_text": "Critics say the Berlin Senate bears shared responsibility for the company's insolvency."
+    },
+    {
+      "text": "Die neuen Regeln haben das Geschäftsmodell von Homepoint unmöglich gemacht.",
+      "translated_text": "The new rules have made Homepoint's business model impossible."
+    },
+    {
+      "text": "Bestehende Mietverträge bleiben trotz der Insolvenz gültig.",
+      "translated_text": "Existing tenancy agreements remain valid despite the insolvency."
+    },
+    {
+      "text": "Mieterinnen und Mieter müssen sich aber auf Probleme bei der Verwaltung und mögliche Unsicherheiten einstellen.",
+      "translated_text": "However, tenants must prepare for problems with management and possible uncertainties."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Insolvenz",
+      "translated_term": "the insolvency",
+      "example_usage": "Der Berliner Wohnungsanbieter Homepoint Living GmbH ist zahlungsunfähig und hat Insolvenz angemeldet."
+    },
+    {
+      "term": "der Insolvenzverwalter",
+      "translated_term": "the insolvency administrator",
+      "example_usage": "Der Berliner Rechtsanwalt Thorsten Petersen wurde als vorläufiger Insolvenzverwalter eingesetzt."
+    },
+    {
+      "term": "das Milieuschutzgebiet",
+      "translated_term": "the neighbourhood protection area",
+      "example_usage": "Seit April 2026 gelten in vielen innerstädtischen Milieuschutzgebieten neue Regeln für möbliertes Wohnen."
+    },
+    {
+      "term": "die Genehmigung",
+      "translated_term": "the permit / approval",
+      "example_usage": "Vermieter brauchen jetzt eine Genehmigung, wenn sie möblierte Wohnungen anbieten wollen."
+    },
+    {
+      "term": "zahlungsunfähig",
+      "translated_term": "insolvent / unable to pay",
+      "example_usage": "Der Berliner Wohnungsanbieter Homepoint Living GmbH ist zahlungsunfähig."
+    },
+    {
+      "term": "der Mietvertrag",
+      "translated_term": "the tenancy agreement",
+      "example_usage": "Bestehende Mietverträge bleiben trotz der Insolvenz gültig."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Wohnungskrise",
+      "translated_name": "Housing Crisis"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berliner Kurier: Berliner Wohnungsanbieter ist pleite – und meldet Insolvenz an",
+      "link_url": "https://www.berliner-kurier.de/berlin/wohnungsanbieter-berlin-insolvenz-li.10060819"
+    },
+    {
+      "name": "Berliner Zeitung: Berliner Wohnungsanbieter Homepoint ist pleite – und Senat trägt Mitverantwortung",
+      "link_url": "https://www.berliner-zeitung.de/article/berliner-wohnungsanbieter-homepoint-ist-pleite-und-senat-traegt-mitverantwortung-10063662"
+    }
+  ]
+}
