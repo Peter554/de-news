@@ -1,0 +1,118 @@
+{
+  "title": "NATO-Jet schießt russische Drohne über Lettland ab",
+  "translated_title": "NATO Jet Shoots Down Russian Drone Over Latvia",
+  "text": [
+    {
+      "text": "Am 8. Juni 2026 ist eine Drohne in den Luftraum des NATO-Mitgliedstaats Lettland eingedrungen.",
+      "translated_text": "On 8 June 2026, a drone entered the airspace of NATO member state Latvia."
+    },
+    {
+      "text": "Ein französischer Kampfjet hat die Drohne dann abgeschossen.",
+      "translated_text": "A French fighter jet then shot down the drone."
+    },
+    {
+      "text": "Die lettische Armee bestätigte, dass die Drohne nahe dem Dorf Berzgale, etwa 30 Kilometer von der russischen Grenze entfernt, zerstört wurde.",
+      "translated_text": "The Latvian army confirmed that the drone was destroyed near the village of Berzgale, about 30 kilometres from the Russian border."
+    },
+    {
+      "text": "Die Drohne war „als Folge russischer elektronischer Kriegsführung“ in den lettischen Luftraum geflogen.",
+      "translated_text": "The drone had flown into Latvian airspace “as a result of Russian electronic warfare.”"
+    },
+    {
+      "text": "Der französische Jet gehört zur NATO-Baltischen Luftpolizeimission und ist auf dem Flughafen Šiauliai in Litauen stationiert.",
+      "translated_text": "The French jet belongs to the NATO Baltic Air Police mission and is stationed at Šiauliai airfield in Lithuania."
+    },
+    {
+      "text": "Es gab keine Verletzten und keine Schäden an Gebäuden oder Fahrzeugen.",
+      "translated_text": "There were no injuries and no damage to buildings or vehicles."
+    },
+    {
+      "text": "Dieser Vorfall ist nicht der erste dieser Art.",
+      "translated_text": "This incident is not the first of its kind."
+    },
+    {
+      "text": "In den letzten Monaten gab es mehrere Fälle, in denen Drohnen aus dem Konfliktgebiet in der Ukraine in das Gebiet von NATO-Mitgliedsstaaten geflogen sind.",
+      "translated_text": "In recent months there have been several cases of drones from the conflict zone in Ukraine flying into the territory of NATO member states."
+    },
+    {
+      "text": "Politiker und Experten sind besorgt, dass der Ukraine-Krieg sich auf andere Länder ausweitet.",
+      "translated_text": "Politicians and experts are concerned that the Ukraine war is spreading to other countries."
+    },
+    {
+      "text": "Russland hat bisher keine Erklärung zu dem Vorfall abgegeben.",
+      "translated_text": "Russia has not yet issued a statement about the incident."
+    },
+    {
+      "text": "Die lettische Außenministerin sprach von einem ernsten Sicherheitsvorfall.",
+      "translated_text": "Latvia's Foreign Minister described it as a serious security incident."
+    },
+    {
+      "text": "Die NATO betonte, dass sie bereit ist, das Bündnisgebiet zu verteidigen.",
+      "translated_text": "NATO emphasised that it is ready to defend alliance territory."
+    },
+    {
+      "text": "Der Vorfall zeigt, dass der Krieg in der Ukraine Folgen für ganz Europa hat.",
+      "translated_text": "The incident shows that the war in Ukraine has consequences for all of Europe."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "abschießen",
+      "translated_term": "to shoot down",
+      "example_usage": "Ein französischer Kampfjet hat die Drohne abgeschossen."
+    },
+    {
+      "term": "die elektronische Kriegsführung",
+      "translated_term": "the electronic warfare",
+      "example_usage": "Die Drohne war als Folge russischer elektronischer Kriegsführung in den lettischen Luftraum geflogen."
+    },
+    {
+      "term": "der Luftraum",
+      "translated_term": "the airspace",
+      "example_usage": "Eine Drohne ist in den Luftraum des NATO-Mitgliedstaats Lettland eingedrungen."
+    },
+    {
+      "term": "das Bündnis",
+      "translated_term": "the alliance",
+      "example_usage": "Die NATO betonte, dass sie bereit ist, das Bündnisgebiet zu verteidigen."
+    },
+    {
+      "term": "stationieren",
+      "translated_term": "to station / to be based",
+      "example_usage": "Der französische Jet ist auf dem Flughafen Šiauliai in Litauen stationiert."
+    },
+    {
+      "term": "sich ausweiten",
+      "translated_term": "to spread / to expand",
+      "example_usage": "Politiker sind besorgt, dass der Ukraine-Krieg sich auf andere Länder ausweitet."
+    }
+  ],
+  "tags": [
+    {
+      "name": "NATO",
+      "translated_name": "NATO"
+    },
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    },
+    {
+      "name": "Nationale Sicherheit",
+      "translated_name": "National Security"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews: Drone from Russia shot down in eastern Latvia",
+      "link_url": "https://www.euronews.com/my-europe/2026/06/08/drone-from-russia-shot-down-in-eastern-latvia-military-spokesperson-says"
+    },
+    {
+      "name": "Al Jazeera: NATO jets shoot down drone over Latvia, extending Ukraine spillover fears",
+      "link_url": "https://www.aljazeera.com/news/2026/6/8/nato-jets-shoot-down-drone-over-latvia-extending-ukraine-spillover-fears"
+    },
+    {
+      "name": "The Washington Post: NATO shoots down drone over Latvia as concern about Ukraine war's spread grows",
+      "link_url": "https://www.washingtonpost.com/world/2026/06/08/nato-shoots-down-drone-over-latvia-concern-about-ukraine-wars-spread-grows"
+    }
+  ]
+}
