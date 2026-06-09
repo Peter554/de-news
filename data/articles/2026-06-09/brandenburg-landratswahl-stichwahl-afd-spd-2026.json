@@ -1,0 +1,118 @@
+{
+  "title": "Brandenburg: SPD und AfD in Landratswahl-Stichwahl",
+  "translated_title": "Brandenburg: SPD and AfD Head to District Election Runoff",
+  "text": [
+    {
+      "text": "Im Landkreis Ostprignitz-Ruppin in Brandenburg gab es am 8. Juni 2026 eine Landratswahl.",
+      "translated_text": "In the district of Ostprignitz-Ruppin in Brandenburg, a district administrator election took place on 8 June 2026."
+    },
+    {
+      "text": "Da kein Kandidat die absolute Mehrheit erreicht hat, gibt es am 28. Juni eine Stichwahl.",
+      "translated_text": "Since no candidate achieved an absolute majority, there will be a runoff election on 28 June."
+    },
+    {
+      "text": "In die Stichwahl gehen der SPD-Amtsinhaber Ralf Reinhardt und der AfD-Kandidat Torsten Arndt.",
+      "translated_text": "The SPD incumbent Ralf Reinhardt and AfD candidate Torsten Arndt are proceeding to the runoff."
+    },
+    {
+      "text": "Im ersten Wahlgang erhielt Reinhardt 34,7 Prozent der Stimmen, während Arndt 30,3 Prozent bekam.",
+      "translated_text": "In the first round, Reinhardt received 34.7 percent of the votes, while Arndt received 30.3 percent."
+    },
+    {
+      "text": "Ralf Reinhardt ist seit 16 Jahren Landrat des Kreises und strebt eine dritte Amtszeit an.",
+      "translated_text": "Ralf Reinhardt has been district administrator for 16 years and is seeking a third term in office."
+    },
+    {
+      "text": "Die Grünen unterstützen Reinhardt in der Stichwahl.",
+      "translated_text": "The Greens are supporting Reinhardt in the runoff."
+    },
+    {
+      "text": "Torsten Arndt ist seit 2024 Mitglied des Brandenburger Landtags mit einem Direktmandat für die AfD.",
+      "translated_text": "Torsten Arndt has been a member of the Brandenburg state parliament since 2024 with a direct mandate for the AfD."
+    },
+    {
+      "text": "Wenn Arndt die Stichwahl gewinnt, wäre er der erste AfD-Landrat in Brandenburg.",
+      "translated_text": "If Arndt wins the runoff, he would be the first AfD district administrator in Brandenburg."
+    },
+    {
+      "text": "Das wäre ein wichtiger Schritt für die AfD in dem Bundesland.",
+      "translated_text": "This would be an important step for the AfD in the federal state."
+    },
+    {
+      "text": "In anderen Teilen von Brandenburg hat die AfD bei Wahlen stark zugelegt.",
+      "translated_text": "In other parts of Brandenburg, the AfD has made strong gains in elections."
+    },
+    {
+      "text": "Viele Menschen in der Region sind besorgt über den Aufstieg der rechtsextremen Partei.",
+      "translated_text": "Many people in the region are concerned about the rise of the far-right party."
+    },
+    {
+      "text": "Demokratisch gesinnte Bürger rufen dazu auf, bei der Stichwahl wählen zu gehen.",
+      "translated_text": "Democratically minded citizens are calling for people to vote in the runoff election."
+    },
+    {
+      "text": "Das Ergebnis der Stichwahl wird als ein wichtiger Test für die politische Stimmung in Brandenburg gesehen.",
+      "translated_text": "The result of the runoff is seen as an important test of the political mood in Brandenburg."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Landratswahl",
+      "translated_term": "the district administrator election",
+      "example_usage": "Im Landkreis Ostprignitz-Ruppin gab es am 8. Juni 2026 eine Landratswahl."
+    },
+    {
+      "term": "die Stichwahl",
+      "translated_term": "the runoff election",
+      "example_usage": "Da kein Kandidat die absolute Mehrheit erreicht hat, gibt es am 28. Juni eine Stichwahl."
+    },
+    {
+      "term": "der Amtsinhaber",
+      "translated_term": "the incumbent (office holder)",
+      "example_usage": "In die Stichwahl gehen der SPD-Amtsinhaber Ralf Reinhardt und der AfD-Kandidat Torsten Arndt."
+    },
+    {
+      "term": "die Amtszeit",
+      "translated_term": "the term of office",
+      "example_usage": "Reinhardt strebt eine dritte Amtszeit an."
+    },
+    {
+      "term": "das Direktmandat",
+      "translated_term": "the direct mandate (constituency seat)",
+      "example_usage": "Torsten Arndt ist seit 2024 Mitglied des Brandenburger Landtags mit einem Direktmandat für die AfD."
+    },
+    {
+      "term": "zunehmen / zulegen",
+      "translated_term": "to increase / to gain ground",
+      "example_usage": "In anderen Teilen von Brandenburg hat die AfD bei Wahlen stark zugelegt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Landtagswahl",
+      "translated_name": "State Election"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berliner Zeitung: Landratswahl in Brandenburg – AfD-Kandidat und SPD-Amtsinhaber gehen in Stichwahl",
+      "link_url": "https://www.berliner-zeitung.de/article/landratswahl-in-brandenburg-afd-kandidat-und-spd-amtsinhaber-gehen-in-stichwahl-10071012"
+    },
+    {
+      "name": "Tagesspiegel: Landratswahl in Ostprignitz-Ruppin: Amtsinhaber der SPD und AfD-Bewerber gehen in die Stichwahl",
+      "link_url": "https://www.tagesspiegel.de/potsdam/brandenburg/landratswahl-in-ostprignitz-ruppin-amtsinhaber-der-spd-und-afd-bewerber-gehen-in-die-stichwahl-15688895.html"
+    },
+    {
+      "name": "Belltower.News: Landratswahlen 2026: Brandenburg vor dem demokratischen Stresstest",
+      "link_url": "https://www.belltower.news/landratswahlen-2026-brandenburg-vor-dem-demokratischen-stresstest-164077/"
+    }
+  ]
+}
