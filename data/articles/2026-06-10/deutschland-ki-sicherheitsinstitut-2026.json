@@ -1,0 +1,122 @@
+{
+  "title": "Deutschland gründet nationales Institut für KI-Sicherheit",
+  "translated_title": "Germany Establishes National Institute for AI Safety",
+  "text": [
+    {
+      "text": "Die deutsche Bundesregierung hat die Gründung eines neuen nationalen Instituts für Künstliche-Intelligenz-Sicherheit angekündigt.",
+      "translated_text": "The German federal government has announced the establishment of a new national institute for artificial intelligence safety."
+    },
+    {
+      "text": "Das Institut soll die Leistung und die Risiken von KI-Modellen analysieren und bewerten.",
+      "translated_text": "The institute is intended to analyse and assess the performance and risks of AI models."
+    },
+    {
+      "text": "Besonders wichtig ist dabei der Schutz vor Cyberangriffen, die mithilfe von Künstlicher Intelligenz durchgeführt werden.",
+      "translated_text": "Particularly important is protection against cyberattacks carried out with the help of artificial intelligence."
+    },
+    {
+      "text": "In den letzten Monaten hat die Zahl der Cyberangriffe auf deutsche Infrastruktur stark zugenommen.",
+      "translated_text": "In recent months, the number of cyberattacks on German infrastructure has increased sharply."
+    },
+    {
+      "text": "Der Nationale Sicherheitsrat hatte die Gründung des Instituts nach langen Beratungen beschlossen.",
+      "translated_text": "The National Security Council decided to establish the institute after lengthy deliberations."
+    },
+    {
+      "text": "Das neue Institut soll auch internationale Standards für sichere KI-Systeme mitentwickeln.",
+      "translated_text": "The new institute is also to help develop international standards for secure AI systems."
+    },
+    {
+      "text": "Deutschland möchte eine führende Rolle in der globalen Regulierung von Künstlicher Intelligenz spielen.",
+      "translated_text": "Germany wants to play a leading role in the global regulation of artificial intelligence."
+    },
+    {
+      "text": "Wissenschaftlerinnen, Wissenschaftler und Experten aus der Technologiebranche sollen im Institut zusammenarbeiten.",
+      "translated_text": "Scientists and experts from the technology sector are to work together in the institute."
+    },
+    {
+      "text": "Die Bundesregierung plant, in den nächsten Jahren mehrere Hundert Millionen Euro in die KI-Forschung zu investieren.",
+      "translated_text": "The federal government plans to invest several hundred million euros in AI research over the coming years."
+    },
+    {
+      "text": "Kritiker fordern, dass das Institut vollständig unabhängig von Regierung und Industrie arbeiten soll.",
+      "translated_text": "Critics are calling for the institute to work completely independently of the government and industry."
+    },
+    {
+      "text": "Nur so könne man sicherstellen, dass die Bewertungen objektiv und vertrauenswürdig sind.",
+      "translated_text": "Only in this way could one ensure that the assessments are objective and trustworthy."
+    },
+    {
+      "text": "Die Europäische Union hat bereits den KI-Act verabschiedet, um den Einsatz von KI zu regulieren.",
+      "translated_text": "The European Union has already passed the AI Act to regulate the use of AI."
+    },
+    {
+      "text": "Das neue deutsche Institut soll die Umsetzung dieser europäischen Regeln in Deutschland unterstützen.",
+      "translated_text": "The new German institute is intended to support the implementation of these European rules in Germany."
+    },
+    {
+      "text": "Viele Bürgerinnen und Bürger sind besorgt über den schnellen Fortschritt der KI-Technologie.",
+      "translated_text": "Many citizens are concerned about the rapid progress of AI technology."
+    },
+    {
+      "text": "Das Institut soll auch die Öffentlichkeit besser über Chancen und Risiken von KI informieren.",
+      "translated_text": "The institute is also intended to better inform the public about the opportunities and risks of AI."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "gründen",
+      "translated_term": "to establish / to found",
+      "example_usage": "Die Bundesregierung hat die Gründung eines neuen Instituts angekündigt."
+    },
+    {
+      "term": "die Künstliche Intelligenz",
+      "translated_term": "artificial intelligence",
+      "example_usage": "Das Institut soll die Leistung und die Risiken von KI-Modellen analysieren."
+    },
+    {
+      "term": "der Cyberangriff",
+      "translated_term": "the cyberattack",
+      "example_usage": "Die Zahl der Cyberangriffe auf deutsche Infrastruktur hat stark zugenommen."
+    },
+    {
+      "term": "die Regulierung",
+      "translated_term": "the regulation",
+      "example_usage": "Deutschland möchte eine führende Rolle in der globalen Regulierung von Künstlicher Intelligenz spielen."
+    },
+    {
+      "term": "unabhängig",
+      "translated_term": "independent",
+      "example_usage": "Kritiker fordern, dass das Institut vollständig unabhängig von Regierung und Industrie arbeiten soll."
+    },
+    {
+      "term": "die Umsetzung",
+      "translated_term": "the implementation",
+      "example_usage": "Das Institut soll die Umsetzung der europäischen Regeln in Deutschland unterstützen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Künstliche Intelligenz",
+      "translated_name": "Artificial Intelligence"
+    },
+    {
+      "name": "Deutsche Politik",
+      "translated_name": "German Politics"
+    },
+    {
+      "name": "Cybersicherheit",
+      "translated_name": "Cybersecurity"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local Germany: Today in Germany — Wednesday 10 June 2026",
+      "link_url": "https://www.thelocal.de/20260610/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-124"
+    }
+  ]
+}
