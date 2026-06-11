@@ -1,0 +1,138 @@
+{
+  "title": "Unruhen in Belfast nach Messerangriff",
+  "translated_title": "Unrest in Belfast After Knife Attack",
+  "text": [
+    {
+      "text": "In Belfast hat ein Messerangriff schwere Unruhen ausgelöst.",
+      "translated_text": "In Belfast, a knife attack has triggered serious unrest."
+    },
+    {
+      "text": "Am Montag griff ein Mann einen 40-jährigen Bürger an und verletzte ihn schwer.",
+      "translated_text": "On Monday, a man attacked a 40-year-old citizen and seriously injured him."
+    },
+    {
+      "text": "Das Opfer, Stephen Ogilvie, verlor dabei sein linkes Auge.",
+      "translated_text": "The victim, Stephen Ogilvie, lost his left eye as a result."
+    },
+    {
+      "text": "Der Täter, ein 30-jähriger Sudanese namens Hadi Alodid, wurde verhaftet und wegen versuchten Mordes angeklagt.",
+      "translated_text": "The attacker, a 30-year-old Sudanese man named Hadi Alodid, was arrested and charged with attempted murder."
+    },
+    {
+      "text": "Ein Video des Angriffs verbreitete sich schnell in den sozialen Medien.",
+      "translated_text": "A video of the attack spread quickly on social media."
+    },
+    {
+      "text": "Daraufhin brachen in Belfast gewaltsame Proteste aus.",
+      "translated_text": "Violent protests then broke out in Belfast."
+    },
+    {
+      "text": "Maskierte Demonstranten steckten Häuser und Fahrzeuge in Brand.",
+      "translated_text": "Masked protesters set fire to houses and vehicles."
+    },
+    {
+      "text": "Die Polizei setzte Wasserwerfer ein, um die Menge zu kontrollieren.",
+      "translated_text": "The police deployed water cannons to control the crowd."
+    },
+    {
+      "text": "Mindestens 16 Personen wurden festgenommen, und 12 Polizisten wurden verletzt.",
+      "translated_text": "At least 16 people were arrested, and 12 police officers were injured."
+    },
+    {
+      "text": "Die Proteste richteten sich gegen Einwanderer und wurden als antimuslimisch beschrieben.",
+      "translated_text": "The protests were directed against immigrants and were described as anti-Muslim."
+    },
+    {
+      "text": "Der amerikanische Milliardär Elon Musk spielte eine umstrittene Rolle bei der Eskalation der Gewalt.",
+      "translated_text": "American billionaire Elon Musk played a controversial role in the escalation of the violence."
+    },
+    {
+      "text": "Er veröffentlichte Beiträge in sozialen Medien, in denen er zu Protesten aufrief.",
+      "translated_text": "He published posts on social media calling for protests."
+    },
+    {
+      "text": "Musk schrieb: „Nur durch wiederholte und laute Proteste wird es Veränderungen geben.“",
+      "translated_text": "Musk wrote: “Only through repeated and loud protests will there be change.”"
+    },
+    {
+      "text": "Außerdem teilte er Bilder des Angreifers und Beiträge mit der Aussage „Millionen müssen gehen“.",
+      "translated_text": "He also shared images of the attacker and posts with the statement “millions must go.”"
+    },
+    {
+      "text": "Der britische Premierminister Keir Starmer kritisierte Musk scharf.",
+      "translated_text": "British Prime Minister Keir Starmer sharply criticised Musk."
+    },
+    {
+      "text": "Starmer warf ihm vor, sich in die britische Politik einzumischen und Unruhe zu schüren.",
+      "translated_text": "Starmer accused him of interfering in British politics and stoking unrest."
+    },
+    {
+      "text": "Die Unruhen zeigen, wie schnell Fehlinformationen in sozialen Medien zu echter Gewalt führen können.",
+      "translated_text": "The unrest shows how quickly misinformation on social media can lead to real violence."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Messerangriff",
+      "translated_term": "the knife attack",
+      "example_usage": "Ein Messerangriff hat in Belfast schwere Unruhen ausgelöst."
+    },
+    {
+      "term": "auslösen",
+      "translated_term": "to trigger / to cause",
+      "example_usage": "Der Angriff hat schwere Unruhen ausgelöst."
+    },
+    {
+      "term": "die Unruhen",
+      "translated_term": "the unrest / the riots",
+      "example_usage": "Daraufhin brachen in Belfast gewaltsame Unruhen aus."
+    },
+    {
+      "term": "der Wasserwerfer",
+      "translated_term": "the water cannon",
+      "example_usage": "Die Polizei setzte Wasserwerfer ein, um die Menge zu kontrollieren."
+    },
+    {
+      "term": "aufrufen",
+      "translated_term": "to call for / to urge",
+      "example_usage": "Musk veröffentlichte Beiträge, in denen er zu Protesten aufrief."
+    },
+    {
+      "term": "einmischen",
+      "translated_term": "to interfere / to meddle",
+      "example_usage": "Starmer warf Musk vor, sich in die britische Politik einzumischen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Kriminalität",
+      "translated_name": "Crime"
+    },
+    {
+      "name": "Einwanderungspolitik",
+      "translated_name": "Immigration Policy"
+    },
+    {
+      "name": "Proteste",
+      "translated_name": "Protests"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Time: Belfast Protests Erupt After Knife Attack",
+      "link_url": "https://time.com/article/2026/06/10/belfast-protests-erupt-knife-attack-violence-spreads-online-discourse-immigration/"
+    },
+    {
+      "name": "NBC News: Violent anti-immigrant protests flare up across Belfast after knife attack",
+      "link_url": "https://www.nbcnews.com/world/europe/anti-immigrant-protests-belfast-knife-attack-northern-ireland-rcna349329"
+    },
+    {
+      "name": "CNN: Belfast, Northern Ireland: Police fire water cannon on second night of anti-immigrant protests",
+      "link_url": "https://www.cnn.com/2026/06/09/europe/northern-ireland-knife-attack-belfast-intl"
+    }
+  ]
+}

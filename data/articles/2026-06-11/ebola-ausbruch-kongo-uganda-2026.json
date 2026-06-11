@@ -1,0 +1,138 @@
+{
+  "title": "Ebola-Ausbruch im Kongo breitet sich rasant aus",
+  "translated_title": "Ebola Outbreak in Congo Spreads Rapidly",
+  "text": [
+    {
+      "text": "Im Kongo und in Uganda gibt es einen gefährlichen Ebola-Ausbruch.",
+      "translated_text": "There is a dangerous Ebola outbreak in Congo and Uganda."
+    },
+    {
+      "text": "Der Ausbruch wurde im Mai 2026 bestätigt.",
+      "translated_text": "The outbreak was confirmed in May 2026."
+    },
+    {
+      "text": "Bis zum 8. Juni 2026 wurden im Kongo 598 bestätigte Fälle und 115 Tote gemeldet.",
+      "translated_text": "By 8 June 2026, 598 confirmed cases and 115 deaths had been reported in Congo."
+    },
+    {
+      "text": "In Uganda gab es 19 bestätigte Fälle und zwei Tote.",
+      "translated_text": "In Uganda there were 19 confirmed cases and two deaths."
+    },
+    {
+      "text": "Das Virus breitet sich ungewöhnlich schnell aus.",
+      "translated_text": "The virus is spreading at an unusually rapid pace."
+    },
+    {
+      "text": "Die Africa CDC – die Seuchenschutzbehörde der Afrikanischen Union – warnt eindringlich vor der Lage.",
+      "translated_text": "Africa CDC – the disease control agency of the African Union – is urgently warning about the situation."
+    },
+    {
+      "text": "Die Behörde sagt, der Ausbruch könnte so schlimm werden wie die Epidemie in Westafrika von 2014 bis 2016.",
+      "translated_text": "The agency says the outbreak could become as severe as the epidemic in West Africa from 2014 to 2016."
+    },
+    {
+      "text": "Damals starben über 11.000 Menschen an Ebola.",
+      "translated_text": "Back then, more than 11,000 people died from Ebola."
+    },
+    {
+      "text": "Der Erreger ist das Bundibugyo-Virus, eine von vier Arten des Ebola-Virus.",
+      "translated_text": "The pathogen is the Bundibugyo virus, one of four types of Ebola virus."
+    },
+    {
+      "text": "Gegen diesen Virustyp gibt es noch keinen Impfstoff.",
+      "translated_text": "There is no vaccine yet against this type of virus."
+    },
+    {
+      "text": "Die Behandlung beschränkt sich auf die Unterstützung der Körperfunktionen.",
+      "translated_text": "Treatment is limited to supporting the body's functions."
+    },
+    {
+      "text": "Die WHO und Africa CDC haben gemeinsam einen Notfallplan gestartet.",
+      "translated_text": "The WHO and Africa CDC have jointly launched an emergency plan."
+    },
+    {
+      "text": "Sie wollen 518 Millionen Dollar sammeln, um den Ausbruch zu bekämpfen.",
+      "translated_text": "They aim to raise 518 million dollars to combat the outbreak."
+    },
+    {
+      "text": "Die USA haben verstärkte Einreisekontrollen für Reisende aus den betroffenen Ländern eingeführt.",
+      "translated_text": "The United States has introduced enhanced entry controls for travellers from the affected countries."
+    },
+    {
+      "text": "Bisher wurden keine Fälle in den USA oder Europa festgestellt.",
+      "translated_text": "So far, no cases have been detected in the USA or Europe."
+    },
+    {
+      "text": "Experten betonen, wie wichtig eine schnelle internationale Reaktion ist.",
+      "translated_text": "Experts emphasise how important a rapid international response is."
+    },
+    {
+      "text": "Ohne entschlossenes Handeln könnte sich das Virus weiter in der Region verbreiten.",
+      "translated_text": "Without decisive action, the virus could spread further in the region."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Ausbruch",
+      "translated_term": "the outbreak",
+      "example_usage": "Im Kongo gibt es einen gefährlichen Ebola-Ausbruch."
+    },
+    {
+      "term": "sich ausbreiten",
+      "translated_term": "to spread",
+      "example_usage": "Das Virus breitet sich ungewöhnlich schnell aus."
+    },
+    {
+      "term": "bestätigt",
+      "translated_term": "confirmed",
+      "example_usage": "Bis zum 8. Juni wurden 598 bestätigte Fälle gemeldet."
+    },
+    {
+      "term": "der Impfstoff",
+      "translated_term": "the vaccine",
+      "example_usage": "Gegen diesen Virustyp gibt es noch keinen Impfstoff."
+    },
+    {
+      "term": "der Erreger",
+      "translated_term": "the pathogen",
+      "example_usage": "Der Erreger ist das Bundibugyo-Virus, eine von vier Arten des Ebola-Virus."
+    },
+    {
+      "term": "der Notfallplan",
+      "translated_term": "the emergency plan",
+      "example_usage": "Die WHO und Africa CDC haben gemeinsam einen Notfallplan gestartet."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Afrika",
+      "translated_name": "Africa"
+    },
+    {
+      "name": "Epidemie",
+      "translated_name": "Epidemic"
+    },
+    {
+      "name": "Öffentliche Gesundheit",
+      "translated_name": "Public Health"
+    },
+    {
+      "name": "Infektionskrankheit",
+      "translated_name": "Infectious Disease"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR: Ebola outbreak accelerates across Eastern Congo",
+      "link_url": "https://www.npr.org/2026/06/08/nx-s1-5849203/ebola-outbreak-drc-africa-cdc"
+    },
+    {
+      "name": "WHO: Ebola outbreak - DRC 2026",
+      "link_url": "https://www.who.int/emergencies/situations/ebola-outbreak---drc-2026"
+    },
+    {
+      "name": "CDC: Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda",
+      "link_url": "https://www.cdc.gov/media/releases/2026/update-on-ebola-outbreak-in-the-democratic-republic-of-the-congo-and-uganda-6-5-2026.html"
+    }
+  ]
+}
