@@ -1,0 +1,138 @@
+{
+  "title": "Deutschland plant neuen Kampfjet: Team Gen 6 startet in Berlin",
+  "translated_title": "Germany Plans New Fighter Jet: Team Gen 6 Launches in Berlin",
+  "text": [
+    {
+      "text": "Deutschland will einen neuen Kampfjet der sechsten Generation entwickeln.",
+      "translated_text": "Germany wants to develop a new sixth-generation fighter jet."
+    },
+    {
+      "text": "Ein Konsortium aus acht Unternehmen hat sich zu diesem Zweck zusammengeschlossen.",
+      "translated_text": "A consortium of eight companies has joined together for this purpose."
+    },
+    {
+      "text": "Die Initiative heißt „Team Gen 6“ und wird vom Luft- und Raumfahrtkonzern Airbus geleitet.",
+      "translated_text": "The initiative is called \"Team Gen 6\" and is led by the aerospace company Airbus."
+    },
+    {
+      "text": "Weitere Partner sind der Rüstungskonzern MBDA und sechs deutsche Firmen: Hensoldt, Diehl Defence, MTU Aero Engines, Liebherr, Autoflug und Rohde & Schwarz.",
+      "translated_text": "Other partners include the defence company MBDA and six German firms: Hensoldt, Diehl Defence, MTU Aero Engines, Liebherr, Autoflug, and Rohde & Schwarz."
+    },
+    {
+      "text": "Das Konsortium wurde am 11. Juni 2026 auf der Internationalen Luft- und Raumfahrtausstellung ILA in Berlin vorgestellt.",
+      "translated_text": "The consortium was formally launched on 11 June 2026 at the International Aerospace Exhibition ILA in Berlin."
+    },
+    {
+      "text": "Der Grund für die neue Initiative ist das Scheitern eines früheren Projekts.",
+      "translated_text": "The reason for the new initiative is the failure of an earlier project."
+    },
+    {
+      "text": "Deutschland und Frankreich hatten gemeinsam das FCAS-Programm entwickeln wollen.",
+      "translated_text": "Germany and France had wanted to jointly develop the FCAS programme."
+    },
+    {
+      "text": "FCAS steht für „Future Combat Air System“ – ein künftiges Kampfluftfahrtsystem.",
+      "translated_text": "FCAS stands for \"Future Combat Air System\" – a future combat aviation system."
+    },
+    {
+      "text": "Nach neun Jahren und rund vier Milliarden Euro Entwicklungskosten wurde das Projekt aufgegeben.",
+      "translated_text": "After nine years and around four billion euros in development costs, the project was abandoned."
+    },
+    {
+      "text": "Es gab immer wieder Konflikte zwischen Airbus und dem französischen Hersteller Dassault.",
+      "translated_text": "There were repeated conflicts between Airbus and the French manufacturer Dassault."
+    },
+    {
+      "text": "Die Unternehmen konnten sich nicht auf die Aufteilung der Arbeiten einigen.",
+      "translated_text": "The companies could not agree on the division of work."
+    },
+    {
+      "text": "Jetzt will Deutschland alleine vorankommen und hat Team Gen 6 gegründet.",
+      "translated_text": "Now Germany wants to move forward alone and has founded Team Gen 6."
+    },
+    {
+      "text": "Das Konsortium hat bereits einen Vorschlag an Verteidigungsminister Boris Pistorius übergeben.",
+      "translated_text": "The consortium has already submitted a proposal to Defence Minister Boris Pistorius."
+    },
+    {
+      "text": "Es fordert, dass die Bundesregierung bis Ende 2026 Aufträge vergibt.",
+      "translated_text": "It demands that the federal government award contracts by the end of 2026."
+    },
+    {
+      "text": "Pistorius sagte, das Projekt sei „denkbar und eine Möglichkeit“, aber Deutschland prüfe auch andere Optionen.",
+      "translated_text": "Pistorius said the project is \"conceivable and one possibility,\" but Germany is also examining other options."
+    },
+    {
+      "text": "Eine davon wäre der Kauf weiterer amerikanischer F-35-Kampfjets.",
+      "translated_text": "One of these would be the purchase of additional American F-35 fighter jets."
+    },
+    {
+      "text": "Die Entscheidung gilt als wichtig für die Zukunft der deutschen Rüstungsindustrie.",
+      "translated_text": "The decision is considered important for the future of the German defence industry."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Kampfjet",
+      "translated_term": "the fighter jet",
+      "example_usage": "Deutschland will einen neuen Kampfjet der sechsten Generation entwickeln."
+    },
+    {
+      "term": "das Konsortium",
+      "translated_term": "the consortium",
+      "example_usage": "Ein Konsortium aus acht Unternehmen hat sich zusammengeschlossen."
+    },
+    {
+      "term": "scheitern",
+      "translated_term": "to fail / to collapse",
+      "example_usage": "Das FCAS-Programm ist nach neun Jahren gescheitert."
+    },
+    {
+      "term": "die Aufteilung",
+      "translated_term": "the division / the allocation",
+      "example_usage": "Die Unternehmen konnten sich nicht auf die Aufteilung der Arbeiten einigen."
+    },
+    {
+      "term": "denkbar",
+      "translated_term": "conceivable / possible",
+      "example_usage": "Pistorius sagte, das Projekt sei „denkbar und eine Möglichkeit“."
+    },
+    {
+      "term": "der Auftrag",
+      "translated_term": "the contract / the order",
+      "example_usage": "Das Konsortium fordert, dass die Bundesregierung bis Ende 2026 Aufträge vergibt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Verteidigung",
+      "translated_name": "Defense"
+    },
+    {
+      "name": "Rüstungsindustrie",
+      "translated_name": "Arms Industry"
+    },
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews: Airbus-led consortium to launch German-backed fighter jet project after FCAS collapse",
+      "link_url": "https://www.euronews.com/business/2026/06/10/airbus-led-consortium-to-launch-german-backed-fighter-jet-project-after-fcas-collapse"
+    },
+    {
+      "name": "AeroTime: German industry readies Team Gen 6 after FCAS collapse",
+      "link_url": "https://www.aerotime.aero/articles/german-team-gen-6-fcas-fighter-collapse"
+    },
+    {
+      "name": "MiGFlug: Team Gen 6: Eight German Companies Build a Fighter Without France",
+      "link_url": "https://migflug.com/jetflights/team-gen-6-germany-fighter-post-fcas-airbus-mbda-ila-berlin-2026/"
+    }
+  ]
+}
