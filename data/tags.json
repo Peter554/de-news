@@ -284,6 +284,10 @@
     "translated_name": "Local News"
   },
   {
+    "name": "Luft- und Raumfahrt",
+    "translated_name": "Aerospace"
+  },
+  {
     "name": "Luftverkehr",
     "translated_name": "Air Traffic"
   },
@@ -526,6 +530,10 @@
   {
     "name": "Wohnungskrise",
     "translated_name": "Housing Crisis"
+  },
+  {
+    "name": "Zinspolitik",
+    "translated_name": "Interest Rate Policy"
   },
   {
     "name": "Öffentliche Gesundheit",
