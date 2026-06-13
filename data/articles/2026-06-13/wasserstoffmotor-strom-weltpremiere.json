@@ -1,0 +1,118 @@
+{
+  "title": "Weltpremiere: Großer Wasserstoffmotor erzeugt erstmals Strom",
+  "translated_title": "World First: Large Hydrogen Engine Generates Electricity for the First Time",
+  "text": [
+    {
+      "text": "Ein finnisches Unternehmen hat einen wichtigen Meilenstein in der Energiegeschichte erreicht.",
+      "translated_text": "A Finnish company has achieved an important milestone in energy history."
+    },
+    {
+      "text": "Das Unternehmen heißt Wärtsilä und hat den weltweit ersten großen Wasserstoffmotor erfolgreich getestet.",
+      "translated_text": "The company is called Wärtsilä and has successfully tested the world's first large hydrogen engine."
+    },
+    {
+      "text": "Der Test fand im Norden Spaniens statt.",
+      "translated_text": "The test took place in northern Spain."
+    },
+    {
+      "text": "Zum ersten Mal speiste ein solcher Motor Strom in das öffentliche Stromnetz ein.",
+      "translated_text": "For the first time, such an engine fed electricity into the public power grid."
+    },
+    {
+      "text": "Dieser Durchbruch könnte die Energiewende stark vorantreiben.",
+      "translated_text": "This breakthrough could greatly advance the energy transition."
+    },
+    {
+      "text": "Ein großes Problem bei erneuerbaren Energien wie Wind und Solar ist ihre Unregelmäßigkeit.",
+      "translated_text": "A major problem with renewable energies such as wind and solar is their irregularity."
+    },
+    {
+      "text": "Sie liefern nicht immer genug Strom, wenn man ihn braucht.",
+      "translated_text": "They do not always provide enough electricity when it is needed."
+    },
+    {
+      "text": "Wasserstoffmotoren könnten diese Lücken im Stromnetz füllen.",
+      "translated_text": "Hydrogen engines could fill these gaps in the power grid."
+    },
+    {
+      "text": "Das wäre ein großer Vorteil für die Energieversorgung in Europa.",
+      "translated_text": "This would be a great advantage for the energy supply in Europe."
+    },
+    {
+      "text": "Aber Experten warnen, dass noch viel Arbeit nötig ist.",
+      "translated_text": "But experts warn that much work is still needed."
+    },
+    {
+      "text": "Man braucht mehr Infrastruktur für die Produktion von Wasserstoff.",
+      "translated_text": "More infrastructure is needed for the production of hydrogen."
+    },
+    {
+      "text": "Auch die Speicherung und der Transport von Wasserstoff müssen verbessert werden.",
+      "translated_text": "The storage and transport of hydrogen also need to be improved."
+    },
+    {
+      "text": "Das kostet sehr viel Geld und braucht viel Zeit.",
+      "translated_text": "This costs a lot of money and requires a lot of time."
+    },
+    {
+      "text": "Trotzdem gilt dieser Test als ein wichtiges Zeichen des Fortschritts.",
+      "translated_text": "Nevertheless, this test is considered an important sign of progress."
+    },
+    {
+      "text": "Viele Länder investieren jetzt mehr in Wasserstofftechnologien.",
+      "translated_text": "Many countries are now investing more in hydrogen technologies."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Meilenstein",
+      "translated_term": "the milestone",
+      "example_usage": "Ein finnisches Unternehmen hat einen wichtigen Meilenstein in der Energiegeschichte erreicht."
+    },
+    {
+      "term": "der Wasserstoffmotor",
+      "translated_term": "the hydrogen engine",
+      "example_usage": "Das Unternehmen hat den weltweit ersten großen Wasserstoffmotor erfolgreich getestet."
+    },
+    {
+      "term": "einspeisen",
+      "translated_term": "to feed into (the grid)",
+      "example_usage": "Zum ersten Mal speiste ein solcher Motor Strom in das öffentliche Stromnetz ein."
+    },
+    {
+      "term": "die Energiewende",
+      "translated_term": "the energy transition",
+      "example_usage": "Dieser Durchbruch könnte die Energiewende stark vorantreiben."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "the infrastructure",
+      "example_usage": "Man braucht mehr Infrastruktur für die Produktion von Wasserstoff."
+    },
+    {
+      "term": "vorantreiben",
+      "translated_term": "to drive forward / to advance",
+      "example_usage": "Dieser Durchbruch könnte die Energiewende stark vorantreiben."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Erneuerbare Energien",
+      "translated_name": "Renewable Energy"
+    },
+    {
+      "name": "Energiepolitik",
+      "translated_name": "Energy Policy"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Euronews DE: Weltweit erster Groß-Wasserstoffmotor erzeugt Strom",
+      "link_url": "https://de.euronews.com/next/2026/06/13/weltweit-erster-gross-wasserstoffmotor-erzeugt-strom"
+    }
+  ]
+}
