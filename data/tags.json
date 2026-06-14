@@ -284,6 +284,10 @@
     "translated_name": "Local News"
   },
   {
+    "name": "Luft- und Raumfahrt",
+    "translated_name": "Aerospace"
+  },
+  {
     "name": "Luftverkehr",
     "translated_name": "Air Traffic"
   },
@@ -502,6 +506,10 @@
   {
     "name": "Wahlkampf",
     "translated_name": "Election Campaign"
+  },
+  {
+    "name": "Weltmeisterschaft",
+    "translated_name": "World Cup"
   },
   {
     "name": "Weltraumforschung",
