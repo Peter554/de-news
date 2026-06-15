@@ -1,0 +1,118 @@
+{
+  "title": "Großbritannien verbietet Social Media für Kinder unter 16 Jahren",
+  "translated_title": "Great Britain bans social media for children under 16",
+  "text": [
+    {
+      "text": "Der britische Premierminister Keir Starmer hat ein vollständiges Verbot von sozialen Medien für Kinder unter 16 Jahren angekündigt.",
+      "translated_text": "British Prime Minister Keir Starmer has announced a complete ban on social media for children under 16."
+    },
+    {
+      "text": "Starmer sagte: „Soziale Medien machen unsere Kinder unglücklich und unsicher, und ich kann das als Elternteil und als Premierminister nicht länger hinnehmen."",
+      "translated_text": "Starmer said: \"Social media is making our children unhappy and unsafe, and as a parent and as Prime Minister, I can no longer accept this.\""
+    },
+    {
+      "text": "Das Verbot betrifft Plattformen wie TikTok, Instagram, Snapchat, YouTube, Facebook und X.",
+      "translated_text": "The ban applies to platforms such as TikTok, Instagram, Snapchat, YouTube, Facebook and X."
+    },
+    {
+      "text": "Messaging-Dienste wie WhatsApp und Signal sind von dem Verbot nicht betroffen.",
+      "translated_text": "Messaging services such as WhatsApp and Signal are not affected by the ban."
+    },
+    {
+      "text": "Die Regierung plant außerdem, gefährliche Funktionen wie Livestreaming und den Kontakt mit Fremden für Minderjährige zu blockieren.",
+      "translated_text": "The government also plans to block dangerous features such as livestreaming and contact with strangers for minors."
+    },
+    {
+      "text": "Diese Einschränkungen sollen auch für Online-Gaming-Plattformen gelten.",
+      "translated_text": "These restrictions are also set to apply to online gaming platforms."
+    },
+    {
+      "text": "Großbritannien geht damit weiter als Australien, das im vergangenen Jahr ähnliche Regeln eingeführt hat.",
+      "translated_text": "Great Britain is going further than Australia, which introduced similar rules last year."
+    },
+    {
+      "text": "Experten und Eltern haben gemischte Reaktionen auf die Ankündigung gezeigt.",
+      "translated_text": "Experts and parents have shown mixed reactions to the announcement."
+    },
+    {
+      "text": "Befürworter sagen, das Verbot sei notwendig, um die psychische Gesundheit von Kindern zu schützen.",
+      "translated_text": "Supporters say the ban is necessary to protect the mental health of children."
+    },
+    {
+      "text": "Kritiker hingegen bezweifeln, ob ein solches Verbot in der Praxis durchsetzbar ist.",
+      "translated_text": "Critics, on the other hand, doubt whether such a ban is enforceable in practice."
+    },
+    {
+      "text": "Die Technologieunternehmen müssen das Alter ihrer Nutzer überprüfen und unter 16-Jährigen den Zugang sperren.",
+      "translated_text": "Technology companies must verify the age of their users and block access for those under 16."
+    },
+    {
+      "text": "Die britische Regierung will das Gesetz so schnell wie möglich verabschieden.",
+      "translated_text": "The British government wants to pass the law as quickly as possible."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Verbot",
+      "translated_term": "the ban / prohibition",
+      "example_usage": "Das Verbot betrifft Plattformen wie TikTok, Instagram und Snapchat."
+    },
+    {
+      "term": "verbieten",
+      "translated_term": "to ban / to prohibit",
+      "example_usage": "Keir Starmer hat ein vollständiges Verbot von sozialen Medien für Kinder unter 16 Jahren angekündigt."
+    },
+    {
+      "term": "die psychische Gesundheit",
+      "translated_term": "mental health",
+      "example_usage": "Das Verbot sei notwendig, um die psychische Gesundheit von Kindern zu schützen."
+    },
+    {
+      "term": "durchsetzbar",
+      "translated_term": "enforceable",
+      "example_usage": "Kritiker bezweifeln, ob ein solches Verbot in der Praxis durchsetzbar ist."
+    },
+    {
+      "term": "der Minderjährige / die Minderjährige",
+      "translated_term": "the minor (male/female)",
+      "example_usage": "Die Regierung plant, gefährliche Funktionen für Minderjährige zu blockieren."
+    },
+    {
+      "term": "überprüfen",
+      "translated_term": "to verify / to check",
+      "example_usage": "Die Technologieunternehmen müssen das Alter ihrer Nutzer überprüfen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Britische Politik",
+      "translated_name": "British Politics"
+    },
+    {
+      "name": "Technologie",
+      "translated_name": "Technology"
+    },
+    {
+      "name": "Jugendschutz",
+      "translated_name": "Child Protection"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Bloomberg: Starmer Announces Full Ban on Social Media for UK's Under 16s",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-06-14/starmer-to-confirm-social-media-ban-for-uk-teens-ahead-of-g7"
+    },
+    {
+      "name": "NBC News: Britain unveils sweeping ban on social media for under-16s",
+      "link_url": "https://www.nbcnews.com/world/united-kingdom/keir-starmer-social-media-restrictions-rcna350037"
+    },
+    {
+      "name": "HuffPost UK: What You Need To Know About Keir Starmer's Under-16 Social Media Ban",
+      "link_url": "https://www.huffingtonpost.co.uk/entry/keir-starmer-under-16-social-media-ban_uk_6a2fa62de4b07679090db33d"
+    }
+  ]
+}

@@ -228,6 +228,10 @@
     "translated_name": "Youth Crime"
   },
   {
+    "name": "Jugendschutz",
+    "translated_name": "Child Protection"
+  },
+  {
     "name": "Justiz",
     "translated_name": "Justice"
   },
@@ -502,6 +506,10 @@
   {
     "name": "Wahlkampf",
     "translated_name": "Election Campaign"
+  },
+  {
+    "name": "Weltmeisterschaft 2026",
+    "translated_name": "World Cup 2026"
   },
   {
     "name": "Weltraumforschung",

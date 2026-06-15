@@ -1,0 +1,110 @@
+{
+  "title": "WM 2026: Japan holt späten Ausgleich gegen die Niederlande",
+  "translated_title": "World Cup 2026: Japan earns late equaliser against the Netherlands",
+  "text": [
+    {
+      "text": "Bei der Fußball-Weltmeisterschaft 2026 in den USA hat Japan ein dramatisches Unentschieden gegen die Niederlande erzielt.",
+      "translated_text": "At the 2026 FIFA World Cup in the USA, Japan earned a dramatic draw against the Netherlands."
+    },
+    {
+      "text": "Das Spiel in Dallas endete 2:2, nachdem Japan in der Nachspielzeit ausglich.",
+      "translated_text": "The match in Dallas ended 2:2, after Japan equalised in stoppage time."
+    },
+    {
+      "text": "Die erste Halbzeit endete torlos, doch in der zweiten Halbzeit entwickelte sich ein packender Schlagabtausch.",
+      "translated_text": "The first half ended goalless, but the second half developed into a gripping exchange of blows."
+    },
+    {
+      "text": "Virgil van Dijk und Crysencio Summerville trafen für die Niederlande.",
+      "translated_text": "Virgil van Dijk and Crysencio Summerville scored for the Netherlands."
+    },
+    {
+      "text": "Japan glich zunächst durch Keito Nakamura aus, lag dann aber bis zur 89. Minute wieder mit 1:2 zurück.",
+      "translated_text": "Japan initially equalised through Keito Nakamura, but then found themselves 1:2 behind again until the 89th minute."
+    },
+    {
+      "text": "In der letzten Minute fiel der entscheidende Ausgleich: Daichi Kamada traf nach einer Ecke von Koki Ogawa per Kopf.",
+      "translated_text": "In the final minute, the decisive equaliser came: Daichi Kamada scored with a header from a corner by Koki Ogawa."
+    },
+    {
+      "text": "Die japanischen Fans im Stadion feierten den späten Treffer mit großer Begeisterung.",
+      "translated_text": "The Japanese fans in the stadium celebrated the late goal with great enthusiasm."
+    },
+    {
+      "text": "Für die Niederlande war es ein enttäuschender Start in die Weltmeisterschaft, da sie einen sicher geglaubten Sieg noch verspielen.",
+      "translated_text": "For the Netherlands it was a disappointing start to the World Cup, as they threw away what seemed like a certain victory."
+    },
+    {
+      "text": "Japan zeigte großen Kampfgeist und bewies, dass es eine gefährliche Mannschaft im Turnier ist.",
+      "translated_text": "Japan showed great fighting spirit and proved that they are a dangerous team in the tournament."
+    },
+    {
+      "text": "Die WM 2026 findet erstmals in drei Ländern statt: in den USA, Kanada und Mexiko.",
+      "translated_text": "The 2026 World Cup is taking place for the first time in three countries: the USA, Canada and Mexico."
+    },
+    {
+      "text": "48 Mannschaften nehmen an der WM teil, so viele wie noch nie zuvor.",
+      "translated_text": "48 teams are taking part in the World Cup, more than ever before."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Unentschieden",
+      "translated_term": "the draw",
+      "example_usage": "Japan hat ein dramatisches Unentschieden gegen die Niederlande erzielt."
+    },
+    {
+      "term": "ausgleichen",
+      "translated_term": "to equalise",
+      "example_usage": "Japan glich in der letzten Minute aus."
+    },
+    {
+      "term": "die Nachspielzeit",
+      "translated_term": "stoppage time / injury time",
+      "example_usage": "Das Spiel endete 2:2, nachdem Japan in der Nachspielzeit ausglich."
+    },
+    {
+      "term": "der Kampfgeist",
+      "translated_term": "fighting spirit",
+      "example_usage": "Japan zeigte großen Kampfgeist und bewies, dass es eine gefährliche Mannschaft ist."
+    },
+    {
+      "term": "die Ecke",
+      "translated_term": "the corner (kick)",
+      "example_usage": "Daichi Kamada traf nach einer Ecke von Koki Ogawa per Kopf."
+    },
+    {
+      "term": "verspielen",
+      "translated_term": "to throw away / to squander (a lead)",
+      "example_usage": "Die Niederlande mussten einen sicher geglaubten Sieg noch verspielen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Fußball",
+      "translated_name": "Football"
+    },
+    {
+      "name": "Sport",
+      "translated_name": "Sports"
+    },
+    {
+      "name": "Weltmeisterschaft 2026",
+      "translated_name": "World Cup 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Sportschau: Japan ergattert späten Punkt gegen die Niederlande",
+      "link_url": "https://www.sportschau.de/fussball/fifa-wm-2026/japan-ergattert-spaeten-punkt-gegen-die-niederlande,wm-spielbericht-niederlande-japan-100.html"
+    },
+    {
+      "name": "SRF Sport: Später Ausgleich – Japan trotzt Niederlande Remis ab",
+      "link_url": "https://www.srf.ch/sport/fussball/fifa-wm-2026/wm-2026-gruppe-f-spaeter-ausgleich-japan-trotzt-niederlande-remis-ab"
+    },
+    {
+      "name": "ESPN: World Cup 2026 today – Live updates, latest news – June 15",
+      "link_url": "https://www.espn.co.uk/football/story/_/id/49068953/world-cup-2026-today-blog-15-06-2026-live-updates-news-fixtures-schedule-results-japan-snatch-draw-sweden-win-big"
+    }
+  ]
+}
