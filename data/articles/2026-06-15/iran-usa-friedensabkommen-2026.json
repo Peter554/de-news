@@ -1,0 +1,118 @@
+{
+  "title": "USA und Iran einigen sich auf Friedensabkommen",
+  "translated_title": "USA and Iran agree on peace deal",
+  "text": [
+    {
+      "text": "Die USA und der Iran haben sich auf ein Abkommen geeinigt, das den Krieg im Nahen Osten beenden soll.",
+      "translated_text": "The USA and Iran have agreed on a deal that is intended to end the war in the Middle East."
+    },
+    {
+      "text": "US-Präsident Donald Trump erklärte am Sonntag, dass das Abkommen nun vollständig sei.",
+      "translated_text": "US President Donald Trump declared on Sunday that the deal is now complete."
+    },
+    {
+      "text": "Der Vertrag soll am Freitag, dem 19. Juni 2026, in der Schweiz offiziell unterzeichnet werden.",
+      "translated_text": "The treaty is set to be officially signed on Friday, June 19, 2026, in Switzerland."
+    },
+    {
+      "text": "Der pakistanische Premierminister Shehbaz Sharif gab bekannt, dass alle Militäroperationen sofort und dauerhaft eingestellt werden.",
+      "translated_text": "Pakistani Prime Minister Shehbaz Sharif announced that all military operations will be immediately and permanently halted."
+    },
+    {
+      "text": "Das Abkommen sieht auch die Wiedereröffnung der Straße von Hormus vor, einer wichtigen Schifffahrtsroute für Öltanker.",
+      "translated_text": "The deal also provides for the reopening of the Strait of Hormuz, an important shipping route for oil tankers."
+    },
+    {
+      "text": "Die USA werden ihre Marineblockkade des Golfs aufheben und ihre Streitkräfte aus der Region zurückziehen.",
+      "translated_text": "The USA will lift its naval blockade of the Gulf and withdraw its forces from the region."
+    },
+    {
+      "text": "Außerdem werden die Sanktionen gegen iranische Ölexporte ausgesetzt.",
+      "translated_text": "Furthermore, the sanctions against Iranian oil exports will be suspended."
+    },
+    {
+      "text": "Iran erhält während einer 60-tägigen Verhandlungsperiode Zugang zu eingefrorenen Vermögenswerten in Höhe von 24 Milliarden Dollar.",
+      "translated_text": "Iran will gain access to frozen assets worth 24 billion dollars during a 60-day negotiation period."
+    },
+    {
+      "text": "Die Frage des iranischen Atomprogramms bleibt vorerst ungeklärt und soll in weiteren Gesprächen behandelt werden.",
+      "translated_text": "The question of Iran's nuclear programme remains unresolved for now and is to be addressed in further talks."
+    },
+    {
+      "text": "Trotz des Abkommens gibt es weiterhin Spannungen, da Israel Luftangriffe auf Beirut durchführte.",
+      "translated_text": "Despite the deal, tensions remain, as Israel carried out air strikes on Beirut."
+    },
+    {
+      "text": "Trump kritisierte diese Angriffe öffentlich und forderte Israel auf, zurückzuhalten.",
+      "translated_text": "Trump publicly criticised these attacks and called on Israel to show restraint."
+    },
+    {
+      "text": "Das Abkommen wird als ein großer Schritt in Richtung Frieden im Nahen Osten gesehen, obwohl viele Details noch offen sind.",
+      "translated_text": "The deal is seen as a major step towards peace in the Middle East, although many details remain open."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Abkommen",
+      "translated_term": "the agreement / deal",
+      "example_usage": "Die USA und der Iran haben sich auf ein Abkommen geeinigt."
+    },
+    {
+      "term": "die Straße von Hormus",
+      "translated_term": "the Strait of Hormuz",
+      "example_usage": "Das Abkommen sieht auch die Wiedereröffnung der Straße von Hormus vor."
+    },
+    {
+      "term": "die Marineblockkade",
+      "translated_term": "the naval blockade",
+      "example_usage": "Die USA werden ihre Marineblockkade des Golfs aufheben."
+    },
+    {
+      "term": "einfrieren",
+      "translated_term": "to freeze",
+      "example_usage": "Iran erhält Zugang zu eingefrorenen Vermögenswerten in Höhe von 24 Milliarden Dollar."
+    },
+    {
+      "term": "die Sanktion",
+      "translated_term": "the sanction",
+      "example_usage": "Die Sanktionen gegen iranische Ölexporte werden ausgesetzt."
+    },
+    {
+      "term": "unterzeichnen",
+      "translated_term": "to sign",
+      "example_usage": "Der Vertrag soll am Freitag in der Schweiz offiziell unterzeichnet werden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran-Krieg",
+      "translated_name": "Iran War"
+    },
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR: U.S. and Iran announce a deal to end the war",
+      "link_url": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates"
+    },
+    {
+      "name": "Al Jazeera: Iran war updates – US, Tehran confirm peace deal",
+      "link_url": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution"
+    },
+    {
+      "name": "CBS News: Live Updates – Iran and U.S. reach deal",
+      "link_url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-peace-deal-agreement/"
+    }
+  ]
+}

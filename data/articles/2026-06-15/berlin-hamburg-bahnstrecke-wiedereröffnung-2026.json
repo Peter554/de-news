@@ -1,0 +1,110 @@
+{
+  "title": "Bahnstrecke Berlin–Hamburg nach Sanierung wieder in Betrieb",
+  "translated_title": "Berlin–Hamburg railway line back in service after renovation",
+  "text": [
+    {
+      "text": "Die wichtige Bahnstrecke zwischen Berlin und Hamburg ist seit dem 14. Juni 2026 wieder vollständig in Betrieb.",
+      "translated_text": "The important railway line between Berlin and Hamburg has been fully operational again since June 14, 2026."
+    },
+    {
+      "text": "Die Deutsche Bahn hat eine umfangreiche Korridorsanierung der 278 Kilometer langen Strecke abgeschlossen.",
+      "translated_text": "Deutsche Bahn has completed an extensive corridor renovation of the 278-kilometre-long route."
+    },
+    {
+      "text": "Während der Bauarbeiten wurden mehr als 165 Kilometer Gleise und fast 250 Weichen erneuert.",
+      "translated_text": "During construction, more than 165 kilometres of tracks and almost 250 switches were replaced."
+    },
+    {
+      "text": "Die Wiedereröffnung war ursprünglich für einen früheren Termin geplant, wurde aber wegen wochenlangen Frostes im Januar und Februar 2026 verschoben.",
+      "translated_text": "The reopening was originally planned for an earlier date but was postponed due to weeks of frost in January and February 2026."
+    },
+    {
+      "text": "Ein erster Abschnitt bis Hagenow Land wurde bereits Mitte Mai 2026 eröffnet.",
+      "translated_text": "A first section to Hagenow Land was already opened in mid-May 2026."
+    },
+    {
+      "text": "Nun fahren auf der Strecke wieder ICE-Züge im Halbstundentakt.",
+      "translated_text": "ICE trains are now running on the route again every half hour."
+    },
+    {
+      "text": "Zusätzlich bietet Flixtrain eine neue Verbindung im Zweistundentakt an.",
+      "translated_text": "In addition, Flixtrain offers a new connection every two hours."
+    },
+    {
+      "text": "In der Anlaufphase kann es noch zu vorübergehenden Einschränkungen kommen, da auf einzelnen Abschnitten noch Abnahmefahrten stattfinden.",
+      "translated_text": "During the start-up phase, there may still be temporary disruptions, as acceptance runs are still taking place on individual sections."
+    },
+    {
+      "text": "Für Fahrgäste bedeutet die Wiedereröffnung eine große Erleichterung, denn während der Sperrung mussten sie lange Umleitungen in Kauf nehmen.",
+      "translated_text": "For passengers, the reopening is a great relief, as they had to accept long detours during the closure."
+    },
+    {
+      "text": "Die Korridorsanierung ist Teil eines großen Plans der Deutschen Bahn, das deutsche Schienennetz zu modernisieren.",
+      "translated_text": "The corridor renovation is part of a major plan by Deutsche Bahn to modernise the German rail network."
+    },
+    {
+      "text": "Berlin und Hamburg sind zwei der wichtigsten Städte Deutschlands, und die Verbindung zwischen ihnen ist für Pendler und Touristen sehr bedeutend.",
+      "translated_text": "Berlin and Hamburg are two of Germany's most important cities, and the connection between them is very significant for commuters and tourists."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Korridorsanierung",
+      "translated_term": "the corridor renovation",
+      "example_usage": "Die Deutsche Bahn hat eine umfangreiche Korridorsanierung der 278 Kilometer langen Strecke abgeschlossen."
+    },
+    {
+      "term": "die Weiche",
+      "translated_term": "the (railway) switch / points",
+      "example_usage": "Mehr als 165 Kilometer Gleise und fast 250 Weichen wurden erneuert."
+    },
+    {
+      "term": "die Sperrung",
+      "translated_term": "the closure / blockage",
+      "example_usage": "Während der Sperrung mussten Fahrgäste lange Umleitungen in Kauf nehmen."
+    },
+    {
+      "term": "verschieben",
+      "translated_term": "to postpone / to move (a date)",
+      "example_usage": "Die Wiedereröffnung wurde wegen Frost auf Juni 2026 verschoben."
+    },
+    {
+      "term": "die Einschränkung",
+      "translated_term": "the restriction / limitation",
+      "example_usage": "In der Anlaufphase kann es noch zu vorübergehenden Einschränkungen kommen."
+    },
+    {
+      "term": "der Halbstundentakt",
+      "translated_term": "the half-hourly frequency (of trains)",
+      "example_usage": "Auf der Strecke fahren wieder ICE-Züge im Halbstundentakt."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Business Travel: Bahnstrecke Hamburg–Berlin wieder in Betrieb",
+      "link_url": "https://www.business-travel.de/bahnstrecke-hamburg-berlin-wieder-in-betrieb/65056/"
+    },
+    {
+      "name": "Deutsche Bahn: Inbetriebnahme der Strecke Hamburg–Berlin in zwei Stufen",
+      "link_url": "https://www.deutschebahn.com/de/presse/pressestart_zentrales_uebersicht/Inbetriebnahme-der-Strecke-Hamburg-Berlin-in-zwei-Stufen-Erste-Zugfahrten-ab-15-Mai-13769684"
+    },
+    {
+      "name": "t-online Berlin: Bahnstrecke Hamburg–Berlin – Wiedereröffnung auf Juni verschoben",
+      "link_url": "https://berlin.t-online.de/region/berlin/id_101164932/bahnstrecke-hamburg-berlin-wiedereroeffnung-auf-juni-verschoben.html"
+    }
+  ]
+}
