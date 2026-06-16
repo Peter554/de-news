@@ -144,6 +144,10 @@
     "translated_name": "Football"
   },
   {
+    "name": "Fußball-Weltmeisterschaft",
+    "translated_name": "FIFA World Cup"
+  },
+  {
     "name": "Gaza-Konflikt",
     "translated_name": "Gaza Conflict"
   },
@@ -514,6 +518,10 @@
   {
     "name": "Wetter",
     "translated_name": "Weather"
+  },
+  {
+    "name": "Wildtiere",
+    "translated_name": "Wildlife"
   },
   {
     "name": "Wirtschaftspolitik",

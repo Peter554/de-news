@@ -1,0 +1,130 @@
+{
+  "title": "USA und Iran einigen sich auf Waffenstillstand",
+  "translated_title": "USA and Iran Agree on Ceasefire",
+  "text": [
+    {
+      "text": "Am 14. und 15. Juni 2026 gaben die USA und der Iran ein historisches Abkommen bekannt.",
+      "translated_text": "On 14 and 15 June 2026, the USA and Iran announced a historic agreement."
+    },
+    {
+      "text": "US-Präsident Donald Trump erklärte, dass ein Waffenstillstand vereinbart wurde.",
+      "translated_text": "US President Donald Trump announced that a ceasefire had been agreed."
+    },
+    {
+      "text": "Der Krieg zwischen den USA und dem Iran soll damit offiziell beendet werden.",
+      "translated_text": "The war between the USA and Iran is to be officially ended by this."
+    },
+    {
+      "text": "Das Abkommen hat mehrere wichtige Punkte.",
+      "translated_text": "The agreement has several important points."
+    },
+    {
+      "text": "Der Iran verpflichtet sich, keine Atomwaffen zu entwickeln oder zu beschaffen.",
+      "translated_text": "Iran commits to not developing or acquiring nuclear weapons."
+    },
+    {
+      "text": "Diese Verpflichtung soll unbegrenzt gelten – bei früheren Verhandlungen war eine Laufzeit von nur zehn oder zwanzig Jahren geplant.",
+      "translated_text": "This commitment is to apply indefinitely – previous negotiations had envisaged a term of only ten or twenty years."
+    },
+    {
+      "text": "Außerdem wird die Straße von Hormus wieder für den Schiffsverkehr geöffnet.",
+      "translated_text": "In addition, the Strait of Hormuz will be reopened for shipping traffic."
+    },
+    {
+      "text": "Die USA hatten die Meerenge mit einer Seeblockade gesperrt.",
+      "translated_text": "The USA had blocked the strait with a naval blockade."
+    },
+    {
+      "text": "Durch die Straße von Hormus wird ein großer Teil des weltweiten Öls transportiert.",
+      "translated_text": "A large share of the world's oil is transported through the Strait of Hormuz."
+    },
+    {
+      "text": "Das Abkommen betrifft auch andere Länder in der Region, darunter den Libanon und die Golfstaaten.",
+      "translated_text": "The agreement also concerns other countries in the region, including Lebanon and the Gulf states."
+    },
+    {
+      "text": "Israel behält nach dem Abkommen das Recht, sich selbst zu verteidigen.",
+      "translated_text": "Under the agreement, Israel retains the right to defend itself."
+    },
+    {
+      "text": "Drei Länder dienten als Vermittler: Katar, Saudi-Arabien und die Türkei.",
+      "translated_text": "Three countries served as mediators: Qatar, Saudi Arabia and Turkey."
+    },
+    {
+      "text": "Am 19. Juni soll das Abkommen offiziell in der Schweiz unterzeichnet werden.",
+      "translated_text": "The agreement is due to be officially signed in Switzerland on 19 June."
+    },
+    {
+      "text": "Viele Details sind noch nicht öffentlich bekannt, zum Beispiel wie das Atomprogramm des Iran kontrolliert werden soll.",
+      "translated_text": "Many details are not yet publicly known, for example how Iran's nuclear programme is to be monitored."
+    },
+    {
+      "text": "In Deutschland und Europa haben viele Politiker erleichtert auf die Nachricht reagiert.",
+      "translated_text": "In Germany and Europe, many politicians reacted with relief to the news."
+    },
+    {
+      "text": "Viele Menschen hoffen, dass das Abkommen zu mehr Stabilität im Nahen Osten führt.",
+      "translated_text": "Many people hope that the agreement will lead to greater stability in the Middle East."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Abkommen",
+      "translated_term": "the agreement / deal",
+      "example_usage": "Die USA und der Iran gaben ein historisches Abkommen bekannt."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "US-Präsident Donald Trump erklärte, dass ein Waffenstillstand vereinbart wurde."
+    },
+    {
+      "term": "die Seeblockade",
+      "translated_term": "the naval blockade",
+      "example_usage": "Die USA hatten die Meerenge mit einer Seeblockade gesperrt."
+    },
+    {
+      "term": "verpflichten (sich)",
+      "translated_term": "to commit (to) / to pledge",
+      "example_usage": "Der Iran verpflichtet sich, keine Atomwaffen zu entwickeln oder zu beschaffen."
+    },
+    {
+      "term": "der Vermittler",
+      "translated_term": "the mediator",
+      "example_usage": "Drei Länder dienten als Vermittler: Katar, Saudi-Arabien und die Türkei."
+    },
+    {
+      "term": "unterzeichnen",
+      "translated_term": "to sign (a document)",
+      "example_usage": "Am 19. Juni soll das Abkommen offiziell in der Schweiz unterzeichnet werden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR: U.S. and Iran announce an initial deal to end the war and reopen the Strait of Hormuz",
+      "link_url": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates"
+    },
+    {
+      "name": "Al Jazeera: US-Iran 'peace deal' announced; Trump says Strait of Hormuz reopening",
+      "link_url": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening"
+    },
+    {
+      "name": "PBS NewsHour: Deal is reached to end Iran war and Trump orders stop to U.S. naval blockade",
+      "link_url": "https://www.pbs.org/newshour/world/deal-is-reached-to-end-iran-war-and-trump-orders-stop-to-us-naval-blockade"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "title": "Großbritannien beschlagnahmt russischen Öltanker im Ärmelkanal",
+  "translated_title": "Britain Seizes Russian Oil Tanker in the English Channel",
+  "text": [
+    {
+      "text": "Britische Streitkräfte haben am 14. Juni 2026 einen russischen Öltanker im Ärmelkanal aufgebracht.",
+      "translated_text": "British forces boarded and seized a Russian oil tanker in the English Channel on 14 June 2026."
+    },
+    {
+      "text": "Das Schiff heißt Smyrtos und war unter kamerunischer Flagge unterwegs.",
+      "translated_text": "The ship is called Smyrtos and was sailing under a Cameroonian flag."
+    },
+    {
+      "text": "Es hatte 700.000 Barrel russisches Öl an Bord.",
+      "translated_text": "It was carrying 700,000 barrels of Russian oil."
+    },
+    {
+      "text": "Der Tanker war am 5. Juni im russischen Ostseehafen Ust-Luga losgefahren und auf dem Weg nach Ägypten.",
+      "translated_text": "The tanker had departed the Russian Baltic port of Ust-Luga on 5 June and was on its way to Egypt."
+    },
+    {
+      "text": "Royal Marines und Beamte der Nationalen Kriminalitätsbehörde (NCA) haben das Schiff geentert.",
+      "translated_text": "Royal Marines and officers from the National Crime Agency (NCA) boarded the ship."
+    },
+    {
+      "text": "Die Aktion begann vor dem Morgengrauen und dauerte sechs Stunden.",
+      "translated_text": "The operation began before dawn and lasted six hours."
+    },
+    {
+      "text": "Die Soldaten seildeten sich von Chinook-Hubschraubern auf das Deck des Tankers ab.",
+      "translated_text": "The soldiers absailed from Chinook helicopters onto the deck of the tanker."
+    },
+    {
+      "text": "Eine Fregatte der Royal Navy und ein Minensuchboot waren ebenfalls an der Aktion beteiligt.",
+      "translated_text": "A Royal Navy frigate and a minesweeper also took part in the operation."
+    },
+    {
+      "text": "Ein indischer Staatsangehöriger wurde wegen des Verdachts auf Sanktionsverstöße festgenommen.",
+      "translated_text": "An Indian national was arrested on suspicion of sanctions violations."
+    },
+    {
+      "text": "Premierminister Keir Starmer bezeichnete die Aktion als bedeutenden Rückschlag für Moskau.",
+      "translated_text": "Prime Minister Keir Starmer described the operation as a significant setback for Moscow."
+    },
+    {
+      "text": "Das Schiff gehört zu Russlands sogenannter Schattenflotte – einem Netzwerk von Tankern, die westliche Sanktionen umgehen.",
+      "translated_text": "The ship belongs to Russia's so-called shadow fleet – a network of tankers that circumvent Western sanctions."
+    },
+    {
+      "text": "Nach der Beschlagnahmung änderten mindestens sechs andere Tanker sofort ihren Kurs, um den Ärmelkanal zu meiden.",
+      "translated_text": "Following the seizure, at least six other tankers immediately changed course to avoid the English Channel."
+    },
+    {
+      "text": "Wer den Ärmelkanal meidet, muss rund 926 Kilometer länger fahren.",
+      "translated_text": "Avoiding the English Channel adds approximately 926 kilometres to journeys."
+    },
+    {
+      "text": "Der ukrainische Präsident Wolodymyr Selenskyj dankte Großbritannien für die Aktion.",
+      "translated_text": "Ukrainian President Volodymyr Zelenskyy thanked Great Britain for the operation."
+    },
+    {
+      "text": "Es ist das erste Mal, dass Großbritannien einen Tanker der russischen Schattenflotte beschlagnahmt hat.",
+      "translated_text": "This is the first time that Great Britain has seized a tanker from the Russian shadow fleet."
+    },
+    {
+      "text": "Experten sagen, solche Aktionen können die Kosten für Russlands Ölexporte deutlich erhöhen.",
+      "translated_text": "Experts say such actions can significantly increase the costs of Russia's oil exports."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "aufbringen",
+      "translated_term": "to seize / to board (a ship)",
+      "example_usage": "Britische Streitkräfte haben einen russischen Öltanker im Ärmelkanal aufgebracht."
+    },
+    {
+      "term": "die Schattenflotte",
+      "translated_term": "the shadow fleet",
+      "example_usage": "Das Schiff gehört zu Russlands sogenannter Schattenflotte."
+    },
+    {
+      "term": "der Ärmelkanal",
+      "translated_term": "the English Channel",
+      "example_usage": "Mindestens sechs andere Tanker änderten ihren Kurs, um den Ärmelkanal zu meiden."
+    },
+    {
+      "term": "die Sanktionen (pl.)",
+      "translated_term": "the sanctions",
+      "example_usage": "Die Schattenflotte ist ein Netzwerk von Tankern, die westliche Sanktionen umgehen."
+    },
+    {
+      "term": "die Beschlagnahmung",
+      "translated_term": "the seizure / confiscation",
+      "example_usage": "Es ist das erste Mal, dass Großbritannien einen Tanker der russischen Schattenflotte beschlagnahmt hat."
+    },
+    {
+      "term": "festnehmen",
+      "translated_term": "to arrest",
+      "example_usage": "Ein indischer Staatsangehöriger wurde wegen des Verdachts auf Sanktionsverstöße festgenommen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Russland",
+      "translated_name": "Russia"
+    },
+    {
+      "name": "Ukraine-Krieg",
+      "translated_name": "Ukraine War"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: UK seizes Russian 'shadow fleet' tanker – what that means",
+      "link_url": "https://www.aljazeera.com/news/2026/6/16/uk-seizes-russian-shadow-fleet-tanker-what-that-means"
+    },
+    {
+      "name": "NBC News: U.K. forces intercept a Russian shadow fleet oil tanker in English Channel",
+      "link_url": "https://www.nbcnews.com/world/europe/uk-forces-intercept-russian-shadow-fleet-oil-tanker-english-channel-rcna349990"
+    },
+    {
+      "name": "CBC News: British forces intercept Russian shadow fleet tanker in the Channel",
+      "link_url": "https://www.cbc.ca/news/world/british-forces-intercept-russian-shadow-fleet-tankers-9.7234841"
+    }
+  ]
+}

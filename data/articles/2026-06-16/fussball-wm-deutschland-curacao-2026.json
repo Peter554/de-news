@@ -1,0 +1,126 @@
+{
+  "title": "Fußball-WM 2026: Deutschland schlägt Curaçao mit 7:1",
+  "translated_title": "FIFA World Cup 2026: Germany Beats Curaçao 7-1",
+  "text": [
+    {
+      "text": "Am 14. Juni 2026 hat die deutsche Fußballnationalmannschaft bei der Weltmeisterschaft 7:1 gegen Curaçao gewonnen.",
+      "translated_text": "On 14 June 2026, the German national football team won 7-1 against Curaçao at the World Cup."
+    },
+    {
+      "text": "Das Spiel fand in Houston im US-Bundesstaat Texas statt.",
+      "translated_text": "The match took place in Houston in the US state of Texas."
+    },
+    {
+      "text": "Die Fußball-WM 2026 wird gemeinsam von den USA, Kanada und Mexiko ausgetragen.",
+      "translated_text": "The 2026 FIFA World Cup is being jointly hosted by the USA, Canada and Mexico."
+    },
+    {
+      "text": "Deutschland und Curaçao spielen beide in der Gruppe E.",
+      "translated_text": "Germany and Curaçao are both playing in Group E."
+    },
+    {
+      "text": "Lukas Nmecha schoss das erste Tor bereits in der 6. Minute.",
+      "translated_text": "Lukas Nmecha scored the first goal as early as the 6th minute."
+    },
+    {
+      "text": "Curaçao konnte in der 21. Minute durch Comenecia ausgleichen.",
+      "translated_text": "Curaçao managed to equalise in the 21st minute through Comenecia."
+    },
+    {
+      "text": "Zur Halbzeit führte Deutschland mit 3:1 – Schlotterbeck und Havertz per Elfmeter hatten nachgelegt.",
+      "translated_text": "At half-time Germany led 3-1 – Schlotterbeck and Havertz with a penalty had added further goals."
+    },
+    {
+      "text": "In der zweiten Halbzeit war Deutschland klar überlegen.",
+      "translated_text": "In the second half Germany were clearly dominant."
+    },
+    {
+      "text": "Jamal Musiala traf in der 47. Minute mit einem Rechtsschuss.",
+      "translated_text": "Jamal Musiala scored in the 47th minute with a right-footed shot."
+    },
+    {
+      "text": "Brown und Undav erhöhten weiter auf 6:1.",
+      "translated_text": "Brown and Undav further extended the lead to 6-1."
+    },
+    {
+      "text": "Kai Havertz erzielte in der 88. Minute sein zweites Tor zum Endstand von 7:1.",
+      "translated_text": "Kai Havertz scored his second goal in the 88th minute to make the final score 7-1."
+    },
+    {
+      "text": "Besonders interessant war der Altersunterschied zwischen den Trainern der beiden Mannschaften.",
+      "translated_text": "Particularly interesting was the age difference between the coaches of the two teams."
+    },
+    {
+      "text": "Curaçaos Trainer Dick Advocaat ist 78 Jahre alt – er ist der älteste Trainer in der Geschichte der Fußball-Weltmeisterschaft.",
+      "translated_text": "Curaçao's coach Dick Advocaat is 78 years old – he is the oldest coach in the history of the FIFA World Cup."
+    },
+    {
+      "text": "Deutschlands Trainer Julian Nagelsmann ist dagegen nur 38 Jahre alt und der jüngste Trainer des Turniers.",
+      "translated_text": "Germany's coach Julian Nagelsmann, by contrast, is only 38 years old and the youngest coach in the tournament."
+    },
+    {
+      "text": "Deutschland trifft am 20. Juni auf Côte d'Ivoire und am 25. Juni auf Ecuador.",
+      "translated_text": "Germany faces Côte d'Ivoire on 20 June and Ecuador on 25 June."
+    },
+    {
+      "text": "Viele deutsche Fans sind nach dem deutlichen Sieg optimistisch, dass Deutschland weit in der WM kommen kann.",
+      "translated_text": "Many German fans are optimistic after the convincing win that Germany can go far in the World Cup."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Elfmeter",
+      "translated_term": "the penalty kick",
+      "example_usage": "Havertz traf per Elfmeter zum 3:1."
+    },
+    {
+      "term": "erzielen",
+      "translated_term": "to score / to achieve",
+      "example_usage": "Kai Havertz erzielte in der 88. Minute sein zweites Tor."
+    },
+    {
+      "term": "die Halbzeit",
+      "translated_term": "half-time / the half",
+      "example_usage": "Zur Halbzeit führte Deutschland mit 3:1."
+    },
+    {
+      "term": "ausgleichen",
+      "translated_term": "to equalise",
+      "example_usage": "Curaçao konnte in der 21. Minute durch Comenecia ausgleichen."
+    },
+    {
+      "term": "überlegen",
+      "translated_term": "dominant / superior",
+      "example_usage": "In der zweiten Halbzeit war Deutschland klar überlegen."
+    },
+    {
+      "term": "der Trainer",
+      "translated_term": "the coach / trainer",
+      "example_usage": "Curaçaos Trainer Dick Advocaat ist der älteste Trainer in der Geschichte der Fußball-Weltmeisterschaft."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Fußball",
+      "translated_name": "Football"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Fußball-Weltmeisterschaft",
+      "translated_name": "FIFA World Cup"
+    }
+  ],
+  "sources": [
+    {
+      "name": "FIFA: Germany 7-1 Curaçao – Match report and highlights",
+      "link_url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/germany-curacao-highlights-match-report"
+    },
+    {
+      "name": "ESPN: Germany 7-1 Curaçao – Game Analysis",
+      "link_url": "https://www.espn.com/soccer/report/_/gameId/760422"
+    }
+  ]
+}
