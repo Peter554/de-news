@@ -144,6 +144,10 @@
     "translated_name": "Football"
   },
   {
+    "name": "G7-Gipfel",
+    "translated_name": "G7 Summit"
+  },
+  {
     "name": "Gaza-Konflikt",
     "translated_name": "Gaza Conflict"
   },
@@ -502,6 +506,10 @@
   {
     "name": "Wahlkampf",
     "translated_name": "Election Campaign"
+  },
+  {
+    "name": "Weltmeisterschaft",
+    "translated_name": "World Cup"
   },
   {
     "name": "Weltraumforschung",

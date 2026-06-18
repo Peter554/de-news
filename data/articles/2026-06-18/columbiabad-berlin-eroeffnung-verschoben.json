@@ -1,0 +1,146 @@
+{
+  "title": "Columbiabad in Berlin öffnet nicht wie geplant",
+  "translated_title": "Columbiabad in Berlin Does Not Open as Planned",
+  "text": [
+    {
+      "text": "Das Sommerbad Neukölln, bekannt als Columbiabad, sollte am 18. Juni 2026 öffnen.",
+      "translated_text": "The Sommerbad Neukölln, known as the Columbiabad, was supposed to open on June 18, 2026."
+    },
+    {
+      "text": "Aber die Eröffnung wurde wieder verschoben.",
+      "translated_text": "But the opening has been postponed again."
+    },
+    {
+      "text": "Das Freibad kann voraussichtlich erst am 3. Juli öffnen.",
+      "translated_text": "The outdoor pool can presumably only open on July 3."
+    },
+    {
+      "text": "Der Grund ist ein Problem bei der Beschaffung von Filtermaterial für das Schwimmbadwasser.",
+      "translated_text": "The reason is a problem in the procurement of filter material for the pool water."
+    },
+    {
+      "text": "Bei der Bestellung ist ein Fehler passiert.",
+      "translated_text": "A mistake occurred with the order."
+    },
+    {
+      "text": "Dadurch gab es Lieferprobleme mit dem nötigen Filtermaterial.",
+      "translated_text": "This led to delivery problems with the necessary filter material."
+    },
+    {
+      "text": "Das Columbiabad liegt im Berliner Stadtteil Neukölln.",
+      "translated_text": "The Columbiabad is located in the Berlin district of Neukölln."
+    },
+    {
+      "text": "Es ist eines der beliebtesten Freibäder in Berlin.",
+      "translated_text": "It is one of the most popular outdoor pools in Berlin."
+    },
+    {
+      "text": "Viele Berliner Bürgerinnen und Bürger sind enttäuscht über die Verzögerung.",
+      "translated_text": "Many Berlin citizens are disappointed about the delay."
+    },
+    {
+      "text": "Das Wetter in Berlin ist derzeit warm und sonnig.",
+      "translated_text": "The weather in Berlin is currently warm and sunny."
+    },
+    {
+      "text": "In den nächsten Tagen werden Temperaturen bis zu 34 Grad erwartet.",
+      "translated_text": "Temperatures of up to 34 degrees are expected in the coming days."
+    },
+    {
+      "text": "Die Betreibergesellschaft Berliner Bäder-Betriebe prüft, ob Teile des Bades früher öffnen können.",
+      "translated_text": "The operating company Berliner Bäder-Betriebe is examining whether parts of the pool can open earlier."
+    },
+    {
+      "text": "Als Ausgleich soll das Columbiabad in diesem Jahr länger als üblich geöffnet bleiben.",
+      "translated_text": "As compensation, the Columbiabad is to remain open longer than usual this year."
+    },
+    {
+      "text": "Das Bad soll bis in den September geöffnet bleiben.",
+      "translated_text": "The pool is to remain open until September."
+    },
+    {
+      "text": "Dies soll die Enttäuschung der Berliner etwas ausgleichen.",
+      "translated_text": "This is intended to somewhat make up for Berliners' disappointment."
+    },
+    {
+      "text": "Die Berliner Bäder-Betriebe betreiben mehrere Freibäder in der Stadt.",
+      "translated_text": "Berliner Bäder-Betriebe operates several outdoor pools in the city."
+    },
+    {
+      "text": "Andere Freibäder in Berlin sind bereits geöffnet.",
+      "translated_text": "Other outdoor pools in Berlin are already open."
+    },
+    {
+      "text": "Das Columbiabad wurde in den 1970er Jahren gebaut.",
+      "translated_text": "The Columbiabad was built in the 1970s."
+    },
+    {
+      "text": "Seit vielen Jahren ist es ein beliebter Treffpunkt für Berliner im Sommer.",
+      "translated_text": "For many years it has been a popular meeting place for Berliners in the summer."
+    },
+    {
+      "text": "Die Stadt hofft, dass das Bad bald wieder für alle Besucherinnen und Besucher zugänglich ist.",
+      "translated_text": "The city hopes that the pool will soon be accessible again for all visitors."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Freibad",
+      "translated_term": "the outdoor swimming pool",
+      "example_usage": "Das Freibad kann voraussichtlich erst am 3. Juli öffnen."
+    },
+    {
+      "term": "verschieben",
+      "translated_term": "to postpone",
+      "example_usage": "Aber die Eröffnung wurde wieder verschoben."
+    },
+    {
+      "term": "die Beschaffung",
+      "translated_term": "the procurement",
+      "example_usage": "Der Grund ist ein Problem bei der Beschaffung von Filtermaterial."
+    },
+    {
+      "term": "der Ausgleich",
+      "translated_term": "the compensation / the balance",
+      "example_usage": "Als Ausgleich soll das Columbiabad länger als üblich geöffnet bleiben."
+    },
+    {
+      "term": "der Stadtteil",
+      "translated_term": "the district / the neighbourhood",
+      "example_usage": "Das Columbiabad liegt im Berliner Stadtteil Neukölln."
+    },
+    {
+      "term": "enttäuscht",
+      "translated_term": "disappointed",
+      "example_usage": "Viele Berliner Bürgerinnen und Bürger sind enttäuscht über die Verzögerung."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Lokale Nachrichten",
+      "translated_name": "Local News"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berliner Zeitung: Sommerbad Neukölln öffnet erst im Juli – und schuld ist die Kohle",
+      "link_url": "https://www.berliner-zeitung.de/article/sommerbad-berlin-neukoelln-oeffnet-erst-im-juli-10105418"
+    },
+    {
+      "name": "Berliner Bäder-Betriebe: Sommersaison 2026 - Starttermine der Sommerbäder",
+      "link_url": "https://www.berlinerbaeder.de/news/detail/sommersaison-2026-starttermine-der-sommerbaeder/"
+    },
+    {
+      "name": "mein-berlin.net: Warten auf das Columbiabad: Wenn Lieferengpässe den Sommer verzögern",
+      "link_url": "https://www.mein-berlin.net/berlin/friedrichshain-kreuzberg/warten-auf-das-columbiabad-wenn-lieferengpaesse-den-sommer-verzoegern"
+    }
+  ]
+}
