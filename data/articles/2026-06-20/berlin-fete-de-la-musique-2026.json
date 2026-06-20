@@ -1,0 +1,126 @@
+{
+  "title": "Fête de la Musique 2026: Berlin wird zur riesigen Bühne",
+  "translated_title": "Fête de la Musique 2026: Berlin Becomes a Giant Stage",
+  "text": [
+    {
+      "text": "Morgen, am 21. Juni 2026, findet in Berlin die jährliche Fête de la Musique statt.",
+      "translated_text": "Tomorrow, on 21 June 2026, Berlin's annual Fête de la Musique takes place."
+    },
+    {
+      "text": "Dieses beliebte Musikfest wurde in Frankreich erfunden und wird heute in vielen Städten der Welt gefeiert.",
+      "translated_text": "This popular music festival was invented in France and is today celebrated in many cities around the world."
+    },
+    {
+      "text": "In Berlin gibt es das Fest seit vielen Jahren, und es ist jedes Jahr sehr beliebt.",
+      "translated_text": "Berlin has held the festival for many years, and it is very popular every year."
+    },
+    {
+      "text": "Es findet traditionell am 21. Juni statt, dem Sommeranfang, dem längsten Tag des Jahres.",
+      "translated_text": "It traditionally takes place on 21 June, the start of summer, the longest day of the year."
+    },
+    {
+      "text": "In diesem Jahr gibt es 1.383 Veranstaltungen an mehr als 200 Orten in der ganzen Stadt.",
+      "translated_text": "This year there are 1,383 events at more than 200 venues across the city."
+    },
+    {
+      "text": "Musiker und Bands aller Musikrichtungen treten auf – von Klassik und Jazz bis zu Rock, Pop, Hip-Hop und Reggae.",
+      "translated_text": "Musicians and bands of all musical styles perform – from classical and jazz to rock, pop, hip-hop and reggae."
+    },
+    {
+      "text": "Die meisten Konzerte sind kostenlos und für jeden offen.",
+      "translated_text": "Most concerts are free of charge and open to everyone."
+    },
+    {
+      "text": "Das Fest macht die ganze Stadt Berlin zu einer riesigen Bühne.",
+      "translated_text": "The festival turns the entire city of Berlin into one giant stage."
+    },
+    {
+      "text": "Dank einer besonderen Genehmigung können Straßenmusiker auch auf öffentlichen Plätzen und Straßen spielen.",
+      "translated_text": "Thanks to a special permit, street musicians can also play in public squares and on streets."
+    },
+    {
+      "text": "Der Partnerbezirk in diesem Jahr ist Reinickendorf.",
+      "translated_text": "The partner district this year is Reinickendorf."
+    },
+    {
+      "text": "Dort spielen Künstler in Stadtteilen wie Tegel, Hermsdorf, Frohnau und Wittenau.",
+      "translated_text": "There, artists perform in neighbourhoods such as Tegel, Hermsdorf, Frohnau and Wittenau."
+    },
+    {
+      "text": "Es gibt auch besondere Angebote für Familien und Meisterkurse mit Mitgliedern der Berliner Philharmoniker.",
+      "translated_text": "There are also special events for families and masterclasses with members of the Berlin Philharmonic."
+    },
+    {
+      "text": "Die Open-Air-Konzerte laufen von 14:00 bis 22:00 Uhr.",
+      "translated_text": "The open-air concerts run from 2:00 PM to 10:00 PM."
+    },
+    {
+      "text": "Danach gibt es die Fête de la Nuit – Konzerte in Innenräumen, die bis in die Nacht gehen.",
+      "translated_text": "Afterwards there is the Fête de la Nuit – indoor concerts that continue into the night."
+    },
+    {
+      "text": "Das Fest ist eine wunderbare Gelegenheit, neue Musik zu entdecken und verschiedene Stadtteile Berlins kennenzulernen.",
+      "translated_text": "The festival is a wonderful opportunity to discover new music and get to know different neighbourhoods of Berlin."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Sommeranfang",
+      "translated_term": "the beginning of summer",
+      "example_usage": "Das Fest findet traditionell am 21. Juni statt, dem Sommeranfang."
+    },
+    {
+      "term": "die Veranstaltung",
+      "translated_term": "the event",
+      "example_usage": "In diesem Jahr gibt es 1.383 Veranstaltungen an mehr als 200 Orten in der ganzen Stadt."
+    },
+    {
+      "term": "kostenlos",
+      "translated_term": "free of charge",
+      "example_usage": "Die meisten Konzerte sind kostenlos und für jeden offen."
+    },
+    {
+      "term": "die Genehmigung",
+      "translated_term": "the permit, the approval",
+      "example_usage": "Dank einer besonderen Genehmigung können Straßenmusiker auf öffentlichen Plätzen spielen."
+    },
+    {
+      "term": "der Partnerbezirk",
+      "translated_term": "the partner district",
+      "example_usage": "Der Partnerbezirk in diesem Jahr ist Reinickendorf."
+    },
+    {
+      "term": "die Gelegenheit",
+      "translated_term": "the opportunity",
+      "example_usage": "Das Fest ist eine wunderbare Gelegenheit, neue Musik zu entdecken."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Musik",
+      "translated_name": "Music"
+    },
+    {
+      "name": "Kultur",
+      "translated_name": "Culture"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Fête de la Musique Berlin: Programm 2026",
+      "link_url": "https://www.fetedelamusique.de/en/programme/"
+    },
+    {
+      "name": "Berlin.de: Reinickendorf feiert am Sonntag die Fête de la Musique 2026",
+      "link_url": "https://www.berlin.de/ba-reinickendorf/aktuelles/pressemitteilungen/2026/pressemitteilung.1683774.php"
+    },
+    {
+      "name": "The Berliner: Your guide to Fête de la Musique 2026",
+      "link_url": "https://www.the-berliner.com/music-clubs/berlin-fete-de-la-musique-guide-tips-live-performances-concerts-gigs-summer-festival/"
+    }
+  ]
+}
