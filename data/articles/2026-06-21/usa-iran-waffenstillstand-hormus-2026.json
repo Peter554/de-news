@@ -1,0 +1,130 @@
+{
+  "title": "USA und Iran einigen sich auf Waffenstillstand – Streit über Gebühren in der Straße von Hormus",
+  "translated_title": "USA and Iran Agree on Ceasefire – Dispute Over Fees in the Strait of Hormuz",
+  "text": [
+    {
+      "text": "Am 17. Juni 2026 unterzeichneten die USA und der Iran ein Memorandum über einen Waffenstillstand.",
+      "translated_text": "On 17 June 2026, the USA and Iran signed a memorandum of understanding on a ceasefire."
+    },
+    {
+      "text": "US-Präsident Donald Trump und der iranische Präsident Masoud Pezeshkian einigten sich auf eine 60-tägige Waffenruhe.",
+      "translated_text": "US President Donald Trump and Iranian President Masoud Pezeshkian agreed on a 60-day ceasefire."
+    },
+    {
+      "text": "Die Unterzeichnung fand beim G7-Gipfel im Schloss von Versailles in Frankreich statt.",
+      "translated_text": "The signing took place at the G7 summit at the Palace of Versailles in France."
+    },
+    {
+      "text": "Im Rahmen des Abkommens hob die US-Marine die Blockade iranischer Häfen auf.",
+      "translated_text": "As part of the agreement, the US Navy lifted the blockade on Iranian ports."
+    },
+    {
+      "text": "Handelsschiffe dürfen nun wieder frei durch die Straße von Hormus fahren.",
+      "translated_text": "Merchant ships may now again pass freely through the Strait of Hormuz."
+    },
+    {
+      "text": "Für 60 Tage sind keine Gebühren für die Durchfahrt durch die Meerenge vorgesehen.",
+      "translated_text": "For 60 days, no charges are planned for passage through the strait."
+    },
+    {
+      "text": "Danach soll der Status der Meerenge zwischen den beiden Ländern neu verhandelt werden.",
+      "translated_text": "After that, the status of the strait is to be renegotiated between the two countries."
+    },
+    {
+      "text": "Trump erklärte, die Straße von Hormus werde dauerhaft gebührenfrei bleiben.",
+      "translated_text": "Trump declared that the Strait of Hormuz would remain permanently toll-free."
+    },
+    {
+      "text": "Der Iran sieht das jedoch anders: Teheran besteht auf sogenannten Servicegebühren für Schiffe.",
+      "translated_text": "Iran sees it differently, however: Tehran insists on so-called service fees for ships."
+    },
+    {
+      "text": "Diese Gebühren sollen für Umweltschutz und Navigationshilfen bezahlt werden.",
+      "translated_text": "These fees are intended to pay for environmental protection and navigational assistance."
+    },
+    {
+      "text": "Der Streit über die Gebühren zeigt, wie fragil das Abkommen noch ist.",
+      "translated_text": "The dispute over the fees shows how fragile the agreement still is."
+    },
+    {
+      "text": "Pakistan hat angekündigt, technische Gespräche zwischen den USA und dem Iran zu moderieren.",
+      "translated_text": "Pakistan has announced that it will moderate technical talks between the USA and Iran."
+    },
+    {
+      "text": "Diese Gespräche sollen in der Schweiz stattfinden.",
+      "translated_text": "These talks are to take place in Switzerland."
+    },
+    {
+      "text": "Experten warnen, dass viele Details des Abkommens noch unklar sind.",
+      "translated_text": "Experts warn that many details of the agreement are still unclear."
+    },
+    {
+      "text": "Dennoch ist die Nachricht vom Waffenstillstand weltweit mit großer Erleichterung aufgenommen worden.",
+      "translated_text": "Nevertheless, the news of the ceasefire has been received with great relief worldwide."
+    },
+    {
+      "text": "Die Ölpreise sanken nach der Unterzeichnung des Abkommens deutlich.",
+      "translated_text": "Oil prices fell significantly after the agreement was signed."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "unterzeichnen",
+      "translated_term": "to sign",
+      "example_usage": "Trump und Pezeshkian unterzeichneten das Memorandum über einen Waffenstillstand."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Die USA und der Iran einigten sich auf einen 60-tägigen Waffenstillstand."
+    },
+    {
+      "term": "die Blockade",
+      "translated_term": "the blockade",
+      "example_usage": "Im Rahmen des Abkommens hob die US-Marine die Blockade iranischer Häfen auf."
+    },
+    {
+      "term": "die Meerenge",
+      "translated_term": "the strait",
+      "example_usage": "Für 60 Tage sind keine Gebühren für die Durchfahrt durch die Meerenge vorgesehen."
+    },
+    {
+      "term": "fragil",
+      "translated_term": "fragile",
+      "example_usage": "Der Streit über die Gebühren zeigt, wie fragil das Abkommen noch ist."
+    },
+    {
+      "term": "die Erleichterung",
+      "translated_term": "the relief",
+      "example_usage": "Die Nachricht vom Waffenstillstand wurde weltweit mit großer Erleichterung aufgenommen."
+    }
+  ],
+  "tags": [
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR: U.S. lifts blockade on Iranian ports as 60-day clock for a final deal starts ticking",
+      "link_url": "https://www.npr.org/2026/06/18/nx-s1-5863517/trump-iran-deal-blockade-strait-hormuz"
+    },
+    {
+      "name": "Wikipedia: 2026 Strait of Hormuz crisis",
+      "link_url": "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
+    },
+    {
+      "name": "Fortune: Iran floats 'insurance fees' and asserts control over Hormuz",
+      "link_url": "https://fortune.com/2026/06/20/iran-insurance-fees-control-strait-of-hormuz-us-ceasefire/"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "title": "Berlin feiert die Fête de la Musique mit 841 Konzerten",
+  "translated_title": "Berlin Celebrates the Fête de la Musique with 841 Concerts",
+  "text": [
+    {
+      "text": "Jedes Jahr am 21. Juni feiert Berlin den Beginn des Sommers mit der Fête de la Musique.",
+      "translated_text": "Every year on 21 June, Berlin celebrates the beginning of summer with the Fête de la Musique."
+    },
+    {
+      "text": "Das Musikfestival findet im Freien statt und ist für alle Besucher kostenlos.",
+      "translated_text": "The music festival takes place outdoors and is free for all visitors."
+    },
+    {
+      "text": "In diesem Jahr gibt es 841 Konzerte auf etwa 300 Bühnen in der ganzen Stadt.",
+      "translated_text": "This year there are 841 concerts on around 300 stages across the city."
+    },
+    {
+      "text": "Musiker und Bands spielen in Straßen, Parks und auf öffentlichen Plätzen.",
+      "translated_text": "Musicians and bands play in streets, parks and public squares."
+    },
+    {
+      "text": "Das Programm beginnt um 14:00 Uhr und dauert bis 22:00 Uhr im Freien.",
+      "translated_text": "The programme begins at 2 pm and lasts until 10 pm outdoors."
+    },
+    {
+      "text": "Danach geht das Fest als sogenannte Fête de la Nuit in Bars, Pubs und Clubs weiter.",
+      "translated_text": "After that, the festival continues as the so-called Fête de la Nuit in bars, pubs and clubs."
+    },
+    {
+      "text": "In diesem Jahr ist der Berliner Bezirk Reinickendorf der Partnerbezirk des Festivals.",
+      "translated_text": "This year, the Berlin district of Reinickendorf is the festival's partner district."
+    },
+    {
+      "text": "In Reinickendorf finden Konzerte in Stadtteilen wie Tegel, Frohnau und Hermsdorf statt.",
+      "translated_text": "In Reinickendorf, concerts take place in neighbourhoods such as Tegel, Frohnau and Hermsdorf."
+    },
+    {
+      "text": "Das Museum Reinickendorf lädt von 14:00 bis 19:00 Uhr zum Konzertprogramm Musique dans le jardin ein.",
+      "translated_text": "The Reinickendorf Museum is hosting the concert programme Musique dans le jardin from 2 pm to 7 pm."
+    },
+    {
+      "text": "Dort spielen Bands und Musiker kostenlose Konzerte im Garten des Museums.",
+      "translated_text": "There, bands and musicians give free concerts in the museum's garden."
+    },
+    {
+      "text": "Berlin erlebt in diesem Sommer eine Hitzewelle mit Temperaturen bis zu 33 Grad Celsius.",
+      "translated_text": "Berlin is experiencing a heatwave this summer with temperatures up to 33 degrees Celsius."
+    },
+    {
+      "text": "Der Wetterdienst warnt jedoch auch vor Gewittern, Hagel und starken Böen am Abend.",
+      "translated_text": "However, the weather service is also warning of thunderstorms, hail and strong gusts in the evening."
+    },
+    {
+      "text": "Trotz der Hitze und möglicher Unwetter erwarten die Veranstalter viele Tausende Besucher.",
+      "translated_text": "Despite the heat and possible storms, the organisers expect many thousands of visitors."
+    },
+    {
+      "text": "Die Fête de la Musique ist ein Fest der Begegnung und der Vielfalt.",
+      "translated_text": "The Fête de la Musique is a festival of encounters and diversity."
+    },
+    {
+      "text": "Menschen aus allen Teilen der Stadt kommen zusammen, um gemeinsam Musik zu hören und zu feiern.",
+      "translated_text": "People from all parts of the city come together to listen to music and celebrate together."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Bühne",
+      "translated_term": "the stage",
+      "example_usage": "Es gibt 841 Konzerte auf etwa 300 Bühnen in der ganzen Stadt."
+    },
+    {
+      "term": "der Bezirk",
+      "translated_term": "the district / borough",
+      "example_usage": "In diesem Jahr ist der Berliner Bezirk Reinickendorf der Partnerbezirk des Festivals."
+    },
+    {
+      "term": "die Hitzewelle",
+      "translated_term": "the heatwave",
+      "example_usage": "Berlin erlebt in diesem Sommer eine Hitzewelle mit Temperaturen bis zu 33 Grad Celsius."
+    },
+    {
+      "term": "das Gewitter",
+      "translated_term": "the thunderstorm",
+      "example_usage": "Der Wetterdienst warnt vor Gewittern, Hagel und starken Böen am Abend."
+    },
+    {
+      "term": "die Vielfalt",
+      "translated_term": "the diversity / variety",
+      "example_usage": "Die Fête de la Musique ist ein Fest der Begegnung und der Vielfalt."
+    },
+    {
+      "term": "kostenlos",
+      "translated_term": "free of charge",
+      "example_usage": "Das Musikfestival findet im Freien statt und ist für alle Besucher kostenlos."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Musik",
+      "translated_name": "Music"
+    },
+    {
+      "name": "Veranstaltungen",
+      "translated_name": "Events"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de: Reinickendorf feiert am Sonntag die Fête de la Musique 2026",
+      "link_url": "https://www.berlin.de/ba-reinickendorf/aktuelles/pressemitteilungen/2026/pressemitteilung.1683774.php"
+    },
+    {
+      "name": "Berliner Zeitung: 841 Konzerte, 300 Bühnen, kein Ticket: Berlin feiert die Fête de la Musique",
+      "link_url": "https://www.berliner-zeitung.de/article/841-konzerte-300-buehnen-kein-ticket-berlin-feiert-die-fete-de-la-musique-10073864"
+    },
+    {
+      "name": "Fête de la Musique Berlin: Programm 2026",
+      "link_url": "https://www.fetedelamusique.de/en/programme/"
+    }
+  ]
+}
