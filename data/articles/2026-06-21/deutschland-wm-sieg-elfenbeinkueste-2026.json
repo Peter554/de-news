@@ -1,0 +1,130 @@
+{
+  "title": "Deutschland gewinnt dramatisch gegen die Elfenbeinküste bei der WM 2026",
+  "translated_title": "Germany Win Dramatically Against Ivory Coast at the 2026 World Cup",
+  "text": [
+    {
+      "text": "Am 20. Juni 2026 spielte die deutsche Nationalmannschaft ihr zweites Gruppenspiel bei der Weltmeisterschaft 2026.",
+      "translated_text": "On 20 June 2026, the German national team played their second group match at the 2026 World Cup."
+    },
+    {
+      "text": "Das Spiel fand in Toronto in Kanada statt.",
+      "translated_text": "The match took place in Toronto in Canada."
+    },
+    {
+      "text": "Der Gegner war die Elfenbeinküste, auch Côte d'Ivoire genannt.",
+      "translated_text": "The opponent was Ivory Coast, also known as Côte d'Ivoire."
+    },
+    {
+      "text": "In der 30. Minute erzielte Franck Kessié das erste Tor und brachte die Elfenbeinküste in Führung.",
+      "translated_text": "In the 30th minute, Franck Kessié scored the first goal and put Ivory Coast in the lead."
+    },
+    {
+      "text": "Deutschland lag damit zunächst mit 0:1 zurück.",
+      "translated_text": "Germany were therefore trailing 0-1 at that point."
+    },
+    {
+      "text": "In der 68. Minute erzielte Deniz Undav den Ausgleichstreffer für Deutschland.",
+      "translated_text": "In the 68th minute, Deniz Undav scored the equaliser for Germany."
+    },
+    {
+      "text": "Undav traf mit einem Schuss ins Netz und glich so das Spiel aus.",
+      "translated_text": "Undav found the net with a shot and thus levelled the match."
+    },
+    {
+      "text": "Das Spiel schien lange Zeit auf ein Unentschieden hinauszulaufen.",
+      "translated_text": "For a long time, the match seemed to be heading for a draw."
+    },
+    {
+      "text": "Doch in der 94. Minute, also tief in der Nachspielzeit, traf Undav erneut.",
+      "translated_text": "But in the 94th minute, deep in added time, Undav scored again."
+    },
+    {
+      "text": "Mit diesem späten Treffer sicherte Deutschland den wichtigen 2:1-Sieg.",
+      "translated_text": "With this late goal, Germany secured the important 2-1 victory."
+    },
+    {
+      "text": "Durch diesen Sieg hat Deutschland das Achtelfinale der Weltmeisterschaft erreicht.",
+      "translated_text": "Thanks to this victory, Germany have reached the round of sixteen of the World Cup."
+    },
+    {
+      "text": "Undav war der Held des Abends und wurde von den deutschen Fans lautstark gefeiert.",
+      "translated_text": "Undav was the hero of the evening and was loudly celebrated by German fans."
+    },
+    {
+      "text": "Bundestrainer Julian Nagelsmann lobte die kämpferische Leistung seiner Mannschaft.",
+      "translated_text": "Germany's head coach Julian Nagelsmann praised his team's fighting performance."
+    },
+    {
+      "text": "Er sagte, er sei sehr stolz auf die Moral der Spieler.",
+      "translated_text": "He said he was very proud of the players' determination."
+    },
+    {
+      "text": "Die deutschen Fans feierten den Sieg in Toronto und in ganz Deutschland.",
+      "translated_text": "German fans celebrated the victory in Toronto and across Germany."
+    },
+    {
+      "text": "Das nächste Spiel für Deutschland in der Gruppenphase steht in wenigen Tagen an.",
+      "translated_text": "Germany's next group stage match is just a few days away."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "erzielen",
+      "translated_term": "to score / to achieve",
+      "example_usage": "In der 68. Minute erzielte Deniz Undav den Ausgleichstreffer für Deutschland."
+    },
+    {
+      "term": "der Ausgleichstreffer",
+      "translated_term": "the equaliser",
+      "example_usage": "Undav erzielte den Ausgleichstreffer und glich so das Spiel aus."
+    },
+    {
+      "term": "die Nachspielzeit",
+      "translated_term": "the added time / injury time",
+      "example_usage": "In der 94. Minute, also tief in der Nachspielzeit, traf Undav erneut."
+    },
+    {
+      "term": "das Unentschieden",
+      "translated_term": "the draw",
+      "example_usage": "Das Spiel schien lange Zeit auf ein Unentschieden hinauszulaufen."
+    },
+    {
+      "term": "das Achtelfinale",
+      "translated_term": "the round of sixteen",
+      "example_usage": "Durch diesen Sieg hat Deutschland das Achtelfinale der Weltmeisterschaft erreicht."
+    },
+    {
+      "term": "der Bundestrainer",
+      "translated_term": "the national team head coach (Germany)",
+      "example_usage": "Bundestrainer Julian Nagelsmann lobte die kämpferische Leistung seiner Mannschaft."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Fußball",
+      "translated_name": "Football"
+    },
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Weltmeisterschaft",
+      "translated_name": "World Cup"
+    }
+  ],
+  "sources": [
+    {
+      "name": "FIFA: Germany vs Côte d'Ivoire – First Stage – FIFA World Cup 2026",
+      "link_url": "https://www.fifa.com/en/match-centre/match/17/285023/289273/400021469"
+    },
+    {
+      "name": "Sky Sports: Germany 2-1 Ivory Coast – Deniz Undav scores 94th-minute winner",
+      "link_url": "https://www.skysports.com/football/germany-vs-ivory-coast/549798"
+    },
+    {
+      "name": "ESPN: Germany 2-1 Ivory Coast (Jun 20, 2026) Final Score",
+      "link_url": "https://www.espn.com/soccer/match/_/gameId/760448/ivory-coast-germany"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "title": "Schwerer Zugunfall bei Bedford fordert ein Todesopfer",
+  "translated_title": "Serious Train Crash Near Bedford Claims One Life",
+  "text": [
+    {
+      "text": "Am 19. Juni 2026 kollidierten zwei Züge bei Elstow, in der Nähe von Bedford in England.",
+      "translated_text": "On 19 June 2026, two trains collided near Elstow, close to Bedford in England."
+    },
+    {
+      "text": "Die beiden Züge gehörten dem Betreiber East Midlands Railway.",
+      "translated_text": "Both trains belonged to the operator East Midlands Railway."
+    },
+    {
+      "text": "Einer der Züge fuhr von Nottingham nach London, der andere von Corby nach London.",
+      "translated_text": "One of the trains was travelling from Nottingham to London, the other from Corby to London."
+    },
+    {
+      "text": "Der Nottingham-Zug hatte wegen eines technischen Problems auf der Strecke angehalten.",
+      "translated_text": "The Nottingham train had stopped on the track due to a technical problem."
+    },
+    {
+      "text": "Der Corby-Zug fuhr von hinten in den stehenden Zug hinein.",
+      "translated_text": "The Corby train ran into the stationary train from behind."
+    },
+    {
+      "text": "Dabei starb der Lokführer des Corby-Zuges.",
+      "translated_text": "The driver of the Corby train was killed in the collision."
+    },
+    {
+      "text": "Rund 100 Passagiere wurden bei dem Unfall verletzt.",
+      "translated_text": "Around 100 passengers were injured in the accident."
+    },
+    {
+      "text": "Neun Menschen befanden sich in kritischem Zustand, elf weitere wurden schwer verletzt.",
+      "translated_text": "Nine people were in a critical condition, eleven others were seriously injured."
+    },
+    {
+      "text": "Rettungskräfte und Feuerwehr waren schnell vor Ort und halfen den Verletzten.",
+      "translated_text": "Emergency services and fire crews arrived quickly at the scene and helped the injured."
+    },
+    {
+      "text": "Die Bahnstrecke wurde für mehrere Tage für den Zugverkehr gesperrt.",
+      "translated_text": "The railway line was closed to rail traffic for several days."
+    },
+    {
+      "text": "Die Behörden leiteten sofort eine Untersuchung des Unfalls ein.",
+      "translated_text": "The authorities immediately launched an investigation into the accident."
+    },
+    {
+      "text": "Experten prüfen, ob ein Signalfehler oder ein technisches Problem die Ursache war.",
+      "translated_text": "Experts are examining whether a signal fault or a technical problem was the cause."
+    },
+    {
+      "text": "Der Unfall hat eine große Debatte über die Sicherheit der britischen Bahn ausgelöst.",
+      "translated_text": "The accident has sparked a major debate about the safety of Britain's railways."
+    },
+    {
+      "text": "Viele Politiker fordern jetzt mehr Investitionen in die Bahninfrastruktur.",
+      "translated_text": "Many politicians are now calling for more investment in rail infrastructure."
+    },
+    {
+      "text": "Die verletzten Passagiere wurden in umliegende Krankenhäuser gebracht und dort behandelt.",
+      "translated_text": "The injured passengers were taken to nearby hospitals and treated there."
+    },
+    {
+      "text": "Der Premierminister sprach den Angehörigen der Opfer sein Mitgefühl aus.",
+      "translated_text": "The Prime Minister expressed his condolences to the families of the victims."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "kollidieren",
+      "translated_term": "to collide",
+      "example_usage": "Am 19. Juni 2026 kollidierten zwei Züge bei Elstow."
+    },
+    {
+      "term": "der Lokführer",
+      "translated_term": "the train driver",
+      "example_usage": "Der Lokführer des Corby-Zuges starb bei dem Unfall."
+    },
+    {
+      "term": "der kritische Zustand",
+      "translated_term": "the critical condition",
+      "example_usage": "Neun Menschen befanden sich in kritischem Zustand."
+    },
+    {
+      "term": "einleiten",
+      "translated_term": "to launch / to initiate",
+      "example_usage": "Die Behörden leiteten sofort eine Untersuchung des Unfalls ein."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "the infrastructure",
+      "example_usage": "Viele Politiker fordern mehr Investitionen in die Bahninfrastruktur."
+    },
+    {
+      "term": "das Mitgefühl",
+      "translated_term": "the compassion / condolences",
+      "example_usage": "Der Premierminister sprach den Angehörigen sein Mitgefühl aus."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Katastrophe",
+      "translated_name": "Disaster"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Wikipedia: 2026 Bedford train collision",
+      "link_url": "https://en.wikipedia.org/wiki/2026_Bedford_train_collision"
+    },
+    {
+      "name": "CBC News: 9 people remain in critical condition after fatal train collision in U.K.",
+      "link_url": "https://www.cbc.ca/news/world/train-crash-bedford-9.7243040"
+    }
+  ]
+}
