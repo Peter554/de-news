@@ -1,0 +1,126 @@
+{
+  "title": "Rechtskandidat De la Espriella gewinnt knapp die Wahl in Kolumbien",
+  "translated_title": "Right-Wing Candidate De la Espriella Narrowly Wins Colombian Election",
+  "text": [
+    {
+      "text": "In Kolumbien hat die Präsidentschaftswahl ein knappes Ergebnis gebracht.",
+      "translated_text": "In Colombia, the presidential election has produced a close result."
+    },
+    {
+      "text": "Am 21. Juni 2026 fand die Stichwahl zwischen zwei Kandidaten statt.",
+      "translated_text": "On 21 June 2026, the run-off between two candidates took place."
+    },
+    {
+      "text": "Der rechte Kandidat Abelardo de la Espriella hat die Wahl vorläufig gewonnen.",
+      "translated_text": "The right-wing candidate Abelardo de la Espriella has provisionally won the election."
+    },
+    {
+      "text": "Sein Gegenkandidat war der linke Politiker Iván Cepeda.",
+      "translated_text": "His opposing candidate was the left-wing politician Iván Cepeda."
+    },
+    {
+      "text": "De la Espriella erhielt laut vorläufigen Ergebnissen 49,65 Prozent der Stimmen.",
+      "translated_text": "According to preliminary results, De la Espriella received 49.65 per cent of the votes."
+    },
+    {
+      "text": "Cepeda kam auf 48,70 Prozent, der Unterschied beträgt also weniger als ein Prozent.",
+      "translated_text": "Cepeda received 48.70 per cent, so the difference is less than one per cent."
+    },
+    {
+      "text": "De la Espriella hatte im ersten Wahlgang im Mai 2026 mit 43,7 Prozent die meisten Stimmen erhalten.",
+      "translated_text": "De la Espriella had received the most votes in the first round in May 2026 with 43.7 per cent."
+    },
+    {
+      "text": "Der amtierende Präsident Gustavo Petro durfte nach der kolumbianischen Verfassung nicht erneut kandidieren.",
+      "translated_text": "Incumbent President Gustavo Petro was not permitted to stand again under the Colombian constitution."
+    },
+    {
+      "text": "US-Präsident Donald Trump hatte De la Espriella im Wahlkampf offiziell unterstützt.",
+      "translated_text": "US President Donald Trump officially supported De la Espriella during the election campaign."
+    },
+    {
+      "text": "US-Außenminister Marco Rubio war einer der ersten, der De la Espriella zu seinem Sieg gratulierte.",
+      "translated_text": "US Secretary of State Marco Rubio was one of the first to congratulate De la Espriella on his victory."
+    },
+    {
+      "text": "Cepeda erkennt das Ergebnis jedoch noch nicht an.",
+      "translated_text": "However, Cepeda does not yet accept the result."
+    },
+    {
+      "text": "Er nennt die Ergebnisse „inoffiziell und nicht bindend" und fordert eine vollständige Auszählung.",
+      "translated_text": "He calls the results \"unofficial and non-binding\" and demands a full count."
+    },
+    {
+      "text": "Etwa 33.000 Wahlurnen sind noch nicht vollständig ausgezählt worden.",
+      "translated_text": "Around 33,000 ballot boxes have not yet been fully counted."
+    },
+    {
+      "text": "Die Wahl zeigt, wie gespalten Kolumbien politisch ist.",
+      "translated_text": "The election shows how politically divided Colombia is."
+    },
+    {
+      "text": "Die endgültigen Ergebnisse und die Reaktion der internationalen Gemeinschaft werden in den nächsten Tagen erwartet.",
+      "translated_text": "The final results and the international community's reaction are expected in the coming days."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Stichwahl",
+      "translated_term": "the run-off election",
+      "example_usage": "Am 21. Juni 2026 fand die Stichwahl zwischen zwei Kandidaten statt."
+    },
+    {
+      "term": "der Wahlgang",
+      "translated_term": "the round of voting",
+      "example_usage": "De la Espriella hatte im ersten Wahlgang die meisten Stimmen erhalten."
+    },
+    {
+      "term": "der amtierende Präsident",
+      "translated_term": "the incumbent president",
+      "example_usage": "Der amtierende Präsident Gustavo Petro durfte nicht erneut kandidieren."
+    },
+    {
+      "term": "anerkennen",
+      "translated_term": "to recognise / to accept",
+      "example_usage": "Cepeda erkennt das Ergebnis noch nicht an."
+    },
+    {
+      "term": "die Auszählung",
+      "translated_term": "the count / the counting",
+      "example_usage": "Cepeda fordert eine vollständige Auszählung."
+    },
+    {
+      "term": "die Wahlurne",
+      "translated_term": "the ballot box",
+      "example_usage": "Etwa 33.000 Wahlurnen sind noch nicht vollständig ausgezählt worden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Lateinamerika",
+      "translated_name": "Latin America"
+    },
+    {
+      "name": "Internationale Politik",
+      "translated_name": "International Politics"
+    },
+    {
+      "name": "Wahlkampf",
+      "translated_name": "Election Campaign"
+    }
+  ],
+  "sources": [
+    {
+      "name": "CNN: Trump-backed de la Espriella wins preliminary count in razor-tight Colombian presidential runoff",
+      "link_url": "https://www.cnn.com/2026/06/21/americas/colombia-trump-abelardo-de-la-espriella-intl-latam"
+    },
+    {
+      "name": "NPR: Colombia Election – Right-wing Abelardo de la Espriella wins, initial count shows",
+      "link_url": "https://www.npr.org/2026/06/21/nx-s1-5865676/delaespriella-colombia-election"
+    },
+    {
+      "name": "France 24: De la Espriella wins razor-thin majority in Colombia's election",
+      "link_url": "https://www.france24.com/en/americas/20260621-colombia-presidential-election-live-cepeda-de-la-espriella-face-off-in-second-round"
+    }
+  ]
+}
