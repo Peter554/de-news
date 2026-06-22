@@ -1,0 +1,126 @@
+{
+  "title": "Extreme Waldbrandgefahr in Berlin und Brandenburg",
+  "translated_title": "Extreme Forest Fire Risk in Berlin and Brandenburg",
+  "text": [
+    {
+      "text": "In Berlin und Brandenburg herrscht aktuell eine sehr hohe Waldbrandgefahr.",
+      "translated_text": "There is currently a very high risk of forest fires in Berlin and Brandenburg."
+    },
+    {
+      "text": "Der Deutsche Wetterdienst hat für weite Teile der Region die höchsten Warnstufen ausgegeben.",
+      "translated_text": "The German Weather Service has issued the highest warning levels for large parts of the region."
+    },
+    {
+      "text": "Die Waldbrandgefahr wird auf einer Skala von eins bis fünf gemessen.",
+      "translated_text": "The risk of forest fires is measured on a scale of one to five."
+    },
+    {
+      "text": "In einigen Gebieten westlich von Berlin wurde bereits die höchste Stufe fünf erreicht.",
+      "translated_text": "In some areas to the west of Berlin, the highest level five has already been reached."
+    },
+    {
+      "text": "Ursache für die hohe Gefahr ist eine lange Trockenperiode mit wenig Regen.",
+      "translated_text": "The cause of the high risk is a long dry spell with little rain."
+    },
+    {
+      "text": "Dazu kommen sehr hohe Temperaturen von bis zu 35 Grad in dieser Woche.",
+      "translated_text": "Added to this are very high temperatures of up to 35 degrees this week."
+    },
+    {
+      "text": "Brandenburg ist besonders gefährdet, weil es dort sehr viele Wälder und sandige Böden gibt.",
+      "translated_text": "Brandenburg is particularly at risk because there are very many forests and sandy soils there."
+    },
+    {
+      "text": "Das Bundesland hat in der Vergangenheit oft mit großen Waldbränden zu kämpfen gehabt.",
+      "translated_text": "The federal state has often had to battle large forest fires in the past."
+    },
+    {
+      "text": "Die Behörden rufen die Bevölkerung zur Vorsicht auf.",
+      "translated_text": "The authorities are calling on the population to exercise caution."
+    },
+    {
+      "text": "Es ist verboten, im Wald Feuer zu machen oder zu rauchen.",
+      "translated_text": "It is forbidden to light fires or smoke in the forest."
+    },
+    {
+      "text": "Auch das Parken von Autos auf trockenem Gras ist gefährlich, weil heiße Abgase einen Brand auslösen können.",
+      "translated_text": "Parking cars on dry grass is also dangerous because hot exhaust gases can start a fire."
+    },
+    {
+      "text": "Die Feuerwehren in der Region sind in erhöhter Bereitschaft.",
+      "translated_text": "The fire brigades in the region are on heightened alert."
+    },
+    {
+      "text": "Wanderer und Radfahrer werden gebeten, die Wälder vorerst zu meiden.",
+      "translated_text": "Hikers and cyclists are being asked to avoid the forests for the time being."
+    },
+    {
+      "text": "Experten warnen, dass sich die Waldbrandgefahr in Deutschland durch den Klimawandel in Zukunft weiter erhöhen wird.",
+      "translated_text": "Experts warn that the risk of forest fires in Germany will continue to increase in the future due to climate change."
+    },
+    {
+      "text": "Die Situation soll sich erst entspannen, wenn Ende der Woche Regen erwartet wird.",
+      "translated_text": "The situation should only ease when rain is expected at the end of the week."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Waldbrandgefahr",
+      "translated_term": "the forest fire risk",
+      "example_usage": "In Berlin und Brandenburg herrscht aktuell eine sehr hohe Waldbrandgefahr."
+    },
+    {
+      "term": "die Warnstufe",
+      "translated_term": "the warning level",
+      "example_usage": "Der Deutsche Wetterdienst hat die höchsten Warnstufen ausgegeben."
+    },
+    {
+      "term": "die Trockenperiode",
+      "translated_term": "the dry spell / the drought period",
+      "example_usage": "Ursache für die hohe Gefahr ist eine lange Trockenperiode mit wenig Regen."
+    },
+    {
+      "term": "gefährdet",
+      "translated_term": "at risk / endangered",
+      "example_usage": "Brandenburg ist besonders gefährdet, weil es dort viele Wälder gibt."
+    },
+    {
+      "term": "die Bereitschaft",
+      "translated_term": "the readiness / the alert",
+      "example_usage": "Die Feuerwehren in der Region sind in erhöhter Bereitschaft."
+    },
+    {
+      "term": "meiden",
+      "translated_term": "to avoid",
+      "example_usage": "Wanderer werden gebeten, die Wälder vorerst zu meiden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    },
+    {
+      "name": "Klimapolitik",
+      "translated_name": "Climate Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "news.de: Waldbrandgefahr in Brandenburg am 19.06.2026",
+      "link_url": "https://www.news.de/amp/lokales/856955853/waldbrandgefahr-brandenburg-aktuell-waldbrand-risiko-extrem-hoch-waldbrandgefahrenindex-5-heute-am-19-06-2026-erreicht-wo-sind-waldbraende-moeglich/1/"
+    },
+    {
+      "name": "Charlottenburg-Wilmersdorf Zeitung: Aktuelle Waldbrandgefahr in Berlin",
+      "link_url": "https://www.charlottenburg-wilmersdorf-zeitung.de/aktuelle-waldbrandgefahr-in-berlin/"
+    }
+  ]
+}

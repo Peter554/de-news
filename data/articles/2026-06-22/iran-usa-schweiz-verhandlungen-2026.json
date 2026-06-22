@@ -1,0 +1,130 @@
+{
+  "title": "USA und Iran verhandeln in der Schweiz über Frieden",
+  "translated_title": "USA and Iran Negotiate Peace in Switzerland",
+  "text": [
+    {
+      "text": "In der Schweiz haben die USA und der Iran in dieser Woche wichtige Friedensgespräche begonnen.",
+      "translated_text": "In Switzerland, the USA and Iran have begun important peace talks this week."
+    },
+    {
+      "text": "US-Vizepräsident JD Vance traf sich persönlich mit iranischen Vertretern in einem Schweizer Resort.",
+      "translated_text": "US Vice President JD Vance met personally with Iranian representatives at a Swiss resort."
+    },
+    {
+      "text": "Die beiden Länder hatten im Juni 2026 ein vorläufiges Abkommen unterzeichnet, das einen 60-tägigen Waffenstillstand vorsieht.",
+      "translated_text": "The two countries had signed a preliminary agreement in June 2026 providing for a 60-day ceasefire."
+    },
+    {
+      "text": "Dieser Waffenstillstand soll Zeit schaffen, um über ein dauerhaftes Friedensabkommen zu verhandeln.",
+      "translated_text": "This ceasefire is intended to create time to negotiate a lasting peace agreement."
+    },
+    {
+      "text": "Ein wichtiges Thema bei den Gesprächen ist das iranische Atomprogramm.",
+      "translated_text": "An important topic in the talks is the Iranian nuclear programme."
+    },
+    {
+      "text": "Die USA und der Iran diskutieren, wie viel Uran der Iran anreichern darf.",
+      "translated_text": "The USA and Iran are discussing how much uranium Iran is allowed to enrich."
+    },
+    {
+      "text": "Der Iran hat außerdem gefordert, dass die Kämpfe im Libanon beendet werden.",
+      "translated_text": "Iran has also demanded that the fighting in Lebanon be brought to an end."
+    },
+    {
+      "text": "Präsident Donald Trump hatte zuvor gedroht, den Iran erneut anzugreifen, falls die Verhandlungen scheitern.",
+      "translated_text": "President Donald Trump had previously threatened to attack Iran again if the negotiations fail."
+    },
+    {
+      "text": "Daraufhin soll die iranische Delegation zeitweise die Verhandlungen unterbrochen haben.",
+      "translated_text": "Following this, the Iranian delegation is said to have temporarily suspended the negotiations."
+    },
+    {
+      "text": "Vance erklärte jedoch danach, dass gute Fortschritte erzielt worden seien.",
+      "translated_text": "However, Vance stated afterwards that good progress had been made."
+    },
+    {
+      "text": "Katar und Pakistan haben dabei geholfen, eine Kommunikationslinie zwischen beiden Seiten zu schaffen.",
+      "translated_text": "Qatar and Pakistan helped to establish a line of communication between both sides."
+    },
+    {
+      "text": "Damit soll sichergestellt werden, dass Handelsschiffe sicher durch die Straße von Hormus fahren können.",
+      "translated_text": "This is intended to ensure that merchant vessels can pass safely through the Strait of Hormuz."
+    },
+    {
+      "text": "Die internationale Gemeinschaft verfolgt die Gespräche mit großer Aufmerksamkeit.",
+      "translated_text": "The international community is following the talks with great attention."
+    },
+    {
+      "text": "Viele Länder hoffen auf ein Ende des Konflikts und auf mehr Stabilität im Nahen Osten.",
+      "translated_text": "Many countries are hoping for an end to the conflict and for greater stability in the Middle East."
+    },
+    {
+      "text": "Die technischen Gespräche auf Expertenebene sollen in den kommenden Tagen weitergehen.",
+      "translated_text": "The technical talks at expert level are set to continue in the coming days."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Friedensgespräche",
+      "translated_term": "the peace talks",
+      "example_usage": "Die USA und der Iran haben wichtige Friedensgespräche begonnen."
+    },
+    {
+      "term": "der Waffenstillstand",
+      "translated_term": "the ceasefire",
+      "example_usage": "Das Abkommen sieht einen 60-tägigen Waffenstillstand vor."
+    },
+    {
+      "term": "anreichern",
+      "translated_term": "to enrich",
+      "example_usage": "Die USA und der Iran diskutieren, wie viel Uran der Iran anreichern darf."
+    },
+    {
+      "term": "die Verhandlungen",
+      "translated_term": "the negotiations",
+      "example_usage": "Die iranische Delegation soll zeitweise die Verhandlungen unterbrochen haben."
+    },
+    {
+      "term": "die Straße von Hormus",
+      "translated_term": "the Strait of Hormuz",
+      "example_usage": "Handelsschiffe sollen sicher durch die Straße von Hormus fahren können."
+    },
+    {
+      "term": "erzielen",
+      "translated_term": "to achieve / to make",
+      "example_usage": "Vance erklärte, dass gute Fortschritte erzielt worden seien."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Iran war updates – First round of Iran-US talks concludes in Switzerland",
+      "link_url": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon"
+    },
+    {
+      "name": "Bloomberg: US-Iran Talks on Lasting Ceasefire Begin in Switzerland",
+      "link_url": "https://www.bloomberg.com/news/articles/2026-06-21/us-and-iran-poised-to-begin-swiss-talks-on-lasting-ceasefire"
+    },
+    {
+      "name": "CBS News: US and Iranian negotiators meet as Trump threatens Iran over Hezbollah",
+      "link_url": "https://www.cbsnews.com/live-updates/iran-us-war-talks-suspended-trump-mou-israel-lebanon-hezbollah-fighting/"
+    }
+  ]
+}
