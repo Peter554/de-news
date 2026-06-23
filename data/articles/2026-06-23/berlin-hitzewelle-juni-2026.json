@@ -1,0 +1,130 @@
+{
+  "title": "Extreme Hitze in Berlin und Brandenburg: Bis zu 38 Grad",
+  "translated_title": "Extreme Heat in Berlin and Brandenburg: Up to 38 Degrees",
+  "text": [
+    {
+      "text": "Eine starke Hitzewelle trifft Berlin und Brandenburg in der letzten Juniwoche 2026.",
+      "translated_text": "A strong heat wave is hitting Berlin and Brandenburg in the last week of June 2026."
+    },
+    {
+      "text": "Der Deutsche Wetterdienst (DWD) hat Hitzewarnungen für die Region ausgegeben.",
+      "translated_text": "The German Weather Service (DWD) has issued heat warnings for the region."
+    },
+    {
+      "text": "Die Temperaturen können auf bis zu 38 Grad Celsius steigen.",
+      "translated_text": "Temperatures can rise to up to 38 degrees Celsius."
+    },
+    {
+      "text": "Für mehrere Tage werden Temperaturen über 30 Grad erwartet.",
+      "translated_text": "Temperatures above 30 degrees are expected for several days."
+    },
+    {
+      "text": "Berlin könnte damit zu einem der heißesten Orte in Deutschland werden.",
+      "translated_text": "Berlin could thus become one of the hottest places in Germany."
+    },
+    {
+      "text": "Die Behörden in Berlin warnen die Bevölkerung vor den Gefahren der Hitze.",
+      "translated_text": "The authorities in Berlin are warning the population about the dangers of the heat."
+    },
+    {
+      "text": "Besonders alte Menschen und Kinder sollen viel Wasser trinken und direkte Sonne meiden.",
+      "translated_text": "Elderly people and children in particular should drink plenty of water and avoid direct sunlight."
+    },
+    {
+      "text": "In Brandenburg besteht außerdem eine hohe Waldbrandgefahr.",
+      "translated_text": "In Brandenburg, there is also a high risk of forest fires."
+    },
+    {
+      "text": "Brandenburg gehört zu den Bundesländern mit dem höchsten Waldbrandrisiko in Deutschland.",
+      "translated_text": "Brandenburg is one of the federal states with the highest risk of forest fires in Germany."
+    },
+    {
+      "text": "Bei langer Trockenheit und hohen Temperaturen wird oft die höchste Waldbrandgefahrenstufe ausgerufen.",
+      "translated_text": "During prolonged drought and high temperatures, the highest forest fire danger level is often declared."
+    },
+    {
+      "text": "Die Hitzewelle betrifft nicht nur Deutschland, sondern ganz Europa.",
+      "translated_text": "The heat wave is affecting not only Germany, but the whole of Europe."
+    },
+    {
+      "text": "In Portugal und Spanien werden Temperaturen bis zu 45 Grad erwartet.",
+      "translated_text": "Temperatures of up to 45 degrees are expected in Portugal and Spain."
+    },
+    {
+      "text": "Nach der Hitzewelle soll das Wetter in Berlin wieder kühler werden.",
+      "translated_text": "After the heat wave, the weather in Berlin is expected to become cooler again."
+    },
+    {
+      "text": "Starke Schauer und Gewitter sollen die Temperaturen auf etwa 24 Grad senken.",
+      "translated_text": "Heavy showers and thunderstorms are expected to lower temperatures to around 24 degrees."
+    },
+    {
+      "text": "Klimaexperten sagen, dass solche extremen Hitzewellen durch den Klimawandel immer häufiger werden.",
+      "translated_text": "Climate experts say that such extreme heat waves are becoming more frequent due to climate change."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Hitzewelle",
+      "translated_term": "the heat wave",
+      "example_usage": "Eine starke Hitzewelle trifft Berlin und Brandenburg in der letzten Juniwoche 2026."
+    },
+    {
+      "term": "die Hitzewarnung",
+      "translated_term": "the heat warning",
+      "example_usage": "Der Deutsche Wetterdienst hat Hitzewarnungen für die Region ausgegeben."
+    },
+    {
+      "term": "die Waldbrandgefahr",
+      "translated_term": "the forest fire risk / danger",
+      "example_usage": "In Brandenburg besteht außerdem eine hohe Waldbrandgefahr."
+    },
+    {
+      "term": "ausgeben",
+      "translated_term": "to issue / to put out",
+      "example_usage": "Der Deutsche Wetterdienst hat Hitzewarnungen für die Region ausgegeben."
+    },
+    {
+      "term": "das Gewitter",
+      "translated_term": "the thunderstorm",
+      "example_usage": "Starke Schauer und Gewitter sollen die Temperaturen auf etwa 24 Grad senken."
+    },
+    {
+      "term": "meiden",
+      "translated_term": "to avoid",
+      "example_usage": "Besonders alte Menschen und Kinder sollen direkte Sonne meiden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Berlin",
+      "translated_name": "Berlin"
+    },
+    {
+      "name": "Brandenburg",
+      "translated_name": "Brandenburg"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    },
+    {
+      "name": "Klimapolitik",
+      "translated_name": "Climate Policy"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Berlin.de: Up to 38 degrees – Heat wave hits Berlin",
+      "link_url": "https://www.berlin.de/en/news/10453369-5559700-up-to-38-degrees-heat-wave-hits-berlin.en.html"
+    },
+    {
+      "name": "Berliner Zeitung: Hitzewelle erreicht Berlin – bis zu 37 Grad und der erste Wüstentag droht",
+      "link_url": "https://www.berliner-zeitung.de/article/hitzewelle-erreicht-berlin-bis-zu-37-grad-und-der-erste-wuestentag-droht-10090465"
+    },
+    {
+      "name": "The Local Germany: When will Germany see the end of the 'extreme' heat?",
+      "link_url": "https://www.thelocal.de/20260622/when-will-germany-see-the-end-of-the-extreme-heat"
+    }
+  ]
+}
