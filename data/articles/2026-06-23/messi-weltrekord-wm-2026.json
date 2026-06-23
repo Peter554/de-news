@@ -1,0 +1,126 @@
+{
+  "title": "Messi bricht Weltrekord bei der WM 2026",
+  "translated_title": "Messi Breaks World Record at the 2026 World Cup",
+  "text": [
+    {
+      "text": "Bei der FIFA Weltmeisterschaft 2026 hat Lionel Messi Geschichte geschrieben.",
+      "translated_text": "At the 2026 FIFA World Cup, Lionel Messi has made history."
+    },
+    {
+      "text": "Der argentinische Kapitän erzielte zwei Tore gegen Österreich und wurde damit zum besten Torschützen in der Geschichte der Weltmeisterschaft.",
+      "translated_text": "The Argentine captain scored two goals against Austria, becoming the all-time top scorer in World Cup history."
+    },
+    {
+      "text": "Messi hat insgesamt 18 Tore in sechs Weltmeisterschaften erzielt.",
+      "translated_text": "Messi has scored a total of 18 goals across six World Cups."
+    },
+    {
+      "text": "Damit übertraf er den bisherigen Rekord des deutschen Stürmers Miroslav Klose, der 16 WM-Tore erzielt hatte.",
+      "translated_text": "With this, he surpassed the previous record of German striker Miroslav Klose, who had scored 16 World Cup goals."
+    },
+    {
+      "text": "Messi überholte außerdem die brasilianische Spielerin Marta, die mit 17 Toren den Rekord für Frauen hält.",
+      "translated_text": "Messi also overtook Brazilian player Marta, who holds the record for women with 17 goals."
+    },
+    {
+      "text": "Das erste Rekordtor fiel kurz vor der Halbzeit.",
+      "translated_text": "The first record-breaking goal came just before half-time."
+    },
+    {
+      "text": "Messi verwandelte einen Schuss mit dem linken Fuß gegen den österreichischen Torwart Alexander Schlager.",
+      "translated_text": "Messi converted a shot with his left foot against Austrian goalkeeper Alexander Schlager."
+    },
+    {
+      "text": "Das zweite Tor erzielte er in der Nachspielzeit, als er einen Abpraller von Julian Álvarez verwertete.",
+      "translated_text": "He scored the second goal in stoppage time, latching on to a rebound from Julián Álvarez."
+    },
+    {
+      "text": "Argentinien gewann das Spiel und steht damit gut da in der Gruppenphase.",
+      "translated_text": "Argentina won the match and are therefore in a good position in the group stage."
+    },
+    {
+      "text": "Der 38-jährige Messi spielt bei dieser Weltmeisterschaft zum letzten Mal für Argentinien.",
+      "translated_text": "The 38-year-old Messi is playing for Argentina for the last time at this World Cup."
+    },
+    {
+      "text": "Viele Fans und Experten sind begeistert von seiner Leistung.",
+      "translated_text": "Many fans and experts are thrilled by his performance."
+    },
+    {
+      "text": "Die Weltmeisterschaft 2026 findet in den USA, Kanada und Mexiko statt.",
+      "translated_text": "The 2026 World Cup is taking place in the USA, Canada and Mexico."
+    },
+    {
+      "text": "Es ist das erste Mal, dass drei Länder gemeinsam eine Weltmeisterschaft ausrichten.",
+      "translated_text": "It is the first time that three countries are jointly hosting a World Cup."
+    },
+    {
+      "text": "Argentinien ist der amtierende Weltmeister und verteidigt seinen Titel.",
+      "translated_text": "Argentina are the reigning world champions and are defending their title."
+    },
+    {
+      "text": "Messis Rekord ist ein historischer Moment für den gesamten Fußball.",
+      "translated_text": "Messi's record is a historic moment for football as a whole."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Torschütze",
+      "translated_term": "the goalscorer",
+      "example_usage": "Messi wurde damit zum besten Torschützen in der Geschichte der Weltmeisterschaft."
+    },
+    {
+      "term": "erzielen",
+      "translated_term": "to score (a goal)",
+      "example_usage": "Der argentinische Kapitän erzielte zwei Tore gegen Österreich."
+    },
+    {
+      "term": "die Nachspielzeit",
+      "translated_term": "stoppage time / injury time",
+      "example_usage": "Das zweite Tor erzielte er in der Nachspielzeit."
+    },
+    {
+      "term": "der amtierende Weltmeister",
+      "translated_term": "the reigning world champion",
+      "example_usage": "Argentinien ist der amtierende Weltmeister und verteidigt seinen Titel."
+    },
+    {
+      "term": "übertreffen",
+      "translated_term": "to surpass / to exceed",
+      "example_usage": "Damit übertraf er den bisherigen Rekord des deutschen Stürmers Miroslav Klose."
+    },
+    {
+      "term": "die Gruppenphase",
+      "translated_term": "the group stage",
+      "example_usage": "Argentinien steht damit gut da in der Gruppenphase."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Fußball",
+      "translated_name": "Football"
+    },
+    {
+      "name": "Sport",
+      "translated_name": "Sports"
+    },
+    {
+      "name": "Weltmeisterschaft 2026",
+      "translated_name": "World Cup 2026"
+    }
+  ],
+  "sources": [
+    {
+      "name": "Al Jazeera: Messi breaks World Cup's all-time scoring record with 18 goals",
+      "link_url": "https://www.aljazeera.com/sports/2026/6/22/messi-breaks-world-cups-all-time-scoring-record-with-17th-goal-vs-austria"
+    },
+    {
+      "name": "NPR: Magnificent Messi makes history, breaks all-time World Cup scoring record",
+      "link_url": "https://www.npr.org/2026/06/22/nx-s1-5866649/2026-world-cup-fifa-lionel-messi-argentina-scoring-record"
+    },
+    {
+      "name": "Sky Sports: Lionel Messi breaks World Cup scoring record with goal against Austria",
+      "link_url": "https://www.skysports.com/football/news/11095/13556817/lionel-messi-argentina-star-breaks-world-cup-scoring-record-with-goal-against-austria-at-2026-world-cup"
+    }
+  ]
+}
