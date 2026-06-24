@@ -1,0 +1,135 @@
+{
+  "title": "USA und Iran streiten über Atomwaffen-Inspektionen beim Friedensdeal",
+  "translated_title": "USA and Iran Dispute Nuclear Inspections in Peace Deal Talks",
+  "text": [
+    {
+      "text": "Die USA und Iran führen derzeit Gespräche über ein endgültiges Friedensabkommen.",
+      "translated_text": "The USA and Iran are currently holding talks about a final peace agreement."
+    },
+    {
+      "text": "Im Juni 2026 haben beide Länder einen vorläufigen Fahrplan für einen Deal vereinbart.",
+      "translated_text": "In June 2026, both countries agreed on a preliminary road map for a deal."
+    },
+    {
+      "text": "Das Ziel ist, den Krieg im Nahen Osten zu beenden und die Straße von Hormuz wieder zu öffnen.",
+      "translated_text": "The goal is to end the war in the Middle East and reopen the Strait of Hormuz."
+    },
+    {
+      "text": "Die Straße von Hormuz ist für den weltweiten Ölhandel sehr wichtig.",
+      "translated_text": "The Strait of Hormuz is very important for global oil trade."
+    },
+    {
+      "text": "Durch diese Meeresstraße fließt ein großer Teil des weltweiten Öls.",
+      "translated_text": "A large part of the world's oil flows through this strait."
+    },
+    {
+      "text": "Jetzt gibt es aber neue Probleme bei den Verhandlungen.",
+      "translated_text": "But now there are new problems in the negotiations."
+    },
+    {
+      "text": "Es geht darum, ob Iran UN-Inspektoren Zugang zu zerstörten Atomanlagen erlaubt.",
+      "translated_text": "The question is whether Iran will allow UN inspectors access to destroyed nuclear facilities."
+    },
+    {
+      "text": "Die USA bestehen darauf, dass die Inspektoren die Anlagen besuchen dürfen.",
+      "translated_text": "The USA insists that the inspectors be allowed to visit the facilities."
+    },
+    {
+      "text": "Iran lehnt das aber ab und sagt, dass es ein inneres Sicherheitsproblem ist.",
+      "translated_text": "Iran refuses this, however, saying that it is an internal security issue."
+    },
+    {
+      "text": "US-Vizepräsident JD Vance sagte, dass er optimistisch ist, innerhalb von 60 Tagen einen endgültigen Deal zu erreichen.",
+      "translated_text": "US Vice President JD Vance said he is optimistic about reaching a final deal within 60 days."
+    },
+    {
+      "text": "Er glaubt, dass beide Seiten den Frieden wollen.",
+      "translated_text": "He believes that both sides want peace."
+    },
+    {
+      "text": "Die Gespräche finden mit Hilfe von Vermittlern aus anderen Ländern statt.",
+      "translated_text": "The talks are taking place with the help of mediators from other countries."
+    },
+    {
+      "text": "Ein Abkommen wäre sehr wichtig für die Stabilität im Nahen Osten.",
+      "translated_text": "An agreement would be very important for stability in the Middle East."
+    },
+    {
+      "text": "Es würde auch die Energiepreise weltweit senken.",
+      "translated_text": "It would also lower energy prices worldwide."
+    },
+    {
+      "text": "Die Weltgemeinschaft hofft auf eine schnelle Einigung.",
+      "translated_text": "The international community hopes for a quick agreement."
+    },
+    {
+      "text": "Aber beide Seiten haben noch große Meinungsverschiedenheiten.",
+      "translated_text": "But both sides still have major differences of opinion."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "das Friedensabkommen",
+      "translated_term": "the peace agreement",
+      "example_usage": "Die USA und Iran führen derzeit Gespräche über ein endgültiges Friedensabkommen."
+    },
+    {
+      "term": "die Verhandlungen",
+      "translated_term": "the negotiations",
+      "example_usage": "Jetzt gibt es aber neue Probleme bei den Verhandlungen."
+    },
+    {
+      "term": "die Atomanlage",
+      "translated_term": "the nuclear facility",
+      "example_usage": "Es geht darum, ob Iran UN-Inspektoren Zugang zu zerstörten Atomanlagen erlaubt."
+    },
+    {
+      "term": "bestehen auf",
+      "translated_term": "to insist on",
+      "example_usage": "Die USA bestehen darauf, dass die Inspektoren die Anlagen besuchen dürfen."
+    },
+    {
+      "term": "der Vermittler",
+      "translated_term": "the mediator",
+      "example_usage": "Die Gespräche finden mit Hilfe von Vermittlern aus anderen Ländern statt."
+    },
+    {
+      "term": "die Meinungsverschiedenheit",
+      "translated_term": "the difference of opinion",
+      "example_usage": "Aber beide Seiten haben noch große Meinungsverschiedenheiten."
+    },
+    {
+      "term": "die Meeresstraße",
+      "translated_term": "the strait",
+      "example_usage": "Durch diese Meeresstraße fließt ein großer Teil des weltweiten Öls."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Iran",
+      "translated_name": "Iran"
+    },
+    {
+      "name": "Naher Osten",
+      "translated_name": "Middle East"
+    },
+    {
+      "name": "Friedensverhandlungen",
+      "translated_name": "Peace Negotiations"
+    },
+    {
+      "name": "USA",
+      "translated_name": "USA"
+    }
+  ],
+  "sources": [
+    {
+      "name": "NPR: A U.S.-Iran dispute over nuclear inspections clouds work to finalize a war-ending deal",
+      "link_url": "https://www.npr.org/2026/06/23/nx-s1-5867322/us-iran-finalize-war-ending-deal"
+    },
+    {
+      "name": "NPR: The U.S. and Iran agree to a road map for a final deal, mediators say",
+      "link_url": "https://www.npr.org/2026/06/21/g-s1-129222/us-iran-deal-lebanon-israel-strait-hormuz-jd-vance"
+    }
+  ]
+}

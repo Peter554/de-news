@@ -1,0 +1,127 @@
+{
+  "title": "Ausfall im Bahnnetz: Züge stehen bundesweit still",
+  "translated_title": "Railway Network Outage: Trains Halt Nationwide",
+  "text": [
+    {
+      "text": "In der Nacht vom 23. auf den 24. Juni 2026 gab es in ganz Deutschland einen großen Ausfall im Bahnnetz.",
+      "translated_text": "On the night of 23 to 24 June 2026, there was a major failure in the railway network across Germany."
+    },
+    {
+      "text": "Das Funknetz für Züge, das sogenannte GSM-R-System, hat plötzlich aufgehört zu funktionieren.",
+      "translated_text": "The radio network for trains, the so-called GSM-R system, suddenly stopped working."
+    },
+    {
+      "text": "Dieses System wird benutzt, damit Zugführer und Leitstellen miteinander kommunizieren können.",
+      "translated_text": "This system is used so that train drivers and control centres can communicate with each other."
+    },
+    {
+      "text": "Ohne dieses System war es nicht mehr sicher, Züge fahren zu lassen.",
+      "translated_text": "Without this system, it was no longer safe to run trains."
+    },
+    {
+      "text": "Die Deutsche Bahn warnte zunächst vor keinem Zugverkehr bundesweit.",
+      "translated_text": "Deutsche Bahn initially warned of no rail traffic nationwide."
+    },
+    {
+      "text": "Das bedeutete, dass alle Züge in Deutschland stehen bleiben mussten.",
+      "translated_text": "This meant that all trains in Germany had to stop."
+    },
+    {
+      "text": "Viele Reisende, die in der Nacht unterwegs waren, strandeten auf Bahnhöfen.",
+      "translated_text": "Many travellers who were on the move at night got stranded at railway stations."
+    },
+    {
+      "text": "Techniker arbeiteten die ganze Nacht, um das Problem zu beheben.",
+      "translated_text": "Technicians worked through the night to fix the problem."
+    },
+    {
+      "text": "In den frühen Morgenstunden konnten die ersten Züge wieder fahren.",
+      "translated_text": "In the early hours of the morning, the first trains were able to run again."
+    },
+    {
+      "text": "Der Ausfall hat aber viele Verbindungen verzögert und Fahrpläne durcheinandergebracht.",
+      "translated_text": "However, the failure delayed many connections and disrupted timetables."
+    },
+    {
+      "text": "Der Vorfall zeigt, wie abhängig das moderne Bahnsystem von der digitalen Technik ist.",
+      "translated_text": "The incident shows how dependent the modern railway system is on digital technology."
+    },
+    {
+      "text": "Experten warnen seit Jahren, dass die Bahn ihre Infrastruktur modernisieren muss.",
+      "translated_text": "Experts have been warning for years that the railways need to modernise their infrastructure."
+    },
+    {
+      "text": "Das GSM-R-System ist in vielen Ländern Europas in Betrieb.",
+      "translated_text": "The GSM-R system is in operation in many European countries."
+    },
+    {
+      "text": "Ein europaweiter Ausfall wäre eine noch größere Katastrophe gewesen.",
+      "translated_text": "A Europe-wide failure would have been an even bigger disaster."
+    },
+    {
+      "text": "Die Deutsche Bahn hat versprochen, die Ursache des Ausfalls genau zu untersuchen.",
+      "translated_text": "Deutsche Bahn has promised to investigate the cause of the failure thoroughly."
+    },
+    {
+      "text": "Außerdem sollen Maßnahmen ergriffen werden, um einen solchen Ausfall in Zukunft zu verhindern.",
+      "translated_text": "In addition, measures are to be taken to prevent such a failure in the future."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Ausfall",
+      "translated_term": "the failure / outage",
+      "example_usage": "In der Nacht vom 23. auf den 24. Juni 2026 gab es in ganz Deutschland einen großen Ausfall im Bahnnetz."
+    },
+    {
+      "term": "das Funknetz",
+      "translated_term": "the radio network",
+      "example_usage": "Das Funknetz für Züge, das sogenannte GSM-R-System, hat plötzlich aufgehört zu funktionieren."
+    },
+    {
+      "term": "die Leitstelle",
+      "translated_term": "the control centre",
+      "example_usage": "Dieses System wird benutzt, damit Zugführer und Leitstellen miteinander kommunizieren können."
+    },
+    {
+      "term": "stranden",
+      "translated_term": "to get stranded",
+      "example_usage": "Viele Reisende, die in der Nacht unterwegs waren, strandeten auf Bahnhöfen."
+    },
+    {
+      "term": "beheben",
+      "translated_term": "to fix / to resolve",
+      "example_usage": "Techniker arbeiteten die ganze Nacht, um das Problem zu beheben."
+    },
+    {
+      "term": "die Ursache",
+      "translated_term": "the cause",
+      "example_usage": "Die Deutsche Bahn hat versprochen, die Ursache des Ausfalls genau zu untersuchen."
+    },
+    {
+      "term": "die Infrastruktur",
+      "translated_term": "the infrastructure",
+      "example_usage": "Experten warnen seit Jahren, dass die Bahn ihre Infrastruktur modernisieren muss."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Infrastruktur",
+      "translated_name": "Infrastructure"
+    },
+    {
+      "name": "Öffentlicher Verkehr",
+      "translated_name": "Public Transport"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local Germany: Today in Germany – a roundup of the latest news on Wednesday 24 June 2026",
+      "link_url": "https://www.thelocal.de/20260624/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-126"
+    }
+  ]
+}
