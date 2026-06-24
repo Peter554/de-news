@@ -1,0 +1,131 @@
+{
+  "title": "Deutschland droht eine Rekord-Hitzewelle Ende Juni",
+  "translated_title": "Germany Faces a Record Heatwave at the End of June",
+  "text": [
+    {
+      "text": "Der Deutsche Wetterdienst hat eine starke Hitzewelle für Deutschland angekündigt.",
+      "translated_text": "The German Weather Service has announced a severe heatwave for Germany."
+    },
+    {
+      "text": "Die Temperaturen könnten bis zum Ende der Woche auf fast 40 Grad Celsius steigen.",
+      "translated_text": "Temperatures could rise to almost 40 degrees Celsius by the end of the week."
+    },
+    {
+      "text": "Das wäre ein neuer Rekord für den Monat Juni in Deutschland.",
+      "translated_text": "That would be a new record for the month of June in Germany."
+    },
+    {
+      "text": "Besonders heiß wird es in den westlichen und südlichen Teilen des Landes.",
+      "translated_text": "It will be particularly hot in the western and southern parts of the country."
+    },
+    {
+      "text": "Danach soll die Hitze auch in den Norden Deutschlands ziehen.",
+      "translated_text": "After that, the heat is expected to move to northern Germany as well."
+    },
+    {
+      "text": "Eine Abkühlung ist vorerst nicht in Sicht.",
+      "translated_text": "There is no relief from the heat in sight for the time being."
+    },
+    {
+      "text": "Der Wetterdienst hat für mehrere Regionen eine offizielle Hitzewarnung ausgegeben.",
+      "translated_text": "The weather service has issued an official heat warning for several regions."
+    },
+    {
+      "text": "Die Behörden raten der Bevölkerung, viel Wasser zu trinken und die direkte Sonne zu meiden.",
+      "translated_text": "Authorities advise the public to drink plenty of water and avoid direct sunlight."
+    },
+    {
+      "text": "Ältere Menschen und kleine Kinder sind bei Hitze besonders gefährdet.",
+      "translated_text": "Older people and young children are particularly at risk in the heat."
+    },
+    {
+      "text": "Viele Schulen und öffentliche Gebäude in Deutschland haben keine Klimaanlage.",
+      "translated_text": "Many schools and public buildings in Germany do not have air conditioning."
+    },
+    {
+      "text": "Das ist ein Problem, denn Hitzewellen werden durch den Klimawandel immer häufiger.",
+      "translated_text": "This is a problem, because heatwaves are becoming more and more frequent due to climate change."
+    },
+    {
+      "text": "Klimaexperten sagen, dass solche Extremereignisse in Zukunft noch öfter auftreten werden.",
+      "translated_text": "Climate experts say such extreme events will occur even more often in the future."
+    },
+    {
+      "text": "Die Feuerwehren sind in erhöhter Bereitschaft, weil das Risiko von Waldbränden steigt.",
+      "translated_text": "Fire brigades are on high alert because the risk of forest fires is increasing."
+    },
+    {
+      "text": "Auch die Landwirte machen sich Sorgen, da die Ernte durch die Trockenheit leiden kann.",
+      "translated_text": "Farmers are also worried as the harvest can suffer due to the drought."
+    },
+    {
+      "text": "In vielen Städten gibt es Kühlräume, wo Menschen Abkühlung suchen können.",
+      "translated_text": "In many cities there are cooling rooms where people can seek relief from the heat."
+    },
+    {
+      "text": "Die Hitzewellen der letzten Jahre zeigen, wie wichtig es ist, gegen den Klimawandel zu handeln.",
+      "translated_text": "The heatwaves of recent years show how important it is to take action against climate change."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Hitzewelle",
+      "translated_term": "the heatwave",
+      "example_usage": "Der Deutsche Wetterdienst hat eine starke Hitzewelle für Deutschland angekündigt."
+    },
+    {
+      "term": "ankündigen",
+      "translated_term": "to announce",
+      "example_usage": "Der Deutsche Wetterdienst hat eine starke Hitzewelle für Deutschland angekündigt."
+    },
+    {
+      "term": "die Hitzewarnung",
+      "translated_term": "the heat warning",
+      "example_usage": "Der Wetterdienst hat für mehrere Regionen eine offizielle Hitzewarnung ausgegeben."
+    },
+    {
+      "term": "gefährdet",
+      "translated_term": "at risk / endangered",
+      "example_usage": "Ältere Menschen und kleine Kinder sind bei Hitze besonders gefährdet."
+    },
+    {
+      "term": "der Klimawandel",
+      "translated_term": "the climate change",
+      "example_usage": "Das ist ein Problem, denn Hitzewellen werden durch den Klimawandel immer häufiger."
+    },
+    {
+      "term": "der Waldbrand",
+      "translated_term": "the forest fire",
+      "example_usage": "Die Feuerwehren sind in erhöhter Bereitschaft, weil das Risiko von Waldbränden steigt."
+    },
+    {
+      "term": "die Trockenheit",
+      "translated_term": "the drought / dryness",
+      "example_usage": "Auch die Landwirte machen sich Sorgen, da die Ernte durch die Trockenheit leiden kann."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Deutschland",
+      "translated_name": "Germany"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    },
+    {
+      "name": "Klimapolitik",
+      "translated_name": "Climate Policy"
+    },
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    }
+  ],
+  "sources": [
+    {
+      "name": "The Local Germany: Today in Germany – a roundup of the latest news on Wednesday 24 June 2026",
+      "link_url": "https://www.thelocal.de/20260624/today-in-germany-a-roundup-of-the-latest-news-on-wednesday-126"
+    }
+  ]
+}
