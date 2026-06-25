@@ -1,0 +1,126 @@
+{
+  "title": "Großbritannien erlebt historische Hitzewelle",
+  "translated_title": "Great Britain Experiences Historic Heatwave",
+  "text": [
+    {
+      "text": "In Großbritannien herrscht eine extreme Hitzewelle.",
+      "translated_text": "Great Britain is experiencing an extreme heatwave."
+    },
+    {
+      "text": "Am 24. Juni 2026 wurde ein neuer Temperaturrekord für den Monat Juni aufgestellt.",
+      "translated_text": "On 24 June 2026, a new temperature record for the month of June was set."
+    },
+    {
+      "text": "In Gosport in der Grafschaft Hampshire wurden 36,1 Grad Celsius gemessen.",
+      "translated_text": "In Gosport in the county of Hampshire, 36.1 degrees Celsius was recorded."
+    },
+    {
+      "text": "Das ist der höchste je in Großbritannien gemessene Juniwert.",
+      "translated_text": "This is the highest June temperature ever recorded in Great Britain."
+    },
+    {
+      "text": "Der alte Rekord stammte aus den Jahren 1957 und 1976 und lag bei 35,6 Grad Celsius.",
+      "translated_text": "The previous record dated from 1957 and 1976 and stood at 35.6 degrees Celsius."
+    },
+    {
+      "text": "Am 25. Juni könnten die Temperaturen in einigen Gebieten sogar auf 40 Grad Celsius steigen.",
+      "translated_text": "On 25 June, temperatures in some areas could even rise to 40 degrees Celsius."
+    },
+    {
+      "text": "Eine sogenannte Hitzeglocke über Westeuropa ist für das extreme Wetter verantwortlich.",
+      "translated_text": "A so-called \"heat dome\" over Western Europe is responsible for the extreme weather."
+    },
+    {
+      "text": "Der Wetterdienst Met Office hat eine rote Wetterwarnung ausgegeben.",
+      "translated_text": "The Met Office weather service has issued a red weather warning."
+    },
+    {
+      "text": "Die Warnung gilt für den Südwesten, Südosten, London und die Midlands bis zum 26. Juni.",
+      "translated_text": "The warning applies to the South West, South East, London and the Midlands until 26 June."
+    },
+    {
+      "text": "Viele Schulen haben wegen der Hitze früher geschlossen.",
+      "translated_text": "Many schools have closed early due to the heat."
+    },
+    {
+      "text": "Bahnbetreiber empfehlen ihren Fahrgästen, unnötige Reisen zu vermeiden.",
+      "translated_text": "Rail operators are advising their passengers to avoid unnecessary travel."
+    },
+    {
+      "text": "Die hohe Luftfeuchtigkeit macht die Hitze besonders gefährlich.",
+      "translated_text": "The high air humidity makes the heat particularly dangerous."
+    },
+    {
+      "text": "Ärzte raten, viel Wasser zu trinken und in der Mittagshitze im Haus zu bleiben.",
+      "translated_text": "Doctors are advising people to drink plenty of water and stay indoors during the midday heat."
+    },
+    {
+      "text": "Besonders gefährdet sind ältere Menschen und Kinder.",
+      "translated_text": "Elderly people and children are particularly at risk."
+    },
+    {
+      "text": "Experten sagen, dass solche Hitzewellen durch den Klimawandel häufiger werden.",
+      "translated_text": "Experts say that such heatwaves are becoming more frequent due to climate change."
+    },
+    {
+      "text": "Die Behörden bitten die Bevölkerung, aufeinander zu achten und gefährdeten Nachbarn zu helfen.",
+      "translated_text": "The authorities are asking the public to look out for each other and to help vulnerable neighbours."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "die Hitzewelle",
+      "translated_term": "the heatwave",
+      "example_usage": "In Großbritannien herrscht eine extreme Hitzewelle."
+    },
+    {
+      "term": "der Temperaturrekord",
+      "translated_term": "the temperature record",
+      "example_usage": "Am 24. Juni 2026 wurde ein neuer Temperaturrekord für den Monat Juni aufgestellt."
+    },
+    {
+      "term": "ausgeben",
+      "translated_term": "to issue",
+      "example_usage": "Der Wetterdienst Met Office hat eine rote Wetterwarnung ausgegeben."
+    },
+    {
+      "term": "die Luftfeuchtigkeit",
+      "translated_term": "the air humidity",
+      "example_usage": "Die hohe Luftfeuchtigkeit macht die Hitze besonders gefährlich."
+    },
+    {
+      "term": "gefährdet",
+      "translated_term": "at risk / vulnerable",
+      "example_usage": "Besonders gefährdet sind ältere Menschen und Kinder."
+    },
+    {
+      "term": "der Klimawandel",
+      "translated_term": "climate change",
+      "example_usage": "Experten sagen, dass solche Hitzewellen durch den Klimawandel häufiger werden."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Großbritannien",
+      "translated_name": "Great Britain"
+    },
+    {
+      "name": "Wetter",
+      "translated_name": "Weather"
+    },
+    {
+      "name": "Naturkatastrophen",
+      "translated_name": "Natural Disasters"
+    }
+  ],
+  "sources": [
+    {
+      "name": "ITV News: UK braced for record-breaking 40°C as red weather warnings come into force",
+      "link_url": "https://www.itv.com/news/2026-06-24/uk-braced-for-record-breaking-40c-as-red-weather-warnings-come-into-force"
+    },
+    {
+      "name": "Met Office: Red Extreme Heat Warning in force as record-breaking June temperatures forecast",
+      "link_url": "https://www.metoffice.gov.uk/about-us/news-and-media/media-centre/weather-and-climate-news/2026/red-extreme-heat-warning-in-force-as-record-breaking-june-temperatures-forecast-"
+    }
+  ]
+}

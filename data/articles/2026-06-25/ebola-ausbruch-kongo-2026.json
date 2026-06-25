@@ -1,0 +1,142 @@
+{
+  "title": "Ebola-Ausbruch im Kongo breitet sich auf andere Länder aus",
+  "translated_title": "Ebola Outbreak in Congo Spreads to Other Countries",
+  "text": [
+    {
+      "text": "Im Jahr 2026 gibt es im Kongo einen sehr ernsten Ebola-Ausbruch.",
+      "translated_text": "In 2026, there is a very serious Ebola outbreak in Congo."
+    },
+    {
+      "text": "Die Demokratische Republik Kongo kämpft seit Monaten gegen die gefährliche Krankheit.",
+      "translated_text": "The Democratic Republic of Congo has been fighting the dangerous disease for months."
+    },
+    {
+      "text": "Bis Ende Juni haben die Behörden mehr als 1.094 bestätigte Fälle gemeldet.",
+      "translated_text": "By the end of June, the authorities had reported more than 1,094 confirmed cases."
+    },
+    {
+      "text": "Dabei sind bereits mehr als 277 Menschen gestorben.",
+      "translated_text": "More than 277 people have already died as a result."
+    },
+    {
+      "text": "Es handelt sich damit um den zweitgrößten Ebola-Ausbruch in der Geschichte.",
+      "translated_text": "This makes it the second-largest Ebola outbreak in history."
+    },
+    {
+      "text": "Dieser Ausbruch wird durch den sogenannten Bundibugyo-Stamm des Ebola-Virus verursacht.",
+      "translated_text": "This outbreak is caused by the so-called Bundibugyo strain of the Ebola virus."
+    },
+    {
+      "text": "Für diesen Stamm gibt es noch keinen zugelassenen Impfstoff.",
+      "translated_text": "There is no approved vaccine for this strain yet."
+    },
+    {
+      "text": "Das macht die Bekämpfung der Krankheit besonders schwierig.",
+      "translated_text": "This makes combating the disease particularly difficult."
+    },
+    {
+      "text": "Außerdem gibt es in der betroffenen Region bewaffnete Konflikte.",
+      "translated_text": "In addition, there are armed conflicts in the affected region."
+    },
+    {
+      "text": "Diese erschweren die Arbeit der Hilfsorganisationen erheblich.",
+      "translated_text": "These considerably hamper the work of aid organisations."
+    },
+    {
+      "text": "Jetzt hat sich die Krankheit auch in andere Länder ausgebreitet.",
+      "translated_text": "Now the disease has also spread to other countries."
+    },
+    {
+      "text": "Am 24. Juni 2026 wurde in Frankreich ein Ebola-Fall bestätigt.",
+      "translated_text": "On 24 June 2026, an Ebola case was confirmed in France."
+    },
+    {
+      "text": "Es handelt sich um eine Person, die zuvor im Kongo war.",
+      "translated_text": "The person had previously been in Congo."
+    },
+    {
+      "text": "Auch ein US-Bürger musste zur medizinischen Behandlung nach Deutschland gebracht werden.",
+      "translated_text": "An American citizen also had to be transported to Germany for medical treatment."
+    },
+    {
+      "text": "Die Weltgesundheitsorganisation (WHO) und die Vereinten Nationen reagieren auf den Ausbruch.",
+      "translated_text": "The World Health Organization (WHO) and the United Nations are responding to the outbreak."
+    },
+    {
+      "text": "Sie schicken mehr Experten und Hilfsmittel in die Region.",
+      "translated_text": "They are sending more experts and supplies to the region."
+    },
+    {
+      "text": "Ärzte ohne Grenzen arbeitet ebenfalls vor Ort.",
+      "translated_text": "Médecins Sans Frontières (MSF) is also working on the ground."
+    },
+    {
+      "text": "Ebola überträgt sich durch direkten Kontakt mit Körperflüssigkeiten einer infizierten Person.",
+      "translated_text": "Ebola spreads through direct contact with the bodily fluids of an infected person."
+    },
+    {
+      "text": "Typische Symptome sind hohes Fieber, Müdigkeit und innere Blutungen.",
+      "translated_text": "Typical symptoms are high fever, fatigue, and internal bleeding."
+    },
+    {
+      "text": "Experten fordern schnelles internationales Handeln, um die weitere Ausbreitung zu stoppen.",
+      "translated_text": "Experts are calling for rapid international action to stop the further spread."
+    }
+  ],
+  "key_vocab": [
+    {
+      "term": "der Ausbruch",
+      "translated_term": "the outbreak",
+      "example_usage": "Im Jahr 2026 gibt es im Kongo einen sehr ernsten Ebola-Ausbruch."
+    },
+    {
+      "term": "der Stamm",
+      "translated_term": "the strain",
+      "example_usage": "Dieser Ausbruch wird durch den sogenannten Bundibugyo-Stamm des Ebola-Virus verursacht."
+    },
+    {
+      "term": "der Impfstoff",
+      "translated_term": "the vaccine",
+      "example_usage": "Für diesen Stamm gibt es noch keinen zugelassenen Impfstoff."
+    },
+    {
+      "term": "sich ausbreiten",
+      "translated_term": "to spread",
+      "example_usage": "Jetzt hat sich die Krankheit auch in andere Länder ausgebreitet."
+    },
+    {
+      "term": "die Körperflüssigkeit",
+      "translated_term": "the bodily fluid",
+      "example_usage": "Ebola überträgt sich durch direkten Kontakt mit Körperflüssigkeiten einer infizierten Person."
+    },
+    {
+      "term": "erschweren",
+      "translated_term": "to complicate / to hamper",
+      "example_usage": "Bewaffnete Konflikte erschweren die Arbeit der Hilfsorganisationen erheblich."
+    }
+  ],
+  "tags": [
+    {
+      "name": "Epidemie",
+      "translated_name": "Epidemic"
+    },
+    {
+      "name": "Afrika",
+      "translated_name": "Africa"
+    },
+    {
+      "name": "Öffentliche Gesundheit",
+      "translated_name": "Public Health"
+    }
+  ],
+  "sources": [
+    {
+      "name": "UN News: Ebola outbreak update, June 2026",
+      "link_url": "https://news.un.org/en/story/2026/06/1167765"
+    },
+    {
+      "name": "WHO Disease Outbreak News: Ebola virus disease – Democratic Republic of the Congo",
+      "link_url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON608"
+    }
+  ]
+}
